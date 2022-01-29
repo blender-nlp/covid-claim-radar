@@ -10,7 +10,7 @@
 ## Overview
 
 <p align="center">
-  <img src="overview.jpg" alt="Photo" style="width="100%;"/>
+  <img src="overview.png" alt="Photo" style="width="100%;"/>
 </p>
 
 The COVID-19 pandemic has received extensive media coverage, with a vast variety of claims made about different aspects of the virus. In order to track these claims,  we present [COVID-19 Claim Radar](http://18.221.187.153/), a system that automatically extracts claims relating to COVID-19 in news articles.
