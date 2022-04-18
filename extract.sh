@@ -1,9 +1,15 @@
-#!/usr/bin/env bash
+#!/usr/bin/env bash -e
+
+if [ "$#" -ne 5 ]; then
+    echo "Usage: $0 data_root query_root parent_child_tab_path xpo_json gpu_device"
+    exit 1
+fi
+
 lang=en
-data_root=$1  # the directory contains LTF subdirectory
+data_root=$1  # the directory contains ltf and rsd subdirectories
 query_root=$2 # Condition 5 query directory
 parent_child_tab_path=$3 # /shared/nas/data/m1/AIDA_Data/LDC_raw_data/LDC2021E11_AIDA_Phase_3_Practice_Topic_Source_Data_V2.0/docs/parent_children.tab
-xpo_json=$4 # the ontology xpo file: xpo_v4_draft.json
+xpo_json=$4 # the ontology xpo file: xpo_v4_draft.json   # TODO: where do we get this?
 gpu_device=$5
 
 ######################################################
@@ -18,6 +24,7 @@ ie_entity_cs=${ie_dir}/cs/entity.cs
 ie_relation_cs=${ie_dir}/cs/relation.cs
 # qnode linking
 qnode_dir=${data_root}/qnode
+mkdir -p ${qnode_dir}
 el_results_cs=${qnode_dir}/el_entity.cs
 el_results_tab=${qnode_dir}/el_entity.tab
 entity_coref_results_cs=${qnode_dir}/coref_entity.cs
@@ -33,7 +40,6 @@ merged_cs_link=${qnode_dir}/final_merged.cs
 claim_dir=${data_root}/claim
 claim_json=${claim_dir}/claims.json
 claim_qnode_json=${claim_dir}/claims_qnode.json
-cat ${final_entity_cs} ${final_relation_cs} ${final_event_cs} > ${merged_cs_link}
 
 
 ######################################################
@@ -52,7 +58,7 @@ docker run --rm -i -v ${data_root}:${data_root} -w /oneie --gpus device=${gpu_de
 ######################################################
 # Claim Extraction
 ######################################################
-docker run  --rm -v ${data_root}:/var/spool/input/ -v ${query_root}:/var/spool/topics/ -v ${claim_dir}:/var/spool/output/ -t revanth3:aida_claim_v2
+docker run  --rm --gpus 1 -v ${data_root}:/var/spool/input/ -v ${query_root}:/var/spool/topics/ -v ${claim_dir}:/var/spool/output/ -t blendernlp/covid-claim-radar:revanth3_aida_claim_v2
 
 ######################################################
 # Qnode linking
@@ -60,7 +66,7 @@ docker run  --rm -v ${data_root}:/var/spool/input/ -v ${query_root}:/var/spool/t
 # Entity Linking
 docker run --net=host --gpus device=${gpu_device} --rm -v ${data_root}:${data_root} laituan245/wikidata_el:aida2022 \
            --input_cs=${ie_entity_cs}                   \
-           --ltf_dir=${ltf_dir}                         \
+           --ltf_dir=${ltf_source}                         \
 	   --output_cs=${el_results_cs}                 \
 	   --output_tab=${el_results_tab}
 
@@ -69,7 +75,7 @@ docker run --net=host --gpus device=${gpu_device} --rm -v ${data_root}:${data_ro
 docker run --gpus device=${gpu_device} --rm -v ${data_root}:${data_root} laituan245/spanbert_entity_coref:aida2022 \
                                --edl_official=${el_results_tab}   \
                                --edl_freebase=${el_results_tab}   \
-			       --ltf_dir=${ltf_dir}               \
+			       --ltf_dir=${ltf_source}               \
                                --output_tab=${entity_coref_results_tab} \
 			       --output_cs=${entity_coref_results_cs}
 
@@ -78,7 +84,7 @@ docker run --gpus device=${gpu_device} --rm -v ${data_root}:${data_root} laituan
 	                       --input=${ie_event_cs} \
 			       --cs_file=${event_coref_results_cs} \
 			       --tab_file=${event_coref_results_tab} \
-			       --ltf_dir=${ltf_dir}
+			       --ltf_dir=${ltf_source}
 
 
 # Add type qnode
@@ -105,12 +111,14 @@ docker run --rm -v ${data_root}:${data_root} laituan245/aida_postprocess \
 docker run --rm -v ${data_root}:${data_root} laituan245/aida_attrs_classify \
 	   --input=${near_final_event_cs} \
 	   --output=${final_event_cs} \
-	   --ltf_dir=${ltf_dir}
+	   --ltf_dir=${ltf_source}
 
 # claimer Qnode linking
 docker run --net=host --gpus ${gpu_device} --rm -v ${data_root}:${data_root} laituan245/wikidata_el_demo:covid-claim-radar --input_fp ${claim_json} --output_fp ${claim_qnode_json}
 
+# TODO: this also needs to be inside a container, right?
 # AIF converter
+cat ${final_entity_cs} ${final_relation_cs} ${final_event_cs} > ${merged_cs_link}
 python aif_claim.py --input_cs ${merged_cs_link} --ltf_dir ${ltf_source} \
     --output_ttl_dir ${ttl_output} --lang ${lang} --eval m36 \
     --parent_child_tab_path ${parent_child_tab_path} \
