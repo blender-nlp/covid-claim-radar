@@ -1,7 +1,7 @@
 #!/usr/bin/env bash -e
 
-if [ "$#" -ne 5 ]; then
-    echo "Usage: $0 data_root query_root parent_child_tab_path xpo_json gpu_device"
+if [ "$#" -ne 4 ]; then
+    echo "Usage: $0 data_root query_root parent_child_tab_path gpu_device"
     exit 1
 fi
 
@@ -9,14 +9,29 @@ lang=en
 data_root=$1  # the directory contains ltf and rsd subdirectories
 query_root=$2 # Condition 5 query directory
 parent_child_tab_path=$3 # /shared/nas/data/m1/AIDA_Data/LDC_raw_data/LDC2021E11_AIDA_Phase_3_Practice_Topic_Source_Data_V2.0/docs/parent_children.tab
-xpo_json=$4 # the ontology xpo file: xpo_v4_draft.json   # TODO: where do we get this?
-gpu_device=$5
+gpu_device=$4
 
 ######################################################
 # Arguments
 ######################################################
+
+if [ ! -e ${data_root}/ltf ]; then
+    echo "missing ${data_root}/ltf"
+    exit 1
+fi
+if [ ! -e ${data_root}/rsd ]; then
+    echo "missing ${data_root}/rsd"
+    exit 1
+fi
+dir_count=$(ls ${data_root} | wc -l)
+if [ "$dir_count" -ne "2" ]; then
+    echo "unexpected dirs under ${data_root}; only ltf nd rsd allowed"
+    exit 1
+fi
+
 # ltf source folder path
 ltf_source=${data_root}/ltf
+
 # oneie
 ie_dir=${data_root}/merge
 ie_event_cs=${ie_dir}/cs/event.cs
@@ -30,7 +45,7 @@ el_results_tab=${qnode_dir}/el_entity.tab
 entity_coref_results_cs=${qnode_dir}/coref_entity.cs
 entity_coref_results_tab=${qnode_dir}/coref_entity.tab
 event_coref_results_cs=${qnode_dir}/coref_event.cs
-event_coref_results_tab=${qnode_dir}/coref_entity.tab
+event_coref_results_tab=${qnode_dir}/coref_event.tab
 final_entity_cs=${qnode_dir}/final_entity.cs
 final_relation_cs=${qnode_dir}/final_relation.cs
 near_final_event_cs=${qnode_dir}/near_final_event.cs
@@ -38,7 +53,7 @@ final_event_cs=${qnode_dir}/final_event.cs
 merged_cs_link=${qnode_dir}/final_merged.cs
 # claim output
 claim_dir=${data_root}/claim
-claim_json=${claim_dir}/claims.json
+claim_json=${claim_dir}/claim_output.json
 claim_qnode_json=${claim_dir}/claims_qnode.json
 
 
@@ -116,8 +131,9 @@ docker run --rm -v ${data_root}:${data_root} laituan245/aida_attrs_classify \
 # claimer Qnode linking
 docker run --net=host --gpus ${gpu_device} --rm -v ${data_root}:${data_root} laituan245/wikidata_el_demo:covid-claim-radar --input_fp ${claim_json} --output_fp ${claim_qnode_json}
 
-# TODO: this also needs to be inside a container, right?
+# TODO: this needs to be inside a container
 # AIF converter
+xpo_json=/should/be/inside/aif_claim/docker
 cat ${final_entity_cs} ${final_relation_cs} ${final_event_cs} > ${merged_cs_link}
 python aif_claim.py --input_cs ${merged_cs_link} --ltf_dir ${ltf_source} \
     --output_ttl_dir ${ttl_output} --lang ${lang} --eval m36 \
