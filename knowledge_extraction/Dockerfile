@@ -47,7 +47,7 @@ RUN /opt/conda/bin/conda clean -tipsy
 # preprocessing using py36
 ADD ./postprocessing /postprocessing
 RUN cd /postprocessing/AIDA-Interchange-Format-master.m54/python && \
-    /opt/conda/envs/py36/bin/python setup.py install
+    /opt/conda/envs/genie/bin/python setup.py install
 
 RUN /opt/conda/bin/conda clean -tipsy
 
