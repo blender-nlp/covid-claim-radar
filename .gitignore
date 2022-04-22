@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+knowledge_extraction/gen_arg/models
+
+./extract.sh

@@ -133,9 +133,10 @@ docker run --net=host --gpus ${gpu_device} --rm -v ${data_root}:${data_root} lai
 
 # TODO: this needs to be inside a container
 # AIF converter
-xpo_json=/should/be/inside/aif_claim/docker
-cat ${final_entity_cs} ${final_relation_cs} ${final_event_cs} > ${merged_cs_link}
-python aif_claim.py --input_cs ${merged_cs_link} --ltf_dir ${ltf_source} \
+xpo_json=./knowledge_extraction/postprocessing/params/xpo_v4.1_draft.json
+cat ${final_entity_cs} ${final_relation_cs} ${final_event_cs} > ${final_cs}
+docker run --rm -v ${final_cs}:${final_cs} -v ${ltf_source}:${ltf_source} -v ${ttl_output}:${ttl_output} -v ${parent_child_tab_path}:${parent_child_tab_path} -v ${claim_qnode_json}:${claim_qnode_json} -v ${xpo_json}:${xpo_json} blendernlp/covid-claim-radar:ke \ 
+	/opt/conda/envs/py36/bin/python aif_claim.py --input_cs ${final_cs} --ltf_dir ${ltf_source} \
     --output_ttl_dir ${ttl_output} --lang ${lang} --eval m36 \
     --parent_child_tab_path ${parent_child_tab_path} \
     --claim_json ${claim_qnode_json} \
@@ -145,3 +146,4 @@ python aif_claim.py --input_cs ${merged_cs_link} --ltf_dir ${ltf_source} \
 
 chmod -R 777 ${ttl_output}
 echo ${ttl_output}
+
