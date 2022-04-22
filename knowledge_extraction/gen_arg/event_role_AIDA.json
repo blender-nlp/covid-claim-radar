@@ -1,0 +1,5551 @@
+{
+    "ArtifactExistence.ArtifactFailure.MechanicalFailure": {
+        "event_id": "LDC_evt_152",
+        "template": "<arg1> mechanical artifact failed due to <arg2> instrument at <arg3> place",
+        "i-label": 1,
+        "keywords": [],
+        "roles": [
+            "MechanicalArtifact",
+            "Instrument",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "com",
+                "veh",
+                "wea"
+            ],
+            [
+                "com",
+                "wea"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "ArtifactExistence.DamageDestroy": {
+        "event_id": "LDC_evt_001",
+        "template": "<arg1> damaged or destroyed <arg2> using <arg3> instrument in <arg4> place",
+        "i-label": 2,
+        "keywords": [],
+        "roles": [
+            "DamagerDestroyer",
+            "Artifact",
+            "Instrument",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "bal",
+                "com",
+                "fac",
+                "loc",
+                "mon",
+                "veh",
+                "wea"
+            ],
+            [
+                "com",
+                "veh",
+                "wea"
+            ],
+            [
+                "fac",
+                "loc",
+                "gpe"
+            ]
+        ]
+    },
+    "ArtifactExistence.DamageDestroy.Damage": {
+        "event_id": "LDC_evt_002",
+        "template": "<arg1> damaged <arg2> using <arg3> instrument in <arg4> place",
+        "i-label": 3,
+        "keywords": [],
+        "roles": [
+            "Damager",
+            "Artifact",
+            "Instrument",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "bal",
+                "com",
+                "fac",
+                "loc",
+                "mon",
+                "veh",
+                "wea"
+            ],
+            [
+                "com",
+                "veh",
+                "wea"
+            ],
+            [
+                "fac",
+                "loc",
+                "gpe"
+            ]
+        ]
+    },
+    "ArtifactExistence.DamageDestroy.Destroy": {
+        "event_id": "LDC_evt_003",
+        "template": "<arg1> destroyed <arg2> using <arg3> instrument in <arg4> place",
+        "i-label": 4,
+        "keywords": [],
+        "roles": [
+            "Destroyer",
+            "Artifact",
+            "Instrument",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "bal",
+                "com",
+                "fac",
+                "loc",
+                "mon",
+                "veh",
+                "wea"
+            ],
+            [
+                "com",
+                "veh",
+                "wea"
+            ],
+            [
+                "fac",
+                "loc",
+                "gpe"
+            ]
+        ]
+    },
+    "ArtifactExistence.Shortage.Shortage": {
+        "event_id": "LDC_evt_149",
+        "template": "<arg1> experienced a shortage of <arg2> supply at <arg3> place",
+        "i-label": 5,
+        "keywords": [],
+        "roles": [
+            "Experiencer",
+            "Supply",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "bal",
+                "com",
+                "fac",
+                "mon",
+                "veh",
+                "wea"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Conflict.Attack": {
+        "event_id": "LDC_evt_004",
+        "template": "<arg1> attacked <arg2> using <arg3> at <arg4> place",
+        "i-label": 6,
+        "keywords": [],
+        "roles": [
+            "Attacker",
+            "Target",
+            "Instrument",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac",
+                "per",
+                "com",
+                "veh",
+                "wea",
+                "sid"
+            ],
+            [
+                "com",
+                "veh",
+                "wea"
+            ],
+            [
+                "fac",
+                "loc",
+                "gpe"
+            ]
+        ]
+    },
+    "Conflict.Attack.AirstrikeMissileStrike": {
+        "event_id": "LDC_evt_005",
+        "template": "<arg1> attacked <arg2> using <arg3> at <arg4> place",
+        "i-label": 7,
+        "keywords": [],
+        "roles": [
+            "Attacker",
+            "Target",
+            "Instrument",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac",
+                "per",
+                "com",
+                "veh",
+                "wea",
+                "sid"
+            ],
+            [
+                "com",
+                "veh",
+                "wea"
+            ],
+            [
+                "fac",
+                "loc",
+                "gpe"
+            ]
+        ]
+    },
+    "Conflict.Attack.BiologicalChemicalPoisonAttack": {
+        "event_id": "LDC_evt_006",
+        "template": "<arg1> attacked <arg2> using <arg3> at <arg4> place",
+        "i-label": 8,
+        "keywords": [],
+        "roles": [
+            "Attacker",
+            "Target",
+            "Instrument",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac",
+                "per",
+                "com",
+                "veh",
+                "wea",
+                "sid"
+            ],
+            [
+                "com",
+                "wea"
+            ],
+            [
+                "fac",
+                "loc",
+                "gpe"
+            ]
+        ]
+    },
+    "Conflict.Attack.Bombing": {
+        "event_id": "LDC_evt_007",
+        "template": "<arg1> attacked <arg2> using <arg3> at <arg4> place",
+        "i-label": 9,
+        "keywords": [],
+        "roles": [
+            "Attacker",
+            "Target",
+            "Instrument",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac",
+                "per",
+                "com",
+                "veh",
+                "wea",
+                "sid"
+            ],
+            [
+                "com",
+                "veh",
+                "wea"
+            ],
+            [
+                "fac",
+                "loc",
+                "gpe"
+            ]
+        ]
+    },
+    "Conflict.Attack.FirearmAttack": {
+        "event_id": "LDC_evt_008",
+        "template": "<arg1> attacked <arg2> using <arg3> at <arg4> place",
+        "i-label": 10,
+        "keywords": [],
+        "roles": [
+            "Attacker",
+            "Target",
+            "Instrument",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac",
+                "per",
+                "com",
+                "veh",
+                "wea",
+                "sid"
+            ],
+            [
+                "com",
+                "veh",
+                "wea"
+            ],
+            [
+                "fac",
+                "loc",
+                "gpe"
+            ]
+        ]
+    },
+    "Conflict.Attack.Hanging": {
+        "event_id": "LDC_evt_009",
+        "template": "<arg1> attacked <arg2> using <arg3> at <arg4> place",
+        "i-label": 11,
+        "keywords": [],
+        "roles": [
+            "Attacker",
+            "Target",
+            "Instrument",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per"
+            ],
+            [
+                "com",
+                "veh",
+                "wea"
+            ],
+            [
+                "fac",
+                "loc",
+                "gpe"
+            ]
+        ]
+    },
+    "Conflict.Attack.Invade": {
+        "event_id": "LDC_evt_010",
+        "template": "<arg1> attacked <arg2> using <arg3> at <arg4> place",
+        "i-label": 12,
+        "keywords": [],
+        "roles": [
+            "Attacker",
+            "Target",
+            "Instrument",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac",
+                "per",
+                "com",
+                "veh",
+                "wea",
+                "sid"
+            ],
+            [
+                "com",
+                "veh",
+                "wea"
+            ],
+            [
+                "fac",
+                "loc",
+                "gpe"
+            ]
+        ]
+    },
+    "Conflict.Attack.SelfDirectedBattle": {
+        "event_id": "LDC_evt_011",
+        "template": "<arg1> attacked <arg2> using <arg3> at <arg4> place",
+        "i-label": 13,
+        "keywords": [],
+        "roles": [
+            "Attacker",
+            "Target",
+            "Instrument",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac",
+                "per",
+                "com",
+                "veh",
+                "wea",
+                "sid"
+            ],
+            [
+                "com",
+                "veh",
+                "wea"
+            ],
+            [
+                "fac",
+                "loc",
+                "gpe"
+            ]
+        ]
+    },
+    "Conflict.Attack.SetFire": {
+        "event_id": "LDC_evt_012",
+        "template": "<arg1> attacked <arg2> using <arg3> at <arg4> place",
+        "i-label": 14,
+        "keywords": [],
+        "roles": [
+            "Attacker",
+            "Target",
+            "Instrument",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac",
+                "per",
+                "com",
+                "veh",
+                "wea",
+                "sid"
+            ],
+            [
+                "com",
+                "veh",
+                "wea"
+            ],
+            [
+                "fac",
+                "loc",
+                "gpe"
+            ]
+        ]
+    },
+    "Conflict.Attack.Stabbing": {
+        "event_id": "LDC_evt_013",
+        "template": "<arg1> attacked <arg2> using <arg3> at <arg4> place",
+        "i-label": 15,
+        "keywords": [],
+        "roles": [
+            "Attacker",
+            "Target",
+            "Instrument",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per"
+            ],
+            [
+                "com",
+                "veh",
+                "wea"
+            ],
+            [
+                "fac",
+                "loc",
+                "gpe"
+            ]
+        ]
+    },
+    "Conflict.Attack.StealRobHijack": {
+        "event_id": "LDC_evt_014",
+        "template": "<arg1> attacked <arg2> using <arg3> at <arg4> place, in order to take <arg5>",
+        "i-label": 16,
+        "keywords": [],
+        "roles": [
+            "Attacker",
+            "Target",
+            "Instrument",
+            "Place",
+            "Artifact"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac",
+                "per",
+                "com",
+                "veh",
+                "wea",
+                "sid"
+            ],
+            [
+                "com",
+                "veh",
+                "wea"
+            ],
+            [
+                "fac",
+                "loc",
+                "gpe"
+            ],
+            [
+                "bal",
+                "com",
+                "fac",
+                "loc",
+                "mon",
+                "veh",
+                "wea"
+            ]
+        ]
+    },
+    "Conflict.Attack.Strangling": {
+        "event_id": "LDC_evt_015",
+        "template": "<arg1> attacked <arg2> using <arg3> at <arg4> place",
+        "i-label": 17,
+        "keywords": [],
+        "roles": [
+            "Attacker",
+            "Target",
+            "Instrument",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per"
+            ],
+            [
+                "com",
+                "veh",
+                "wea"
+            ],
+            [
+                "fac",
+                "loc",
+                "gpe"
+            ]
+        ]
+    },
+    "Conflict.Coup.Coup": {
+        "event_id": "LDC_evt_151",
+        "template": "<arg1> was deposed by <arg2> at <arg3> place",
+        "i-label": 18,
+        "keywords": [],
+        "roles": [
+            "DeposedEntity",
+            "DeposingEntity",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Conflict.Demonstrate": {
+        "event_id": "LDC_evt_016",
+        "template": "<arg1> was in a demonstration at <arg2> place",
+        "i-label": 19,
+        "keywords": [],
+        "roles": [
+            "Demonstrator",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Conflict.Demonstrate.MarchProtestPoliticalGathering": {
+        "event_id": "LDC_evt_017",
+        "template": "<arg1> was in a demonstration or protest at <arg2> place",
+        "i-label": 20,
+        "keywords": [],
+        "roles": [
+            "Demonstrator",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Conflict.Yield": {
+        "event_id": "LDC_evt_018",
+        "template": "<arg1> yielded to <arg2> at <arg3> place",
+        "i-label": 21,
+        "keywords": [],
+        "roles": [
+            "Yielder",
+            "Recipient",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac",
+                "per",
+                "com",
+                "veh",
+                "wea",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Conflict.Yield.Retreat": {
+        "event_id": "LDC_evt_019",
+        "template": "<arg1> retreated from <arg2> place to <arg3> place",
+        "i-label": 22,
+        "keywords": [],
+        "roles": [
+            "Retreater",
+            "Origin",
+            "Destination"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac",
+                "per",
+                "com",
+                "veh",
+                "wea",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Conflict.Yield.Surrender": {
+        "event_id": "LDC_evt_020",
+        "template": "<arg1> surrendered to <arg2> at <arg3> place",
+        "i-label": 23,
+        "keywords": [],
+        "roles": [
+            "Surrenderer",
+            "Recipient",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Contact.Collaborate": {
+        "event_id": "LDC_evt_021",
+        "template": "<arg1> communicated with <arg2> at <arg3> place",
+        "i-label": 24,
+        "keywords": [],
+        "roles": [
+            "Participant",
+            "Participant",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Contact.Collaborate.Correspondence": {
+        "event_id": "LDC_evt_022",
+        "template": "<arg1> communicated remotely with <arg2> at <arg3> place",
+        "i-label": 25,
+        "keywords": [],
+        "roles": [
+            "Participant",
+            "Participant",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Contact.Collaborate.Meet": {
+        "event_id": "LDC_evt_023",
+        "template": "<arg1> met face-to-face with <arg2> at <arg3> place",
+        "i-label": 26,
+        "keywords": [],
+        "roles": [
+            "Participant",
+            "Participant",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Contact.CommandOrder": {
+        "event_id": "LDC_evt_024",
+        "template": "<arg1> communicated with <arg2> about <arg4> topic at <arg3> place",
+        "i-label": 27,
+        "keywords": [],
+        "roles": [
+            "Communicator",
+            "Recipient",
+            "Place",
+            "Topic"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ],
+            [
+                "event",
+                "per",
+                "org",
+                "gpe",
+                "sid",
+                "loc",
+                "fac",
+                "veh",
+                "wea",
+                "com",
+                "bal",
+                "mon",
+                "law",
+                "res",
+                "val",
+                "mhi",
+                "inf"
+            ]
+        ]
+    },
+    "Contact.CommandOrder.Broadcast": {
+        "event_id": "LDC_evt_025",
+        "template": "<arg1> communicated to <arg2> about <arg4> topic at <arg3> place (one-way communication)",
+        "i-label": 28,
+        "keywords": [],
+        "roles": [
+            "Communicator",
+            "Recipient",
+            "Place",
+            "Topic"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ],
+            [
+                "event",
+                "per",
+                "org",
+                "gpe",
+                "sid",
+                "loc",
+                "fac",
+                "veh",
+                "wea",
+                "com",
+                "bal",
+                "mon",
+                "law",
+                "res",
+                "val",
+                "mhi",
+                "inf"
+            ]
+        ]
+    },
+    "Contact.CommandOrder.Correspondence": {
+        "event_id": "LDC_evt_026",
+        "template": "<arg1> communicated remotely with <arg2> about <arg4> topic at <arg3> place",
+        "i-label": 29,
+        "keywords": [],
+        "roles": [
+            "Communicator",
+            "Recipient",
+            "Place",
+            "Topic"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ],
+            [
+                "event",
+                "per",
+                "org",
+                "gpe",
+                "sid",
+                "loc",
+                "fac",
+                "veh",
+                "wea",
+                "com",
+                "bal",
+                "mon",
+                "law",
+                "res",
+                "val",
+                "mhi",
+                "inf"
+            ]
+        ]
+    },
+    "Contact.CommandOrder.Meet": {
+        "event_id": "LDC_evt_027",
+        "template": "<arg1> met face-to-face with <arg2> about <arg4> topic at <arg3> place",
+        "i-label": 30,
+        "keywords": [],
+        "roles": [
+            "Communicator",
+            "Recipient",
+            "Place",
+            "Topic"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ],
+            [
+                "event",
+                "per",
+                "org",
+                "gpe",
+                "sid",
+                "loc",
+                "fac",
+                "veh",
+                "wea",
+                "com",
+                "bal",
+                "mon",
+                "law",
+                "res",
+                "val",
+                "mhi",
+                "inf"
+            ]
+        ]
+    },
+    "Contact.CommitmentPromiseExpressIntent": {
+        "event_id": "LDC_evt_028",
+        "template": "<arg1> communicated with <arg2> about <arg4> topic at <arg3> place",
+        "i-label": 31,
+        "keywords": [],
+        "roles": [
+            "Communicator",
+            "Recipient",
+            "Place",
+            "Topic"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ],
+            [
+                "event",
+                "per",
+                "org",
+                "gpe",
+                "sid",
+                "loc",
+                "fac",
+                "veh",
+                "wea",
+                "com",
+                "bal",
+                "mon",
+                "law",
+                "res",
+                "val",
+                "mhi",
+                "inf"
+            ]
+        ]
+    },
+    "Contact.CommitmentPromiseExpressIntent.Broadcast": {
+        "event_id": "LDC_evt_029",
+        "template": "<arg1> communicated to <arg2> about <arg4> topic at <arg3> place (one-way communication)",
+        "i-label": 32,
+        "keywords": [],
+        "roles": [
+            "Communicator",
+            "Recipient",
+            "Place",
+            "Topic"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ],
+            [
+                "event",
+                "per",
+                "org",
+                "gpe",
+                "sid",
+                "loc",
+                "fac",
+                "veh",
+                "wea",
+                "com",
+                "bal",
+                "mon",
+                "law",
+                "res",
+                "val",
+                "mhi",
+                "inf"
+            ]
+        ]
+    },
+    "Contact.CommitmentPromiseExpressIntent.Correspondence": {
+        "event_id": "LDC_evt_030",
+        "template": "<arg1> communicated remotely with <arg2> about <arg4> topic at <arg3> place",
+        "i-label": 33,
+        "keywords": [],
+        "roles": [
+            "Communicator",
+            "Recipient",
+            "Place",
+            "Topic"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ],
+            [
+                "event",
+                "per",
+                "org",
+                "gpe",
+                "sid",
+                "loc",
+                "fac",
+                "veh",
+                "wea",
+                "com",
+                "bal",
+                "mon",
+                "law",
+                "res",
+                "val",
+                "mhi",
+                "inf"
+            ]
+        ]
+    },
+    "Contact.CommitmentPromiseExpressIntent.Meet": {
+        "event_id": "LDC_evt_031",
+        "template": "<arg1> met face-to-face with <arg2> about <arg4> topic at <arg3> place",
+        "i-label": 34,
+        "keywords": [],
+        "roles": [
+            "Communicator",
+            "Recipient",
+            "Place",
+            "Topic"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ],
+            [
+                "event",
+                "per",
+                "org",
+                "gpe",
+                "sid",
+                "loc",
+                "fac",
+                "veh",
+                "wea",
+                "com",
+                "bal",
+                "mon",
+                "law",
+                "res",
+                "val",
+                "mhi",
+                "inf"
+            ]
+        ]
+    },
+    "Contact.Discussion": {
+        "event_id": "LDC_evt_032",
+        "template": "<arg1> communicated with <arg2> at <arg3> place",
+        "i-label": 35,
+        "keywords": [],
+        "roles": [
+            "Participant",
+            "Participant",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Contact.Discussion.Correspondence": {
+        "event_id": "LDC_evt_033",
+        "template": "<arg1> communicated remotely with <arg2> at <arg3> place",
+        "i-label": 36,
+        "keywords": [],
+        "roles": [
+            "Participant",
+            "Participant",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Contact.Discussion.Meet": {
+        "event_id": "LDC_evt_034",
+        "template": "<arg1> met face-to-face with <arg2> at <arg3> place",
+        "i-label": 37,
+        "keywords": [],
+        "roles": [
+            "Participant",
+            "Participant",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Contact.FuneralVigil": {
+        "event_id": "LDC_evt_035",
+        "template": "<arg1> communicated with <arg2> during a funeral or vigil for <arg3> at <arg4> place",
+        "i-label": 38,
+        "keywords": [],
+        "roles": [
+            "Participant",
+            "Participant",
+            "Deceased",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Contact.FuneralVigil.Meet": {
+        "event_id": "LDC_evt_036",
+        "template": "<arg1> met face-to-face with <arg2> during a funeral or vigil for <arg3> at <arg4> place",
+        "i-label": 39,
+        "keywords": [],
+        "roles": [
+            "Participant",
+            "Participant",
+            "Deceased",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Contact.MediaStatement": {
+        "event_id": "LDC_evt_037",
+        "template": "<arg1> communicated with <arg2> at <arg3> place",
+        "i-label": 40,
+        "keywords": [],
+        "roles": [
+            "Communicator",
+            "Recipient",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Contact.MediaStatement.Broadcast": {
+        "event_id": "LDC_evt_038",
+        "template": "<arg1> communicated to <arg2> at <arg3> place (one-way communication)",
+        "i-label": 41,
+        "keywords": [],
+        "roles": [
+            "Communicator",
+            "Recipient",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Contact.Negotiate": {
+        "event_id": "LDC_evt_039",
+        "template": "<arg1> communicated with <arg2> about <arg4> topic at <arg3> place",
+        "i-label": 42,
+        "keywords": [],
+        "roles": [
+            "Participant",
+            "Participant",
+            "Place",
+            "Topic"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ],
+            [
+                "event",
+                "per",
+                "org",
+                "gpe",
+                "sid",
+                "loc",
+                "fac",
+                "veh",
+                "wea",
+                "com",
+                "bal",
+                "mon",
+                "law",
+                "res",
+                "val",
+                "mhi",
+                "inf"
+            ]
+        ]
+    },
+    "Contact.Negotiate.Correspondence": {
+        "event_id": "LDC_evt_040",
+        "template": "<arg1> communicated remotely with <arg2> about <arg4> topic at <arg3> place",
+        "i-label": 43,
+        "keywords": [],
+        "roles": [
+            "Participant",
+            "Participant",
+            "Place",
+            "Topic"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ],
+            [
+                "event",
+                "per",
+                "org",
+                "gpe",
+                "sid",
+                "loc",
+                "fac",
+                "veh",
+                "wea",
+                "com",
+                "bal",
+                "mon",
+                "law",
+                "res",
+                "val",
+                "mhi",
+                "inf"
+            ]
+        ]
+    },
+    "Contact.Negotiate.Meet": {
+        "event_id": "LDC_evt_041",
+        "template": "<arg1> met face-to-face with <arg2> about <arg4> topic at <arg3> place",
+        "i-label": 44,
+        "keywords": [],
+        "roles": [
+            "Participant",
+            "Participant",
+            "Place",
+            "Topic"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ],
+            [
+                "event",
+                "per",
+                "org",
+                "gpe",
+                "sid",
+                "loc",
+                "fac",
+                "veh",
+                "wea",
+                "com",
+                "bal",
+                "mon",
+                "law",
+                "res",
+                "val",
+                "mhi",
+                "inf"
+            ]
+        ]
+    },
+    "Contact.Prevarication": {
+        "event_id": "LDC_evt_042",
+        "template": "<arg1> communicated with <arg2> about <arg4> topic at <arg3> place",
+        "i-label": 45,
+        "keywords": [],
+        "roles": [
+            "Communicator",
+            "Recipient",
+            "Place",
+            "Topic"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ],
+            [
+                "event",
+                "per",
+                "org",
+                "gpe",
+                "sid",
+                "loc",
+                "fac",
+                "veh",
+                "wea",
+                "com",
+                "bal",
+                "mon",
+                "law",
+                "res",
+                "val",
+                "mhi",
+                "inf"
+            ]
+        ]
+    },
+    "Contact.Prevarication.Broadcast": {
+        "event_id": "LDC_evt_043",
+        "template": "<arg1> communicated to <arg2> about <arg4> topic at <arg3> place (one-way communication)",
+        "i-label": 46,
+        "keywords": [],
+        "roles": [
+            "Communicator",
+            "Recipient",
+            "Place",
+            "Topic"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ],
+            [
+                "event",
+                "per",
+                "org",
+                "gpe",
+                "sid",
+                "loc",
+                "fac",
+                "veh",
+                "wea",
+                "com",
+                "bal",
+                "mon",
+                "law",
+                "res",
+                "val",
+                "mhi",
+                "inf"
+            ]
+        ]
+    },
+    "Contact.Prevarication.Correspondence": {
+        "event_id": "LDC_evt_044",
+        "template": "<arg1> communicated remotely with <arg2> about <arg4> topic at <arg3> place",
+        "i-label": 47,
+        "keywords": [],
+        "roles": [
+            "Communicator",
+            "Recipient",
+            "Place",
+            "Topic"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ],
+            [
+                "event",
+                "per",
+                "org",
+                "gpe",
+                "sid",
+                "loc",
+                "fac",
+                "veh",
+                "wea",
+                "com",
+                "bal",
+                "mon",
+                "law",
+                "res",
+                "val",
+                "mhi",
+                "inf"
+            ]
+        ]
+    },
+    "Contact.Prevarication.Meet": {
+        "event_id": "LDC_evt_045",
+        "template": "<arg1> met face-to-face with <arg2> about <arg4> topic at <arg3> place",
+        "i-label": 48,
+        "keywords": [],
+        "roles": [
+            "Communicator",
+            "Recipient",
+            "Place",
+            "Topic"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ],
+            [
+                "event",
+                "per",
+                "org",
+                "gpe",
+                "sid",
+                "loc",
+                "fac",
+                "veh",
+                "wea",
+                "com",
+                "bal",
+                "mon",
+                "law",
+                "res",
+                "val",
+                "mhi",
+                "inf"
+            ]
+        ]
+    },
+    "Contact.PublicStatementInPerson": {
+        "event_id": "LDC_evt_046",
+        "template": "<arg1> communicated with <arg2> at <arg3> place",
+        "i-label": 49,
+        "keywords": [],
+        "roles": [
+            "Communicator",
+            "Recipient",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Contact.PublicStatementInPerson.Broadcast": {
+        "event_id": "LDC_evt_047",
+        "template": "<arg1> communicated to <arg2> at <arg3> place (one-way communication)",
+        "i-label": 50,
+        "keywords": [],
+        "roles": [
+            "Communicator",
+            "Recipient",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Contact.RequestAdvise": {
+        "event_id": "LDC_evt_048",
+        "template": "<arg1> communicated with <arg2> about <arg4> topic at <arg3> place",
+        "i-label": 51,
+        "keywords": [],
+        "roles": [
+            "Communicator",
+            "Recipient",
+            "Place",
+            "Topic"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ],
+            [
+                "event",
+                "per",
+                "org",
+                "gpe",
+                "sid",
+                "loc",
+                "fac",
+                "veh",
+                "wea",
+                "com",
+                "bal",
+                "mon",
+                "law",
+                "res",
+                "val",
+                "mhi",
+                "inf"
+            ]
+        ]
+    },
+    "Contact.RequestAdvise.Broadcast": {
+        "event_id": "LDC_evt_049",
+        "template": "<arg1> communicated to <arg2> about <arg4> topic at <arg3> place (one-way communication)",
+        "i-label": 52,
+        "keywords": [],
+        "roles": [
+            "Communicator",
+            "Recipient",
+            "Place",
+            "Topic"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ],
+            [
+                "event",
+                "per",
+                "org",
+                "gpe",
+                "sid",
+                "loc",
+                "fac",
+                "veh",
+                "wea",
+                "com",
+                "bal",
+                "mon",
+                "law",
+                "res",
+                "val",
+                "mhi",
+                "inf"
+            ]
+        ]
+    },
+    "Contact.RequestAdvise.Correspondence": {
+        "event_id": "LDC_evt_050",
+        "template": "<arg1> communicated remotely with <arg2> about <arg4> topic at <arg3> place",
+        "i-label": 53,
+        "keywords": [],
+        "roles": [
+            "Communicator",
+            "Recipient",
+            "Place",
+            "Topic"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ],
+            [
+                "event",
+                "per",
+                "org",
+                "gpe",
+                "sid",
+                "loc",
+                "fac",
+                "veh",
+                "wea",
+                "com",
+                "bal",
+                "mon",
+                "law",
+                "res",
+                "val",
+                "mhi",
+                "inf"
+            ]
+        ]
+    },
+    "Contact.RequestAdvise.Meet": {
+        "event_id": "LDC_evt_051",
+        "template": "<arg1> met face-to-face with <arg2> about <arg4> topic at <arg3> place",
+        "i-label": 54,
+        "keywords": [],
+        "roles": [
+            "Communicator",
+            "Recipient",
+            "Place",
+            "Topic"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ],
+            [
+                "event",
+                "per",
+                "org",
+                "gpe",
+                "sid",
+                "loc",
+                "fac",
+                "veh",
+                "wea",
+                "com",
+                "bal",
+                "mon",
+                "law",
+                "res",
+                "val",
+                "mhi",
+                "inf"
+            ]
+        ]
+    },
+    "Contact.ThreatenCoerce": {
+        "event_id": "LDC_evt_052",
+        "template": "<arg1> communicated with <arg2> about <arg4> topic at <arg3> place",
+        "i-label": 55,
+        "keywords": [],
+        "roles": [
+            "Communicator",
+            "Recipient",
+            "Place",
+            "Topic"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ],
+            [
+                "event",
+                "per",
+                "org",
+                "gpe",
+                "sid",
+                "loc",
+                "fac",
+                "veh",
+                "wea",
+                "com",
+                "bal",
+                "mon",
+                "law",
+                "res",
+                "val",
+                "mhi",
+                "inf"
+            ]
+        ]
+    },
+    "Contact.ThreatenCoerce.Broadcast": {
+        "event_id": "LDC_evt_053",
+        "template": "<arg1> communicated to <arg2> about <arg4> topic at <arg3> place (one-way communication)",
+        "i-label": 56,
+        "keywords": [],
+        "roles": [
+            "Communicator",
+            "Recipient",
+            "Place",
+            "Topic"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ],
+            [
+                "event",
+                "per",
+                "org",
+                "gpe",
+                "sid",
+                "loc",
+                "fac",
+                "veh",
+                "wea",
+                "com",
+                "bal",
+                "mon",
+                "law",
+                "res",
+                "val",
+                "mhi",
+                "inf"
+            ]
+        ]
+    },
+    "Contact.ThreatenCoerce.Correspondence": {
+        "event_id": "LDC_evt_054",
+        "template": "<arg1> communicated remotely with <arg2> about <arg4> topic at <arg3> place",
+        "i-label": 57,
+        "keywords": [],
+        "roles": [
+            "Communicator",
+            "Recipient",
+            "Place",
+            "Topic"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ],
+            [
+                "event",
+                "per",
+                "org",
+                "gpe",
+                "sid",
+                "loc",
+                "fac",
+                "veh",
+                "wea",
+                "com",
+                "bal",
+                "mon",
+                "law",
+                "res",
+                "val",
+                "mhi",
+                "inf"
+            ]
+        ]
+    },
+    "Contact.ThreatenCoerce.Meet": {
+        "event_id": "LDC_evt_055",
+        "template": "<arg1> met face-to-face with <arg2> about <arg4> topic at <arg3> place",
+        "i-label": 58,
+        "keywords": [],
+        "roles": [
+            "Communicator",
+            "Recipient",
+            "Place",
+            "Topic"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ],
+            [
+                "event",
+                "per",
+                "org",
+                "gpe",
+                "sid",
+                "loc",
+                "fac",
+                "veh",
+                "wea",
+                "com",
+                "bal",
+                "mon",
+                "law",
+                "res",
+                "val",
+                "mhi",
+                "inf"
+            ]
+        ]
+    },
+    "Disaster.AccidentCrash.AccidentCrash": {
+        "event_id": "LDC_evt_057",
+        "template": "<arg1> person in <arg2> vehicle crashed into <arg3> at <arg4> place",
+        "i-label": 59,
+        "keywords": [],
+        "roles": [
+            "DriverPassenger",
+            "Vehicle",
+            "CrashObject",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per"
+            ],
+            [
+                "veh"
+            ],
+            [
+                "com",
+                "fac",
+                "loc",
+                "per",
+                "veh",
+                "wea"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Disaster.DiseaseOutbreak.DiseaseOutbreak": {
+        "event_id": "LDC_evt_148",
+        "template": "<arg1> disease broke out among <arg2> victims or population at <arg3> place",
+        "i-label": 60,
+        "keywords": [],
+        "roles": [
+            "Disease",
+            "Victim",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "mhi"
+            ],
+            [
+                "per",
+                "org",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac",
+                "veh"
+            ]
+        ]
+    },
+    "Disaster.FireExplosion.FireExplosion": {
+        "event_id": "LDC_evt_059",
+        "template": "<arg1> caught fire or exploded from <arg2> instrument at <arg3> place",
+        "i-label": 61,
+        "keywords": [],
+        "roles": [
+            "FireExplosionObject",
+            "Instrument",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "bal",
+                "veh",
+                "wea",
+                "fac",
+                "loc",
+                "com"
+            ],
+            [
+                "com",
+                "veh",
+                "wea",
+                "fac"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "GenericCrime.GenericCrime.GenericCrime": {
+        "event_id": "LDC_evt_154",
+        "template": "<arg1> committed a crime against <arg2> at <arg3> place",
+        "i-label": 62,
+        "keywords": [],
+        "roles": [
+            "Perpetrator",
+            "Victim",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Government.Agreements": {
+        "event_id": "LDC_evt_060",
+        "template": "<arg1> and <arg2> signed an agreement in <arg3> place",
+        "i-label": 63,
+        "keywords": [],
+        "roles": [
+            "Participant",
+            "Participant",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "gpe",
+                "sid"
+            ],
+            [
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Government.Agreements.AcceptAgreementContractCeasefire": {
+        "event_id": "LDC_evt_061",
+        "template": "<arg1> and <arg2> signed an agreement in <arg3> place",
+        "i-label": 64,
+        "keywords": [],
+        "roles": [
+            "Participant",
+            "Participant",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "gpe",
+                "sid"
+            ],
+            [
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Government.Agreements.RejectNullifyAgreementContractCeasefire": {
+        "event_id": "LDC_evt_062",
+        "template": "<arg1> rejected or nullified an agreement with <arg2> in <arg3> place",
+        "i-label": 65,
+        "keywords": [],
+        "roles": [
+            "RejecterNullifier",
+            "OtherParticipant",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "gpe",
+                "sid"
+            ],
+            [
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Government.Agreements.ViolateAgreement": {
+        "event_id": "LDC_evt_063",
+        "template": "<arg1> violated an agreement with <arg2> in <arg3> place",
+        "i-label": 66,
+        "keywords": [],
+        "roles": [
+            "Violator",
+            "OtherParticipant",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "gpe",
+                "sid"
+            ],
+            [
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Government.Convene.Convene": {
+        "event_id": "LDC_evt_145",
+        "template": "<arg1> convened <arg2> at <arg3> place",
+        "i-label": 67,
+        "keywords": [],
+        "roles": [
+            "Convener",
+            "ConvenedThing",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "org"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Government.Formation": {
+        "event_id": "LDC_evt_064",
+        "template": "<arg1> was formed by <arg2> in <arg3> place",
+        "i-label": 68,
+        "keywords": [],
+        "roles": [
+            "GPE",
+            "Founder",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "gpe"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Government.Formation.MergeGPE": {
+        "event_id": "LDC_evt_065",
+        "template": "<arg1> merged with <arg2> at <arg3> place",
+        "i-label": 69,
+        "keywords": [],
+        "roles": [
+            "Participant",
+            "Participant",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "gpe"
+            ],
+            [
+                "gpe"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Government.Formation.StartGPE": {
+        "event_id": "LDC_evt_066",
+        "template": "<arg1> was started by <arg2> in <arg3> place",
+        "i-label": 70,
+        "keywords": [],
+        "roles": [
+            "GPE",
+            "Founder",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "gpe"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Government.Legislate.Legislate": {
+        "event_id": "LDC_evt_068",
+        "template": "<arg1> legislature enacted <arg2> law in <arg3> place",
+        "i-label": 71,
+        "keywords": [],
+        "roles": [
+            "GovernmentBody",
+            "Law",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "org"
+            ],
+            [
+                "law"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Government.Spy.Spy": {
+        "event_id": "LDC_evt_070",
+        "template": "<arg1> spied on <arg2> to the benefit of <arg3> in <arg4> place",
+        "i-label": 72,
+        "keywords": [],
+        "roles": [
+            "Spy",
+            "ObservedEntity",
+            "Beneficiary",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Government.Vote": {
+        "event_id": "LDC_evt_071",
+        "template": "<arg1> voted for <arg2> on <arg3> ballot with <arg4> results in <arg5> place",
+        "i-label": 73,
+        "keywords": [],
+        "roles": [
+            "Voter",
+            "Candidate",
+            "Ballot",
+            "Result",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "sid"
+            ],
+            [
+                "law",
+                "per",
+                "sid"
+            ],
+            [
+                "bal"
+            ],
+            [
+                "res"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Government.Vote.CastVote": {
+        "event_id": "LDC_evt_072",
+        "template": "<arg1> voted for <arg2> on <arg3> ballot with <arg4> results in <arg5> place",
+        "i-label": 74,
+        "keywords": [],
+        "roles": [
+            "Voter",
+            "Candidate",
+            "Ballot",
+            "Result",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per "
+            ],
+            [
+                "law",
+                "per",
+                "sid"
+            ],
+            [
+                "bal"
+            ],
+            [
+                "res"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Government.Vote.ViolationsPreventVote": {
+        "event_id": "LDC_evt_073",
+        "template": "<arg1> prevented <arg2> from voting for <arg3> on <arg4> ballot in <arg5> place",
+        "i-label": 75,
+        "keywords": [],
+        "roles": [
+            "Preventer",
+            "Voter",
+            "Candidate",
+            "Ballot",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per"
+            ],
+            [
+                "per",
+                " law",
+                "sid"
+            ],
+            [
+                "bal"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Inspection.SensoryObserve": {
+        "event_id": "LDC_evt_074",
+        "template": "<arg1> observed <arg2> in <arg3> place",
+        "i-label": 76,
+        "keywords": [],
+        "roles": [
+            "Observer",
+            "ObservedEntity",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid",
+                "com",
+                "veh",
+                "wea",
+                "fac",
+                "bal",
+                "mon",
+                "mhi"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Inspection.SensoryObserve.InspectPeopleOrganization": {
+        "event_id": "LDC_evt_075",
+        "template": "<arg1> inspected <arg2> in <arg3> place",
+        "i-label": 77,
+        "keywords": [],
+        "roles": [
+            "Inspector",
+            "InspectedEntity",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Inspection.SensoryObserve.MonitorElection": {
+        "event_id": "LDC_evt_076",
+        "template": "<arg1> monitored <arg2> taking part in an election in <arg3> place",
+        "i-label": 78,
+        "keywords": [],
+        "roles": [
+            "Monitor",
+            "MonitoredEntity",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Inspection.SensoryObserve.PhysicalInvestigateInspect": {
+        "event_id": "LDC_evt_077",
+        "template": "<arg1> inspected <arg2> in <arg3> place",
+        "i-label": 79,
+        "keywords": [],
+        "roles": [
+            "Inspector",
+            "InspectedEntity",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "bal",
+                "com",
+                "veh",
+                "wea",
+                "fac",
+                "mon"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Inspection.TargetAimAt.TargetAimAt": {
+        "event_id": "LDC_evt_153",
+        "template": "<arg1> physically targeted <arg2> with <arg3> instrument at <arg4> place",
+        "i-label": 80,
+        "keywords": [],
+        "roles": [
+            "Targeter",
+            "Target",
+            "Instrument",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "bal",
+                "com",
+                "fac",
+                "gpe",
+                "loc",
+                "org",
+                "per",
+                "sid",
+                "veh",
+                "wea",
+                "mon"
+            ],
+            [
+                "wea",
+                "veh",
+                "com"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Justice.ArrestJailDetain.ArrestJailDetain": {
+        "event_id": "LDC_evt_079",
+        "template": "<arg1> arrested or jailed <arg2> for <arg3> crime at <arg4> place",
+        "i-label": 81,
+        "keywords": [],
+        "roles": [
+            "Jailer",
+            "Detainee",
+            "Crime",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per"
+            ],
+            [
+                "event"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Justice.InitiateJudicialProcess": {
+        "event_id": "LDC_evt_080",
+        "template": "<arg1> initiated judicial process pertaining to <arg2> before <arg3> court or judge for <arg4> crime in <arg5> place",
+        "i-label": 82,
+        "keywords": [],
+        "roles": [
+            "Prosecutor",
+            "Defendant",
+            "JudgeCourt",
+            "Crime",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "event"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Justice.InitiateJudicialProcess.ChargeIndict": {
+        "event_id": "LDC_evt_081",
+        "template": "<arg1> charged or indicted <arg2> before <arg3> court or judge for <arg4> crime in <arg5> place",
+        "i-label": 83,
+        "keywords": [],
+        "roles": [
+            "Prosecutor",
+            "Defendant",
+            "JudgeCourt",
+            "Crime",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "event"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Justice.InitiateJudicialProcess.TrialHearing": {
+        "event_id": "LDC_evt_082",
+        "template": "<arg1> tried <arg2> before <arg3> court or judge for <arg4> crime in <arg5> place",
+        "i-label": 84,
+        "keywords": [],
+        "roles": [
+            "Prosecutor",
+            "Defendant",
+            "JudgeCourt",
+            "Crime",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "event"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Justice.Investigate": {
+        "event_id": "LDC_evt_083",
+        "template": "<arg1> investigated <arg2> in <arg3> place",
+        "i-label": 85,
+        "keywords": [],
+        "roles": [
+            "Investigator",
+            "Defendant",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Justice.Investigate.InvestigateCrime": {
+        "event_id": "LDC_evt_084",
+        "template": "<arg1> investigated <arg2> for <arg3> crime in <arg4> place",
+        "i-label": 86,
+        "keywords": [],
+        "roles": [
+            "Investigator",
+            "Defendant",
+            "Crime",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "event"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Justice.JudicialConsequences": {
+        "event_id": "LDC_evt_085",
+        "template": "<arg1> court or judge decided consequences of <arg3> crime, committed by <arg2>, in <arg4> place",
+        "i-label": 87,
+        "keywords": [],
+        "roles": [
+            "JudgeCourt",
+            "Defendant",
+            "Crime",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "event"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Justice.JudicialConsequences.Convict": {
+        "event_id": "LDC_evt_086",
+        "template": "<arg1> court or judge convicted <arg2> of <arg3> crime in <arg4> place",
+        "i-label": 88,
+        "keywords": [],
+        "roles": [
+            "JudgeCourt",
+            "Defendant",
+            "Crime",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "event"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Justice.JudicialConsequences.Execute": {
+        "event_id": "LDC_evt_087",
+        "template": "<arg1> executed <arg2> for <arg3> crime in <arg4> place",
+        "i-label": 89,
+        "keywords": [],
+        "roles": [
+            "Executioner",
+            "Defendant",
+            "Crime",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per"
+            ],
+            [
+                "event"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Justice.JudicialConsequences.Extradite": {
+        "event_id": "LDC_evt_088",
+        "template": "<arg1> extradited <arg2> for <arg3> crime from <arg4> place to <arg5> place",
+        "i-label": 90,
+        "keywords": [],
+        "roles": [
+            "Extraditer",
+            "Defendant",
+            "Crime",
+            "Origin",
+            "Destination"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per"
+            ],
+            [
+                "event"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Life.Die": {
+        "event_id": "LDC_evt_089",
+        "template": "<arg1> died at <arg2> place from <arg4> medical issue, killed by <arg3> killer",
+        "i-label": 91,
+        "keywords": [],
+        "roles": [
+            "Victim",
+            "Place",
+            "Killer",
+            "MedicalIssue"
+        ],
+        "role_types": [
+            [
+                "per"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "mhi"
+            ]
+        ]
+    },
+    "Life.Die.DeathCausedByViolentEvents": {
+        "event_id": "LDC_evt_090",
+        "template": "<arg1> killed <arg2> using <arg3> instrument or <arg5> medical issue at <arg4> place",
+        "i-label": 92,
+        "keywords": [],
+        "roles": [
+            "Killer",
+            "Victim",
+            "Instrument",
+            "Place",
+            "MedicalIssue"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per"
+            ],
+            [
+                "bal",
+                "com",
+                "veh",
+                "wea",
+                "fac",
+                "mon"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ],
+            [
+                "mhi"
+            ]
+        ]
+    },
+    "Life.Die.NonviolentDeath": {
+        "event_id": "LDC_evt_091",
+        "template": "<arg1> died at <arg2> place from <arg4> medical issue, killed by <arg3> killer",
+        "i-label": 93,
+        "keywords": [],
+        "roles": [
+            "Victim",
+            "Place",
+            "Killer",
+            "MedicalIssue"
+        ],
+        "role_types": [
+            [
+                "per"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "mhi"
+            ]
+        ]
+    },
+    "Life.Injure": {
+        "event_id": "LDC_evt_092",
+        "template": "<arg1> was injured by <arg2> with <arg4> medical issue at <arg3> place",
+        "i-label": 94,
+        "keywords": [],
+        "roles": [
+            "Victim",
+            "Injurer",
+            "Place",
+            "MedicalIssue"
+        ],
+        "role_types": [
+            [
+                "per"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ],
+            [
+                "mhi"
+            ]
+        ]
+    },
+    "Life.Injure.IllnessDegradationHungerThirst": {
+        "event_id": "LDC_evt_093",
+        "template": "<arg1> has extreme hunger or thirst from <arg4> medical issue imposed by <arg3> injurer at <arg2> place",
+        "i-label": 95,
+        "keywords": [],
+        "roles": [
+            "Victim",
+            "Place",
+            "Injurer",
+            "MedicalIssue"
+        ],
+        "role_types": [
+            [
+                "per"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "mhi"
+            ]
+        ]
+    },
+    "Life.Injure.IllnessDegradationPhysical": {
+        "event_id": "LDC_evt_094",
+        "template": "<arg1> person has some physical degradation from <arg4> medical issue imposed by <arg3> injurer at <arg2> place",
+        "i-label": 96,
+        "keywords": [],
+        "roles": [
+            "Victim",
+            "Place",
+            "Injurer",
+            "MedicalIssue"
+        ],
+        "role_types": [
+            [
+                "per"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "mhi"
+            ]
+        ]
+    },
+    "Life.Injure.IllnessDegredationSickness": {
+        "event_id": "LDC_evt_150",
+        "template": "<arg1> has <arg3> sickness or illness at <arg4> place, deliberately infected by <arg2>",
+        "i-label": 97,
+        "keywords": [],
+        "roles": [
+            "Victim",
+            "Injurer",
+            "Disease",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "mhi"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Life.Injure.InjuryCausedByViolentEvents": {
+        "event_id": "LDC_evt_095",
+        "template": "<arg1> injured <arg2> using <arg3> instrument or <arg5> medical issue at <arg4> place",
+        "i-label": 98,
+        "keywords": [],
+        "roles": [
+            "Injurer",
+            "Victim",
+            "Instrument",
+            "Place",
+            "MedicalIssue"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per"
+            ],
+            [
+                "bal",
+                "com",
+                "veh",
+                "wea",
+                "fac",
+                "mon"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ],
+            [
+                "mhi"
+            ]
+        ]
+    },
+    "Manufacture.Artifact": {
+        "event_id": "LDC_evt_096",
+        "template": "<arg1> manufactured or created or produced <arg2> using <arg3> at <arg4> place",
+        "i-label": 99,
+        "keywords": [],
+        "roles": [
+            "Manufacturer",
+            "Artifact",
+            "Instrument",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "com"
+            ],
+            [
+                "com",
+                "veh",
+                "wea",
+                "fac"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Manufacture.Artifact.Build": {
+        "event_id": "LDC_evt_097",
+        "template": "<arg1> manufactured or created or produced <arg2> using <arg3> at <arg4> place",
+        "i-label": 100,
+        "keywords": [],
+        "roles": [
+            "Manufacturer",
+            "Artifact",
+            "Instrument",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "fac"
+            ],
+            [
+                "com",
+                "veh",
+                "wea",
+                "fac"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Manufacture.Artifact.CreateIntellectualProperty": {
+        "event_id": "LDC_evt_098",
+        "template": "<arg1> manufactured or created or produced <arg2> using <arg3> at <arg4> place",
+        "i-label": 101,
+        "keywords": [],
+        "roles": [
+            "Manufacturer",
+            "Artifact",
+            "Instrument",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "bal",
+                "com",
+                "mon",
+                "veh",
+                "wea"
+            ],
+            [
+                "com",
+                "veh",
+                "wea",
+                "fac"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Manufacture.Artifact.CreateManufacture": {
+        "event_id": "LDC_evt_099",
+        "template": "<arg1> manufactured or created or produced <arg2> using <arg3> at <arg4> place",
+        "i-label": 102,
+        "keywords": [],
+        "roles": [
+            "Manufacturer",
+            "Artifact",
+            "Instrument",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "bal",
+                "com",
+                "mon",
+                "veh",
+                "wea"
+            ],
+            [
+                "com",
+                "veh",
+                "wea",
+                "fac"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Medical.Intervention.Intervention": {
+        "event_id": "LDC_evt_147",
+        "template": "<arg1> treater treated <arg2> patient for <arg3> medical issue with <arg4> means at <arg5> place",
+        "i-label": 103,
+        "keywords": [],
+        "roles": [
+            "Treater",
+            "Patient",
+            "MedicalIssue",
+            "Instrument",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per"
+            ],
+            [
+                "mhi"
+            ],
+            [
+                "com"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Movement.TransportArtifact": {
+        "event_id": "LDC_evt_100",
+        "template": "<arg1> transported <arg2> in <arg3> from <arg4> place to <arg5> place",
+        "i-label": 104,
+        "keywords": [],
+        "roles": [
+            "Transporter",
+            "Artifact",
+            "Vehicle",
+            "Origin",
+            "Destination"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "bal",
+                "com",
+                "fac",
+                "loc",
+                "mon",
+                "veh",
+                "wea"
+            ],
+            [
+                "veh"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Movement.TransportArtifact.BringCarryUnload": {
+        "event_id": "LDC_evt_101",
+        "template": "<arg1> transported <arg2> in <arg3> from <arg4> place to <arg5> place",
+        "i-label": 105,
+        "keywords": [],
+        "roles": [
+            "Transporter",
+            "Artifact",
+            "Vehicle",
+            "Origin",
+            "Destination"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "bal",
+                "com",
+                "fac",
+                "loc",
+                "mon",
+                "veh",
+                "wea"
+            ],
+            [
+                "veh"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Movement.TransportArtifact.DisperseSeparate": {
+        "event_id": "LDC_evt_102",
+        "template": "<arg1> transported <arg2> in <arg3> from <arg4> place to <arg5> place",
+        "i-label": 106,
+        "keywords": [],
+        "roles": [
+            "Transporter",
+            "Artifact",
+            "Vehicle",
+            "Origin",
+            "Destination"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "bal",
+                "com",
+                "fac",
+                "loc",
+                "mon",
+                "veh",
+                "wea"
+            ],
+            [
+                "veh"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Movement.TransportArtifact.Fall": {
+        "event_id": "LDC_evt_103",
+        "template": "<arg1> fell from <arg2> place to <arg3> place",
+        "i-label": 107,
+        "keywords": [],
+        "roles": [
+            "Artifact",
+            "Origin",
+            "Destination"
+        ],
+        "role_types": [
+            [
+                "bal",
+                "com",
+                "fac",
+                "loc",
+                "mon",
+                "veh",
+                "wea"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Movement.TransportArtifact.GrantEntry": {
+        "event_id": "LDC_evt_104",
+        "template": "<arg1> grants <arg2> entry to <arg3> place from <arg4> place",
+        "i-label": 108,
+        "keywords": [],
+        "roles": [
+            "Transporter",
+            "Artifact",
+            "Origin",
+            "Destination"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "bal",
+                "com",
+                "fac",
+                "loc",
+                "mon",
+                "veh",
+                "wea"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Movement.TransportArtifact.Hide": {
+        "event_id": "LDC_evt_105",
+        "template": "<arg1> concealed <arg2> in <arg3> place, transported in <arg4> vehicle from <arg5> place",
+        "i-label": 109,
+        "keywords": [],
+        "roles": [
+            "Transporter",
+            "Artifact",
+            "HidingPlace",
+            "Vehicle",
+            "Origin"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "bal",
+                "com",
+                "fac",
+                "loc",
+                "mon",
+                "veh",
+                "wea"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ],
+            [
+                "veh"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Movement.TransportArtifact.LossOfControl": {
+        "event_id": "LDC_evt_146",
+        "template": "<arg1> lost control of moving <arg2> at <arg3> place",
+        "i-label": 110,
+        "keywords": [],
+        "roles": [
+            "Controller",
+            "ControlledThing",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "wea",
+                "veh",
+                "com"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Movement.TransportArtifact.NonviolentThrowLaunch": {
+        "event_id": "LDC_evt_106",
+        "template": "<arg1> transported <arg2> in <arg3> from <arg4> place to <arg5> place",
+        "i-label": 111,
+        "keywords": [],
+        "roles": [
+            "Transporter",
+            "Artifact",
+            "Vehicle",
+            "Origin",
+            "Destination"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "bal",
+                "com",
+                "fac",
+                "loc",
+                "mon",
+                "veh",
+                "wea"
+            ],
+            [
+                "veh"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Movement.TransportArtifact.PreventEntry": {
+        "event_id": "LDC_evt_107",
+        "template": "<arg1> prevents <arg2> from transporting <arg3> from <arg4> place to <arg5> place",
+        "i-label": 112,
+        "keywords": [],
+        "roles": [
+            "Preventer",
+            "Transporter",
+            "Artifact",
+            "Origin",
+            "Destination"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "bal",
+                "com",
+                "fac",
+                "loc",
+                "mon",
+                "veh",
+                "wea"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Movement.TransportArtifact.PreventExit": {
+        "event_id": "LDC_evt_108",
+        "template": "<arg1> prevents <arg2> from transporting <arg3> from <arg4> place to <arg5> place",
+        "i-label": 113,
+        "keywords": [],
+        "roles": [
+            "Preventer",
+            "Transporter",
+            "Artifact",
+            "Origin",
+            "Destination"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "bal",
+                "com",
+                "fac",
+                "loc",
+                "mon",
+                "veh",
+                "wea"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Movement.TransportArtifact.ReceiveImport": {
+        "event_id": "LDC_evt_109",
+        "template": "<arg1> transported <arg2> in <arg3> from <arg4> place to <arg5> place",
+        "i-label": 114,
+        "keywords": [],
+        "roles": [
+            "Transporter",
+            "Artifact",
+            "Vehicle",
+            "Origin",
+            "Destination"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "bal",
+                "com",
+                "fac",
+                "loc",
+                "mon",
+                "veh",
+                "wea"
+            ],
+            [
+                "veh"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Movement.TransportArtifact.SendSupplyExport": {
+        "event_id": "LDC_evt_110",
+        "template": "<arg1> transported <arg2> in <arg3> from <arg4> place to <arg5> place",
+        "i-label": 115,
+        "keywords": [],
+        "roles": [
+            "Transporter",
+            "Artifact",
+            "Vehicle",
+            "Origin",
+            "Destination"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "bal",
+                "com",
+                "fac",
+                "loc",
+                "mon",
+                "veh",
+                "wea"
+            ],
+            [
+                "veh"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Movement.TransportArtifact.SmuggleExtract": {
+        "event_id": "LDC_evt_111",
+        "template": "<arg1> transported <arg2> in <arg3> from <arg4> place to <arg5> place",
+        "i-label": 116,
+        "keywords": [],
+        "roles": [
+            "Transporter",
+            "Artifact",
+            "Vehicle",
+            "Origin",
+            "Destination"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "bal",
+                "com",
+                "fac",
+                "loc",
+                "mon",
+                "veh",
+                "wea"
+            ],
+            [
+                "veh"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Movement.TransportPerson": {
+        "event_id": "LDC_evt_112",
+        "template": "<arg1> transported <arg2> in <arg3> from <arg4> place to <arg5> place",
+        "i-label": 117,
+        "keywords": [],
+        "roles": [
+            "Transporter",
+            "Passenger",
+            "Vehicle",
+            "Origin",
+            "Destination"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per"
+            ],
+            [
+                "veh"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Movement.TransportPerson.BringCarryUnload": {
+        "event_id": "LDC_evt_113",
+        "template": "<arg1> transported <arg2> in <arg3> from <arg4> place to <arg5> place",
+        "i-label": 118,
+        "keywords": [],
+        "roles": [
+            "Transporter",
+            "Passenger",
+            "Vehicle",
+            "Origin",
+            "Destination"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per"
+            ],
+            [
+                "veh"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Movement.TransportPerson.DisperseSeparate": {
+        "event_id": "LDC_evt_114",
+        "template": "<arg1> transported <arg2> in <arg3> from <arg4> place to <arg5> place",
+        "i-label": 119,
+        "keywords": [],
+        "roles": [
+            "Transporter",
+            "Passenger",
+            "Vehicle",
+            "Origin",
+            "Destination"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per"
+            ],
+            [
+                "veh"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Movement.TransportPerson.EvacuationRescue": {
+        "event_id": "LDC_evt_115",
+        "template": "<arg1> transported <arg2> in <arg3> from <arg4> place to <arg5> place",
+        "i-label": 120,
+        "keywords": [],
+        "roles": [
+            "Transporter",
+            "Passenger",
+            "Vehicle",
+            "Origin",
+            "Destination"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per"
+            ],
+            [
+                "veh"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Movement.TransportPerson.Fall": {
+        "event_id": "LDC_evt_116",
+        "template": "<arg1> fell from <arg2> place to <arg3> place",
+        "i-label": 121,
+        "keywords": [],
+        "roles": [
+            "Passenger",
+            "Origin",
+            "Destination"
+        ],
+        "role_types": [
+            [
+                "per"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Movement.TransportPerson.GrantEntryAsylum": {
+        "event_id": "LDC_evt_117",
+        "template": "<arg1> grants entry to <arg2> transporting <arg3> from <arg4> place to <arg5> place",
+        "i-label": 122,
+        "keywords": [],
+        "roles": [
+            "Granter",
+            "Transporter",
+            "Passenger",
+            "Origin",
+            "Destination"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Movement.TransportPerson.Hide": {
+        "event_id": "LDC_evt_118",
+        "template": "<arg1> concealed <arg2> in <arg3> place, transported in <arg4> vehicle from <arg5> place",
+        "i-label": 123,
+        "keywords": [],
+        "roles": [
+            "Transporter",
+            "Passenger",
+            "HidingPlace",
+            "Vehicle",
+            "Origin"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ],
+            [
+                "veh"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Movement.TransportPerson.PreventEntry": {
+        "event_id": "LDC_evt_119",
+        "template": "<arg1> prevents <arg2> from transporting <arg3> from <arg4> place to <arg5> place",
+        "i-label": 124,
+        "keywords": [],
+        "roles": [
+            "Preventer",
+            "Transporter",
+            "Passenger",
+            "Origin",
+            "Destination"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Movement.TransportPerson.PreventExit": {
+        "event_id": "LDC_evt_120",
+        "template": "<arg1> prevents <arg2> from transporting <arg3> from <arg4> place to <arg5> place",
+        "i-label": 125,
+        "keywords": [],
+        "roles": [
+            "Preventer",
+            "Transporter",
+            "Passenger",
+            "Origin",
+            "Destination"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Movement.TransportPerson.SelfMotion": {
+        "event_id": "LDC_evt_121",
+        "template": "<arg1> moved in <arg2> from <arg3> place to <arg4> place",
+        "i-label": 126,
+        "keywords": [],
+        "roles": [
+            "Transporter",
+            "Vehicle",
+            "Origin",
+            "Destination"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "veh"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Movement.TransportPerson.SmuggleExtract": {
+        "event_id": "LDC_evt_122",
+        "template": "<arg1> transported <arg2> in <arg3> from <arg4> place to <arg5> place",
+        "i-label": 127,
+        "keywords": [],
+        "roles": [
+            "Transporter",
+            "Passenger",
+            "Vehicle",
+            "Origin",
+            "Destination"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per"
+            ],
+            [
+                "veh"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Personnel.Elect": {
+        "event_id": "LDC_evt_123",
+        "template": "<arg1> elected <arg2> in <arg3> place",
+        "i-label": 128,
+        "keywords": [],
+        "roles": [
+            "Voter",
+            "Candidate",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "sid"
+            ],
+            [
+                "per"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Personnel.Elect.WinElection": {
+        "event_id": "LDC_evt_124",
+        "template": "<arg1> elected <arg2> in <arg3> place",
+        "i-label": 129,
+        "keywords": [],
+        "roles": [
+            "Voter",
+            "Candidate",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "sid"
+            ],
+            [
+                "per"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Personnel.EndPosition": {
+        "event_id": "LDC_evt_125",
+        "template": "<arg1> stopped working at <arg2> in <arg3> place",
+        "i-label": 130,
+        "keywords": [],
+        "roles": [
+            "Employee",
+            "PlaceOfEmployment",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per"
+            ],
+            [
+                "gpe",
+                "org"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Personnel.EndPosition.FiringLayoff": {
+        "event_id": "LDC_evt_126",
+        "template": "<arg1> stopped working at <arg2> in <arg3> place",
+        "i-label": 131,
+        "keywords": [],
+        "roles": [
+            "Employee",
+            "PlaceOfEmployment",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per"
+            ],
+            [
+                "gpe",
+                "org"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Personnel.EndPosition.QuitRetire": {
+        "event_id": "LDC_evt_127",
+        "template": "<arg1> stopped working at <arg2> in <arg3> place",
+        "i-label": 132,
+        "keywords": [],
+        "roles": [
+            "Employee",
+            "PlaceOfEmployment",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per"
+            ],
+            [
+                "gpe",
+                "org"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Personnel.StartPosition": {
+        "event_id": "LDC_evt_128",
+        "template": "<arg1> started working at <arg2> in <arg3> place",
+        "i-label": 133,
+        "keywords": [],
+        "roles": [
+            "Employee",
+            "PlaceOfEmployment",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per"
+            ],
+            [
+                "gpe",
+                "org"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Personnel.StartPosition.Hiring": {
+        "event_id": "LDC_evt_129",
+        "template": "<arg1> started working at <arg2> in <arg3> place",
+        "i-label": 134,
+        "keywords": [],
+        "roles": [
+            "Employee",
+            "PlaceOfEmployment",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per"
+            ],
+            [
+                "gpe",
+                "org"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Transaction.Transaction": {
+        "event_id": "LDC_evt_130",
+        "template": "A transaction occurred between <arg1> and <arg2> for the benefit of <arg3> at <arg4> place",
+        "i-label": 135,
+        "keywords": [],
+        "roles": [
+            "Participant",
+            "Participant",
+            "Beneficiary",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Transaction.Transaction.EmbargoSanction": {
+        "event_id": "LDC_evt_131",
+        "template": "<arg1> prevented <arg2> from giving <arg4> to <arg3> at <arg5> place",
+        "i-label": 136,
+        "keywords": [],
+        "roles": [
+            "Preventer",
+            "Giver",
+            "Recipient",
+            "ArtifactMoney",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "com",
+                "fac",
+                "mon",
+                "veh",
+                "wea"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Transaction.Transaction.GiftGrantProvideAid": {
+        "event_id": "LDC_evt_132",
+        "template": "<arg1> gave something to <arg2> for the benefit of <arg3> at <arg4> place",
+        "i-label": 137,
+        "keywords": [],
+        "roles": [
+            "Giver",
+            "Recipient",
+            "Beneficiary",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Transaction.TransferMoney": {
+        "event_id": "LDC_evt_133",
+        "template": "<arg1> gave <arg4> money to <arg2> for the benefit of <arg3> at <arg5> place",
+        "i-label": 138,
+        "keywords": [],
+        "roles": [
+            "Giver",
+            "Recipient",
+            "Beneficiary",
+            "Money",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "mon"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Transaction.TransferMoney.BorrowLend": {
+        "event_id": "LDC_evt_134",
+        "template": "<arg1> gave <arg4> money to <arg2> for the benefit of <arg3> at <arg5> place",
+        "i-label": 139,
+        "keywords": [],
+        "roles": [
+            "Giver",
+            "Recipient",
+            "Beneficiary",
+            "Money",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "mon"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Transaction.TransferMoney.EmbargoSanction": {
+        "event_id": "LDC_evt_135",
+        "template": "<arg1> prevented <arg2> from giving <arg4> to <arg3> at <arg5> place",
+        "i-label": 140,
+        "keywords": [],
+        "roles": [
+            "Preventer",
+            "Giver",
+            "Recipient",
+            "Money",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "mon"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Transaction.TransferMoney.GiftGrantProvideAid": {
+        "event_id": "LDC_evt_136",
+        "template": "<arg1> gave <arg4> money to <arg2> for the benefit of <arg3> at <arg5> place",
+        "i-label": 141,
+        "keywords": [],
+        "roles": [
+            "Giver",
+            "Recipient",
+            "Beneficiary",
+            "Money",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "mon"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Transaction.TransferMoney.PayForService": {
+        "event_id": "LDC_evt_137",
+        "template": "<arg1> gave <arg4> money to <arg2> for the benefit of <arg3> at <arg5> place",
+        "i-label": 142,
+        "keywords": [],
+        "roles": [
+            "Giver",
+            "Recipient",
+            "Beneficiary",
+            "Money",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "mon"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Transaction.TransferMoney.Purchase": {
+        "event_id": "LDC_evt_138",
+        "template": "<arg1> gave <arg4> money to <arg2> for the benefit of <arg3> at <arg5> place",
+        "i-label": 143,
+        "keywords": [],
+        "roles": [
+            "Giver",
+            "Recipient",
+            "Beneficiary",
+            "Money",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "mon"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Transaction.TransferOwnership": {
+        "event_id": "LDC_evt_139",
+        "template": "<arg1> gave <arg4> to <arg2> for the benefit of <arg3> at <arg5> place",
+        "i-label": 144,
+        "keywords": [],
+        "roles": [
+            "Giver",
+            "Recipient",
+            "Beneficiary",
+            "Artifact",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "bal",
+                "com",
+                "fac",
+                "veh",
+                "wea",
+                "org"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Transaction.TransferOwnership.BorrowLend": {
+        "event_id": "LDC_evt_140",
+        "template": "<arg1> gave <arg4> to <arg2> for the benefit of <arg3> at <arg5> place",
+        "i-label": 145,
+        "keywords": [],
+        "roles": [
+            "Giver",
+            "Recipient",
+            "Beneficiary",
+            "Artifact",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "bal",
+                "com",
+                "fac",
+                "veh",
+                "wea",
+                "org"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Transaction.TransferOwnership.EmbargoSanction": {
+        "event_id": "LDC_evt_141",
+        "template": "<arg1> prevented <arg2> from giving <arg4> to <arg3> at <arg5> place",
+        "i-label": 146,
+        "keywords": [],
+        "roles": [
+            "Preventer",
+            "Giver",
+            "Recipient",
+            "Artifact",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "bal",
+                "com",
+                "fac",
+                "veh",
+                "wea",
+                "org"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Transaction.TransferOwnership.GiftGrantProvideAid": {
+        "event_id": "LDC_evt_142",
+        "template": "<arg1> gave <arg4> to <arg2> for the benefit of <arg3> at <arg5> place",
+        "i-label": 147,
+        "keywords": [],
+        "roles": [
+            "Giver",
+            "Recipient",
+            "Beneficiary",
+            "Artifact",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "bal",
+                "com",
+                "fac",
+                "veh",
+                "wea",
+                "org"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Transaction.TransferOwnership.Purchase": {
+        "event_id": "LDC_evt_143",
+        "template": "<arg1> gave <arg4> to <arg2> for the benefit of <arg3> at <arg5> place",
+        "i-label": 148,
+        "keywords": [],
+        "roles": [
+            "Giver",
+            "Recipient",
+            "Beneficiary",
+            "Artifact",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "bal",
+                "com",
+                "fac",
+                "veh",
+                "wea",
+                "org"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    },
+    "Transaction.Transaction.TransferControl": {
+        "event_id": "LDC_evt_144",
+        "template": "<arg1> transferred control of <arg4> to <arg2> for the benefit of <arg3> in <arg5> place",
+        "i-label": 149,
+        "keywords": [],
+        "roles": [
+            "Giver",
+            "Recipient",
+            "Beneficiary",
+            "TerritoryOrFacility",
+            "Place"
+        ],
+        "role_types": [
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "per",
+                "org",
+                "gpe",
+                "sid"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ],
+            [
+                "loc",
+                "gpe",
+                "fac"
+            ]
+        ]
+    }
+}
