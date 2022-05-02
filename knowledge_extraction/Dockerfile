@@ -49,8 +49,6 @@ ADD ./postprocessing /postprocessing
 RUN cd /postprocessing/AIDA-Interchange-Format-master.m54/python && \
     /opt/conda/envs/genie/bin/python setup.py install
 
-RUN /opt/conda/bin/conda clean -tipsy
-
 ADD ./preprocessing /preprocessing
 
 # LABEL maintainer="hengji@illinois.edu"

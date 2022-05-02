@@ -2,8 +2,8 @@ from collections import defaultdict
 import os
 import sys
 from typing import Counter
-sys.path.append("./AIDA-Interchange-Format-master.m54/python")
-sys.path.append("./AIDA-Interchange-Format-master.m54/python/aida_interchange")
+sys.path.append("/postprocessing/AIDA-Interchange-Format-master.m54/python")
+sys.path.append("/postprocessing/AIDA-Interchange-Format-master.m54/python/aida_interchange")
 from aida_interchange import aifutils
 # from aida_interchange.aida_rdf_ontologies import AIDA_ANNOTATION
 from aida_interchange.rdf_ontologies import ldc_ontology_m36 as LDC, interchange_ontology as AIDA
@@ -1144,13 +1144,13 @@ def gen_ttl(claim_data, doc_ke, entity_info, evt_info, evt_args, evt_args_qnode,
                     for offset in evt_info[evt_id]['mention']:
                         mention_confidence, mention_type, mention_str = evt_info[evt_id]['mention'][offset]
                         doc_id_mention, start_offset, end_offset = parse_offset_str(offset)
-                        # add events based on topics
-                        for topic_event_type in topic_type_map[claim_dict['sub_topic']]:
-                            if evt_type.startswith(topic_event_type):
-                                if len(evt_args[evt_id]) > 0:
-                                    if sent_start-500 <= start_offset and end_offset <= sent_end+500:
-                                        claim_dict['associated_KEs'].append( (evt_id, mention_str, evt_info[evt_id]['type'], offset, evt_cluster_uri, evt_args[evt_id]))
-                                        claim_dict['claim_semantics'].append( (evt_id, mention_str, evt_info[evt_id]['type'], offset, evt_cluster_uri, evt_args[evt_id]))
+                        # # add events based on topics
+                        # for topic_event_type in topic_type_map[claim_dict['sub_topic']]:
+                        #     if evt_type.startswith(topic_event_type):
+                        #         if len(evt_args[evt_id]) > 0:
+                        #             if sent_start-500 <= start_offset and end_offset <= sent_end+500:
+                        #                 claim_dict['associated_KEs'].append( (evt_id, mention_str, evt_info[evt_id]['type'], offset, evt_cluster_uri, evt_args[evt_id]))
+                        #                 claim_dict['claim_semantics'].append( (evt_id, mention_str, evt_info[evt_id]['type'], offset, evt_cluster_uri, evt_args[evt_id]))
                         # add events based on offset
                         if doc_id_mention == doc_id:
                             if sent_start-200 <= start_offset and end_offset <= sent_end+200:
@@ -1171,13 +1171,13 @@ def gen_ttl(claim_data, doc_ke, entity_info, evt_info, evt_args, evt_args_qnode,
                         for offset in evt_info[evt_id]['mention']:
                             mention_confidence, mention_type, mention_str = evt_info[evt_id]['mention'][offset]
                             doc_id_mention, start_offset, end_offset = parse_offset_str(offset)
-                            # add events based on topics
-                            for topic_event_type in topic_type_map[claim_dict['sub_topic']]:
-                                if evt_type.startswith(topic_event_type):
-                                    if len(evt_args[evt_id]) > 0:
-                                        if sent_start-900 <= start_offset and end_offset <= sent_end+900:
-                                            claim_dict['associated_KEs'].append( (evt_id, mention_str, evt_info[evt_id]['type'], offset, evt_cluster_uri, evt_args[evt_id]))
-                                            claim_dict['claim_semantics'].append( (evt_id, mention_str, evt_info[evt_id]['type'], offset, evt_cluster_uri, evt_args[evt_id]))
+                            # # add events based on topics
+                            # for topic_event_type in topic_type_map[claim_dict['sub_topic']]:
+                            #     if evt_type.startswith(topic_event_type):
+                            #         if len(evt_args[evt_id]) > 0:
+                            #             if sent_start-900 <= start_offset and end_offset <= sent_end+900:
+                            #                 claim_dict['associated_KEs'].append( (evt_id, mention_str, evt_info[evt_id]['type'], offset, evt_cluster_uri, evt_args[evt_id]))
+                            #                 claim_dict['claim_semantics'].append( (evt_id, mention_str, evt_info[evt_id]['type'], offset, evt_cluster_uri, evt_args[evt_id]))
                             # add events based on offset
                             if doc_id_mention == doc_id:
                                 if sent_start-400 <= start_offset and end_offset <= sent_end+400:
