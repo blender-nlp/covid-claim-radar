@@ -23,20 +23,28 @@ if [ ! -e ${data_root}/rsd ]; then
     echo "missing ${data_root}/rsd"
     exit 1
 fi
-dir_count=$(ls ${data_root} | wc -l)
-if [ "$dir_count" -ne "2" ]; then
-    echo "unexpected dirs under ${data_root}; only ltf nd rsd allowed"
-    exit 1
-fi
+# dir_count=$(ls ${data_root} | wc -l)
+# if [ "$dir_count" -ne "2" ]; then
+#     echo "unexpected dirs under ${data_root}; only ltf nd rsd allowed"
+#     exit 1
+# fi
 
 # ltf source folder path
 ltf_source=${data_root}/ltf
+rsd_source=${data_root}/rsd
+rsd_file_list=${data_root}/rsd_lst
 
 # oneie
 ie_dir=${data_root}/merge
-ie_event_cs=${ie_dir}/cs/event.cs
-ie_entity_cs=${ie_dir}/cs/entity.cs
-ie_relation_cs=${ie_dir}/cs/relation.cs
+oneie_event_cs=${ie_dir}/cs/event.cs
+oneie_entity_cs=${ie_dir}/cs/entity.cs
+oneie_relation_cs=${ie_dir}/cs/relation.cs
+ie_event_cs=${ie_dir}/cs/event_nocoref_final.cs
+ie_entity_cs=${ie_dir}/cs/entity_nocoref_final.cs
+ie_relation_cs=${ie_dir}/cs/relation_nocoref_final.cs
+filler_coarse=${ie_dir}/cs/filler.cs
+core_nlp_output_path=${data_root}/corenlp
+genie_dir=${data_root}/genie
 # qnode linking
 qnode_dir=${data_root}/qnode
 mkdir -p ${qnode_dir}
@@ -70,22 +78,37 @@ docker run -d --net=host -e "discovery.type=single-node" laituan245/wikidata-es
 docker run --rm -i -v ${data_root}:${data_root} -w /oneie --gpus device=${gpu_device} limteng/oneie_aida_m36 \
     /opt/conda/bin/python \
     /oneie/predict.py -i ${ltf_source} -o ${data_root} -l ${lang}
+# Time augmentation
+docker run --rm -v ${data_root}:${data_root} -i blendernlp/covid-claim-radar:ke \
+    /bin/bash /preprocessing/preprocess.sh ${rsd_source} ${ltf_source} ${rsd_file_list} ${core_nlp_output_path}
+docker run --rm -v ${data_root}:${data_root} -w /stanford-corenlp-aida_0 -i limanling/aida-tools \
+    java -mx50g -cp '/stanford-corenlp-aida_0/*' edu.stanford.nlp.pipeline.StanfordCoreNLP \
+    $* -annotators 'tokenize,ssplit,pos,lemma,ner' \
+    -outputFormat json \
+    -filelist ${rsd_file_list} \
+    -properties StanfordCoreNLP_${lang}.properties \
+    -outputDirectory ${core_nlp_output_path}
+docker run --rm -v ${data_root}:${data_root} -i blendernlp/covid-claim-radar:ke \
+    /bin/bash /typing/typing_pipeline.sh \
+    ${lang} ${ltf_source} ${rsd_source} ${core_nlp_output_path} ${oneie_entity_cs} ${oneie_relation_cs} ${oneie_event_cs} ${filler_coarse} ${ie_entity_cs} ${ie_relation_cs} ${ie_event_cs}
 
 ######################################################
 # Claim Extraction
 ######################################################
-docker run  --rm --gpus 1 -v ${data_root}:/var/spool/input/ -v ${query_root}:/var/spool/topics/ -v ${claim_dir}:/var/spool/output/ -t blendernlp/covid-claim-radar:revanth3_aida_claim_v2
+docker run --rm --gpus device=${gpu_device} -v ${data_root}:/var/spool/input/ -v ${query_root}:/var/spool/topics/ -v ${claim_dir}:/var/spool/output/ -t blendernlp/covid-claim-radar:revanth3_aida_claim_v2
 
 ######################################################
 # Qnode linking
 ######################################################
+# claimer Qnode linking
+docker run --net=host --gpus ${gpu_device} --rm -v ${data_root}:${data_root} laituan245/wikidata_el_demo:covid-claim-radar --input_fp ${claim_json} --output_fp ${claim_qnode_json}
+
 # Entity Linking
 docker run --net=host --gpus device=${gpu_device} --rm -v ${data_root}:${data_root} laituan245/wikidata_el:aida2022 \
            --input_cs=${ie_entity_cs}                   \
            --ltf_dir=${ltf_source}                         \
 	   --output_cs=${el_results_cs}                 \
 	   --output_tab=${el_results_tab}
-
 
 # Entity Coreference
 docker run --gpus device=${gpu_device} --rm -v ${data_root}:${data_root} laituan245/spanbert_entity_coref:aida2022 \
@@ -121,18 +144,20 @@ docker run --rm -v ${data_root}:${data_root} laituan245/aida_postprocess \
 	    /opt/conda/envs/aida_coreference/bin/python3.6 rewrite_event.py \
 	    --event_cs=${event_coref_results_cs}  \
 	    --final_entity_cs=${final_entity_cs}   \
-            --final_event_cs=${near_final_event_cs}
+        --final_event_cs=${near_final_event_cs}
 
-# Event attributes classifier
-docker run --rm -v ${data_root}:${data_root} laituan245/aida_attrs_classify \
-	   --input=${near_final_event_cs} \
-	   --output=${final_event_cs} \
-	   --ltf_dir=${ltf_source}
+# echo "event 4 tuple"
+docker run --rm -v ${data_root}:${data_root} blendernlp/covid-claim-radar:ke \
+	/opt/conda/envs/aida_tmp/bin/python /EventTimeArg/aida_event_time_pipeline.py \
+    --time_cold_start_filename ${filler_coarse} \
+    --event_cold_start_filename ${ie_event_cs} \
+    --read_cs_event \
+    --parent_children_filename ${parent_child_tab_path} \
+    --ltf_path ${ltf_dir} \
+    --output_filename ${final_event_cs} \
+    --use_dct_as_default \
+    --lang ${lang}
 
-# claimer Qnode linking
-docker run --net=host --gpus ${gpu_device} --rm -v ${data_root}:${data_root} laituan245/wikidata_el_demo:covid-claim-radar --input_fp ${claim_json} --output_fp ${claim_qnode_json}
-
-# TODO: this needs to be inside a container
 # AIF converter
 cat ${final_entity_cs} ${final_relation_cs} ${final_event_cs} > ${final_cs}
 docker run --rm -v ${final_cs}:${final_cs} -v ${ltf_source}:${ltf_source} -v ${ttl_output}:${ttl_output} -v ${parent_child_tab_path}:${parent_child_tab_path} -v ${claim_qnode_json}:${claim_qnode_json} blendernlp/covid-claim-radar:ke \
