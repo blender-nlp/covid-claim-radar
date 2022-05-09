@@ -1,7 +1,7 @@
 #!/usr/bin/env bash -e
 
-if [ "$#" -ne 4 ]; then
-    echo "Usage: $0 data_root query_root parent_child_tab_path gpu_device"
+if [ "$#" -ne 5 ]; then
+    echo "Usage: $0 lang data_root query_root parent_child_tab_path gpu_device"
     exit 1
 fi
 
@@ -23,11 +23,11 @@ if [ ! -e ${data_root}/rsd ]; then
     echo "missing ${data_root}/rsd"
     exit 1
 fi
-# dir_count=$(ls ${data_root} | wc -l)
-# if [ "$dir_count" -ne "2" ]; then
-#     echo "unexpected dirs under ${data_root}; only ltf nd rsd allowed"
-#     exit 1
-# fi
+dir_count=$(ls ${data_root} | wc -l)
+if [ "$dir_count" -ne "2" ]; then
+    echo "unexpected dirs under ${data_root}; only ltf nd rsd allowed"
+    exit 1
+fi
 
 # ltf source folder path
 ltf_source=${data_root}/ltf
@@ -146,6 +146,6 @@ docker run --rm -v ${data_root}:${data_root} laituan245/aida_postprocess \
         --final_event_cs=${final_event_cs}
 
 # AIF converter
-docker run --rm -v ${data_root}:${data_root} -i blendernlp/covid-claim-radar:ke \
+docker run --rm -v ${data_root}:${data_root} -v ${parent_child_tab_path}:${parent_child_tab_path} blendernlp/covid-claim-radar:ke \
     /bin/bash /postprocessing/postprocessing.sh \
     ${lang} ${data_root} ${parent_child_tab_path} ${claim_qnode_json} ${final_entity_cs} ${final_relation_cs} ${final_event_cs} ${filler_coarse} ${final_cs} ${ttl_output}
