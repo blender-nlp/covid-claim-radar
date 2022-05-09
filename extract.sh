@@ -66,11 +66,6 @@ claim_qnode_json=${claim_dir}/claims_qnode.json
 
 
 ######################################################
-# Set up
-######################################################
-docker run -d --net=host -e "discovery.type=single-node" laituan245/wikidata-es
-
-######################################################
 # Information Extraction
 ######################################################
 # Information Extraction for entities, relations and events
@@ -100,14 +95,15 @@ docker run --rm --gpus device=${gpu_device} -v ${data_root}:/var/spool/input/ -v
 # Qnode linking
 ######################################################
 # claimer Qnode linking
-docker run --net=host --gpus ${gpu_device} --rm -v ${data_root}:${data_root} laituan245/wikidata_el_demo:covid-claim-radar --input_fp ${claim_json} --output_fp ${claim_qnode_json}
+docker run --gpus ${gpu_device} --rm -v ${data_root}:${data_root} \
+           --entrypoint /bin/bash laituan245/wikidata_el_demo_with_es:covid-claim-radar \
+           process_claims.sh ${claim_json} ${claim_qnode_json}
 
 # Entity Linking
-docker run --net=host --gpus device=${gpu_device} --rm -v ${data_root}:${data_root} laituan245/wikidata_el:aida2022 \
-           --input_cs=${ie_entity_cs}                   \
-           --ltf_dir=${ltf_source}                         \
-       --output_cs=${el_results_cs}                 \
-       --output_tab=${el_results_tab}
+docker run --gpus device=${gpu_device} --rm -v ${data_root}:${data_root} \
+           --entrypoint /bin/bash laituan245/wikidata_el_with_es:aida2022 \
+           aida_inference.sh ${ie_entity_cs} ${ltf_source} \
+           ${el_results_cs} ${el_results_tab}
 
 # Entity Coreference
 docker run --gpus device=${gpu_device} --rm -v ${data_root}:${data_root} laituan245/spanbert_entity_coref:aida2022 \
@@ -126,9 +122,9 @@ docker run --gpus device=${gpu_device} --rm -v ${data_root}:${data_root} laituan
 
 
 # Add type qnode
-docker run --net=host --rm -v ${data_root}:${data_root} laituan245/add_types_qnode \
-           --cs_fp=${entity_coref_results_cs} \
-           --output_fp=${final_entity_cs}
+docker run --rm -v ${data_root}:${data_root} --entrypoint /bin/bash \
+           laituan245/add_types_qnode_with_es \
+           add_type_qnodes.sh ${entity_coref_results_cs} ${final_entity_cs}
 
 # Rewrite ids of entities in relation.cs
 docker run --rm -v ${data_root}:${data_root} laituan245/aida_postprocess \
