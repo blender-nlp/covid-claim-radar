@@ -314,12 +314,12 @@ def merge_arguments(args):
     
    
     
-    entities = load_entities(os.path.join(args.input_dir, 'cs/entity.cs'))
+    entities = load_entities(os.path.join(args.input_dir, 'entity.cs'))
     old_entities= deepcopy(entities)
     entity_n = len(entities)
 
     # read events file and combine 
-    events = load_events(os.path.join(args.input_dir, 'cs/event.cs'), predicted, context, ontology_dict, entities)
+    events = load_events(os.path.join(args.input_dir, 'event.cs'), predicted, context, ontology_dict, entities)
     # read documents 
     doc_dict = load_documents(os.path.join(args.input_dir, 'json'))
     # pair up triggers and contexts 
@@ -390,7 +390,7 @@ def merge_arguments(args):
         if key not in old_entities:
             new_entities[key] = entities[key]
 
-    dump_entities(os.path.join(args.input_dir, 'cs/entity.aug.cs'), new_entities)
+    dump_entities(os.path.join(args.input_dir, 'entity.aug.cs'), new_entities)
 
 
     # merge arguments, resolve conflicts and write to file 
@@ -411,7 +411,7 @@ def merge_arguments(args):
     conflict_arg_n =0 
     old_arg_n =0 
     new_arg_n =0 
-    cs_writer = open(os.path.join(args.input_dir, 'cs/event.aug.cs'), 'w') 
+    cs_writer = open(os.path.join(args.input_dir, 'event.aug.cs'), 'w') 
     for event_dict in all_events:
         keep_diff =False 
         event_dict['merged_arguments'] = []

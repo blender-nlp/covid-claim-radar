@@ -1,0 +1,311 @@
+<LCTL_TEXT lang="rus">
+<DOC grammar="none" id="L0C049DXZ" lang="rus" raw_text_char_length="1647" raw_text_md5="44538687afbc5b9af9eb96ba22c0e73c" tokenization="tokenization_parameters.v5.0">
+<TEXT>
+<SEG end_char="77" id="segment-0" start_char="1">
+<ORIGINAL_TEXT>Вирусолог рассказал, может ли ополаскиватель для рта защитить от коронавируса</ORIGINAL_TEXT>
+<TOKEN end_char="9" id="token-0-0" morph="none" pos="word" start_char="1">Вирусолог</TOKEN>
+<TOKEN end_char="19" id="token-0-1" morph="none" pos="word" start_char="11">рассказал</TOKEN>
+<TOKEN end_char="20" id="token-0-2" morph="none" pos="punct" start_char="20">,</TOKEN>
+<TOKEN end_char="26" id="token-0-3" morph="none" pos="word" start_char="22">может</TOKEN>
+<TOKEN end_char="29" id="token-0-4" morph="none" pos="word" start_char="28">ли</TOKEN>
+<TOKEN end_char="44" id="token-0-5" morph="none" pos="word" start_char="31">ополаскиватель</TOKEN>
+<TOKEN end_char="48" id="token-0-6" morph="none" pos="word" start_char="46">для</TOKEN>
+<TOKEN end_char="52" id="token-0-7" morph="none" pos="word" start_char="50">рта</TOKEN>
+<TOKEN end_char="61" id="token-0-8" morph="none" pos="word" start_char="54">защитить</TOKEN>
+<TOKEN end_char="64" id="token-0-9" morph="none" pos="word" start_char="63">от</TOKEN>
+<TOKEN end_char="77" id="token-0-10" morph="none" pos="word" start_char="66">коронавируса</TOKEN>
+<TRANSLATED_TEXT>The virologist told us if the mouthwash could protect against the coronavirus.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="315" id="segment-1" start_char="82">
+<ORIGINAL_TEXT>Научный руководитель НИИ вакцин и сывороток имени Мечникова Виталий Зверев сообщил, что ополаскиватель для полости рта не убережет организм от инфицирования коронавирусом, так как частицы вируса попадают и в нос, и в дыхательные пути.</ORIGINAL_TEXT>
+<TOKEN end_char="88" id="token-1-0" morph="none" pos="word" start_char="82">Научный</TOKEN>
+<TOKEN end_char="101" id="token-1-1" morph="none" pos="word" start_char="90">руководитель</TOKEN>
+<TOKEN end_char="105" id="token-1-2" morph="none" pos="word" start_char="103">НИИ</TOKEN>
+<TOKEN end_char="112" id="token-1-3" morph="none" pos="word" start_char="107">вакцин</TOKEN>
+<TOKEN end_char="114" id="token-1-4" morph="none" pos="word" start_char="114">и</TOKEN>
+<TOKEN end_char="124" id="token-1-5" morph="none" pos="word" start_char="116">сывороток</TOKEN>
+<TOKEN end_char="130" id="token-1-6" morph="none" pos="word" start_char="126">имени</TOKEN>
+<TOKEN end_char="140" id="token-1-7" morph="none" pos="word" start_char="132">Мечникова</TOKEN>
+<TOKEN end_char="148" id="token-1-8" morph="none" pos="word" start_char="142">Виталий</TOKEN>
+<TOKEN end_char="155" id="token-1-9" morph="none" pos="word" start_char="150">Зверев</TOKEN>
+<TOKEN end_char="163" id="token-1-10" morph="none" pos="word" start_char="157">сообщил</TOKEN>
+<TOKEN end_char="164" id="token-1-11" morph="none" pos="punct" start_char="164">,</TOKEN>
+<TOKEN end_char="168" id="token-1-12" morph="none" pos="word" start_char="166">что</TOKEN>
+<TOKEN end_char="183" id="token-1-13" morph="none" pos="word" start_char="170">ополаскиватель</TOKEN>
+<TOKEN end_char="187" id="token-1-14" morph="none" pos="word" start_char="185">для</TOKEN>
+<TOKEN end_char="195" id="token-1-15" morph="none" pos="word" start_char="189">полости</TOKEN>
+<TOKEN end_char="199" id="token-1-16" morph="none" pos="word" start_char="197">рта</TOKEN>
+<TOKEN end_char="202" id="token-1-17" morph="none" pos="word" start_char="201">не</TOKEN>
+<TOKEN end_char="211" id="token-1-18" morph="none" pos="word" start_char="204">убережет</TOKEN>
+<TOKEN end_char="220" id="token-1-19" morph="none" pos="word" start_char="213">организм</TOKEN>
+<TOKEN end_char="223" id="token-1-20" morph="none" pos="word" start_char="222">от</TOKEN>
+<TOKEN end_char="237" id="token-1-21" morph="none" pos="word" start_char="225">инфицирования</TOKEN>
+<TOKEN end_char="251" id="token-1-22" morph="none" pos="word" start_char="239">коронавирусом</TOKEN>
+<TOKEN end_char="252" id="token-1-23" morph="none" pos="punct" start_char="252">,</TOKEN>
+<TOKEN end_char="256" id="token-1-24" morph="none" pos="word" start_char="254">так</TOKEN>
+<TOKEN end_char="260" id="token-1-25" morph="none" pos="word" start_char="258">как</TOKEN>
+<TOKEN end_char="268" id="token-1-26" morph="none" pos="word" start_char="262">частицы</TOKEN>
+<TOKEN end_char="275" id="token-1-27" morph="none" pos="word" start_char="270">вируса</TOKEN>
+<TOKEN end_char="284" id="token-1-28" morph="none" pos="word" start_char="277">попадают</TOKEN>
+<TOKEN end_char="286" id="token-1-29" morph="none" pos="word" start_char="286">и</TOKEN>
+<TOKEN end_char="288" id="token-1-30" morph="none" pos="word" start_char="288">в</TOKEN>
+<TOKEN end_char="292" id="token-1-31" morph="none" pos="word" start_char="290">нос</TOKEN>
+<TOKEN end_char="293" id="token-1-32" morph="none" pos="punct" start_char="293">,</TOKEN>
+<TOKEN end_char="295" id="token-1-33" morph="none" pos="word" start_char="295">и</TOKEN>
+<TOKEN end_char="297" id="token-1-34" morph="none" pos="word" start_char="297">в</TOKEN>
+<TOKEN end_char="309" id="token-1-35" morph="none" pos="word" start_char="299">дыхательные</TOKEN>
+<TOKEN end_char="314" id="token-1-36" morph="none" pos="word" start_char="311">пути</TOKEN>
+<TOKEN end_char="315" id="token-1-37" morph="none" pos="punct" start_char="315">.</TOKEN>
+<TRANSLATED_TEXT>Vitaly Zverev, Scientific Director of the Research Institute of Vaccines and Serum named after Mechnikov, reported that oral rinse will not prevent the body from becoming infected with coronavirus, as the virus particles enter both the nose and the respiratory tract.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="531" id="segment-2" start_char="318">
+<ORIGINAL_TEXT>По данным исследований американских ученых, ополаскиватель для рта, в составе которого есть хлорид цетилпиридиния (антисептик, убивающий бактерии и микроорганизмы), способен за 30 секунд нейтрализовать коронавирус.</ORIGINAL_TEXT>
+<TOKEN end_char="319" id="token-2-0" morph="none" pos="word" start_char="318">По</TOKEN>
+<TOKEN end_char="326" id="token-2-1" morph="none" pos="word" start_char="321">данным</TOKEN>
+<TOKEN end_char="339" id="token-2-2" morph="none" pos="word" start_char="328">исследований</TOKEN>
+<TOKEN end_char="352" id="token-2-3" morph="none" pos="word" start_char="341">американских</TOKEN>
+<TOKEN end_char="359" id="token-2-4" morph="none" pos="word" start_char="354">ученых</TOKEN>
+<TOKEN end_char="360" id="token-2-5" morph="none" pos="punct" start_char="360">,</TOKEN>
+<TOKEN end_char="375" id="token-2-6" morph="none" pos="word" start_char="362">ополаскиватель</TOKEN>
+<TOKEN end_char="379" id="token-2-7" morph="none" pos="word" start_char="377">для</TOKEN>
+<TOKEN end_char="383" id="token-2-8" morph="none" pos="word" start_char="381">рта</TOKEN>
+<TOKEN end_char="384" id="token-2-9" morph="none" pos="punct" start_char="384">,</TOKEN>
+<TOKEN end_char="386" id="token-2-10" morph="none" pos="word" start_char="386">в</TOKEN>
+<TOKEN end_char="394" id="token-2-11" morph="none" pos="word" start_char="388">составе</TOKEN>
+<TOKEN end_char="403" id="token-2-12" morph="none" pos="word" start_char="396">которого</TOKEN>
+<TOKEN end_char="408" id="token-2-13" morph="none" pos="word" start_char="405">есть</TOKEN>
+<TOKEN end_char="415" id="token-2-14" morph="none" pos="word" start_char="410">хлорид</TOKEN>
+<TOKEN end_char="430" id="token-2-15" morph="none" pos="word" start_char="417">цетилпиридиния</TOKEN>
+<TOKEN end_char="432" id="token-2-16" morph="none" pos="punct" start_char="432">(</TOKEN>
+<TOKEN end_char="442" id="token-2-17" morph="none" pos="word" start_char="433">антисептик</TOKEN>
+<TOKEN end_char="443" id="token-2-18" morph="none" pos="punct" start_char="443">,</TOKEN>
+<TOKEN end_char="453" id="token-2-19" morph="none" pos="word" start_char="445">убивающий</TOKEN>
+<TOKEN end_char="462" id="token-2-20" morph="none" pos="word" start_char="455">бактерии</TOKEN>
+<TOKEN end_char="464" id="token-2-21" morph="none" pos="word" start_char="464">и</TOKEN>
+<TOKEN end_char="479" id="token-2-22" morph="none" pos="word" start_char="466">микроорганизмы</TOKEN>
+<TOKEN end_char="481" id="token-2-23" morph="none" pos="punct" start_char="480">),</TOKEN>
+<TOKEN end_char="490" id="token-2-24" morph="none" pos="word" start_char="483">способен</TOKEN>
+<TOKEN end_char="493" id="token-2-25" morph="none" pos="word" start_char="492">за</TOKEN>
+<TOKEN end_char="496" id="token-2-26" morph="none" pos="word" start_char="495">30</TOKEN>
+<TOKEN end_char="503" id="token-2-27" morph="none" pos="word" start_char="498">секунд</TOKEN>
+<TOKEN end_char="518" id="token-2-28" morph="none" pos="word" start_char="505">нейтрализовать</TOKEN>
+<TOKEN end_char="530" id="token-2-29" morph="none" pos="word" start_char="520">коронавирус</TOKEN>
+<TOKEN end_char="531" id="token-2-30" morph="none" pos="punct" start_char="531">.</TOKEN>
+<TRANSLATED_TEXT>According to studies by American scientists, a mouthwash containing cetylpyridine chloride (an antiseptic that kills bacteria and microorganisms) can neutralize coronavirus in 30 seconds.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="741" id="segment-3" start_char="533">
+<ORIGINAL_TEXT>"Результаты показывают, что некоторые зубные пасты и жидкости для полоскания рта могут помочь уменьшить распространение SARS-CoV-2 путем временного уменьшения количества вируса во рту", – сказано в публикации.</ORIGINAL_TEXT>
+<TOKEN end_char="533" id="token-3-0" morph="none" pos="punct" start_char="533">"</TOKEN>
+<TOKEN end_char="543" id="token-3-1" morph="none" pos="word" start_char="534">Результаты</TOKEN>
+<TOKEN end_char="554" id="token-3-2" morph="none" pos="word" start_char="545">показывают</TOKEN>
+<TOKEN end_char="555" id="token-3-3" morph="none" pos="punct" start_char="555">,</TOKEN>
+<TOKEN end_char="559" id="token-3-4" morph="none" pos="word" start_char="557">что</TOKEN>
+<TOKEN end_char="569" id="token-3-5" morph="none" pos="word" start_char="561">некоторые</TOKEN>
+<TOKEN end_char="576" id="token-3-6" morph="none" pos="word" start_char="571">зубные</TOKEN>
+<TOKEN end_char="582" id="token-3-7" morph="none" pos="word" start_char="578">пасты</TOKEN>
+<TOKEN end_char="584" id="token-3-8" morph="none" pos="word" start_char="584">и</TOKEN>
+<TOKEN end_char="593" id="token-3-9" morph="none" pos="word" start_char="586">жидкости</TOKEN>
+<TOKEN end_char="597" id="token-3-10" morph="none" pos="word" start_char="595">для</TOKEN>
+<TOKEN end_char="608" id="token-3-11" morph="none" pos="word" start_char="599">полоскания</TOKEN>
+<TOKEN end_char="612" id="token-3-12" morph="none" pos="word" start_char="610">рта</TOKEN>
+<TOKEN end_char="618" id="token-3-13" morph="none" pos="word" start_char="614">могут</TOKEN>
+<TOKEN end_char="625" id="token-3-14" morph="none" pos="word" start_char="620">помочь</TOKEN>
+<TOKEN end_char="635" id="token-3-15" morph="none" pos="word" start_char="627">уменьшить</TOKEN>
+<TOKEN end_char="651" id="token-3-16" morph="none" pos="word" start_char="637">распространение</TOKEN>
+<TOKEN end_char="662" id="token-3-17" morph="none" pos="unknown" start_char="653">SARS-CoV-2</TOKEN>
+<TOKEN end_char="668" id="token-3-18" morph="none" pos="word" start_char="664">путем</TOKEN>
+<TOKEN end_char="679" id="token-3-19" morph="none" pos="word" start_char="670">временного</TOKEN>
+<TOKEN end_char="690" id="token-3-20" morph="none" pos="word" start_char="681">уменьшения</TOKEN>
+<TOKEN end_char="701" id="token-3-21" morph="none" pos="word" start_char="692">количества</TOKEN>
+<TOKEN end_char="708" id="token-3-22" morph="none" pos="word" start_char="703">вируса</TOKEN>
+<TOKEN end_char="711" id="token-3-23" morph="none" pos="word" start_char="710">во</TOKEN>
+<TOKEN end_char="715" id="token-3-24" morph="none" pos="word" start_char="713">рту</TOKEN>
+<TOKEN end_char="717" id="token-3-25" morph="none" pos="punct" start_char="716">",</TOKEN>
+<TOKEN end_char="719" id="token-3-26" morph="none" pos="punct" start_char="719">–</TOKEN>
+<TOKEN end_char="727" id="token-3-27" morph="none" pos="word" start_char="721">сказано</TOKEN>
+<TOKEN end_char="729" id="token-3-28" morph="none" pos="word" start_char="729">в</TOKEN>
+<TOKEN end_char="740" id="token-3-29" morph="none" pos="word" start_char="731">публикации</TOKEN>
+<TOKEN end_char="741" id="token-3-30" morph="none" pos="punct" start_char="741">.</TOKEN>
+<TRANSLATED_TEXT>"The results show that some toothpaste and mouthwash fluids can help reduce the spread of SARS-CoV-2 by temporarily reducing the amount of virus in the mouth," says the publication.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="916" id="segment-4" start_char="744">
+<ORIGINAL_TEXT>В свою очередь, вирусолог Виталий Зверев рассказал, что подобные средства могут убить частицы вируса только непосредственно в полости рта, при этом дальше защита не пройдет.</ORIGINAL_TEXT>
+<TOKEN end_char="744" id="token-4-0" morph="none" pos="word" start_char="744">В</TOKEN>
+<TOKEN end_char="749" id="token-4-1" morph="none" pos="word" start_char="746">свою</TOKEN>
+<TOKEN end_char="757" id="token-4-2" morph="none" pos="word" start_char="751">очередь</TOKEN>
+<TOKEN end_char="758" id="token-4-3" morph="none" pos="punct" start_char="758">,</TOKEN>
+<TOKEN end_char="768" id="token-4-4" morph="none" pos="word" start_char="760">вирусолог</TOKEN>
+<TOKEN end_char="776" id="token-4-5" morph="none" pos="word" start_char="770">Виталий</TOKEN>
+<TOKEN end_char="783" id="token-4-6" morph="none" pos="word" start_char="778">Зверев</TOKEN>
+<TOKEN end_char="793" id="token-4-7" morph="none" pos="word" start_char="785">рассказал</TOKEN>
+<TOKEN end_char="794" id="token-4-8" morph="none" pos="punct" start_char="794">,</TOKEN>
+<TOKEN end_char="798" id="token-4-9" morph="none" pos="word" start_char="796">что</TOKEN>
+<TOKEN end_char="807" id="token-4-10" morph="none" pos="word" start_char="800">подобные</TOKEN>
+<TOKEN end_char="816" id="token-4-11" morph="none" pos="word" start_char="809">средства</TOKEN>
+<TOKEN end_char="822" id="token-4-12" morph="none" pos="word" start_char="818">могут</TOKEN>
+<TOKEN end_char="828" id="token-4-13" morph="none" pos="word" start_char="824">убить</TOKEN>
+<TOKEN end_char="836" id="token-4-14" morph="none" pos="word" start_char="830">частицы</TOKEN>
+<TOKEN end_char="843" id="token-4-15" morph="none" pos="word" start_char="838">вируса</TOKEN>
+<TOKEN end_char="850" id="token-4-16" morph="none" pos="word" start_char="845">только</TOKEN>
+<TOKEN end_char="866" id="token-4-17" morph="none" pos="word" start_char="852">непосредственно</TOKEN>
+<TOKEN end_char="868" id="token-4-18" morph="none" pos="word" start_char="868">в</TOKEN>
+<TOKEN end_char="876" id="token-4-19" morph="none" pos="word" start_char="870">полости</TOKEN>
+<TOKEN end_char="880" id="token-4-20" morph="none" pos="word" start_char="878">рта</TOKEN>
+<TOKEN end_char="881" id="token-4-21" morph="none" pos="punct" start_char="881">,</TOKEN>
+<TOKEN end_char="885" id="token-4-22" morph="none" pos="word" start_char="883">при</TOKEN>
+<TOKEN end_char="890" id="token-4-23" morph="none" pos="word" start_char="887">этом</TOKEN>
+<TOKEN end_char="897" id="token-4-24" morph="none" pos="word" start_char="892">дальше</TOKEN>
+<TOKEN end_char="904" id="token-4-25" morph="none" pos="word" start_char="899">защита</TOKEN>
+<TOKEN end_char="907" id="token-4-26" morph="none" pos="word" start_char="906">не</TOKEN>
+<TOKEN end_char="915" id="token-4-27" morph="none" pos="word" start_char="909">пройдет</TOKEN>
+<TOKEN end_char="916" id="token-4-28" morph="none" pos="punct" start_char="916">.</TOKEN>
+<TRANSLATED_TEXT>Virologist Vitaly Zverev, in turn, said that such devices can kill virus particles only directly in the mouth, and no further protection will pass.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1040" id="segment-5" start_char="919">
+<ORIGINAL_TEXT>Кроме того, вирусолог подчеркнул, что даже при попадании через рот частицы коронавируса мгновенно распространяются дальше.</ORIGINAL_TEXT>
+<TOKEN end_char="923" id="token-5-0" morph="none" pos="word" start_char="919">Кроме</TOKEN>
+<TOKEN end_char="928" id="token-5-1" morph="none" pos="word" start_char="925">того</TOKEN>
+<TOKEN end_char="929" id="token-5-2" morph="none" pos="punct" start_char="929">,</TOKEN>
+<TOKEN end_char="939" id="token-5-3" morph="none" pos="word" start_char="931">вирусолог</TOKEN>
+<TOKEN end_char="950" id="token-5-4" morph="none" pos="word" start_char="941">подчеркнул</TOKEN>
+<TOKEN end_char="951" id="token-5-5" morph="none" pos="punct" start_char="951">,</TOKEN>
+<TOKEN end_char="955" id="token-5-6" morph="none" pos="word" start_char="953">что</TOKEN>
+<TOKEN end_char="960" id="token-5-7" morph="none" pos="word" start_char="957">даже</TOKEN>
+<TOKEN end_char="964" id="token-5-8" morph="none" pos="word" start_char="962">при</TOKEN>
+<TOKEN end_char="974" id="token-5-9" morph="none" pos="word" start_char="966">попадании</TOKEN>
+<TOKEN end_char="980" id="token-5-10" morph="none" pos="word" start_char="976">через</TOKEN>
+<TOKEN end_char="984" id="token-5-11" morph="none" pos="word" start_char="982">рот</TOKEN>
+<TOKEN end_char="992" id="token-5-12" morph="none" pos="word" start_char="986">частицы</TOKEN>
+<TOKEN end_char="1005" id="token-5-13" morph="none" pos="word" start_char="994">коронавируса</TOKEN>
+<TOKEN end_char="1015" id="token-5-14" morph="none" pos="word" start_char="1007">мгновенно</TOKEN>
+<TOKEN end_char="1032" id="token-5-15" morph="none" pos="word" start_char="1017">распространяются</TOKEN>
+<TOKEN end_char="1039" id="token-5-16" morph="none" pos="word" start_char="1034">дальше</TOKEN>
+<TOKEN end_char="1040" id="token-5-17" morph="none" pos="punct" start_char="1040">.</TOKEN>
+<TRANSLATED_TEXT>In addition, the virologist stressed that even if the coronavirus particles were to pass through the mouth, they would immediately spread further.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1071" id="segment-6" start_char="1042">
+<ORIGINAL_TEXT>"Вирус находится в носоглотке.</ORIGINAL_TEXT>
+<TOKEN end_char="1042" id="token-6-0" morph="none" pos="punct" start_char="1042">"</TOKEN>
+<TOKEN end_char="1047" id="token-6-1" morph="none" pos="word" start_char="1043">Вирус</TOKEN>
+<TOKEN end_char="1057" id="token-6-2" morph="none" pos="word" start_char="1049">находится</TOKEN>
+<TOKEN end_char="1059" id="token-6-3" morph="none" pos="word" start_char="1059">в</TOKEN>
+<TOKEN end_char="1070" id="token-6-4" morph="none" pos="word" start_char="1061">носоглотке</TOKEN>
+<TOKEN end_char="1071" id="token-6-5" morph="none" pos="punct" start_char="1071">.</TOKEN>
+<TRANSLATED_TEXT>The virus is in the nasal cavity.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1123" id="segment-7" start_char="1073">
+<ORIGINAL_TEXT>Носы вы же не будете полоскать жидкостью для зубов?</ORIGINAL_TEXT>
+<TOKEN end_char="1076" id="token-7-0" morph="none" pos="word" start_char="1073">Носы</TOKEN>
+<TOKEN end_char="1079" id="token-7-1" morph="none" pos="word" start_char="1078">вы</TOKEN>
+<TOKEN end_char="1082" id="token-7-2" morph="none" pos="word" start_char="1081">же</TOKEN>
+<TOKEN end_char="1085" id="token-7-3" morph="none" pos="word" start_char="1084">не</TOKEN>
+<TOKEN end_char="1092" id="token-7-4" morph="none" pos="word" start_char="1087">будете</TOKEN>
+<TOKEN end_char="1102" id="token-7-5" morph="none" pos="word" start_char="1094">полоскать</TOKEN>
+<TOKEN end_char="1112" id="token-7-6" morph="none" pos="word" start_char="1104">жидкостью</TOKEN>
+<TOKEN end_char="1116" id="token-7-7" morph="none" pos="word" start_char="1114">для</TOKEN>
+<TOKEN end_char="1122" id="token-7-8" morph="none" pos="word" start_char="1118">зубов</TOKEN>
+<TOKEN end_char="1123" id="token-7-9" morph="none" pos="punct" start_char="1123">?</TOKEN>
+<TRANSLATED_TEXT>You're not gonna rub your nose with dental fluid?</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1206" id="segment-8" start_char="1125">
+<ORIGINAL_TEXT>Во рту вирус не живет, он сразу попадает в дыхательные пути", – подчеркнул Зверев.</ORIGINAL_TEXT>
+<TOKEN end_char="1126" id="token-8-0" morph="none" pos="word" start_char="1125">Во</TOKEN>
+<TOKEN end_char="1130" id="token-8-1" morph="none" pos="word" start_char="1128">рту</TOKEN>
+<TOKEN end_char="1136" id="token-8-2" morph="none" pos="word" start_char="1132">вирус</TOKEN>
+<TOKEN end_char="1139" id="token-8-3" morph="none" pos="word" start_char="1138">не</TOKEN>
+<TOKEN end_char="1145" id="token-8-4" morph="none" pos="word" start_char="1141">живет</TOKEN>
+<TOKEN end_char="1146" id="token-8-5" morph="none" pos="punct" start_char="1146">,</TOKEN>
+<TOKEN end_char="1149" id="token-8-6" morph="none" pos="word" start_char="1148">он</TOKEN>
+<TOKEN end_char="1155" id="token-8-7" morph="none" pos="word" start_char="1151">сразу</TOKEN>
+<TOKEN end_char="1164" id="token-8-8" morph="none" pos="word" start_char="1157">попадает</TOKEN>
+<TOKEN end_char="1166" id="token-8-9" morph="none" pos="word" start_char="1166">в</TOKEN>
+<TOKEN end_char="1178" id="token-8-10" morph="none" pos="word" start_char="1168">дыхательные</TOKEN>
+<TOKEN end_char="1183" id="token-8-11" morph="none" pos="word" start_char="1180">пути</TOKEN>
+<TOKEN end_char="1185" id="token-8-12" morph="none" pos="punct" start_char="1184">",</TOKEN>
+<TOKEN end_char="1187" id="token-8-13" morph="none" pos="punct" start_char="1187">–</TOKEN>
+<TOKEN end_char="1198" id="token-8-14" morph="none" pos="word" start_char="1189">подчеркнул</TOKEN>
+<TOKEN end_char="1205" id="token-8-15" morph="none" pos="word" start_char="1200">Зверев</TOKEN>
+<TOKEN end_char="1206" id="token-8-16" morph="none" pos="punct" start_char="1206">.</TOKEN>
+<TRANSLATED_TEXT>The virus does not live in the mouth, it immediately enters the respiratory tract, "Zverev stressed.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1305" id="segment-9" start_char="1209">
+<ORIGINAL_TEXT>Эксперт пояснил, что даже если очистить рот, это полностью не избавит человека от наличия вируса.</ORIGINAL_TEXT>
+<TOKEN end_char="1215" id="token-9-0" morph="none" pos="word" start_char="1209">Эксперт</TOKEN>
+<TOKEN end_char="1223" id="token-9-1" morph="none" pos="word" start_char="1217">пояснил</TOKEN>
+<TOKEN end_char="1224" id="token-9-2" morph="none" pos="punct" start_char="1224">,</TOKEN>
+<TOKEN end_char="1228" id="token-9-3" morph="none" pos="word" start_char="1226">что</TOKEN>
+<TOKEN end_char="1233" id="token-9-4" morph="none" pos="word" start_char="1230">даже</TOKEN>
+<TOKEN end_char="1238" id="token-9-5" morph="none" pos="word" start_char="1235">если</TOKEN>
+<TOKEN end_char="1247" id="token-9-6" morph="none" pos="word" start_char="1240">очистить</TOKEN>
+<TOKEN end_char="1251" id="token-9-7" morph="none" pos="word" start_char="1249">рот</TOKEN>
+<TOKEN end_char="1252" id="token-9-8" morph="none" pos="punct" start_char="1252">,</TOKEN>
+<TOKEN end_char="1256" id="token-9-9" morph="none" pos="word" start_char="1254">это</TOKEN>
+<TOKEN end_char="1266" id="token-9-10" morph="none" pos="word" start_char="1258">полностью</TOKEN>
+<TOKEN end_char="1269" id="token-9-11" morph="none" pos="word" start_char="1268">не</TOKEN>
+<TOKEN end_char="1277" id="token-9-12" morph="none" pos="word" start_char="1271">избавит</TOKEN>
+<TOKEN end_char="1286" id="token-9-13" morph="none" pos="word" start_char="1279">человека</TOKEN>
+<TOKEN end_char="1289" id="token-9-14" morph="none" pos="word" start_char="1288">от</TOKEN>
+<TOKEN end_char="1297" id="token-9-15" morph="none" pos="word" start_char="1291">наличия</TOKEN>
+<TOKEN end_char="1304" id="token-9-16" morph="none" pos="word" start_char="1299">вируса</TOKEN>
+<TOKEN end_char="1305" id="token-9-17" morph="none" pos="punct" start_char="1305">.</TOKEN>
+<TRANSLATED_TEXT>The expert explained that even if the mouth was cleaned, it would not completely rid a person of the virus.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1385" id="segment-10" start_char="1308">
+<ORIGINAL_TEXT>Кроме того, вирусолог предостерег от злоупотребления ополаскивателями для рта.</ORIGINAL_TEXT>
+<TOKEN end_char="1312" id="token-10-0" morph="none" pos="word" start_char="1308">Кроме</TOKEN>
+<TOKEN end_char="1317" id="token-10-1" morph="none" pos="word" start_char="1314">того</TOKEN>
+<TOKEN end_char="1318" id="token-10-2" morph="none" pos="punct" start_char="1318">,</TOKEN>
+<TOKEN end_char="1328" id="token-10-3" morph="none" pos="word" start_char="1320">вирусолог</TOKEN>
+<TOKEN end_char="1340" id="token-10-4" morph="none" pos="word" start_char="1330">предостерег</TOKEN>
+<TOKEN end_char="1343" id="token-10-5" morph="none" pos="word" start_char="1342">от</TOKEN>
+<TOKEN end_char="1359" id="token-10-6" morph="none" pos="word" start_char="1345">злоупотребления</TOKEN>
+<TOKEN end_char="1376" id="token-10-7" morph="none" pos="word" start_char="1361">ополаскивателями</TOKEN>
+<TOKEN end_char="1380" id="token-10-8" morph="none" pos="word" start_char="1378">для</TOKEN>
+<TOKEN end_char="1384" id="token-10-9" morph="none" pos="word" start_char="1382">рта</TOKEN>
+<TOKEN end_char="1385" id="token-10-10" morph="none" pos="punct" start_char="1385">.</TOKEN>
+<TRANSLATED_TEXT>In addition, the virologist warned against the abuse of mouthwashers.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1441" id="segment-11" start_char="1387">
+<ORIGINAL_TEXT>"У нас есть своя микрофлора, которая защищает организм.</ORIGINAL_TEXT>
+<TOKEN end_char="1387" id="token-11-0" morph="none" pos="punct" start_char="1387">"</TOKEN>
+<TOKEN end_char="1388" id="token-11-1" morph="none" pos="word" start_char="1388">У</TOKEN>
+<TOKEN end_char="1392" id="token-11-2" morph="none" pos="word" start_char="1390">нас</TOKEN>
+<TOKEN end_char="1397" id="token-11-3" morph="none" pos="word" start_char="1394">есть</TOKEN>
+<TOKEN end_char="1402" id="token-11-4" morph="none" pos="word" start_char="1399">своя</TOKEN>
+<TOKEN end_char="1413" id="token-11-5" morph="none" pos="word" start_char="1404">микрофлора</TOKEN>
+<TOKEN end_char="1414" id="token-11-6" morph="none" pos="punct" start_char="1414">,</TOKEN>
+<TOKEN end_char="1422" id="token-11-7" morph="none" pos="word" start_char="1416">которая</TOKEN>
+<TOKEN end_char="1431" id="token-11-8" morph="none" pos="word" start_char="1424">защищает</TOKEN>
+<TOKEN end_char="1440" id="token-11-9" morph="none" pos="word" start_char="1433">организм</TOKEN>
+<TOKEN end_char="1441" id="token-11-10" morph="none" pos="punct" start_char="1441">.</TOKEN>
+<TRANSLATED_TEXT>We have our own microflora that protects the organism.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1493" id="segment-12" start_char="1443">
+<ORIGINAL_TEXT>Мы таким образом убиваем все", – подчеркнул Зверев.</ORIGINAL_TEXT>
+<TOKEN end_char="1444" id="token-12-0" morph="none" pos="word" start_char="1443">Мы</TOKEN>
+<TOKEN end_char="1450" id="token-12-1" morph="none" pos="word" start_char="1446">таким</TOKEN>
+<TOKEN end_char="1458" id="token-12-2" morph="none" pos="word" start_char="1452">образом</TOKEN>
+<TOKEN end_char="1466" id="token-12-3" morph="none" pos="word" start_char="1460">убиваем</TOKEN>
+<TOKEN end_char="1470" id="token-12-4" morph="none" pos="word" start_char="1468">все</TOKEN>
+<TOKEN end_char="1472" id="token-12-5" morph="none" pos="punct" start_char="1471">",</TOKEN>
+<TOKEN end_char="1474" id="token-12-6" morph="none" pos="punct" start_char="1474">–</TOKEN>
+<TOKEN end_char="1485" id="token-12-7" morph="none" pos="word" start_char="1476">подчеркнул</TOKEN>
+<TOKEN end_char="1492" id="token-12-8" morph="none" pos="word" start_char="1487">Зверев</TOKEN>
+<TOKEN end_char="1493" id="token-12-9" morph="none" pos="punct" start_char="1493">.</TOKEN>
+<TRANSLATED_TEXT>"We're going to kill everyone," he said.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1643" id="segment-13" start_char="1496">
+<ORIGINAL_TEXT>Ранее ученые из Академии наук Чехии изобрели бактерицидную бумагу, которая уничтожает коронавирус через 30 минут после его попадания на поверхность.</ORIGINAL_TEXT>
+<TOKEN end_char="1500" id="token-13-0" morph="none" pos="word" start_char="1496">Ранее</TOKEN>
+<TOKEN end_char="1507" id="token-13-1" morph="none" pos="word" start_char="1502">ученые</TOKEN>
+<TOKEN end_char="1510" id="token-13-2" morph="none" pos="word" start_char="1509">из</TOKEN>
+<TOKEN end_char="1519" id="token-13-3" morph="none" pos="word" start_char="1512">Академии</TOKEN>
+<TOKEN end_char="1524" id="token-13-4" morph="none" pos="word" start_char="1521">наук</TOKEN>
+<TOKEN end_char="1530" id="token-13-5" morph="none" pos="word" start_char="1526">Чехии</TOKEN>
+<TOKEN end_char="1539" id="token-13-6" morph="none" pos="word" start_char="1532">изобрели</TOKEN>
+<TOKEN end_char="1553" id="token-13-7" morph="none" pos="word" start_char="1541">бактерицидную</TOKEN>
+<TOKEN end_char="1560" id="token-13-8" morph="none" pos="word" start_char="1555">бумагу</TOKEN>
+<TOKEN end_char="1561" id="token-13-9" morph="none" pos="punct" start_char="1561">,</TOKEN>
+<TOKEN end_char="1569" id="token-13-10" morph="none" pos="word" start_char="1563">которая</TOKEN>
+<TOKEN end_char="1580" id="token-13-11" morph="none" pos="word" start_char="1571">уничтожает</TOKEN>
+<TOKEN end_char="1592" id="token-13-12" morph="none" pos="word" start_char="1582">коронавирус</TOKEN>
+<TOKEN end_char="1598" id="token-13-13" morph="none" pos="word" start_char="1594">через</TOKEN>
+<TOKEN end_char="1601" id="token-13-14" morph="none" pos="word" start_char="1600">30</TOKEN>
+<TOKEN end_char="1607" id="token-13-15" morph="none" pos="word" start_char="1603">минут</TOKEN>
+<TOKEN end_char="1613" id="token-13-16" morph="none" pos="word" start_char="1609">после</TOKEN>
+<TOKEN end_char="1617" id="token-13-17" morph="none" pos="word" start_char="1615">его</TOKEN>
+<TOKEN end_char="1627" id="token-13-18" morph="none" pos="word" start_char="1619">попадания</TOKEN>
+<TOKEN end_char="1630" id="token-13-19" morph="none" pos="word" start_char="1629">на</TOKEN>
+<TOKEN end_char="1642" id="token-13-20" morph="none" pos="word" start_char="1632">поверхность</TOKEN>
+<TOKEN end_char="1643" id="token-13-21" morph="none" pos="punct" start_char="1643">.</TOKEN>
+<TRANSLATED_TEXT>Previously, scientists from the Czech Academy of Sciences had invented bactericidal paper, which destroys coronavirus 30 minutes after it hits the surface.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

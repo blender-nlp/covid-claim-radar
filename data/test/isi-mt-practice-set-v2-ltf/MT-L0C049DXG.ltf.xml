@@ -1,0 +1,355 @@
+<LCTL_TEXT lang="rus">
+<DOC grammar="none" id="L0C049DXG" lang="rus" raw_text_char_length="1931" raw_text_md5="6966bcdd92e8df0f3c76fdd54e31eff2" tokenization="tokenization_parameters.v5.0">
+<TEXT>
+<SEG end_char="77" id="segment-0" start_char="1">
+<ORIGINAL_TEXT>В Госдуме заверили, что кошки и собаки не являются переносчиками коронавируса</ORIGINAL_TEXT>
+<TOKEN end_char="1" id="token-0-0" morph="none" pos="word" start_char="1">В</TOKEN>
+<TOKEN end_char="9" id="token-0-1" morph="none" pos="word" start_char="3">Госдуме</TOKEN>
+<TOKEN end_char="18" id="token-0-2" morph="none" pos="word" start_char="11">заверили</TOKEN>
+<TOKEN end_char="19" id="token-0-3" morph="none" pos="punct" start_char="19">,</TOKEN>
+<TOKEN end_char="23" id="token-0-4" morph="none" pos="word" start_char="21">что</TOKEN>
+<TOKEN end_char="29" id="token-0-5" morph="none" pos="word" start_char="25">кошки</TOKEN>
+<TOKEN end_char="31" id="token-0-6" morph="none" pos="word" start_char="31">и</TOKEN>
+<TOKEN end_char="38" id="token-0-7" morph="none" pos="word" start_char="33">собаки</TOKEN>
+<TOKEN end_char="41" id="token-0-8" morph="none" pos="word" start_char="40">не</TOKEN>
+<TOKEN end_char="50" id="token-0-9" morph="none" pos="word" start_char="43">являются</TOKEN>
+<TOKEN end_char="64" id="token-0-10" morph="none" pos="word" start_char="52">переносчиками</TOKEN>
+<TOKEN end_char="77" id="token-0-11" morph="none" pos="word" start_char="66">коронавируса</TOKEN>
+<TRANSLATED_TEXT>The State Duma has been assured that cats and dogs are not carriers of coronavirus....</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="87" id="segment-1" start_char="81">
+<ORIGINAL_TEXT>Москва.</ORIGINAL_TEXT>
+<TOKEN end_char="86" id="token-1-0" morph="none" pos="word" start_char="81">Москва</TOKEN>
+<TOKEN end_char="87" id="token-1-1" morph="none" pos="punct" start_char="87">.</TOKEN>
+<TRANSLATED_TEXT>Moscow.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="97" id="segment-2" start_char="89">
+<ORIGINAL_TEXT>1 апреля.</ORIGINAL_TEXT>
+<TOKEN end_char="89" id="token-2-0" morph="none" pos="word" start_char="89">1</TOKEN>
+<TOKEN end_char="96" id="token-2-1" morph="none" pos="word" start_char="91">апреля</TOKEN>
+<TOKEN end_char="97" id="token-2-2" morph="none" pos="punct" start_char="97">.</TOKEN>
+<TRANSLATED_TEXT>1 April.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="324" id="segment-3" start_char="99">
+<ORIGINAL_TEXT>INTERFAX.RU - Домашние животные не могут заразиться коронавирусом COVID-19 и распространять его, заявил глава комитета Госдумы по экологии и охране окружающей среды Владимир Бурматов, призвав россиян брать животных из приютов.</ORIGINAL_TEXT>
+<TOKEN end_char="109" id="token-3-0" morph="none" pos="unknown" start_char="99">INTERFAX.RU</TOKEN>
+<TOKEN end_char="111" id="token-3-1" morph="none" pos="punct" start_char="111">-</TOKEN>
+<TOKEN end_char="120" id="token-3-2" morph="none" pos="word" start_char="113">Домашние</TOKEN>
+<TOKEN end_char="129" id="token-3-3" morph="none" pos="word" start_char="122">животные</TOKEN>
+<TOKEN end_char="132" id="token-3-4" morph="none" pos="word" start_char="131">не</TOKEN>
+<TOKEN end_char="138" id="token-3-5" morph="none" pos="word" start_char="134">могут</TOKEN>
+<TOKEN end_char="149" id="token-3-6" morph="none" pos="word" start_char="140">заразиться</TOKEN>
+<TOKEN end_char="163" id="token-3-7" morph="none" pos="word" start_char="151">коронавирусом</TOKEN>
+<TOKEN end_char="172" id="token-3-8" morph="none" pos="unknown" start_char="165">COVID-19</TOKEN>
+<TOKEN end_char="174" id="token-3-9" morph="none" pos="word" start_char="174">и</TOKEN>
+<TOKEN end_char="189" id="token-3-10" morph="none" pos="word" start_char="176">распространять</TOKEN>
+<TOKEN end_char="193" id="token-3-11" morph="none" pos="word" start_char="191">его</TOKEN>
+<TOKEN end_char="194" id="token-3-12" morph="none" pos="punct" start_char="194">,</TOKEN>
+<TOKEN end_char="201" id="token-3-13" morph="none" pos="word" start_char="196">заявил</TOKEN>
+<TOKEN end_char="207" id="token-3-14" morph="none" pos="word" start_char="203">глава</TOKEN>
+<TOKEN end_char="216" id="token-3-15" morph="none" pos="word" start_char="209">комитета</TOKEN>
+<TOKEN end_char="224" id="token-3-16" morph="none" pos="word" start_char="218">Госдумы</TOKEN>
+<TOKEN end_char="227" id="token-3-17" morph="none" pos="word" start_char="226">по</TOKEN>
+<TOKEN end_char="236" id="token-3-18" morph="none" pos="word" start_char="229">экологии</TOKEN>
+<TOKEN end_char="238" id="token-3-19" morph="none" pos="word" start_char="238">и</TOKEN>
+<TOKEN end_char="245" id="token-3-20" morph="none" pos="word" start_char="240">охране</TOKEN>
+<TOKEN end_char="256" id="token-3-21" morph="none" pos="word" start_char="247">окружающей</TOKEN>
+<TOKEN end_char="262" id="token-3-22" morph="none" pos="word" start_char="258">среды</TOKEN>
+<TOKEN end_char="271" id="token-3-23" morph="none" pos="word" start_char="264">Владимир</TOKEN>
+<TOKEN end_char="280" id="token-3-24" morph="none" pos="word" start_char="273">Бурматов</TOKEN>
+<TOKEN end_char="281" id="token-3-25" morph="none" pos="punct" start_char="281">,</TOKEN>
+<TOKEN end_char="289" id="token-3-26" morph="none" pos="word" start_char="283">призвав</TOKEN>
+<TOKEN end_char="297" id="token-3-27" morph="none" pos="word" start_char="291">россиян</TOKEN>
+<TOKEN end_char="303" id="token-3-28" morph="none" pos="word" start_char="299">брать</TOKEN>
+<TOKEN end_char="312" id="token-3-29" morph="none" pos="word" start_char="305">животных</TOKEN>
+<TOKEN end_char="315" id="token-3-30" morph="none" pos="word" start_char="314">из</TOKEN>
+<TOKEN end_char="323" id="token-3-31" morph="none" pos="word" start_char="317">приютов</TOKEN>
+<TOKEN end_char="324" id="token-3-32" morph="none" pos="punct" start_char="324">.</TOKEN>
+<TRANSLATED_TEXT>INTERFAX.RU - Domestic animals cannot be infected with COVID-19 coronavirus and spread it, said Vladimir Burmatov, head of the State Duma Committee on Ecology and Environmental Protection, calling on Russians to take animals from shelters.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="512" id="segment-4" start_char="327">
+<ORIGINAL_TEXT>"По актуальным данным Всемирной организации здравоохранения, нет фактов заражения кошек и собак COVID-19, как и подтверждения того, что домашние животные могут распространять этот вирус.</ORIGINAL_TEXT>
+<TOKEN end_char="327" id="token-4-0" morph="none" pos="punct" start_char="327">"</TOKEN>
+<TOKEN end_char="329" id="token-4-1" morph="none" pos="word" start_char="328">По</TOKEN>
+<TOKEN end_char="340" id="token-4-2" morph="none" pos="word" start_char="331">актуальным</TOKEN>
+<TOKEN end_char="347" id="token-4-3" morph="none" pos="word" start_char="342">данным</TOKEN>
+<TOKEN end_char="357" id="token-4-4" morph="none" pos="word" start_char="349">Всемирной</TOKEN>
+<TOKEN end_char="369" id="token-4-5" morph="none" pos="word" start_char="359">организации</TOKEN>
+<TOKEN end_char="385" id="token-4-6" morph="none" pos="word" start_char="371">здравоохранения</TOKEN>
+<TOKEN end_char="386" id="token-4-7" morph="none" pos="punct" start_char="386">,</TOKEN>
+<TOKEN end_char="390" id="token-4-8" morph="none" pos="word" start_char="388">нет</TOKEN>
+<TOKEN end_char="397" id="token-4-9" morph="none" pos="word" start_char="392">фактов</TOKEN>
+<TOKEN end_char="407" id="token-4-10" morph="none" pos="word" start_char="399">заражения</TOKEN>
+<TOKEN end_char="413" id="token-4-11" morph="none" pos="word" start_char="409">кошек</TOKEN>
+<TOKEN end_char="415" id="token-4-12" morph="none" pos="word" start_char="415">и</TOKEN>
+<TOKEN end_char="421" id="token-4-13" morph="none" pos="word" start_char="417">собак</TOKEN>
+<TOKEN end_char="430" id="token-4-14" morph="none" pos="unknown" start_char="423">COVID-19</TOKEN>
+<TOKEN end_char="431" id="token-4-15" morph="none" pos="punct" start_char="431">,</TOKEN>
+<TOKEN end_char="435" id="token-4-16" morph="none" pos="word" start_char="433">как</TOKEN>
+<TOKEN end_char="437" id="token-4-17" morph="none" pos="word" start_char="437">и</TOKEN>
+<TOKEN end_char="451" id="token-4-18" morph="none" pos="word" start_char="439">подтверждения</TOKEN>
+<TOKEN end_char="456" id="token-4-19" morph="none" pos="word" start_char="453">того</TOKEN>
+<TOKEN end_char="457" id="token-4-20" morph="none" pos="punct" start_char="457">,</TOKEN>
+<TOKEN end_char="461" id="token-4-21" morph="none" pos="word" start_char="459">что</TOKEN>
+<TOKEN end_char="470" id="token-4-22" morph="none" pos="word" start_char="463">домашние</TOKEN>
+<TOKEN end_char="479" id="token-4-23" morph="none" pos="word" start_char="472">животные</TOKEN>
+<TOKEN end_char="485" id="token-4-24" morph="none" pos="word" start_char="481">могут</TOKEN>
+<TOKEN end_char="500" id="token-4-25" morph="none" pos="word" start_char="487">распространять</TOKEN>
+<TOKEN end_char="505" id="token-4-26" morph="none" pos="word" start_char="502">этот</TOKEN>
+<TOKEN end_char="511" id="token-4-27" morph="none" pos="word" start_char="507">вирус</TOKEN>
+<TOKEN end_char="512" id="token-4-28" morph="none" pos="punct" start_char="512">.</TOKEN>
+<TRANSLATED_TEXT>According to current World Health Organization data, there is no evidence of infection of cats and dogs with COVID-19, nor evidence that domestic animals can spread the virus.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="635" id="segment-5" start_char="514">
+<ORIGINAL_TEXT>Французское медико-санитарное агентство Anses также исключило возможность заражения человека вирусом от домашних животных.</ORIGINAL_TEXT>
+<TOKEN end_char="524" id="token-5-0" morph="none" pos="word" start_char="514">Французское</TOKEN>
+<TOKEN end_char="542" id="token-5-1" morph="none" pos="unknown" start_char="526">медико-санитарное</TOKEN>
+<TOKEN end_char="552" id="token-5-2" morph="none" pos="word" start_char="544">агентство</TOKEN>
+<TOKEN end_char="558" id="token-5-3" morph="none" pos="word" start_char="554">Anses</TOKEN>
+<TOKEN end_char="564" id="token-5-4" morph="none" pos="word" start_char="560">также</TOKEN>
+<TOKEN end_char="574" id="token-5-5" morph="none" pos="word" start_char="566">исключило</TOKEN>
+<TOKEN end_char="586" id="token-5-6" morph="none" pos="word" start_char="576">возможность</TOKEN>
+<TOKEN end_char="596" id="token-5-7" morph="none" pos="word" start_char="588">заражения</TOKEN>
+<TOKEN end_char="605" id="token-5-8" morph="none" pos="word" start_char="598">человека</TOKEN>
+<TOKEN end_char="613" id="token-5-9" morph="none" pos="word" start_char="607">вирусом</TOKEN>
+<TOKEN end_char="616" id="token-5-10" morph="none" pos="word" start_char="615">от</TOKEN>
+<TOKEN end_char="625" id="token-5-11" morph="none" pos="word" start_char="618">домашних</TOKEN>
+<TOKEN end_char="634" id="token-5-12" morph="none" pos="word" start_char="627">животных</TOKEN>
+<TOKEN end_char="635" id="token-5-13" morph="none" pos="punct" start_char="635">.</TOKEN>
+<TRANSLATED_TEXT>The French health agency Anses has also ruled out the possibility of human transmission of the virus from domestic animals.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="687" id="segment-6" start_char="637">
+<ORIGINAL_TEXT>Эти данные подтверждаются и отечественными учеными.</ORIGINAL_TEXT>
+<TOKEN end_char="639" id="token-6-0" morph="none" pos="word" start_char="637">Эти</TOKEN>
+<TOKEN end_char="646" id="token-6-1" morph="none" pos="word" start_char="641">данные</TOKEN>
+<TOKEN end_char="661" id="token-6-2" morph="none" pos="word" start_char="648">подтверждаются</TOKEN>
+<TOKEN end_char="663" id="token-6-3" morph="none" pos="word" start_char="663">и</TOKEN>
+<TOKEN end_char="678" id="token-6-4" morph="none" pos="word" start_char="665">отечественными</TOKEN>
+<TOKEN end_char="686" id="token-6-5" morph="none" pos="word" start_char="680">учеными</TOKEN>
+<TOKEN end_char="687" id="token-6-6" morph="none" pos="punct" start_char="687">.</TOKEN>
+<TRANSLATED_TEXT>These data are also confirmed by domestic scientists.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="885" id="segment-7" start_char="689">
+<ORIGINAL_TEXT>По данным Центрального НИИ эпидемиологии, домашние животные, в том числе кошки и собаки, не могут быть источником заражения новой коронавирусной инфекцией", - написал Бурматов в среду в инстаграме.</ORIGINAL_TEXT>
+<TOKEN end_char="690" id="token-7-0" morph="none" pos="word" start_char="689">По</TOKEN>
+<TOKEN end_char="697" id="token-7-1" morph="none" pos="word" start_char="692">данным</TOKEN>
+<TOKEN end_char="710" id="token-7-2" morph="none" pos="word" start_char="699">Центрального</TOKEN>
+<TOKEN end_char="714" id="token-7-3" morph="none" pos="word" start_char="712">НИИ</TOKEN>
+<TOKEN end_char="728" id="token-7-4" morph="none" pos="word" start_char="716">эпидемиологии</TOKEN>
+<TOKEN end_char="729" id="token-7-5" morph="none" pos="punct" start_char="729">,</TOKEN>
+<TOKEN end_char="738" id="token-7-6" morph="none" pos="word" start_char="731">домашние</TOKEN>
+<TOKEN end_char="747" id="token-7-7" morph="none" pos="word" start_char="740">животные</TOKEN>
+<TOKEN end_char="748" id="token-7-8" morph="none" pos="punct" start_char="748">,</TOKEN>
+<TOKEN end_char="750" id="token-7-9" morph="none" pos="word" start_char="750">в</TOKEN>
+<TOKEN end_char="754" id="token-7-10" morph="none" pos="word" start_char="752">том</TOKEN>
+<TOKEN end_char="760" id="token-7-11" morph="none" pos="word" start_char="756">числе</TOKEN>
+<TOKEN end_char="766" id="token-7-12" morph="none" pos="word" start_char="762">кошки</TOKEN>
+<TOKEN end_char="768" id="token-7-13" morph="none" pos="word" start_char="768">и</TOKEN>
+<TOKEN end_char="775" id="token-7-14" morph="none" pos="word" start_char="770">собаки</TOKEN>
+<TOKEN end_char="776" id="token-7-15" morph="none" pos="punct" start_char="776">,</TOKEN>
+<TOKEN end_char="779" id="token-7-16" morph="none" pos="word" start_char="778">не</TOKEN>
+<TOKEN end_char="785" id="token-7-17" morph="none" pos="word" start_char="781">могут</TOKEN>
+<TOKEN end_char="790" id="token-7-18" morph="none" pos="word" start_char="787">быть</TOKEN>
+<TOKEN end_char="801" id="token-7-19" morph="none" pos="word" start_char="792">источником</TOKEN>
+<TOKEN end_char="811" id="token-7-20" morph="none" pos="word" start_char="803">заражения</TOKEN>
+<TOKEN end_char="817" id="token-7-21" morph="none" pos="word" start_char="813">новой</TOKEN>
+<TOKEN end_char="832" id="token-7-22" morph="none" pos="word" start_char="819">коронавирусной</TOKEN>
+<TOKEN end_char="842" id="token-7-23" morph="none" pos="word" start_char="834">инфекцией</TOKEN>
+<TOKEN end_char="844" id="token-7-24" morph="none" pos="punct" start_char="843">",</TOKEN>
+<TOKEN end_char="846" id="token-7-25" morph="none" pos="punct" start_char="846">-</TOKEN>
+<TOKEN end_char="854" id="token-7-26" morph="none" pos="word" start_char="848">написал</TOKEN>
+<TOKEN end_char="863" id="token-7-27" morph="none" pos="word" start_char="856">Бурматов</TOKEN>
+<TOKEN end_char="865" id="token-7-28" morph="none" pos="word" start_char="865">в</TOKEN>
+<TOKEN end_char="871" id="token-7-29" morph="none" pos="word" start_char="867">среду</TOKEN>
+<TOKEN end_char="873" id="token-7-30" morph="none" pos="word" start_char="873">в</TOKEN>
+<TOKEN end_char="884" id="token-7-31" morph="none" pos="word" start_char="875">инстаграме</TOKEN>
+<TOKEN end_char="885" id="token-7-32" morph="none" pos="punct" start_char="885">.</TOKEN>
+<TRANSLATED_TEXT>According to the Central Research Institute of Epidemiology, domestic animals, including cats and dogs, cannot be a source of new coronavirus infection, "Burmatov wrote on Wednesday on Instagram.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="894" id="segment-8" start_char="888">
+<ORIGINAL_TEXT>Хроника</ORIGINAL_TEXT>
+<TOKEN end_char="894" id="token-8-0" morph="none" pos="word" start_char="888">Хроника</TOKEN>
+<TRANSLATED_TEXT>Chronicle</TRANSLATED_TEXT><DETECTED_LANGUAGE>bg</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1049" id="segment-9" start_char="898">
+<ORIGINAL_TEXT>Депутат сообщил, что люди начали приносить своих животных в ветеринарные клиники и оставлять их в приютах, опасаясь заразиться, и призвал не делать так.</ORIGINAL_TEXT>
+<TOKEN end_char="904" id="token-9-0" morph="none" pos="word" start_char="898">Депутат</TOKEN>
+<TOKEN end_char="912" id="token-9-1" morph="none" pos="word" start_char="906">сообщил</TOKEN>
+<TOKEN end_char="913" id="token-9-2" morph="none" pos="punct" start_char="913">,</TOKEN>
+<TOKEN end_char="917" id="token-9-3" morph="none" pos="word" start_char="915">что</TOKEN>
+<TOKEN end_char="922" id="token-9-4" morph="none" pos="word" start_char="919">люди</TOKEN>
+<TOKEN end_char="929" id="token-9-5" morph="none" pos="word" start_char="924">начали</TOKEN>
+<TOKEN end_char="939" id="token-9-6" morph="none" pos="word" start_char="931">приносить</TOKEN>
+<TOKEN end_char="945" id="token-9-7" morph="none" pos="word" start_char="941">своих</TOKEN>
+<TOKEN end_char="954" id="token-9-8" morph="none" pos="word" start_char="947">животных</TOKEN>
+<TOKEN end_char="956" id="token-9-9" morph="none" pos="word" start_char="956">в</TOKEN>
+<TOKEN end_char="969" id="token-9-10" morph="none" pos="word" start_char="958">ветеринарные</TOKEN>
+<TOKEN end_char="977" id="token-9-11" morph="none" pos="word" start_char="971">клиники</TOKEN>
+<TOKEN end_char="979" id="token-9-12" morph="none" pos="word" start_char="979">и</TOKEN>
+<TOKEN end_char="989" id="token-9-13" morph="none" pos="word" start_char="981">оставлять</TOKEN>
+<TOKEN end_char="992" id="token-9-14" morph="none" pos="word" start_char="991">их</TOKEN>
+<TOKEN end_char="994" id="token-9-15" morph="none" pos="word" start_char="994">в</TOKEN>
+<TOKEN end_char="1002" id="token-9-16" morph="none" pos="word" start_char="996">приютах</TOKEN>
+<TOKEN end_char="1003" id="token-9-17" morph="none" pos="punct" start_char="1003">,</TOKEN>
+<TOKEN end_char="1012" id="token-9-18" morph="none" pos="word" start_char="1005">опасаясь</TOKEN>
+<TOKEN end_char="1023" id="token-9-19" morph="none" pos="word" start_char="1014">заразиться</TOKEN>
+<TOKEN end_char="1024" id="token-9-20" morph="none" pos="punct" start_char="1024">,</TOKEN>
+<TOKEN end_char="1026" id="token-9-21" morph="none" pos="word" start_char="1026">и</TOKEN>
+<TOKEN end_char="1034" id="token-9-22" morph="none" pos="word" start_char="1028">призвал</TOKEN>
+<TOKEN end_char="1037" id="token-9-23" morph="none" pos="word" start_char="1036">не</TOKEN>
+<TOKEN end_char="1044" id="token-9-24" morph="none" pos="word" start_char="1039">делать</TOKEN>
+<TOKEN end_char="1048" id="token-9-25" morph="none" pos="word" start_char="1046">так</TOKEN>
+<TOKEN end_char="1049" id="token-9-26" morph="none" pos="punct" start_char="1049">.</TOKEN>
+<TRANSLATED_TEXT>The deputy reported that people had started bringing their animals to veterinary clinics and leaving them in shelters for fear of becoming infected, and urged that they should not do so.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1281" id="segment-10" start_char="1052">
+<ORIGINAL_TEXT>"Так что кошек и собак сейчас из приютов самое время наоборот разбирать: с ними никакая самоизоляция не страшна, они не дадут вам скучать на карантине и можно совершенно спокойно гулять в их компании на улице", - написал Бурматов.</ORIGINAL_TEXT>
+<TOKEN end_char="1052" id="token-10-0" morph="none" pos="punct" start_char="1052">"</TOKEN>
+<TOKEN end_char="1055" id="token-10-1" morph="none" pos="word" start_char="1053">Так</TOKEN>
+<TOKEN end_char="1059" id="token-10-2" morph="none" pos="word" start_char="1057">что</TOKEN>
+<TOKEN end_char="1065" id="token-10-3" morph="none" pos="word" start_char="1061">кошек</TOKEN>
+<TOKEN end_char="1067" id="token-10-4" morph="none" pos="word" start_char="1067">и</TOKEN>
+<TOKEN end_char="1073" id="token-10-5" morph="none" pos="word" start_char="1069">собак</TOKEN>
+<TOKEN end_char="1080" id="token-10-6" morph="none" pos="word" start_char="1075">сейчас</TOKEN>
+<TOKEN end_char="1083" id="token-10-7" morph="none" pos="word" start_char="1082">из</TOKEN>
+<TOKEN end_char="1091" id="token-10-8" morph="none" pos="word" start_char="1085">приютов</TOKEN>
+<TOKEN end_char="1097" id="token-10-9" morph="none" pos="word" start_char="1093">самое</TOKEN>
+<TOKEN end_char="1103" id="token-10-10" morph="none" pos="word" start_char="1099">время</TOKEN>
+<TOKEN end_char="1112" id="token-10-11" morph="none" pos="word" start_char="1105">наоборот</TOKEN>
+<TOKEN end_char="1122" id="token-10-12" morph="none" pos="word" start_char="1114">разбирать</TOKEN>
+<TOKEN end_char="1123" id="token-10-13" morph="none" pos="punct" start_char="1123">:</TOKEN>
+<TOKEN end_char="1125" id="token-10-14" morph="none" pos="word" start_char="1125">с</TOKEN>
+<TOKEN end_char="1130" id="token-10-15" morph="none" pos="word" start_char="1127">ними</TOKEN>
+<TOKEN end_char="1138" id="token-10-16" morph="none" pos="word" start_char="1132">никакая</TOKEN>
+<TOKEN end_char="1151" id="token-10-17" morph="none" pos="word" start_char="1140">самоизоляция</TOKEN>
+<TOKEN end_char="1154" id="token-10-18" morph="none" pos="word" start_char="1153">не</TOKEN>
+<TOKEN end_char="1162" id="token-10-19" morph="none" pos="word" start_char="1156">страшна</TOKEN>
+<TOKEN end_char="1163" id="token-10-20" morph="none" pos="punct" start_char="1163">,</TOKEN>
+<TOKEN end_char="1167" id="token-10-21" morph="none" pos="word" start_char="1165">они</TOKEN>
+<TOKEN end_char="1170" id="token-10-22" morph="none" pos="word" start_char="1169">не</TOKEN>
+<TOKEN end_char="1176" id="token-10-23" morph="none" pos="word" start_char="1172">дадут</TOKEN>
+<TOKEN end_char="1180" id="token-10-24" morph="none" pos="word" start_char="1178">вам</TOKEN>
+<TOKEN end_char="1188" id="token-10-25" morph="none" pos="word" start_char="1182">скучать</TOKEN>
+<TOKEN end_char="1191" id="token-10-26" morph="none" pos="word" start_char="1190">на</TOKEN>
+<TOKEN end_char="1201" id="token-10-27" morph="none" pos="word" start_char="1193">карантине</TOKEN>
+<TOKEN end_char="1203" id="token-10-28" morph="none" pos="word" start_char="1203">и</TOKEN>
+<TOKEN end_char="1209" id="token-10-29" morph="none" pos="word" start_char="1205">можно</TOKEN>
+<TOKEN end_char="1220" id="token-10-30" morph="none" pos="word" start_char="1211">совершенно</TOKEN>
+<TOKEN end_char="1229" id="token-10-31" morph="none" pos="word" start_char="1222">спокойно</TOKEN>
+<TOKEN end_char="1236" id="token-10-32" morph="none" pos="word" start_char="1231">гулять</TOKEN>
+<TOKEN end_char="1238" id="token-10-33" morph="none" pos="word" start_char="1238">в</TOKEN>
+<TOKEN end_char="1241" id="token-10-34" morph="none" pos="word" start_char="1240">их</TOKEN>
+<TOKEN end_char="1250" id="token-10-35" morph="none" pos="word" start_char="1243">компании</TOKEN>
+<TOKEN end_char="1253" id="token-10-36" morph="none" pos="word" start_char="1252">на</TOKEN>
+<TOKEN end_char="1259" id="token-10-37" morph="none" pos="word" start_char="1255">улице</TOKEN>
+<TOKEN end_char="1261" id="token-10-38" morph="none" pos="punct" start_char="1260">",</TOKEN>
+<TOKEN end_char="1263" id="token-10-39" morph="none" pos="punct" start_char="1263">-</TOKEN>
+<TOKEN end_char="1271" id="token-10-40" morph="none" pos="word" start_char="1265">написал</TOKEN>
+<TOKEN end_char="1280" id="token-10-41" morph="none" pos="word" start_char="1273">Бурматов</TOKEN>
+<TOKEN end_char="1281" id="token-10-42" morph="none" pos="punct" start_char="1281">.</TOKEN>
+<TRANSLATED_TEXT>"So cats and dogs now from shelters are the opposite time to be dealt with: with them there is no fear of isolation, they will not let you miss quarantine and it is perfectly safe to walk in their company on the street," wrote Burmatov.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1411" id="segment-11" start_char="1284">
+<ORIGINAL_TEXT>Во вторник уже более половины регионов РФ ввели ограничительные меры для предупреждения распространения коронавирусной инфекции.</ORIGINAL_TEXT>
+<TOKEN end_char="1285" id="token-11-0" morph="none" pos="word" start_char="1284">Во</TOKEN>
+<TOKEN end_char="1293" id="token-11-1" morph="none" pos="word" start_char="1287">вторник</TOKEN>
+<TOKEN end_char="1297" id="token-11-2" morph="none" pos="word" start_char="1295">уже</TOKEN>
+<TOKEN end_char="1303" id="token-11-3" morph="none" pos="word" start_char="1299">более</TOKEN>
+<TOKEN end_char="1312" id="token-11-4" morph="none" pos="word" start_char="1305">половины</TOKEN>
+<TOKEN end_char="1321" id="token-11-5" morph="none" pos="word" start_char="1314">регионов</TOKEN>
+<TOKEN end_char="1324" id="token-11-6" morph="none" pos="word" start_char="1323">РФ</TOKEN>
+<TOKEN end_char="1330" id="token-11-7" morph="none" pos="word" start_char="1326">ввели</TOKEN>
+<TOKEN end_char="1346" id="token-11-8" morph="none" pos="word" start_char="1332">ограничительные</TOKEN>
+<TOKEN end_char="1351" id="token-11-9" morph="none" pos="word" start_char="1348">меры</TOKEN>
+<TOKEN end_char="1355" id="token-11-10" morph="none" pos="word" start_char="1353">для</TOKEN>
+<TOKEN end_char="1370" id="token-11-11" morph="none" pos="word" start_char="1357">предупреждения</TOKEN>
+<TOKEN end_char="1386" id="token-11-12" morph="none" pos="word" start_char="1372">распространения</TOKEN>
+<TOKEN end_char="1401" id="token-11-13" morph="none" pos="word" start_char="1388">коронавирусной</TOKEN>
+<TOKEN end_char="1410" id="token-11-14" morph="none" pos="word" start_char="1403">инфекции</TOKEN>
+<TOKEN end_char="1411" id="token-11-15" morph="none" pos="punct" start_char="1411">.</TOKEN>
+<TRANSLATED_TEXT>On Tuesday more than half of the regions of the Russian Federation adopted restrictive measures to prevent the spread of coronavirus infection.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1740" id="segment-12" start_char="1413">
+<ORIGINAL_TEXT>Они повторяют шаги, которые сделали Москва и Подмосковье: покидать квартиру и дом запрещено во всех случаях, кроме поездок на работу, обращения за неотложной медпомощью, наличии прямой угрозы здоровью, совершения покупок в ближайшем магазине или аптеке, выноса мусора и выгула домашних животных на расстоянии 100 метров от дома.</ORIGINAL_TEXT>
+<TOKEN end_char="1415" id="token-12-0" morph="none" pos="word" start_char="1413">Они</TOKEN>
+<TOKEN end_char="1425" id="token-12-1" morph="none" pos="word" start_char="1417">повторяют</TOKEN>
+<TOKEN end_char="1430" id="token-12-2" morph="none" pos="word" start_char="1427">шаги</TOKEN>
+<TOKEN end_char="1431" id="token-12-3" morph="none" pos="punct" start_char="1431">,</TOKEN>
+<TOKEN end_char="1439" id="token-12-4" morph="none" pos="word" start_char="1433">которые</TOKEN>
+<TOKEN end_char="1447" id="token-12-5" morph="none" pos="word" start_char="1441">сделали</TOKEN>
+<TOKEN end_char="1454" id="token-12-6" morph="none" pos="word" start_char="1449">Москва</TOKEN>
+<TOKEN end_char="1456" id="token-12-7" morph="none" pos="word" start_char="1456">и</TOKEN>
+<TOKEN end_char="1468" id="token-12-8" morph="none" pos="word" start_char="1458">Подмосковье</TOKEN>
+<TOKEN end_char="1469" id="token-12-9" morph="none" pos="punct" start_char="1469">:</TOKEN>
+<TOKEN end_char="1478" id="token-12-10" morph="none" pos="word" start_char="1471">покидать</TOKEN>
+<TOKEN end_char="1487" id="token-12-11" morph="none" pos="word" start_char="1480">квартиру</TOKEN>
+<TOKEN end_char="1489" id="token-12-12" morph="none" pos="word" start_char="1489">и</TOKEN>
+<TOKEN end_char="1493" id="token-12-13" morph="none" pos="word" start_char="1491">дом</TOKEN>
+<TOKEN end_char="1503" id="token-12-14" morph="none" pos="word" start_char="1495">запрещено</TOKEN>
+<TOKEN end_char="1506" id="token-12-15" morph="none" pos="word" start_char="1505">во</TOKEN>
+<TOKEN end_char="1511" id="token-12-16" morph="none" pos="word" start_char="1508">всех</TOKEN>
+<TOKEN end_char="1519" id="token-12-17" morph="none" pos="word" start_char="1513">случаях</TOKEN>
+<TOKEN end_char="1520" id="token-12-18" morph="none" pos="punct" start_char="1520">,</TOKEN>
+<TOKEN end_char="1526" id="token-12-19" morph="none" pos="word" start_char="1522">кроме</TOKEN>
+<TOKEN end_char="1534" id="token-12-20" morph="none" pos="word" start_char="1528">поездок</TOKEN>
+<TOKEN end_char="1537" id="token-12-21" morph="none" pos="word" start_char="1536">на</TOKEN>
+<TOKEN end_char="1544" id="token-12-22" morph="none" pos="word" start_char="1539">работу</TOKEN>
+<TOKEN end_char="1545" id="token-12-23" morph="none" pos="punct" start_char="1545">,</TOKEN>
+<TOKEN end_char="1555" id="token-12-24" morph="none" pos="word" start_char="1547">обращения</TOKEN>
+<TOKEN end_char="1558" id="token-12-25" morph="none" pos="word" start_char="1557">за</TOKEN>
+<TOKEN end_char="1569" id="token-12-26" morph="none" pos="word" start_char="1560">неотложной</TOKEN>
+<TOKEN end_char="1580" id="token-12-27" morph="none" pos="word" start_char="1571">медпомощью</TOKEN>
+<TOKEN end_char="1581" id="token-12-28" morph="none" pos="punct" start_char="1581">,</TOKEN>
+<TOKEN end_char="1589" id="token-12-29" morph="none" pos="word" start_char="1583">наличии</TOKEN>
+<TOKEN end_char="1596" id="token-12-30" morph="none" pos="word" start_char="1591">прямой</TOKEN>
+<TOKEN end_char="1603" id="token-12-31" morph="none" pos="word" start_char="1598">угрозы</TOKEN>
+<TOKEN end_char="1612" id="token-12-32" morph="none" pos="word" start_char="1605">здоровью</TOKEN>
+<TOKEN end_char="1613" id="token-12-33" morph="none" pos="punct" start_char="1613">,</TOKEN>
+<TOKEN end_char="1624" id="token-12-34" morph="none" pos="word" start_char="1615">совершения</TOKEN>
+<TOKEN end_char="1632" id="token-12-35" morph="none" pos="word" start_char="1626">покупок</TOKEN>
+<TOKEN end_char="1634" id="token-12-36" morph="none" pos="word" start_char="1634">в</TOKEN>
+<TOKEN end_char="1644" id="token-12-37" morph="none" pos="word" start_char="1636">ближайшем</TOKEN>
+<TOKEN end_char="1653" id="token-12-38" morph="none" pos="word" start_char="1646">магазине</TOKEN>
+<TOKEN end_char="1657" id="token-12-39" morph="none" pos="word" start_char="1655">или</TOKEN>
+<TOKEN end_char="1664" id="token-12-40" morph="none" pos="word" start_char="1659">аптеке</TOKEN>
+<TOKEN end_char="1665" id="token-12-41" morph="none" pos="punct" start_char="1665">,</TOKEN>
+<TOKEN end_char="1672" id="token-12-42" morph="none" pos="word" start_char="1667">выноса</TOKEN>
+<TOKEN end_char="1679" id="token-12-43" morph="none" pos="word" start_char="1674">мусора</TOKEN>
+<TOKEN end_char="1681" id="token-12-44" morph="none" pos="word" start_char="1681">и</TOKEN>
+<TOKEN end_char="1688" id="token-12-45" morph="none" pos="word" start_char="1683">выгула</TOKEN>
+<TOKEN end_char="1697" id="token-12-46" morph="none" pos="word" start_char="1690">домашних</TOKEN>
+<TOKEN end_char="1706" id="token-12-47" morph="none" pos="word" start_char="1699">животных</TOKEN>
+<TOKEN end_char="1709" id="token-12-48" morph="none" pos="word" start_char="1708">на</TOKEN>
+<TOKEN end_char="1720" id="token-12-49" morph="none" pos="word" start_char="1711">расстоянии</TOKEN>
+<TOKEN end_char="1724" id="token-12-50" morph="none" pos="word" start_char="1722">100</TOKEN>
+<TOKEN end_char="1731" id="token-12-51" morph="none" pos="word" start_char="1726">метров</TOKEN>
+<TOKEN end_char="1734" id="token-12-52" morph="none" pos="word" start_char="1733">от</TOKEN>
+<TOKEN end_char="1739" id="token-12-53" morph="none" pos="word" start_char="1736">дома</TOKEN>
+<TOKEN end_char="1740" id="token-12-54" morph="none" pos="punct" start_char="1740">.</TOKEN>
+<TRANSLATED_TEXT>They repeat the steps that Moscow and Moscow Region have taken: leaving the apartment and the home is prohibited in all cases except for work trips, urgent medical care, direct health threats, shopping in the nearest shop or pharmacy, garbage removal and pets at a distance of 100 metres from home.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1925" id="segment-13" start_char="1743">
+<ORIGINAL_TEXT>В связи с этим в соцсетях появились шутки про усталого пса, которому пришлось выйти на прогулку 60 раз за один день, поскольку он оказался единственной собакой в многоквартирном доме.</ORIGINAL_TEXT>
+<TOKEN end_char="1743" id="token-13-0" morph="none" pos="word" start_char="1743">В</TOKEN>
+<TOKEN end_char="1749" id="token-13-1" morph="none" pos="word" start_char="1745">связи</TOKEN>
+<TOKEN end_char="1751" id="token-13-2" morph="none" pos="word" start_char="1751">с</TOKEN>
+<TOKEN end_char="1756" id="token-13-3" morph="none" pos="word" start_char="1753">этим</TOKEN>
+<TOKEN end_char="1758" id="token-13-4" morph="none" pos="word" start_char="1758">в</TOKEN>
+<TOKEN end_char="1767" id="token-13-5" morph="none" pos="word" start_char="1760">соцсетях</TOKEN>
+<TOKEN end_char="1777" id="token-13-6" morph="none" pos="word" start_char="1769">появились</TOKEN>
+<TOKEN end_char="1783" id="token-13-7" morph="none" pos="word" start_char="1779">шутки</TOKEN>
+<TOKEN end_char="1787" id="token-13-8" morph="none" pos="word" start_char="1785">про</TOKEN>
+<TOKEN end_char="1796" id="token-13-9" morph="none" pos="word" start_char="1789">усталого</TOKEN>
+<TOKEN end_char="1800" id="token-13-10" morph="none" pos="word" start_char="1798">пса</TOKEN>
+<TOKEN end_char="1801" id="token-13-11" morph="none" pos="punct" start_char="1801">,</TOKEN>
+<TOKEN end_char="1810" id="token-13-12" morph="none" pos="word" start_char="1803">которому</TOKEN>
+<TOKEN end_char="1819" id="token-13-13" morph="none" pos="word" start_char="1812">пришлось</TOKEN>
+<TOKEN end_char="1825" id="token-13-14" morph="none" pos="word" start_char="1821">выйти</TOKEN>
+<TOKEN end_char="1828" id="token-13-15" morph="none" pos="word" start_char="1827">на</TOKEN>
+<TOKEN end_char="1837" id="token-13-16" morph="none" pos="word" start_char="1830">прогулку</TOKEN>
+<TOKEN end_char="1840" id="token-13-17" morph="none" pos="word" start_char="1839">60</TOKEN>
+<TOKEN end_char="1844" id="token-13-18" morph="none" pos="word" start_char="1842">раз</TOKEN>
+<TOKEN end_char="1847" id="token-13-19" morph="none" pos="word" start_char="1846">за</TOKEN>
+<TOKEN end_char="1852" id="token-13-20" morph="none" pos="word" start_char="1849">один</TOKEN>
+<TOKEN end_char="1857" id="token-13-21" morph="none" pos="word" start_char="1854">день</TOKEN>
+<TOKEN end_char="1858" id="token-13-22" morph="none" pos="punct" start_char="1858">,</TOKEN>
+<TOKEN end_char="1868" id="token-13-23" morph="none" pos="word" start_char="1860">поскольку</TOKEN>
+<TOKEN end_char="1871" id="token-13-24" morph="none" pos="word" start_char="1870">он</TOKEN>
+<TOKEN end_char="1880" id="token-13-25" morph="none" pos="word" start_char="1873">оказался</TOKEN>
+<TOKEN end_char="1893" id="token-13-26" morph="none" pos="word" start_char="1882">единственной</TOKEN>
+<TOKEN end_char="1901" id="token-13-27" morph="none" pos="word" start_char="1895">собакой</TOKEN>
+<TOKEN end_char="1903" id="token-13-28" morph="none" pos="word" start_char="1903">в</TOKEN>
+<TOKEN end_char="1919" id="token-13-29" morph="none" pos="word" start_char="1905">многоквартирном</TOKEN>
+<TOKEN end_char="1924" id="token-13-30" morph="none" pos="word" start_char="1921">доме</TOKEN>
+<TOKEN end_char="1925" id="token-13-31" morph="none" pos="punct" start_char="1925">.</TOKEN>
+<TRANSLATED_TEXT>This led to social media jokes about a tired dog who had to walk 60 times a day because he was the only dog in the apartment building.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

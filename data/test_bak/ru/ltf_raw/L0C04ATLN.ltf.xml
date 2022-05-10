@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT lang="rus">
+<DOC id="L0C04ATLN" lang="rus" tokenization="tokenization_parameters.v5.0" grammar="none" raw_text_char_length="2243" raw_text_md5="8b85fec7a5aa6188e92bedcfd0e58fb3">
+<TEXT>
+<SEG id="segment-0" start_char="1" end_char="66">
+<ORIGINAL_TEXT>Шведские ученые назвали сроки сохранения иммунитета после COVID-19</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="word" morph="none" start_char="1" end_char="8">Шведские</TOKEN>
+<TOKEN id="token-0-1" pos="word" morph="none" start_char="10" end_char="15">ученые</TOKEN>
+<TOKEN id="token-0-2" pos="word" morph="none" start_char="17" end_char="23">назвали</TOKEN>
+<TOKEN id="token-0-3" pos="word" morph="none" start_char="25" end_char="29">сроки</TOKEN>
+<TOKEN id="token-0-4" pos="word" morph="none" start_char="31" end_char="40">сохранения</TOKEN>
+<TOKEN id="token-0-5" pos="word" morph="none" start_char="42" end_char="51">иммунитета</TOKEN>
+<TOKEN id="token-0-6" pos="word" morph="none" start_char="53" end_char="57">после</TOKEN>
+<TOKEN id="token-0-7" pos="unknown" morph="none" start_char="59" end_char="66">COVID-19</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="71" end_char="250">
+<ORIGINAL_TEXT>Иммунитет против коронавирусной инфекции с низкой вероятностью повторного заболевания и передачи инфекции окружающим сохраняется в течение как минимум девяти месяцев после болезни.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="word" morph="none" start_char="71" end_char="79">Иммунитет</TOKEN>
+<TOKEN id="token-1-1" pos="word" morph="none" start_char="81" end_char="86">против</TOKEN>
+<TOKEN id="token-1-2" pos="word" morph="none" start_char="88" end_char="101">коронавирусной</TOKEN>
+<TOKEN id="token-1-3" pos="word" morph="none" start_char="103" end_char="110">инфекции</TOKEN>
+<TOKEN id="token-1-4" pos="word" morph="none" start_char="112" end_char="112">с</TOKEN>
+<TOKEN id="token-1-5" pos="word" morph="none" start_char="114" end_char="119">низкой</TOKEN>
+<TOKEN id="token-1-6" pos="word" morph="none" start_char="121" end_char="132">вероятностью</TOKEN>
+<TOKEN id="token-1-7" pos="word" morph="none" start_char="134" end_char="143">повторного</TOKEN>
+<TOKEN id="token-1-8" pos="word" morph="none" start_char="145" end_char="155">заболевания</TOKEN>
+<TOKEN id="token-1-9" pos="word" morph="none" start_char="157" end_char="157">и</TOKEN>
+<TOKEN id="token-1-10" pos="word" morph="none" start_char="159" end_char="166">передачи</TOKEN>
+<TOKEN id="token-1-11" pos="word" morph="none" start_char="168" end_char="175">инфекции</TOKEN>
+<TOKEN id="token-1-12" pos="word" morph="none" start_char="177" end_char="186">окружающим</TOKEN>
+<TOKEN id="token-1-13" pos="word" morph="none" start_char="188" end_char="198">сохраняется</TOKEN>
+<TOKEN id="token-1-14" pos="word" morph="none" start_char="200" end_char="200">в</TOKEN>
+<TOKEN id="token-1-15" pos="word" morph="none" start_char="202" end_char="208">течение</TOKEN>
+<TOKEN id="token-1-16" pos="word" morph="none" start_char="210" end_char="212">как</TOKEN>
+<TOKEN id="token-1-17" pos="word" morph="none" start_char="214" end_char="220">минимум</TOKEN>
+<TOKEN id="token-1-18" pos="word" morph="none" start_char="222" end_char="227">девяти</TOKEN>
+<TOKEN id="token-1-19" pos="word" morph="none" start_char="229" end_char="235">месяцев</TOKEN>
+<TOKEN id="token-1-20" pos="word" morph="none" start_char="237" end_char="241">после</TOKEN>
+<TOKEN id="token-1-21" pos="word" morph="none" start_char="243" end_char="249">болезни</TOKEN>
+<TOKEN id="token-1-22" pos="punct" morph="none" start_char="250" end_char="250">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="252" end_char="362">
+<ORIGINAL_TEXT>Об этом 16 февраля сообщило агентство ТТ со ссылкой на исследование Каролинского института и клиники Дандерюда.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="word" morph="none" start_char="252" end_char="253">Об</TOKEN>
+<TOKEN id="token-2-1" pos="word" morph="none" start_char="255" end_char="258">этом</TOKEN>
+<TOKEN id="token-2-2" pos="word" morph="none" start_char="260" end_char="261">16</TOKEN>
+<TOKEN id="token-2-3" pos="word" morph="none" start_char="263" end_char="269">февраля</TOKEN>
+<TOKEN id="token-2-4" pos="word" morph="none" start_char="271" end_char="278">сообщило</TOKEN>
+<TOKEN id="token-2-5" pos="word" morph="none" start_char="280" end_char="288">агентство</TOKEN>
+<TOKEN id="token-2-6" pos="word" morph="none" start_char="290" end_char="291">ТТ</TOKEN>
+<TOKEN id="token-2-7" pos="word" morph="none" start_char="293" end_char="294">со</TOKEN>
+<TOKEN id="token-2-8" pos="word" morph="none" start_char="296" end_char="302">ссылкой</TOKEN>
+<TOKEN id="token-2-9" pos="word" morph="none" start_char="304" end_char="305">на</TOKEN>
+<TOKEN id="token-2-10" pos="word" morph="none" start_char="307" end_char="318">исследование</TOKEN>
+<TOKEN id="token-2-11" pos="word" morph="none" start_char="320" end_char="331">Каролинского</TOKEN>
+<TOKEN id="token-2-12" pos="word" morph="none" start_char="333" end_char="341">института</TOKEN>
+<TOKEN id="token-2-13" pos="word" morph="none" start_char="343" end_char="343">и</TOKEN>
+<TOKEN id="token-2-14" pos="word" morph="none" start_char="345" end_char="351">клиники</TOKEN>
+<TOKEN id="token-2-15" pos="word" morph="none" start_char="353" end_char="361">Дандерюда</TOKEN>
+<TOKEN id="token-2-16" pos="punct" morph="none" start_char="362" end_char="362">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="366" end_char="596">
+<ORIGINAL_TEXT>Согласно выводам ученых, у 96% из 370 участников исследования, работающих в учреждениях здравоохранения в близком контакте с пациентами с коронавирусом, после перенесенного заболевания антитела сохранялись в течение девяти месяцев.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="366" end_char="373">Согласно</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="375" end_char="381">выводам</TOKEN>
+<TOKEN id="token-3-2" pos="word" morph="none" start_char="383" end_char="388">ученых</TOKEN>
+<TOKEN id="token-3-3" pos="punct" morph="none" start_char="389" end_char="389">,</TOKEN>
+<TOKEN id="token-3-4" pos="word" morph="none" start_char="391" end_char="391">у</TOKEN>
+<TOKEN id="token-3-5" pos="word" morph="none" start_char="393" end_char="394">96</TOKEN>
+<TOKEN id="token-3-6" pos="punct" morph="none" start_char="395" end_char="395">%</TOKEN>
+<TOKEN id="token-3-7" pos="word" morph="none" start_char="397" end_char="398">из</TOKEN>
+<TOKEN id="token-3-8" pos="word" morph="none" start_char="400" end_char="402">370</TOKEN>
+<TOKEN id="token-3-9" pos="word" morph="none" start_char="404" end_char="413">участников</TOKEN>
+<TOKEN id="token-3-10" pos="word" morph="none" start_char="415" end_char="426">исследования</TOKEN>
+<TOKEN id="token-3-11" pos="punct" morph="none" start_char="427" end_char="427">,</TOKEN>
+<TOKEN id="token-3-12" pos="word" morph="none" start_char="429" end_char="438">работающих</TOKEN>
+<TOKEN id="token-3-13" pos="word" morph="none" start_char="440" end_char="440">в</TOKEN>
+<TOKEN id="token-3-14" pos="word" morph="none" start_char="442" end_char="452">учреждениях</TOKEN>
+<TOKEN id="token-3-15" pos="word" morph="none" start_char="454" end_char="468">здравоохранения</TOKEN>
+<TOKEN id="token-3-16" pos="word" morph="none" start_char="470" end_char="470">в</TOKEN>
+<TOKEN id="token-3-17" pos="word" morph="none" start_char="472" end_char="478">близком</TOKEN>
+<TOKEN id="token-3-18" pos="word" morph="none" start_char="480" end_char="487">контакте</TOKEN>
+<TOKEN id="token-3-19" pos="word" morph="none" start_char="489" end_char="489">с</TOKEN>
+<TOKEN id="token-3-20" pos="word" morph="none" start_char="491" end_char="500">пациентами</TOKEN>
+<TOKEN id="token-3-21" pos="word" morph="none" start_char="502" end_char="502">с</TOKEN>
+<TOKEN id="token-3-22" pos="word" morph="none" start_char="504" end_char="516">коронавирусом</TOKEN>
+<TOKEN id="token-3-23" pos="punct" morph="none" start_char="517" end_char="517">,</TOKEN>
+<TOKEN id="token-3-24" pos="word" morph="none" start_char="519" end_char="523">после</TOKEN>
+<TOKEN id="token-3-25" pos="word" morph="none" start_char="525" end_char="537">перенесенного</TOKEN>
+<TOKEN id="token-3-26" pos="word" morph="none" start_char="539" end_char="549">заболевания</TOKEN>
+<TOKEN id="token-3-27" pos="word" morph="none" start_char="551" end_char="558">антитела</TOKEN>
+<TOKEN id="token-3-28" pos="word" morph="none" start_char="560" end_char="570">сохранялись</TOKEN>
+<TOKEN id="token-3-29" pos="word" morph="none" start_char="572" end_char="572">в</TOKEN>
+<TOKEN id="token-3-30" pos="word" morph="none" start_char="574" end_char="580">течение</TOKEN>
+<TOKEN id="token-3-31" pos="word" morph="none" start_char="582" end_char="587">девяти</TOKEN>
+<TOKEN id="token-3-32" pos="word" morph="none" start_char="589" end_char="595">месяцев</TOKEN>
+<TOKEN id="token-3-33" pos="punct" morph="none" start_char="596" end_char="596">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="598" end_char="698">
+<ORIGINAL_TEXT>У двух третей обследованных выработалась «клеточная память» об инфекции, то есть клеточный иммунитет.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="word" morph="none" start_char="598" end_char="598">У</TOKEN>
+<TOKEN id="token-4-1" pos="word" morph="none" start_char="600" end_char="603">двух</TOKEN>
+<TOKEN id="token-4-2" pos="word" morph="none" start_char="605" end_char="610">третей</TOKEN>
+<TOKEN id="token-4-3" pos="word" morph="none" start_char="612" end_char="624">обследованных</TOKEN>
+<TOKEN id="token-4-4" pos="word" morph="none" start_char="626" end_char="637">выработалась</TOKEN>
+<TOKEN id="token-4-5" pos="punct" morph="none" start_char="639" end_char="639">«</TOKEN>
+<TOKEN id="token-4-6" pos="word" morph="none" start_char="640" end_char="648">клеточная</TOKEN>
+<TOKEN id="token-4-7" pos="word" morph="none" start_char="650" end_char="655">память</TOKEN>
+<TOKEN id="token-4-8" pos="punct" morph="none" start_char="656" end_char="656">»</TOKEN>
+<TOKEN id="token-4-9" pos="word" morph="none" start_char="658" end_char="659">об</TOKEN>
+<TOKEN id="token-4-10" pos="word" morph="none" start_char="661" end_char="668">инфекции</TOKEN>
+<TOKEN id="token-4-11" pos="punct" morph="none" start_char="669" end_char="669">,</TOKEN>
+<TOKEN id="token-4-12" pos="word" morph="none" start_char="671" end_char="672">то</TOKEN>
+<TOKEN id="token-4-13" pos="word" morph="none" start_char="674" end_char="677">есть</TOKEN>
+<TOKEN id="token-4-14" pos="word" morph="none" start_char="679" end_char="687">клеточный</TOKEN>
+<TOKEN id="token-4-15" pos="word" morph="none" start_char="689" end_char="697">иммунитет</TOKEN>
+<TOKEN id="token-4-16" pos="punct" morph="none" start_char="698" end_char="698">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="701" end_char="972">
+<ORIGINAL_TEXT>По словам врача и научного сотрудника клиники Дандерюда и Каролинского института Шарлотт Толин, антитела и клеточный иммунитет являются косвенными показателями иммунитета, в то время как проведенный совместно с управлением здравоохранения ПЦР-скрининг — показатель прямой.</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="701" end_char="702">По</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="704" end_char="709">словам</TOKEN>
+<TOKEN id="token-5-2" pos="word" morph="none" start_char="711" end_char="715">врача</TOKEN>
+<TOKEN id="token-5-3" pos="word" morph="none" start_char="717" end_char="717">и</TOKEN>
+<TOKEN id="token-5-4" pos="word" morph="none" start_char="719" end_char="726">научного</TOKEN>
+<TOKEN id="token-5-5" pos="word" morph="none" start_char="728" end_char="737">сотрудника</TOKEN>
+<TOKEN id="token-5-6" pos="word" morph="none" start_char="739" end_char="745">клиники</TOKEN>
+<TOKEN id="token-5-7" pos="word" morph="none" start_char="747" end_char="755">Дандерюда</TOKEN>
+<TOKEN id="token-5-8" pos="word" morph="none" start_char="757" end_char="757">и</TOKEN>
+<TOKEN id="token-5-9" pos="word" morph="none" start_char="759" end_char="770">Каролинского</TOKEN>
+<TOKEN id="token-5-10" pos="word" morph="none" start_char="772" end_char="780">института</TOKEN>
+<TOKEN id="token-5-11" pos="word" morph="none" start_char="782" end_char="788">Шарлотт</TOKEN>
+<TOKEN id="token-5-12" pos="word" morph="none" start_char="790" end_char="794">Толин</TOKEN>
+<TOKEN id="token-5-13" pos="punct" morph="none" start_char="795" end_char="795">,</TOKEN>
+<TOKEN id="token-5-14" pos="word" morph="none" start_char="797" end_char="804">антитела</TOKEN>
+<TOKEN id="token-5-15" pos="word" morph="none" start_char="806" end_char="806">и</TOKEN>
+<TOKEN id="token-5-16" pos="word" morph="none" start_char="808" end_char="816">клеточный</TOKEN>
+<TOKEN id="token-5-17" pos="word" morph="none" start_char="818" end_char="826">иммунитет</TOKEN>
+<TOKEN id="token-5-18" pos="word" morph="none" start_char="828" end_char="835">являются</TOKEN>
+<TOKEN id="token-5-19" pos="word" morph="none" start_char="837" end_char="846">косвенными</TOKEN>
+<TOKEN id="token-5-20" pos="word" morph="none" start_char="848" end_char="859">показателями</TOKEN>
+<TOKEN id="token-5-21" pos="word" morph="none" start_char="861" end_char="870">иммунитета</TOKEN>
+<TOKEN id="token-5-22" pos="punct" morph="none" start_char="871" end_char="871">,</TOKEN>
+<TOKEN id="token-5-23" pos="word" morph="none" start_char="873" end_char="873">в</TOKEN>
+<TOKEN id="token-5-24" pos="word" morph="none" start_char="875" end_char="876">то</TOKEN>
+<TOKEN id="token-5-25" pos="word" morph="none" start_char="878" end_char="882">время</TOKEN>
+<TOKEN id="token-5-26" pos="word" morph="none" start_char="884" end_char="886">как</TOKEN>
+<TOKEN id="token-5-27" pos="word" morph="none" start_char="888" end_char="898">проведенный</TOKEN>
+<TOKEN id="token-5-28" pos="word" morph="none" start_char="900" end_char="908">совместно</TOKEN>
+<TOKEN id="token-5-29" pos="word" morph="none" start_char="910" end_char="910">с</TOKEN>
+<TOKEN id="token-5-30" pos="word" morph="none" start_char="912" end_char="922">управлением</TOKEN>
+<TOKEN id="token-5-31" pos="word" morph="none" start_char="924" end_char="938">здравоохранения</TOKEN>
+<TOKEN id="token-5-32" pos="unknown" morph="none" start_char="940" end_char="951">ПЦР-скрининг</TOKEN>
+<TOKEN id="token-5-33" pos="punct" morph="none" start_char="953" end_char="953">—</TOKEN>
+<TOKEN id="token-5-34" pos="word" morph="none" start_char="955" end_char="964">показатель</TOKEN>
+<TOKEN id="token-5-35" pos="word" morph="none" start_char="966" end_char="971">прямой</TOKEN>
+<TOKEN id="token-5-36" pos="punct" morph="none" start_char="972" end_char="972">.</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="975" end_char="1156">
+<ORIGINAL_TEXT>Врач подчеркнула, что уже имеющийся иммунитет при повторном заболевании может приглушать симптомы, при этом человек не перестает быть разносчиком инфекции, даже считая себя здоровым.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="word" morph="none" start_char="975" end_char="978">Врач</TOKEN>
+<TOKEN id="token-6-1" pos="word" morph="none" start_char="980" end_char="990">подчеркнула</TOKEN>
+<TOKEN id="token-6-2" pos="punct" morph="none" start_char="991" end_char="991">,</TOKEN>
+<TOKEN id="token-6-3" pos="word" morph="none" start_char="993" end_char="995">что</TOKEN>
+<TOKEN id="token-6-4" pos="word" morph="none" start_char="997" end_char="999">уже</TOKEN>
+<TOKEN id="token-6-5" pos="word" morph="none" start_char="1001" end_char="1009">имеющийся</TOKEN>
+<TOKEN id="token-6-6" pos="word" morph="none" start_char="1011" end_char="1019">иммунитет</TOKEN>
+<TOKEN id="token-6-7" pos="word" morph="none" start_char="1021" end_char="1023">при</TOKEN>
+<TOKEN id="token-6-8" pos="word" morph="none" start_char="1025" end_char="1033">повторном</TOKEN>
+<TOKEN id="token-6-9" pos="word" morph="none" start_char="1035" end_char="1045">заболевании</TOKEN>
+<TOKEN id="token-6-10" pos="word" morph="none" start_char="1047" end_char="1051">может</TOKEN>
+<TOKEN id="token-6-11" pos="word" morph="none" start_char="1053" end_char="1062">приглушать</TOKEN>
+<TOKEN id="token-6-12" pos="word" morph="none" start_char="1064" end_char="1071">симптомы</TOKEN>
+<TOKEN id="token-6-13" pos="punct" morph="none" start_char="1072" end_char="1072">,</TOKEN>
+<TOKEN id="token-6-14" pos="word" morph="none" start_char="1074" end_char="1076">при</TOKEN>
+<TOKEN id="token-6-15" pos="word" morph="none" start_char="1078" end_char="1081">этом</TOKEN>
+<TOKEN id="token-6-16" pos="word" morph="none" start_char="1083" end_char="1089">человек</TOKEN>
+<TOKEN id="token-6-17" pos="word" morph="none" start_char="1091" end_char="1092">не</TOKEN>
+<TOKEN id="token-6-18" pos="word" morph="none" start_char="1094" end_char="1102">перестает</TOKEN>
+<TOKEN id="token-6-19" pos="word" morph="none" start_char="1104" end_char="1107">быть</TOKEN>
+<TOKEN id="token-6-20" pos="word" morph="none" start_char="1109" end_char="1119">разносчиком</TOKEN>
+<TOKEN id="token-6-21" pos="word" morph="none" start_char="1121" end_char="1128">инфекции</TOKEN>
+<TOKEN id="token-6-22" pos="punct" morph="none" start_char="1129" end_char="1129">,</TOKEN>
+<TOKEN id="token-6-23" pos="word" morph="none" start_char="1131" end_char="1134">даже</TOKEN>
+<TOKEN id="token-6-24" pos="word" morph="none" start_char="1136" end_char="1141">считая</TOKEN>
+<TOKEN id="token-6-25" pos="word" morph="none" start_char="1143" end_char="1146">себя</TOKEN>
+<TOKEN id="token-6-26" pos="word" morph="none" start_char="1148" end_char="1155">здоровым</TOKEN>
+<TOKEN id="token-6-27" pos="punct" morph="none" start_char="1156" end_char="1156">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="1159" end_char="1321">
+<ORIGINAL_TEXT>«В этом же скрининговом исследовании у нас была группа, у которой не было антител, и в ней мы обнаружили 20% носителей вируса, в большинстве случаев бессимптомных.</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="punct" morph="none" start_char="1159" end_char="1159">«</TOKEN>
+<TOKEN id="token-7-1" pos="word" morph="none" start_char="1160" end_char="1160">В</TOKEN>
+<TOKEN id="token-7-2" pos="word" morph="none" start_char="1162" end_char="1165">этом</TOKEN>
+<TOKEN id="token-7-3" pos="word" morph="none" start_char="1167" end_char="1168">же</TOKEN>
+<TOKEN id="token-7-4" pos="word" morph="none" start_char="1170" end_char="1181">скрининговом</TOKEN>
+<TOKEN id="token-7-5" pos="word" morph="none" start_char="1183" end_char="1194">исследовании</TOKEN>
+<TOKEN id="token-7-6" pos="word" morph="none" start_char="1196" end_char="1196">у</TOKEN>
+<TOKEN id="token-7-7" pos="word" morph="none" start_char="1198" end_char="1200">нас</TOKEN>
+<TOKEN id="token-7-8" pos="word" morph="none" start_char="1202" end_char="1205">была</TOKEN>
+<TOKEN id="token-7-9" pos="word" morph="none" start_char="1207" end_char="1212">группа</TOKEN>
+<TOKEN id="token-7-10" pos="punct" morph="none" start_char="1213" end_char="1213">,</TOKEN>
+<TOKEN id="token-7-11" pos="word" morph="none" start_char="1215" end_char="1215">у</TOKEN>
+<TOKEN id="token-7-12" pos="word" morph="none" start_char="1217" end_char="1223">которой</TOKEN>
+<TOKEN id="token-7-13" pos="word" morph="none" start_char="1225" end_char="1226">не</TOKEN>
+<TOKEN id="token-7-14" pos="word" morph="none" start_char="1228" end_char="1231">было</TOKEN>
+<TOKEN id="token-7-15" pos="word" morph="none" start_char="1233" end_char="1239">антител</TOKEN>
+<TOKEN id="token-7-16" pos="punct" morph="none" start_char="1240" end_char="1240">,</TOKEN>
+<TOKEN id="token-7-17" pos="word" morph="none" start_char="1242" end_char="1242">и</TOKEN>
+<TOKEN id="token-7-18" pos="word" morph="none" start_char="1244" end_char="1244">в</TOKEN>
+<TOKEN id="token-7-19" pos="word" morph="none" start_char="1246" end_char="1248">ней</TOKEN>
+<TOKEN id="token-7-20" pos="word" morph="none" start_char="1250" end_char="1251">мы</TOKEN>
+<TOKEN id="token-7-21" pos="word" morph="none" start_char="1253" end_char="1262">обнаружили</TOKEN>
+<TOKEN id="token-7-22" pos="word" morph="none" start_char="1264" end_char="1265">20</TOKEN>
+<TOKEN id="token-7-23" pos="punct" morph="none" start_char="1266" end_char="1266">%</TOKEN>
+<TOKEN id="token-7-24" pos="word" morph="none" start_char="1268" end_char="1276">носителей</TOKEN>
+<TOKEN id="token-7-25" pos="word" morph="none" start_char="1278" end_char="1283">вируса</TOKEN>
+<TOKEN id="token-7-26" pos="punct" morph="none" start_char="1284" end_char="1284">,</TOKEN>
+<TOKEN id="token-7-27" pos="word" morph="none" start_char="1286" end_char="1286">в</TOKEN>
+<TOKEN id="token-7-28" pos="word" morph="none" start_char="1288" end_char="1298">большинстве</TOKEN>
+<TOKEN id="token-7-29" pos="word" morph="none" start_char="1300" end_char="1306">случаев</TOKEN>
+<TOKEN id="token-7-30" pos="word" morph="none" start_char="1308" end_char="1320">бессимптомных</TOKEN>
+<TOKEN id="token-7-31" pos="punct" morph="none" start_char="1321" end_char="1321">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="1323" end_char="1441">
+<ORIGINAL_TEXT>Я беспокоилась, что в группе людей с антителами мы найдем больше носителей, но этого не случилось», — рассказала Толин.</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="word" morph="none" start_char="1323" end_char="1323">Я</TOKEN>
+<TOKEN id="token-8-1" pos="word" morph="none" start_char="1325" end_char="1336">беспокоилась</TOKEN>
+<TOKEN id="token-8-2" pos="punct" morph="none" start_char="1337" end_char="1337">,</TOKEN>
+<TOKEN id="token-8-3" pos="word" morph="none" start_char="1339" end_char="1341">что</TOKEN>
+<TOKEN id="token-8-4" pos="word" morph="none" start_char="1343" end_char="1343">в</TOKEN>
+<TOKEN id="token-8-5" pos="word" morph="none" start_char="1345" end_char="1350">группе</TOKEN>
+<TOKEN id="token-8-6" pos="word" morph="none" start_char="1352" end_char="1356">людей</TOKEN>
+<TOKEN id="token-8-7" pos="word" morph="none" start_char="1358" end_char="1358">с</TOKEN>
+<TOKEN id="token-8-8" pos="word" morph="none" start_char="1360" end_char="1369">антителами</TOKEN>
+<TOKEN id="token-8-9" pos="word" morph="none" start_char="1371" end_char="1372">мы</TOKEN>
+<TOKEN id="token-8-10" pos="word" morph="none" start_char="1374" end_char="1379">найдем</TOKEN>
+<TOKEN id="token-8-11" pos="word" morph="none" start_char="1381" end_char="1386">больше</TOKEN>
+<TOKEN id="token-8-12" pos="word" morph="none" start_char="1388" end_char="1396">носителей</TOKEN>
+<TOKEN id="token-8-13" pos="punct" morph="none" start_char="1397" end_char="1397">,</TOKEN>
+<TOKEN id="token-8-14" pos="word" morph="none" start_char="1399" end_char="1400">но</TOKEN>
+<TOKEN id="token-8-15" pos="word" morph="none" start_char="1402" end_char="1406">этого</TOKEN>
+<TOKEN id="token-8-16" pos="word" morph="none" start_char="1408" end_char="1409">не</TOKEN>
+<TOKEN id="token-8-17" pos="word" morph="none" start_char="1411" end_char="1419">случилось</TOKEN>
+<TOKEN id="token-8-18" pos="punct" morph="none" start_char="1420" end_char="1421">»,</TOKEN>
+<TOKEN id="token-8-19" pos="punct" morph="none" start_char="1423" end_char="1423">—</TOKEN>
+<TOKEN id="token-8-20" pos="word" morph="none" start_char="1425" end_char="1434">рассказала</TOKEN>
+<TOKEN id="token-8-21" pos="word" morph="none" start_char="1436" end_char="1440">Толин</TOKEN>
+<TOKEN id="token-8-22" pos="punct" morph="none" start_char="1441" end_char="1441">.</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="1444" end_char="1542">
+<ORIGINAL_TEXT>Исследование показало, что среди 340 человек с антителами рецидив вируса наблюдался менее чем у 1%.</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="1444" end_char="1455">Исследование</TOKEN>
+<TOKEN id="token-9-1" pos="word" morph="none" start_char="1457" end_char="1464">показало</TOKEN>
+<TOKEN id="token-9-2" pos="punct" morph="none" start_char="1465" end_char="1465">,</TOKEN>
+<TOKEN id="token-9-3" pos="word" morph="none" start_char="1467" end_char="1469">что</TOKEN>
+<TOKEN id="token-9-4" pos="word" morph="none" start_char="1471" end_char="1475">среди</TOKEN>
+<TOKEN id="token-9-5" pos="word" morph="none" start_char="1477" end_char="1479">340</TOKEN>
+<TOKEN id="token-9-6" pos="word" morph="none" start_char="1481" end_char="1487">человек</TOKEN>
+<TOKEN id="token-9-7" pos="word" morph="none" start_char="1489" end_char="1489">с</TOKEN>
+<TOKEN id="token-9-8" pos="word" morph="none" start_char="1491" end_char="1500">антителами</TOKEN>
+<TOKEN id="token-9-9" pos="word" morph="none" start_char="1502" end_char="1508">рецидив</TOKEN>
+<TOKEN id="token-9-10" pos="word" morph="none" start_char="1510" end_char="1515">вируса</TOKEN>
+<TOKEN id="token-9-11" pos="word" morph="none" start_char="1517" end_char="1526">наблюдался</TOKEN>
+<TOKEN id="token-9-12" pos="word" morph="none" start_char="1528" end_char="1532">менее</TOKEN>
+<TOKEN id="token-9-13" pos="word" morph="none" start_char="1534" end_char="1536">чем</TOKEN>
+<TOKEN id="token-9-14" pos="word" morph="none" start_char="1538" end_char="1538">у</TOKEN>
+<TOKEN id="token-9-15" pos="word" morph="none" start_char="1540" end_char="1540">1</TOKEN>
+<TOKEN id="token-9-16" pos="punct" morph="none" start_char="1541" end_char="1542">%.</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="1544" end_char="1640">
+<ORIGINAL_TEXT>Таким образом, эксперты сделали вывод о том, что риск повторного заболевания COVID-19 крайне мал.</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="word" morph="none" start_char="1544" end_char="1548">Таким</TOKEN>
+<TOKEN id="token-10-1" pos="word" morph="none" start_char="1550" end_char="1556">образом</TOKEN>
+<TOKEN id="token-10-2" pos="punct" morph="none" start_char="1557" end_char="1557">,</TOKEN>
+<TOKEN id="token-10-3" pos="word" morph="none" start_char="1559" end_char="1566">эксперты</TOKEN>
+<TOKEN id="token-10-4" pos="word" morph="none" start_char="1568" end_char="1574">сделали</TOKEN>
+<TOKEN id="token-10-5" pos="word" morph="none" start_char="1576" end_char="1580">вывод</TOKEN>
+<TOKEN id="token-10-6" pos="word" morph="none" start_char="1582" end_char="1582">о</TOKEN>
+<TOKEN id="token-10-7" pos="word" morph="none" start_char="1584" end_char="1586">том</TOKEN>
+<TOKEN id="token-10-8" pos="punct" morph="none" start_char="1587" end_char="1587">,</TOKEN>
+<TOKEN id="token-10-9" pos="word" morph="none" start_char="1589" end_char="1591">что</TOKEN>
+<TOKEN id="token-10-10" pos="word" morph="none" start_char="1593" end_char="1596">риск</TOKEN>
+<TOKEN id="token-10-11" pos="word" morph="none" start_char="1598" end_char="1607">повторного</TOKEN>
+<TOKEN id="token-10-12" pos="word" morph="none" start_char="1609" end_char="1619">заболевания</TOKEN>
+<TOKEN id="token-10-13" pos="unknown" morph="none" start_char="1621" end_char="1628">COVID-19</TOKEN>
+<TOKEN id="token-10-14" pos="word" morph="none" start_char="1630" end_char="1635">крайне</TOKEN>
+<TOKEN id="token-10-15" pos="word" morph="none" start_char="1637" end_char="1639">мал</TOKEN>
+<TOKEN id="token-10-16" pos="punct" morph="none" start_char="1640" end_char="1640">.</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="1643" end_char="1734">
+<ORIGINAL_TEXT>Следующая фаза научной работы запланирована на май после вакцинации участников исследования.</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="word" morph="none" start_char="1643" end_char="1651">Следующая</TOKEN>
+<TOKEN id="token-11-1" pos="word" morph="none" start_char="1653" end_char="1656">фаза</TOKEN>
+<TOKEN id="token-11-2" pos="word" morph="none" start_char="1658" end_char="1664">научной</TOKEN>
+<TOKEN id="token-11-3" pos="word" morph="none" start_char="1666" end_char="1671">работы</TOKEN>
+<TOKEN id="token-11-4" pos="word" morph="none" start_char="1673" end_char="1685">запланирована</TOKEN>
+<TOKEN id="token-11-5" pos="word" morph="none" start_char="1687" end_char="1688">на</TOKEN>
+<TOKEN id="token-11-6" pos="word" morph="none" start_char="1690" end_char="1692">май</TOKEN>
+<TOKEN id="token-11-7" pos="word" morph="none" start_char="1694" end_char="1698">после</TOKEN>
+<TOKEN id="token-11-8" pos="word" morph="none" start_char="1700" end_char="1709">вакцинации</TOKEN>
+<TOKEN id="token-11-9" pos="word" morph="none" start_char="1711" end_char="1720">участников</TOKEN>
+<TOKEN id="token-11-10" pos="word" morph="none" start_char="1722" end_char="1733">исследования</TOKEN>
+<TOKEN id="token-11-11" pos="punct" morph="none" start_char="1734" end_char="1734">.</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="1737" end_char="1812">
+<ORIGINAL_TEXT>12 февраля в ВОЗ привели данные о повторных случаях заболеваемости COVID-19.</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="word" morph="none" start_char="1737" end_char="1738">12</TOKEN>
+<TOKEN id="token-12-1" pos="word" morph="none" start_char="1740" end_char="1746">февраля</TOKEN>
+<TOKEN id="token-12-2" pos="word" morph="none" start_char="1748" end_char="1748">в</TOKEN>
+<TOKEN id="token-12-3" pos="word" morph="none" start_char="1750" end_char="1752">ВОЗ</TOKEN>
+<TOKEN id="token-12-4" pos="word" morph="none" start_char="1754" end_char="1760">привели</TOKEN>
+<TOKEN id="token-12-5" pos="word" morph="none" start_char="1762" end_char="1767">данные</TOKEN>
+<TOKEN id="token-12-6" pos="word" morph="none" start_char="1769" end_char="1769">о</TOKEN>
+<TOKEN id="token-12-7" pos="word" morph="none" start_char="1771" end_char="1779">повторных</TOKEN>
+<TOKEN id="token-12-8" pos="word" morph="none" start_char="1781" end_char="1787">случаях</TOKEN>
+<TOKEN id="token-12-9" pos="word" morph="none" start_char="1789" end_char="1802">заболеваемости</TOKEN>
+<TOKEN id="token-12-10" pos="unknown" morph="none" start_char="1804" end_char="1811">COVID-19</TOKEN>
+<TOKEN id="token-12-11" pos="punct" morph="none" start_char="1812" end_char="1812">.</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="1815" end_char="2001">
+<ORIGINAL_TEXT>Там отметили, что в настоящее время ученые проводят исследования о длительности иммунитета от вируса у переболевших пациентов и большинство вакцинированных переносит вирус в легкой форме.</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="word" morph="none" start_char="1815" end_char="1817">Там</TOKEN>
+<TOKEN id="token-13-1" pos="word" morph="none" start_char="1819" end_char="1826">отметили</TOKEN>
+<TOKEN id="token-13-2" pos="punct" morph="none" start_char="1827" end_char="1827">,</TOKEN>
+<TOKEN id="token-13-3" pos="word" morph="none" start_char="1829" end_char="1831">что</TOKEN>
+<TOKEN id="token-13-4" pos="word" morph="none" start_char="1833" end_char="1833">в</TOKEN>
+<TOKEN id="token-13-5" pos="word" morph="none" start_char="1835" end_char="1843">настоящее</TOKEN>
+<TOKEN id="token-13-6" pos="word" morph="none" start_char="1845" end_char="1849">время</TOKEN>
+<TOKEN id="token-13-7" pos="word" morph="none" start_char="1851" end_char="1856">ученые</TOKEN>
+<TOKEN id="token-13-8" pos="word" morph="none" start_char="1858" end_char="1865">проводят</TOKEN>
+<TOKEN id="token-13-9" pos="word" morph="none" start_char="1867" end_char="1878">исследования</TOKEN>
+<TOKEN id="token-13-10" pos="word" morph="none" start_char="1880" end_char="1880">о</TOKEN>
+<TOKEN id="token-13-11" pos="word" morph="none" start_char="1882" end_char="1893">длительности</TOKEN>
+<TOKEN id="token-13-12" pos="word" morph="none" start_char="1895" end_char="1904">иммунитета</TOKEN>
+<TOKEN id="token-13-13" pos="word" morph="none" start_char="1906" end_char="1907">от</TOKEN>
+<TOKEN id="token-13-14" pos="word" morph="none" start_char="1909" end_char="1914">вируса</TOKEN>
+<TOKEN id="token-13-15" pos="word" morph="none" start_char="1916" end_char="1916">у</TOKEN>
+<TOKEN id="token-13-16" pos="word" morph="none" start_char="1918" end_char="1929">переболевших</TOKEN>
+<TOKEN id="token-13-17" pos="word" morph="none" start_char="1931" end_char="1939">пациентов</TOKEN>
+<TOKEN id="token-13-18" pos="word" morph="none" start_char="1941" end_char="1941">и</TOKEN>
+<TOKEN id="token-13-19" pos="word" morph="none" start_char="1943" end_char="1953">большинство</TOKEN>
+<TOKEN id="token-13-20" pos="word" morph="none" start_char="1955" end_char="1969">вакцинированных</TOKEN>
+<TOKEN id="token-13-21" pos="word" morph="none" start_char="1971" end_char="1979">переносит</TOKEN>
+<TOKEN id="token-13-22" pos="word" morph="none" start_char="1981" end_char="1985">вирус</TOKEN>
+<TOKEN id="token-13-23" pos="word" morph="none" start_char="1987" end_char="1987">в</TOKEN>
+<TOKEN id="token-13-24" pos="word" morph="none" start_char="1989" end_char="1994">легкой</TOKEN>
+<TOKEN id="token-13-25" pos="word" morph="none" start_char="1996" end_char="2000">форме</TOKEN>
+<TOKEN id="token-13-26" pos="punct" morph="none" start_char="2001" end_char="2001">.</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="2004" end_char="2239">
+<ORIGINAL_TEXT>Как сообщили ученые из Медицинской школы Йельского университета, одной из причин, по которым человек может повторно переболеть коронавирусной инфекцией, является слабый иммунитет или реактивизация остатков инфекции в организме пациента.</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="word" morph="none" start_char="2004" end_char="2006">Как</TOKEN>
+<TOKEN id="token-14-1" pos="word" morph="none" start_char="2008" end_char="2015">сообщили</TOKEN>
+<TOKEN id="token-14-2" pos="word" morph="none" start_char="2017" end_char="2022">ученые</TOKEN>
+<TOKEN id="token-14-3" pos="word" morph="none" start_char="2024" end_char="2025">из</TOKEN>
+<TOKEN id="token-14-4" pos="word" morph="none" start_char="2027" end_char="2037">Медицинской</TOKEN>
+<TOKEN id="token-14-5" pos="word" morph="none" start_char="2039" end_char="2043">школы</TOKEN>
+<TOKEN id="token-14-6" pos="word" morph="none" start_char="2045" end_char="2053">Йельского</TOKEN>
+<TOKEN id="token-14-7" pos="word" morph="none" start_char="2055" end_char="2066">университета</TOKEN>
+<TOKEN id="token-14-8" pos="punct" morph="none" start_char="2067" end_char="2067">,</TOKEN>
+<TOKEN id="token-14-9" pos="word" morph="none" start_char="2069" end_char="2073">одной</TOKEN>
+<TOKEN id="token-14-10" pos="word" morph="none" start_char="2075" end_char="2076">из</TOKEN>
+<TOKEN id="token-14-11" pos="word" morph="none" start_char="2078" end_char="2083">причин</TOKEN>
+<TOKEN id="token-14-12" pos="punct" morph="none" start_char="2084" end_char="2084">,</TOKEN>
+<TOKEN id="token-14-13" pos="word" morph="none" start_char="2086" end_char="2087">по</TOKEN>
+<TOKEN id="token-14-14" pos="word" morph="none" start_char="2089" end_char="2095">которым</TOKEN>
+<TOKEN id="token-14-15" pos="word" morph="none" start_char="2097" end_char="2103">человек</TOKEN>
+<TOKEN id="token-14-16" pos="word" morph="none" start_char="2105" end_char="2109">может</TOKEN>
+<TOKEN id="token-14-17" pos="word" morph="none" start_char="2111" end_char="2118">повторно</TOKEN>
+<TOKEN id="token-14-18" pos="word" morph="none" start_char="2120" end_char="2129">переболеть</TOKEN>
+<TOKEN id="token-14-19" pos="word" morph="none" start_char="2131" end_char="2144">коронавирусной</TOKEN>
+<TOKEN id="token-14-20" pos="word" morph="none" start_char="2146" end_char="2154">инфекцией</TOKEN>
+<TOKEN id="token-14-21" pos="punct" morph="none" start_char="2155" end_char="2155">,</TOKEN>
+<TOKEN id="token-14-22" pos="word" morph="none" start_char="2157" end_char="2164">является</TOKEN>
+<TOKEN id="token-14-23" pos="word" morph="none" start_char="2166" end_char="2171">слабый</TOKEN>
+<TOKEN id="token-14-24" pos="word" morph="none" start_char="2173" end_char="2181">иммунитет</TOKEN>
+<TOKEN id="token-14-25" pos="word" morph="none" start_char="2183" end_char="2185">или</TOKEN>
+<TOKEN id="token-14-26" pos="word" morph="none" start_char="2187" end_char="2199">реактивизация</TOKEN>
+<TOKEN id="token-14-27" pos="word" morph="none" start_char="2201" end_char="2208">остатков</TOKEN>
+<TOKEN id="token-14-28" pos="word" morph="none" start_char="2210" end_char="2217">инфекции</TOKEN>
+<TOKEN id="token-14-29" pos="word" morph="none" start_char="2219" end_char="2219">в</TOKEN>
+<TOKEN id="token-14-30" pos="word" morph="none" start_char="2221" end_char="2229">организме</TOKEN>
+<TOKEN id="token-14-31" pos="word" morph="none" start_char="2231" end_char="2238">пациента</TOKEN>
+<TOKEN id="token-14-32" pos="punct" morph="none" start_char="2239" end_char="2239">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

@@ -71,7 +71,7 @@ class CSDataModule(pl.LightningDataModule):
         events = defaultdict(list) # doc_id to list of events 
         use_ins=True
         event_dict = {}
-        with open(os.path.join(self.hparams.input_dir, 'cs/event.cs')) as f:
+        with open(os.path.join(self.hparams.input_dir, 'event.cs')) as f:
             for line in f:
                 fields = line.strip().split('\t')
                 if len(fields) == 0: continue 

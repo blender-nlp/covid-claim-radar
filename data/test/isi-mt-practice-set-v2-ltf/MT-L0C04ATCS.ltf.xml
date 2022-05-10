@@ -1,0 +1,751 @@
+<LCTL_TEXT lang="eng">
+<DOC grammar="none" id="L0C04ATCS" lang="eng" raw_text_char_length="3527" raw_text_md5="caf145177492df945d93ebd9d0a9f71b" tokenization="tokenization_parameters.v5.0">
+<TEXT>
+<SEG end_char="59" id="segment-0" start_char="1">
+<ORIGINAL_TEXT>Dogs That Can Smell Coronavirus Screen Travelers at Airport</ORIGINAL_TEXT>
+<TOKEN end_char="4" id="token-0-0" morph="none" pos="word" start_char="1">Dogs</TOKEN>
+<TOKEN end_char="9" id="token-0-1" morph="none" pos="word" start_char="6">That</TOKEN>
+<TOKEN end_char="13" id="token-0-2" morph="none" pos="word" start_char="11">Can</TOKEN>
+<TOKEN end_char="19" id="token-0-3" morph="none" pos="word" start_char="15">Smell</TOKEN>
+<TOKEN end_char="31" id="token-0-4" morph="none" pos="word" start_char="21">Coronavirus</TOKEN>
+<TOKEN end_char="38" id="token-0-5" morph="none" pos="word" start_char="33">Screen</TOKEN>
+<TOKEN end_char="48" id="token-0-6" morph="none" pos="word" start_char="40">Travelers</TOKEN>
+<TOKEN end_char="51" id="token-0-7" morph="none" pos="word" start_char="50">at</TOKEN>
+<TOKEN end_char="59" id="token-0-8" morph="none" pos="word" start_char="53">Airport</TOKEN>
+</SEG>
+<SEG end_char="161" id="segment-1" start_char="63">
+<ORIGINAL_TEXT>Travelers at Helsinki Airport in Finland now have the option of undergoing free COVID-19 screening.</ORIGINAL_TEXT>
+<TOKEN end_char="71" id="token-1-0" morph="none" pos="word" start_char="63">Travelers</TOKEN>
+<TOKEN end_char="74" id="token-1-1" morph="none" pos="word" start_char="73">at</TOKEN>
+<TOKEN end_char="83" id="token-1-2" morph="none" pos="word" start_char="76">Helsinki</TOKEN>
+<TOKEN end_char="91" id="token-1-3" morph="none" pos="word" start_char="85">Airport</TOKEN>
+<TOKEN end_char="94" id="token-1-4" morph="none" pos="word" start_char="93">in</TOKEN>
+<TOKEN end_char="102" id="token-1-5" morph="none" pos="word" start_char="96">Finland</TOKEN>
+<TOKEN end_char="106" id="token-1-6" morph="none" pos="word" start_char="104">now</TOKEN>
+<TOKEN end_char="111" id="token-1-7" morph="none" pos="word" start_char="108">have</TOKEN>
+<TOKEN end_char="115" id="token-1-8" morph="none" pos="word" start_char="113">the</TOKEN>
+<TOKEN end_char="122" id="token-1-9" morph="none" pos="word" start_char="117">option</TOKEN>
+<TOKEN end_char="125" id="token-1-10" morph="none" pos="word" start_char="124">of</TOKEN>
+<TOKEN end_char="136" id="token-1-11" morph="none" pos="word" start_char="127">undergoing</TOKEN>
+<TOKEN end_char="141" id="token-1-12" morph="none" pos="word" start_char="138">free</TOKEN>
+<TOKEN end_char="150" id="token-1-13" morph="none" pos="unknown" start_char="143">COVID-19</TOKEN>
+<TOKEN end_char="160" id="token-1-14" morph="none" pos="word" start_char="152">screening</TOKEN>
+<TOKEN end_char="161" id="token-1-15" morph="none" pos="punct" start_char="161">.</TOKEN>
+</SEG>
+<SEG end_char="280" id="segment-2" start_char="163">
+<ORIGINAL_TEXT>But it won't be a lab tech analyzing nose samples — it'll be a team of dogs that can smell coronavirus in human sweat.</ORIGINAL_TEXT>
+<TOKEN end_char="165" id="token-2-0" morph="none" pos="word" start_char="163">But</TOKEN>
+<TOKEN end_char="168" id="token-2-1" morph="none" pos="word" start_char="167">it</TOKEN>
+<TOKEN end_char="174" id="token-2-2" morph="none" pos="word" start_char="170">won't</TOKEN>
+<TOKEN end_char="177" id="token-2-3" morph="none" pos="word" start_char="176">be</TOKEN>
+<TOKEN end_char="179" id="token-2-4" morph="none" pos="word" start_char="179">a</TOKEN>
+<TOKEN end_char="183" id="token-2-5" morph="none" pos="word" start_char="181">lab</TOKEN>
+<TOKEN end_char="188" id="token-2-6" morph="none" pos="word" start_char="185">tech</TOKEN>
+<TOKEN end_char="198" id="token-2-7" morph="none" pos="word" start_char="190">analyzing</TOKEN>
+<TOKEN end_char="203" id="token-2-8" morph="none" pos="word" start_char="200">nose</TOKEN>
+<TOKEN end_char="211" id="token-2-9" morph="none" pos="word" start_char="205">samples</TOKEN>
+<TOKEN end_char="213" id="token-2-10" morph="none" pos="punct" start_char="213">—</TOKEN>
+<TOKEN end_char="219" id="token-2-11" morph="none" pos="word" start_char="215">it'll</TOKEN>
+<TOKEN end_char="222" id="token-2-12" morph="none" pos="word" start_char="221">be</TOKEN>
+<TOKEN end_char="224" id="token-2-13" morph="none" pos="word" start_char="224">a</TOKEN>
+<TOKEN end_char="229" id="token-2-14" morph="none" pos="word" start_char="226">team</TOKEN>
+<TOKEN end_char="232" id="token-2-15" morph="none" pos="word" start_char="231">of</TOKEN>
+<TOKEN end_char="237" id="token-2-16" morph="none" pos="word" start_char="234">dogs</TOKEN>
+<TOKEN end_char="242" id="token-2-17" morph="none" pos="word" start_char="239">that</TOKEN>
+<TOKEN end_char="246" id="token-2-18" morph="none" pos="word" start_char="244">can</TOKEN>
+<TOKEN end_char="252" id="token-2-19" morph="none" pos="word" start_char="248">smell</TOKEN>
+<TOKEN end_char="264" id="token-2-20" morph="none" pos="word" start_char="254">coronavirus</TOKEN>
+<TOKEN end_char="267" id="token-2-21" morph="none" pos="word" start_char="266">in</TOKEN>
+<TOKEN end_char="273" id="token-2-22" morph="none" pos="word" start_char="269">human</TOKEN>
+<TOKEN end_char="279" id="token-2-23" morph="none" pos="word" start_char="275">sweat</TOKEN>
+<TOKEN end_char="280" id="token-2-24" morph="none" pos="punct" start_char="280">.</TOKEN>
+</SEG>
+<SEG end_char="442" id="segment-3" start_char="283">
+<ORIGINAL_TEXT>This Helsinki Airport pilot study is the largest of its kind, and if it goes well, detection dogs could soon play a role in helping the world curb the pandemic.</ORIGINAL_TEXT>
+<TOKEN end_char="286" id="token-3-0" morph="none" pos="word" start_char="283">This</TOKEN>
+<TOKEN end_char="295" id="token-3-1" morph="none" pos="word" start_char="288">Helsinki</TOKEN>
+<TOKEN end_char="303" id="token-3-2" morph="none" pos="word" start_char="297">Airport</TOKEN>
+<TOKEN end_char="309" id="token-3-3" morph="none" pos="word" start_char="305">pilot</TOKEN>
+<TOKEN end_char="315" id="token-3-4" morph="none" pos="word" start_char="311">study</TOKEN>
+<TOKEN end_char="318" id="token-3-5" morph="none" pos="word" start_char="317">is</TOKEN>
+<TOKEN end_char="322" id="token-3-6" morph="none" pos="word" start_char="320">the</TOKEN>
+<TOKEN end_char="330" id="token-3-7" morph="none" pos="word" start_char="324">largest</TOKEN>
+<TOKEN end_char="333" id="token-3-8" morph="none" pos="word" start_char="332">of</TOKEN>
+<TOKEN end_char="337" id="token-3-9" morph="none" pos="word" start_char="335">its</TOKEN>
+<TOKEN end_char="342" id="token-3-10" morph="none" pos="word" start_char="339">kind</TOKEN>
+<TOKEN end_char="343" id="token-3-11" morph="none" pos="punct" start_char="343">,</TOKEN>
+<TOKEN end_char="347" id="token-3-12" morph="none" pos="word" start_char="345">and</TOKEN>
+<TOKEN end_char="350" id="token-3-13" morph="none" pos="word" start_char="349">if</TOKEN>
+<TOKEN end_char="353" id="token-3-14" morph="none" pos="word" start_char="352">it</TOKEN>
+<TOKEN end_char="358" id="token-3-15" morph="none" pos="word" start_char="355">goes</TOKEN>
+<TOKEN end_char="363" id="token-3-16" morph="none" pos="word" start_char="360">well</TOKEN>
+<TOKEN end_char="364" id="token-3-17" morph="none" pos="punct" start_char="364">,</TOKEN>
+<TOKEN end_char="374" id="token-3-18" morph="none" pos="word" start_char="366">detection</TOKEN>
+<TOKEN end_char="379" id="token-3-19" morph="none" pos="word" start_char="376">dogs</TOKEN>
+<TOKEN end_char="385" id="token-3-20" morph="none" pos="word" start_char="381">could</TOKEN>
+<TOKEN end_char="390" id="token-3-21" morph="none" pos="word" start_char="387">soon</TOKEN>
+<TOKEN end_char="395" id="token-3-22" morph="none" pos="word" start_char="392">play</TOKEN>
+<TOKEN end_char="397" id="token-3-23" morph="none" pos="word" start_char="397">a</TOKEN>
+<TOKEN end_char="402" id="token-3-24" morph="none" pos="word" start_char="399">role</TOKEN>
+<TOKEN end_char="405" id="token-3-25" morph="none" pos="word" start_char="404">in</TOKEN>
+<TOKEN end_char="413" id="token-3-26" morph="none" pos="word" start_char="407">helping</TOKEN>
+<TOKEN end_char="417" id="token-3-27" morph="none" pos="word" start_char="415">the</TOKEN>
+<TOKEN end_char="423" id="token-3-28" morph="none" pos="word" start_char="419">world</TOKEN>
+<TOKEN end_char="428" id="token-3-29" morph="none" pos="word" start_char="425">curb</TOKEN>
+<TOKEN end_char="432" id="token-3-30" morph="none" pos="word" start_char="430">the</TOKEN>
+<TOKEN end_char="441" id="token-3-31" morph="none" pos="word" start_char="434">pandemic</TOKEN>
+<TOKEN end_char="442" id="token-3-32" morph="none" pos="punct" start_char="442">.</TOKEN>
+</SEG>
+<SEG end_char="515" id="segment-4" start_char="445">
+<ORIGINAL_TEXT>The four detection dogs that can smell coronavirus at Helsinki Airport.</ORIGINAL_TEXT>
+<TOKEN end_char="447" id="token-4-0" morph="none" pos="word" start_char="445">The</TOKEN>
+<TOKEN end_char="452" id="token-4-1" morph="none" pos="word" start_char="449">four</TOKEN>
+<TOKEN end_char="462" id="token-4-2" morph="none" pos="word" start_char="454">detection</TOKEN>
+<TOKEN end_char="467" id="token-4-3" morph="none" pos="word" start_char="464">dogs</TOKEN>
+<TOKEN end_char="472" id="token-4-4" morph="none" pos="word" start_char="469">that</TOKEN>
+<TOKEN end_char="476" id="token-4-5" morph="none" pos="word" start_char="474">can</TOKEN>
+<TOKEN end_char="482" id="token-4-6" morph="none" pos="word" start_char="478">smell</TOKEN>
+<TOKEN end_char="494" id="token-4-7" morph="none" pos="word" start_char="484">coronavirus</TOKEN>
+<TOKEN end_char="497" id="token-4-8" morph="none" pos="word" start_char="496">at</TOKEN>
+<TOKEN end_char="506" id="token-4-9" morph="none" pos="word" start_char="499">Helsinki</TOKEN>
+<TOKEN end_char="514" id="token-4-10" morph="none" pos="word" start_char="508">Airport</TOKEN>
+<TOKEN end_char="515" id="token-4-11" morph="none" pos="punct" start_char="515">.</TOKEN>
+</SEG>
+<SEG end_char="537" id="segment-5" start_char="517">
+<ORIGINAL_TEXT>Credit: Finavia Corp.</ORIGINAL_TEXT>
+<TOKEN end_char="522" id="token-5-0" morph="none" pos="word" start_char="517">Credit</TOKEN>
+<TOKEN end_char="523" id="token-5-1" morph="none" pos="punct" start_char="523">:</TOKEN>
+<TOKEN end_char="531" id="token-5-2" morph="none" pos="word" start_char="525">Finavia</TOKEN>
+<TOKEN end_char="536" id="token-5-3" morph="none" pos="word" start_char="533">Corp</TOKEN>
+<TOKEN end_char="537" id="token-5-4" morph="none" pos="punct" start_char="537">.</TOKEN>
+</SEG>
+<SEG end_char="580" id="segment-6" start_char="541">
+<ORIGINAL_TEXT>Training Dogs That Can Smell Coronavirus</ORIGINAL_TEXT>
+<TOKEN end_char="548" id="token-6-0" morph="none" pos="word" start_char="541">Training</TOKEN>
+<TOKEN end_char="553" id="token-6-1" morph="none" pos="word" start_char="550">Dogs</TOKEN>
+<TOKEN end_char="558" id="token-6-2" morph="none" pos="word" start_char="555">That</TOKEN>
+<TOKEN end_char="562" id="token-6-3" morph="none" pos="word" start_char="560">Can</TOKEN>
+<TOKEN end_char="568" id="token-6-4" morph="none" pos="word" start_char="564">Smell</TOKEN>
+<TOKEN end_char="580" id="token-6-5" morph="none" pos="word" start_char="570">Coronavirus</TOKEN>
+</SEG>
+<SEG end_char="733" id="segment-7" start_char="584">
+<ORIGINAL_TEXT>Dogs have an incredibly keen sense of smell, and with the right training, they can use it to help humans track down everything from bombs to bed bugs.</ORIGINAL_TEXT>
+<TOKEN end_char="587" id="token-7-0" morph="none" pos="word" start_char="584">Dogs</TOKEN>
+<TOKEN end_char="592" id="token-7-1" morph="none" pos="word" start_char="589">have</TOKEN>
+<TOKEN end_char="595" id="token-7-2" morph="none" pos="word" start_char="594">an</TOKEN>
+<TOKEN end_char="606" id="token-7-3" morph="none" pos="word" start_char="597">incredibly</TOKEN>
+<TOKEN end_char="611" id="token-7-4" morph="none" pos="word" start_char="608">keen</TOKEN>
+<TOKEN end_char="617" id="token-7-5" morph="none" pos="word" start_char="613">sense</TOKEN>
+<TOKEN end_char="620" id="token-7-6" morph="none" pos="word" start_char="619">of</TOKEN>
+<TOKEN end_char="626" id="token-7-7" morph="none" pos="word" start_char="622">smell</TOKEN>
+<TOKEN end_char="627" id="token-7-8" morph="none" pos="punct" start_char="627">,</TOKEN>
+<TOKEN end_char="631" id="token-7-9" morph="none" pos="word" start_char="629">and</TOKEN>
+<TOKEN end_char="636" id="token-7-10" morph="none" pos="word" start_char="633">with</TOKEN>
+<TOKEN end_char="640" id="token-7-11" morph="none" pos="word" start_char="638">the</TOKEN>
+<TOKEN end_char="646" id="token-7-12" morph="none" pos="word" start_char="642">right</TOKEN>
+<TOKEN end_char="655" id="token-7-13" morph="none" pos="word" start_char="648">training</TOKEN>
+<TOKEN end_char="656" id="token-7-14" morph="none" pos="punct" start_char="656">,</TOKEN>
+<TOKEN end_char="661" id="token-7-15" morph="none" pos="word" start_char="658">they</TOKEN>
+<TOKEN end_char="665" id="token-7-16" morph="none" pos="word" start_char="663">can</TOKEN>
+<TOKEN end_char="669" id="token-7-17" morph="none" pos="word" start_char="667">use</TOKEN>
+<TOKEN end_char="672" id="token-7-18" morph="none" pos="word" start_char="671">it</TOKEN>
+<TOKEN end_char="675" id="token-7-19" morph="none" pos="word" start_char="674">to</TOKEN>
+<TOKEN end_char="680" id="token-7-20" morph="none" pos="word" start_char="677">help</TOKEN>
+<TOKEN end_char="687" id="token-7-21" morph="none" pos="word" start_char="682">humans</TOKEN>
+<TOKEN end_char="693" id="token-7-22" morph="none" pos="word" start_char="689">track</TOKEN>
+<TOKEN end_char="698" id="token-7-23" morph="none" pos="word" start_char="695">down</TOKEN>
+<TOKEN end_char="709" id="token-7-24" morph="none" pos="word" start_char="700">everything</TOKEN>
+<TOKEN end_char="714" id="token-7-25" morph="none" pos="word" start_char="711">from</TOKEN>
+<TOKEN end_char="720" id="token-7-26" morph="none" pos="word" start_char="716">bombs</TOKEN>
+<TOKEN end_char="723" id="token-7-27" morph="none" pos="word" start_char="722">to</TOKEN>
+<TOKEN end_char="727" id="token-7-28" morph="none" pos="word" start_char="725">bed</TOKEN>
+<TOKEN end_char="732" id="token-7-29" morph="none" pos="word" start_char="729">bugs</TOKEN>
+<TOKEN end_char="733" id="token-7-30" morph="none" pos="punct" start_char="733">.</TOKEN>
+</SEG>
+<SEG end_char="947" id="segment-8" start_char="736">
+<ORIGINAL_TEXT>Some dogs can even sniff out signs of disease or infection in people, so, soon after the pandemic, several research groups launched studies to see if it was possible to train dogs that can smell coronavirus, too.</ORIGINAL_TEXT>
+<TOKEN end_char="739" id="token-8-0" morph="none" pos="word" start_char="736">Some</TOKEN>
+<TOKEN end_char="744" id="token-8-1" morph="none" pos="word" start_char="741">dogs</TOKEN>
+<TOKEN end_char="748" id="token-8-2" morph="none" pos="word" start_char="746">can</TOKEN>
+<TOKEN end_char="753" id="token-8-3" morph="none" pos="word" start_char="750">even</TOKEN>
+<TOKEN end_char="759" id="token-8-4" morph="none" pos="word" start_char="755">sniff</TOKEN>
+<TOKEN end_char="763" id="token-8-5" morph="none" pos="word" start_char="761">out</TOKEN>
+<TOKEN end_char="769" id="token-8-6" morph="none" pos="word" start_char="765">signs</TOKEN>
+<TOKEN end_char="772" id="token-8-7" morph="none" pos="word" start_char="771">of</TOKEN>
+<TOKEN end_char="780" id="token-8-8" morph="none" pos="word" start_char="774">disease</TOKEN>
+<TOKEN end_char="783" id="token-8-9" morph="none" pos="word" start_char="782">or</TOKEN>
+<TOKEN end_char="793" id="token-8-10" morph="none" pos="word" start_char="785">infection</TOKEN>
+<TOKEN end_char="796" id="token-8-11" morph="none" pos="word" start_char="795">in</TOKEN>
+<TOKEN end_char="803" id="token-8-12" morph="none" pos="word" start_char="798">people</TOKEN>
+<TOKEN end_char="804" id="token-8-13" morph="none" pos="punct" start_char="804">,</TOKEN>
+<TOKEN end_char="807" id="token-8-14" morph="none" pos="word" start_char="806">so</TOKEN>
+<TOKEN end_char="808" id="token-8-15" morph="none" pos="punct" start_char="808">,</TOKEN>
+<TOKEN end_char="813" id="token-8-16" morph="none" pos="word" start_char="810">soon</TOKEN>
+<TOKEN end_char="819" id="token-8-17" morph="none" pos="word" start_char="815">after</TOKEN>
+<TOKEN end_char="823" id="token-8-18" morph="none" pos="word" start_char="821">the</TOKEN>
+<TOKEN end_char="832" id="token-8-19" morph="none" pos="word" start_char="825">pandemic</TOKEN>
+<TOKEN end_char="833" id="token-8-20" morph="none" pos="punct" start_char="833">,</TOKEN>
+<TOKEN end_char="841" id="token-8-21" morph="none" pos="word" start_char="835">several</TOKEN>
+<TOKEN end_char="850" id="token-8-22" morph="none" pos="word" start_char="843">research</TOKEN>
+<TOKEN end_char="857" id="token-8-23" morph="none" pos="word" start_char="852">groups</TOKEN>
+<TOKEN end_char="866" id="token-8-24" morph="none" pos="word" start_char="859">launched</TOKEN>
+<TOKEN end_char="874" id="token-8-25" morph="none" pos="word" start_char="868">studies</TOKEN>
+<TOKEN end_char="877" id="token-8-26" morph="none" pos="word" start_char="876">to</TOKEN>
+<TOKEN end_char="881" id="token-8-27" morph="none" pos="word" start_char="879">see</TOKEN>
+<TOKEN end_char="884" id="token-8-28" morph="none" pos="word" start_char="883">if</TOKEN>
+<TOKEN end_char="887" id="token-8-29" morph="none" pos="word" start_char="886">it</TOKEN>
+<TOKEN end_char="891" id="token-8-30" morph="none" pos="word" start_char="889">was</TOKEN>
+<TOKEN end_char="900" id="token-8-31" morph="none" pos="word" start_char="893">possible</TOKEN>
+<TOKEN end_char="903" id="token-8-32" morph="none" pos="word" start_char="902">to</TOKEN>
+<TOKEN end_char="909" id="token-8-33" morph="none" pos="word" start_char="905">train</TOKEN>
+<TOKEN end_char="914" id="token-8-34" morph="none" pos="word" start_char="911">dogs</TOKEN>
+<TOKEN end_char="919" id="token-8-35" morph="none" pos="word" start_char="916">that</TOKEN>
+<TOKEN end_char="923" id="token-8-36" morph="none" pos="word" start_char="921">can</TOKEN>
+<TOKEN end_char="929" id="token-8-37" morph="none" pos="word" start_char="925">smell</TOKEN>
+<TOKEN end_char="941" id="token-8-38" morph="none" pos="word" start_char="931">coronavirus</TOKEN>
+<TOKEN end_char="942" id="token-8-39" morph="none" pos="punct" start_char="942">,</TOKEN>
+<TOKEN end_char="946" id="token-8-40" morph="none" pos="word" start_char="944">too</TOKEN>
+<TOKEN end_char="947" id="token-8-41" morph="none" pos="punct" start_char="947">.</TOKEN>
+</SEG>
+<SEG end_char="1109" id="segment-9" start_char="950">
+<ORIGINAL_TEXT>If so, these hounds could provide a noninvasive way to rapidly screen people for the virus and wouldn't require any testing supplies or expensive lab equipment.</ORIGINAL_TEXT>
+<TOKEN end_char="951" id="token-9-0" morph="none" pos="word" start_char="950">If</TOKEN>
+<TOKEN end_char="954" id="token-9-1" morph="none" pos="word" start_char="953">so</TOKEN>
+<TOKEN end_char="955" id="token-9-2" morph="none" pos="punct" start_char="955">,</TOKEN>
+<TOKEN end_char="961" id="token-9-3" morph="none" pos="word" start_char="957">these</TOKEN>
+<TOKEN end_char="968" id="token-9-4" morph="none" pos="word" start_char="963">hounds</TOKEN>
+<TOKEN end_char="974" id="token-9-5" morph="none" pos="word" start_char="970">could</TOKEN>
+<TOKEN end_char="982" id="token-9-6" morph="none" pos="word" start_char="976">provide</TOKEN>
+<TOKEN end_char="984" id="token-9-7" morph="none" pos="word" start_char="984">a</TOKEN>
+<TOKEN end_char="996" id="token-9-8" morph="none" pos="word" start_char="986">noninvasive</TOKEN>
+<TOKEN end_char="1000" id="token-9-9" morph="none" pos="word" start_char="998">way</TOKEN>
+<TOKEN end_char="1003" id="token-9-10" morph="none" pos="word" start_char="1002">to</TOKEN>
+<TOKEN end_char="1011" id="token-9-11" morph="none" pos="word" start_char="1005">rapidly</TOKEN>
+<TOKEN end_char="1018" id="token-9-12" morph="none" pos="word" start_char="1013">screen</TOKEN>
+<TOKEN end_char="1025" id="token-9-13" morph="none" pos="word" start_char="1020">people</TOKEN>
+<TOKEN end_char="1029" id="token-9-14" morph="none" pos="word" start_char="1027">for</TOKEN>
+<TOKEN end_char="1033" id="token-9-15" morph="none" pos="word" start_char="1031">the</TOKEN>
+<TOKEN end_char="1039" id="token-9-16" morph="none" pos="word" start_char="1035">virus</TOKEN>
+<TOKEN end_char="1043" id="token-9-17" morph="none" pos="word" start_char="1041">and</TOKEN>
+<TOKEN end_char="1052" id="token-9-18" morph="none" pos="word" start_char="1045">wouldn't</TOKEN>
+<TOKEN end_char="1060" id="token-9-19" morph="none" pos="word" start_char="1054">require</TOKEN>
+<TOKEN end_char="1064" id="token-9-20" morph="none" pos="word" start_char="1062">any</TOKEN>
+<TOKEN end_char="1072" id="token-9-21" morph="none" pos="word" start_char="1066">testing</TOKEN>
+<TOKEN end_char="1081" id="token-9-22" morph="none" pos="word" start_char="1074">supplies</TOKEN>
+<TOKEN end_char="1084" id="token-9-23" morph="none" pos="word" start_char="1083">or</TOKEN>
+<TOKEN end_char="1094" id="token-9-24" morph="none" pos="word" start_char="1086">expensive</TOKEN>
+<TOKEN end_char="1098" id="token-9-25" morph="none" pos="word" start_char="1096">lab</TOKEN>
+<TOKEN end_char="1108" id="token-9-26" morph="none" pos="word" start_char="1100">equipment</TOKEN>
+<TOKEN end_char="1109" id="token-9-27" morph="none" pos="punct" start_char="1109">.</TOKEN>
+</SEG>
+<SEG end_char="1250" id="segment-10" start_char="1112">
+<ORIGINAL_TEXT>Several of the groups have since shared incredibly promising results of those efforts, including researchers at the University of Helsinki.</ORIGINAL_TEXT>
+<TOKEN end_char="1118" id="token-10-0" morph="none" pos="word" start_char="1112">Several</TOKEN>
+<TOKEN end_char="1121" id="token-10-1" morph="none" pos="word" start_char="1120">of</TOKEN>
+<TOKEN end_char="1125" id="token-10-2" morph="none" pos="word" start_char="1123">the</TOKEN>
+<TOKEN end_char="1132" id="token-10-3" morph="none" pos="word" start_char="1127">groups</TOKEN>
+<TOKEN end_char="1137" id="token-10-4" morph="none" pos="word" start_char="1134">have</TOKEN>
+<TOKEN end_char="1143" id="token-10-5" morph="none" pos="word" start_char="1139">since</TOKEN>
+<TOKEN end_char="1150" id="token-10-6" morph="none" pos="word" start_char="1145">shared</TOKEN>
+<TOKEN end_char="1161" id="token-10-7" morph="none" pos="word" start_char="1152">incredibly</TOKEN>
+<TOKEN end_char="1171" id="token-10-8" morph="none" pos="word" start_char="1163">promising</TOKEN>
+<TOKEN end_char="1179" id="token-10-9" morph="none" pos="word" start_char="1173">results</TOKEN>
+<TOKEN end_char="1182" id="token-10-10" morph="none" pos="word" start_char="1181">of</TOKEN>
+<TOKEN end_char="1188" id="token-10-11" morph="none" pos="word" start_char="1184">those</TOKEN>
+<TOKEN end_char="1196" id="token-10-12" morph="none" pos="word" start_char="1190">efforts</TOKEN>
+<TOKEN end_char="1197" id="token-10-13" morph="none" pos="punct" start_char="1197">,</TOKEN>
+<TOKEN end_char="1207" id="token-10-14" morph="none" pos="word" start_char="1199">including</TOKEN>
+<TOKEN end_char="1219" id="token-10-15" morph="none" pos="word" start_char="1209">researchers</TOKEN>
+<TOKEN end_char="1222" id="token-10-16" morph="none" pos="word" start_char="1221">at</TOKEN>
+<TOKEN end_char="1226" id="token-10-17" morph="none" pos="word" start_char="1224">the</TOKEN>
+<TOKEN end_char="1237" id="token-10-18" morph="none" pos="word" start_char="1228">University</TOKEN>
+<TOKEN end_char="1240" id="token-10-19" morph="none" pos="word" start_char="1239">of</TOKEN>
+<TOKEN end_char="1249" id="token-10-20" morph="none" pos="word" start_char="1242">Helsinki</TOKEN>
+<TOKEN end_char="1250" id="token-10-21" morph="none" pos="punct" start_char="1250">.</TOKEN>
+</SEG>
+<SEG end_char="1391" id="segment-11" start_char="1253">
+<ORIGINAL_TEXT>In May, they reported that they'd trained several dogs to distinguish between the urine samples of healthy people and people with COVID-19.</ORIGINAL_TEXT>
+<TOKEN end_char="1254" id="token-11-0" morph="none" pos="word" start_char="1253">In</TOKEN>
+<TOKEN end_char="1258" id="token-11-1" morph="none" pos="word" start_char="1256">May</TOKEN>
+<TOKEN end_char="1259" id="token-11-2" morph="none" pos="punct" start_char="1259">,</TOKEN>
+<TOKEN end_char="1264" id="token-11-3" morph="none" pos="word" start_char="1261">they</TOKEN>
+<TOKEN end_char="1273" id="token-11-4" morph="none" pos="word" start_char="1266">reported</TOKEN>
+<TOKEN end_char="1278" id="token-11-5" morph="none" pos="word" start_char="1275">that</TOKEN>
+<TOKEN end_char="1285" id="token-11-6" morph="none" pos="word" start_char="1280">they'd</TOKEN>
+<TOKEN end_char="1293" id="token-11-7" morph="none" pos="word" start_char="1287">trained</TOKEN>
+<TOKEN end_char="1301" id="token-11-8" morph="none" pos="word" start_char="1295">several</TOKEN>
+<TOKEN end_char="1306" id="token-11-9" morph="none" pos="word" start_char="1303">dogs</TOKEN>
+<TOKEN end_char="1309" id="token-11-10" morph="none" pos="word" start_char="1308">to</TOKEN>
+<TOKEN end_char="1321" id="token-11-11" morph="none" pos="word" start_char="1311">distinguish</TOKEN>
+<TOKEN end_char="1329" id="token-11-12" morph="none" pos="word" start_char="1323">between</TOKEN>
+<TOKEN end_char="1333" id="token-11-13" morph="none" pos="word" start_char="1331">the</TOKEN>
+<TOKEN end_char="1339" id="token-11-14" morph="none" pos="word" start_char="1335">urine</TOKEN>
+<TOKEN end_char="1347" id="token-11-15" morph="none" pos="word" start_char="1341">samples</TOKEN>
+<TOKEN end_char="1350" id="token-11-16" morph="none" pos="word" start_char="1349">of</TOKEN>
+<TOKEN end_char="1358" id="token-11-17" morph="none" pos="word" start_char="1352">healthy</TOKEN>
+<TOKEN end_char="1365" id="token-11-18" morph="none" pos="word" start_char="1360">people</TOKEN>
+<TOKEN end_char="1369" id="token-11-19" morph="none" pos="word" start_char="1367">and</TOKEN>
+<TOKEN end_char="1376" id="token-11-20" morph="none" pos="word" start_char="1371">people</TOKEN>
+<TOKEN end_char="1381" id="token-11-21" morph="none" pos="word" start_char="1378">with</TOKEN>
+<TOKEN end_char="1390" id="token-11-22" morph="none" pos="unknown" start_char="1383">COVID-19</TOKEN>
+<TOKEN end_char="1391" id="token-11-23" morph="none" pos="punct" start_char="1391">.</TOKEN>
+</SEG>
+<SEG end_char="1558" id="segment-12" start_char="1394">
+<ORIGINAL_TEXT>Since then, the group has gone on to train its dogs to smell coronavirus in a sample of a person's sweat, with near 100% accuracy — even days before symptoms appear.</ORIGINAL_TEXT>
+<TOKEN end_char="1398" id="token-12-0" morph="none" pos="word" start_char="1394">Since</TOKEN>
+<TOKEN end_char="1403" id="token-12-1" morph="none" pos="word" start_char="1400">then</TOKEN>
+<TOKEN end_char="1404" id="token-12-2" morph="none" pos="punct" start_char="1404">,</TOKEN>
+<TOKEN end_char="1408" id="token-12-3" morph="none" pos="word" start_char="1406">the</TOKEN>
+<TOKEN end_char="1414" id="token-12-4" morph="none" pos="word" start_char="1410">group</TOKEN>
+<TOKEN end_char="1418" id="token-12-5" morph="none" pos="word" start_char="1416">has</TOKEN>
+<TOKEN end_char="1423" id="token-12-6" morph="none" pos="word" start_char="1420">gone</TOKEN>
+<TOKEN end_char="1426" id="token-12-7" morph="none" pos="word" start_char="1425">on</TOKEN>
+<TOKEN end_char="1429" id="token-12-8" morph="none" pos="word" start_char="1428">to</TOKEN>
+<TOKEN end_char="1435" id="token-12-9" morph="none" pos="word" start_char="1431">train</TOKEN>
+<TOKEN end_char="1439" id="token-12-10" morph="none" pos="word" start_char="1437">its</TOKEN>
+<TOKEN end_char="1444" id="token-12-11" morph="none" pos="word" start_char="1441">dogs</TOKEN>
+<TOKEN end_char="1447" id="token-12-12" morph="none" pos="word" start_char="1446">to</TOKEN>
+<TOKEN end_char="1453" id="token-12-13" morph="none" pos="word" start_char="1449">smell</TOKEN>
+<TOKEN end_char="1465" id="token-12-14" morph="none" pos="word" start_char="1455">coronavirus</TOKEN>
+<TOKEN end_char="1468" id="token-12-15" morph="none" pos="word" start_char="1467">in</TOKEN>
+<TOKEN end_char="1470" id="token-12-16" morph="none" pos="word" start_char="1470">a</TOKEN>
+<TOKEN end_char="1477" id="token-12-17" morph="none" pos="word" start_char="1472">sample</TOKEN>
+<TOKEN end_char="1480" id="token-12-18" morph="none" pos="word" start_char="1479">of</TOKEN>
+<TOKEN end_char="1482" id="token-12-19" morph="none" pos="word" start_char="1482">a</TOKEN>
+<TOKEN end_char="1491" id="token-12-20" morph="none" pos="word" start_char="1484">person's</TOKEN>
+<TOKEN end_char="1497" id="token-12-21" morph="none" pos="word" start_char="1493">sweat</TOKEN>
+<TOKEN end_char="1498" id="token-12-22" morph="none" pos="punct" start_char="1498">,</TOKEN>
+<TOKEN end_char="1503" id="token-12-23" morph="none" pos="word" start_char="1500">with</TOKEN>
+<TOKEN end_char="1508" id="token-12-24" morph="none" pos="word" start_char="1505">near</TOKEN>
+<TOKEN end_char="1512" id="token-12-25" morph="none" pos="word" start_char="1510">100</TOKEN>
+<TOKEN end_char="1513" id="token-12-26" morph="none" pos="punct" start_char="1513">%</TOKEN>
+<TOKEN end_char="1522" id="token-12-27" morph="none" pos="word" start_char="1515">accuracy</TOKEN>
+<TOKEN end_char="1524" id="token-12-28" morph="none" pos="punct" start_char="1524">—</TOKEN>
+<TOKEN end_char="1529" id="token-12-29" morph="none" pos="word" start_char="1526">even</TOKEN>
+<TOKEN end_char="1534" id="token-12-30" morph="none" pos="word" start_char="1531">days</TOKEN>
+<TOKEN end_char="1541" id="token-12-31" morph="none" pos="word" start_char="1536">before</TOKEN>
+<TOKEN end_char="1550" id="token-12-32" morph="none" pos="word" start_char="1543">symptoms</TOKEN>
+<TOKEN end_char="1557" id="token-12-33" morph="none" pos="word" start_char="1552">appear</TOKEN>
+<TOKEN end_char="1558" id="token-12-34" morph="none" pos="punct" start_char="1558">.</TOKEN>
+</SEG>
+<SEG end_char="1578" id="segment-13" start_char="1561">
+<ORIGINAL_TEXT>The Helsinki Trial</ORIGINAL_TEXT>
+<TOKEN end_char="1563" id="token-13-0" morph="none" pos="word" start_char="1561">The</TOKEN>
+<TOKEN end_char="1572" id="token-13-1" morph="none" pos="word" start_char="1565">Helsinki</TOKEN>
+<TOKEN end_char="1578" id="token-13-2" morph="none" pos="word" start_char="1574">Trial</TOKEN>
+</SEG>
+<SEG end_char="1767" id="segment-14" start_char="1582">
+<ORIGINAL_TEXT>As of September 22, four dogs that can smell coronavirus are on duty at the Helsinki Airport, offering free voluntary screenings to travelers, and another six dogs are still in training.</ORIGINAL_TEXT>
+<TOKEN end_char="1583" id="token-14-0" morph="none" pos="word" start_char="1582">As</TOKEN>
+<TOKEN end_char="1586" id="token-14-1" morph="none" pos="word" start_char="1585">of</TOKEN>
+<TOKEN end_char="1596" id="token-14-2" morph="none" pos="word" start_char="1588">September</TOKEN>
+<TOKEN end_char="1599" id="token-14-3" morph="none" pos="word" start_char="1598">22</TOKEN>
+<TOKEN end_char="1600" id="token-14-4" morph="none" pos="punct" start_char="1600">,</TOKEN>
+<TOKEN end_char="1605" id="token-14-5" morph="none" pos="word" start_char="1602">four</TOKEN>
+<TOKEN end_char="1610" id="token-14-6" morph="none" pos="word" start_char="1607">dogs</TOKEN>
+<TOKEN end_char="1615" id="token-14-7" morph="none" pos="word" start_char="1612">that</TOKEN>
+<TOKEN end_char="1619" id="token-14-8" morph="none" pos="word" start_char="1617">can</TOKEN>
+<TOKEN end_char="1625" id="token-14-9" morph="none" pos="word" start_char="1621">smell</TOKEN>
+<TOKEN end_char="1637" id="token-14-10" morph="none" pos="word" start_char="1627">coronavirus</TOKEN>
+<TOKEN end_char="1641" id="token-14-11" morph="none" pos="word" start_char="1639">are</TOKEN>
+<TOKEN end_char="1644" id="token-14-12" morph="none" pos="word" start_char="1643">on</TOKEN>
+<TOKEN end_char="1649" id="token-14-13" morph="none" pos="word" start_char="1646">duty</TOKEN>
+<TOKEN end_char="1652" id="token-14-14" morph="none" pos="word" start_char="1651">at</TOKEN>
+<TOKEN end_char="1656" id="token-14-15" morph="none" pos="word" start_char="1654">the</TOKEN>
+<TOKEN end_char="1665" id="token-14-16" morph="none" pos="word" start_char="1658">Helsinki</TOKEN>
+<TOKEN end_char="1673" id="token-14-17" morph="none" pos="word" start_char="1667">Airport</TOKEN>
+<TOKEN end_char="1674" id="token-14-18" morph="none" pos="punct" start_char="1674">,</TOKEN>
+<TOKEN end_char="1683" id="token-14-19" morph="none" pos="word" start_char="1676">offering</TOKEN>
+<TOKEN end_char="1688" id="token-14-20" morph="none" pos="word" start_char="1685">free</TOKEN>
+<TOKEN end_char="1698" id="token-14-21" morph="none" pos="word" start_char="1690">voluntary</TOKEN>
+<TOKEN end_char="1709" id="token-14-22" morph="none" pos="word" start_char="1700">screenings</TOKEN>
+<TOKEN end_char="1712" id="token-14-23" morph="none" pos="word" start_char="1711">to</TOKEN>
+<TOKEN end_char="1722" id="token-14-24" morph="none" pos="word" start_char="1714">travelers</TOKEN>
+<TOKEN end_char="1723" id="token-14-25" morph="none" pos="punct" start_char="1723">,</TOKEN>
+<TOKEN end_char="1727" id="token-14-26" morph="none" pos="word" start_char="1725">and</TOKEN>
+<TOKEN end_char="1735" id="token-14-27" morph="none" pos="word" start_char="1729">another</TOKEN>
+<TOKEN end_char="1739" id="token-14-28" morph="none" pos="word" start_char="1737">six</TOKEN>
+<TOKEN end_char="1744" id="token-14-29" morph="none" pos="word" start_char="1741">dogs</TOKEN>
+<TOKEN end_char="1748" id="token-14-30" morph="none" pos="word" start_char="1746">are</TOKEN>
+<TOKEN end_char="1754" id="token-14-31" morph="none" pos="word" start_char="1750">still</TOKEN>
+<TOKEN end_char="1757" id="token-14-32" morph="none" pos="word" start_char="1756">in</TOKEN>
+<TOKEN end_char="1766" id="token-14-33" morph="none" pos="word" start_char="1759">training</TOKEN>
+<TOKEN end_char="1767" id="token-14-34" morph="none" pos="punct" start_char="1767">.</TOKEN>
+</SEG>
+<SEG end_char="1872" id="segment-15" start_char="1770">
+<ORIGINAL_TEXT>The screenings start with the traveler running a clean wipe over their neck and dropping it into a cup.</ORIGINAL_TEXT>
+<TOKEN end_char="1772" id="token-15-0" morph="none" pos="word" start_char="1770">The</TOKEN>
+<TOKEN end_char="1783" id="token-15-1" morph="none" pos="word" start_char="1774">screenings</TOKEN>
+<TOKEN end_char="1789" id="token-15-2" morph="none" pos="word" start_char="1785">start</TOKEN>
+<TOKEN end_char="1794" id="token-15-3" morph="none" pos="word" start_char="1791">with</TOKEN>
+<TOKEN end_char="1798" id="token-15-4" morph="none" pos="word" start_char="1796">the</TOKEN>
+<TOKEN end_char="1807" id="token-15-5" morph="none" pos="word" start_char="1800">traveler</TOKEN>
+<TOKEN end_char="1815" id="token-15-6" morph="none" pos="word" start_char="1809">running</TOKEN>
+<TOKEN end_char="1817" id="token-15-7" morph="none" pos="word" start_char="1817">a</TOKEN>
+<TOKEN end_char="1823" id="token-15-8" morph="none" pos="word" start_char="1819">clean</TOKEN>
+<TOKEN end_char="1828" id="token-15-9" morph="none" pos="word" start_char="1825">wipe</TOKEN>
+<TOKEN end_char="1833" id="token-15-10" morph="none" pos="word" start_char="1830">over</TOKEN>
+<TOKEN end_char="1839" id="token-15-11" morph="none" pos="word" start_char="1835">their</TOKEN>
+<TOKEN end_char="1844" id="token-15-12" morph="none" pos="word" start_char="1841">neck</TOKEN>
+<TOKEN end_char="1848" id="token-15-13" morph="none" pos="word" start_char="1846">and</TOKEN>
+<TOKEN end_char="1857" id="token-15-14" morph="none" pos="word" start_char="1850">dropping</TOKEN>
+<TOKEN end_char="1860" id="token-15-15" morph="none" pos="word" start_char="1859">it</TOKEN>
+<TOKEN end_char="1865" id="token-15-16" morph="none" pos="word" start_char="1862">into</TOKEN>
+<TOKEN end_char="1867" id="token-15-17" morph="none" pos="word" start_char="1867">a</TOKEN>
+<TOKEN end_char="1871" id="token-15-18" morph="none" pos="word" start_char="1869">cup</TOKEN>
+<TOKEN end_char="1872" id="token-15-19" morph="none" pos="punct" start_char="1872">.</TOKEN>
+</SEG>
+<SEG end_char="1968" id="segment-16" start_char="1874">
+<ORIGINAL_TEXT>The cup is then presented to one of the dogs, which remains in a separate booth the whole time.</ORIGINAL_TEXT>
+<TOKEN end_char="1876" id="token-16-0" morph="none" pos="word" start_char="1874">The</TOKEN>
+<TOKEN end_char="1880" id="token-16-1" morph="none" pos="word" start_char="1878">cup</TOKEN>
+<TOKEN end_char="1883" id="token-16-2" morph="none" pos="word" start_char="1882">is</TOKEN>
+<TOKEN end_char="1888" id="token-16-3" morph="none" pos="word" start_char="1885">then</TOKEN>
+<TOKEN end_char="1898" id="token-16-4" morph="none" pos="word" start_char="1890">presented</TOKEN>
+<TOKEN end_char="1901" id="token-16-5" morph="none" pos="word" start_char="1900">to</TOKEN>
+<TOKEN end_char="1905" id="token-16-6" morph="none" pos="word" start_char="1903">one</TOKEN>
+<TOKEN end_char="1908" id="token-16-7" morph="none" pos="word" start_char="1907">of</TOKEN>
+<TOKEN end_char="1912" id="token-16-8" morph="none" pos="word" start_char="1910">the</TOKEN>
+<TOKEN end_char="1917" id="token-16-9" morph="none" pos="word" start_char="1914">dogs</TOKEN>
+<TOKEN end_char="1918" id="token-16-10" morph="none" pos="punct" start_char="1918">,</TOKEN>
+<TOKEN end_char="1924" id="token-16-11" morph="none" pos="word" start_char="1920">which</TOKEN>
+<TOKEN end_char="1932" id="token-16-12" morph="none" pos="word" start_char="1926">remains</TOKEN>
+<TOKEN end_char="1935" id="token-16-13" morph="none" pos="word" start_char="1934">in</TOKEN>
+<TOKEN end_char="1937" id="token-16-14" morph="none" pos="word" start_char="1937">a</TOKEN>
+<TOKEN end_char="1946" id="token-16-15" morph="none" pos="word" start_char="1939">separate</TOKEN>
+<TOKEN end_char="1952" id="token-16-16" morph="none" pos="word" start_char="1948">booth</TOKEN>
+<TOKEN end_char="1956" id="token-16-17" morph="none" pos="word" start_char="1954">the</TOKEN>
+<TOKEN end_char="1962" id="token-16-18" morph="none" pos="word" start_char="1958">whole</TOKEN>
+<TOKEN end_char="1967" id="token-16-19" morph="none" pos="word" start_char="1964">time</TOKEN>
+<TOKEN end_char="1968" id="token-16-20" morph="none" pos="punct" start_char="1968">.</TOKEN>
+</SEG>
+<SEG end_char="2052" id="segment-17" start_char="1971">
+<ORIGINAL_TEXT>The detection dogs and their handlers never come in direct contact with travelers.</ORIGINAL_TEXT>
+<TOKEN end_char="1973" id="token-17-0" morph="none" pos="word" start_char="1971">The</TOKEN>
+<TOKEN end_char="1983" id="token-17-1" morph="none" pos="word" start_char="1975">detection</TOKEN>
+<TOKEN end_char="1988" id="token-17-2" morph="none" pos="word" start_char="1985">dogs</TOKEN>
+<TOKEN end_char="1992" id="token-17-3" morph="none" pos="word" start_char="1990">and</TOKEN>
+<TOKEN end_char="1998" id="token-17-4" morph="none" pos="word" start_char="1994">their</TOKEN>
+<TOKEN end_char="2007" id="token-17-5" morph="none" pos="word" start_char="2000">handlers</TOKEN>
+<TOKEN end_char="2013" id="token-17-6" morph="none" pos="word" start_char="2009">never</TOKEN>
+<TOKEN end_char="2018" id="token-17-7" morph="none" pos="word" start_char="2015">come</TOKEN>
+<TOKEN end_char="2021" id="token-17-8" morph="none" pos="word" start_char="2020">in</TOKEN>
+<TOKEN end_char="2028" id="token-17-9" morph="none" pos="word" start_char="2023">direct</TOKEN>
+<TOKEN end_char="2036" id="token-17-10" morph="none" pos="word" start_char="2030">contact</TOKEN>
+<TOKEN end_char="2041" id="token-17-11" morph="none" pos="word" start_char="2038">with</TOKEN>
+<TOKEN end_char="2051" id="token-17-12" morph="none" pos="word" start_char="2043">travelers</TOKEN>
+<TOKEN end_char="2052" id="token-17-13" morph="none" pos="punct" start_char="2052">.</TOKEN>
+</SEG>
+<SEG end_char="2074" id="segment-18" start_char="2054">
+<ORIGINAL_TEXT>Credit: Finavia Corp.</ORIGINAL_TEXT>
+<TOKEN end_char="2059" id="token-18-0" morph="none" pos="word" start_char="2054">Credit</TOKEN>
+<TOKEN end_char="2060" id="token-18-1" morph="none" pos="punct" start_char="2060">:</TOKEN>
+<TOKEN end_char="2068" id="token-18-2" morph="none" pos="word" start_char="2062">Finavia</TOKEN>
+<TOKEN end_char="2073" id="token-18-3" morph="none" pos="word" start_char="2070">Corp</TOKEN>
+<TOKEN end_char="2074" id="token-18-4" morph="none" pos="punct" start_char="2074">.</TOKEN>
+</SEG>
+<SEG end_char="2236" id="segment-19" start_char="2078">
+<ORIGINAL_TEXT>After about 10 seconds with the sample, the dog will either do nothing (indicating it doesn't detect COVID-19) or make an alert its handler is trained to spot.</ORIGINAL_TEXT>
+<TOKEN end_char="2082" id="token-19-0" morph="none" pos="word" start_char="2078">After</TOKEN>
+<TOKEN end_char="2088" id="token-19-1" morph="none" pos="word" start_char="2084">about</TOKEN>
+<TOKEN end_char="2091" id="token-19-2" morph="none" pos="word" start_char="2090">10</TOKEN>
+<TOKEN end_char="2099" id="token-19-3" morph="none" pos="word" start_char="2093">seconds</TOKEN>
+<TOKEN end_char="2104" id="token-19-4" morph="none" pos="word" start_char="2101">with</TOKEN>
+<TOKEN end_char="2108" id="token-19-5" morph="none" pos="word" start_char="2106">the</TOKEN>
+<TOKEN end_char="2115" id="token-19-6" morph="none" pos="word" start_char="2110">sample</TOKEN>
+<TOKEN end_char="2116" id="token-19-7" morph="none" pos="punct" start_char="2116">,</TOKEN>
+<TOKEN end_char="2120" id="token-19-8" morph="none" pos="word" start_char="2118">the</TOKEN>
+<TOKEN end_char="2124" id="token-19-9" morph="none" pos="word" start_char="2122">dog</TOKEN>
+<TOKEN end_char="2129" id="token-19-10" morph="none" pos="word" start_char="2126">will</TOKEN>
+<TOKEN end_char="2136" id="token-19-11" morph="none" pos="word" start_char="2131">either</TOKEN>
+<TOKEN end_char="2139" id="token-19-12" morph="none" pos="word" start_char="2138">do</TOKEN>
+<TOKEN end_char="2147" id="token-19-13" morph="none" pos="word" start_char="2141">nothing</TOKEN>
+<TOKEN end_char="2149" id="token-19-14" morph="none" pos="punct" start_char="2149">(</TOKEN>
+<TOKEN end_char="2159" id="token-19-15" morph="none" pos="word" start_char="2150">indicating</TOKEN>
+<TOKEN end_char="2162" id="token-19-16" morph="none" pos="word" start_char="2161">it</TOKEN>
+<TOKEN end_char="2170" id="token-19-17" morph="none" pos="word" start_char="2164">doesn't</TOKEN>
+<TOKEN end_char="2177" id="token-19-18" morph="none" pos="word" start_char="2172">detect</TOKEN>
+<TOKEN end_char="2186" id="token-19-19" morph="none" pos="unknown" start_char="2179">COVID-19</TOKEN>
+<TOKEN end_char="2187" id="token-19-20" morph="none" pos="punct" start_char="2187">)</TOKEN>
+<TOKEN end_char="2190" id="token-19-21" morph="none" pos="word" start_char="2189">or</TOKEN>
+<TOKEN end_char="2195" id="token-19-22" morph="none" pos="word" start_char="2192">make</TOKEN>
+<TOKEN end_char="2198" id="token-19-23" morph="none" pos="word" start_char="2197">an</TOKEN>
+<TOKEN end_char="2204" id="token-19-24" morph="none" pos="word" start_char="2200">alert</TOKEN>
+<TOKEN end_char="2208" id="token-19-25" morph="none" pos="word" start_char="2206">its</TOKEN>
+<TOKEN end_char="2216" id="token-19-26" morph="none" pos="word" start_char="2210">handler</TOKEN>
+<TOKEN end_char="2219" id="token-19-27" morph="none" pos="word" start_char="2218">is</TOKEN>
+<TOKEN end_char="2227" id="token-19-28" morph="none" pos="word" start_char="2221">trained</TOKEN>
+<TOKEN end_char="2230" id="token-19-29" morph="none" pos="word" start_char="2229">to</TOKEN>
+<TOKEN end_char="2235" id="token-19-30" morph="none" pos="word" start_char="2232">spot</TOKEN>
+<TOKEN end_char="2236" id="token-19-31" morph="none" pos="punct" start_char="2236">.</TOKEN>
+</SEG>
+<SEG end_char="2342" id="segment-20" start_char="2238">
+<ORIGINAL_TEXT>In the latter cases, the handler will direct the traveler to the airport's health information checkpoint.</ORIGINAL_TEXT>
+<TOKEN end_char="2239" id="token-20-0" morph="none" pos="word" start_char="2238">In</TOKEN>
+<TOKEN end_char="2243" id="token-20-1" morph="none" pos="word" start_char="2241">the</TOKEN>
+<TOKEN end_char="2250" id="token-20-2" morph="none" pos="word" start_char="2245">latter</TOKEN>
+<TOKEN end_char="2256" id="token-20-3" morph="none" pos="word" start_char="2252">cases</TOKEN>
+<TOKEN end_char="2257" id="token-20-4" morph="none" pos="punct" start_char="2257">,</TOKEN>
+<TOKEN end_char="2261" id="token-20-5" morph="none" pos="word" start_char="2259">the</TOKEN>
+<TOKEN end_char="2269" id="token-20-6" morph="none" pos="word" start_char="2263">handler</TOKEN>
+<TOKEN end_char="2274" id="token-20-7" morph="none" pos="word" start_char="2271">will</TOKEN>
+<TOKEN end_char="2281" id="token-20-8" morph="none" pos="word" start_char="2276">direct</TOKEN>
+<TOKEN end_char="2285" id="token-20-9" morph="none" pos="word" start_char="2283">the</TOKEN>
+<TOKEN end_char="2294" id="token-20-10" morph="none" pos="word" start_char="2287">traveler</TOKEN>
+<TOKEN end_char="2297" id="token-20-11" morph="none" pos="word" start_char="2296">to</TOKEN>
+<TOKEN end_char="2301" id="token-20-12" morph="none" pos="word" start_char="2299">the</TOKEN>
+<TOKEN end_char="2311" id="token-20-13" morph="none" pos="word" start_char="2303">airport's</TOKEN>
+<TOKEN end_char="2318" id="token-20-14" morph="none" pos="word" start_char="2313">health</TOKEN>
+<TOKEN end_char="2330" id="token-20-15" morph="none" pos="word" start_char="2320">information</TOKEN>
+<TOKEN end_char="2341" id="token-20-16" morph="none" pos="word" start_char="2332">checkpoint</TOKEN>
+<TOKEN end_char="2342" id="token-20-17" morph="none" pos="punct" start_char="2342">.</TOKEN>
+</SEG>
+<SEG end_char="2589" id="segment-21" start_char="2345">
+<ORIGINAL_TEXT>The handlers will recommend that everyone who gets screened get tested afterwards, which will also reportedly help them keep track of the dogs' accuracy (though it's not clear from the news release how they plan to follow up with the travelers).</ORIGINAL_TEXT>
+<TOKEN end_char="2347" id="token-21-0" morph="none" pos="word" start_char="2345">The</TOKEN>
+<TOKEN end_char="2356" id="token-21-1" morph="none" pos="word" start_char="2349">handlers</TOKEN>
+<TOKEN end_char="2361" id="token-21-2" morph="none" pos="word" start_char="2358">will</TOKEN>
+<TOKEN end_char="2371" id="token-21-3" morph="none" pos="word" start_char="2363">recommend</TOKEN>
+<TOKEN end_char="2376" id="token-21-4" morph="none" pos="word" start_char="2373">that</TOKEN>
+<TOKEN end_char="2385" id="token-21-5" morph="none" pos="word" start_char="2378">everyone</TOKEN>
+<TOKEN end_char="2389" id="token-21-6" morph="none" pos="word" start_char="2387">who</TOKEN>
+<TOKEN end_char="2394" id="token-21-7" morph="none" pos="word" start_char="2391">gets</TOKEN>
+<TOKEN end_char="2403" id="token-21-8" morph="none" pos="word" start_char="2396">screened</TOKEN>
+<TOKEN end_char="2407" id="token-21-9" morph="none" pos="word" start_char="2405">get</TOKEN>
+<TOKEN end_char="2414" id="token-21-10" morph="none" pos="word" start_char="2409">tested</TOKEN>
+<TOKEN end_char="2425" id="token-21-11" morph="none" pos="word" start_char="2416">afterwards</TOKEN>
+<TOKEN end_char="2426" id="token-21-12" morph="none" pos="punct" start_char="2426">,</TOKEN>
+<TOKEN end_char="2432" id="token-21-13" morph="none" pos="word" start_char="2428">which</TOKEN>
+<TOKEN end_char="2437" id="token-21-14" morph="none" pos="word" start_char="2434">will</TOKEN>
+<TOKEN end_char="2442" id="token-21-15" morph="none" pos="word" start_char="2439">also</TOKEN>
+<TOKEN end_char="2453" id="token-21-16" morph="none" pos="word" start_char="2444">reportedly</TOKEN>
+<TOKEN end_char="2458" id="token-21-17" morph="none" pos="word" start_char="2455">help</TOKEN>
+<TOKEN end_char="2463" id="token-21-18" morph="none" pos="word" start_char="2460">them</TOKEN>
+<TOKEN end_char="2468" id="token-21-19" morph="none" pos="word" start_char="2465">keep</TOKEN>
+<TOKEN end_char="2474" id="token-21-20" morph="none" pos="word" start_char="2470">track</TOKEN>
+<TOKEN end_char="2477" id="token-21-21" morph="none" pos="word" start_char="2476">of</TOKEN>
+<TOKEN end_char="2481" id="token-21-22" morph="none" pos="word" start_char="2479">the</TOKEN>
+<TOKEN end_char="2486" id="token-21-23" morph="none" pos="word" start_char="2483">dogs</TOKEN>
+<TOKEN end_char="2487" id="token-21-24" morph="none" pos="punct" start_char="2487">'</TOKEN>
+<TOKEN end_char="2496" id="token-21-25" morph="none" pos="word" start_char="2489">accuracy</TOKEN>
+<TOKEN end_char="2498" id="token-21-26" morph="none" pos="punct" start_char="2498">(</TOKEN>
+<TOKEN end_char="2504" id="token-21-27" morph="none" pos="word" start_char="2499">though</TOKEN>
+<TOKEN end_char="2509" id="token-21-28" morph="none" pos="word" start_char="2506">it's</TOKEN>
+<TOKEN end_char="2513" id="token-21-29" morph="none" pos="word" start_char="2511">not</TOKEN>
+<TOKEN end_char="2519" id="token-21-30" morph="none" pos="word" start_char="2515">clear</TOKEN>
+<TOKEN end_char="2524" id="token-21-31" morph="none" pos="word" start_char="2521">from</TOKEN>
+<TOKEN end_char="2528" id="token-21-32" morph="none" pos="word" start_char="2526">the</TOKEN>
+<TOKEN end_char="2533" id="token-21-33" morph="none" pos="word" start_char="2530">news</TOKEN>
+<TOKEN end_char="2541" id="token-21-34" morph="none" pos="word" start_char="2535">release</TOKEN>
+<TOKEN end_char="2545" id="token-21-35" morph="none" pos="word" start_char="2543">how</TOKEN>
+<TOKEN end_char="2550" id="token-21-36" morph="none" pos="word" start_char="2547">they</TOKEN>
+<TOKEN end_char="2555" id="token-21-37" morph="none" pos="word" start_char="2552">plan</TOKEN>
+<TOKEN end_char="2558" id="token-21-38" morph="none" pos="word" start_char="2557">to</TOKEN>
+<TOKEN end_char="2565" id="token-21-39" morph="none" pos="word" start_char="2560">follow</TOKEN>
+<TOKEN end_char="2568" id="token-21-40" morph="none" pos="word" start_char="2567">up</TOKEN>
+<TOKEN end_char="2573" id="token-21-41" morph="none" pos="word" start_char="2570">with</TOKEN>
+<TOKEN end_char="2577" id="token-21-42" morph="none" pos="word" start_char="2575">the</TOKEN>
+<TOKEN end_char="2587" id="token-21-43" morph="none" pos="word" start_char="2579">travelers</TOKEN>
+<TOKEN end_char="2589" id="token-21-44" morph="none" pos="punct" start_char="2588">).</TOKEN>
+</SEG>
+<SEG end_char="2616" id="segment-22" start_char="2592">
+<ORIGINAL_TEXT>Detection Dogs Taking Off</ORIGINAL_TEXT>
+<TOKEN end_char="2600" id="token-22-0" morph="none" pos="word" start_char="2592">Detection</TOKEN>
+<TOKEN end_char="2605" id="token-22-1" morph="none" pos="word" start_char="2602">Dogs</TOKEN>
+<TOKEN end_char="2612" id="token-22-2" morph="none" pos="word" start_char="2607">Taking</TOKEN>
+<TOKEN end_char="2616" id="token-22-3" morph="none" pos="word" start_char="2614">Off</TOKEN>
+</SEG>
+<SEG end_char="2762" id="segment-23" start_char="2620">
+<ORIGINAL_TEXT>Helsinki isn't the first airport to deploy dogs that can smell coronavirus — in August, Dubai International Airport launched a similar program.</ORIGINAL_TEXT>
+<TOKEN end_char="2627" id="token-23-0" morph="none" pos="word" start_char="2620">Helsinki</TOKEN>
+<TOKEN end_char="2633" id="token-23-1" morph="none" pos="word" start_char="2629">isn't</TOKEN>
+<TOKEN end_char="2637" id="token-23-2" morph="none" pos="word" start_char="2635">the</TOKEN>
+<TOKEN end_char="2643" id="token-23-3" morph="none" pos="word" start_char="2639">first</TOKEN>
+<TOKEN end_char="2651" id="token-23-4" morph="none" pos="word" start_char="2645">airport</TOKEN>
+<TOKEN end_char="2654" id="token-23-5" morph="none" pos="word" start_char="2653">to</TOKEN>
+<TOKEN end_char="2661" id="token-23-6" morph="none" pos="word" start_char="2656">deploy</TOKEN>
+<TOKEN end_char="2666" id="token-23-7" morph="none" pos="word" start_char="2663">dogs</TOKEN>
+<TOKEN end_char="2671" id="token-23-8" morph="none" pos="word" start_char="2668">that</TOKEN>
+<TOKEN end_char="2675" id="token-23-9" morph="none" pos="word" start_char="2673">can</TOKEN>
+<TOKEN end_char="2681" id="token-23-10" morph="none" pos="word" start_char="2677">smell</TOKEN>
+<TOKEN end_char="2693" id="token-23-11" morph="none" pos="word" start_char="2683">coronavirus</TOKEN>
+<TOKEN end_char="2695" id="token-23-12" morph="none" pos="punct" start_char="2695">—</TOKEN>
+<TOKEN end_char="2698" id="token-23-13" morph="none" pos="word" start_char="2697">in</TOKEN>
+<TOKEN end_char="2705" id="token-23-14" morph="none" pos="word" start_char="2700">August</TOKEN>
+<TOKEN end_char="2706" id="token-23-15" morph="none" pos="punct" start_char="2706">,</TOKEN>
+<TOKEN end_char="2712" id="token-23-16" morph="none" pos="word" start_char="2708">Dubai</TOKEN>
+<TOKEN end_char="2726" id="token-23-17" morph="none" pos="word" start_char="2714">International</TOKEN>
+<TOKEN end_char="2734" id="token-23-18" morph="none" pos="word" start_char="2728">Airport</TOKEN>
+<TOKEN end_char="2743" id="token-23-19" morph="none" pos="word" start_char="2736">launched</TOKEN>
+<TOKEN end_char="2745" id="token-23-20" morph="none" pos="word" start_char="2745">a</TOKEN>
+<TOKEN end_char="2753" id="token-23-21" morph="none" pos="word" start_char="2747">similar</TOKEN>
+<TOKEN end_char="2761" id="token-23-22" morph="none" pos="word" start_char="2755">program</TOKEN>
+<TOKEN end_char="2762" id="token-23-23" morph="none" pos="punct" start_char="2762">.</TOKEN>
+</SEG>
+<SEG end_char="2926" id="segment-24" start_char="2765">
+<ORIGINAL_TEXT>However, this four-month-long trial is the largest to date, so the data from it could provide our best indication yet of the utility of canine COVID-19 screeners.</ORIGINAL_TEXT>
+<TOKEN end_char="2771" id="token-24-0" morph="none" pos="word" start_char="2765">However</TOKEN>
+<TOKEN end_char="2772" id="token-24-1" morph="none" pos="punct" start_char="2772">,</TOKEN>
+<TOKEN end_char="2777" id="token-24-2" morph="none" pos="word" start_char="2774">this</TOKEN>
+<TOKEN end_char="2793" id="token-24-3" morph="none" pos="unknown" start_char="2779">four-month-long</TOKEN>
+<TOKEN end_char="2799" id="token-24-4" morph="none" pos="word" start_char="2795">trial</TOKEN>
+<TOKEN end_char="2802" id="token-24-5" morph="none" pos="word" start_char="2801">is</TOKEN>
+<TOKEN end_char="2806" id="token-24-6" morph="none" pos="word" start_char="2804">the</TOKEN>
+<TOKEN end_char="2814" id="token-24-7" morph="none" pos="word" start_char="2808">largest</TOKEN>
+<TOKEN end_char="2817" id="token-24-8" morph="none" pos="word" start_char="2816">to</TOKEN>
+<TOKEN end_char="2822" id="token-24-9" morph="none" pos="word" start_char="2819">date</TOKEN>
+<TOKEN end_char="2823" id="token-24-10" morph="none" pos="punct" start_char="2823">,</TOKEN>
+<TOKEN end_char="2826" id="token-24-11" morph="none" pos="word" start_char="2825">so</TOKEN>
+<TOKEN end_char="2830" id="token-24-12" morph="none" pos="word" start_char="2828">the</TOKEN>
+<TOKEN end_char="2835" id="token-24-13" morph="none" pos="word" start_char="2832">data</TOKEN>
+<TOKEN end_char="2840" id="token-24-14" morph="none" pos="word" start_char="2837">from</TOKEN>
+<TOKEN end_char="2843" id="token-24-15" morph="none" pos="word" start_char="2842">it</TOKEN>
+<TOKEN end_char="2849" id="token-24-16" morph="none" pos="word" start_char="2845">could</TOKEN>
+<TOKEN end_char="2857" id="token-24-17" morph="none" pos="word" start_char="2851">provide</TOKEN>
+<TOKEN end_char="2861" id="token-24-18" morph="none" pos="word" start_char="2859">our</TOKEN>
+<TOKEN end_char="2866" id="token-24-19" morph="none" pos="word" start_char="2863">best</TOKEN>
+<TOKEN end_char="2877" id="token-24-20" morph="none" pos="word" start_char="2868">indication</TOKEN>
+<TOKEN end_char="2881" id="token-24-21" morph="none" pos="word" start_char="2879">yet</TOKEN>
+<TOKEN end_char="2884" id="token-24-22" morph="none" pos="word" start_char="2883">of</TOKEN>
+<TOKEN end_char="2888" id="token-24-23" morph="none" pos="word" start_char="2886">the</TOKEN>
+<TOKEN end_char="2896" id="token-24-24" morph="none" pos="word" start_char="2890">utility</TOKEN>
+<TOKEN end_char="2899" id="token-24-25" morph="none" pos="word" start_char="2898">of</TOKEN>
+<TOKEN end_char="2906" id="token-24-26" morph="none" pos="word" start_char="2901">canine</TOKEN>
+<TOKEN end_char="2915" id="token-24-27" morph="none" pos="unknown" start_char="2908">COVID-19</TOKEN>
+<TOKEN end_char="2925" id="token-24-28" morph="none" pos="word" start_char="2917">screeners</TOKEN>
+<TOKEN end_char="2926" id="token-24-29" morph="none" pos="punct" start_char="2926">.</TOKEN>
+</SEG>
+<SEG end_char="3059" id="segment-25" start_char="2929">
+<ORIGINAL_TEXT>Because detection dogs are expensive and time-consuming to train, they'd never be able to fully replace standard coronavirus tests.</ORIGINAL_TEXT>
+<TOKEN end_char="2935" id="token-25-0" morph="none" pos="word" start_char="2929">Because</TOKEN>
+<TOKEN end_char="2945" id="token-25-1" morph="none" pos="word" start_char="2937">detection</TOKEN>
+<TOKEN end_char="2950" id="token-25-2" morph="none" pos="word" start_char="2947">dogs</TOKEN>
+<TOKEN end_char="2954" id="token-25-3" morph="none" pos="word" start_char="2952">are</TOKEN>
+<TOKEN end_char="2964" id="token-25-4" morph="none" pos="word" start_char="2956">expensive</TOKEN>
+<TOKEN end_char="2968" id="token-25-5" morph="none" pos="word" start_char="2966">and</TOKEN>
+<TOKEN end_char="2983" id="token-25-6" morph="none" pos="unknown" start_char="2970">time-consuming</TOKEN>
+<TOKEN end_char="2986" id="token-25-7" morph="none" pos="word" start_char="2985">to</TOKEN>
+<TOKEN end_char="2992" id="token-25-8" morph="none" pos="word" start_char="2988">train</TOKEN>
+<TOKEN end_char="2993" id="token-25-9" morph="none" pos="punct" start_char="2993">,</TOKEN>
+<TOKEN end_char="3000" id="token-25-10" morph="none" pos="word" start_char="2995">they'd</TOKEN>
+<TOKEN end_char="3006" id="token-25-11" morph="none" pos="word" start_char="3002">never</TOKEN>
+<TOKEN end_char="3009" id="token-25-12" morph="none" pos="word" start_char="3008">be</TOKEN>
+<TOKEN end_char="3014" id="token-25-13" morph="none" pos="word" start_char="3011">able</TOKEN>
+<TOKEN end_char="3017" id="token-25-14" morph="none" pos="word" start_char="3016">to</TOKEN>
+<TOKEN end_char="3023" id="token-25-15" morph="none" pos="word" start_char="3019">fully</TOKEN>
+<TOKEN end_char="3031" id="token-25-16" morph="none" pos="word" start_char="3025">replace</TOKEN>
+<TOKEN end_char="3040" id="token-25-17" morph="none" pos="word" start_char="3033">standard</TOKEN>
+<TOKEN end_char="3052" id="token-25-18" morph="none" pos="word" start_char="3042">coronavirus</TOKEN>
+<TOKEN end_char="3058" id="token-25-19" morph="none" pos="word" start_char="3054">tests</TOKEN>
+<TOKEN end_char="3059" id="token-25-20" morph="none" pos="punct" start_char="3059">.</TOKEN>
+</SEG>
+<SEG end_char="3263" id="segment-26" start_char="3062">
+<ORIGINAL_TEXT>However, they could serve as an additional weapon against the virus, possibly in places that require regular screenings, such as nursing homes and schools, according to trial leader Anna Hielm-Björkman.</ORIGINAL_TEXT>
+<TOKEN end_char="3068" id="token-26-0" morph="none" pos="word" start_char="3062">However</TOKEN>
+<TOKEN end_char="3069" id="token-26-1" morph="none" pos="punct" start_char="3069">,</TOKEN>
+<TOKEN end_char="3074" id="token-26-2" morph="none" pos="word" start_char="3071">they</TOKEN>
+<TOKEN end_char="3080" id="token-26-3" morph="none" pos="word" start_char="3076">could</TOKEN>
+<TOKEN end_char="3086" id="token-26-4" morph="none" pos="word" start_char="3082">serve</TOKEN>
+<TOKEN end_char="3089" id="token-26-5" morph="none" pos="word" start_char="3088">as</TOKEN>
+<TOKEN end_char="3092" id="token-26-6" morph="none" pos="word" start_char="3091">an</TOKEN>
+<TOKEN end_char="3103" id="token-26-7" morph="none" pos="word" start_char="3094">additional</TOKEN>
+<TOKEN end_char="3110" id="token-26-8" morph="none" pos="word" start_char="3105">weapon</TOKEN>
+<TOKEN end_char="3118" id="token-26-9" morph="none" pos="word" start_char="3112">against</TOKEN>
+<TOKEN end_char="3122" id="token-26-10" morph="none" pos="word" start_char="3120">the</TOKEN>
+<TOKEN end_char="3128" id="token-26-11" morph="none" pos="word" start_char="3124">virus</TOKEN>
+<TOKEN end_char="3129" id="token-26-12" morph="none" pos="punct" start_char="3129">,</TOKEN>
+<TOKEN end_char="3138" id="token-26-13" morph="none" pos="word" start_char="3131">possibly</TOKEN>
+<TOKEN end_char="3141" id="token-26-14" morph="none" pos="word" start_char="3140">in</TOKEN>
+<TOKEN end_char="3148" id="token-26-15" morph="none" pos="word" start_char="3143">places</TOKEN>
+<TOKEN end_char="3153" id="token-26-16" morph="none" pos="word" start_char="3150">that</TOKEN>
+<TOKEN end_char="3161" id="token-26-17" morph="none" pos="word" start_char="3155">require</TOKEN>
+<TOKEN end_char="3169" id="token-26-18" morph="none" pos="word" start_char="3163">regular</TOKEN>
+<TOKEN end_char="3180" id="token-26-19" morph="none" pos="word" start_char="3171">screenings</TOKEN>
+<TOKEN end_char="3181" id="token-26-20" morph="none" pos="punct" start_char="3181">,</TOKEN>
+<TOKEN end_char="3186" id="token-26-21" morph="none" pos="word" start_char="3183">such</TOKEN>
+<TOKEN end_char="3189" id="token-26-22" morph="none" pos="word" start_char="3188">as</TOKEN>
+<TOKEN end_char="3197" id="token-26-23" morph="none" pos="word" start_char="3191">nursing</TOKEN>
+<TOKEN end_char="3203" id="token-26-24" morph="none" pos="word" start_char="3199">homes</TOKEN>
+<TOKEN end_char="3207" id="token-26-25" morph="none" pos="word" start_char="3205">and</TOKEN>
+<TOKEN end_char="3215" id="token-26-26" morph="none" pos="word" start_char="3209">schools</TOKEN>
+<TOKEN end_char="3216" id="token-26-27" morph="none" pos="punct" start_char="3216">,</TOKEN>
+<TOKEN end_char="3226" id="token-26-28" morph="none" pos="word" start_char="3218">according</TOKEN>
+<TOKEN end_char="3229" id="token-26-29" morph="none" pos="word" start_char="3228">to</TOKEN>
+<TOKEN end_char="3235" id="token-26-30" morph="none" pos="word" start_char="3231">trial</TOKEN>
+<TOKEN end_char="3242" id="token-26-31" morph="none" pos="word" start_char="3237">leader</TOKEN>
+<TOKEN end_char="3247" id="token-26-32" morph="none" pos="word" start_char="3244">Anna</TOKEN>
+<TOKEN end_char="3262" id="token-26-33" morph="none" pos="unknown" start_char="3249">Hielm-Björkman</TOKEN>
+<TOKEN end_char="3263" id="token-26-34" morph="none" pos="punct" start_char="3263">.</TOKEN>
+</SEG>
+<SEG end_char="3343" id="segment-27" start_char="3266">
+<ORIGINAL_TEXT>"You could open up society in another way if you had those dogs," she told the</ORIGINAL_TEXT>
+<TOKEN end_char="3266" id="token-27-0" morph="none" pos="punct" start_char="3266">"</TOKEN>
+<TOKEN end_char="3269" id="token-27-1" morph="none" pos="word" start_char="3267">You</TOKEN>
+<TOKEN end_char="3275" id="token-27-2" morph="none" pos="word" start_char="3271">could</TOKEN>
+<TOKEN end_char="3280" id="token-27-3" morph="none" pos="word" start_char="3277">open</TOKEN>
+<TOKEN end_char="3283" id="token-27-4" morph="none" pos="word" start_char="3282">up</TOKEN>
+<TOKEN end_char="3291" id="token-27-5" morph="none" pos="word" start_char="3285">society</TOKEN>
+<TOKEN end_char="3294" id="token-27-6" morph="none" pos="word" start_char="3293">in</TOKEN>
+<TOKEN end_char="3302" id="token-27-7" morph="none" pos="word" start_char="3296">another</TOKEN>
+<TOKEN end_char="3306" id="token-27-8" morph="none" pos="word" start_char="3304">way</TOKEN>
+<TOKEN end_char="3309" id="token-27-9" morph="none" pos="word" start_char="3308">if</TOKEN>
+<TOKEN end_char="3313" id="token-27-10" morph="none" pos="word" start_char="3311">you</TOKEN>
+<TOKEN end_char="3317" id="token-27-11" morph="none" pos="word" start_char="3315">had</TOKEN>
+<TOKEN end_char="3323" id="token-27-12" morph="none" pos="word" start_char="3319">those</TOKEN>
+<TOKEN end_char="3328" id="token-27-13" morph="none" pos="word" start_char="3325">dogs</TOKEN>
+<TOKEN end_char="3330" id="token-27-14" morph="none" pos="punct" start_char="3329">,"</TOKEN>
+<TOKEN end_char="3334" id="token-27-15" morph="none" pos="word" start_char="3332">she</TOKEN>
+<TOKEN end_char="3339" id="token-27-16" morph="none" pos="word" start_char="3336">told</TOKEN>
+<TOKEN end_char="3343" id="token-27-17" morph="none" pos="word" start_char="3341">the</TOKEN>
+</SEG>
+<SEG end_char="3360" id="segment-28" start_char="3346">
+<ORIGINAL_TEXT>Washington Post</ORIGINAL_TEXT>
+<TOKEN end_char="3355" id="token-28-0" morph="none" pos="word" start_char="3346">Washington</TOKEN>
+<TOKEN end_char="3360" id="token-28-1" morph="none" pos="word" start_char="3357">Post</TOKEN>
+</SEG>
+<SEG end_char="3363" id="segment-29" start_char="3363">
+<ORIGINAL_TEXT>.</ORIGINAL_TEXT>
+<TOKEN end_char="3363" id="token-29-0" morph="none" pos="punct" start_char="3363">.</TOKEN>
+</SEG>
+<SEG end_char="3392" id="segment-30" start_char="3366">
+<ORIGINAL_TEXT>We'd love to hear from you!</ORIGINAL_TEXT>
+<TOKEN end_char="3369" id="token-30-0" morph="none" pos="word" start_char="3366">We'd</TOKEN>
+<TOKEN end_char="3374" id="token-30-1" morph="none" pos="word" start_char="3371">love</TOKEN>
+<TOKEN end_char="3377" id="token-30-2" morph="none" pos="word" start_char="3376">to</TOKEN>
+<TOKEN end_char="3382" id="token-30-3" morph="none" pos="word" start_char="3379">hear</TOKEN>
+<TOKEN end_char="3387" id="token-30-4" morph="none" pos="word" start_char="3384">from</TOKEN>
+<TOKEN end_char="3391" id="token-30-5" morph="none" pos="word" start_char="3389">you</TOKEN>
+<TOKEN end_char="3392" id="token-30-6" morph="none" pos="punct" start_char="3392">!</TOKEN>
+</SEG>
+<SEG end_char="3523" id="segment-31" start_char="3394">
+<ORIGINAL_TEXT>If you have a comment about this article or if you have a tip for a future Freethink story, please email us at tips@freethink.com.</ORIGINAL_TEXT>
+<TOKEN end_char="3395" id="token-31-0" morph="none" pos="word" start_char="3394">If</TOKEN>
+<TOKEN end_char="3399" id="token-31-1" morph="none" pos="word" start_char="3397">you</TOKEN>
+<TOKEN end_char="3404" id="token-31-2" morph="none" pos="word" start_char="3401">have</TOKEN>
+<TOKEN end_char="3406" id="token-31-3" morph="none" pos="word" start_char="3406">a</TOKEN>
+<TOKEN end_char="3414" id="token-31-4" morph="none" pos="word" start_char="3408">comment</TOKEN>
+<TOKEN end_char="3420" id="token-31-5" morph="none" pos="word" start_char="3416">about</TOKEN>
+<TOKEN end_char="3425" id="token-31-6" morph="none" pos="word" start_char="3422">this</TOKEN>
+<TOKEN end_char="3433" id="token-31-7" morph="none" pos="word" start_char="3427">article</TOKEN>
+<TOKEN end_char="3436" id="token-31-8" morph="none" pos="word" start_char="3435">or</TOKEN>
+<TOKEN end_char="3439" id="token-31-9" morph="none" pos="word" start_char="3438">if</TOKEN>
+<TOKEN end_char="3443" id="token-31-10" morph="none" pos="word" start_char="3441">you</TOKEN>
+<TOKEN end_char="3448" id="token-31-11" morph="none" pos="word" start_char="3445">have</TOKEN>
+<TOKEN end_char="3450" id="token-31-12" morph="none" pos="word" start_char="3450">a</TOKEN>
+<TOKEN end_char="3454" id="token-31-13" morph="none" pos="word" start_char="3452">tip</TOKEN>
+<TOKEN end_char="3458" id="token-31-14" morph="none" pos="word" start_char="3456">for</TOKEN>
+<TOKEN end_char="3460" id="token-31-15" morph="none" pos="word" start_char="3460">a</TOKEN>
+<TOKEN end_char="3467" id="token-31-16" morph="none" pos="word" start_char="3462">future</TOKEN>
+<TOKEN end_char="3477" id="token-31-17" morph="none" pos="word" start_char="3469">Freethink</TOKEN>
+<TOKEN end_char="3483" id="token-31-18" morph="none" pos="word" start_char="3479">story</TOKEN>
+<TOKEN end_char="3484" id="token-31-19" morph="none" pos="punct" start_char="3484">,</TOKEN>
+<TOKEN end_char="3491" id="token-31-20" morph="none" pos="word" start_char="3486">please</TOKEN>
+<TOKEN end_char="3497" id="token-31-21" morph="none" pos="word" start_char="3493">email</TOKEN>
+<TOKEN end_char="3500" id="token-31-22" morph="none" pos="word" start_char="3499">us</TOKEN>
+<TOKEN end_char="3503" id="token-31-23" morph="none" pos="word" start_char="3502">at</TOKEN>
+<TOKEN end_char="3522" id="token-31-24" morph="none" pos="unknown" start_char="3505">tips@freethink.com</TOKEN>
+<TOKEN end_char="3523" id="token-31-25" morph="none" pos="punct" start_char="3523">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

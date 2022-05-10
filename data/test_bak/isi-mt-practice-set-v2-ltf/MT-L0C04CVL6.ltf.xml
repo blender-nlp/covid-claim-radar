@@ -1,0 +1,506 @@
+<LCTL_TEXT lang="spa">
+<DOC grammar="none" id="L0C04CVL6" lang="spa" raw_text_char_length="2587" raw_text_md5="cfc872e3d7d06a5d5a2bce5cda108e96" tokenization="tokenization_parameters.v5.0">
+<TEXT>
+<SEG end_char="91" id="segment-0" start_char="1">
+<ORIGINAL_TEXT>Regeneron obtiene la aprobación de emergencia de la FDA para su tratamiento contra la Covid</ORIGINAL_TEXT>
+<TOKEN end_char="9" id="token-0-0" morph="none" pos="word" start_char="1">Regeneron</TOKEN>
+<TOKEN end_char="17" id="token-0-1" morph="none" pos="word" start_char="11">obtiene</TOKEN>
+<TOKEN end_char="20" id="token-0-2" morph="none" pos="word" start_char="19">la</TOKEN>
+<TOKEN end_char="31" id="token-0-3" morph="none" pos="word" start_char="22">aprobación</TOKEN>
+<TOKEN end_char="34" id="token-0-4" morph="none" pos="word" start_char="33">de</TOKEN>
+<TOKEN end_char="45" id="token-0-5" morph="none" pos="word" start_char="36">emergencia</TOKEN>
+<TOKEN end_char="48" id="token-0-6" morph="none" pos="word" start_char="47">de</TOKEN>
+<TOKEN end_char="51" id="token-0-7" morph="none" pos="word" start_char="50">la</TOKEN>
+<TOKEN end_char="55" id="token-0-8" morph="none" pos="word" start_char="53">FDA</TOKEN>
+<TOKEN end_char="60" id="token-0-9" morph="none" pos="word" start_char="57">para</TOKEN>
+<TOKEN end_char="63" id="token-0-10" morph="none" pos="word" start_char="62">su</TOKEN>
+<TOKEN end_char="75" id="token-0-11" morph="none" pos="word" start_char="65">tratamiento</TOKEN>
+<TOKEN end_char="82" id="token-0-12" morph="none" pos="word" start_char="77">contra</TOKEN>
+<TOKEN end_char="85" id="token-0-13" morph="none" pos="word" start_char="84">la</TOKEN>
+<TOKEN end_char="91" id="token-0-14" morph="none" pos="word" start_char="87">Covid</TOKEN>
+<TRANSLATED_TEXT>Regeneron gets FDA emergency approval for its treatment of Covid</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="140" id="segment-1" start_char="95">
+<ORIGINAL_TEXT>Fachada exterior de Regeneron Pharmaceuticals.</ORIGINAL_TEXT>
+<TOKEN end_char="101" id="token-1-0" morph="none" pos="word" start_char="95">Fachada</TOKEN>
+<TOKEN end_char="110" id="token-1-1" morph="none" pos="word" start_char="103">exterior</TOKEN>
+<TOKEN end_char="113" id="token-1-2" morph="none" pos="word" start_char="112">de</TOKEN>
+<TOKEN end_char="123" id="token-1-3" morph="none" pos="word" start_char="115">Regeneron</TOKEN>
+<TOKEN end_char="139" id="token-1-4" morph="none" pos="word" start_char="125">Pharmaceuticals</TOKEN>
+<TOKEN end_char="140" id="token-1-5" morph="none" pos="punct" start_char="140">.</TOKEN>
+<TRANSLATED_TEXT>Regeneron Pharmaceuticals.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="389" id="segment-2" start_char="144">
+<ORIGINAL_TEXT>La compañía farmacéutica estadounidense Regeneron Pharmaceuticals ha obtenido la autorización de uso de emergencia de la Agencia del Medicamento de Estados Unidos (FDA por sus siglas en inglés) para su cóctel de anticuerpos contra el coronavirus.</ORIGINAL_TEXT>
+<TOKEN end_char="145" id="token-2-0" morph="none" pos="word" start_char="144">La</TOKEN>
+<TOKEN end_char="154" id="token-2-1" morph="none" pos="word" start_char="147">compañía</TOKEN>
+<TOKEN end_char="167" id="token-2-2" morph="none" pos="word" start_char="156">farmacéutica</TOKEN>
+<TOKEN end_char="182" id="token-2-3" morph="none" pos="word" start_char="169">estadounidense</TOKEN>
+<TOKEN end_char="192" id="token-2-4" morph="none" pos="word" start_char="184">Regeneron</TOKEN>
+<TOKEN end_char="208" id="token-2-5" morph="none" pos="word" start_char="194">Pharmaceuticals</TOKEN>
+<TOKEN end_char="211" id="token-2-6" morph="none" pos="word" start_char="210">ha</TOKEN>
+<TOKEN end_char="220" id="token-2-7" morph="none" pos="word" start_char="213">obtenido</TOKEN>
+<TOKEN end_char="223" id="token-2-8" morph="none" pos="word" start_char="222">la</TOKEN>
+<TOKEN end_char="236" id="token-2-9" morph="none" pos="word" start_char="225">autorización</TOKEN>
+<TOKEN end_char="239" id="token-2-10" morph="none" pos="word" start_char="238">de</TOKEN>
+<TOKEN end_char="243" id="token-2-11" morph="none" pos="word" start_char="241">uso</TOKEN>
+<TOKEN end_char="246" id="token-2-12" morph="none" pos="word" start_char="245">de</TOKEN>
+<TOKEN end_char="257" id="token-2-13" morph="none" pos="word" start_char="248">emergencia</TOKEN>
+<TOKEN end_char="260" id="token-2-14" morph="none" pos="word" start_char="259">de</TOKEN>
+<TOKEN end_char="263" id="token-2-15" morph="none" pos="word" start_char="262">la</TOKEN>
+<TOKEN end_char="271" id="token-2-16" morph="none" pos="word" start_char="265">Agencia</TOKEN>
+<TOKEN end_char="275" id="token-2-17" morph="none" pos="word" start_char="273">del</TOKEN>
+<TOKEN end_char="287" id="token-2-18" morph="none" pos="word" start_char="277">Medicamento</TOKEN>
+<TOKEN end_char="290" id="token-2-19" morph="none" pos="word" start_char="289">de</TOKEN>
+<TOKEN end_char="298" id="token-2-20" morph="none" pos="word" start_char="292">Estados</TOKEN>
+<TOKEN end_char="305" id="token-2-21" morph="none" pos="word" start_char="300">Unidos</TOKEN>
+<TOKEN end_char="307" id="token-2-22" morph="none" pos="punct" start_char="307">(</TOKEN>
+<TOKEN end_char="310" id="token-2-23" morph="none" pos="word" start_char="308">FDA</TOKEN>
+<TOKEN end_char="314" id="token-2-24" morph="none" pos="word" start_char="312">por</TOKEN>
+<TOKEN end_char="318" id="token-2-25" morph="none" pos="word" start_char="316">sus</TOKEN>
+<TOKEN end_char="325" id="token-2-26" morph="none" pos="word" start_char="320">siglas</TOKEN>
+<TOKEN end_char="328" id="token-2-27" morph="none" pos="word" start_char="327">en</TOKEN>
+<TOKEN end_char="335" id="token-2-28" morph="none" pos="word" start_char="330">inglés</TOKEN>
+<TOKEN end_char="336" id="token-2-29" morph="none" pos="punct" start_char="336">)</TOKEN>
+<TOKEN end_char="341" id="token-2-30" morph="none" pos="word" start_char="338">para</TOKEN>
+<TOKEN end_char="344" id="token-2-31" morph="none" pos="word" start_char="343">su</TOKEN>
+<TOKEN end_char="351" id="token-2-32" morph="none" pos="word" start_char="346">cóctel</TOKEN>
+<TOKEN end_char="354" id="token-2-33" morph="none" pos="word" start_char="353">de</TOKEN>
+<TOKEN end_char="366" id="token-2-34" morph="none" pos="word" start_char="356">anticuerpos</TOKEN>
+<TOKEN end_char="373" id="token-2-35" morph="none" pos="word" start_char="368">contra</TOKEN>
+<TOKEN end_char="376" id="token-2-36" morph="none" pos="word" start_char="375">el</TOKEN>
+<TOKEN end_char="388" id="token-2-37" morph="none" pos="word" start_char="378">coronavirus</TOKEN>
+<TOKEN end_char="389" id="token-2-38" morph="none" pos="punct" start_char="389">.</TOKEN>
+<TRANSLATED_TEXT>The U.S. pharmaceutical company Regeneron Pharmaceuticals has obtained emergency use authorization from the U.S. Food and Drug Administration (FDA) for its coronavirus antibody cocktail.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="400" id="segment-3" start_char="392">
+<ORIGINAL_TEXT>REGN-COV2</ORIGINAL_TEXT>
+<TOKEN end_char="400" id="token-3-0" morph="none" pos="unknown" start_char="392">REGN-COV2</TOKEN>
+</SEG>
+<SEG end_char="492" id="segment-4" start_char="403">
+<ORIGINAL_TEXT>es parte de una clase de terapias biotecnológicas conocidas como anticuerpos monoclonales.</ORIGINAL_TEXT>
+<TOKEN end_char="404" id="token-4-0" morph="none" pos="word" start_char="403">es</TOKEN>
+<TOKEN end_char="410" id="token-4-1" morph="none" pos="word" start_char="406">parte</TOKEN>
+<TOKEN end_char="413" id="token-4-2" morph="none" pos="word" start_char="412">de</TOKEN>
+<TOKEN end_char="417" id="token-4-3" morph="none" pos="word" start_char="415">una</TOKEN>
+<TOKEN end_char="423" id="token-4-4" morph="none" pos="word" start_char="419">clase</TOKEN>
+<TOKEN end_char="426" id="token-4-5" morph="none" pos="word" start_char="425">de</TOKEN>
+<TOKEN end_char="435" id="token-4-6" morph="none" pos="word" start_char="428">terapias</TOKEN>
+<TOKEN end_char="451" id="token-4-7" morph="none" pos="word" start_char="437">biotecnológicas</TOKEN>
+<TOKEN end_char="461" id="token-4-8" morph="none" pos="word" start_char="453">conocidas</TOKEN>
+<TOKEN end_char="466" id="token-4-9" morph="none" pos="word" start_char="463">como</TOKEN>
+<TOKEN end_char="478" id="token-4-10" morph="none" pos="word" start_char="468">anticuerpos</TOKEN>
+<TOKEN end_char="491" id="token-4-11" morph="none" pos="word" start_char="480">monoclonales</TOKEN>
+<TOKEN end_char="492" id="token-4-12" morph="none" pos="punct" start_char="492">.</TOKEN>
+<TRANSLATED_TEXT>is part of a class of biotechnological therapies known as monoclonal antibodies.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="788" id="segment-5" start_char="495">
+<ORIGINAL_TEXT>"La autorización de emergencia de estos anticuerpos monoclonales administrados juntos ofrece a los proveedores de atención médica otra herramienta para combatir la pandemia", ha explicado Patrizia Cavazzoni, directora interina del Centro de Evaluación e Investigación de Medicamentos de la FDA.</ORIGINAL_TEXT>
+<TOKEN end_char="495" id="token-5-0" morph="none" pos="punct" start_char="495">"</TOKEN>
+<TOKEN end_char="497" id="token-5-1" morph="none" pos="word" start_char="496">La</TOKEN>
+<TOKEN end_char="510" id="token-5-2" morph="none" pos="word" start_char="499">autorización</TOKEN>
+<TOKEN end_char="513" id="token-5-3" morph="none" pos="word" start_char="512">de</TOKEN>
+<TOKEN end_char="524" id="token-5-4" morph="none" pos="word" start_char="515">emergencia</TOKEN>
+<TOKEN end_char="527" id="token-5-5" morph="none" pos="word" start_char="526">de</TOKEN>
+<TOKEN end_char="533" id="token-5-6" morph="none" pos="word" start_char="529">estos</TOKEN>
+<TOKEN end_char="545" id="token-5-7" morph="none" pos="word" start_char="535">anticuerpos</TOKEN>
+<TOKEN end_char="558" id="token-5-8" morph="none" pos="word" start_char="547">monoclonales</TOKEN>
+<TOKEN end_char="572" id="token-5-9" morph="none" pos="word" start_char="560">administrados</TOKEN>
+<TOKEN end_char="579" id="token-5-10" morph="none" pos="word" start_char="574">juntos</TOKEN>
+<TOKEN end_char="586" id="token-5-11" morph="none" pos="word" start_char="581">ofrece</TOKEN>
+<TOKEN end_char="588" id="token-5-12" morph="none" pos="word" start_char="588">a</TOKEN>
+<TOKEN end_char="592" id="token-5-13" morph="none" pos="word" start_char="590">los</TOKEN>
+<TOKEN end_char="604" id="token-5-14" morph="none" pos="word" start_char="594">proveedores</TOKEN>
+<TOKEN end_char="607" id="token-5-15" morph="none" pos="word" start_char="606">de</TOKEN>
+<TOKEN end_char="616" id="token-5-16" morph="none" pos="word" start_char="609">atención</TOKEN>
+<TOKEN end_char="623" id="token-5-17" morph="none" pos="word" start_char="618">médica</TOKEN>
+<TOKEN end_char="628" id="token-5-18" morph="none" pos="word" start_char="625">otra</TOKEN>
+<TOKEN end_char="640" id="token-5-19" morph="none" pos="word" start_char="630">herramienta</TOKEN>
+<TOKEN end_char="645" id="token-5-20" morph="none" pos="word" start_char="642">para</TOKEN>
+<TOKEN end_char="654" id="token-5-21" morph="none" pos="word" start_char="647">combatir</TOKEN>
+<TOKEN end_char="657" id="token-5-22" morph="none" pos="word" start_char="656">la</TOKEN>
+<TOKEN end_char="666" id="token-5-23" morph="none" pos="word" start_char="659">pandemia</TOKEN>
+<TOKEN end_char="668" id="token-5-24" morph="none" pos="punct" start_char="667">",</TOKEN>
+<TOKEN end_char="671" id="token-5-25" morph="none" pos="word" start_char="670">ha</TOKEN>
+<TOKEN end_char="681" id="token-5-26" morph="none" pos="word" start_char="673">explicado</TOKEN>
+<TOKEN end_char="690" id="token-5-27" morph="none" pos="word" start_char="683">Patrizia</TOKEN>
+<TOKEN end_char="700" id="token-5-28" morph="none" pos="word" start_char="692">Cavazzoni</TOKEN>
+<TOKEN end_char="701" id="token-5-29" morph="none" pos="punct" start_char="701">,</TOKEN>
+<TOKEN end_char="711" id="token-5-30" morph="none" pos="word" start_char="703">directora</TOKEN>
+<TOKEN end_char="720" id="token-5-31" morph="none" pos="word" start_char="713">interina</TOKEN>
+<TOKEN end_char="724" id="token-5-32" morph="none" pos="word" start_char="722">del</TOKEN>
+<TOKEN end_char="731" id="token-5-33" morph="none" pos="word" start_char="726">Centro</TOKEN>
+<TOKEN end_char="734" id="token-5-34" morph="none" pos="word" start_char="733">de</TOKEN>
+<TOKEN end_char="745" id="token-5-35" morph="none" pos="word" start_char="736">Evaluación</TOKEN>
+<TOKEN end_char="747" id="token-5-36" morph="none" pos="word" start_char="747">e</TOKEN>
+<TOKEN end_char="761" id="token-5-37" morph="none" pos="word" start_char="749">Investigación</TOKEN>
+<TOKEN end_char="764" id="token-5-38" morph="none" pos="word" start_char="763">de</TOKEN>
+<TOKEN end_char="777" id="token-5-39" morph="none" pos="word" start_char="766">Medicamentos</TOKEN>
+<TOKEN end_char="780" id="token-5-40" morph="none" pos="word" start_char="779">de</TOKEN>
+<TOKEN end_char="783" id="token-5-41" morph="none" pos="word" start_char="782">la</TOKEN>
+<TOKEN end_char="787" id="token-5-42" morph="none" pos="word" start_char="785">FDA</TOKEN>
+<TOKEN end_char="788" id="token-5-43" morph="none" pos="punct" start_char="788">.</TOKEN>
+<TRANSLATED_TEXT>"The emergency authorization of these monoclonal antibodies administered together offers health care providers another tool to combat the pandemic," said Patrizia Cavazzoni, interim director of the FDA's Drug Evaluation and Research Center.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="937" id="segment-6" start_char="791">
+<ORIGINAL_TEXT>Los datos de un estudio de fase 1/2 en 799 pacientes mostraron que el cóctel podría reducir la carga viral significativamente mejor que el placebo.</ORIGINAL_TEXT>
+<TOKEN end_char="793" id="token-6-0" morph="none" pos="word" start_char="791">Los</TOKEN>
+<TOKEN end_char="799" id="token-6-1" morph="none" pos="word" start_char="795">datos</TOKEN>
+<TOKEN end_char="802" id="token-6-2" morph="none" pos="word" start_char="801">de</TOKEN>
+<TOKEN end_char="805" id="token-6-3" morph="none" pos="word" start_char="804">un</TOKEN>
+<TOKEN end_char="813" id="token-6-4" morph="none" pos="word" start_char="807">estudio</TOKEN>
+<TOKEN end_char="816" id="token-6-5" morph="none" pos="word" start_char="815">de</TOKEN>
+<TOKEN end_char="821" id="token-6-6" morph="none" pos="word" start_char="818">fase</TOKEN>
+<TOKEN end_char="825" id="token-6-7" morph="none" pos="unknown" start_char="823">1/2</TOKEN>
+<TOKEN end_char="828" id="token-6-8" morph="none" pos="word" start_char="827">en</TOKEN>
+<TOKEN end_char="832" id="token-6-9" morph="none" pos="word" start_char="830">799</TOKEN>
+<TOKEN end_char="842" id="token-6-10" morph="none" pos="word" start_char="834">pacientes</TOKEN>
+<TOKEN end_char="852" id="token-6-11" morph="none" pos="word" start_char="844">mostraron</TOKEN>
+<TOKEN end_char="856" id="token-6-12" morph="none" pos="word" start_char="854">que</TOKEN>
+<TOKEN end_char="859" id="token-6-13" morph="none" pos="word" start_char="858">el</TOKEN>
+<TOKEN end_char="866" id="token-6-14" morph="none" pos="word" start_char="861">cóctel</TOKEN>
+<TOKEN end_char="873" id="token-6-15" morph="none" pos="word" start_char="868">podría</TOKEN>
+<TOKEN end_char="881" id="token-6-16" morph="none" pos="word" start_char="875">reducir</TOKEN>
+<TOKEN end_char="884" id="token-6-17" morph="none" pos="word" start_char="883">la</TOKEN>
+<TOKEN end_char="890" id="token-6-18" morph="none" pos="word" start_char="886">carga</TOKEN>
+<TOKEN end_char="896" id="token-6-19" morph="none" pos="word" start_char="892">viral</TOKEN>
+<TOKEN end_char="915" id="token-6-20" morph="none" pos="word" start_char="898">significativamente</TOKEN>
+<TOKEN end_char="921" id="token-6-21" morph="none" pos="word" start_char="917">mejor</TOKEN>
+<TOKEN end_char="925" id="token-6-22" morph="none" pos="word" start_char="923">que</TOKEN>
+<TOKEN end_char="928" id="token-6-23" morph="none" pos="word" start_char="927">el</TOKEN>
+<TOKEN end_char="936" id="token-6-24" morph="none" pos="word" start_char="930">placebo</TOKEN>
+<TOKEN end_char="937" id="token-6-25" morph="none" pos="punct" start_char="937">.</TOKEN>
+<TRANSLATED_TEXT>Data from a phase 1 / 2 study in 799 patients showed that cocktail could reduce viral load significantly better than placebo.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="995" id="segment-7" start_char="939">
+<ORIGINAL_TEXT>Además, hubo tasas más bajas de visitas al hospital entre</ORIGINAL_TEXT>
+<TOKEN end_char="944" id="token-7-0" morph="none" pos="word" start_char="939">Además</TOKEN>
+<TOKEN end_char="945" id="token-7-1" morph="none" pos="punct" start_char="945">,</TOKEN>
+<TOKEN end_char="950" id="token-7-2" morph="none" pos="word" start_char="947">hubo</TOKEN>
+<TOKEN end_char="956" id="token-7-3" morph="none" pos="word" start_char="952">tasas</TOKEN>
+<TOKEN end_char="960" id="token-7-4" morph="none" pos="word" start_char="958">más</TOKEN>
+<TOKEN end_char="966" id="token-7-5" morph="none" pos="word" start_char="962">bajas</TOKEN>
+<TOKEN end_char="969" id="token-7-6" morph="none" pos="word" start_char="968">de</TOKEN>
+<TOKEN end_char="977" id="token-7-7" morph="none" pos="word" start_char="971">visitas</TOKEN>
+<TOKEN end_char="980" id="token-7-8" morph="none" pos="word" start_char="979">al</TOKEN>
+<TOKEN end_char="989" id="token-7-9" morph="none" pos="word" start_char="982">hospital</TOKEN>
+<TOKEN end_char="995" id="token-7-10" morph="none" pos="word" start_char="991">entre</TOKEN>
+<TRANSLATED_TEXT>In addition, there were lower rates of hospital visits between</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1006" id="segment-8" start_char="998">
+<ORIGINAL_TEXT>REGN-COV2</ORIGINAL_TEXT>
+<TOKEN end_char="1006" id="token-8-0" morph="none" pos="unknown" start_char="998">REGN-COV2</TOKEN>
+</SEG>
+<SEG end_char="1030" id="segment-9" start_char="1009">
+<ORIGINAL_TEXT>dentro de los 28 días.</ORIGINAL_TEXT>
+<TOKEN end_char="1014" id="token-9-0" morph="none" pos="word" start_char="1009">dentro</TOKEN>
+<TOKEN end_char="1017" id="token-9-1" morph="none" pos="word" start_char="1016">de</TOKEN>
+<TOKEN end_char="1021" id="token-9-2" morph="none" pos="word" start_char="1019">los</TOKEN>
+<TOKEN end_char="1024" id="token-9-3" morph="none" pos="word" start_char="1023">28</TOKEN>
+<TOKEN end_char="1029" id="token-9-4" morph="none" pos="word" start_char="1026">días</TOKEN>
+<TOKEN end_char="1030" id="token-9-5" morph="none" pos="punct" start_char="1030">.</TOKEN>
+<TRANSLATED_TEXT>within 28 days.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1172" id="segment-10" start_char="1034">
+<ORIGINAL_TEXT>La autorización de emergencia actual es para la dosis baja de 2,400 mg en lugar de la concentración alta de 8,000 mg probada en la fase 1/2</ORIGINAL_TEXT>
+<TOKEN end_char="1035" id="token-10-0" morph="none" pos="word" start_char="1034">La</TOKEN>
+<TOKEN end_char="1048" id="token-10-1" morph="none" pos="word" start_char="1037">autorización</TOKEN>
+<TOKEN end_char="1051" id="token-10-2" morph="none" pos="word" start_char="1050">de</TOKEN>
+<TOKEN end_char="1062" id="token-10-3" morph="none" pos="word" start_char="1053">emergencia</TOKEN>
+<TOKEN end_char="1069" id="token-10-4" morph="none" pos="word" start_char="1064">actual</TOKEN>
+<TOKEN end_char="1072" id="token-10-5" morph="none" pos="word" start_char="1071">es</TOKEN>
+<TOKEN end_char="1077" id="token-10-6" morph="none" pos="word" start_char="1074">para</TOKEN>
+<TOKEN end_char="1080" id="token-10-7" morph="none" pos="word" start_char="1079">la</TOKEN>
+<TOKEN end_char="1086" id="token-10-8" morph="none" pos="word" start_char="1082">dosis</TOKEN>
+<TOKEN end_char="1091" id="token-10-9" morph="none" pos="word" start_char="1088">baja</TOKEN>
+<TOKEN end_char="1094" id="token-10-10" morph="none" pos="word" start_char="1093">de</TOKEN>
+<TOKEN end_char="1100" id="token-10-11" morph="none" pos="unknown" start_char="1096">2,400</TOKEN>
+<TOKEN end_char="1103" id="token-10-12" morph="none" pos="word" start_char="1102">mg</TOKEN>
+<TOKEN end_char="1106" id="token-10-13" morph="none" pos="word" start_char="1105">en</TOKEN>
+<TOKEN end_char="1112" id="token-10-14" morph="none" pos="word" start_char="1108">lugar</TOKEN>
+<TOKEN end_char="1115" id="token-10-15" morph="none" pos="word" start_char="1114">de</TOKEN>
+<TOKEN end_char="1118" id="token-10-16" morph="none" pos="word" start_char="1117">la</TOKEN>
+<TOKEN end_char="1132" id="token-10-17" morph="none" pos="word" start_char="1120">concentración</TOKEN>
+<TOKEN end_char="1137" id="token-10-18" morph="none" pos="word" start_char="1134">alta</TOKEN>
+<TOKEN end_char="1140" id="token-10-19" morph="none" pos="word" start_char="1139">de</TOKEN>
+<TOKEN end_char="1146" id="token-10-20" morph="none" pos="unknown" start_char="1142">8,000</TOKEN>
+<TOKEN end_char="1149" id="token-10-21" morph="none" pos="word" start_char="1148">mg</TOKEN>
+<TOKEN end_char="1157" id="token-10-22" morph="none" pos="word" start_char="1151">probada</TOKEN>
+<TOKEN end_char="1160" id="token-10-23" morph="none" pos="word" start_char="1159">en</TOKEN>
+<TOKEN end_char="1163" id="token-10-24" morph="none" pos="word" start_char="1162">la</TOKEN>
+<TOKEN end_char="1168" id="token-10-25" morph="none" pos="word" start_char="1165">fase</TOKEN>
+<TOKEN end_char="1172" id="token-10-26" morph="none" pos="unknown" start_char="1170">1/2</TOKEN>
+<TRANSLATED_TEXT>The current emergency authorization is for the low dose of 2,400 mg instead of the high concentration of 8,000 mg tested in phase 1 / 2.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1443" id="segment-11" start_char="1177">
+<ORIGINAL_TEXT>"Este beneficio fue mayor en los pacientes con mayor riesgo de malos resultados debido a la alta carga viral, la respuesta inmune efectiva al inicio del estudio o factores de riesgo pre-existente", ha explicado George D. Yancopoulos, director científico de Regeneron.</ORIGINAL_TEXT>
+<TOKEN end_char="1177" id="token-11-0" morph="none" pos="punct" start_char="1177">"</TOKEN>
+<TOKEN end_char="1181" id="token-11-1" morph="none" pos="word" start_char="1178">Este</TOKEN>
+<TOKEN end_char="1191" id="token-11-2" morph="none" pos="word" start_char="1183">beneficio</TOKEN>
+<TOKEN end_char="1195" id="token-11-3" morph="none" pos="word" start_char="1193">fue</TOKEN>
+<TOKEN end_char="1201" id="token-11-4" morph="none" pos="word" start_char="1197">mayor</TOKEN>
+<TOKEN end_char="1204" id="token-11-5" morph="none" pos="word" start_char="1203">en</TOKEN>
+<TOKEN end_char="1208" id="token-11-6" morph="none" pos="word" start_char="1206">los</TOKEN>
+<TOKEN end_char="1218" id="token-11-7" morph="none" pos="word" start_char="1210">pacientes</TOKEN>
+<TOKEN end_char="1222" id="token-11-8" morph="none" pos="word" start_char="1220">con</TOKEN>
+<TOKEN end_char="1228" id="token-11-9" morph="none" pos="word" start_char="1224">mayor</TOKEN>
+<TOKEN end_char="1235" id="token-11-10" morph="none" pos="word" start_char="1230">riesgo</TOKEN>
+<TOKEN end_char="1238" id="token-11-11" morph="none" pos="word" start_char="1237">de</TOKEN>
+<TOKEN end_char="1244" id="token-11-12" morph="none" pos="word" start_char="1240">malos</TOKEN>
+<TOKEN end_char="1255" id="token-11-13" morph="none" pos="word" start_char="1246">resultados</TOKEN>
+<TOKEN end_char="1262" id="token-11-14" morph="none" pos="word" start_char="1257">debido</TOKEN>
+<TOKEN end_char="1264" id="token-11-15" morph="none" pos="word" start_char="1264">a</TOKEN>
+<TOKEN end_char="1267" id="token-11-16" morph="none" pos="word" start_char="1266">la</TOKEN>
+<TOKEN end_char="1272" id="token-11-17" morph="none" pos="word" start_char="1269">alta</TOKEN>
+<TOKEN end_char="1278" id="token-11-18" morph="none" pos="word" start_char="1274">carga</TOKEN>
+<TOKEN end_char="1284" id="token-11-19" morph="none" pos="word" start_char="1280">viral</TOKEN>
+<TOKEN end_char="1285" id="token-11-20" morph="none" pos="punct" start_char="1285">,</TOKEN>
+<TOKEN end_char="1288" id="token-11-21" morph="none" pos="word" start_char="1287">la</TOKEN>
+<TOKEN end_char="1298" id="token-11-22" morph="none" pos="word" start_char="1290">respuesta</TOKEN>
+<TOKEN end_char="1305" id="token-11-23" morph="none" pos="word" start_char="1300">inmune</TOKEN>
+<TOKEN end_char="1314" id="token-11-24" morph="none" pos="word" start_char="1307">efectiva</TOKEN>
+<TOKEN end_char="1317" id="token-11-25" morph="none" pos="word" start_char="1316">al</TOKEN>
+<TOKEN end_char="1324" id="token-11-26" morph="none" pos="word" start_char="1319">inicio</TOKEN>
+<TOKEN end_char="1328" id="token-11-27" morph="none" pos="word" start_char="1326">del</TOKEN>
+<TOKEN end_char="1336" id="token-11-28" morph="none" pos="word" start_char="1330">estudio</TOKEN>
+<TOKEN end_char="1338" id="token-11-29" morph="none" pos="word" start_char="1338">o</TOKEN>
+<TOKEN end_char="1347" id="token-11-30" morph="none" pos="word" start_char="1340">factores</TOKEN>
+<TOKEN end_char="1350" id="token-11-31" morph="none" pos="word" start_char="1349">de</TOKEN>
+<TOKEN end_char="1357" id="token-11-32" morph="none" pos="word" start_char="1352">riesgo</TOKEN>
+<TOKEN end_char="1371" id="token-11-33" morph="none" pos="unknown" start_char="1359">pre-existente</TOKEN>
+<TOKEN end_char="1373" id="token-11-34" morph="none" pos="punct" start_char="1372">",</TOKEN>
+<TOKEN end_char="1376" id="token-11-35" morph="none" pos="word" start_char="1375">ha</TOKEN>
+<TOKEN end_char="1386" id="token-11-36" morph="none" pos="word" start_char="1378">explicado</TOKEN>
+<TOKEN end_char="1393" id="token-11-37" morph="none" pos="word" start_char="1388">George</TOKEN>
+<TOKEN end_char="1395" id="token-11-38" morph="none" pos="word" start_char="1395">D</TOKEN>
+<TOKEN end_char="1396" id="token-11-39" morph="none" pos="punct" start_char="1396">.</TOKEN>
+<TOKEN end_char="1408" id="token-11-40" morph="none" pos="word" start_char="1398">Yancopoulos</TOKEN>
+<TOKEN end_char="1409" id="token-11-41" morph="none" pos="punct" start_char="1409">,</TOKEN>
+<TOKEN end_char="1418" id="token-11-42" morph="none" pos="word" start_char="1411">director</TOKEN>
+<TOKEN end_char="1429" id="token-11-43" morph="none" pos="word" start_char="1420">científico</TOKEN>
+<TOKEN end_char="1432" id="token-11-44" morph="none" pos="word" start_char="1431">de</TOKEN>
+<TOKEN end_char="1442" id="token-11-45" morph="none" pos="word" start_char="1434">Regeneron</TOKEN>
+<TOKEN end_char="1443" id="token-11-46" morph="none" pos="punct" start_char="1443">.</TOKEN>
+<TRANSLATED_TEXT>"This benefit was higher in patients with higher risk of poor outcomes due to high viral load, effective immune response at the start of the study or pre-existing risk factors," explained George D. Yancopoulos, scientific director of Regeneron.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1585" id="segment-12" start_char="1446">
+<ORIGINAL_TEXT>La autorización de emergencia actual es para la dosis baja de 2,400 mg en lugar de la concentración alta de 8,000 mg probada en la fase 1/2.</ORIGINAL_TEXT>
+<TOKEN end_char="1447" id="token-12-0" morph="none" pos="word" start_char="1446">La</TOKEN>
+<TOKEN end_char="1460" id="token-12-1" morph="none" pos="word" start_char="1449">autorización</TOKEN>
+<TOKEN end_char="1463" id="token-12-2" morph="none" pos="word" start_char="1462">de</TOKEN>
+<TOKEN end_char="1474" id="token-12-3" morph="none" pos="word" start_char="1465">emergencia</TOKEN>
+<TOKEN end_char="1481" id="token-12-4" morph="none" pos="word" start_char="1476">actual</TOKEN>
+<TOKEN end_char="1484" id="token-12-5" morph="none" pos="word" start_char="1483">es</TOKEN>
+<TOKEN end_char="1489" id="token-12-6" morph="none" pos="word" start_char="1486">para</TOKEN>
+<TOKEN end_char="1492" id="token-12-7" morph="none" pos="word" start_char="1491">la</TOKEN>
+<TOKEN end_char="1498" id="token-12-8" morph="none" pos="word" start_char="1494">dosis</TOKEN>
+<TOKEN end_char="1503" id="token-12-9" morph="none" pos="word" start_char="1500">baja</TOKEN>
+<TOKEN end_char="1506" id="token-12-10" morph="none" pos="word" start_char="1505">de</TOKEN>
+<TOKEN end_char="1512" id="token-12-11" morph="none" pos="unknown" start_char="1508">2,400</TOKEN>
+<TOKEN end_char="1515" id="token-12-12" morph="none" pos="word" start_char="1514">mg</TOKEN>
+<TOKEN end_char="1518" id="token-12-13" morph="none" pos="word" start_char="1517">en</TOKEN>
+<TOKEN end_char="1524" id="token-12-14" morph="none" pos="word" start_char="1520">lugar</TOKEN>
+<TOKEN end_char="1527" id="token-12-15" morph="none" pos="word" start_char="1526">de</TOKEN>
+<TOKEN end_char="1530" id="token-12-16" morph="none" pos="word" start_char="1529">la</TOKEN>
+<TOKEN end_char="1544" id="token-12-17" morph="none" pos="word" start_char="1532">concentración</TOKEN>
+<TOKEN end_char="1549" id="token-12-18" morph="none" pos="word" start_char="1546">alta</TOKEN>
+<TOKEN end_char="1552" id="token-12-19" morph="none" pos="word" start_char="1551">de</TOKEN>
+<TOKEN end_char="1558" id="token-12-20" morph="none" pos="unknown" start_char="1554">8,000</TOKEN>
+<TOKEN end_char="1561" id="token-12-21" morph="none" pos="word" start_char="1560">mg</TOKEN>
+<TOKEN end_char="1569" id="token-12-22" morph="none" pos="word" start_char="1563">probada</TOKEN>
+<TOKEN end_char="1572" id="token-12-23" morph="none" pos="word" start_char="1571">en</TOKEN>
+<TOKEN end_char="1575" id="token-12-24" morph="none" pos="word" start_char="1574">la</TOKEN>
+<TOKEN end_char="1580" id="token-12-25" morph="none" pos="word" start_char="1577">fase</TOKEN>
+<TOKEN end_char="1584" id="token-12-26" morph="none" pos="unknown" start_char="1582">1/2</TOKEN>
+<TOKEN end_char="1585" id="token-12-27" morph="none" pos="punct" start_char="1585">.</TOKEN>
+<TRANSLATED_TEXT>The current emergency authorization is for the low dose of 2,400 mg instead of the high concentration of 8,000 mg tested in phase 1 / 2.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1769" id="segment-13" start_char="1588">
+<ORIGINAL_TEXT>Debido a que la actividad de la dosis más baja fue comparable a la de la dosis más alta en el ensayo clínico, Regeneron está considerando investigar dosis aún más bajas en un futuro.</ORIGINAL_TEXT>
+<TOKEN end_char="1593" id="token-13-0" morph="none" pos="word" start_char="1588">Debido</TOKEN>
+<TOKEN end_char="1595" id="token-13-1" morph="none" pos="word" start_char="1595">a</TOKEN>
+<TOKEN end_char="1599" id="token-13-2" morph="none" pos="word" start_char="1597">que</TOKEN>
+<TOKEN end_char="1602" id="token-13-3" morph="none" pos="word" start_char="1601">la</TOKEN>
+<TOKEN end_char="1612" id="token-13-4" morph="none" pos="word" start_char="1604">actividad</TOKEN>
+<TOKEN end_char="1615" id="token-13-5" morph="none" pos="word" start_char="1614">de</TOKEN>
+<TOKEN end_char="1618" id="token-13-6" morph="none" pos="word" start_char="1617">la</TOKEN>
+<TOKEN end_char="1624" id="token-13-7" morph="none" pos="word" start_char="1620">dosis</TOKEN>
+<TOKEN end_char="1628" id="token-13-8" morph="none" pos="word" start_char="1626">más</TOKEN>
+<TOKEN end_char="1633" id="token-13-9" morph="none" pos="word" start_char="1630">baja</TOKEN>
+<TOKEN end_char="1637" id="token-13-10" morph="none" pos="word" start_char="1635">fue</TOKEN>
+<TOKEN end_char="1648" id="token-13-11" morph="none" pos="word" start_char="1639">comparable</TOKEN>
+<TOKEN end_char="1650" id="token-13-12" morph="none" pos="word" start_char="1650">a</TOKEN>
+<TOKEN end_char="1653" id="token-13-13" morph="none" pos="word" start_char="1652">la</TOKEN>
+<TOKEN end_char="1656" id="token-13-14" morph="none" pos="word" start_char="1655">de</TOKEN>
+<TOKEN end_char="1659" id="token-13-15" morph="none" pos="word" start_char="1658">la</TOKEN>
+<TOKEN end_char="1665" id="token-13-16" morph="none" pos="word" start_char="1661">dosis</TOKEN>
+<TOKEN end_char="1669" id="token-13-17" morph="none" pos="word" start_char="1667">más</TOKEN>
+<TOKEN end_char="1674" id="token-13-18" morph="none" pos="word" start_char="1671">alta</TOKEN>
+<TOKEN end_char="1677" id="token-13-19" morph="none" pos="word" start_char="1676">en</TOKEN>
+<TOKEN end_char="1680" id="token-13-20" morph="none" pos="word" start_char="1679">el</TOKEN>
+<TOKEN end_char="1687" id="token-13-21" morph="none" pos="word" start_char="1682">ensayo</TOKEN>
+<TOKEN end_char="1695" id="token-13-22" morph="none" pos="word" start_char="1689">clínico</TOKEN>
+<TOKEN end_char="1696" id="token-13-23" morph="none" pos="punct" start_char="1696">,</TOKEN>
+<TOKEN end_char="1706" id="token-13-24" morph="none" pos="word" start_char="1698">Regeneron</TOKEN>
+<TOKEN end_char="1711" id="token-13-25" morph="none" pos="word" start_char="1708">está</TOKEN>
+<TOKEN end_char="1724" id="token-13-26" morph="none" pos="word" start_char="1713">considerando</TOKEN>
+<TOKEN end_char="1735" id="token-13-27" morph="none" pos="word" start_char="1726">investigar</TOKEN>
+<TOKEN end_char="1741" id="token-13-28" morph="none" pos="word" start_char="1737">dosis</TOKEN>
+<TOKEN end_char="1745" id="token-13-29" morph="none" pos="word" start_char="1743">aún</TOKEN>
+<TOKEN end_char="1749" id="token-13-30" morph="none" pos="word" start_char="1747">más</TOKEN>
+<TOKEN end_char="1755" id="token-13-31" morph="none" pos="word" start_char="1751">bajas</TOKEN>
+<TOKEN end_char="1758" id="token-13-32" morph="none" pos="word" start_char="1757">en</TOKEN>
+<TOKEN end_char="1761" id="token-13-33" morph="none" pos="word" start_char="1760">un</TOKEN>
+<TOKEN end_char="1768" id="token-13-34" morph="none" pos="word" start_char="1763">futuro</TOKEN>
+<TOKEN end_char="1769" id="token-13-35" morph="none" pos="punct" start_char="1769">.</TOKEN>
+<TRANSLATED_TEXT>Because the activity of the lowest dose was comparable to that of the highest dose in the clinical trial, Regeneron is considering investigating even lower doses in the future.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1993" id="segment-14" start_char="1772">
+<ORIGINAL_TEXT>Además, Regeneron también está probando el fármaco en personas hospitalizadas y está evaluando el cóctel como una opción profiláctica en personas no infectadas que han tenido una exposición cercana a un paciente con Covid.</ORIGINAL_TEXT>
+<TOKEN end_char="1777" id="token-14-0" morph="none" pos="word" start_char="1772">Además</TOKEN>
+<TOKEN end_char="1778" id="token-14-1" morph="none" pos="punct" start_char="1778">,</TOKEN>
+<TOKEN end_char="1788" id="token-14-2" morph="none" pos="word" start_char="1780">Regeneron</TOKEN>
+<TOKEN end_char="1796" id="token-14-3" morph="none" pos="word" start_char="1790">también</TOKEN>
+<TOKEN end_char="1801" id="token-14-4" morph="none" pos="word" start_char="1798">está</TOKEN>
+<TOKEN end_char="1810" id="token-14-5" morph="none" pos="word" start_char="1803">probando</TOKEN>
+<TOKEN end_char="1813" id="token-14-6" morph="none" pos="word" start_char="1812">el</TOKEN>
+<TOKEN end_char="1821" id="token-14-7" morph="none" pos="word" start_char="1815">fármaco</TOKEN>
+<TOKEN end_char="1824" id="token-14-8" morph="none" pos="word" start_char="1823">en</TOKEN>
+<TOKEN end_char="1833" id="token-14-9" morph="none" pos="word" start_char="1826">personas</TOKEN>
+<TOKEN end_char="1848" id="token-14-10" morph="none" pos="word" start_char="1835">hospitalizadas</TOKEN>
+<TOKEN end_char="1850" id="token-14-11" morph="none" pos="word" start_char="1850">y</TOKEN>
+<TOKEN end_char="1855" id="token-14-12" morph="none" pos="word" start_char="1852">está</TOKEN>
+<TOKEN end_char="1865" id="token-14-13" morph="none" pos="word" start_char="1857">evaluando</TOKEN>
+<TOKEN end_char="1868" id="token-14-14" morph="none" pos="word" start_char="1867">el</TOKEN>
+<TOKEN end_char="1875" id="token-14-15" morph="none" pos="word" start_char="1870">cóctel</TOKEN>
+<TOKEN end_char="1880" id="token-14-16" morph="none" pos="word" start_char="1877">como</TOKEN>
+<TOKEN end_char="1884" id="token-14-17" morph="none" pos="word" start_char="1882">una</TOKEN>
+<TOKEN end_char="1891" id="token-14-18" morph="none" pos="word" start_char="1886">opción</TOKEN>
+<TOKEN end_char="1904" id="token-14-19" morph="none" pos="word" start_char="1893">profiláctica</TOKEN>
+<TOKEN end_char="1907" id="token-14-20" morph="none" pos="word" start_char="1906">en</TOKEN>
+<TOKEN end_char="1916" id="token-14-21" morph="none" pos="word" start_char="1909">personas</TOKEN>
+<TOKEN end_char="1919" id="token-14-22" morph="none" pos="word" start_char="1918">no</TOKEN>
+<TOKEN end_char="1930" id="token-14-23" morph="none" pos="word" start_char="1921">infectadas</TOKEN>
+<TOKEN end_char="1934" id="token-14-24" morph="none" pos="word" start_char="1932">que</TOKEN>
+<TOKEN end_char="1938" id="token-14-25" morph="none" pos="word" start_char="1936">han</TOKEN>
+<TOKEN end_char="1945" id="token-14-26" morph="none" pos="word" start_char="1940">tenido</TOKEN>
+<TOKEN end_char="1949" id="token-14-27" morph="none" pos="word" start_char="1947">una</TOKEN>
+<TOKEN end_char="1960" id="token-14-28" morph="none" pos="word" start_char="1951">exposición</TOKEN>
+<TOKEN end_char="1968" id="token-14-29" morph="none" pos="word" start_char="1962">cercana</TOKEN>
+<TOKEN end_char="1970" id="token-14-30" morph="none" pos="word" start_char="1970">a</TOKEN>
+<TOKEN end_char="1973" id="token-14-31" morph="none" pos="word" start_char="1972">un</TOKEN>
+<TOKEN end_char="1982" id="token-14-32" morph="none" pos="word" start_char="1975">paciente</TOKEN>
+<TOKEN end_char="1986" id="token-14-33" morph="none" pos="word" start_char="1984">con</TOKEN>
+<TOKEN end_char="1992" id="token-14-34" morph="none" pos="word" start_char="1988">Covid</TOKEN>
+<TOKEN end_char="1993" id="token-14-35" morph="none" pos="punct" start_char="1993">.</TOKEN>
+<TRANSLATED_TEXT>Regeneron is also testing the drug in hospitalized people and is evaluating the cocktail as a prophylactic option in uninfected people who have had close exposure to a patient with Covid.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2046" id="segment-15" start_char="1996">
+<ORIGINAL_TEXT>De igual modo, la compañía también ha subrayado que</ORIGINAL_TEXT>
+<TOKEN end_char="1997" id="token-15-0" morph="none" pos="word" start_char="1996">De</TOKEN>
+<TOKEN end_char="2003" id="token-15-1" morph="none" pos="word" start_char="1999">igual</TOKEN>
+<TOKEN end_char="2008" id="token-15-2" morph="none" pos="word" start_char="2005">modo</TOKEN>
+<TOKEN end_char="2009" id="token-15-3" morph="none" pos="punct" start_char="2009">,</TOKEN>
+<TOKEN end_char="2012" id="token-15-4" morph="none" pos="word" start_char="2011">la</TOKEN>
+<TOKEN end_char="2021" id="token-15-5" morph="none" pos="word" start_char="2014">compañía</TOKEN>
+<TOKEN end_char="2029" id="token-15-6" morph="none" pos="word" start_char="2023">también</TOKEN>
+<TOKEN end_char="2032" id="token-15-7" morph="none" pos="word" start_char="2031">ha</TOKEN>
+<TOKEN end_char="2042" id="token-15-8" morph="none" pos="word" start_char="2034">subrayado</TOKEN>
+<TOKEN end_char="2046" id="token-15-9" morph="none" pos="word" start_char="2044">que</TOKEN>
+<TRANSLATED_TEXT>Similarly, the company has also stressed that</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2057" id="segment-16" start_char="2049">
+<ORIGINAL_TEXT>REGN-COV2</ORIGINAL_TEXT>
+<TOKEN end_char="2057" id="token-16-0" morph="none" pos="unknown" start_char="2049">REGN-COV2</TOKEN>
+</SEG>
+<SEG end_char="2139" id="segment-17" start_char="2060">
+<ORIGINAL_TEXT>redujo rápidamente la carga viral hasta el día siete en pacientes seronegativos.</ORIGINAL_TEXT>
+<TOKEN end_char="2065" id="token-17-0" morph="none" pos="word" start_char="2060">redujo</TOKEN>
+<TOKEN end_char="2077" id="token-17-1" morph="none" pos="word" start_char="2067">rápidamente</TOKEN>
+<TOKEN end_char="2080" id="token-17-2" morph="none" pos="word" start_char="2079">la</TOKEN>
+<TOKEN end_char="2086" id="token-17-3" morph="none" pos="word" start_char="2082">carga</TOKEN>
+<TOKEN end_char="2092" id="token-17-4" morph="none" pos="word" start_char="2088">viral</TOKEN>
+<TOKEN end_char="2098" id="token-17-5" morph="none" pos="word" start_char="2094">hasta</TOKEN>
+<TOKEN end_char="2101" id="token-17-6" morph="none" pos="word" start_char="2100">el</TOKEN>
+<TOKEN end_char="2105" id="token-17-7" morph="none" pos="word" start_char="2103">día</TOKEN>
+<TOKEN end_char="2111" id="token-17-8" morph="none" pos="word" start_char="2107">siete</TOKEN>
+<TOKEN end_char="2114" id="token-17-9" morph="none" pos="word" start_char="2113">en</TOKEN>
+<TOKEN end_char="2124" id="token-17-10" morph="none" pos="word" start_char="2116">pacientes</TOKEN>
+<TOKEN end_char="2138" id="token-17-11" morph="none" pos="word" start_char="2126">seronegativos</TOKEN>
+<TOKEN end_char="2139" id="token-17-12" morph="none" pos="punct" start_char="2139">.</TOKEN>
+<TRANSLATED_TEXT>rapidly reduced viral load to day seven in seronegative patients.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2289" id="segment-18" start_char="2141">
+<ORIGINAL_TEXT>Asimismo, los pacientes con niveles de virus más altos al comienzo del ensayo tuvieron reducciones correspondientemente mayores en la carga viral con</ORIGINAL_TEXT>
+<TOKEN end_char="2148" id="token-18-0" morph="none" pos="word" start_char="2141">Asimismo</TOKEN>
+<TOKEN end_char="2149" id="token-18-1" morph="none" pos="punct" start_char="2149">,</TOKEN>
+<TOKEN end_char="2153" id="token-18-2" morph="none" pos="word" start_char="2151">los</TOKEN>
+<TOKEN end_char="2163" id="token-18-3" morph="none" pos="word" start_char="2155">pacientes</TOKEN>
+<TOKEN end_char="2167" id="token-18-4" morph="none" pos="word" start_char="2165">con</TOKEN>
+<TOKEN end_char="2175" id="token-18-5" morph="none" pos="word" start_char="2169">niveles</TOKEN>
+<TOKEN end_char="2178" id="token-18-6" morph="none" pos="word" start_char="2177">de</TOKEN>
+<TOKEN end_char="2184" id="token-18-7" morph="none" pos="word" start_char="2180">virus</TOKEN>
+<TOKEN end_char="2188" id="token-18-8" morph="none" pos="word" start_char="2186">más</TOKEN>
+<TOKEN end_char="2194" id="token-18-9" morph="none" pos="word" start_char="2190">altos</TOKEN>
+<TOKEN end_char="2197" id="token-18-10" morph="none" pos="word" start_char="2196">al</TOKEN>
+<TOKEN end_char="2206" id="token-18-11" morph="none" pos="word" start_char="2199">comienzo</TOKEN>
+<TOKEN end_char="2210" id="token-18-12" morph="none" pos="word" start_char="2208">del</TOKEN>
+<TOKEN end_char="2217" id="token-18-13" morph="none" pos="word" start_char="2212">ensayo</TOKEN>
+<TOKEN end_char="2226" id="token-18-14" morph="none" pos="word" start_char="2219">tuvieron</TOKEN>
+<TOKEN end_char="2238" id="token-18-15" morph="none" pos="word" start_char="2228">reducciones</TOKEN>
+<TOKEN end_char="2259" id="token-18-16" morph="none" pos="word" start_char="2240">correspondientemente</TOKEN>
+<TOKEN end_char="2267" id="token-18-17" morph="none" pos="word" start_char="2261">mayores</TOKEN>
+<TOKEN end_char="2270" id="token-18-18" morph="none" pos="word" start_char="2269">en</TOKEN>
+<TOKEN end_char="2273" id="token-18-19" morph="none" pos="word" start_char="2272">la</TOKEN>
+<TOKEN end_char="2279" id="token-18-20" morph="none" pos="word" start_char="2275">carga</TOKEN>
+<TOKEN end_char="2285" id="token-18-21" morph="none" pos="word" start_char="2281">viral</TOKEN>
+<TOKEN end_char="2289" id="token-18-22" morph="none" pos="word" start_char="2287">con</TOKEN>
+<TRANSLATED_TEXT>Similarly, patients with higher virus levels at the beginning of the trial had correspondingly higher reductions in viral load with</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2300" id="segment-19" start_char="2292">
+<ORIGINAL_TEXT>REGN-COV2</ORIGINAL_TEXT>
+<TOKEN end_char="2300" id="token-19-0" morph="none" pos="unknown" start_char="2292">REGN-COV2</TOKEN>
+</SEG>
+<SEG end_char="2347" id="segment-20" start_char="2303">
+<ORIGINAL_TEXT>, que se administra por infusión intravenosa.</ORIGINAL_TEXT>
+<TOKEN end_char="2303" id="token-20-0" morph="none" pos="punct" start_char="2303">,</TOKEN>
+<TOKEN end_char="2307" id="token-20-1" morph="none" pos="word" start_char="2305">que</TOKEN>
+<TOKEN end_char="2310" id="token-20-2" morph="none" pos="word" start_char="2309">se</TOKEN>
+<TOKEN end_char="2321" id="token-20-3" morph="none" pos="word" start_char="2312">administra</TOKEN>
+<TOKEN end_char="2325" id="token-20-4" morph="none" pos="word" start_char="2323">por</TOKEN>
+<TOKEN end_char="2334" id="token-20-5" morph="none" pos="word" start_char="2327">infusión</TOKEN>
+<TOKEN end_char="2346" id="token-20-6" morph="none" pos="word" start_char="2336">intravenosa</TOKEN>
+<TOKEN end_char="2347" id="token-20-7" morph="none" pos="punct" start_char="2347">.</TOKEN>
+<TRANSLATED_TEXT>, which is given by intravenous infusion.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2394" id="segment-21" start_char="2350">
+<ORIGINAL_TEXT>Porque salud necesitamos todos... ConSalud.es</ORIGINAL_TEXT>
+<TOKEN end_char="2355" id="token-21-0" morph="none" pos="word" start_char="2350">Porque</TOKEN>
+<TOKEN end_char="2361" id="token-21-1" morph="none" pos="word" start_char="2357">salud</TOKEN>
+<TOKEN end_char="2373" id="token-21-2" morph="none" pos="word" start_char="2363">necesitamos</TOKEN>
+<TOKEN end_char="2379" id="token-21-3" morph="none" pos="word" start_char="2375">todos</TOKEN>
+<TOKEN end_char="2382" id="token-21-4" morph="none" pos="punct" start_char="2380">...</TOKEN>
+<TOKEN end_char="2394" id="token-21-5" morph="none" pos="unknown" start_char="2384">ConSalud.es</TOKEN>
+<TRANSLATED_TEXT>Because health we all need...</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2412" id="segment-22" start_char="2397">
+<ORIGINAL_TEXT>Te recomendamos:</ORIGINAL_TEXT>
+<TOKEN end_char="2398" id="token-22-0" morph="none" pos="word" start_char="2397">Te</TOKEN>
+<TOKEN end_char="2411" id="token-22-1" morph="none" pos="word" start_char="2400">recomendamos</TOKEN>
+<TOKEN end_char="2412" id="token-22-2" morph="none" pos="punct" start_char="2412">:</TOKEN>
+<TRANSLATED_TEXT>We recommend:</TRANSLATED_TEXT><DETECTED_LANGUAGE>pt</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2494" id="segment-23" start_char="2415">
+<ORIGINAL_TEXT>Qiagen lanza nuevas herramientas para rastrear cepas y mutaciones de coronavirus</ORIGINAL_TEXT>
+<TOKEN end_char="2420" id="token-23-0" morph="none" pos="word" start_char="2415">Qiagen</TOKEN>
+<TOKEN end_char="2426" id="token-23-1" morph="none" pos="word" start_char="2422">lanza</TOKEN>
+<TOKEN end_char="2433" id="token-23-2" morph="none" pos="word" start_char="2428">nuevas</TOKEN>
+<TOKEN end_char="2446" id="token-23-3" morph="none" pos="word" start_char="2435">herramientas</TOKEN>
+<TOKEN end_char="2451" id="token-23-4" morph="none" pos="word" start_char="2448">para</TOKEN>
+<TOKEN end_char="2460" id="token-23-5" morph="none" pos="word" start_char="2453">rastrear</TOKEN>
+<TOKEN end_char="2466" id="token-23-6" morph="none" pos="word" start_char="2462">cepas</TOKEN>
+<TOKEN end_char="2468" id="token-23-7" morph="none" pos="word" start_char="2468">y</TOKEN>
+<TOKEN end_char="2479" id="token-23-8" morph="none" pos="word" start_char="2470">mutaciones</TOKEN>
+<TOKEN end_char="2482" id="token-23-9" morph="none" pos="word" start_char="2481">de</TOKEN>
+<TOKEN end_char="2494" id="token-23-10" morph="none" pos="word" start_char="2484">coronavirus</TOKEN>
+<TRANSLATED_TEXT>Qiagen launches new tools to track coronavirus strains and mutations</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2583" id="segment-24" start_char="2498">
+<ORIGINAL_TEXT>Verily de Alphabet abre su propio laboratorio para acelerar las pruebas de coronavirus</ORIGINAL_TEXT>
+<TOKEN end_char="2503" id="token-24-0" morph="none" pos="word" start_char="2498">Verily</TOKEN>
+<TOKEN end_char="2506" id="token-24-1" morph="none" pos="word" start_char="2505">de</TOKEN>
+<TOKEN end_char="2515" id="token-24-2" morph="none" pos="word" start_char="2508">Alphabet</TOKEN>
+<TOKEN end_char="2520" id="token-24-3" morph="none" pos="word" start_char="2517">abre</TOKEN>
+<TOKEN end_char="2523" id="token-24-4" morph="none" pos="word" start_char="2522">su</TOKEN>
+<TOKEN end_char="2530" id="token-24-5" morph="none" pos="word" start_char="2525">propio</TOKEN>
+<TOKEN end_char="2542" id="token-24-6" morph="none" pos="word" start_char="2532">laboratorio</TOKEN>
+<TOKEN end_char="2547" id="token-24-7" morph="none" pos="word" start_char="2544">para</TOKEN>
+<TOKEN end_char="2556" id="token-24-8" morph="none" pos="word" start_char="2549">acelerar</TOKEN>
+<TOKEN end_char="2560" id="token-24-9" morph="none" pos="word" start_char="2558">las</TOKEN>
+<TOKEN end_char="2568" id="token-24-10" morph="none" pos="word" start_char="2562">pruebas</TOKEN>
+<TOKEN end_char="2571" id="token-24-11" morph="none" pos="word" start_char="2570">de</TOKEN>
+<TOKEN end_char="2583" id="token-24-12" morph="none" pos="word" start_char="2573">coronavirus</TOKEN>
+<TRANSLATED_TEXT>North of Alphabet opens its own lab to speed up coronavirus testing</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

@@ -1,0 +1,403 @@
+<LCTL_TEXT lang="spa">
+<DOC grammar="none" id="L0C04CAB3" lang="spa" raw_text_char_length="1997" raw_text_md5="1f52ebad68341310a3dc298e48f89e30" tokenization="tokenization_parameters.v5.0">
+<TEXT>
+<SEG end_char="79" id="segment-0" start_char="1">
+<ORIGINAL_TEXT>Коронавирус появился в Италии еще летом 2019 года, а не в феврале-2020 — ученые</ORIGINAL_TEXT>
+<TOKEN end_char="11" id="token-0-0" morph="none" pos="word" start_char="1">Коронавирус</TOKEN>
+<TOKEN end_char="20" id="token-0-1" morph="none" pos="word" start_char="13">появился</TOKEN>
+<TOKEN end_char="22" id="token-0-2" morph="none" pos="word" start_char="22">в</TOKEN>
+<TOKEN end_char="29" id="token-0-3" morph="none" pos="word" start_char="24">Италии</TOKEN>
+<TOKEN end_char="33" id="token-0-4" morph="none" pos="word" start_char="31">еще</TOKEN>
+<TOKEN end_char="39" id="token-0-5" morph="none" pos="word" start_char="35">летом</TOKEN>
+<TOKEN end_char="44" id="token-0-6" morph="none" pos="word" start_char="41">2019</TOKEN>
+<TOKEN end_char="49" id="token-0-7" morph="none" pos="word" start_char="46">года</TOKEN>
+<TOKEN end_char="50" id="token-0-8" morph="none" pos="punct" start_char="50">,</TOKEN>
+<TOKEN end_char="52" id="token-0-9" morph="none" pos="word" start_char="52">а</TOKEN>
+<TOKEN end_char="55" id="token-0-10" morph="none" pos="word" start_char="54">не</TOKEN>
+<TOKEN end_char="57" id="token-0-11" morph="none" pos="word" start_char="57">в</TOKEN>
+<TOKEN end_char="70" id="token-0-12" morph="none" pos="unknown" start_char="59">феврале-2020</TOKEN>
+<TOKEN end_char="72" id="token-0-13" morph="none" pos="punct" start_char="72">—</TOKEN>
+<TOKEN end_char="79" id="token-0-14" morph="none" pos="word" start_char="74">ученые</TOKEN>
+<TRANSLATED_TEXT>Coronavirus appeared in Italy as early as the summer of 2019, not in February-2020 - scientists</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="266" id="segment-1" start_char="83">
+<ORIGINAL_TEXT>Еще в сентябре 2019 года 14% добровольцев в Италии, принимавших участие в исследовании рака легких, имели антитела к новому коронавирусу, существовавшему в стране, вероятно, еще летом.</ORIGINAL_TEXT>
+<TOKEN end_char="85" id="token-1-0" morph="none" pos="word" start_char="83">Еще</TOKEN>
+<TOKEN end_char="87" id="token-1-1" morph="none" pos="word" start_char="87">в</TOKEN>
+<TOKEN end_char="96" id="token-1-2" morph="none" pos="word" start_char="89">сентябре</TOKEN>
+<TOKEN end_char="101" id="token-1-3" morph="none" pos="word" start_char="98">2019</TOKEN>
+<TOKEN end_char="106" id="token-1-4" morph="none" pos="word" start_char="103">года</TOKEN>
+<TOKEN end_char="109" id="token-1-5" morph="none" pos="word" start_char="108">14</TOKEN>
+<TOKEN end_char="110" id="token-1-6" morph="none" pos="punct" start_char="110">%</TOKEN>
+<TOKEN end_char="123" id="token-1-7" morph="none" pos="word" start_char="112">добровольцев</TOKEN>
+<TOKEN end_char="125" id="token-1-8" morph="none" pos="word" start_char="125">в</TOKEN>
+<TOKEN end_char="132" id="token-1-9" morph="none" pos="word" start_char="127">Италии</TOKEN>
+<TOKEN end_char="133" id="token-1-10" morph="none" pos="punct" start_char="133">,</TOKEN>
+<TOKEN end_char="145" id="token-1-11" morph="none" pos="word" start_char="135">принимавших</TOKEN>
+<TOKEN end_char="153" id="token-1-12" morph="none" pos="word" start_char="147">участие</TOKEN>
+<TOKEN end_char="155" id="token-1-13" morph="none" pos="word" start_char="155">в</TOKEN>
+<TOKEN end_char="168" id="token-1-14" morph="none" pos="word" start_char="157">исследовании</TOKEN>
+<TOKEN end_char="173" id="token-1-15" morph="none" pos="word" start_char="170">рака</TOKEN>
+<TOKEN end_char="180" id="token-1-16" morph="none" pos="word" start_char="175">легких</TOKEN>
+<TOKEN end_char="181" id="token-1-17" morph="none" pos="punct" start_char="181">,</TOKEN>
+<TOKEN end_char="187" id="token-1-18" morph="none" pos="word" start_char="183">имели</TOKEN>
+<TOKEN end_char="196" id="token-1-19" morph="none" pos="word" start_char="189">антитела</TOKEN>
+<TOKEN end_char="198" id="token-1-20" morph="none" pos="word" start_char="198">к</TOKEN>
+<TOKEN end_char="205" id="token-1-21" morph="none" pos="word" start_char="200">новому</TOKEN>
+<TOKEN end_char="218" id="token-1-22" morph="none" pos="word" start_char="207">коронавирусу</TOKEN>
+<TOKEN end_char="219" id="token-1-23" morph="none" pos="punct" start_char="219">,</TOKEN>
+<TOKEN end_char="235" id="token-1-24" morph="none" pos="word" start_char="221">существовавшему</TOKEN>
+<TOKEN end_char="237" id="token-1-25" morph="none" pos="word" start_char="237">в</TOKEN>
+<TOKEN end_char="244" id="token-1-26" morph="none" pos="word" start_char="239">стране</TOKEN>
+<TOKEN end_char="245" id="token-1-27" morph="none" pos="punct" start_char="245">,</TOKEN>
+<TOKEN end_char="254" id="token-1-28" morph="none" pos="word" start_char="247">вероятно</TOKEN>
+<TOKEN end_char="255" id="token-1-29" morph="none" pos="punct" start_char="255">,</TOKEN>
+<TOKEN end_char="259" id="token-1-30" morph="none" pos="word" start_char="257">еще</TOKEN>
+<TOKEN end_char="265" id="token-1-31" morph="none" pos="word" start_char="261">летом</TOKEN>
+<TOKEN end_char="266" id="token-1-32" morph="none" pos="punct" start_char="266">.</TOKEN>
+<TRANSLATED_TEXT>As of September 2019, 14% of volunteers in Italy who participated in lung cancer research had antibodies to the new coronavirus that existed in the country, probably as early as the summer.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="398" id="segment-2" start_char="269">
+<ORIGINAL_TEXT>Об этом пишет издание «Corriere della Sera» со ссылкой на данные исследования Национального института рака IRCCS Миланского фонда.</ORIGINAL_TEXT>
+<TOKEN end_char="270" id="token-2-0" morph="none" pos="word" start_char="269">Об</TOKEN>
+<TOKEN end_char="275" id="token-2-1" morph="none" pos="word" start_char="272">этом</TOKEN>
+<TOKEN end_char="281" id="token-2-2" morph="none" pos="word" start_char="277">пишет</TOKEN>
+<TOKEN end_char="289" id="token-2-3" morph="none" pos="word" start_char="283">издание</TOKEN>
+<TOKEN end_char="291" id="token-2-4" morph="none" pos="punct" start_char="291">«</TOKEN>
+<TOKEN end_char="299" id="token-2-5" morph="none" pos="word" start_char="292">Corriere</TOKEN>
+<TOKEN end_char="305" id="token-2-6" morph="none" pos="word" start_char="301">della</TOKEN>
+<TOKEN end_char="310" id="token-2-7" morph="none" pos="word" start_char="307">Sera</TOKEN>
+<TOKEN end_char="311" id="token-2-8" morph="none" pos="punct" start_char="311">»</TOKEN>
+<TOKEN end_char="314" id="token-2-9" morph="none" pos="word" start_char="313">со</TOKEN>
+<TOKEN end_char="322" id="token-2-10" morph="none" pos="word" start_char="316">ссылкой</TOKEN>
+<TOKEN end_char="325" id="token-2-11" morph="none" pos="word" start_char="324">на</TOKEN>
+<TOKEN end_char="332" id="token-2-12" morph="none" pos="word" start_char="327">данные</TOKEN>
+<TOKEN end_char="345" id="token-2-13" morph="none" pos="word" start_char="334">исследования</TOKEN>
+<TOKEN end_char="359" id="token-2-14" morph="none" pos="word" start_char="347">Национального</TOKEN>
+<TOKEN end_char="369" id="token-2-15" morph="none" pos="word" start_char="361">института</TOKEN>
+<TOKEN end_char="374" id="token-2-16" morph="none" pos="word" start_char="371">рака</TOKEN>
+<TOKEN end_char="380" id="token-2-17" morph="none" pos="word" start_char="376">IRCCS</TOKEN>
+<TOKEN end_char="391" id="token-2-18" morph="none" pos="word" start_char="382">Миланского</TOKEN>
+<TOKEN end_char="397" id="token-2-19" morph="none" pos="word" start_char="393">фонда</TOKEN>
+<TOKEN end_char="398" id="token-2-20" morph="none" pos="punct" start_char="398">.</TOKEN>
+<TRANSLATED_TEXT>According to Corriere della Sera, the study was carried out by the National Cancer Institute of the IRCCS Foundation in Milan.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="754" id="segment-3" start_char="401">
+<ORIGINAL_TEXT>«Мы знали, что все началось не в Китае в декабре, но теперь исследования, опубликованные в ноябре с подписью директора Национального института рака в Милане Джованни Аполоне, сообщают нам нечто совершенно неожиданное: в сентябре 2019 года 14% выборки добровольцев, которые приняли участие в исследовании рака легких, имели антитела к новому коронавирусу.</ORIGINAL_TEXT>
+<TOKEN end_char="401" id="token-3-0" morph="none" pos="punct" start_char="401">«</TOKEN>
+<TOKEN end_char="403" id="token-3-1" morph="none" pos="word" start_char="402">Мы</TOKEN>
+<TOKEN end_char="409" id="token-3-2" morph="none" pos="word" start_char="405">знали</TOKEN>
+<TOKEN end_char="410" id="token-3-3" morph="none" pos="punct" start_char="410">,</TOKEN>
+<TOKEN end_char="414" id="token-3-4" morph="none" pos="word" start_char="412">что</TOKEN>
+<TOKEN end_char="418" id="token-3-5" morph="none" pos="word" start_char="416">все</TOKEN>
+<TOKEN end_char="427" id="token-3-6" morph="none" pos="word" start_char="420">началось</TOKEN>
+<TOKEN end_char="430" id="token-3-7" morph="none" pos="word" start_char="429">не</TOKEN>
+<TOKEN end_char="432" id="token-3-8" morph="none" pos="word" start_char="432">в</TOKEN>
+<TOKEN end_char="438" id="token-3-9" morph="none" pos="word" start_char="434">Китае</TOKEN>
+<TOKEN end_char="440" id="token-3-10" morph="none" pos="word" start_char="440">в</TOKEN>
+<TOKEN end_char="448" id="token-3-11" morph="none" pos="word" start_char="442">декабре</TOKEN>
+<TOKEN end_char="449" id="token-3-12" morph="none" pos="punct" start_char="449">,</TOKEN>
+<TOKEN end_char="452" id="token-3-13" morph="none" pos="word" start_char="451">но</TOKEN>
+<TOKEN end_char="459" id="token-3-14" morph="none" pos="word" start_char="454">теперь</TOKEN>
+<TOKEN end_char="472" id="token-3-15" morph="none" pos="word" start_char="461">исследования</TOKEN>
+<TOKEN end_char="473" id="token-3-16" morph="none" pos="punct" start_char="473">,</TOKEN>
+<TOKEN end_char="488" id="token-3-17" morph="none" pos="word" start_char="475">опубликованные</TOKEN>
+<TOKEN end_char="490" id="token-3-18" morph="none" pos="word" start_char="490">в</TOKEN>
+<TOKEN end_char="497" id="token-3-19" morph="none" pos="word" start_char="492">ноябре</TOKEN>
+<TOKEN end_char="499" id="token-3-20" morph="none" pos="word" start_char="499">с</TOKEN>
+<TOKEN end_char="508" id="token-3-21" morph="none" pos="word" start_char="501">подписью</TOKEN>
+<TOKEN end_char="518" id="token-3-22" morph="none" pos="word" start_char="510">директора</TOKEN>
+<TOKEN end_char="532" id="token-3-23" morph="none" pos="word" start_char="520">Национального</TOKEN>
+<TOKEN end_char="542" id="token-3-24" morph="none" pos="word" start_char="534">института</TOKEN>
+<TOKEN end_char="547" id="token-3-25" morph="none" pos="word" start_char="544">рака</TOKEN>
+<TOKEN end_char="549" id="token-3-26" morph="none" pos="word" start_char="549">в</TOKEN>
+<TOKEN end_char="556" id="token-3-27" morph="none" pos="word" start_char="551">Милане</TOKEN>
+<TOKEN end_char="565" id="token-3-28" morph="none" pos="word" start_char="558">Джованни</TOKEN>
+<TOKEN end_char="573" id="token-3-29" morph="none" pos="word" start_char="567">Аполоне</TOKEN>
+<TOKEN end_char="574" id="token-3-30" morph="none" pos="punct" start_char="574">,</TOKEN>
+<TOKEN end_char="583" id="token-3-31" morph="none" pos="word" start_char="576">сообщают</TOKEN>
+<TOKEN end_char="587" id="token-3-32" morph="none" pos="word" start_char="585">нам</TOKEN>
+<TOKEN end_char="593" id="token-3-33" morph="none" pos="word" start_char="589">нечто</TOKEN>
+<TOKEN end_char="604" id="token-3-34" morph="none" pos="word" start_char="595">совершенно</TOKEN>
+<TOKEN end_char="616" id="token-3-35" morph="none" pos="word" start_char="606">неожиданное</TOKEN>
+<TOKEN end_char="617" id="token-3-36" morph="none" pos="punct" start_char="617">:</TOKEN>
+<TOKEN end_char="619" id="token-3-37" morph="none" pos="word" start_char="619">в</TOKEN>
+<TOKEN end_char="628" id="token-3-38" morph="none" pos="word" start_char="621">сентябре</TOKEN>
+<TOKEN end_char="633" id="token-3-39" morph="none" pos="word" start_char="630">2019</TOKEN>
+<TOKEN end_char="638" id="token-3-40" morph="none" pos="word" start_char="635">года</TOKEN>
+<TOKEN end_char="641" id="token-3-41" morph="none" pos="word" start_char="640">14</TOKEN>
+<TOKEN end_char="642" id="token-3-42" morph="none" pos="punct" start_char="642">%</TOKEN>
+<TOKEN end_char="650" id="token-3-43" morph="none" pos="word" start_char="644">выборки</TOKEN>
+<TOKEN end_char="663" id="token-3-44" morph="none" pos="word" start_char="652">добровольцев</TOKEN>
+<TOKEN end_char="664" id="token-3-45" morph="none" pos="punct" start_char="664">,</TOKEN>
+<TOKEN end_char="672" id="token-3-46" morph="none" pos="word" start_char="666">которые</TOKEN>
+<TOKEN end_char="680" id="token-3-47" morph="none" pos="word" start_char="674">приняли</TOKEN>
+<TOKEN end_char="688" id="token-3-48" morph="none" pos="word" start_char="682">участие</TOKEN>
+<TOKEN end_char="690" id="token-3-49" morph="none" pos="word" start_char="690">в</TOKEN>
+<TOKEN end_char="703" id="token-3-50" morph="none" pos="word" start_char="692">исследовании</TOKEN>
+<TOKEN end_char="708" id="token-3-51" morph="none" pos="word" start_char="705">рака</TOKEN>
+<TOKEN end_char="715" id="token-3-52" morph="none" pos="word" start_char="710">легких</TOKEN>
+<TOKEN end_char="716" id="token-3-53" morph="none" pos="punct" start_char="716">,</TOKEN>
+<TOKEN end_char="722" id="token-3-54" morph="none" pos="word" start_char="718">имели</TOKEN>
+<TOKEN end_char="731" id="token-3-55" morph="none" pos="word" start_char="724">антитела</TOKEN>
+<TOKEN end_char="733" id="token-3-56" morph="none" pos="word" start_char="733">к</TOKEN>
+<TOKEN end_char="740" id="token-3-57" morph="none" pos="word" start_char="735">новому</TOKEN>
+<TOKEN end_char="753" id="token-3-58" morph="none" pos="word" start_char="742">коронавирусу</TOKEN>
+<TOKEN end_char="754" id="token-3-59" morph="none" pos="punct" start_char="754">.</TOKEN>
+<TRANSLATED_TEXT>We knew that it didn 't start in China in December, but now studies published in November under the signature of Giovanni Apollo, director of the National Cancer Institute in Milan, tell us something quite unexpected: in September 2019, 14 percent of a sample of volunteers who participated in lung cancer research had antibodies to the new coronavirus.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="874" id="segment-4" start_char="756">
+<ORIGINAL_TEXT>Другими словами, SARS-Cov-2 циркулировал в Италии задолго до февраля и, вероятно, с лета 2019 года», — отметили ученые.</ORIGINAL_TEXT>
+<TOKEN end_char="762" id="token-4-0" morph="none" pos="word" start_char="756">Другими</TOKEN>
+<TOKEN end_char="770" id="token-4-1" morph="none" pos="word" start_char="764">словами</TOKEN>
+<TOKEN end_char="771" id="token-4-2" morph="none" pos="punct" start_char="771">,</TOKEN>
+<TOKEN end_char="782" id="token-4-3" morph="none" pos="unknown" start_char="773">SARS-Cov-2</TOKEN>
+<TOKEN end_char="795" id="token-4-4" morph="none" pos="word" start_char="784">циркулировал</TOKEN>
+<TOKEN end_char="797" id="token-4-5" morph="none" pos="word" start_char="797">в</TOKEN>
+<TOKEN end_char="804" id="token-4-6" morph="none" pos="word" start_char="799">Италии</TOKEN>
+<TOKEN end_char="812" id="token-4-7" morph="none" pos="word" start_char="806">задолго</TOKEN>
+<TOKEN end_char="815" id="token-4-8" morph="none" pos="word" start_char="814">до</TOKEN>
+<TOKEN end_char="823" id="token-4-9" morph="none" pos="word" start_char="817">февраля</TOKEN>
+<TOKEN end_char="825" id="token-4-10" morph="none" pos="word" start_char="825">и</TOKEN>
+<TOKEN end_char="826" id="token-4-11" morph="none" pos="punct" start_char="826">,</TOKEN>
+<TOKEN end_char="835" id="token-4-12" morph="none" pos="word" start_char="828">вероятно</TOKEN>
+<TOKEN end_char="836" id="token-4-13" morph="none" pos="punct" start_char="836">,</TOKEN>
+<TOKEN end_char="838" id="token-4-14" morph="none" pos="word" start_char="838">с</TOKEN>
+<TOKEN end_char="843" id="token-4-15" morph="none" pos="word" start_char="840">лета</TOKEN>
+<TOKEN end_char="848" id="token-4-16" morph="none" pos="word" start_char="845">2019</TOKEN>
+<TOKEN end_char="853" id="token-4-17" morph="none" pos="word" start_char="850">года</TOKEN>
+<TOKEN end_char="855" id="token-4-18" morph="none" pos="punct" start_char="854">»,</TOKEN>
+<TOKEN end_char="857" id="token-4-19" morph="none" pos="punct" start_char="857">—</TOKEN>
+<TOKEN end_char="866" id="token-4-20" morph="none" pos="word" start_char="859">отметили</TOKEN>
+<TOKEN end_char="873" id="token-4-21" morph="none" pos="word" start_char="868">ученые</TOKEN>
+<TOKEN end_char="874" id="token-4-22" morph="none" pos="punct" start_char="874">.</TOKEN>
+<TRANSLATED_TEXT>In other words, SARS-Cov-2 circulated in Italy well before February and probably since the summer of 2019, "scientists noted.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="927" id="segment-5" start_char="877">
+<ORIGINAL_TEXT>Так, инфекция была обнаружена в 13 регионах страны.</ORIGINAL_TEXT>
+<TOKEN end_char="879" id="token-5-0" morph="none" pos="word" start_char="877">Так</TOKEN>
+<TOKEN end_char="880" id="token-5-1" morph="none" pos="punct" start_char="880">,</TOKEN>
+<TOKEN end_char="889" id="token-5-2" morph="none" pos="word" start_char="882">инфекция</TOKEN>
+<TOKEN end_char="894" id="token-5-3" morph="none" pos="word" start_char="891">была</TOKEN>
+<TOKEN end_char="905" id="token-5-4" morph="none" pos="word" start_char="896">обнаружена</TOKEN>
+<TOKEN end_char="907" id="token-5-5" morph="none" pos="word" start_char="907">в</TOKEN>
+<TOKEN end_char="910" id="token-5-6" morph="none" pos="word" start_char="909">13</TOKEN>
+<TOKEN end_char="919" id="token-5-7" morph="none" pos="word" start_char="912">регионах</TOKEN>
+<TOKEN end_char="926" id="token-5-8" morph="none" pos="word" start_char="921">страны</TOKEN>
+<TOKEN end_char="927" id="token-5-9" morph="none" pos="punct" start_char="927">.</TOKEN>
+<TRANSLATED_TEXT>The infection was detected in 13 regions of the country.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="989" id="segment-6" start_char="929">
+<ORIGINAL_TEXT>В частности, в Ломбардии, Пьемонте, Лацио, Тоскане и Венетто.</ORIGINAL_TEXT>
+<TOKEN end_char="929" id="token-6-0" morph="none" pos="word" start_char="929">В</TOKEN>
+<TOKEN end_char="939" id="token-6-1" morph="none" pos="word" start_char="931">частности</TOKEN>
+<TOKEN end_char="940" id="token-6-2" morph="none" pos="punct" start_char="940">,</TOKEN>
+<TOKEN end_char="942" id="token-6-3" morph="none" pos="word" start_char="942">в</TOKEN>
+<TOKEN end_char="952" id="token-6-4" morph="none" pos="word" start_char="944">Ломбардии</TOKEN>
+<TOKEN end_char="953" id="token-6-5" morph="none" pos="punct" start_char="953">,</TOKEN>
+<TOKEN end_char="962" id="token-6-6" morph="none" pos="word" start_char="955">Пьемонте</TOKEN>
+<TOKEN end_char="963" id="token-6-7" morph="none" pos="punct" start_char="963">,</TOKEN>
+<TOKEN end_char="969" id="token-6-8" morph="none" pos="word" start_char="965">Лацио</TOKEN>
+<TOKEN end_char="970" id="token-6-9" morph="none" pos="punct" start_char="970">,</TOKEN>
+<TOKEN end_char="978" id="token-6-10" morph="none" pos="word" start_char="972">Тоскане</TOKEN>
+<TOKEN end_char="980" id="token-6-11" morph="none" pos="word" start_char="980">и</TOKEN>
+<TOKEN end_char="988" id="token-6-12" morph="none" pos="word" start_char="982">Венетто</TOKEN>
+<TOKEN end_char="989" id="token-6-13" morph="none" pos="punct" start_char="989">.</TOKEN>
+<TRANSLATED_TEXT>In particular, in Lombardy, Piedmont, Lazio, Tuscany and Veneto.</TRANSLATED_TEXT><DETECTED_LANGUAGE>bg</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1103" id="segment-7" start_char="991">
+<ORIGINAL_TEXT>Все началось в контексте скрининга рака легких «Улыбка», который проходил с сентября 2019 года по март 2020 года.</ORIGINAL_TEXT>
+<TOKEN end_char="993" id="token-7-0" morph="none" pos="word" start_char="991">Все</TOKEN>
+<TOKEN end_char="1002" id="token-7-1" morph="none" pos="word" start_char="995">началось</TOKEN>
+<TOKEN end_char="1004" id="token-7-2" morph="none" pos="word" start_char="1004">в</TOKEN>
+<TOKEN end_char="1014" id="token-7-3" morph="none" pos="word" start_char="1006">контексте</TOKEN>
+<TOKEN end_char="1024" id="token-7-4" morph="none" pos="word" start_char="1016">скрининга</TOKEN>
+<TOKEN end_char="1029" id="token-7-5" morph="none" pos="word" start_char="1026">рака</TOKEN>
+<TOKEN end_char="1036" id="token-7-6" morph="none" pos="word" start_char="1031">легких</TOKEN>
+<TOKEN end_char="1038" id="token-7-7" morph="none" pos="punct" start_char="1038">«</TOKEN>
+<TOKEN end_char="1044" id="token-7-8" morph="none" pos="word" start_char="1039">Улыбка</TOKEN>
+<TOKEN end_char="1046" id="token-7-9" morph="none" pos="punct" start_char="1045">»,</TOKEN>
+<TOKEN end_char="1054" id="token-7-10" morph="none" pos="word" start_char="1048">который</TOKEN>
+<TOKEN end_char="1063" id="token-7-11" morph="none" pos="word" start_char="1056">проходил</TOKEN>
+<TOKEN end_char="1065" id="token-7-12" morph="none" pos="word" start_char="1065">с</TOKEN>
+<TOKEN end_char="1074" id="token-7-13" morph="none" pos="word" start_char="1067">сентября</TOKEN>
+<TOKEN end_char="1079" id="token-7-14" morph="none" pos="word" start_char="1076">2019</TOKEN>
+<TOKEN end_char="1084" id="token-7-15" morph="none" pos="word" start_char="1081">года</TOKEN>
+<TOKEN end_char="1087" id="token-7-16" morph="none" pos="word" start_char="1086">по</TOKEN>
+<TOKEN end_char="1092" id="token-7-17" morph="none" pos="word" start_char="1089">март</TOKEN>
+<TOKEN end_char="1097" id="token-7-18" morph="none" pos="word" start_char="1094">2020</TOKEN>
+<TOKEN end_char="1102" id="token-7-19" morph="none" pos="word" start_char="1099">года</TOKEN>
+<TOKEN end_char="1103" id="token-7-20" morph="none" pos="punct" start_char="1103">.</TOKEN>
+<TRANSLATED_TEXT>It began in the context of screening for lung cancer Smile, which took place from September 2019 to March 2020.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1143" id="segment-8" start_char="1105">
+<ORIGINAL_TEXT>В нем приняли участие 959 добровольцев.</ORIGINAL_TEXT>
+<TOKEN end_char="1105" id="token-8-0" morph="none" pos="word" start_char="1105">В</TOKEN>
+<TOKEN end_char="1109" id="token-8-1" morph="none" pos="word" start_char="1107">нем</TOKEN>
+<TOKEN end_char="1117" id="token-8-2" morph="none" pos="word" start_char="1111">приняли</TOKEN>
+<TOKEN end_char="1125" id="token-8-3" morph="none" pos="word" start_char="1119">участие</TOKEN>
+<TOKEN end_char="1129" id="token-8-4" morph="none" pos="word" start_char="1127">959</TOKEN>
+<TOKEN end_char="1142" id="token-8-5" morph="none" pos="word" start_char="1131">добровольцев</TOKEN>
+<TOKEN end_char="1143" id="token-8-6" morph="none" pos="punct" start_char="1143">.</TOKEN>
+<TRANSLATED_TEXT>959 volunteers participated.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1228" id="segment-9" start_char="1145">
+<ORIGINAL_TEXT>Участникам проводили спиральную компьютерную томографию легких и брали анализ крови.</ORIGINAL_TEXT>
+<TOKEN end_char="1154" id="token-9-0" morph="none" pos="word" start_char="1145">Участникам</TOKEN>
+<TOKEN end_char="1164" id="token-9-1" morph="none" pos="word" start_char="1156">проводили</TOKEN>
+<TOKEN end_char="1175" id="token-9-2" morph="none" pos="word" start_char="1166">спиральную</TOKEN>
+<TOKEN end_char="1188" id="token-9-3" morph="none" pos="word" start_char="1177">компьютерную</TOKEN>
+<TOKEN end_char="1199" id="token-9-4" morph="none" pos="word" start_char="1190">томографию</TOKEN>
+<TOKEN end_char="1206" id="token-9-5" morph="none" pos="word" start_char="1201">легких</TOKEN>
+<TOKEN end_char="1208" id="token-9-6" morph="none" pos="word" start_char="1208">и</TOKEN>
+<TOKEN end_char="1214" id="token-9-7" morph="none" pos="word" start_char="1210">брали</TOKEN>
+<TOKEN end_char="1221" id="token-9-8" morph="none" pos="word" start_char="1216">анализ</TOKEN>
+<TOKEN end_char="1227" id="token-9-9" morph="none" pos="word" start_char="1223">крови</TOKEN>
+<TOKEN end_char="1228" id="token-9-10" morph="none" pos="punct" start_char="1228">.</TOKEN>
+<TRANSLATED_TEXT>Participants were given a spiral computer tomography of the lungs and blood tests.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1339" id="segment-10" start_char="1230">
+<ORIGINAL_TEXT>111 образцов из 959 были положительными на иммуноглобулин G (16 случаев) или на иммуноглобулин M (97 случаев).</ORIGINAL_TEXT>
+<TOKEN end_char="1232" id="token-10-0" morph="none" pos="word" start_char="1230">111</TOKEN>
+<TOKEN end_char="1241" id="token-10-1" morph="none" pos="word" start_char="1234">образцов</TOKEN>
+<TOKEN end_char="1244" id="token-10-2" morph="none" pos="word" start_char="1243">из</TOKEN>
+<TOKEN end_char="1248" id="token-10-3" morph="none" pos="word" start_char="1246">959</TOKEN>
+<TOKEN end_char="1253" id="token-10-4" morph="none" pos="word" start_char="1250">были</TOKEN>
+<TOKEN end_char="1268" id="token-10-5" morph="none" pos="word" start_char="1255">положительными</TOKEN>
+<TOKEN end_char="1271" id="token-10-6" morph="none" pos="word" start_char="1270">на</TOKEN>
+<TOKEN end_char="1286" id="token-10-7" morph="none" pos="word" start_char="1273">иммуноглобулин</TOKEN>
+<TOKEN end_char="1288" id="token-10-8" morph="none" pos="word" start_char="1288">G</TOKEN>
+<TOKEN end_char="1290" id="token-10-9" morph="none" pos="punct" start_char="1290">(</TOKEN>
+<TOKEN end_char="1292" id="token-10-10" morph="none" pos="word" start_char="1291">16</TOKEN>
+<TOKEN end_char="1300" id="token-10-11" morph="none" pos="word" start_char="1294">случаев</TOKEN>
+<TOKEN end_char="1301" id="token-10-12" morph="none" pos="punct" start_char="1301">)</TOKEN>
+<TOKEN end_char="1305" id="token-10-13" morph="none" pos="word" start_char="1303">или</TOKEN>
+<TOKEN end_char="1308" id="token-10-14" morph="none" pos="word" start_char="1307">на</TOKEN>
+<TOKEN end_char="1323" id="token-10-15" morph="none" pos="word" start_char="1310">иммуноглобулин</TOKEN>
+<TOKEN end_char="1325" id="token-10-16" morph="none" pos="word" start_char="1325">M</TOKEN>
+<TOKEN end_char="1327" id="token-10-17" morph="none" pos="punct" start_char="1327">(</TOKEN>
+<TOKEN end_char="1329" id="token-10-18" morph="none" pos="word" start_char="1328">97</TOKEN>
+<TOKEN end_char="1337" id="token-10-19" morph="none" pos="word" start_char="1331">случаев</TOKEN>
+<TOKEN end_char="1339" id="token-10-20" morph="none" pos="punct" start_char="1338">).</TOKEN>
+<TRANSLATED_TEXT>111 samples of 959 were positive for immunoglobulin G (16 cases) or immunoglobulin M (97 cases).</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1617" id="segment-11" start_char="1342">
+<ORIGINAL_TEXT>Кроме того, уже в ноябре 2019 года многие врачи общей практики стали сообщать о появлении тяжелых респираторных симптомов у пожилых пациентов с атипичным двусторонним бронхитом, который при отсутствии новостей о новом вирусе был связан с агрессивными формами сезонного гриппа.</ORIGINAL_TEXT>
+<TOKEN end_char="1346" id="token-11-0" morph="none" pos="word" start_char="1342">Кроме</TOKEN>
+<TOKEN end_char="1351" id="token-11-1" morph="none" pos="word" start_char="1348">того</TOKEN>
+<TOKEN end_char="1352" id="token-11-2" morph="none" pos="punct" start_char="1352">,</TOKEN>
+<TOKEN end_char="1356" id="token-11-3" morph="none" pos="word" start_char="1354">уже</TOKEN>
+<TOKEN end_char="1358" id="token-11-4" morph="none" pos="word" start_char="1358">в</TOKEN>
+<TOKEN end_char="1365" id="token-11-5" morph="none" pos="word" start_char="1360">ноябре</TOKEN>
+<TOKEN end_char="1370" id="token-11-6" morph="none" pos="word" start_char="1367">2019</TOKEN>
+<TOKEN end_char="1375" id="token-11-7" morph="none" pos="word" start_char="1372">года</TOKEN>
+<TOKEN end_char="1382" id="token-11-8" morph="none" pos="word" start_char="1377">многие</TOKEN>
+<TOKEN end_char="1388" id="token-11-9" morph="none" pos="word" start_char="1384">врачи</TOKEN>
+<TOKEN end_char="1394" id="token-11-10" morph="none" pos="word" start_char="1390">общей</TOKEN>
+<TOKEN end_char="1403" id="token-11-11" morph="none" pos="word" start_char="1396">практики</TOKEN>
+<TOKEN end_char="1409" id="token-11-12" morph="none" pos="word" start_char="1405">стали</TOKEN>
+<TOKEN end_char="1418" id="token-11-13" morph="none" pos="word" start_char="1411">сообщать</TOKEN>
+<TOKEN end_char="1420" id="token-11-14" morph="none" pos="word" start_char="1420">о</TOKEN>
+<TOKEN end_char="1430" id="token-11-15" morph="none" pos="word" start_char="1422">появлении</TOKEN>
+<TOKEN end_char="1438" id="token-11-16" morph="none" pos="word" start_char="1432">тяжелых</TOKEN>
+<TOKEN end_char="1452" id="token-11-17" morph="none" pos="word" start_char="1440">респираторных</TOKEN>
+<TOKEN end_char="1462" id="token-11-18" morph="none" pos="word" start_char="1454">симптомов</TOKEN>
+<TOKEN end_char="1464" id="token-11-19" morph="none" pos="word" start_char="1464">у</TOKEN>
+<TOKEN end_char="1472" id="token-11-20" morph="none" pos="word" start_char="1466">пожилых</TOKEN>
+<TOKEN end_char="1482" id="token-11-21" morph="none" pos="word" start_char="1474">пациентов</TOKEN>
+<TOKEN end_char="1484" id="token-11-22" morph="none" pos="word" start_char="1484">с</TOKEN>
+<TOKEN end_char="1494" id="token-11-23" morph="none" pos="word" start_char="1486">атипичным</TOKEN>
+<TOKEN end_char="1507" id="token-11-24" morph="none" pos="word" start_char="1496">двусторонним</TOKEN>
+<TOKEN end_char="1517" id="token-11-25" morph="none" pos="word" start_char="1509">бронхитом</TOKEN>
+<TOKEN end_char="1518" id="token-11-26" morph="none" pos="punct" start_char="1518">,</TOKEN>
+<TOKEN end_char="1526" id="token-11-27" morph="none" pos="word" start_char="1520">который</TOKEN>
+<TOKEN end_char="1530" id="token-11-28" morph="none" pos="word" start_char="1528">при</TOKEN>
+<TOKEN end_char="1541" id="token-11-29" morph="none" pos="word" start_char="1532">отсутствии</TOKEN>
+<TOKEN end_char="1550" id="token-11-30" morph="none" pos="word" start_char="1543">новостей</TOKEN>
+<TOKEN end_char="1552" id="token-11-31" morph="none" pos="word" start_char="1552">о</TOKEN>
+<TOKEN end_char="1558" id="token-11-32" morph="none" pos="word" start_char="1554">новом</TOKEN>
+<TOKEN end_char="1565" id="token-11-33" morph="none" pos="word" start_char="1560">вирусе</TOKEN>
+<TOKEN end_char="1569" id="token-11-34" morph="none" pos="word" start_char="1567">был</TOKEN>
+<TOKEN end_char="1576" id="token-11-35" morph="none" pos="word" start_char="1571">связан</TOKEN>
+<TOKEN end_char="1578" id="token-11-36" morph="none" pos="word" start_char="1578">с</TOKEN>
+<TOKEN end_char="1591" id="token-11-37" morph="none" pos="word" start_char="1580">агрессивными</TOKEN>
+<TOKEN end_char="1599" id="token-11-38" morph="none" pos="word" start_char="1593">формами</TOKEN>
+<TOKEN end_char="1609" id="token-11-39" morph="none" pos="word" start_char="1601">сезонного</TOKEN>
+<TOKEN end_char="1616" id="token-11-40" morph="none" pos="word" start_char="1611">гриппа</TOKEN>
+<TOKEN end_char="1617" id="token-11-41" morph="none" pos="punct" start_char="1617">.</TOKEN>
+<TRANSLATED_TEXT>In addition, as early as November 2019, many general practitioners reported severe respiratory symptoms in elderly patients with atypical bilateral bronchitis, which, in the absence of news of the new virus, was associated with aggressive forms of seasonal influenza.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1844" id="segment-12" start_char="1620">
+<ORIGINAL_TEXT>«Теперь мы можем сказать с еще большей уверенностью: это был не грипп, а первые признаки Covid-19, новой болезни, которую никто не заметил до поздней тревоги, которую Китай запустил в конце декабря», — сообщили исследователи.</ORIGINAL_TEXT>
+<TOKEN end_char="1620" id="token-12-0" morph="none" pos="punct" start_char="1620">«</TOKEN>
+<TOKEN end_char="1626" id="token-12-1" morph="none" pos="word" start_char="1621">Теперь</TOKEN>
+<TOKEN end_char="1629" id="token-12-2" morph="none" pos="word" start_char="1628">мы</TOKEN>
+<TOKEN end_char="1635" id="token-12-3" morph="none" pos="word" start_char="1631">можем</TOKEN>
+<TOKEN end_char="1643" id="token-12-4" morph="none" pos="word" start_char="1637">сказать</TOKEN>
+<TOKEN end_char="1645" id="token-12-5" morph="none" pos="word" start_char="1645">с</TOKEN>
+<TOKEN end_char="1649" id="token-12-6" morph="none" pos="word" start_char="1647">еще</TOKEN>
+<TOKEN end_char="1657" id="token-12-7" morph="none" pos="word" start_char="1651">большей</TOKEN>
+<TOKEN end_char="1670" id="token-12-8" morph="none" pos="word" start_char="1659">уверенностью</TOKEN>
+<TOKEN end_char="1671" id="token-12-9" morph="none" pos="punct" start_char="1671">:</TOKEN>
+<TOKEN end_char="1675" id="token-12-10" morph="none" pos="word" start_char="1673">это</TOKEN>
+<TOKEN end_char="1679" id="token-12-11" morph="none" pos="word" start_char="1677">был</TOKEN>
+<TOKEN end_char="1682" id="token-12-12" morph="none" pos="word" start_char="1681">не</TOKEN>
+<TOKEN end_char="1688" id="token-12-13" morph="none" pos="word" start_char="1684">грипп</TOKEN>
+<TOKEN end_char="1689" id="token-12-14" morph="none" pos="punct" start_char="1689">,</TOKEN>
+<TOKEN end_char="1691" id="token-12-15" morph="none" pos="word" start_char="1691">а</TOKEN>
+<TOKEN end_char="1698" id="token-12-16" morph="none" pos="word" start_char="1693">первые</TOKEN>
+<TOKEN end_char="1707" id="token-12-17" morph="none" pos="word" start_char="1700">признаки</TOKEN>
+<TOKEN end_char="1716" id="token-12-18" morph="none" pos="unknown" start_char="1709">Covid-19</TOKEN>
+<TOKEN end_char="1717" id="token-12-19" morph="none" pos="punct" start_char="1717">,</TOKEN>
+<TOKEN end_char="1723" id="token-12-20" morph="none" pos="word" start_char="1719">новой</TOKEN>
+<TOKEN end_char="1731" id="token-12-21" morph="none" pos="word" start_char="1725">болезни</TOKEN>
+<TOKEN end_char="1732" id="token-12-22" morph="none" pos="punct" start_char="1732">,</TOKEN>
+<TOKEN end_char="1740" id="token-12-23" morph="none" pos="word" start_char="1734">которую</TOKEN>
+<TOKEN end_char="1746" id="token-12-24" morph="none" pos="word" start_char="1742">никто</TOKEN>
+<TOKEN end_char="1749" id="token-12-25" morph="none" pos="word" start_char="1748">не</TOKEN>
+<TOKEN end_char="1757" id="token-12-26" morph="none" pos="word" start_char="1751">заметил</TOKEN>
+<TOKEN end_char="1760" id="token-12-27" morph="none" pos="word" start_char="1759">до</TOKEN>
+<TOKEN end_char="1768" id="token-12-28" morph="none" pos="word" start_char="1762">поздней</TOKEN>
+<TOKEN end_char="1776" id="token-12-29" morph="none" pos="word" start_char="1770">тревоги</TOKEN>
+<TOKEN end_char="1777" id="token-12-30" morph="none" pos="punct" start_char="1777">,</TOKEN>
+<TOKEN end_char="1785" id="token-12-31" morph="none" pos="word" start_char="1779">которую</TOKEN>
+<TOKEN end_char="1791" id="token-12-32" morph="none" pos="word" start_char="1787">Китай</TOKEN>
+<TOKEN end_char="1800" id="token-12-33" morph="none" pos="word" start_char="1793">запустил</TOKEN>
+<TOKEN end_char="1802" id="token-12-34" morph="none" pos="word" start_char="1802">в</TOKEN>
+<TOKEN end_char="1808" id="token-12-35" morph="none" pos="word" start_char="1804">конце</TOKEN>
+<TOKEN end_char="1816" id="token-12-36" morph="none" pos="word" start_char="1810">декабря</TOKEN>
+<TOKEN end_char="1818" id="token-12-37" morph="none" pos="punct" start_char="1817">»,</TOKEN>
+<TOKEN end_char="1820" id="token-12-38" morph="none" pos="punct" start_char="1820">—</TOKEN>
+<TOKEN end_char="1829" id="token-12-39" morph="none" pos="word" start_char="1822">сообщили</TOKEN>
+<TOKEN end_char="1843" id="token-12-40" morph="none" pos="word" start_char="1831">исследователи</TOKEN>
+<TOKEN end_char="1844" id="token-12-41" morph="none" pos="punct" start_char="1844">.</TOKEN>
+<TRANSLATED_TEXT>"Now we can say with even greater certainty: it was not the flu, but the first signs of Covid-19, a new disease that no one noticed until the late alarm that China launched at the end of December," the researchers reported.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1910" id="segment-13" start_char="1847">
+<ORIGINAL_TEXT>Напомним, по данным на сегодня в Италии за сутки выявили 37 тыс.</ORIGINAL_TEXT>
+<TOKEN end_char="1854" id="token-13-0" morph="none" pos="word" start_char="1847">Напомним</TOKEN>
+<TOKEN end_char="1855" id="token-13-1" morph="none" pos="punct" start_char="1855">,</TOKEN>
+<TOKEN end_char="1858" id="token-13-2" morph="none" pos="word" start_char="1857">по</TOKEN>
+<TOKEN end_char="1865" id="token-13-3" morph="none" pos="word" start_char="1860">данным</TOKEN>
+<TOKEN end_char="1868" id="token-13-4" morph="none" pos="word" start_char="1867">на</TOKEN>
+<TOKEN end_char="1876" id="token-13-5" morph="none" pos="word" start_char="1870">сегодня</TOKEN>
+<TOKEN end_char="1878" id="token-13-6" morph="none" pos="word" start_char="1878">в</TOKEN>
+<TOKEN end_char="1885" id="token-13-7" morph="none" pos="word" start_char="1880">Италии</TOKEN>
+<TOKEN end_char="1888" id="token-13-8" morph="none" pos="word" start_char="1887">за</TOKEN>
+<TOKEN end_char="1894" id="token-13-9" morph="none" pos="word" start_char="1890">сутки</TOKEN>
+<TOKEN end_char="1902" id="token-13-10" morph="none" pos="word" start_char="1896">выявили</TOKEN>
+<TOKEN end_char="1905" id="token-13-11" morph="none" pos="word" start_char="1904">37</TOKEN>
+<TOKEN end_char="1909" id="token-13-12" morph="none" pos="word" start_char="1907">тыс</TOKEN>
+<TOKEN end_char="1910" id="token-13-13" morph="none" pos="punct" start_char="1910">.</TOKEN>
+<TRANSLATED_TEXT>We recall that according to data today in Italy for 24 hours identified 37 thousand.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1988" id="segment-14" start_char="1912">
+<ORIGINAL_TEXT>255 случаев заболевания, тогда как накануне этот показатель составлял 40 тыс.</ORIGINAL_TEXT>
+<TOKEN end_char="1914" id="token-14-0" morph="none" pos="word" start_char="1912">255</TOKEN>
+<TOKEN end_char="1922" id="token-14-1" morph="none" pos="word" start_char="1916">случаев</TOKEN>
+<TOKEN end_char="1934" id="token-14-2" morph="none" pos="word" start_char="1924">заболевания</TOKEN>
+<TOKEN end_char="1935" id="token-14-3" morph="none" pos="punct" start_char="1935">,</TOKEN>
+<TOKEN end_char="1941" id="token-14-4" morph="none" pos="word" start_char="1937">тогда</TOKEN>
+<TOKEN end_char="1945" id="token-14-5" morph="none" pos="word" start_char="1943">как</TOKEN>
+<TOKEN end_char="1954" id="token-14-6" morph="none" pos="word" start_char="1947">накануне</TOKEN>
+<TOKEN end_char="1959" id="token-14-7" morph="none" pos="word" start_char="1956">этот</TOKEN>
+<TOKEN end_char="1970" id="token-14-8" morph="none" pos="word" start_char="1961">показатель</TOKEN>
+<TOKEN end_char="1980" id="token-14-9" morph="none" pos="word" start_char="1972">составлял</TOKEN>
+<TOKEN end_char="1983" id="token-14-10" morph="none" pos="word" start_char="1982">40</TOKEN>
+<TOKEN end_char="1987" id="token-14-11" morph="none" pos="word" start_char="1985">тыс</TOKEN>
+<TOKEN end_char="1988" id="token-14-12" morph="none" pos="punct" start_char="1988">.</TOKEN>
+<TRANSLATED_TEXT>255 cases, compared with 40,000 the previous day.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1993" id="segment-15" start_char="1990">
+<ORIGINAL_TEXT>092.</ORIGINAL_TEXT>
+<TOKEN end_char="1992" id="token-15-0" morph="none" pos="word" start_char="1990">092</TOKEN>
+<TOKEN end_char="1993" id="token-15-1" morph="none" pos="punct" start_char="1993">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

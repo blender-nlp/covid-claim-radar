@@ -1,0 +1,143 @@
+<LCTL_TEXT lang="spa">
+<DOC grammar="none" id="L0C04ATQR" lang="spa" raw_text_char_length="559" raw_text_md5="d7ec9de01388cbb654610172331c6724" tokenization="tokenization_parameters.v5.0">
+<TEXT>
+<SEG end_char="35" id="segment-0" start_char="1">
+<ORIGINAL_TEXT>Are masks mandatory on the streets?</ORIGINAL_TEXT>
+<TOKEN end_char="3" id="token-0-0" morph="none" pos="word" start_char="1">Are</TOKEN>
+<TOKEN end_char="9" id="token-0-1" morph="none" pos="word" start_char="5">masks</TOKEN>
+<TOKEN end_char="19" id="token-0-2" morph="none" pos="word" start_char="11">mandatory</TOKEN>
+<TOKEN end_char="22" id="token-0-3" morph="none" pos="word" start_char="21">on</TOKEN>
+<TOKEN end_char="26" id="token-0-4" morph="none" pos="word" start_char="24">the</TOKEN>
+<TOKEN end_char="34" id="token-0-5" morph="none" pos="word" start_char="28">streets</TOKEN>
+<TOKEN end_char="35" id="token-0-6" morph="none" pos="punct" start_char="35">?</TOKEN>
+</SEG>
+<SEG end_char="257" id="segment-1" start_char="39">
+<ORIGINAL_TEXT>Hi, we're travelling to Malta this Wednesday and I would like to know if it is mandatory to wear face masks when walking down the streets, or say, when going to the toilet in a restaurant/cafe/bar, or when at the beach?</ORIGINAL_TEXT>
+<TOKEN end_char="40" id="token-1-0" morph="none" pos="word" start_char="39">Hi</TOKEN>
+<TOKEN end_char="41" id="token-1-1" morph="none" pos="punct" start_char="41">,</TOKEN>
+<TOKEN end_char="47" id="token-1-2" morph="none" pos="word" start_char="43">we're</TOKEN>
+<TOKEN end_char="58" id="token-1-3" morph="none" pos="word" start_char="49">travelling</TOKEN>
+<TOKEN end_char="61" id="token-1-4" morph="none" pos="word" start_char="60">to</TOKEN>
+<TOKEN end_char="67" id="token-1-5" morph="none" pos="word" start_char="63">Malta</TOKEN>
+<TOKEN end_char="72" id="token-1-6" morph="none" pos="word" start_char="69">this</TOKEN>
+<TOKEN end_char="82" id="token-1-7" morph="none" pos="word" start_char="74">Wednesday</TOKEN>
+<TOKEN end_char="86" id="token-1-8" morph="none" pos="word" start_char="84">and</TOKEN>
+<TOKEN end_char="88" id="token-1-9" morph="none" pos="word" start_char="88">I</TOKEN>
+<TOKEN end_char="94" id="token-1-10" morph="none" pos="word" start_char="90">would</TOKEN>
+<TOKEN end_char="99" id="token-1-11" morph="none" pos="word" start_char="96">like</TOKEN>
+<TOKEN end_char="102" id="token-1-12" morph="none" pos="word" start_char="101">to</TOKEN>
+<TOKEN end_char="107" id="token-1-13" morph="none" pos="word" start_char="104">know</TOKEN>
+<TOKEN end_char="110" id="token-1-14" morph="none" pos="word" start_char="109">if</TOKEN>
+<TOKEN end_char="113" id="token-1-15" morph="none" pos="word" start_char="112">it</TOKEN>
+<TOKEN end_char="116" id="token-1-16" morph="none" pos="word" start_char="115">is</TOKEN>
+<TOKEN end_char="126" id="token-1-17" morph="none" pos="word" start_char="118">mandatory</TOKEN>
+<TOKEN end_char="129" id="token-1-18" morph="none" pos="word" start_char="128">to</TOKEN>
+<TOKEN end_char="134" id="token-1-19" morph="none" pos="word" start_char="131">wear</TOKEN>
+<TOKEN end_char="139" id="token-1-20" morph="none" pos="word" start_char="136">face</TOKEN>
+<TOKEN end_char="145" id="token-1-21" morph="none" pos="word" start_char="141">masks</TOKEN>
+<TOKEN end_char="150" id="token-1-22" morph="none" pos="word" start_char="147">when</TOKEN>
+<TOKEN end_char="158" id="token-1-23" morph="none" pos="word" start_char="152">walking</TOKEN>
+<TOKEN end_char="163" id="token-1-24" morph="none" pos="word" start_char="160">down</TOKEN>
+<TOKEN end_char="167" id="token-1-25" morph="none" pos="word" start_char="165">the</TOKEN>
+<TOKEN end_char="175" id="token-1-26" morph="none" pos="word" start_char="169">streets</TOKEN>
+<TOKEN end_char="176" id="token-1-27" morph="none" pos="punct" start_char="176">,</TOKEN>
+<TOKEN end_char="179" id="token-1-28" morph="none" pos="word" start_char="178">or</TOKEN>
+<TOKEN end_char="183" id="token-1-29" morph="none" pos="word" start_char="181">say</TOKEN>
+<TOKEN end_char="184" id="token-1-30" morph="none" pos="punct" start_char="184">,</TOKEN>
+<TOKEN end_char="189" id="token-1-31" morph="none" pos="word" start_char="186">when</TOKEN>
+<TOKEN end_char="195" id="token-1-32" morph="none" pos="word" start_char="191">going</TOKEN>
+<TOKEN end_char="198" id="token-1-33" morph="none" pos="word" start_char="197">to</TOKEN>
+<TOKEN end_char="202" id="token-1-34" morph="none" pos="word" start_char="200">the</TOKEN>
+<TOKEN end_char="209" id="token-1-35" morph="none" pos="word" start_char="204">toilet</TOKEN>
+<TOKEN end_char="212" id="token-1-36" morph="none" pos="word" start_char="211">in</TOKEN>
+<TOKEN end_char="214" id="token-1-37" morph="none" pos="word" start_char="214">a</TOKEN>
+<TOKEN end_char="234" id="token-1-38" morph="none" pos="unknown" start_char="216">restaurant/cafe/bar</TOKEN>
+<TOKEN end_char="235" id="token-1-39" morph="none" pos="punct" start_char="235">,</TOKEN>
+<TOKEN end_char="238" id="token-1-40" morph="none" pos="word" start_char="237">or</TOKEN>
+<TOKEN end_char="243" id="token-1-41" morph="none" pos="word" start_char="240">when</TOKEN>
+<TOKEN end_char="246" id="token-1-42" morph="none" pos="word" start_char="245">at</TOKEN>
+<TOKEN end_char="250" id="token-1-43" morph="none" pos="word" start_char="248">the</TOKEN>
+<TOKEN end_char="256" id="token-1-44" morph="none" pos="word" start_char="252">beach</TOKEN>
+<TOKEN end_char="257" id="token-1-45" morph="none" pos="punct" start_char="257">?</TOKEN>
+</SEG>
+<SEG end_char="350" id="segment-2" start_char="260">
+<ORIGINAL_TEXT>I saw on Friday the regulations changed a bit, but I just want to make sure I got it right.</ORIGINAL_TEXT>
+<TOKEN end_char="260" id="token-2-0" morph="none" pos="word" start_char="260">I</TOKEN>
+<TOKEN end_char="264" id="token-2-1" morph="none" pos="word" start_char="262">saw</TOKEN>
+<TOKEN end_char="267" id="token-2-2" morph="none" pos="word" start_char="266">on</TOKEN>
+<TOKEN end_char="274" id="token-2-3" morph="none" pos="word" start_char="269">Friday</TOKEN>
+<TOKEN end_char="278" id="token-2-4" morph="none" pos="word" start_char="276">the</TOKEN>
+<TOKEN end_char="290" id="token-2-5" morph="none" pos="word" start_char="280">regulations</TOKEN>
+<TOKEN end_char="298" id="token-2-6" morph="none" pos="word" start_char="292">changed</TOKEN>
+<TOKEN end_char="300" id="token-2-7" morph="none" pos="word" start_char="300">a</TOKEN>
+<TOKEN end_char="304" id="token-2-8" morph="none" pos="word" start_char="302">bit</TOKEN>
+<TOKEN end_char="305" id="token-2-9" morph="none" pos="punct" start_char="305">,</TOKEN>
+<TOKEN end_char="309" id="token-2-10" morph="none" pos="word" start_char="307">but</TOKEN>
+<TOKEN end_char="311" id="token-2-11" morph="none" pos="word" start_char="311">I</TOKEN>
+<TOKEN end_char="316" id="token-2-12" morph="none" pos="word" start_char="313">just</TOKEN>
+<TOKEN end_char="321" id="token-2-13" morph="none" pos="word" start_char="318">want</TOKEN>
+<TOKEN end_char="324" id="token-2-14" morph="none" pos="word" start_char="323">to</TOKEN>
+<TOKEN end_char="329" id="token-2-15" morph="none" pos="word" start_char="326">make</TOKEN>
+<TOKEN end_char="334" id="token-2-16" morph="none" pos="word" start_char="331">sure</TOKEN>
+<TOKEN end_char="336" id="token-2-17" morph="none" pos="word" start_char="336">I</TOKEN>
+<TOKEN end_char="340" id="token-2-18" morph="none" pos="word" start_char="338">got</TOKEN>
+<TOKEN end_char="343" id="token-2-19" morph="none" pos="word" start_char="342">it</TOKEN>
+<TOKEN end_char="349" id="token-2-20" morph="none" pos="word" start_char="345">right</TOKEN>
+<TOKEN end_char="350" id="token-2-21" morph="none" pos="punct" start_char="350">.</TOKEN>
+</SEG>
+<SEG end_char="364" id="segment-3" start_char="352">
+<ORIGINAL_TEXT>Thanks a lot!</ORIGINAL_TEXT>
+<TOKEN end_char="357" id="token-3-0" morph="none" pos="word" start_char="352">Thanks</TOKEN>
+<TOKEN end_char="359" id="token-3-1" morph="none" pos="word" start_char="359">a</TOKEN>
+<TOKEN end_char="363" id="token-3-2" morph="none" pos="word" start_char="361">lot</TOKEN>
+<TOKEN end_char="364" id="token-3-3" morph="none" pos="punct" start_char="364">!</TOKEN>
+</SEG>
+<SEG end_char="410" id="segment-4" start_char="368">
+<ORIGINAL_TEXT>Hello, - Masks are mandatory only in shops.</ORIGINAL_TEXT>
+<TOKEN end_char="372" id="token-4-0" morph="none" pos="word" start_char="368">Hello</TOKEN>
+<TOKEN end_char="373" id="token-4-1" morph="none" pos="punct" start_char="373">,</TOKEN>
+<TOKEN end_char="375" id="token-4-2" morph="none" pos="punct" start_char="375">-</TOKEN>
+<TOKEN end_char="381" id="token-4-3" morph="none" pos="word" start_char="377">Masks</TOKEN>
+<TOKEN end_char="385" id="token-4-4" morph="none" pos="word" start_char="383">are</TOKEN>
+<TOKEN end_char="395" id="token-4-5" morph="none" pos="word" start_char="387">mandatory</TOKEN>
+<TOKEN end_char="400" id="token-4-6" morph="none" pos="word" start_char="397">only</TOKEN>
+<TOKEN end_char="403" id="token-4-7" morph="none" pos="word" start_char="402">in</TOKEN>
+<TOKEN end_char="409" id="token-4-8" morph="none" pos="word" start_char="405">shops</TOKEN>
+<TOKEN end_char="410" id="token-4-9" morph="none" pos="punct" start_char="410">.</TOKEN>
+</SEG>
+<SEG end_char="440" id="segment-5" start_char="412">
+<ORIGINAL_TEXT>Good Having arrived© in Malta</ORIGINAL_TEXT>
+<TOKEN end_char="415" id="token-5-0" morph="none" pos="word" start_char="412">Good</TOKEN>
+<TOKEN end_char="422" id="token-5-1" morph="none" pos="word" start_char="417">Having</TOKEN>
+<TOKEN end_char="431" id="token-5-2" morph="none" pos="unknown" start_char="424">arrived©</TOKEN>
+<TOKEN end_char="434" id="token-5-3" morph="none" pos="word" start_char="433">in</TOKEN>
+<TOKEN end_char="440" id="token-5-4" morph="none" pos="word" start_char="436">Malta</TOKEN>
+</SEG>
+<SEG end_char="555" id="segment-6" start_char="444">
+<ORIGINAL_TEXT>Masks are compulsary in shops and public places where it is impossible to keep a distance of less than 2 metres.</ORIGINAL_TEXT>
+<TOKEN end_char="448" id="token-6-0" morph="none" pos="word" start_char="444">Masks</TOKEN>
+<TOKEN end_char="452" id="token-6-1" morph="none" pos="word" start_char="450">are</TOKEN>
+<TOKEN end_char="463" id="token-6-2" morph="none" pos="word" start_char="454">compulsary</TOKEN>
+<TOKEN end_char="466" id="token-6-3" morph="none" pos="word" start_char="465">in</TOKEN>
+<TOKEN end_char="472" id="token-6-4" morph="none" pos="word" start_char="468">shops</TOKEN>
+<TOKEN end_char="476" id="token-6-5" morph="none" pos="word" start_char="474">and</TOKEN>
+<TOKEN end_char="483" id="token-6-6" morph="none" pos="word" start_char="478">public</TOKEN>
+<TOKEN end_char="490" id="token-6-7" morph="none" pos="word" start_char="485">places</TOKEN>
+<TOKEN end_char="496" id="token-6-8" morph="none" pos="word" start_char="492">where</TOKEN>
+<TOKEN end_char="499" id="token-6-9" morph="none" pos="word" start_char="498">it</TOKEN>
+<TOKEN end_char="502" id="token-6-10" morph="none" pos="word" start_char="501">is</TOKEN>
+<TOKEN end_char="513" id="token-6-11" morph="none" pos="word" start_char="504">impossible</TOKEN>
+<TOKEN end_char="516" id="token-6-12" morph="none" pos="word" start_char="515">to</TOKEN>
+<TOKEN end_char="521" id="token-6-13" morph="none" pos="word" start_char="518">keep</TOKEN>
+<TOKEN end_char="523" id="token-6-14" morph="none" pos="word" start_char="523">a</TOKEN>
+<TOKEN end_char="532" id="token-6-15" morph="none" pos="word" start_char="525">distance</TOKEN>
+<TOKEN end_char="535" id="token-6-16" morph="none" pos="word" start_char="534">of</TOKEN>
+<TOKEN end_char="540" id="token-6-17" morph="none" pos="word" start_char="537">less</TOKEN>
+<TOKEN end_char="545" id="token-6-18" morph="none" pos="word" start_char="542">than</TOKEN>
+<TOKEN end_char="547" id="token-6-19" morph="none" pos="word" start_char="547">2</TOKEN>
+<TOKEN end_char="554" id="token-6-20" morph="none" pos="word" start_char="549">metres</TOKEN>
+<TOKEN end_char="555" id="token-6-21" morph="none" pos="punct" start_char="555">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

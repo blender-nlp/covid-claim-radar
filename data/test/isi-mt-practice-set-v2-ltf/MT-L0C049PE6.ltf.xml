@@ -1,0 +1,488 @@
+<LCTL_TEXT lang="spa">
+<DOC grammar="none" id="L0C049PE6" lang="spa" raw_text_char_length="2531" raw_text_md5="8054c5f7775d34f86434cecfe0f7d634" tokenization="tokenization_parameters.v5.0">
+<TEXT>
+<SEG end_char="82" id="segment-0" start_char="1">
+<ORIGINAL_TEXT>Explican por qué ratas y pollos no contraen el covid-19, pero gatos y el ganado sí</ORIGINAL_TEXT>
+<TOKEN end_char="8" id="token-0-0" morph="none" pos="word" start_char="1">Explican</TOKEN>
+<TOKEN end_char="12" id="token-0-1" morph="none" pos="word" start_char="10">por</TOKEN>
+<TOKEN end_char="16" id="token-0-2" morph="none" pos="word" start_char="14">qué</TOKEN>
+<TOKEN end_char="22" id="token-0-3" morph="none" pos="word" start_char="18">ratas</TOKEN>
+<TOKEN end_char="24" id="token-0-4" morph="none" pos="word" start_char="24">y</TOKEN>
+<TOKEN end_char="31" id="token-0-5" morph="none" pos="word" start_char="26">pollos</TOKEN>
+<TOKEN end_char="34" id="token-0-6" morph="none" pos="word" start_char="33">no</TOKEN>
+<TOKEN end_char="43" id="token-0-7" morph="none" pos="word" start_char="36">contraen</TOKEN>
+<TOKEN end_char="46" id="token-0-8" morph="none" pos="word" start_char="45">el</TOKEN>
+<TOKEN end_char="55" id="token-0-9" morph="none" pos="unknown" start_char="48">covid-19</TOKEN>
+<TOKEN end_char="56" id="token-0-10" morph="none" pos="punct" start_char="56">,</TOKEN>
+<TOKEN end_char="61" id="token-0-11" morph="none" pos="word" start_char="58">pero</TOKEN>
+<TOKEN end_char="67" id="token-0-12" morph="none" pos="word" start_char="63">gatos</TOKEN>
+<TOKEN end_char="69" id="token-0-13" morph="none" pos="word" start_char="69">y</TOKEN>
+<TOKEN end_char="72" id="token-0-14" morph="none" pos="word" start_char="71">el</TOKEN>
+<TOKEN end_char="79" id="token-0-15" morph="none" pos="word" start_char="74">ganado</TOKEN>
+<TOKEN end_char="82" id="token-0-16" morph="none" pos="word" start_char="81">sí</TOKEN>
+<TRANSLATED_TEXT>They explain why rats and chickens don't contract covid-19, but cats and cattle do.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="205" id="segment-1" start_char="86">
+<ORIGINAL_TEXT>La clave son las mutaciones en un punto de acceso que el coronavirus utiliza para adherirse a las células e infectarlas.</ORIGINAL_TEXT>
+<TOKEN end_char="87" id="token-1-0" morph="none" pos="word" start_char="86">La</TOKEN>
+<TOKEN end_char="93" id="token-1-1" morph="none" pos="word" start_char="89">clave</TOKEN>
+<TOKEN end_char="97" id="token-1-2" morph="none" pos="word" start_char="95">son</TOKEN>
+<TOKEN end_char="101" id="token-1-3" morph="none" pos="word" start_char="99">las</TOKEN>
+<TOKEN end_char="112" id="token-1-4" morph="none" pos="word" start_char="103">mutaciones</TOKEN>
+<TOKEN end_char="115" id="token-1-5" morph="none" pos="word" start_char="114">en</TOKEN>
+<TOKEN end_char="118" id="token-1-6" morph="none" pos="word" start_char="117">un</TOKEN>
+<TOKEN end_char="124" id="token-1-7" morph="none" pos="word" start_char="120">punto</TOKEN>
+<TOKEN end_char="127" id="token-1-8" morph="none" pos="word" start_char="126">de</TOKEN>
+<TOKEN end_char="134" id="token-1-9" morph="none" pos="word" start_char="129">acceso</TOKEN>
+<TOKEN end_char="138" id="token-1-10" morph="none" pos="word" start_char="136">que</TOKEN>
+<TOKEN end_char="141" id="token-1-11" morph="none" pos="word" start_char="140">el</TOKEN>
+<TOKEN end_char="153" id="token-1-12" morph="none" pos="word" start_char="143">coronavirus</TOKEN>
+<TOKEN end_char="161" id="token-1-13" morph="none" pos="word" start_char="155">utiliza</TOKEN>
+<TOKEN end_char="166" id="token-1-14" morph="none" pos="word" start_char="163">para</TOKEN>
+<TOKEN end_char="176" id="token-1-15" morph="none" pos="word" start_char="168">adherirse</TOKEN>
+<TOKEN end_char="178" id="token-1-16" morph="none" pos="word" start_char="178">a</TOKEN>
+<TOKEN end_char="182" id="token-1-17" morph="none" pos="word" start_char="180">las</TOKEN>
+<TOKEN end_char="190" id="token-1-18" morph="none" pos="word" start_char="184">células</TOKEN>
+<TOKEN end_char="192" id="token-1-19" morph="none" pos="word" start_char="192">e</TOKEN>
+<TOKEN end_char="204" id="token-1-20" morph="none" pos="word" start_char="194">infectarlas</TOKEN>
+<TOKEN end_char="205" id="token-1-21" morph="none" pos="punct" start_char="205">.</TOKEN>
+<TRANSLATED_TEXT>The key is mutations at an access point that the coronavirus uses to adhere to cells and infect them.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="225" id="segment-2" start_char="208">
+<ORIGINAL_TEXT>Imagen ilustrativa</ORIGINAL_TEXT>
+<TOKEN end_char="213" id="token-2-0" morph="none" pos="word" start_char="208">Imagen</TOKEN>
+<TOKEN end_char="225" id="token-2-1" morph="none" pos="word" start_char="215">ilustrativa</TOKEN>
+<TRANSLATED_TEXT>Illustrative image</TRANSLATED_TEXT><DETECTED_LANGUAGE>sv</DETECTED_LANGUAGE></SEG>
+<SEG end_char="512" id="segment-3" start_char="229">
+<ORIGINAL_TEXT>Un modelado por computadora del receptor ACE2 en las células de 28 especies de animales terrestres ha puesto al descubierto que mínimas mutaciones en su estructura hacen que algunos animales sean menos vulnerables al contagio con el coronavirus que provoca en los humanos el covid-19.</ORIGINAL_TEXT>
+<TOKEN end_char="230" id="token-3-0" morph="none" pos="word" start_char="229">Un</TOKEN>
+<TOKEN end_char="239" id="token-3-1" morph="none" pos="word" start_char="232">modelado</TOKEN>
+<TOKEN end_char="243" id="token-3-2" morph="none" pos="word" start_char="241">por</TOKEN>
+<TOKEN end_char="255" id="token-3-3" morph="none" pos="word" start_char="245">computadora</TOKEN>
+<TOKEN end_char="259" id="token-3-4" morph="none" pos="word" start_char="257">del</TOKEN>
+<TOKEN end_char="268" id="token-3-5" morph="none" pos="word" start_char="261">receptor</TOKEN>
+<TOKEN end_char="273" id="token-3-6" morph="none" pos="word" start_char="270">ACE2</TOKEN>
+<TOKEN end_char="276" id="token-3-7" morph="none" pos="word" start_char="275">en</TOKEN>
+<TOKEN end_char="280" id="token-3-8" morph="none" pos="word" start_char="278">las</TOKEN>
+<TOKEN end_char="288" id="token-3-9" morph="none" pos="word" start_char="282">células</TOKEN>
+<TOKEN end_char="291" id="token-3-10" morph="none" pos="word" start_char="290">de</TOKEN>
+<TOKEN end_char="294" id="token-3-11" morph="none" pos="word" start_char="293">28</TOKEN>
+<TOKEN end_char="303" id="token-3-12" morph="none" pos="word" start_char="296">especies</TOKEN>
+<TOKEN end_char="306" id="token-3-13" morph="none" pos="word" start_char="305">de</TOKEN>
+<TOKEN end_char="315" id="token-3-14" morph="none" pos="word" start_char="308">animales</TOKEN>
+<TOKEN end_char="326" id="token-3-15" morph="none" pos="word" start_char="317">terrestres</TOKEN>
+<TOKEN end_char="329" id="token-3-16" morph="none" pos="word" start_char="328">ha</TOKEN>
+<TOKEN end_char="336" id="token-3-17" morph="none" pos="word" start_char="331">puesto</TOKEN>
+<TOKEN end_char="339" id="token-3-18" morph="none" pos="word" start_char="338">al</TOKEN>
+<TOKEN end_char="351" id="token-3-19" morph="none" pos="word" start_char="341">descubierto</TOKEN>
+<TOKEN end_char="355" id="token-3-20" morph="none" pos="word" start_char="353">que</TOKEN>
+<TOKEN end_char="363" id="token-3-21" morph="none" pos="word" start_char="357">mínimas</TOKEN>
+<TOKEN end_char="374" id="token-3-22" morph="none" pos="word" start_char="365">mutaciones</TOKEN>
+<TOKEN end_char="377" id="token-3-23" morph="none" pos="word" start_char="376">en</TOKEN>
+<TOKEN end_char="380" id="token-3-24" morph="none" pos="word" start_char="379">su</TOKEN>
+<TOKEN end_char="391" id="token-3-25" morph="none" pos="word" start_char="382">estructura</TOKEN>
+<TOKEN end_char="397" id="token-3-26" morph="none" pos="word" start_char="393">hacen</TOKEN>
+<TOKEN end_char="401" id="token-3-27" morph="none" pos="word" start_char="399">que</TOKEN>
+<TOKEN end_char="409" id="token-3-28" morph="none" pos="word" start_char="403">algunos</TOKEN>
+<TOKEN end_char="418" id="token-3-29" morph="none" pos="word" start_char="411">animales</TOKEN>
+<TOKEN end_char="423" id="token-3-30" morph="none" pos="word" start_char="420">sean</TOKEN>
+<TOKEN end_char="429" id="token-3-31" morph="none" pos="word" start_char="425">menos</TOKEN>
+<TOKEN end_char="441" id="token-3-32" morph="none" pos="word" start_char="431">vulnerables</TOKEN>
+<TOKEN end_char="444" id="token-3-33" morph="none" pos="word" start_char="443">al</TOKEN>
+<TOKEN end_char="453" id="token-3-34" morph="none" pos="word" start_char="446">contagio</TOKEN>
+<TOKEN end_char="457" id="token-3-35" morph="none" pos="word" start_char="455">con</TOKEN>
+<TOKEN end_char="460" id="token-3-36" morph="none" pos="word" start_char="459">el</TOKEN>
+<TOKEN end_char="472" id="token-3-37" morph="none" pos="word" start_char="462">coronavirus</TOKEN>
+<TOKEN end_char="476" id="token-3-38" morph="none" pos="word" start_char="474">que</TOKEN>
+<TOKEN end_char="484" id="token-3-39" morph="none" pos="word" start_char="478">provoca</TOKEN>
+<TOKEN end_char="487" id="token-3-40" morph="none" pos="word" start_char="486">en</TOKEN>
+<TOKEN end_char="491" id="token-3-41" morph="none" pos="word" start_char="489">los</TOKEN>
+<TOKEN end_char="499" id="token-3-42" morph="none" pos="word" start_char="493">humanos</TOKEN>
+<TOKEN end_char="502" id="token-3-43" morph="none" pos="word" start_char="501">el</TOKEN>
+<TOKEN end_char="511" id="token-3-44" morph="none" pos="unknown" start_char="504">covid-19</TOKEN>
+<TOKEN end_char="512" id="token-3-45" morph="none" pos="punct" start_char="512">.</TOKEN>
+<TRANSLATED_TEXT>Computer modeling of the ACE2 receptor in the cells of 28 species of terrestrial animals has revealed that minimal mutations in its structure make some animals less vulnerable to coronavirus infection caused in humans by covid-19.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="714" id="segment-4" start_char="515">
+<ORIGINAL_TEXT>Este receptor fue identificado en los primeros meses de la actual pandemia como el responsable del contacto con la proteína de espiga del virus y se vio que desempeña esta función no solo en personas.</ORIGINAL_TEXT>
+<TOKEN end_char="518" id="token-4-0" morph="none" pos="word" start_char="515">Este</TOKEN>
+<TOKEN end_char="527" id="token-4-1" morph="none" pos="word" start_char="520">receptor</TOKEN>
+<TOKEN end_char="531" id="token-4-2" morph="none" pos="word" start_char="529">fue</TOKEN>
+<TOKEN end_char="544" id="token-4-3" morph="none" pos="word" start_char="533">identificado</TOKEN>
+<TOKEN end_char="547" id="token-4-4" morph="none" pos="word" start_char="546">en</TOKEN>
+<TOKEN end_char="551" id="token-4-5" morph="none" pos="word" start_char="549">los</TOKEN>
+<TOKEN end_char="560" id="token-4-6" morph="none" pos="word" start_char="553">primeros</TOKEN>
+<TOKEN end_char="566" id="token-4-7" morph="none" pos="word" start_char="562">meses</TOKEN>
+<TOKEN end_char="569" id="token-4-8" morph="none" pos="word" start_char="568">de</TOKEN>
+<TOKEN end_char="572" id="token-4-9" morph="none" pos="word" start_char="571">la</TOKEN>
+<TOKEN end_char="579" id="token-4-10" morph="none" pos="word" start_char="574">actual</TOKEN>
+<TOKEN end_char="588" id="token-4-11" morph="none" pos="word" start_char="581">pandemia</TOKEN>
+<TOKEN end_char="593" id="token-4-12" morph="none" pos="word" start_char="590">como</TOKEN>
+<TOKEN end_char="596" id="token-4-13" morph="none" pos="word" start_char="595">el</TOKEN>
+<TOKEN end_char="608" id="token-4-14" morph="none" pos="word" start_char="598">responsable</TOKEN>
+<TOKEN end_char="612" id="token-4-15" morph="none" pos="word" start_char="610">del</TOKEN>
+<TOKEN end_char="621" id="token-4-16" morph="none" pos="word" start_char="614">contacto</TOKEN>
+<TOKEN end_char="625" id="token-4-17" morph="none" pos="word" start_char="623">con</TOKEN>
+<TOKEN end_char="628" id="token-4-18" morph="none" pos="word" start_char="627">la</TOKEN>
+<TOKEN end_char="637" id="token-4-19" morph="none" pos="word" start_char="630">proteína</TOKEN>
+<TOKEN end_char="640" id="token-4-20" morph="none" pos="word" start_char="639">de</TOKEN>
+<TOKEN end_char="647" id="token-4-21" morph="none" pos="word" start_char="642">espiga</TOKEN>
+<TOKEN end_char="651" id="token-4-22" morph="none" pos="word" start_char="649">del</TOKEN>
+<TOKEN end_char="657" id="token-4-23" morph="none" pos="word" start_char="653">virus</TOKEN>
+<TOKEN end_char="659" id="token-4-24" morph="none" pos="word" start_char="659">y</TOKEN>
+<TOKEN end_char="662" id="token-4-25" morph="none" pos="word" start_char="661">se</TOKEN>
+<TOKEN end_char="666" id="token-4-26" morph="none" pos="word" start_char="664">vio</TOKEN>
+<TOKEN end_char="670" id="token-4-27" morph="none" pos="word" start_char="668">que</TOKEN>
+<TOKEN end_char="680" id="token-4-28" morph="none" pos="word" start_char="672">desempeña</TOKEN>
+<TOKEN end_char="685" id="token-4-29" morph="none" pos="word" start_char="682">esta</TOKEN>
+<TOKEN end_char="693" id="token-4-30" morph="none" pos="word" start_char="687">función</TOKEN>
+<TOKEN end_char="696" id="token-4-31" morph="none" pos="word" start_char="695">no</TOKEN>
+<TOKEN end_char="701" id="token-4-32" morph="none" pos="word" start_char="698">solo</TOKEN>
+<TOKEN end_char="704" id="token-4-33" morph="none" pos="word" start_char="703">en</TOKEN>
+<TOKEN end_char="713" id="token-4-34" morph="none" pos="word" start_char="706">personas</TOKEN>
+<TOKEN end_char="714" id="token-4-35" morph="none" pos="punct" start_char="714">.</TOKEN>
+<TRANSLATED_TEXT>This receptor was identified in the early months of the current pandemic as responsible for contact with the virus's spigot protein and was seen to perform this function not only in people.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="931" id="segment-5" start_char="716">
+<ORIGINAL_TEXT>Desde entonces se han publicado varios estudios de la distinta susceptibilidad a la infección de especies particulares que tienen este receptor prescrito en sus genes, incluidos los mamíferos marinos y algunos peces.</ORIGINAL_TEXT>
+<TOKEN end_char="720" id="token-5-0" morph="none" pos="word" start_char="716">Desde</TOKEN>
+<TOKEN end_char="729" id="token-5-1" morph="none" pos="word" start_char="722">entonces</TOKEN>
+<TOKEN end_char="732" id="token-5-2" morph="none" pos="word" start_char="731">se</TOKEN>
+<TOKEN end_char="736" id="token-5-3" morph="none" pos="word" start_char="734">han</TOKEN>
+<TOKEN end_char="746" id="token-5-4" morph="none" pos="word" start_char="738">publicado</TOKEN>
+<TOKEN end_char="753" id="token-5-5" morph="none" pos="word" start_char="748">varios</TOKEN>
+<TOKEN end_char="762" id="token-5-6" morph="none" pos="word" start_char="755">estudios</TOKEN>
+<TOKEN end_char="765" id="token-5-7" morph="none" pos="word" start_char="764">de</TOKEN>
+<TOKEN end_char="768" id="token-5-8" morph="none" pos="word" start_char="767">la</TOKEN>
+<TOKEN end_char="777" id="token-5-9" morph="none" pos="word" start_char="770">distinta</TOKEN>
+<TOKEN end_char="793" id="token-5-10" morph="none" pos="word" start_char="779">susceptibilidad</TOKEN>
+<TOKEN end_char="795" id="token-5-11" morph="none" pos="word" start_char="795">a</TOKEN>
+<TOKEN end_char="798" id="token-5-12" morph="none" pos="word" start_char="797">la</TOKEN>
+<TOKEN end_char="808" id="token-5-13" morph="none" pos="word" start_char="800">infección</TOKEN>
+<TOKEN end_char="811" id="token-5-14" morph="none" pos="word" start_char="810">de</TOKEN>
+<TOKEN end_char="820" id="token-5-15" morph="none" pos="word" start_char="813">especies</TOKEN>
+<TOKEN end_char="833" id="token-5-16" morph="none" pos="word" start_char="822">particulares</TOKEN>
+<TOKEN end_char="837" id="token-5-17" morph="none" pos="word" start_char="835">que</TOKEN>
+<TOKEN end_char="844" id="token-5-18" morph="none" pos="word" start_char="839">tienen</TOKEN>
+<TOKEN end_char="849" id="token-5-19" morph="none" pos="word" start_char="846">este</TOKEN>
+<TOKEN end_char="858" id="token-5-20" morph="none" pos="word" start_char="851">receptor</TOKEN>
+<TOKEN end_char="868" id="token-5-21" morph="none" pos="word" start_char="860">prescrito</TOKEN>
+<TOKEN end_char="871" id="token-5-22" morph="none" pos="word" start_char="870">en</TOKEN>
+<TOKEN end_char="875" id="token-5-23" morph="none" pos="word" start_char="873">sus</TOKEN>
+<TOKEN end_char="881" id="token-5-24" morph="none" pos="word" start_char="877">genes</TOKEN>
+<TOKEN end_char="882" id="token-5-25" morph="none" pos="punct" start_char="882">,</TOKEN>
+<TOKEN end_char="892" id="token-5-26" morph="none" pos="word" start_char="884">incluidos</TOKEN>
+<TOKEN end_char="896" id="token-5-27" morph="none" pos="word" start_char="894">los</TOKEN>
+<TOKEN end_char="906" id="token-5-28" morph="none" pos="word" start_char="898">mamíferos</TOKEN>
+<TOKEN end_char="914" id="token-5-29" morph="none" pos="word" start_char="908">marinos</TOKEN>
+<TOKEN end_char="916" id="token-5-30" morph="none" pos="word" start_char="916">y</TOKEN>
+<TOKEN end_char="924" id="token-5-31" morph="none" pos="word" start_char="918">algunos</TOKEN>
+<TOKEN end_char="930" id="token-5-32" morph="none" pos="word" start_char="926">peces</TOKEN>
+<TOKEN end_char="931" id="token-5-33" morph="none" pos="punct" start_char="931">.</TOKEN>
+<TRANSLATED_TEXT>Since then, several studies have been published on the distinct susceptibility to infection of particular species that have this receptor prescribed in their genes, including marine mammals and some fish.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1128" id="segment-6" start_char="935">
+<ORIGINAL_TEXT>La estructura del receptor varía ligeramente pasando de una especie a otra y la biología molecular ve las mayores coincidencias entre los humanos y los simios (hasta el 99,5% para el chimpancé).</ORIGINAL_TEXT>
+<TOKEN end_char="936" id="token-6-0" morph="none" pos="word" start_char="935">La</TOKEN>
+<TOKEN end_char="947" id="token-6-1" morph="none" pos="word" start_char="938">estructura</TOKEN>
+<TOKEN end_char="951" id="token-6-2" morph="none" pos="word" start_char="949">del</TOKEN>
+<TOKEN end_char="960" id="token-6-3" morph="none" pos="word" start_char="953">receptor</TOKEN>
+<TOKEN end_char="966" id="token-6-4" morph="none" pos="word" start_char="962">varía</TOKEN>
+<TOKEN end_char="978" id="token-6-5" morph="none" pos="word" start_char="968">ligeramente</TOKEN>
+<TOKEN end_char="986" id="token-6-6" morph="none" pos="word" start_char="980">pasando</TOKEN>
+<TOKEN end_char="989" id="token-6-7" morph="none" pos="word" start_char="988">de</TOKEN>
+<TOKEN end_char="993" id="token-6-8" morph="none" pos="word" start_char="991">una</TOKEN>
+<TOKEN end_char="1001" id="token-6-9" morph="none" pos="word" start_char="995">especie</TOKEN>
+<TOKEN end_char="1003" id="token-6-10" morph="none" pos="word" start_char="1003">a</TOKEN>
+<TOKEN end_char="1008" id="token-6-11" morph="none" pos="word" start_char="1005">otra</TOKEN>
+<TOKEN end_char="1010" id="token-6-12" morph="none" pos="word" start_char="1010">y</TOKEN>
+<TOKEN end_char="1013" id="token-6-13" morph="none" pos="word" start_char="1012">la</TOKEN>
+<TOKEN end_char="1022" id="token-6-14" morph="none" pos="word" start_char="1015">biología</TOKEN>
+<TOKEN end_char="1032" id="token-6-15" morph="none" pos="word" start_char="1024">molecular</TOKEN>
+<TOKEN end_char="1035" id="token-6-16" morph="none" pos="word" start_char="1034">ve</TOKEN>
+<TOKEN end_char="1039" id="token-6-17" morph="none" pos="word" start_char="1037">las</TOKEN>
+<TOKEN end_char="1047" id="token-6-18" morph="none" pos="word" start_char="1041">mayores</TOKEN>
+<TOKEN end_char="1061" id="token-6-19" morph="none" pos="word" start_char="1049">coincidencias</TOKEN>
+<TOKEN end_char="1067" id="token-6-20" morph="none" pos="word" start_char="1063">entre</TOKEN>
+<TOKEN end_char="1071" id="token-6-21" morph="none" pos="word" start_char="1069">los</TOKEN>
+<TOKEN end_char="1079" id="token-6-22" morph="none" pos="word" start_char="1073">humanos</TOKEN>
+<TOKEN end_char="1081" id="token-6-23" morph="none" pos="word" start_char="1081">y</TOKEN>
+<TOKEN end_char="1085" id="token-6-24" morph="none" pos="word" start_char="1083">los</TOKEN>
+<TOKEN end_char="1092" id="token-6-25" morph="none" pos="word" start_char="1087">simios</TOKEN>
+<TOKEN end_char="1094" id="token-6-26" morph="none" pos="punct" start_char="1094">(</TOKEN>
+<TOKEN end_char="1099" id="token-6-27" morph="none" pos="word" start_char="1095">hasta</TOKEN>
+<TOKEN end_char="1102" id="token-6-28" morph="none" pos="word" start_char="1101">el</TOKEN>
+<TOKEN end_char="1107" id="token-6-29" morph="none" pos="unknown" start_char="1104">99,5</TOKEN>
+<TOKEN end_char="1108" id="token-6-30" morph="none" pos="punct" start_char="1108">%</TOKEN>
+<TOKEN end_char="1113" id="token-6-31" morph="none" pos="word" start_char="1110">para</TOKEN>
+<TOKEN end_char="1116" id="token-6-32" morph="none" pos="word" start_char="1115">el</TOKEN>
+<TOKEN end_char="1126" id="token-6-33" morph="none" pos="word" start_char="1118">chimpancé</TOKEN>
+<TOKEN end_char="1128" id="token-6-34" morph="none" pos="punct" start_char="1127">).</TOKEN>
+<TRANSLATED_TEXT>The structure of the receptor varies slightly from species to species and molecular biology sees the greatest overlap between humans and apes (up to 99.5% for chimpanzees).</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1180" id="segment-7" start_char="1130">
+<ORIGINAL_TEXT>El valor mínimo corresponde al pez dorado (el 72%).</ORIGINAL_TEXT>
+<TOKEN end_char="1131" id="token-7-0" morph="none" pos="word" start_char="1130">El</TOKEN>
+<TOKEN end_char="1137" id="token-7-1" morph="none" pos="word" start_char="1133">valor</TOKEN>
+<TOKEN end_char="1144" id="token-7-2" morph="none" pos="word" start_char="1139">mínimo</TOKEN>
+<TOKEN end_char="1156" id="token-7-3" morph="none" pos="word" start_char="1146">corresponde</TOKEN>
+<TOKEN end_char="1159" id="token-7-4" morph="none" pos="word" start_char="1158">al</TOKEN>
+<TOKEN end_char="1163" id="token-7-5" morph="none" pos="word" start_char="1161">pez</TOKEN>
+<TOKEN end_char="1170" id="token-7-6" morph="none" pos="word" start_char="1165">dorado</TOKEN>
+<TOKEN end_char="1172" id="token-7-7" morph="none" pos="punct" start_char="1172">(</TOKEN>
+<TOKEN end_char="1174" id="token-7-8" morph="none" pos="word" start_char="1173">el</TOKEN>
+<TOKEN end_char="1177" id="token-7-9" morph="none" pos="word" start_char="1176">72</TOKEN>
+<TOKEN end_char="1180" id="token-7-10" morph="none" pos="punct" start_char="1178">%).</TOKEN>
+<TRANSLATED_TEXT>The minimum value corresponds to the goldfish (72%).</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1379" id="segment-8" start_char="1182">
+<ORIGINAL_TEXT>Sin embargo, este nuevo estudio, publicado en la revista PLOS Computational Biology el 3 de diciembre, no encuentra suficiente el porcentaje de semejanza para pronosticar la posibilidad de contagio.</ORIGINAL_TEXT>
+<TOKEN end_char="1184" id="token-8-0" morph="none" pos="word" start_char="1182">Sin</TOKEN>
+<TOKEN end_char="1192" id="token-8-1" morph="none" pos="word" start_char="1186">embargo</TOKEN>
+<TOKEN end_char="1193" id="token-8-2" morph="none" pos="punct" start_char="1193">,</TOKEN>
+<TOKEN end_char="1198" id="token-8-3" morph="none" pos="word" start_char="1195">este</TOKEN>
+<TOKEN end_char="1204" id="token-8-4" morph="none" pos="word" start_char="1200">nuevo</TOKEN>
+<TOKEN end_char="1212" id="token-8-5" morph="none" pos="word" start_char="1206">estudio</TOKEN>
+<TOKEN end_char="1213" id="token-8-6" morph="none" pos="punct" start_char="1213">,</TOKEN>
+<TOKEN end_char="1223" id="token-8-7" morph="none" pos="word" start_char="1215">publicado</TOKEN>
+<TOKEN end_char="1226" id="token-8-8" morph="none" pos="word" start_char="1225">en</TOKEN>
+<TOKEN end_char="1229" id="token-8-9" morph="none" pos="word" start_char="1228">la</TOKEN>
+<TOKEN end_char="1237" id="token-8-10" morph="none" pos="word" start_char="1231">revista</TOKEN>
+<TOKEN end_char="1242" id="token-8-11" morph="none" pos="word" start_char="1239">PLOS</TOKEN>
+<TOKEN end_char="1256" id="token-8-12" morph="none" pos="word" start_char="1244">Computational</TOKEN>
+<TOKEN end_char="1264" id="token-8-13" morph="none" pos="word" start_char="1258">Biology</TOKEN>
+<TOKEN end_char="1267" id="token-8-14" morph="none" pos="word" start_char="1266">el</TOKEN>
+<TOKEN end_char="1269" id="token-8-15" morph="none" pos="word" start_char="1269">3</TOKEN>
+<TOKEN end_char="1272" id="token-8-16" morph="none" pos="word" start_char="1271">de</TOKEN>
+<TOKEN end_char="1282" id="token-8-17" morph="none" pos="word" start_char="1274">diciembre</TOKEN>
+<TOKEN end_char="1283" id="token-8-18" morph="none" pos="punct" start_char="1283">,</TOKEN>
+<TOKEN end_char="1286" id="token-8-19" morph="none" pos="word" start_char="1285">no</TOKEN>
+<TOKEN end_char="1296" id="token-8-20" morph="none" pos="word" start_char="1288">encuentra</TOKEN>
+<TOKEN end_char="1307" id="token-8-21" morph="none" pos="word" start_char="1298">suficiente</TOKEN>
+<TOKEN end_char="1310" id="token-8-22" morph="none" pos="word" start_char="1309">el</TOKEN>
+<TOKEN end_char="1321" id="token-8-23" morph="none" pos="word" start_char="1312">porcentaje</TOKEN>
+<TOKEN end_char="1324" id="token-8-24" morph="none" pos="word" start_char="1323">de</TOKEN>
+<TOKEN end_char="1334" id="token-8-25" morph="none" pos="word" start_char="1326">semejanza</TOKEN>
+<TOKEN end_char="1339" id="token-8-26" morph="none" pos="word" start_char="1336">para</TOKEN>
+<TOKEN end_char="1351" id="token-8-27" morph="none" pos="word" start_char="1341">pronosticar</TOKEN>
+<TOKEN end_char="1354" id="token-8-28" morph="none" pos="word" start_char="1353">la</TOKEN>
+<TOKEN end_char="1366" id="token-8-29" morph="none" pos="word" start_char="1356">posibilidad</TOKEN>
+<TOKEN end_char="1369" id="token-8-30" morph="none" pos="word" start_char="1368">de</TOKEN>
+<TOKEN end_char="1378" id="token-8-31" morph="none" pos="word" start_char="1371">contagio</TOKEN>
+<TOKEN end_char="1379" id="token-8-32" morph="none" pos="punct" start_char="1379">.</TOKEN>
+<TRANSLATED_TEXT>However, this new study, published in the journal PLOS Computational Biology on December 3, does not find enough similarity percentage to predict the possibility of infection.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1571" id="segment-9" start_char="1382">
+<ORIGINAL_TEXT>A partir de los datos sobre la estructura del ACE2 en cada animal, los autores desarrollaron un modelo para explicar cómo influyen las variaciones cuando el virus intenta atacar las células.</ORIGINAL_TEXT>
+<TOKEN end_char="1382" id="token-9-0" morph="none" pos="word" start_char="1382">A</TOKEN>
+<TOKEN end_char="1389" id="token-9-1" morph="none" pos="word" start_char="1384">partir</TOKEN>
+<TOKEN end_char="1392" id="token-9-2" morph="none" pos="word" start_char="1391">de</TOKEN>
+<TOKEN end_char="1396" id="token-9-3" morph="none" pos="word" start_char="1394">los</TOKEN>
+<TOKEN end_char="1402" id="token-9-4" morph="none" pos="word" start_char="1398">datos</TOKEN>
+<TOKEN end_char="1408" id="token-9-5" morph="none" pos="word" start_char="1404">sobre</TOKEN>
+<TOKEN end_char="1411" id="token-9-6" morph="none" pos="word" start_char="1410">la</TOKEN>
+<TOKEN end_char="1422" id="token-9-7" morph="none" pos="word" start_char="1413">estructura</TOKEN>
+<TOKEN end_char="1426" id="token-9-8" morph="none" pos="word" start_char="1424">del</TOKEN>
+<TOKEN end_char="1431" id="token-9-9" morph="none" pos="word" start_char="1428">ACE2</TOKEN>
+<TOKEN end_char="1434" id="token-9-10" morph="none" pos="word" start_char="1433">en</TOKEN>
+<TOKEN end_char="1439" id="token-9-11" morph="none" pos="word" start_char="1436">cada</TOKEN>
+<TOKEN end_char="1446" id="token-9-12" morph="none" pos="word" start_char="1441">animal</TOKEN>
+<TOKEN end_char="1447" id="token-9-13" morph="none" pos="punct" start_char="1447">,</TOKEN>
+<TOKEN end_char="1451" id="token-9-14" morph="none" pos="word" start_char="1449">los</TOKEN>
+<TOKEN end_char="1459" id="token-9-15" morph="none" pos="word" start_char="1453">autores</TOKEN>
+<TOKEN end_char="1473" id="token-9-16" morph="none" pos="word" start_char="1461">desarrollaron</TOKEN>
+<TOKEN end_char="1476" id="token-9-17" morph="none" pos="word" start_char="1475">un</TOKEN>
+<TOKEN end_char="1483" id="token-9-18" morph="none" pos="word" start_char="1478">modelo</TOKEN>
+<TOKEN end_char="1488" id="token-9-19" morph="none" pos="word" start_char="1485">para</TOKEN>
+<TOKEN end_char="1497" id="token-9-20" morph="none" pos="word" start_char="1490">explicar</TOKEN>
+<TOKEN end_char="1502" id="token-9-21" morph="none" pos="word" start_char="1499">cómo</TOKEN>
+<TOKEN end_char="1511" id="token-9-22" morph="none" pos="word" start_char="1504">influyen</TOKEN>
+<TOKEN end_char="1515" id="token-9-23" morph="none" pos="word" start_char="1513">las</TOKEN>
+<TOKEN end_char="1527" id="token-9-24" morph="none" pos="word" start_char="1517">variaciones</TOKEN>
+<TOKEN end_char="1534" id="token-9-25" morph="none" pos="word" start_char="1529">cuando</TOKEN>
+<TOKEN end_char="1537" id="token-9-26" morph="none" pos="word" start_char="1536">el</TOKEN>
+<TOKEN end_char="1543" id="token-9-27" morph="none" pos="word" start_char="1539">virus</TOKEN>
+<TOKEN end_char="1551" id="token-9-28" morph="none" pos="word" start_char="1545">intenta</TOKEN>
+<TOKEN end_char="1558" id="token-9-29" morph="none" pos="word" start_char="1553">atacar</TOKEN>
+<TOKEN end_char="1562" id="token-9-30" morph="none" pos="word" start_char="1560">las</TOKEN>
+<TOKEN end_char="1570" id="token-9-31" morph="none" pos="word" start_char="1564">células</TOKEN>
+<TOKEN end_char="1571" id="token-9-32" morph="none" pos="punct" start_char="1571">.</TOKEN>
+<TRANSLATED_TEXT>Based on data on the structure of ACE2 in each animal, the authors developed a model to explain how variations influence when the virus attempts to attack cells.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1749" id="segment-10" start_char="1573">
+<ORIGINAL_TEXT>Este recurso informático permitió combinar virtualmente la espiga con el receptor de los animales y hacer predicciones por ordenador sin necesidad de infectar a ningún ser vivo.</ORIGINAL_TEXT>
+<TOKEN end_char="1576" id="token-10-0" morph="none" pos="word" start_char="1573">Este</TOKEN>
+<TOKEN end_char="1584" id="token-10-1" morph="none" pos="word" start_char="1578">recurso</TOKEN>
+<TOKEN end_char="1596" id="token-10-2" morph="none" pos="word" start_char="1586">informático</TOKEN>
+<TOKEN end_char="1605" id="token-10-3" morph="none" pos="word" start_char="1598">permitió</TOKEN>
+<TOKEN end_char="1614" id="token-10-4" morph="none" pos="word" start_char="1607">combinar</TOKEN>
+<TOKEN end_char="1627" id="token-10-5" morph="none" pos="word" start_char="1616">virtualmente</TOKEN>
+<TOKEN end_char="1630" id="token-10-6" morph="none" pos="word" start_char="1629">la</TOKEN>
+<TOKEN end_char="1637" id="token-10-7" morph="none" pos="word" start_char="1632">espiga</TOKEN>
+<TOKEN end_char="1641" id="token-10-8" morph="none" pos="word" start_char="1639">con</TOKEN>
+<TOKEN end_char="1644" id="token-10-9" morph="none" pos="word" start_char="1643">el</TOKEN>
+<TOKEN end_char="1653" id="token-10-10" morph="none" pos="word" start_char="1646">receptor</TOKEN>
+<TOKEN end_char="1656" id="token-10-11" morph="none" pos="word" start_char="1655">de</TOKEN>
+<TOKEN end_char="1660" id="token-10-12" morph="none" pos="word" start_char="1658">los</TOKEN>
+<TOKEN end_char="1669" id="token-10-13" morph="none" pos="word" start_char="1662">animales</TOKEN>
+<TOKEN end_char="1671" id="token-10-14" morph="none" pos="word" start_char="1671">y</TOKEN>
+<TOKEN end_char="1677" id="token-10-15" morph="none" pos="word" start_char="1673">hacer</TOKEN>
+<TOKEN end_char="1690" id="token-10-16" morph="none" pos="word" start_char="1679">predicciones</TOKEN>
+<TOKEN end_char="1694" id="token-10-17" morph="none" pos="word" start_char="1692">por</TOKEN>
+<TOKEN end_char="1704" id="token-10-18" morph="none" pos="word" start_char="1696">ordenador</TOKEN>
+<TOKEN end_char="1708" id="token-10-19" morph="none" pos="word" start_char="1706">sin</TOKEN>
+<TOKEN end_char="1718" id="token-10-20" morph="none" pos="word" start_char="1710">necesidad</TOKEN>
+<TOKEN end_char="1721" id="token-10-21" morph="none" pos="word" start_char="1720">de</TOKEN>
+<TOKEN end_char="1730" id="token-10-22" morph="none" pos="word" start_char="1723">infectar</TOKEN>
+<TOKEN end_char="1732" id="token-10-23" morph="none" pos="word" start_char="1732">a</TOKEN>
+<TOKEN end_char="1739" id="token-10-24" morph="none" pos="word" start_char="1734">ningún</TOKEN>
+<TOKEN end_char="1743" id="token-10-25" morph="none" pos="word" start_char="1741">ser</TOKEN>
+<TOKEN end_char="1748" id="token-10-26" morph="none" pos="word" start_char="1745">vivo</TOKEN>
+<TOKEN end_char="1749" id="token-10-27" morph="none" pos="punct" start_char="1749">.</TOKEN>
+<TRANSLATED_TEXT>This computer resource allowed virtually combining the spigot with the animal's receiver and making computer predictions without the need to infect any living being.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1970" id="segment-11" start_char="1752">
+<ORIGINAL_TEXT>En el análisis se descubrió que las especies no susceptibles de contraer el coronavirus tienen ciertas mutaciones en determinados fragmentos de aminoácidos del ACE2 que impiden la conexión con la proteína espiga vírica.</ORIGINAL_TEXT>
+<TOKEN end_char="1753" id="token-11-0" morph="none" pos="word" start_char="1752">En</TOKEN>
+<TOKEN end_char="1756" id="token-11-1" morph="none" pos="word" start_char="1755">el</TOKEN>
+<TOKEN end_char="1765" id="token-11-2" morph="none" pos="word" start_char="1758">análisis</TOKEN>
+<TOKEN end_char="1768" id="token-11-3" morph="none" pos="word" start_char="1767">se</TOKEN>
+<TOKEN end_char="1778" id="token-11-4" morph="none" pos="word" start_char="1770">descubrió</TOKEN>
+<TOKEN end_char="1782" id="token-11-5" morph="none" pos="word" start_char="1780">que</TOKEN>
+<TOKEN end_char="1786" id="token-11-6" morph="none" pos="word" start_char="1784">las</TOKEN>
+<TOKEN end_char="1795" id="token-11-7" morph="none" pos="word" start_char="1788">especies</TOKEN>
+<TOKEN end_char="1798" id="token-11-8" morph="none" pos="word" start_char="1797">no</TOKEN>
+<TOKEN end_char="1811" id="token-11-9" morph="none" pos="word" start_char="1800">susceptibles</TOKEN>
+<TOKEN end_char="1814" id="token-11-10" morph="none" pos="word" start_char="1813">de</TOKEN>
+<TOKEN end_char="1823" id="token-11-11" morph="none" pos="word" start_char="1816">contraer</TOKEN>
+<TOKEN end_char="1826" id="token-11-12" morph="none" pos="word" start_char="1825">el</TOKEN>
+<TOKEN end_char="1838" id="token-11-13" morph="none" pos="word" start_char="1828">coronavirus</TOKEN>
+<TOKEN end_char="1845" id="token-11-14" morph="none" pos="word" start_char="1840">tienen</TOKEN>
+<TOKEN end_char="1853" id="token-11-15" morph="none" pos="word" start_char="1847">ciertas</TOKEN>
+<TOKEN end_char="1864" id="token-11-16" morph="none" pos="word" start_char="1855">mutaciones</TOKEN>
+<TOKEN end_char="1867" id="token-11-17" morph="none" pos="word" start_char="1866">en</TOKEN>
+<TOKEN end_char="1880" id="token-11-18" morph="none" pos="word" start_char="1869">determinados</TOKEN>
+<TOKEN end_char="1891" id="token-11-19" morph="none" pos="word" start_char="1882">fragmentos</TOKEN>
+<TOKEN end_char="1894" id="token-11-20" morph="none" pos="word" start_char="1893">de</TOKEN>
+<TOKEN end_char="1906" id="token-11-21" morph="none" pos="word" start_char="1896">aminoácidos</TOKEN>
+<TOKEN end_char="1910" id="token-11-22" morph="none" pos="word" start_char="1908">del</TOKEN>
+<TOKEN end_char="1915" id="token-11-23" morph="none" pos="word" start_char="1912">ACE2</TOKEN>
+<TOKEN end_char="1919" id="token-11-24" morph="none" pos="word" start_char="1917">que</TOKEN>
+<TOKEN end_char="1927" id="token-11-25" morph="none" pos="word" start_char="1921">impiden</TOKEN>
+<TOKEN end_char="1930" id="token-11-26" morph="none" pos="word" start_char="1929">la</TOKEN>
+<TOKEN end_char="1939" id="token-11-27" morph="none" pos="word" start_char="1932">conexión</TOKEN>
+<TOKEN end_char="1943" id="token-11-28" morph="none" pos="word" start_char="1941">con</TOKEN>
+<TOKEN end_char="1946" id="token-11-29" morph="none" pos="word" start_char="1945">la</TOKEN>
+<TOKEN end_char="1955" id="token-11-30" morph="none" pos="word" start_char="1948">proteína</TOKEN>
+<TOKEN end_char="1962" id="token-11-31" morph="none" pos="word" start_char="1957">espiga</TOKEN>
+<TOKEN end_char="1969" id="token-11-32" morph="none" pos="word" start_char="1964">vírica</TOKEN>
+<TOKEN end_char="1970" id="token-11-33" morph="none" pos="punct" start_char="1970">.</TOKEN>
+<TRANSLATED_TEXT>In the analysis it was discovered that species not susceptible to coronavirus infection have certain mutations in certain amino acid fragments of ACE2 that prevent connection to the viral spindle protein.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2243" id="segment-12" start_char="1972">
+<ORIGINAL_TEXT>Ese es el caso del cuy, el pollo, el ganso, la rata y el ratón, mientras que el pangolín, el tigre siberiano y animales domésticos como el caballo, la oveja y la vaca tienen varias posiciones clave en su receptor coincidentes con los humanos y también con los murciélagos.</ORIGINAL_TEXT>
+<TOKEN end_char="1974" id="token-12-0" morph="none" pos="word" start_char="1972">Ese</TOKEN>
+<TOKEN end_char="1977" id="token-12-1" morph="none" pos="word" start_char="1976">es</TOKEN>
+<TOKEN end_char="1980" id="token-12-2" morph="none" pos="word" start_char="1979">el</TOKEN>
+<TOKEN end_char="1985" id="token-12-3" morph="none" pos="word" start_char="1982">caso</TOKEN>
+<TOKEN end_char="1989" id="token-12-4" morph="none" pos="word" start_char="1987">del</TOKEN>
+<TOKEN end_char="1993" id="token-12-5" morph="none" pos="word" start_char="1991">cuy</TOKEN>
+<TOKEN end_char="1994" id="token-12-6" morph="none" pos="punct" start_char="1994">,</TOKEN>
+<TOKEN end_char="1997" id="token-12-7" morph="none" pos="word" start_char="1996">el</TOKEN>
+<TOKEN end_char="2003" id="token-12-8" morph="none" pos="word" start_char="1999">pollo</TOKEN>
+<TOKEN end_char="2004" id="token-12-9" morph="none" pos="punct" start_char="2004">,</TOKEN>
+<TOKEN end_char="2007" id="token-12-10" morph="none" pos="word" start_char="2006">el</TOKEN>
+<TOKEN end_char="2013" id="token-12-11" morph="none" pos="word" start_char="2009">ganso</TOKEN>
+<TOKEN end_char="2014" id="token-12-12" morph="none" pos="punct" start_char="2014">,</TOKEN>
+<TOKEN end_char="2017" id="token-12-13" morph="none" pos="word" start_char="2016">la</TOKEN>
+<TOKEN end_char="2022" id="token-12-14" morph="none" pos="word" start_char="2019">rata</TOKEN>
+<TOKEN end_char="2024" id="token-12-15" morph="none" pos="word" start_char="2024">y</TOKEN>
+<TOKEN end_char="2027" id="token-12-16" morph="none" pos="word" start_char="2026">el</TOKEN>
+<TOKEN end_char="2033" id="token-12-17" morph="none" pos="word" start_char="2029">ratón</TOKEN>
+<TOKEN end_char="2034" id="token-12-18" morph="none" pos="punct" start_char="2034">,</TOKEN>
+<TOKEN end_char="2043" id="token-12-19" morph="none" pos="word" start_char="2036">mientras</TOKEN>
+<TOKEN end_char="2047" id="token-12-20" morph="none" pos="word" start_char="2045">que</TOKEN>
+<TOKEN end_char="2050" id="token-12-21" morph="none" pos="word" start_char="2049">el</TOKEN>
+<TOKEN end_char="2059" id="token-12-22" morph="none" pos="word" start_char="2052">pangolín</TOKEN>
+<TOKEN end_char="2060" id="token-12-23" morph="none" pos="punct" start_char="2060">,</TOKEN>
+<TOKEN end_char="2063" id="token-12-24" morph="none" pos="word" start_char="2062">el</TOKEN>
+<TOKEN end_char="2069" id="token-12-25" morph="none" pos="word" start_char="2065">tigre</TOKEN>
+<TOKEN end_char="2079" id="token-12-26" morph="none" pos="word" start_char="2071">siberiano</TOKEN>
+<TOKEN end_char="2081" id="token-12-27" morph="none" pos="word" start_char="2081">y</TOKEN>
+<TOKEN end_char="2090" id="token-12-28" morph="none" pos="word" start_char="2083">animales</TOKEN>
+<TOKEN end_char="2101" id="token-12-29" morph="none" pos="word" start_char="2092">domésticos</TOKEN>
+<TOKEN end_char="2106" id="token-12-30" morph="none" pos="word" start_char="2103">como</TOKEN>
+<TOKEN end_char="2109" id="token-12-31" morph="none" pos="word" start_char="2108">el</TOKEN>
+<TOKEN end_char="2117" id="token-12-32" morph="none" pos="word" start_char="2111">caballo</TOKEN>
+<TOKEN end_char="2118" id="token-12-33" morph="none" pos="punct" start_char="2118">,</TOKEN>
+<TOKEN end_char="2121" id="token-12-34" morph="none" pos="word" start_char="2120">la</TOKEN>
+<TOKEN end_char="2127" id="token-12-35" morph="none" pos="word" start_char="2123">oveja</TOKEN>
+<TOKEN end_char="2129" id="token-12-36" morph="none" pos="word" start_char="2129">y</TOKEN>
+<TOKEN end_char="2132" id="token-12-37" morph="none" pos="word" start_char="2131">la</TOKEN>
+<TOKEN end_char="2137" id="token-12-38" morph="none" pos="word" start_char="2134">vaca</TOKEN>
+<TOKEN end_char="2144" id="token-12-39" morph="none" pos="word" start_char="2139">tienen</TOKEN>
+<TOKEN end_char="2151" id="token-12-40" morph="none" pos="word" start_char="2146">varias</TOKEN>
+<TOKEN end_char="2162" id="token-12-41" morph="none" pos="word" start_char="2153">posiciones</TOKEN>
+<TOKEN end_char="2168" id="token-12-42" morph="none" pos="word" start_char="2164">clave</TOKEN>
+<TOKEN end_char="2171" id="token-12-43" morph="none" pos="word" start_char="2170">en</TOKEN>
+<TOKEN end_char="2174" id="token-12-44" morph="none" pos="word" start_char="2173">su</TOKEN>
+<TOKEN end_char="2183" id="token-12-45" morph="none" pos="word" start_char="2176">receptor</TOKEN>
+<TOKEN end_char="2196" id="token-12-46" morph="none" pos="word" start_char="2185">coincidentes</TOKEN>
+<TOKEN end_char="2200" id="token-12-47" morph="none" pos="word" start_char="2198">con</TOKEN>
+<TOKEN end_char="2204" id="token-12-48" morph="none" pos="word" start_char="2202">los</TOKEN>
+<TOKEN end_char="2212" id="token-12-49" morph="none" pos="word" start_char="2206">humanos</TOKEN>
+<TOKEN end_char="2214" id="token-12-50" morph="none" pos="word" start_char="2214">y</TOKEN>
+<TOKEN end_char="2222" id="token-12-51" morph="none" pos="word" start_char="2216">también</TOKEN>
+<TOKEN end_char="2226" id="token-12-52" morph="none" pos="word" start_char="2224">con</TOKEN>
+<TOKEN end_char="2230" id="token-12-53" morph="none" pos="word" start_char="2228">los</TOKEN>
+<TOKEN end_char="2242" id="token-12-54" morph="none" pos="word" start_char="2232">murciélagos</TOKEN>
+<TOKEN end_char="2243" id="token-12-55" morph="none" pos="punct" start_char="2243">.</TOKEN>
+<TRANSLATED_TEXT>That is the case of the quail, chicken, goose, rat, and mouse, while the pangolin, Siberian tiger, and domestic animals such as the horse, sheep, and cow have several key positions in their receptor coinciding with humans and also bats.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2478" id="segment-13" start_char="2246">
+<ORIGINAL_TEXT>Ante el peligro de expansión del covid-19 al mundo animal, los autores recomiendan seguir las directrices de la Organización Mundial de Sanidad Animal y hacer lo posible para reducir el contagio de los animales domésticos y salvajes.</ORIGINAL_TEXT>
+<TOKEN end_char="2249" id="token-13-0" morph="none" pos="word" start_char="2246">Ante</TOKEN>
+<TOKEN end_char="2252" id="token-13-1" morph="none" pos="word" start_char="2251">el</TOKEN>
+<TOKEN end_char="2260" id="token-13-2" morph="none" pos="word" start_char="2254">peligro</TOKEN>
+<TOKEN end_char="2263" id="token-13-3" morph="none" pos="word" start_char="2262">de</TOKEN>
+<TOKEN end_char="2273" id="token-13-4" morph="none" pos="word" start_char="2265">expansión</TOKEN>
+<TOKEN end_char="2277" id="token-13-5" morph="none" pos="word" start_char="2275">del</TOKEN>
+<TOKEN end_char="2286" id="token-13-6" morph="none" pos="unknown" start_char="2279">covid-19</TOKEN>
+<TOKEN end_char="2289" id="token-13-7" morph="none" pos="word" start_char="2288">al</TOKEN>
+<TOKEN end_char="2295" id="token-13-8" morph="none" pos="word" start_char="2291">mundo</TOKEN>
+<TOKEN end_char="2302" id="token-13-9" morph="none" pos="word" start_char="2297">animal</TOKEN>
+<TOKEN end_char="2303" id="token-13-10" morph="none" pos="punct" start_char="2303">,</TOKEN>
+<TOKEN end_char="2307" id="token-13-11" morph="none" pos="word" start_char="2305">los</TOKEN>
+<TOKEN end_char="2315" id="token-13-12" morph="none" pos="word" start_char="2309">autores</TOKEN>
+<TOKEN end_char="2327" id="token-13-13" morph="none" pos="word" start_char="2317">recomiendan</TOKEN>
+<TOKEN end_char="2334" id="token-13-14" morph="none" pos="word" start_char="2329">seguir</TOKEN>
+<TOKEN end_char="2338" id="token-13-15" morph="none" pos="word" start_char="2336">las</TOKEN>
+<TOKEN end_char="2350" id="token-13-16" morph="none" pos="word" start_char="2340">directrices</TOKEN>
+<TOKEN end_char="2353" id="token-13-17" morph="none" pos="word" start_char="2352">de</TOKEN>
+<TOKEN end_char="2356" id="token-13-18" morph="none" pos="word" start_char="2355">la</TOKEN>
+<TOKEN end_char="2369" id="token-13-19" morph="none" pos="word" start_char="2358">Organización</TOKEN>
+<TOKEN end_char="2377" id="token-13-20" morph="none" pos="word" start_char="2371">Mundial</TOKEN>
+<TOKEN end_char="2380" id="token-13-21" morph="none" pos="word" start_char="2379">de</TOKEN>
+<TOKEN end_char="2388" id="token-13-22" morph="none" pos="word" start_char="2382">Sanidad</TOKEN>
+<TOKEN end_char="2395" id="token-13-23" morph="none" pos="word" start_char="2390">Animal</TOKEN>
+<TOKEN end_char="2397" id="token-13-24" morph="none" pos="word" start_char="2397">y</TOKEN>
+<TOKEN end_char="2403" id="token-13-25" morph="none" pos="word" start_char="2399">hacer</TOKEN>
+<TOKEN end_char="2406" id="token-13-26" morph="none" pos="word" start_char="2405">lo</TOKEN>
+<TOKEN end_char="2414" id="token-13-27" morph="none" pos="word" start_char="2408">posible</TOKEN>
+<TOKEN end_char="2419" id="token-13-28" morph="none" pos="word" start_char="2416">para</TOKEN>
+<TOKEN end_char="2427" id="token-13-29" morph="none" pos="word" start_char="2421">reducir</TOKEN>
+<TOKEN end_char="2430" id="token-13-30" morph="none" pos="word" start_char="2429">el</TOKEN>
+<TOKEN end_char="2439" id="token-13-31" morph="none" pos="word" start_char="2432">contagio</TOKEN>
+<TOKEN end_char="2442" id="token-13-32" morph="none" pos="word" start_char="2441">de</TOKEN>
+<TOKEN end_char="2446" id="token-13-33" morph="none" pos="word" start_char="2444">los</TOKEN>
+<TOKEN end_char="2455" id="token-13-34" morph="none" pos="word" start_char="2448">animales</TOKEN>
+<TOKEN end_char="2466" id="token-13-35" morph="none" pos="word" start_char="2457">domésticos</TOKEN>
+<TOKEN end_char="2468" id="token-13-36" morph="none" pos="word" start_char="2468">y</TOKEN>
+<TOKEN end_char="2477" id="token-13-37" morph="none" pos="word" start_char="2470">salvajes</TOKEN>
+<TOKEN end_char="2478" id="token-13-38" morph="none" pos="punct" start_char="2478">.</TOKEN>
+<TRANSLATED_TEXT>In view of the danger of the spread of covid-19 to the animal world, the authors recommend following the guidelines of the World Animal Health Organization and doing everything possible to reduce the spread of domestic and wild animals.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2525" id="segment-14" start_char="2481">
+<ORIGINAL_TEXT>Si te ha gustado, ¡compártelo con tus amigos!</ORIGINAL_TEXT>
+<TOKEN end_char="2482" id="token-14-0" morph="none" pos="word" start_char="2481">Si</TOKEN>
+<TOKEN end_char="2485" id="token-14-1" morph="none" pos="word" start_char="2484">te</TOKEN>
+<TOKEN end_char="2488" id="token-14-2" morph="none" pos="word" start_char="2487">ha</TOKEN>
+<TOKEN end_char="2496" id="token-14-3" morph="none" pos="word" start_char="2490">gustado</TOKEN>
+<TOKEN end_char="2497" id="token-14-4" morph="none" pos="punct" start_char="2497">,</TOKEN>
+<TOKEN end_char="2499" id="token-14-5" morph="none" pos="punct" start_char="2499">¡</TOKEN>
+<TOKEN end_char="2509" id="token-14-6" morph="none" pos="word" start_char="2500">compártelo</TOKEN>
+<TOKEN end_char="2513" id="token-14-7" morph="none" pos="word" start_char="2511">con</TOKEN>
+<TOKEN end_char="2517" id="token-14-8" morph="none" pos="word" start_char="2515">tus</TOKEN>
+<TOKEN end_char="2524" id="token-14-9" morph="none" pos="word" start_char="2519">amigos</TOKEN>
+<TOKEN end_char="2525" id="token-14-10" morph="none" pos="punct" start_char="2525">!</TOKEN>
+<TRANSLATED_TEXT>If you like it, share it with your friends!!</TRANSLATED_TEXT><DETECTED_LANGUAGE>pt</DETECTED_LANGUAGE></SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

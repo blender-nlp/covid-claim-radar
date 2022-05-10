@@ -1,0 +1,1277 @@
+<LCTL_TEXT lang="spa">
+<DOC grammar="none" id="L0C04CVJQ" lang="spa" raw_text_char_length="6399" raw_text_md5="e4024c1657fc776e9290b5655c0461c2" tokenization="tokenization_parameters.v5.0">
+<TEXT>
+<SEG end_char="136" id="segment-0" start_char="1">
+<ORIGINAL_TEXT>El plasma de convalecientes, rico en anticuerpos, no disminuye la mortalidad de los pacientes hospitalizados con covid-19, según estudio</ORIGINAL_TEXT>
+<TOKEN end_char="2" id="token-0-0" morph="none" pos="word" start_char="1">El</TOKEN>
+<TOKEN end_char="9" id="token-0-1" morph="none" pos="word" start_char="4">plasma</TOKEN>
+<TOKEN end_char="12" id="token-0-2" morph="none" pos="word" start_char="11">de</TOKEN>
+<TOKEN end_char="27" id="token-0-3" morph="none" pos="word" start_char="14">convalecientes</TOKEN>
+<TOKEN end_char="28" id="token-0-4" morph="none" pos="punct" start_char="28">,</TOKEN>
+<TOKEN end_char="33" id="token-0-5" morph="none" pos="word" start_char="30">rico</TOKEN>
+<TOKEN end_char="36" id="token-0-6" morph="none" pos="word" start_char="35">en</TOKEN>
+<TOKEN end_char="48" id="token-0-7" morph="none" pos="word" start_char="38">anticuerpos</TOKEN>
+<TOKEN end_char="49" id="token-0-8" morph="none" pos="punct" start_char="49">,</TOKEN>
+<TOKEN end_char="52" id="token-0-9" morph="none" pos="word" start_char="51">no</TOKEN>
+<TOKEN end_char="62" id="token-0-10" morph="none" pos="word" start_char="54">disminuye</TOKEN>
+<TOKEN end_char="65" id="token-0-11" morph="none" pos="word" start_char="64">la</TOKEN>
+<TOKEN end_char="76" id="token-0-12" morph="none" pos="word" start_char="67">mortalidad</TOKEN>
+<TOKEN end_char="79" id="token-0-13" morph="none" pos="word" start_char="78">de</TOKEN>
+<TOKEN end_char="83" id="token-0-14" morph="none" pos="word" start_char="81">los</TOKEN>
+<TOKEN end_char="93" id="token-0-15" morph="none" pos="word" start_char="85">pacientes</TOKEN>
+<TOKEN end_char="108" id="token-0-16" morph="none" pos="word" start_char="95">hospitalizados</TOKEN>
+<TOKEN end_char="112" id="token-0-17" morph="none" pos="word" start_char="110">con</TOKEN>
+<TOKEN end_char="121" id="token-0-18" morph="none" pos="unknown" start_char="114">covid-19</TOKEN>
+<TOKEN end_char="122" id="token-0-19" morph="none" pos="punct" start_char="122">,</TOKEN>
+<TOKEN end_char="128" id="token-0-20" morph="none" pos="word" start_char="124">según</TOKEN>
+<TOKEN end_char="136" id="token-0-21" morph="none" pos="word" start_char="130">estudio</TOKEN>
+<TRANSLATED_TEXT>Conconvalescent plasma, rich in antibodies, does not decrease mortality in patients hospitalized with covid-19, according to study</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="143" id="segment-1" start_char="140">
+<ORIGINAL_TEXT>1:38</ORIGINAL_TEXT>
+<TOKEN end_char="143" id="token-1-0" morph="none" pos="unknown" start_char="140">1:38</TOKEN>
+<TRANSLATED_TEXT>1: 38.</TRANSLATED_TEXT><DETECTED_LANGUAGE /></SEG>
+<SEG end_char="322" id="segment-2" start_char="146">
+<ORIGINAL_TEXT>(CNN Español) – Usar plasma de convalecientes como terapia para tratar a pacientes hospitalizados con coronavirus es un método que se ha empleado desde el inicio de la pandemia.</ORIGINAL_TEXT>
+<TOKEN end_char="146" id="token-2-0" morph="none" pos="punct" start_char="146">(</TOKEN>
+<TOKEN end_char="149" id="token-2-1" morph="none" pos="word" start_char="147">CNN</TOKEN>
+<TOKEN end_char="157" id="token-2-2" morph="none" pos="word" start_char="151">Español</TOKEN>
+<TOKEN end_char="158" id="token-2-3" morph="none" pos="punct" start_char="158">)</TOKEN>
+<TOKEN end_char="160" id="token-2-4" morph="none" pos="punct" start_char="160">–</TOKEN>
+<TOKEN end_char="165" id="token-2-5" morph="none" pos="word" start_char="162">Usar</TOKEN>
+<TOKEN end_char="172" id="token-2-6" morph="none" pos="word" start_char="167">plasma</TOKEN>
+<TOKEN end_char="175" id="token-2-7" morph="none" pos="word" start_char="174">de</TOKEN>
+<TOKEN end_char="190" id="token-2-8" morph="none" pos="word" start_char="177">convalecientes</TOKEN>
+<TOKEN end_char="195" id="token-2-9" morph="none" pos="word" start_char="192">como</TOKEN>
+<TOKEN end_char="203" id="token-2-10" morph="none" pos="word" start_char="197">terapia</TOKEN>
+<TOKEN end_char="208" id="token-2-11" morph="none" pos="word" start_char="205">para</TOKEN>
+<TOKEN end_char="215" id="token-2-12" morph="none" pos="word" start_char="210">tratar</TOKEN>
+<TOKEN end_char="217" id="token-2-13" morph="none" pos="word" start_char="217">a</TOKEN>
+<TOKEN end_char="227" id="token-2-14" morph="none" pos="word" start_char="219">pacientes</TOKEN>
+<TOKEN end_char="242" id="token-2-15" morph="none" pos="word" start_char="229">hospitalizados</TOKEN>
+<TOKEN end_char="246" id="token-2-16" morph="none" pos="word" start_char="244">con</TOKEN>
+<TOKEN end_char="258" id="token-2-17" morph="none" pos="word" start_char="248">coronavirus</TOKEN>
+<TOKEN end_char="261" id="token-2-18" morph="none" pos="word" start_char="260">es</TOKEN>
+<TOKEN end_char="264" id="token-2-19" morph="none" pos="word" start_char="263">un</TOKEN>
+<TOKEN end_char="271" id="token-2-20" morph="none" pos="word" start_char="266">método</TOKEN>
+<TOKEN end_char="275" id="token-2-21" morph="none" pos="word" start_char="273">que</TOKEN>
+<TOKEN end_char="278" id="token-2-22" morph="none" pos="word" start_char="277">se</TOKEN>
+<TOKEN end_char="281" id="token-2-23" morph="none" pos="word" start_char="280">ha</TOKEN>
+<TOKEN end_char="290" id="token-2-24" morph="none" pos="word" start_char="283">empleado</TOKEN>
+<TOKEN end_char="296" id="token-2-25" morph="none" pos="word" start_char="292">desde</TOKEN>
+<TOKEN end_char="299" id="token-2-26" morph="none" pos="word" start_char="298">el</TOKEN>
+<TOKEN end_char="306" id="token-2-27" morph="none" pos="word" start_char="301">inicio</TOKEN>
+<TOKEN end_char="309" id="token-2-28" morph="none" pos="word" start_char="308">de</TOKEN>
+<TOKEN end_char="312" id="token-2-29" morph="none" pos="word" start_char="311">la</TOKEN>
+<TOKEN end_char="321" id="token-2-30" morph="none" pos="word" start_char="314">pandemia</TOKEN>
+<TOKEN end_char="322" id="token-2-31" morph="none" pos="punct" start_char="322">.</TOKEN>
+<TRANSLATED_TEXT>(CNN Español) - Using convalescent plasma as therapy to treat hospitalized patients with coronavirus is a method that has been used since the beginning of the pandemic.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="514" id="segment-3" start_char="325">
+<ORIGINAL_TEXT>En ese entonces, científicos dijeron que los anticuerpos presentes en este plasma –que se extrae de personas que superaron la enfermedad– ayudaba a reducir la mortalidad en pacientes graves.</ORIGINAL_TEXT>
+<TOKEN end_char="326" id="token-3-0" morph="none" pos="word" start_char="325">En</TOKEN>
+<TOKEN end_char="330" id="token-3-1" morph="none" pos="word" start_char="328">ese</TOKEN>
+<TOKEN end_char="339" id="token-3-2" morph="none" pos="word" start_char="332">entonces</TOKEN>
+<TOKEN end_char="340" id="token-3-3" morph="none" pos="punct" start_char="340">,</TOKEN>
+<TOKEN end_char="352" id="token-3-4" morph="none" pos="word" start_char="342">científicos</TOKEN>
+<TOKEN end_char="360" id="token-3-5" morph="none" pos="word" start_char="354">dijeron</TOKEN>
+<TOKEN end_char="364" id="token-3-6" morph="none" pos="word" start_char="362">que</TOKEN>
+<TOKEN end_char="368" id="token-3-7" morph="none" pos="word" start_char="366">los</TOKEN>
+<TOKEN end_char="380" id="token-3-8" morph="none" pos="word" start_char="370">anticuerpos</TOKEN>
+<TOKEN end_char="390" id="token-3-9" morph="none" pos="word" start_char="382">presentes</TOKEN>
+<TOKEN end_char="393" id="token-3-10" morph="none" pos="word" start_char="392">en</TOKEN>
+<TOKEN end_char="398" id="token-3-11" morph="none" pos="word" start_char="395">este</TOKEN>
+<TOKEN end_char="405" id="token-3-12" morph="none" pos="word" start_char="400">plasma</TOKEN>
+<TOKEN end_char="407" id="token-3-13" morph="none" pos="punct" start_char="407">–</TOKEN>
+<TOKEN end_char="410" id="token-3-14" morph="none" pos="word" start_char="408">que</TOKEN>
+<TOKEN end_char="413" id="token-3-15" morph="none" pos="word" start_char="412">se</TOKEN>
+<TOKEN end_char="420" id="token-3-16" morph="none" pos="word" start_char="415">extrae</TOKEN>
+<TOKEN end_char="423" id="token-3-17" morph="none" pos="word" start_char="422">de</TOKEN>
+<TOKEN end_char="432" id="token-3-18" morph="none" pos="word" start_char="425">personas</TOKEN>
+<TOKEN end_char="436" id="token-3-19" morph="none" pos="word" start_char="434">que</TOKEN>
+<TOKEN end_char="446" id="token-3-20" morph="none" pos="word" start_char="438">superaron</TOKEN>
+<TOKEN end_char="449" id="token-3-21" morph="none" pos="word" start_char="448">la</TOKEN>
+<TOKEN end_char="460" id="token-3-22" morph="none" pos="word" start_char="451">enfermedad</TOKEN>
+<TOKEN end_char="461" id="token-3-23" morph="none" pos="punct" start_char="461">–</TOKEN>
+<TOKEN end_char="469" id="token-3-24" morph="none" pos="word" start_char="463">ayudaba</TOKEN>
+<TOKEN end_char="471" id="token-3-25" morph="none" pos="word" start_char="471">a</TOKEN>
+<TOKEN end_char="479" id="token-3-26" morph="none" pos="word" start_char="473">reducir</TOKEN>
+<TOKEN end_char="482" id="token-3-27" morph="none" pos="word" start_char="481">la</TOKEN>
+<TOKEN end_char="493" id="token-3-28" morph="none" pos="word" start_char="484">mortalidad</TOKEN>
+<TOKEN end_char="496" id="token-3-29" morph="none" pos="word" start_char="495">en</TOKEN>
+<TOKEN end_char="506" id="token-3-30" morph="none" pos="word" start_char="498">pacientes</TOKEN>
+<TOKEN end_char="513" id="token-3-31" morph="none" pos="word" start_char="508">graves</TOKEN>
+<TOKEN end_char="514" id="token-3-32" morph="none" pos="punct" start_char="514">.</TOKEN>
+<TRANSLATED_TEXT>At the time, scientists said that antibodies in this plasma - extracted from people who had survived the disease - helped reduce mortality in serious patients.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="682" id="segment-4" start_char="517">
+<ORIGINAL_TEXT>Sin embargo, un estudio publicado en la revista BMJ muestra que el uso del plasma de convalecientes no previene la complicación de síntomas en pacientes con covid-19.</ORIGINAL_TEXT>
+<TOKEN end_char="519" id="token-4-0" morph="none" pos="word" start_char="517">Sin</TOKEN>
+<TOKEN end_char="527" id="token-4-1" morph="none" pos="word" start_char="521">embargo</TOKEN>
+<TOKEN end_char="528" id="token-4-2" morph="none" pos="punct" start_char="528">,</TOKEN>
+<TOKEN end_char="531" id="token-4-3" morph="none" pos="word" start_char="530">un</TOKEN>
+<TOKEN end_char="539" id="token-4-4" morph="none" pos="word" start_char="533">estudio</TOKEN>
+<TOKEN end_char="549" id="token-4-5" morph="none" pos="word" start_char="541">publicado</TOKEN>
+<TOKEN end_char="552" id="token-4-6" morph="none" pos="word" start_char="551">en</TOKEN>
+<TOKEN end_char="555" id="token-4-7" morph="none" pos="word" start_char="554">la</TOKEN>
+<TOKEN end_char="563" id="token-4-8" morph="none" pos="word" start_char="557">revista</TOKEN>
+<TOKEN end_char="567" id="token-4-9" morph="none" pos="word" start_char="565">BMJ</TOKEN>
+<TOKEN end_char="575" id="token-4-10" morph="none" pos="word" start_char="569">muestra</TOKEN>
+<TOKEN end_char="579" id="token-4-11" morph="none" pos="word" start_char="577">que</TOKEN>
+<TOKEN end_char="582" id="token-4-12" morph="none" pos="word" start_char="581">el</TOKEN>
+<TOKEN end_char="586" id="token-4-13" morph="none" pos="word" start_char="584">uso</TOKEN>
+<TOKEN end_char="590" id="token-4-14" morph="none" pos="word" start_char="588">del</TOKEN>
+<TOKEN end_char="597" id="token-4-15" morph="none" pos="word" start_char="592">plasma</TOKEN>
+<TOKEN end_char="600" id="token-4-16" morph="none" pos="word" start_char="599">de</TOKEN>
+<TOKEN end_char="615" id="token-4-17" morph="none" pos="word" start_char="602">convalecientes</TOKEN>
+<TOKEN end_char="618" id="token-4-18" morph="none" pos="word" start_char="617">no</TOKEN>
+<TOKEN end_char="627" id="token-4-19" morph="none" pos="word" start_char="620">previene</TOKEN>
+<TOKEN end_char="630" id="token-4-20" morph="none" pos="word" start_char="629">la</TOKEN>
+<TOKEN end_char="643" id="token-4-21" morph="none" pos="word" start_char="632">complicación</TOKEN>
+<TOKEN end_char="646" id="token-4-22" morph="none" pos="word" start_char="645">de</TOKEN>
+<TOKEN end_char="655" id="token-4-23" morph="none" pos="word" start_char="648">síntomas</TOKEN>
+<TOKEN end_char="658" id="token-4-24" morph="none" pos="word" start_char="657">en</TOKEN>
+<TOKEN end_char="668" id="token-4-25" morph="none" pos="word" start_char="660">pacientes</TOKEN>
+<TOKEN end_char="672" id="token-4-26" morph="none" pos="word" start_char="670">con</TOKEN>
+<TOKEN end_char="681" id="token-4-27" morph="none" pos="unknown" start_char="674">covid-19</TOKEN>
+<TOKEN end_char="682" id="token-4-28" morph="none" pos="punct" start_char="682">.</TOKEN>
+<TRANSLATED_TEXT>However, a study published in BMJ magazine shows that the use of convalescent plasma does not prevent the complication of symptoms in patients with covid-19.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="817" id="segment-5" start_char="685">
+<ORIGINAL_TEXT>Puedes escuchar este episodio en Apple Podcasts, Spotify o tu plataforma de podcast favorita, o leer la transcripción a continuación.</ORIGINAL_TEXT>
+<TOKEN end_char="690" id="token-5-0" morph="none" pos="word" start_char="685">Puedes</TOKEN>
+<TOKEN end_char="699" id="token-5-1" morph="none" pos="word" start_char="692">escuchar</TOKEN>
+<TOKEN end_char="704" id="token-5-2" morph="none" pos="word" start_char="701">este</TOKEN>
+<TOKEN end_char="713" id="token-5-3" morph="none" pos="word" start_char="706">episodio</TOKEN>
+<TOKEN end_char="716" id="token-5-4" morph="none" pos="word" start_char="715">en</TOKEN>
+<TOKEN end_char="722" id="token-5-5" morph="none" pos="word" start_char="718">Apple</TOKEN>
+<TOKEN end_char="731" id="token-5-6" morph="none" pos="word" start_char="724">Podcasts</TOKEN>
+<TOKEN end_char="732" id="token-5-7" morph="none" pos="punct" start_char="732">,</TOKEN>
+<TOKEN end_char="740" id="token-5-8" morph="none" pos="word" start_char="734">Spotify</TOKEN>
+<TOKEN end_char="742" id="token-5-9" morph="none" pos="word" start_char="742">o</TOKEN>
+<TOKEN end_char="745" id="token-5-10" morph="none" pos="word" start_char="744">tu</TOKEN>
+<TOKEN end_char="756" id="token-5-11" morph="none" pos="word" start_char="747">plataforma</TOKEN>
+<TOKEN end_char="759" id="token-5-12" morph="none" pos="word" start_char="758">de</TOKEN>
+<TOKEN end_char="767" id="token-5-13" morph="none" pos="word" start_char="761">podcast</TOKEN>
+<TOKEN end_char="776" id="token-5-14" morph="none" pos="word" start_char="769">favorita</TOKEN>
+<TOKEN end_char="777" id="token-5-15" morph="none" pos="punct" start_char="777">,</TOKEN>
+<TOKEN end_char="779" id="token-5-16" morph="none" pos="word" start_char="779">o</TOKEN>
+<TOKEN end_char="784" id="token-5-17" morph="none" pos="word" start_char="781">leer</TOKEN>
+<TOKEN end_char="787" id="token-5-18" morph="none" pos="word" start_char="786">la</TOKEN>
+<TOKEN end_char="801" id="token-5-19" morph="none" pos="word" start_char="789">transcripción</TOKEN>
+<TOKEN end_char="803" id="token-5-20" morph="none" pos="word" start_char="803">a</TOKEN>
+<TOKEN end_char="816" id="token-5-21" morph="none" pos="word" start_char="805">continuación</TOKEN>
+<TOKEN end_char="817" id="token-5-22" morph="none" pos="punct" start_char="817">.</TOKEN>
+<TRANSLATED_TEXT>You can listen to this episode on Apple Podcasts, Spotify or your favorite podcast platform, or read the transcript below.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="917" id="segment-6" start_char="820">
+<ORIGINAL_TEXT>Hola, soy el Dr. Elmer Huerta y esta es su diaria dosis de información sobre el nuevo coronavirus.</ORIGINAL_TEXT>
+<TOKEN end_char="823" id="token-6-0" morph="none" pos="word" start_char="820">Hola</TOKEN>
+<TOKEN end_char="824" id="token-6-1" morph="none" pos="punct" start_char="824">,</TOKEN>
+<TOKEN end_char="828" id="token-6-2" morph="none" pos="word" start_char="826">soy</TOKEN>
+<TOKEN end_char="831" id="token-6-3" morph="none" pos="word" start_char="830">el</TOKEN>
+<TOKEN end_char="834" id="token-6-4" morph="none" pos="word" start_char="833">Dr</TOKEN>
+<TOKEN end_char="835" id="token-6-5" morph="none" pos="punct" start_char="835">.</TOKEN>
+<TOKEN end_char="841" id="token-6-6" morph="none" pos="word" start_char="837">Elmer</TOKEN>
+<TOKEN end_char="848" id="token-6-7" morph="none" pos="word" start_char="843">Huerta</TOKEN>
+<TOKEN end_char="850" id="token-6-8" morph="none" pos="word" start_char="850">y</TOKEN>
+<TOKEN end_char="855" id="token-6-9" morph="none" pos="word" start_char="852">esta</TOKEN>
+<TOKEN end_char="858" id="token-6-10" morph="none" pos="word" start_char="857">es</TOKEN>
+<TOKEN end_char="861" id="token-6-11" morph="none" pos="word" start_char="860">su</TOKEN>
+<TOKEN end_char="868" id="token-6-12" morph="none" pos="word" start_char="863">diaria</TOKEN>
+<TOKEN end_char="874" id="token-6-13" morph="none" pos="word" start_char="870">dosis</TOKEN>
+<TOKEN end_char="877" id="token-6-14" morph="none" pos="word" start_char="876">de</TOKEN>
+<TOKEN end_char="889" id="token-6-15" morph="none" pos="word" start_char="879">información</TOKEN>
+<TOKEN end_char="895" id="token-6-16" morph="none" pos="word" start_char="891">sobre</TOKEN>
+<TOKEN end_char="898" id="token-6-17" morph="none" pos="word" start_char="897">el</TOKEN>
+<TOKEN end_char="904" id="token-6-18" morph="none" pos="word" start_char="900">nuevo</TOKEN>
+<TOKEN end_char="916" id="token-6-19" morph="none" pos="word" start_char="906">coronavirus</TOKEN>
+<TOKEN end_char="917" id="token-6-20" morph="none" pos="punct" start_char="917">.</TOKEN>
+<TRANSLATED_TEXT>Hi, I'm Dr. Elmer Huerta and this is your daily dose of information about the new coronavirus.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1003" id="segment-7" start_char="919">
+<ORIGINAL_TEXT>Información que esperamos sea de utilidad para cuidar de su salud y la de su familia.</ORIGINAL_TEXT>
+<TOKEN end_char="929" id="token-7-0" morph="none" pos="word" start_char="919">Información</TOKEN>
+<TOKEN end_char="933" id="token-7-1" morph="none" pos="word" start_char="931">que</TOKEN>
+<TOKEN end_char="943" id="token-7-2" morph="none" pos="word" start_char="935">esperamos</TOKEN>
+<TOKEN end_char="947" id="token-7-3" morph="none" pos="word" start_char="945">sea</TOKEN>
+<TOKEN end_char="950" id="token-7-4" morph="none" pos="word" start_char="949">de</TOKEN>
+<TOKEN end_char="959" id="token-7-5" morph="none" pos="word" start_char="952">utilidad</TOKEN>
+<TOKEN end_char="964" id="token-7-6" morph="none" pos="word" start_char="961">para</TOKEN>
+<TOKEN end_char="971" id="token-7-7" morph="none" pos="word" start_char="966">cuidar</TOKEN>
+<TOKEN end_char="974" id="token-7-8" morph="none" pos="word" start_char="973">de</TOKEN>
+<TOKEN end_char="977" id="token-7-9" morph="none" pos="word" start_char="976">su</TOKEN>
+<TOKEN end_char="983" id="token-7-10" morph="none" pos="word" start_char="979">salud</TOKEN>
+<TOKEN end_char="985" id="token-7-11" morph="none" pos="word" start_char="985">y</TOKEN>
+<TOKEN end_char="988" id="token-7-12" morph="none" pos="word" start_char="987">la</TOKEN>
+<TOKEN end_char="991" id="token-7-13" morph="none" pos="word" start_char="990">de</TOKEN>
+<TOKEN end_char="994" id="token-7-14" morph="none" pos="word" start_char="993">su</TOKEN>
+<TOKEN end_char="1002" id="token-7-15" morph="none" pos="word" start_char="996">familia</TOKEN>
+<TOKEN end_char="1003" id="token-7-16" morph="none" pos="punct" start_char="1003">.</TOKEN>
+<TRANSLATED_TEXT>Information that we hope will be useful for your health and that of your family.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1168" id="segment-8" start_char="1006">
+<ORIGINAL_TEXT>Hoy veremos un estudio que demuestra que el plasma de convalecientes, rico en anticuerpos, no disminuye la mortalidad de los pacientes hospitalizados con covid-19.</ORIGINAL_TEXT>
+<TOKEN end_char="1008" id="token-8-0" morph="none" pos="word" start_char="1006">Hoy</TOKEN>
+<TOKEN end_char="1016" id="token-8-1" morph="none" pos="word" start_char="1010">veremos</TOKEN>
+<TOKEN end_char="1019" id="token-8-2" morph="none" pos="word" start_char="1018">un</TOKEN>
+<TOKEN end_char="1027" id="token-8-3" morph="none" pos="word" start_char="1021">estudio</TOKEN>
+<TOKEN end_char="1031" id="token-8-4" morph="none" pos="word" start_char="1029">que</TOKEN>
+<TOKEN end_char="1041" id="token-8-5" morph="none" pos="word" start_char="1033">demuestra</TOKEN>
+<TOKEN end_char="1045" id="token-8-6" morph="none" pos="word" start_char="1043">que</TOKEN>
+<TOKEN end_char="1048" id="token-8-7" morph="none" pos="word" start_char="1047">el</TOKEN>
+<TOKEN end_char="1055" id="token-8-8" morph="none" pos="word" start_char="1050">plasma</TOKEN>
+<TOKEN end_char="1058" id="token-8-9" morph="none" pos="word" start_char="1057">de</TOKEN>
+<TOKEN end_char="1073" id="token-8-10" morph="none" pos="word" start_char="1060">convalecientes</TOKEN>
+<TOKEN end_char="1074" id="token-8-11" morph="none" pos="punct" start_char="1074">,</TOKEN>
+<TOKEN end_char="1079" id="token-8-12" morph="none" pos="word" start_char="1076">rico</TOKEN>
+<TOKEN end_char="1082" id="token-8-13" morph="none" pos="word" start_char="1081">en</TOKEN>
+<TOKEN end_char="1094" id="token-8-14" morph="none" pos="word" start_char="1084">anticuerpos</TOKEN>
+<TOKEN end_char="1095" id="token-8-15" morph="none" pos="punct" start_char="1095">,</TOKEN>
+<TOKEN end_char="1098" id="token-8-16" morph="none" pos="word" start_char="1097">no</TOKEN>
+<TOKEN end_char="1108" id="token-8-17" morph="none" pos="word" start_char="1100">disminuye</TOKEN>
+<TOKEN end_char="1111" id="token-8-18" morph="none" pos="word" start_char="1110">la</TOKEN>
+<TOKEN end_char="1122" id="token-8-19" morph="none" pos="word" start_char="1113">mortalidad</TOKEN>
+<TOKEN end_char="1125" id="token-8-20" morph="none" pos="word" start_char="1124">de</TOKEN>
+<TOKEN end_char="1129" id="token-8-21" morph="none" pos="word" start_char="1127">los</TOKEN>
+<TOKEN end_char="1139" id="token-8-22" morph="none" pos="word" start_char="1131">pacientes</TOKEN>
+<TOKEN end_char="1154" id="token-8-23" morph="none" pos="word" start_char="1141">hospitalizados</TOKEN>
+<TOKEN end_char="1158" id="token-8-24" morph="none" pos="word" start_char="1156">con</TOKEN>
+<TOKEN end_char="1167" id="token-8-25" morph="none" pos="unknown" start_char="1160">covid-19</TOKEN>
+<TOKEN end_char="1168" id="token-8-26" morph="none" pos="punct" start_char="1168">.</TOKEN>
+<TRANSLATED_TEXT>Today we will see a study showing that convalescent plasma, rich in antibodies, does not decrease the mortality of patients hospitalized with covid-19.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1225" id="segment-9" start_char="1171">
+<ORIGINAL_TEXT>Fundamentos del tratamiento de plasma de convalecientes</ORIGINAL_TEXT>
+<TOKEN end_char="1181" id="token-9-0" morph="none" pos="word" start_char="1171">Fundamentos</TOKEN>
+<TOKEN end_char="1185" id="token-9-1" morph="none" pos="word" start_char="1183">del</TOKEN>
+<TOKEN end_char="1197" id="token-9-2" morph="none" pos="word" start_char="1187">tratamiento</TOKEN>
+<TOKEN end_char="1200" id="token-9-3" morph="none" pos="word" start_char="1199">de</TOKEN>
+<TOKEN end_char="1207" id="token-9-4" morph="none" pos="word" start_char="1202">plasma</TOKEN>
+<TOKEN end_char="1210" id="token-9-5" morph="none" pos="word" start_char="1209">de</TOKEN>
+<TOKEN end_char="1225" id="token-9-6" morph="none" pos="word" start_char="1212">convalecientes</TOKEN>
+<TRANSLATED_TEXT>Fundamentals of convalescent plasma treatment</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1501" id="segment-10" start_char="1229">
+<ORIGINAL_TEXT>Como describimos en el episodio del 7 de abril, el tratamiento con plasma de convalecientes tiene su fundamento en el hecho de que la sangre de una persona que se recupera de la enfermedad contiene una enorme cantidad de anticuerpos específicos contra el nuevo coronavirus.</ORIGINAL_TEXT>
+<TOKEN end_char="1232" id="token-10-0" morph="none" pos="word" start_char="1229">Como</TOKEN>
+<TOKEN end_char="1244" id="token-10-1" morph="none" pos="word" start_char="1234">describimos</TOKEN>
+<TOKEN end_char="1247" id="token-10-2" morph="none" pos="word" start_char="1246">en</TOKEN>
+<TOKEN end_char="1250" id="token-10-3" morph="none" pos="word" start_char="1249">el</TOKEN>
+<TOKEN end_char="1259" id="token-10-4" morph="none" pos="word" start_char="1252">episodio</TOKEN>
+<TOKEN end_char="1263" id="token-10-5" morph="none" pos="word" start_char="1261">del</TOKEN>
+<TOKEN end_char="1265" id="token-10-6" morph="none" pos="word" start_char="1265">7</TOKEN>
+<TOKEN end_char="1268" id="token-10-7" morph="none" pos="word" start_char="1267">de</TOKEN>
+<TOKEN end_char="1274" id="token-10-8" morph="none" pos="word" start_char="1270">abril</TOKEN>
+<TOKEN end_char="1275" id="token-10-9" morph="none" pos="punct" start_char="1275">,</TOKEN>
+<TOKEN end_char="1278" id="token-10-10" morph="none" pos="word" start_char="1277">el</TOKEN>
+<TOKEN end_char="1290" id="token-10-11" morph="none" pos="word" start_char="1280">tratamiento</TOKEN>
+<TOKEN end_char="1294" id="token-10-12" morph="none" pos="word" start_char="1292">con</TOKEN>
+<TOKEN end_char="1301" id="token-10-13" morph="none" pos="word" start_char="1296">plasma</TOKEN>
+<TOKEN end_char="1304" id="token-10-14" morph="none" pos="word" start_char="1303">de</TOKEN>
+<TOKEN end_char="1319" id="token-10-15" morph="none" pos="word" start_char="1306">convalecientes</TOKEN>
+<TOKEN end_char="1325" id="token-10-16" morph="none" pos="word" start_char="1321">tiene</TOKEN>
+<TOKEN end_char="1328" id="token-10-17" morph="none" pos="word" start_char="1327">su</TOKEN>
+<TOKEN end_char="1339" id="token-10-18" morph="none" pos="word" start_char="1330">fundamento</TOKEN>
+<TOKEN end_char="1342" id="token-10-19" morph="none" pos="word" start_char="1341">en</TOKEN>
+<TOKEN end_char="1345" id="token-10-20" morph="none" pos="word" start_char="1344">el</TOKEN>
+<TOKEN end_char="1351" id="token-10-21" morph="none" pos="word" start_char="1347">hecho</TOKEN>
+<TOKEN end_char="1354" id="token-10-22" morph="none" pos="word" start_char="1353">de</TOKEN>
+<TOKEN end_char="1358" id="token-10-23" morph="none" pos="word" start_char="1356">que</TOKEN>
+<TOKEN end_char="1361" id="token-10-24" morph="none" pos="word" start_char="1360">la</TOKEN>
+<TOKEN end_char="1368" id="token-10-25" morph="none" pos="word" start_char="1363">sangre</TOKEN>
+<TOKEN end_char="1371" id="token-10-26" morph="none" pos="word" start_char="1370">de</TOKEN>
+<TOKEN end_char="1375" id="token-10-27" morph="none" pos="word" start_char="1373">una</TOKEN>
+<TOKEN end_char="1383" id="token-10-28" morph="none" pos="word" start_char="1377">persona</TOKEN>
+<TOKEN end_char="1387" id="token-10-29" morph="none" pos="word" start_char="1385">que</TOKEN>
+<TOKEN end_char="1390" id="token-10-30" morph="none" pos="word" start_char="1389">se</TOKEN>
+<TOKEN end_char="1399" id="token-10-31" morph="none" pos="word" start_char="1392">recupera</TOKEN>
+<TOKEN end_char="1402" id="token-10-32" morph="none" pos="word" start_char="1401">de</TOKEN>
+<TOKEN end_char="1405" id="token-10-33" morph="none" pos="word" start_char="1404">la</TOKEN>
+<TOKEN end_char="1416" id="token-10-34" morph="none" pos="word" start_char="1407">enfermedad</TOKEN>
+<TOKEN end_char="1425" id="token-10-35" morph="none" pos="word" start_char="1418">contiene</TOKEN>
+<TOKEN end_char="1429" id="token-10-36" morph="none" pos="word" start_char="1427">una</TOKEN>
+<TOKEN end_char="1436" id="token-10-37" morph="none" pos="word" start_char="1431">enorme</TOKEN>
+<TOKEN end_char="1445" id="token-10-38" morph="none" pos="word" start_char="1438">cantidad</TOKEN>
+<TOKEN end_char="1448" id="token-10-39" morph="none" pos="word" start_char="1447">de</TOKEN>
+<TOKEN end_char="1460" id="token-10-40" morph="none" pos="word" start_char="1450">anticuerpos</TOKEN>
+<TOKEN end_char="1472" id="token-10-41" morph="none" pos="word" start_char="1462">específicos</TOKEN>
+<TOKEN end_char="1479" id="token-10-42" morph="none" pos="word" start_char="1474">contra</TOKEN>
+<TOKEN end_char="1482" id="token-10-43" morph="none" pos="word" start_char="1481">el</TOKEN>
+<TOKEN end_char="1488" id="token-10-44" morph="none" pos="word" start_char="1484">nuevo</TOKEN>
+<TOKEN end_char="1500" id="token-10-45" morph="none" pos="word" start_char="1490">coronavirus</TOKEN>
+<TOKEN end_char="1501" id="token-10-46" morph="none" pos="punct" start_char="1501">.</TOKEN>
+<TRANSLATED_TEXT>As described in the April 7 episode, treatment with convalescent plasma is based on the fact that the blood of a person recovering from the disease contains an enormous amount of antibodies specific to the new coronavirus.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1712" id="segment-11" start_char="1504">
+<ORIGINAL_TEXT>Sabiendo eso, la sangre de un donante que superó la enfermedad es procesada, separándose la parte sólida o celular (que contiene glóbulos blancos, rojos y plaquetas), de la parte líquida o plasma de la sangre.</ORIGINAL_TEXT>
+<TOKEN end_char="1511" id="token-11-0" morph="none" pos="word" start_char="1504">Sabiendo</TOKEN>
+<TOKEN end_char="1515" id="token-11-1" morph="none" pos="word" start_char="1513">eso</TOKEN>
+<TOKEN end_char="1516" id="token-11-2" morph="none" pos="punct" start_char="1516">,</TOKEN>
+<TOKEN end_char="1519" id="token-11-3" morph="none" pos="word" start_char="1518">la</TOKEN>
+<TOKEN end_char="1526" id="token-11-4" morph="none" pos="word" start_char="1521">sangre</TOKEN>
+<TOKEN end_char="1529" id="token-11-5" morph="none" pos="word" start_char="1528">de</TOKEN>
+<TOKEN end_char="1532" id="token-11-6" morph="none" pos="word" start_char="1531">un</TOKEN>
+<TOKEN end_char="1540" id="token-11-7" morph="none" pos="word" start_char="1534">donante</TOKEN>
+<TOKEN end_char="1544" id="token-11-8" morph="none" pos="word" start_char="1542">que</TOKEN>
+<TOKEN end_char="1551" id="token-11-9" morph="none" pos="word" start_char="1546">superó</TOKEN>
+<TOKEN end_char="1554" id="token-11-10" morph="none" pos="word" start_char="1553">la</TOKEN>
+<TOKEN end_char="1565" id="token-11-11" morph="none" pos="word" start_char="1556">enfermedad</TOKEN>
+<TOKEN end_char="1568" id="token-11-12" morph="none" pos="word" start_char="1567">es</TOKEN>
+<TOKEN end_char="1578" id="token-11-13" morph="none" pos="word" start_char="1570">procesada</TOKEN>
+<TOKEN end_char="1579" id="token-11-14" morph="none" pos="punct" start_char="1579">,</TOKEN>
+<TOKEN end_char="1591" id="token-11-15" morph="none" pos="word" start_char="1581">separándose</TOKEN>
+<TOKEN end_char="1594" id="token-11-16" morph="none" pos="word" start_char="1593">la</TOKEN>
+<TOKEN end_char="1600" id="token-11-17" morph="none" pos="word" start_char="1596">parte</TOKEN>
+<TOKEN end_char="1607" id="token-11-18" morph="none" pos="word" start_char="1602">sólida</TOKEN>
+<TOKEN end_char="1609" id="token-11-19" morph="none" pos="word" start_char="1609">o</TOKEN>
+<TOKEN end_char="1617" id="token-11-20" morph="none" pos="word" start_char="1611">celular</TOKEN>
+<TOKEN end_char="1619" id="token-11-21" morph="none" pos="punct" start_char="1619">(</TOKEN>
+<TOKEN end_char="1622" id="token-11-22" morph="none" pos="word" start_char="1620">que</TOKEN>
+<TOKEN end_char="1631" id="token-11-23" morph="none" pos="word" start_char="1624">contiene</TOKEN>
+<TOKEN end_char="1640" id="token-11-24" morph="none" pos="word" start_char="1633">glóbulos</TOKEN>
+<TOKEN end_char="1648" id="token-11-25" morph="none" pos="word" start_char="1642">blancos</TOKEN>
+<TOKEN end_char="1649" id="token-11-26" morph="none" pos="punct" start_char="1649">,</TOKEN>
+<TOKEN end_char="1655" id="token-11-27" morph="none" pos="word" start_char="1651">rojos</TOKEN>
+<TOKEN end_char="1657" id="token-11-28" morph="none" pos="word" start_char="1657">y</TOKEN>
+<TOKEN end_char="1667" id="token-11-29" morph="none" pos="word" start_char="1659">plaquetas</TOKEN>
+<TOKEN end_char="1669" id="token-11-30" morph="none" pos="punct" start_char="1668">),</TOKEN>
+<TOKEN end_char="1672" id="token-11-31" morph="none" pos="word" start_char="1671">de</TOKEN>
+<TOKEN end_char="1675" id="token-11-32" morph="none" pos="word" start_char="1674">la</TOKEN>
+<TOKEN end_char="1681" id="token-11-33" morph="none" pos="word" start_char="1677">parte</TOKEN>
+<TOKEN end_char="1689" id="token-11-34" morph="none" pos="word" start_char="1683">líquida</TOKEN>
+<TOKEN end_char="1691" id="token-11-35" morph="none" pos="word" start_char="1691">o</TOKEN>
+<TOKEN end_char="1698" id="token-11-36" morph="none" pos="word" start_char="1693">plasma</TOKEN>
+<TOKEN end_char="1701" id="token-11-37" morph="none" pos="word" start_char="1700">de</TOKEN>
+<TOKEN end_char="1704" id="token-11-38" morph="none" pos="word" start_char="1703">la</TOKEN>
+<TOKEN end_char="1711" id="token-11-39" morph="none" pos="word" start_char="1706">sangre</TOKEN>
+<TOKEN end_char="1712" id="token-11-40" morph="none" pos="punct" start_char="1712">.</TOKEN>
+<TRANSLATED_TEXT>Knowing that, the blood of a donor who has passed the disease is processed, separating the solid or cellular part (containing white, red, and platelets) from the liquid or plasma part of the blood.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1884" id="segment-12" start_char="1715">
+<ORIGINAL_TEXT>Ese plasma, rico en anticuerpos, es entonces transfundido al enfermo con la esperanza de que los anticuerpos del convalecientes neutralicen al virus que lo está atacando.</ORIGINAL_TEXT>
+<TOKEN end_char="1717" id="token-12-0" morph="none" pos="word" start_char="1715">Ese</TOKEN>
+<TOKEN end_char="1724" id="token-12-1" morph="none" pos="word" start_char="1719">plasma</TOKEN>
+<TOKEN end_char="1725" id="token-12-2" morph="none" pos="punct" start_char="1725">,</TOKEN>
+<TOKEN end_char="1730" id="token-12-3" morph="none" pos="word" start_char="1727">rico</TOKEN>
+<TOKEN end_char="1733" id="token-12-4" morph="none" pos="word" start_char="1732">en</TOKEN>
+<TOKEN end_char="1745" id="token-12-5" morph="none" pos="word" start_char="1735">anticuerpos</TOKEN>
+<TOKEN end_char="1746" id="token-12-6" morph="none" pos="punct" start_char="1746">,</TOKEN>
+<TOKEN end_char="1749" id="token-12-7" morph="none" pos="word" start_char="1748">es</TOKEN>
+<TOKEN end_char="1758" id="token-12-8" morph="none" pos="word" start_char="1751">entonces</TOKEN>
+<TOKEN end_char="1771" id="token-12-9" morph="none" pos="word" start_char="1760">transfundido</TOKEN>
+<TOKEN end_char="1774" id="token-12-10" morph="none" pos="word" start_char="1773">al</TOKEN>
+<TOKEN end_char="1782" id="token-12-11" morph="none" pos="word" start_char="1776">enfermo</TOKEN>
+<TOKEN end_char="1786" id="token-12-12" morph="none" pos="word" start_char="1784">con</TOKEN>
+<TOKEN end_char="1789" id="token-12-13" morph="none" pos="word" start_char="1788">la</TOKEN>
+<TOKEN end_char="1799" id="token-12-14" morph="none" pos="word" start_char="1791">esperanza</TOKEN>
+<TOKEN end_char="1802" id="token-12-15" morph="none" pos="word" start_char="1801">de</TOKEN>
+<TOKEN end_char="1806" id="token-12-16" morph="none" pos="word" start_char="1804">que</TOKEN>
+<TOKEN end_char="1810" id="token-12-17" morph="none" pos="word" start_char="1808">los</TOKEN>
+<TOKEN end_char="1822" id="token-12-18" morph="none" pos="word" start_char="1812">anticuerpos</TOKEN>
+<TOKEN end_char="1826" id="token-12-19" morph="none" pos="word" start_char="1824">del</TOKEN>
+<TOKEN end_char="1841" id="token-12-20" morph="none" pos="word" start_char="1828">convalecientes</TOKEN>
+<TOKEN end_char="1853" id="token-12-21" morph="none" pos="word" start_char="1843">neutralicen</TOKEN>
+<TOKEN end_char="1856" id="token-12-22" morph="none" pos="word" start_char="1855">al</TOKEN>
+<TOKEN end_char="1862" id="token-12-23" morph="none" pos="word" start_char="1858">virus</TOKEN>
+<TOKEN end_char="1866" id="token-12-24" morph="none" pos="word" start_char="1864">que</TOKEN>
+<TOKEN end_char="1869" id="token-12-25" morph="none" pos="word" start_char="1868">lo</TOKEN>
+<TOKEN end_char="1874" id="token-12-26" morph="none" pos="word" start_char="1871">está</TOKEN>
+<TOKEN end_char="1883" id="token-12-27" morph="none" pos="word" start_char="1876">atacando</TOKEN>
+<TOKEN end_char="1884" id="token-12-28" morph="none" pos="punct" start_char="1884">.</TOKEN>
+<TRANSLATED_TEXT>That plasma, rich in antibodies, is then transfused to the patient in the hope that the convalescent antibodies neutralise the virus that is attacking him.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2044" id="segment-13" start_char="1887">
+<ORIGINAL_TEXT>Este tipo de tratamiento, llamado también inmunización pasiva (para diferenciarlo de la inmunización activa que es la vacuna), se ha usado desde el siglo XIX.</ORIGINAL_TEXT>
+<TOKEN end_char="1890" id="token-13-0" morph="none" pos="word" start_char="1887">Este</TOKEN>
+<TOKEN end_char="1895" id="token-13-1" morph="none" pos="word" start_char="1892">tipo</TOKEN>
+<TOKEN end_char="1898" id="token-13-2" morph="none" pos="word" start_char="1897">de</TOKEN>
+<TOKEN end_char="1910" id="token-13-3" morph="none" pos="word" start_char="1900">tratamiento</TOKEN>
+<TOKEN end_char="1911" id="token-13-4" morph="none" pos="punct" start_char="1911">,</TOKEN>
+<TOKEN end_char="1919" id="token-13-5" morph="none" pos="word" start_char="1913">llamado</TOKEN>
+<TOKEN end_char="1927" id="token-13-6" morph="none" pos="word" start_char="1921">también</TOKEN>
+<TOKEN end_char="1940" id="token-13-7" morph="none" pos="word" start_char="1929">inmunización</TOKEN>
+<TOKEN end_char="1947" id="token-13-8" morph="none" pos="word" start_char="1942">pasiva</TOKEN>
+<TOKEN end_char="1949" id="token-13-9" morph="none" pos="punct" start_char="1949">(</TOKEN>
+<TOKEN end_char="1953" id="token-13-10" morph="none" pos="word" start_char="1950">para</TOKEN>
+<TOKEN end_char="1967" id="token-13-11" morph="none" pos="word" start_char="1955">diferenciarlo</TOKEN>
+<TOKEN end_char="1970" id="token-13-12" morph="none" pos="word" start_char="1969">de</TOKEN>
+<TOKEN end_char="1973" id="token-13-13" morph="none" pos="word" start_char="1972">la</TOKEN>
+<TOKEN end_char="1986" id="token-13-14" morph="none" pos="word" start_char="1975">inmunización</TOKEN>
+<TOKEN end_char="1993" id="token-13-15" morph="none" pos="word" start_char="1988">activa</TOKEN>
+<TOKEN end_char="1997" id="token-13-16" morph="none" pos="word" start_char="1995">que</TOKEN>
+<TOKEN end_char="2000" id="token-13-17" morph="none" pos="word" start_char="1999">es</TOKEN>
+<TOKEN end_char="2003" id="token-13-18" morph="none" pos="word" start_char="2002">la</TOKEN>
+<TOKEN end_char="2010" id="token-13-19" morph="none" pos="word" start_char="2005">vacuna</TOKEN>
+<TOKEN end_char="2012" id="token-13-20" morph="none" pos="punct" start_char="2011">),</TOKEN>
+<TOKEN end_char="2015" id="token-13-21" morph="none" pos="word" start_char="2014">se</TOKEN>
+<TOKEN end_char="2018" id="token-13-22" morph="none" pos="word" start_char="2017">ha</TOKEN>
+<TOKEN end_char="2024" id="token-13-23" morph="none" pos="word" start_char="2020">usado</TOKEN>
+<TOKEN end_char="2030" id="token-13-24" morph="none" pos="word" start_char="2026">desde</TOKEN>
+<TOKEN end_char="2033" id="token-13-25" morph="none" pos="word" start_char="2032">el</TOKEN>
+<TOKEN end_char="2039" id="token-13-26" morph="none" pos="word" start_char="2035">siglo</TOKEN>
+<TOKEN end_char="2043" id="token-13-27" morph="none" pos="word" start_char="2041">XIX</TOKEN>
+<TOKEN end_char="2044" id="token-13-28" morph="none" pos="punct" start_char="2044">.</TOKEN>
+<TRANSLATED_TEXT>This type of treatment, also called passive immunization (to differentiate it from active immunization, which is the vaccine), has been used since the 19th century.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2090" id="segment-14" start_char="2047">
+<ORIGINAL_TEXT>El uso histórico del plasma como tratamiento</ORIGINAL_TEXT>
+<TOKEN end_char="2048" id="token-14-0" morph="none" pos="word" start_char="2047">El</TOKEN>
+<TOKEN end_char="2052" id="token-14-1" morph="none" pos="word" start_char="2050">uso</TOKEN>
+<TOKEN end_char="2062" id="token-14-2" morph="none" pos="word" start_char="2054">histórico</TOKEN>
+<TOKEN end_char="2066" id="token-14-3" morph="none" pos="word" start_char="2064">del</TOKEN>
+<TOKEN end_char="2073" id="token-14-4" morph="none" pos="word" start_char="2068">plasma</TOKEN>
+<TOKEN end_char="2078" id="token-14-5" morph="none" pos="word" start_char="2075">como</TOKEN>
+<TOKEN end_char="2090" id="token-14-6" morph="none" pos="word" start_char="2080">tratamiento</TOKEN>
+<TRANSLATED_TEXT>The historical use of plasma as a treatment</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2151" id="segment-15" start_char="2094">
+<ORIGINAL_TEXT>En 1890, por ejemplo, fue usado para combatir la difteria.</ORIGINAL_TEXT>
+<TOKEN end_char="2095" id="token-15-0" morph="none" pos="word" start_char="2094">En</TOKEN>
+<TOKEN end_char="2100" id="token-15-1" morph="none" pos="word" start_char="2097">1890</TOKEN>
+<TOKEN end_char="2101" id="token-15-2" morph="none" pos="punct" start_char="2101">,</TOKEN>
+<TOKEN end_char="2105" id="token-15-3" morph="none" pos="word" start_char="2103">por</TOKEN>
+<TOKEN end_char="2113" id="token-15-4" morph="none" pos="word" start_char="2107">ejemplo</TOKEN>
+<TOKEN end_char="2114" id="token-15-5" morph="none" pos="punct" start_char="2114">,</TOKEN>
+<TOKEN end_char="2118" id="token-15-6" morph="none" pos="word" start_char="2116">fue</TOKEN>
+<TOKEN end_char="2124" id="token-15-7" morph="none" pos="word" start_char="2120">usado</TOKEN>
+<TOKEN end_char="2129" id="token-15-8" morph="none" pos="word" start_char="2126">para</TOKEN>
+<TOKEN end_char="2138" id="token-15-9" morph="none" pos="word" start_char="2131">combatir</TOKEN>
+<TOKEN end_char="2141" id="token-15-10" morph="none" pos="word" start_char="2140">la</TOKEN>
+<TOKEN end_char="2150" id="token-15-11" morph="none" pos="word" start_char="2143">difteria</TOKEN>
+<TOKEN end_char="2151" id="token-15-12" morph="none" pos="punct" start_char="2151">.</TOKEN>
+<TRANSLATED_TEXT>In 1890, for example, it was used to combat diphtheria.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2199" id="segment-16" start_char="2153">
+<ORIGINAL_TEXT>En 1918, para tratar la gran pandemia de gripe.</ORIGINAL_TEXT>
+<TOKEN end_char="2154" id="token-16-0" morph="none" pos="word" start_char="2153">En</TOKEN>
+<TOKEN end_char="2159" id="token-16-1" morph="none" pos="word" start_char="2156">1918</TOKEN>
+<TOKEN end_char="2160" id="token-16-2" morph="none" pos="punct" start_char="2160">,</TOKEN>
+<TOKEN end_char="2165" id="token-16-3" morph="none" pos="word" start_char="2162">para</TOKEN>
+<TOKEN end_char="2172" id="token-16-4" morph="none" pos="word" start_char="2167">tratar</TOKEN>
+<TOKEN end_char="2175" id="token-16-5" morph="none" pos="word" start_char="2174">la</TOKEN>
+<TOKEN end_char="2180" id="token-16-6" morph="none" pos="word" start_char="2177">gran</TOKEN>
+<TOKEN end_char="2189" id="token-16-7" morph="none" pos="word" start_char="2182">pandemia</TOKEN>
+<TOKEN end_char="2192" id="token-16-8" morph="none" pos="word" start_char="2191">de</TOKEN>
+<TOKEN end_char="2198" id="token-16-9" morph="none" pos="word" start_char="2194">gripe</TOKEN>
+<TOKEN end_char="2199" id="token-16-10" morph="none" pos="punct" start_char="2199">.</TOKEN>
+<TRANSLATED_TEXT>In 1918, to treat the great flu pandemic.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2245" id="segment-17" start_char="2201">
+<ORIGINAL_TEXT>En los años cuarenta, para la tos convulsiva.</ORIGINAL_TEXT>
+<TOKEN end_char="2202" id="token-17-0" morph="none" pos="word" start_char="2201">En</TOKEN>
+<TOKEN end_char="2206" id="token-17-1" morph="none" pos="word" start_char="2204">los</TOKEN>
+<TOKEN end_char="2211" id="token-17-2" morph="none" pos="word" start_char="2208">años</TOKEN>
+<TOKEN end_char="2220" id="token-17-3" morph="none" pos="word" start_char="2213">cuarenta</TOKEN>
+<TOKEN end_char="2221" id="token-17-4" morph="none" pos="punct" start_char="2221">,</TOKEN>
+<TOKEN end_char="2226" id="token-17-5" morph="none" pos="word" start_char="2223">para</TOKEN>
+<TOKEN end_char="2229" id="token-17-6" morph="none" pos="word" start_char="2228">la</TOKEN>
+<TOKEN end_char="2233" id="token-17-7" morph="none" pos="word" start_char="2231">tos</TOKEN>
+<TOKEN end_char="2244" id="token-17-8" morph="none" pos="word" start_char="2235">convulsiva</TOKEN>
+<TOKEN end_char="2245" id="token-17-9" morph="none" pos="punct" start_char="2245">.</TOKEN>
+<TRANSLATED_TEXT>In the 1940s, for convulsive cough..</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2299" id="segment-18" start_char="2247">
+<ORIGINAL_TEXT>En los años setenta, para el tratamiento del tétanos.</ORIGINAL_TEXT>
+<TOKEN end_char="2248" id="token-18-0" morph="none" pos="word" start_char="2247">En</TOKEN>
+<TOKEN end_char="2252" id="token-18-1" morph="none" pos="word" start_char="2250">los</TOKEN>
+<TOKEN end_char="2257" id="token-18-2" morph="none" pos="word" start_char="2254">años</TOKEN>
+<TOKEN end_char="2265" id="token-18-3" morph="none" pos="word" start_char="2259">setenta</TOKEN>
+<TOKEN end_char="2266" id="token-18-4" morph="none" pos="punct" start_char="2266">,</TOKEN>
+<TOKEN end_char="2271" id="token-18-5" morph="none" pos="word" start_char="2268">para</TOKEN>
+<TOKEN end_char="2274" id="token-18-6" morph="none" pos="word" start_char="2273">el</TOKEN>
+<TOKEN end_char="2286" id="token-18-7" morph="none" pos="word" start_char="2276">tratamiento</TOKEN>
+<TOKEN end_char="2290" id="token-18-8" morph="none" pos="word" start_char="2288">del</TOKEN>
+<TOKEN end_char="2298" id="token-18-9" morph="none" pos="word" start_char="2292">tétanos</TOKEN>
+<TOKEN end_char="2299" id="token-18-10" morph="none" pos="punct" start_char="2299">.</TOKEN>
+<TRANSLATED_TEXT>In the 1970s, for the treatment of tetanus.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2370" id="segment-19" start_char="2301">
+<ORIGINAL_TEXT>Y, en este siglo, para tratar el SRAS, MERS, la gripe H1N1 y el Ébola.</ORIGINAL_TEXT>
+<TOKEN end_char="2301" id="token-19-0" morph="none" pos="word" start_char="2301">Y</TOKEN>
+<TOKEN end_char="2302" id="token-19-1" morph="none" pos="punct" start_char="2302">,</TOKEN>
+<TOKEN end_char="2305" id="token-19-2" morph="none" pos="word" start_char="2304">en</TOKEN>
+<TOKEN end_char="2310" id="token-19-3" morph="none" pos="word" start_char="2307">este</TOKEN>
+<TOKEN end_char="2316" id="token-19-4" morph="none" pos="word" start_char="2312">siglo</TOKEN>
+<TOKEN end_char="2317" id="token-19-5" morph="none" pos="punct" start_char="2317">,</TOKEN>
+<TOKEN end_char="2322" id="token-19-6" morph="none" pos="word" start_char="2319">para</TOKEN>
+<TOKEN end_char="2329" id="token-19-7" morph="none" pos="word" start_char="2324">tratar</TOKEN>
+<TOKEN end_char="2332" id="token-19-8" morph="none" pos="word" start_char="2331">el</TOKEN>
+<TOKEN end_char="2337" id="token-19-9" morph="none" pos="word" start_char="2334">SRAS</TOKEN>
+<TOKEN end_char="2338" id="token-19-10" morph="none" pos="punct" start_char="2338">,</TOKEN>
+<TOKEN end_char="2343" id="token-19-11" morph="none" pos="word" start_char="2340">MERS</TOKEN>
+<TOKEN end_char="2344" id="token-19-12" morph="none" pos="punct" start_char="2344">,</TOKEN>
+<TOKEN end_char="2347" id="token-19-13" morph="none" pos="word" start_char="2346">la</TOKEN>
+<TOKEN end_char="2353" id="token-19-14" morph="none" pos="word" start_char="2349">gripe</TOKEN>
+<TOKEN end_char="2358" id="token-19-15" morph="none" pos="word" start_char="2355">H1N1</TOKEN>
+<TOKEN end_char="2360" id="token-19-16" morph="none" pos="word" start_char="2360">y</TOKEN>
+<TOKEN end_char="2363" id="token-19-17" morph="none" pos="word" start_char="2362">el</TOKEN>
+<TOKEN end_char="2369" id="token-19-18" morph="none" pos="word" start_char="2365">Ébola</TOKEN>
+<TOKEN end_char="2370" id="token-19-19" morph="none" pos="punct" start_char="2370">.</TOKEN>
+<TRANSLATED_TEXT>And, in this century, to treat SARS, MERS, H1N1 flu and Ebola.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2523" id="segment-20" start_char="2373">
+<ORIGINAL_TEXT>Lamentablemente, como lo vimos en el episodio del 31 de agosto, la efectividad de este tipo de tratamiento no ha podido ser científicamente comprobada.</ORIGINAL_TEXT>
+<TOKEN end_char="2387" id="token-20-0" morph="none" pos="word" start_char="2373">Lamentablemente</TOKEN>
+<TOKEN end_char="2388" id="token-20-1" morph="none" pos="punct" start_char="2388">,</TOKEN>
+<TOKEN end_char="2393" id="token-20-2" morph="none" pos="word" start_char="2390">como</TOKEN>
+<TOKEN end_char="2396" id="token-20-3" morph="none" pos="word" start_char="2395">lo</TOKEN>
+<TOKEN end_char="2402" id="token-20-4" morph="none" pos="word" start_char="2398">vimos</TOKEN>
+<TOKEN end_char="2405" id="token-20-5" morph="none" pos="word" start_char="2404">en</TOKEN>
+<TOKEN end_char="2408" id="token-20-6" morph="none" pos="word" start_char="2407">el</TOKEN>
+<TOKEN end_char="2417" id="token-20-7" morph="none" pos="word" start_char="2410">episodio</TOKEN>
+<TOKEN end_char="2421" id="token-20-8" morph="none" pos="word" start_char="2419">del</TOKEN>
+<TOKEN end_char="2424" id="token-20-9" morph="none" pos="word" start_char="2423">31</TOKEN>
+<TOKEN end_char="2427" id="token-20-10" morph="none" pos="word" start_char="2426">de</TOKEN>
+<TOKEN end_char="2434" id="token-20-11" morph="none" pos="word" start_char="2429">agosto</TOKEN>
+<TOKEN end_char="2435" id="token-20-12" morph="none" pos="punct" start_char="2435">,</TOKEN>
+<TOKEN end_char="2438" id="token-20-13" morph="none" pos="word" start_char="2437">la</TOKEN>
+<TOKEN end_char="2450" id="token-20-14" morph="none" pos="word" start_char="2440">efectividad</TOKEN>
+<TOKEN end_char="2453" id="token-20-15" morph="none" pos="word" start_char="2452">de</TOKEN>
+<TOKEN end_char="2458" id="token-20-16" morph="none" pos="word" start_char="2455">este</TOKEN>
+<TOKEN end_char="2463" id="token-20-17" morph="none" pos="word" start_char="2460">tipo</TOKEN>
+<TOKEN end_char="2466" id="token-20-18" morph="none" pos="word" start_char="2465">de</TOKEN>
+<TOKEN end_char="2478" id="token-20-19" morph="none" pos="word" start_char="2468">tratamiento</TOKEN>
+<TOKEN end_char="2481" id="token-20-20" morph="none" pos="word" start_char="2480">no</TOKEN>
+<TOKEN end_char="2484" id="token-20-21" morph="none" pos="word" start_char="2483">ha</TOKEN>
+<TOKEN end_char="2491" id="token-20-22" morph="none" pos="word" start_char="2486">podido</TOKEN>
+<TOKEN end_char="2495" id="token-20-23" morph="none" pos="word" start_char="2493">ser</TOKEN>
+<TOKEN end_char="2511" id="token-20-24" morph="none" pos="word" start_char="2497">científicamente</TOKEN>
+<TOKEN end_char="2522" id="token-20-25" morph="none" pos="word" start_char="2513">comprobada</TOKEN>
+<TOKEN end_char="2523" id="token-20-26" morph="none" pos="punct" start_char="2523">.</TOKEN>
+<TRANSLATED_TEXT>Unfortunately, as we saw in the August 31 episode, the effectiveness of this type of treatment has not been scientifically proven.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2750" id="segment-21" start_char="2525">
+<ORIGINAL_TEXT>Tras ser aprobado su uso en calidad de emergencia por la FDA [Administración de Medicamentos y Alimentos de EE.UU] en abril, el plasma de convalecientes se empezó a usar masivamente por los médicos en muchos lugares del mundo.</ORIGINAL_TEXT>
+<TOKEN end_char="2528" id="token-21-0" morph="none" pos="word" start_char="2525">Tras</TOKEN>
+<TOKEN end_char="2532" id="token-21-1" morph="none" pos="word" start_char="2530">ser</TOKEN>
+<TOKEN end_char="2541" id="token-21-2" morph="none" pos="word" start_char="2534">aprobado</TOKEN>
+<TOKEN end_char="2544" id="token-21-3" morph="none" pos="word" start_char="2543">su</TOKEN>
+<TOKEN end_char="2548" id="token-21-4" morph="none" pos="word" start_char="2546">uso</TOKEN>
+<TOKEN end_char="2551" id="token-21-5" morph="none" pos="word" start_char="2550">en</TOKEN>
+<TOKEN end_char="2559" id="token-21-6" morph="none" pos="word" start_char="2553">calidad</TOKEN>
+<TOKEN end_char="2562" id="token-21-7" morph="none" pos="word" start_char="2561">de</TOKEN>
+<TOKEN end_char="2573" id="token-21-8" morph="none" pos="word" start_char="2564">emergencia</TOKEN>
+<TOKEN end_char="2577" id="token-21-9" morph="none" pos="word" start_char="2575">por</TOKEN>
+<TOKEN end_char="2580" id="token-21-10" morph="none" pos="word" start_char="2579">la</TOKEN>
+<TOKEN end_char="2584" id="token-21-11" morph="none" pos="word" start_char="2582">FDA</TOKEN>
+<TOKEN end_char="2586" id="token-21-12" morph="none" pos="punct" start_char="2586">[</TOKEN>
+<TOKEN end_char="2600" id="token-21-13" morph="none" pos="word" start_char="2587">Administración</TOKEN>
+<TOKEN end_char="2603" id="token-21-14" morph="none" pos="word" start_char="2602">de</TOKEN>
+<TOKEN end_char="2616" id="token-21-15" morph="none" pos="word" start_char="2605">Medicamentos</TOKEN>
+<TOKEN end_char="2618" id="token-21-16" morph="none" pos="word" start_char="2618">y</TOKEN>
+<TOKEN end_char="2628" id="token-21-17" morph="none" pos="word" start_char="2620">Alimentos</TOKEN>
+<TOKEN end_char="2631" id="token-21-18" morph="none" pos="word" start_char="2630">de</TOKEN>
+<TOKEN end_char="2637" id="token-21-19" morph="none" pos="unknown" start_char="2633">EE.UU</TOKEN>
+<TOKEN end_char="2638" id="token-21-20" morph="none" pos="punct" start_char="2638">]</TOKEN>
+<TOKEN end_char="2641" id="token-21-21" morph="none" pos="word" start_char="2640">en</TOKEN>
+<TOKEN end_char="2647" id="token-21-22" morph="none" pos="word" start_char="2643">abril</TOKEN>
+<TOKEN end_char="2648" id="token-21-23" morph="none" pos="punct" start_char="2648">,</TOKEN>
+<TOKEN end_char="2651" id="token-21-24" morph="none" pos="word" start_char="2650">el</TOKEN>
+<TOKEN end_char="2658" id="token-21-25" morph="none" pos="word" start_char="2653">plasma</TOKEN>
+<TOKEN end_char="2661" id="token-21-26" morph="none" pos="word" start_char="2660">de</TOKEN>
+<TOKEN end_char="2676" id="token-21-27" morph="none" pos="word" start_char="2663">convalecientes</TOKEN>
+<TOKEN end_char="2679" id="token-21-28" morph="none" pos="word" start_char="2678">se</TOKEN>
+<TOKEN end_char="2686" id="token-21-29" morph="none" pos="word" start_char="2681">empezó</TOKEN>
+<TOKEN end_char="2688" id="token-21-30" morph="none" pos="word" start_char="2688">a</TOKEN>
+<TOKEN end_char="2693" id="token-21-31" morph="none" pos="word" start_char="2690">usar</TOKEN>
+<TOKEN end_char="2705" id="token-21-32" morph="none" pos="word" start_char="2695">masivamente</TOKEN>
+<TOKEN end_char="2709" id="token-21-33" morph="none" pos="word" start_char="2707">por</TOKEN>
+<TOKEN end_char="2713" id="token-21-34" morph="none" pos="word" start_char="2711">los</TOKEN>
+<TOKEN end_char="2721" id="token-21-35" morph="none" pos="word" start_char="2715">médicos</TOKEN>
+<TOKEN end_char="2724" id="token-21-36" morph="none" pos="word" start_char="2723">en</TOKEN>
+<TOKEN end_char="2731" id="token-21-37" morph="none" pos="word" start_char="2726">muchos</TOKEN>
+<TOKEN end_char="2739" id="token-21-38" morph="none" pos="word" start_char="2733">lugares</TOKEN>
+<TOKEN end_char="2743" id="token-21-39" morph="none" pos="word" start_char="2741">del</TOKEN>
+<TOKEN end_char="2749" id="token-21-40" morph="none" pos="word" start_char="2745">mundo</TOKEN>
+<TOKEN end_char="2750" id="token-21-41" morph="none" pos="punct" start_char="2750">.</TOKEN>
+<TRANSLATED_TEXT>After its emergency use was approved by the FDA in April, convalescent plasma began to be widely used by physicians in many parts of the world.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="3083" id="segment-22" start_char="2753">
+<ORIGINAL_TEXT>En Estados Unidos, por ejemplo, se formó una red de 2.700 hospitales que lo administraban, creándose la percepción entre pacientes y familiares de que el plasma era el tratamiento más efectivo para curar la enfermedad y, por lo tanto, se rehusaban a participar en estudios clínicos destinados a probar si realmente funcionaba o no.</ORIGINAL_TEXT>
+<TOKEN end_char="2754" id="token-22-0" morph="none" pos="word" start_char="2753">En</TOKEN>
+<TOKEN end_char="2762" id="token-22-1" morph="none" pos="word" start_char="2756">Estados</TOKEN>
+<TOKEN end_char="2769" id="token-22-2" morph="none" pos="word" start_char="2764">Unidos</TOKEN>
+<TOKEN end_char="2770" id="token-22-3" morph="none" pos="punct" start_char="2770">,</TOKEN>
+<TOKEN end_char="2774" id="token-22-4" morph="none" pos="word" start_char="2772">por</TOKEN>
+<TOKEN end_char="2782" id="token-22-5" morph="none" pos="word" start_char="2776">ejemplo</TOKEN>
+<TOKEN end_char="2783" id="token-22-6" morph="none" pos="punct" start_char="2783">,</TOKEN>
+<TOKEN end_char="2786" id="token-22-7" morph="none" pos="word" start_char="2785">se</TOKEN>
+<TOKEN end_char="2792" id="token-22-8" morph="none" pos="word" start_char="2788">formó</TOKEN>
+<TOKEN end_char="2796" id="token-22-9" morph="none" pos="word" start_char="2794">una</TOKEN>
+<TOKEN end_char="2800" id="token-22-10" morph="none" pos="word" start_char="2798">red</TOKEN>
+<TOKEN end_char="2803" id="token-22-11" morph="none" pos="word" start_char="2802">de</TOKEN>
+<TOKEN end_char="2809" id="token-22-12" morph="none" pos="word" start_char="2805">2.700</TOKEN>
+<TOKEN end_char="2820" id="token-22-13" morph="none" pos="word" start_char="2811">hospitales</TOKEN>
+<TOKEN end_char="2824" id="token-22-14" morph="none" pos="word" start_char="2822">que</TOKEN>
+<TOKEN end_char="2827" id="token-22-15" morph="none" pos="word" start_char="2826">lo</TOKEN>
+<TOKEN end_char="2841" id="token-22-16" morph="none" pos="word" start_char="2829">administraban</TOKEN>
+<TOKEN end_char="2842" id="token-22-17" morph="none" pos="punct" start_char="2842">,</TOKEN>
+<TOKEN end_char="2852" id="token-22-18" morph="none" pos="word" start_char="2844">creándose</TOKEN>
+<TOKEN end_char="2855" id="token-22-19" morph="none" pos="word" start_char="2854">la</TOKEN>
+<TOKEN end_char="2866" id="token-22-20" morph="none" pos="word" start_char="2857">percepción</TOKEN>
+<TOKEN end_char="2872" id="token-22-21" morph="none" pos="word" start_char="2868">entre</TOKEN>
+<TOKEN end_char="2882" id="token-22-22" morph="none" pos="word" start_char="2874">pacientes</TOKEN>
+<TOKEN end_char="2884" id="token-22-23" morph="none" pos="word" start_char="2884">y</TOKEN>
+<TOKEN end_char="2895" id="token-22-24" morph="none" pos="word" start_char="2886">familiares</TOKEN>
+<TOKEN end_char="2898" id="token-22-25" morph="none" pos="word" start_char="2897">de</TOKEN>
+<TOKEN end_char="2902" id="token-22-26" morph="none" pos="word" start_char="2900">que</TOKEN>
+<TOKEN end_char="2905" id="token-22-27" morph="none" pos="word" start_char="2904">el</TOKEN>
+<TOKEN end_char="2912" id="token-22-28" morph="none" pos="word" start_char="2907">plasma</TOKEN>
+<TOKEN end_char="2916" id="token-22-29" morph="none" pos="word" start_char="2914">era</TOKEN>
+<TOKEN end_char="2919" id="token-22-30" morph="none" pos="word" start_char="2918">el</TOKEN>
+<TOKEN end_char="2931" id="token-22-31" morph="none" pos="word" start_char="2921">tratamiento</TOKEN>
+<TOKEN end_char="2935" id="token-22-32" morph="none" pos="word" start_char="2933">más</TOKEN>
+<TOKEN end_char="2944" id="token-22-33" morph="none" pos="word" start_char="2937">efectivo</TOKEN>
+<TOKEN end_char="2949" id="token-22-34" morph="none" pos="word" start_char="2946">para</TOKEN>
+<TOKEN end_char="2955" id="token-22-35" morph="none" pos="word" start_char="2951">curar</TOKEN>
+<TOKEN end_char="2958" id="token-22-36" morph="none" pos="word" start_char="2957">la</TOKEN>
+<TOKEN end_char="2969" id="token-22-37" morph="none" pos="word" start_char="2960">enfermedad</TOKEN>
+<TOKEN end_char="2971" id="token-22-38" morph="none" pos="word" start_char="2971">y</TOKEN>
+<TOKEN end_char="2972" id="token-22-39" morph="none" pos="punct" start_char="2972">,</TOKEN>
+<TOKEN end_char="2976" id="token-22-40" morph="none" pos="word" start_char="2974">por</TOKEN>
+<TOKEN end_char="2979" id="token-22-41" morph="none" pos="word" start_char="2978">lo</TOKEN>
+<TOKEN end_char="2985" id="token-22-42" morph="none" pos="word" start_char="2981">tanto</TOKEN>
+<TOKEN end_char="2986" id="token-22-43" morph="none" pos="punct" start_char="2986">,</TOKEN>
+<TOKEN end_char="2989" id="token-22-44" morph="none" pos="word" start_char="2988">se</TOKEN>
+<TOKEN end_char="2999" id="token-22-45" morph="none" pos="word" start_char="2991">rehusaban</TOKEN>
+<TOKEN end_char="3001" id="token-22-46" morph="none" pos="word" start_char="3001">a</TOKEN>
+<TOKEN end_char="3012" id="token-22-47" morph="none" pos="word" start_char="3003">participar</TOKEN>
+<TOKEN end_char="3015" id="token-22-48" morph="none" pos="word" start_char="3014">en</TOKEN>
+<TOKEN end_char="3024" id="token-22-49" morph="none" pos="word" start_char="3017">estudios</TOKEN>
+<TOKEN end_char="3033" id="token-22-50" morph="none" pos="word" start_char="3026">clínicos</TOKEN>
+<TOKEN end_char="3044" id="token-22-51" morph="none" pos="word" start_char="3035">destinados</TOKEN>
+<TOKEN end_char="3046" id="token-22-52" morph="none" pos="word" start_char="3046">a</TOKEN>
+<TOKEN end_char="3053" id="token-22-53" morph="none" pos="word" start_char="3048">probar</TOKEN>
+<TOKEN end_char="3056" id="token-22-54" morph="none" pos="word" start_char="3055">si</TOKEN>
+<TOKEN end_char="3066" id="token-22-55" morph="none" pos="word" start_char="3058">realmente</TOKEN>
+<TOKEN end_char="3077" id="token-22-56" morph="none" pos="word" start_char="3068">funcionaba</TOKEN>
+<TOKEN end_char="3079" id="token-22-57" morph="none" pos="word" start_char="3079">o</TOKEN>
+<TOKEN end_char="3082" id="token-22-58" morph="none" pos="word" start_char="3081">no</TOKEN>
+<TOKEN end_char="3083" id="token-22-59" morph="none" pos="punct" start_char="3083">.</TOKEN>
+<TRANSLATED_TEXT>In the United States, for example, a network of 2,700 hospitals was formed to administer it, creating the perception among patients and family members that plasma was the most effective treatment to cure the disease, and thus refusing to participate in clinical studies to test whether it actually worked or not.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="3234" id="segment-23" start_char="3086">
+<ORIGINAL_TEXT>En otras palabras, el uso masivo de un tratamiento no probado científicamente provocó un efecto contraproducente: dificultó su evaluación científica.</ORIGINAL_TEXT>
+<TOKEN end_char="3087" id="token-23-0" morph="none" pos="word" start_char="3086">En</TOKEN>
+<TOKEN end_char="3093" id="token-23-1" morph="none" pos="word" start_char="3089">otras</TOKEN>
+<TOKEN end_char="3102" id="token-23-2" morph="none" pos="word" start_char="3095">palabras</TOKEN>
+<TOKEN end_char="3103" id="token-23-3" morph="none" pos="punct" start_char="3103">,</TOKEN>
+<TOKEN end_char="3106" id="token-23-4" morph="none" pos="word" start_char="3105">el</TOKEN>
+<TOKEN end_char="3110" id="token-23-5" morph="none" pos="word" start_char="3108">uso</TOKEN>
+<TOKEN end_char="3117" id="token-23-6" morph="none" pos="word" start_char="3112">masivo</TOKEN>
+<TOKEN end_char="3120" id="token-23-7" morph="none" pos="word" start_char="3119">de</TOKEN>
+<TOKEN end_char="3123" id="token-23-8" morph="none" pos="word" start_char="3122">un</TOKEN>
+<TOKEN end_char="3135" id="token-23-9" morph="none" pos="word" start_char="3125">tratamiento</TOKEN>
+<TOKEN end_char="3138" id="token-23-10" morph="none" pos="word" start_char="3137">no</TOKEN>
+<TOKEN end_char="3146" id="token-23-11" morph="none" pos="word" start_char="3140">probado</TOKEN>
+<TOKEN end_char="3162" id="token-23-12" morph="none" pos="word" start_char="3148">científicamente</TOKEN>
+<TOKEN end_char="3170" id="token-23-13" morph="none" pos="word" start_char="3164">provocó</TOKEN>
+<TOKEN end_char="3173" id="token-23-14" morph="none" pos="word" start_char="3172">un</TOKEN>
+<TOKEN end_char="3180" id="token-23-15" morph="none" pos="word" start_char="3175">efecto</TOKEN>
+<TOKEN end_char="3197" id="token-23-16" morph="none" pos="word" start_char="3182">contraproducente</TOKEN>
+<TOKEN end_char="3198" id="token-23-17" morph="none" pos="punct" start_char="3198">:</TOKEN>
+<TOKEN end_char="3208" id="token-23-18" morph="none" pos="word" start_char="3200">dificultó</TOKEN>
+<TOKEN end_char="3211" id="token-23-19" morph="none" pos="word" start_char="3210">su</TOKEN>
+<TOKEN end_char="3222" id="token-23-20" morph="none" pos="word" start_char="3213">evaluación</TOKEN>
+<TOKEN end_char="3233" id="token-23-21" morph="none" pos="word" start_char="3224">científica</TOKEN>
+<TOKEN end_char="3234" id="token-23-22" morph="none" pos="punct" start_char="3234">.</TOKEN>
+<TRANSLATED_TEXT>In other words, the massive use of a scientifically untested treatment caused a counter-productive effect: it made scientific evaluation difficult.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="3422" id="segment-24" start_char="3237">
+<ORIGINAL_TEXT>Para probar que el tratamiento con plasma realmente funciona es necesario hacer estudios en los que a la mitad de los pacientes se les administre el plasma y a la otra mitad, un placebo.</ORIGINAL_TEXT>
+<TOKEN end_char="3240" id="token-24-0" morph="none" pos="word" start_char="3237">Para</TOKEN>
+<TOKEN end_char="3247" id="token-24-1" morph="none" pos="word" start_char="3242">probar</TOKEN>
+<TOKEN end_char="3251" id="token-24-2" morph="none" pos="word" start_char="3249">que</TOKEN>
+<TOKEN end_char="3254" id="token-24-3" morph="none" pos="word" start_char="3253">el</TOKEN>
+<TOKEN end_char="3266" id="token-24-4" morph="none" pos="word" start_char="3256">tratamiento</TOKEN>
+<TOKEN end_char="3270" id="token-24-5" morph="none" pos="word" start_char="3268">con</TOKEN>
+<TOKEN end_char="3277" id="token-24-6" morph="none" pos="word" start_char="3272">plasma</TOKEN>
+<TOKEN end_char="3287" id="token-24-7" morph="none" pos="word" start_char="3279">realmente</TOKEN>
+<TOKEN end_char="3296" id="token-24-8" morph="none" pos="word" start_char="3289">funciona</TOKEN>
+<TOKEN end_char="3299" id="token-24-9" morph="none" pos="word" start_char="3298">es</TOKEN>
+<TOKEN end_char="3309" id="token-24-10" morph="none" pos="word" start_char="3301">necesario</TOKEN>
+<TOKEN end_char="3315" id="token-24-11" morph="none" pos="word" start_char="3311">hacer</TOKEN>
+<TOKEN end_char="3324" id="token-24-12" morph="none" pos="word" start_char="3317">estudios</TOKEN>
+<TOKEN end_char="3327" id="token-24-13" morph="none" pos="word" start_char="3326">en</TOKEN>
+<TOKEN end_char="3331" id="token-24-14" morph="none" pos="word" start_char="3329">los</TOKEN>
+<TOKEN end_char="3335" id="token-24-15" morph="none" pos="word" start_char="3333">que</TOKEN>
+<TOKEN end_char="3337" id="token-24-16" morph="none" pos="word" start_char="3337">a</TOKEN>
+<TOKEN end_char="3340" id="token-24-17" morph="none" pos="word" start_char="3339">la</TOKEN>
+<TOKEN end_char="3346" id="token-24-18" morph="none" pos="word" start_char="3342">mitad</TOKEN>
+<TOKEN end_char="3349" id="token-24-19" morph="none" pos="word" start_char="3348">de</TOKEN>
+<TOKEN end_char="3353" id="token-24-20" morph="none" pos="word" start_char="3351">los</TOKEN>
+<TOKEN end_char="3363" id="token-24-21" morph="none" pos="word" start_char="3355">pacientes</TOKEN>
+<TOKEN end_char="3366" id="token-24-22" morph="none" pos="word" start_char="3365">se</TOKEN>
+<TOKEN end_char="3370" id="token-24-23" morph="none" pos="word" start_char="3368">les</TOKEN>
+<TOKEN end_char="3381" id="token-24-24" morph="none" pos="word" start_char="3372">administre</TOKEN>
+<TOKEN end_char="3384" id="token-24-25" morph="none" pos="word" start_char="3383">el</TOKEN>
+<TOKEN end_char="3391" id="token-24-26" morph="none" pos="word" start_char="3386">plasma</TOKEN>
+<TOKEN end_char="3393" id="token-24-27" morph="none" pos="word" start_char="3393">y</TOKEN>
+<TOKEN end_char="3395" id="token-24-28" morph="none" pos="word" start_char="3395">a</TOKEN>
+<TOKEN end_char="3398" id="token-24-29" morph="none" pos="word" start_char="3397">la</TOKEN>
+<TOKEN end_char="3403" id="token-24-30" morph="none" pos="word" start_char="3400">otra</TOKEN>
+<TOKEN end_char="3409" id="token-24-31" morph="none" pos="word" start_char="3405">mitad</TOKEN>
+<TOKEN end_char="3410" id="token-24-32" morph="none" pos="punct" start_char="3410">,</TOKEN>
+<TOKEN end_char="3413" id="token-24-33" morph="none" pos="word" start_char="3412">un</TOKEN>
+<TOKEN end_char="3421" id="token-24-34" morph="none" pos="word" start_char="3415">placebo</TOKEN>
+<TOKEN end_char="3422" id="token-24-35" morph="none" pos="punct" start_char="3422">.</TOKEN>
+<TRANSLATED_TEXT>To prove that plasma treatment really works, it is necessary to do studies in which half the patients are given plasma and the other half, a placebo.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="3605" id="segment-25" start_char="3425">
+<ORIGINAL_TEXT>Pero comprensiblemente, al estar los pacientes convencidos de que el plasma era efectivo fue difícil convencerlos para participar en un estudio que los sorteen a recibir un placebo.</ORIGINAL_TEXT>
+<TOKEN end_char="3428" id="token-25-0" morph="none" pos="word" start_char="3425">Pero</TOKEN>
+<TOKEN end_char="3446" id="token-25-1" morph="none" pos="word" start_char="3430">comprensiblemente</TOKEN>
+<TOKEN end_char="3447" id="token-25-2" morph="none" pos="punct" start_char="3447">,</TOKEN>
+<TOKEN end_char="3450" id="token-25-3" morph="none" pos="word" start_char="3449">al</TOKEN>
+<TOKEN end_char="3456" id="token-25-4" morph="none" pos="word" start_char="3452">estar</TOKEN>
+<TOKEN end_char="3460" id="token-25-5" morph="none" pos="word" start_char="3458">los</TOKEN>
+<TOKEN end_char="3470" id="token-25-6" morph="none" pos="word" start_char="3462">pacientes</TOKEN>
+<TOKEN end_char="3482" id="token-25-7" morph="none" pos="word" start_char="3472">convencidos</TOKEN>
+<TOKEN end_char="3485" id="token-25-8" morph="none" pos="word" start_char="3484">de</TOKEN>
+<TOKEN end_char="3489" id="token-25-9" morph="none" pos="word" start_char="3487">que</TOKEN>
+<TOKEN end_char="3492" id="token-25-10" morph="none" pos="word" start_char="3491">el</TOKEN>
+<TOKEN end_char="3499" id="token-25-11" morph="none" pos="word" start_char="3494">plasma</TOKEN>
+<TOKEN end_char="3503" id="token-25-12" morph="none" pos="word" start_char="3501">era</TOKEN>
+<TOKEN end_char="3512" id="token-25-13" morph="none" pos="word" start_char="3505">efectivo</TOKEN>
+<TOKEN end_char="3516" id="token-25-14" morph="none" pos="word" start_char="3514">fue</TOKEN>
+<TOKEN end_char="3524" id="token-25-15" morph="none" pos="word" start_char="3518">difícil</TOKEN>
+<TOKEN end_char="3537" id="token-25-16" morph="none" pos="word" start_char="3526">convencerlos</TOKEN>
+<TOKEN end_char="3542" id="token-25-17" morph="none" pos="word" start_char="3539">para</TOKEN>
+<TOKEN end_char="3553" id="token-25-18" morph="none" pos="word" start_char="3544">participar</TOKEN>
+<TOKEN end_char="3556" id="token-25-19" morph="none" pos="word" start_char="3555">en</TOKEN>
+<TOKEN end_char="3559" id="token-25-20" morph="none" pos="word" start_char="3558">un</TOKEN>
+<TOKEN end_char="3567" id="token-25-21" morph="none" pos="word" start_char="3561">estudio</TOKEN>
+<TOKEN end_char="3571" id="token-25-22" morph="none" pos="word" start_char="3569">que</TOKEN>
+<TOKEN end_char="3575" id="token-25-23" morph="none" pos="word" start_char="3573">los</TOKEN>
+<TOKEN end_char="3583" id="token-25-24" morph="none" pos="word" start_char="3577">sorteen</TOKEN>
+<TOKEN end_char="3585" id="token-25-25" morph="none" pos="word" start_char="3585">a</TOKEN>
+<TOKEN end_char="3593" id="token-25-26" morph="none" pos="word" start_char="3587">recibir</TOKEN>
+<TOKEN end_char="3596" id="token-25-27" morph="none" pos="word" start_char="3595">un</TOKEN>
+<TOKEN end_char="3604" id="token-25-28" morph="none" pos="word" start_char="3598">placebo</TOKEN>
+<TOKEN end_char="3605" id="token-25-29" morph="none" pos="punct" start_char="3605">.</TOKEN>
+<TRANSLATED_TEXT>But understandably, when patients were convinced that the plasma was effective, it was difficult to convince them to participate in a study that would draw them out for a placebo.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="3634" id="segment-26" start_char="3608">
+<ORIGINAL_TEXT>¿Qué dicen los científicos?</ORIGINAL_TEXT>
+<TOKEN end_char="3608" id="token-26-0" morph="none" pos="punct" start_char="3608">¿</TOKEN>
+<TOKEN end_char="3611" id="token-26-1" morph="none" pos="word" start_char="3609">Qué</TOKEN>
+<TOKEN end_char="3617" id="token-26-2" morph="none" pos="word" start_char="3613">dicen</TOKEN>
+<TOKEN end_char="3621" id="token-26-3" morph="none" pos="word" start_char="3619">los</TOKEN>
+<TOKEN end_char="3633" id="token-26-4" morph="none" pos="word" start_char="3623">científicos</TOKEN>
+<TOKEN end_char="3634" id="token-26-5" morph="none" pos="punct" start_char="3634">?</TOKEN>
+<TRANSLATED_TEXT>What do scientists say?</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="3919" id="segment-27" start_char="3638">
+<ORIGINAL_TEXT>Pues ahora, un artículo publicado en la revista médica BMJ describe un estudio hecho en la India, en el que un grupo de 464 adultos con covid-19 moderado de 39 hospitales fueron sorteados al azar para recibir el plasma o para continuar con el cuidado médico estándar, sin el plasma.</ORIGINAL_TEXT>
+<TOKEN end_char="3641" id="token-27-0" morph="none" pos="word" start_char="3638">Pues</TOKEN>
+<TOKEN end_char="3647" id="token-27-1" morph="none" pos="word" start_char="3643">ahora</TOKEN>
+<TOKEN end_char="3648" id="token-27-2" morph="none" pos="punct" start_char="3648">,</TOKEN>
+<TOKEN end_char="3651" id="token-27-3" morph="none" pos="word" start_char="3650">un</TOKEN>
+<TOKEN end_char="3660" id="token-27-4" morph="none" pos="word" start_char="3653">artículo</TOKEN>
+<TOKEN end_char="3670" id="token-27-5" morph="none" pos="word" start_char="3662">publicado</TOKEN>
+<TOKEN end_char="3673" id="token-27-6" morph="none" pos="word" start_char="3672">en</TOKEN>
+<TOKEN end_char="3676" id="token-27-7" morph="none" pos="word" start_char="3675">la</TOKEN>
+<TOKEN end_char="3684" id="token-27-8" morph="none" pos="word" start_char="3678">revista</TOKEN>
+<TOKEN end_char="3691" id="token-27-9" morph="none" pos="word" start_char="3686">médica</TOKEN>
+<TOKEN end_char="3695" id="token-27-10" morph="none" pos="word" start_char="3693">BMJ</TOKEN>
+<TOKEN end_char="3704" id="token-27-11" morph="none" pos="word" start_char="3697">describe</TOKEN>
+<TOKEN end_char="3707" id="token-27-12" morph="none" pos="word" start_char="3706">un</TOKEN>
+<TOKEN end_char="3715" id="token-27-13" morph="none" pos="word" start_char="3709">estudio</TOKEN>
+<TOKEN end_char="3721" id="token-27-14" morph="none" pos="word" start_char="3717">hecho</TOKEN>
+<TOKEN end_char="3724" id="token-27-15" morph="none" pos="word" start_char="3723">en</TOKEN>
+<TOKEN end_char="3727" id="token-27-16" morph="none" pos="word" start_char="3726">la</TOKEN>
+<TOKEN end_char="3733" id="token-27-17" morph="none" pos="word" start_char="3729">India</TOKEN>
+<TOKEN end_char="3734" id="token-27-18" morph="none" pos="punct" start_char="3734">,</TOKEN>
+<TOKEN end_char="3737" id="token-27-19" morph="none" pos="word" start_char="3736">en</TOKEN>
+<TOKEN end_char="3740" id="token-27-20" morph="none" pos="word" start_char="3739">el</TOKEN>
+<TOKEN end_char="3744" id="token-27-21" morph="none" pos="word" start_char="3742">que</TOKEN>
+<TOKEN end_char="3747" id="token-27-22" morph="none" pos="word" start_char="3746">un</TOKEN>
+<TOKEN end_char="3753" id="token-27-23" morph="none" pos="word" start_char="3749">grupo</TOKEN>
+<TOKEN end_char="3756" id="token-27-24" morph="none" pos="word" start_char="3755">de</TOKEN>
+<TOKEN end_char="3760" id="token-27-25" morph="none" pos="word" start_char="3758">464</TOKEN>
+<TOKEN end_char="3768" id="token-27-26" morph="none" pos="word" start_char="3762">adultos</TOKEN>
+<TOKEN end_char="3772" id="token-27-27" morph="none" pos="word" start_char="3770">con</TOKEN>
+<TOKEN end_char="3781" id="token-27-28" morph="none" pos="unknown" start_char="3774">covid-19</TOKEN>
+<TOKEN end_char="3790" id="token-27-29" morph="none" pos="word" start_char="3783">moderado</TOKEN>
+<TOKEN end_char="3793" id="token-27-30" morph="none" pos="word" start_char="3792">de</TOKEN>
+<TOKEN end_char="3796" id="token-27-31" morph="none" pos="word" start_char="3795">39</TOKEN>
+<TOKEN end_char="3807" id="token-27-32" morph="none" pos="word" start_char="3798">hospitales</TOKEN>
+<TOKEN end_char="3814" id="token-27-33" morph="none" pos="word" start_char="3809">fueron</TOKEN>
+<TOKEN end_char="3824" id="token-27-34" morph="none" pos="word" start_char="3816">sorteados</TOKEN>
+<TOKEN end_char="3827" id="token-27-35" morph="none" pos="word" start_char="3826">al</TOKEN>
+<TOKEN end_char="3832" id="token-27-36" morph="none" pos="word" start_char="3829">azar</TOKEN>
+<TOKEN end_char="3837" id="token-27-37" morph="none" pos="word" start_char="3834">para</TOKEN>
+<TOKEN end_char="3845" id="token-27-38" morph="none" pos="word" start_char="3839">recibir</TOKEN>
+<TOKEN end_char="3848" id="token-27-39" morph="none" pos="word" start_char="3847">el</TOKEN>
+<TOKEN end_char="3855" id="token-27-40" morph="none" pos="word" start_char="3850">plasma</TOKEN>
+<TOKEN end_char="3857" id="token-27-41" morph="none" pos="word" start_char="3857">o</TOKEN>
+<TOKEN end_char="3862" id="token-27-42" morph="none" pos="word" start_char="3859">para</TOKEN>
+<TOKEN end_char="3872" id="token-27-43" morph="none" pos="word" start_char="3864">continuar</TOKEN>
+<TOKEN end_char="3876" id="token-27-44" morph="none" pos="word" start_char="3874">con</TOKEN>
+<TOKEN end_char="3879" id="token-27-45" morph="none" pos="word" start_char="3878">el</TOKEN>
+<TOKEN end_char="3887" id="token-27-46" morph="none" pos="word" start_char="3881">cuidado</TOKEN>
+<TOKEN end_char="3894" id="token-27-47" morph="none" pos="word" start_char="3889">médico</TOKEN>
+<TOKEN end_char="3903" id="token-27-48" morph="none" pos="word" start_char="3896">estándar</TOKEN>
+<TOKEN end_char="3904" id="token-27-49" morph="none" pos="punct" start_char="3904">,</TOKEN>
+<TOKEN end_char="3908" id="token-27-50" morph="none" pos="word" start_char="3906">sin</TOKEN>
+<TOKEN end_char="3911" id="token-27-51" morph="none" pos="word" start_char="3910">el</TOKEN>
+<TOKEN end_char="3918" id="token-27-52" morph="none" pos="word" start_char="3913">plasma</TOKEN>
+<TOKEN end_char="3919" id="token-27-53" morph="none" pos="punct" start_char="3919">.</TOKEN>
+<TRANSLATED_TEXT>Now, an article published in the medical journal BMJ describes a study done in India, in which a group of 464 adults with moderate covid-19 were randomly drawn from 39 hospitals to receive plasma or to continue standard medical care, without plasma.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="4088" id="segment-28" start_char="3922">
+<ORIGINAL_TEXT>En total, 235 pacientes recibieron el plasma de convalecientes junto con la atención estándar para el tratamiento y 229 pacientes recibieron solo la atención estándar.</ORIGINAL_TEXT>
+<TOKEN end_char="3923" id="token-28-0" morph="none" pos="word" start_char="3922">En</TOKEN>
+<TOKEN end_char="3929" id="token-28-1" morph="none" pos="word" start_char="3925">total</TOKEN>
+<TOKEN end_char="3930" id="token-28-2" morph="none" pos="punct" start_char="3930">,</TOKEN>
+<TOKEN end_char="3934" id="token-28-3" morph="none" pos="word" start_char="3932">235</TOKEN>
+<TOKEN end_char="3944" id="token-28-4" morph="none" pos="word" start_char="3936">pacientes</TOKEN>
+<TOKEN end_char="3955" id="token-28-5" morph="none" pos="word" start_char="3946">recibieron</TOKEN>
+<TOKEN end_char="3958" id="token-28-6" morph="none" pos="word" start_char="3957">el</TOKEN>
+<TOKEN end_char="3965" id="token-28-7" morph="none" pos="word" start_char="3960">plasma</TOKEN>
+<TOKEN end_char="3968" id="token-28-8" morph="none" pos="word" start_char="3967">de</TOKEN>
+<TOKEN end_char="3983" id="token-28-9" morph="none" pos="word" start_char="3970">convalecientes</TOKEN>
+<TOKEN end_char="3989" id="token-28-10" morph="none" pos="word" start_char="3985">junto</TOKEN>
+<TOKEN end_char="3993" id="token-28-11" morph="none" pos="word" start_char="3991">con</TOKEN>
+<TOKEN end_char="3996" id="token-28-12" morph="none" pos="word" start_char="3995">la</TOKEN>
+<TOKEN end_char="4005" id="token-28-13" morph="none" pos="word" start_char="3998">atención</TOKEN>
+<TOKEN end_char="4014" id="token-28-14" morph="none" pos="word" start_char="4007">estándar</TOKEN>
+<TOKEN end_char="4019" id="token-28-15" morph="none" pos="word" start_char="4016">para</TOKEN>
+<TOKEN end_char="4022" id="token-28-16" morph="none" pos="word" start_char="4021">el</TOKEN>
+<TOKEN end_char="4034" id="token-28-17" morph="none" pos="word" start_char="4024">tratamiento</TOKEN>
+<TOKEN end_char="4036" id="token-28-18" morph="none" pos="word" start_char="4036">y</TOKEN>
+<TOKEN end_char="4040" id="token-28-19" morph="none" pos="word" start_char="4038">229</TOKEN>
+<TOKEN end_char="4050" id="token-28-20" morph="none" pos="word" start_char="4042">pacientes</TOKEN>
+<TOKEN end_char="4061" id="token-28-21" morph="none" pos="word" start_char="4052">recibieron</TOKEN>
+<TOKEN end_char="4066" id="token-28-22" morph="none" pos="word" start_char="4063">solo</TOKEN>
+<TOKEN end_char="4069" id="token-28-23" morph="none" pos="word" start_char="4068">la</TOKEN>
+<TOKEN end_char="4078" id="token-28-24" morph="none" pos="word" start_char="4071">atención</TOKEN>
+<TOKEN end_char="4087" id="token-28-25" morph="none" pos="word" start_char="4080">estándar</TOKEN>
+<TOKEN end_char="4088" id="token-28-26" morph="none" pos="punct" start_char="4088">.</TOKEN>
+<TRANSLATED_TEXT>In total, 235 patients received convalescent plasma along with standard care for treatment and 229 patients received only standard care.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="4374" id="segment-29" start_char="4091">
+<ORIGINAL_TEXT>En relación a los síntomas de la enfermedad, los resultados demostraron que, a pesar de que una mayor proporción de pacientes que recibieron plasma de convalecientes mejoraron de sus síntomas de fatiga y dificultad para respirar, no hubo diferencia en el alivio de la fiebre y la tos.</ORIGINAL_TEXT>
+<TOKEN end_char="4092" id="token-29-0" morph="none" pos="word" start_char="4091">En</TOKEN>
+<TOKEN end_char="4101" id="token-29-1" morph="none" pos="word" start_char="4094">relación</TOKEN>
+<TOKEN end_char="4103" id="token-29-2" morph="none" pos="word" start_char="4103">a</TOKEN>
+<TOKEN end_char="4107" id="token-29-3" morph="none" pos="word" start_char="4105">los</TOKEN>
+<TOKEN end_char="4116" id="token-29-4" morph="none" pos="word" start_char="4109">síntomas</TOKEN>
+<TOKEN end_char="4119" id="token-29-5" morph="none" pos="word" start_char="4118">de</TOKEN>
+<TOKEN end_char="4122" id="token-29-6" morph="none" pos="word" start_char="4121">la</TOKEN>
+<TOKEN end_char="4133" id="token-29-7" morph="none" pos="word" start_char="4124">enfermedad</TOKEN>
+<TOKEN end_char="4134" id="token-29-8" morph="none" pos="punct" start_char="4134">,</TOKEN>
+<TOKEN end_char="4138" id="token-29-9" morph="none" pos="word" start_char="4136">los</TOKEN>
+<TOKEN end_char="4149" id="token-29-10" morph="none" pos="word" start_char="4140">resultados</TOKEN>
+<TOKEN end_char="4161" id="token-29-11" morph="none" pos="word" start_char="4151">demostraron</TOKEN>
+<TOKEN end_char="4165" id="token-29-12" morph="none" pos="word" start_char="4163">que</TOKEN>
+<TOKEN end_char="4166" id="token-29-13" morph="none" pos="punct" start_char="4166">,</TOKEN>
+<TOKEN end_char="4168" id="token-29-14" morph="none" pos="word" start_char="4168">a</TOKEN>
+<TOKEN end_char="4174" id="token-29-15" morph="none" pos="word" start_char="4170">pesar</TOKEN>
+<TOKEN end_char="4177" id="token-29-16" morph="none" pos="word" start_char="4176">de</TOKEN>
+<TOKEN end_char="4181" id="token-29-17" morph="none" pos="word" start_char="4179">que</TOKEN>
+<TOKEN end_char="4185" id="token-29-18" morph="none" pos="word" start_char="4183">una</TOKEN>
+<TOKEN end_char="4191" id="token-29-19" morph="none" pos="word" start_char="4187">mayor</TOKEN>
+<TOKEN end_char="4202" id="token-29-20" morph="none" pos="word" start_char="4193">proporción</TOKEN>
+<TOKEN end_char="4205" id="token-29-21" morph="none" pos="word" start_char="4204">de</TOKEN>
+<TOKEN end_char="4215" id="token-29-22" morph="none" pos="word" start_char="4207">pacientes</TOKEN>
+<TOKEN end_char="4219" id="token-29-23" morph="none" pos="word" start_char="4217">que</TOKEN>
+<TOKEN end_char="4230" id="token-29-24" morph="none" pos="word" start_char="4221">recibieron</TOKEN>
+<TOKEN end_char="4237" id="token-29-25" morph="none" pos="word" start_char="4232">plasma</TOKEN>
+<TOKEN end_char="4240" id="token-29-26" morph="none" pos="word" start_char="4239">de</TOKEN>
+<TOKEN end_char="4255" id="token-29-27" morph="none" pos="word" start_char="4242">convalecientes</TOKEN>
+<TOKEN end_char="4265" id="token-29-28" morph="none" pos="word" start_char="4257">mejoraron</TOKEN>
+<TOKEN end_char="4268" id="token-29-29" morph="none" pos="word" start_char="4267">de</TOKEN>
+<TOKEN end_char="4272" id="token-29-30" morph="none" pos="word" start_char="4270">sus</TOKEN>
+<TOKEN end_char="4281" id="token-29-31" morph="none" pos="word" start_char="4274">síntomas</TOKEN>
+<TOKEN end_char="4284" id="token-29-32" morph="none" pos="word" start_char="4283">de</TOKEN>
+<TOKEN end_char="4291" id="token-29-33" morph="none" pos="word" start_char="4286">fatiga</TOKEN>
+<TOKEN end_char="4293" id="token-29-34" morph="none" pos="word" start_char="4293">y</TOKEN>
+<TOKEN end_char="4304" id="token-29-35" morph="none" pos="word" start_char="4295">dificultad</TOKEN>
+<TOKEN end_char="4309" id="token-29-36" morph="none" pos="word" start_char="4306">para</TOKEN>
+<TOKEN end_char="4318" id="token-29-37" morph="none" pos="word" start_char="4311">respirar</TOKEN>
+<TOKEN end_char="4319" id="token-29-38" morph="none" pos="punct" start_char="4319">,</TOKEN>
+<TOKEN end_char="4322" id="token-29-39" morph="none" pos="word" start_char="4321">no</TOKEN>
+<TOKEN end_char="4327" id="token-29-40" morph="none" pos="word" start_char="4324">hubo</TOKEN>
+<TOKEN end_char="4338" id="token-29-41" morph="none" pos="word" start_char="4329">diferencia</TOKEN>
+<TOKEN end_char="4341" id="token-29-42" morph="none" pos="word" start_char="4340">en</TOKEN>
+<TOKEN end_char="4344" id="token-29-43" morph="none" pos="word" start_char="4343">el</TOKEN>
+<TOKEN end_char="4351" id="token-29-44" morph="none" pos="word" start_char="4346">alivio</TOKEN>
+<TOKEN end_char="4354" id="token-29-45" morph="none" pos="word" start_char="4353">de</TOKEN>
+<TOKEN end_char="4357" id="token-29-46" morph="none" pos="word" start_char="4356">la</TOKEN>
+<TOKEN end_char="4364" id="token-29-47" morph="none" pos="word" start_char="4359">fiebre</TOKEN>
+<TOKEN end_char="4366" id="token-29-48" morph="none" pos="word" start_char="4366">y</TOKEN>
+<TOKEN end_char="4369" id="token-29-49" morph="none" pos="word" start_char="4368">la</TOKEN>
+<TOKEN end_char="4373" id="token-29-50" morph="none" pos="word" start_char="4371">tos</TOKEN>
+<TOKEN end_char="4374" id="token-29-51" morph="none" pos="punct" start_char="4374">.</TOKEN>
+<TRANSLATED_TEXT>In relation to the symptoms of the disease, the results showed that, although a higher proportion of patients receiving convalescent plasma improved their symptoms of fatigue and shortness of breath, there was no difference in the relief of fever and cough.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="4604" id="segment-30" start_char="4377">
+<ORIGINAL_TEXT>Por otro lado -y estos fueron los resultados más importantes que se esperaban- ni la proporción de pacientes que empeoraron ni la proporción de pacientes que fallecieron fue menor en el grupo que usó el plasma de convalecientes.</ORIGINAL_TEXT>
+<TOKEN end_char="4379" id="token-30-0" morph="none" pos="word" start_char="4377">Por</TOKEN>
+<TOKEN end_char="4384" id="token-30-1" morph="none" pos="word" start_char="4381">otro</TOKEN>
+<TOKEN end_char="4389" id="token-30-2" morph="none" pos="word" start_char="4386">lado</TOKEN>
+<TOKEN end_char="4391" id="token-30-3" morph="none" pos="punct" start_char="4391">-</TOKEN>
+<TOKEN end_char="4392" id="token-30-4" morph="none" pos="word" start_char="4392">y</TOKEN>
+<TOKEN end_char="4398" id="token-30-5" morph="none" pos="word" start_char="4394">estos</TOKEN>
+<TOKEN end_char="4405" id="token-30-6" morph="none" pos="word" start_char="4400">fueron</TOKEN>
+<TOKEN end_char="4409" id="token-30-7" morph="none" pos="word" start_char="4407">los</TOKEN>
+<TOKEN end_char="4420" id="token-30-8" morph="none" pos="word" start_char="4411">resultados</TOKEN>
+<TOKEN end_char="4424" id="token-30-9" morph="none" pos="word" start_char="4422">más</TOKEN>
+<TOKEN end_char="4436" id="token-30-10" morph="none" pos="word" start_char="4426">importantes</TOKEN>
+<TOKEN end_char="4440" id="token-30-11" morph="none" pos="word" start_char="4438">que</TOKEN>
+<TOKEN end_char="4443" id="token-30-12" morph="none" pos="word" start_char="4442">se</TOKEN>
+<TOKEN end_char="4453" id="token-30-13" morph="none" pos="word" start_char="4445">esperaban</TOKEN>
+<TOKEN end_char="4454" id="token-30-14" morph="none" pos="punct" start_char="4454">-</TOKEN>
+<TOKEN end_char="4457" id="token-30-15" morph="none" pos="word" start_char="4456">ni</TOKEN>
+<TOKEN end_char="4460" id="token-30-16" morph="none" pos="word" start_char="4459">la</TOKEN>
+<TOKEN end_char="4471" id="token-30-17" morph="none" pos="word" start_char="4462">proporción</TOKEN>
+<TOKEN end_char="4474" id="token-30-18" morph="none" pos="word" start_char="4473">de</TOKEN>
+<TOKEN end_char="4484" id="token-30-19" morph="none" pos="word" start_char="4476">pacientes</TOKEN>
+<TOKEN end_char="4488" id="token-30-20" morph="none" pos="word" start_char="4486">que</TOKEN>
+<TOKEN end_char="4499" id="token-30-21" morph="none" pos="word" start_char="4490">empeoraron</TOKEN>
+<TOKEN end_char="4502" id="token-30-22" morph="none" pos="word" start_char="4501">ni</TOKEN>
+<TOKEN end_char="4505" id="token-30-23" morph="none" pos="word" start_char="4504">la</TOKEN>
+<TOKEN end_char="4516" id="token-30-24" morph="none" pos="word" start_char="4507">proporción</TOKEN>
+<TOKEN end_char="4519" id="token-30-25" morph="none" pos="word" start_char="4518">de</TOKEN>
+<TOKEN end_char="4529" id="token-30-26" morph="none" pos="word" start_char="4521">pacientes</TOKEN>
+<TOKEN end_char="4533" id="token-30-27" morph="none" pos="word" start_char="4531">que</TOKEN>
+<TOKEN end_char="4545" id="token-30-28" morph="none" pos="word" start_char="4535">fallecieron</TOKEN>
+<TOKEN end_char="4549" id="token-30-29" morph="none" pos="word" start_char="4547">fue</TOKEN>
+<TOKEN end_char="4555" id="token-30-30" morph="none" pos="word" start_char="4551">menor</TOKEN>
+<TOKEN end_char="4558" id="token-30-31" morph="none" pos="word" start_char="4557">en</TOKEN>
+<TOKEN end_char="4561" id="token-30-32" morph="none" pos="word" start_char="4560">el</TOKEN>
+<TOKEN end_char="4567" id="token-30-33" morph="none" pos="word" start_char="4563">grupo</TOKEN>
+<TOKEN end_char="4571" id="token-30-34" morph="none" pos="word" start_char="4569">que</TOKEN>
+<TOKEN end_char="4575" id="token-30-35" morph="none" pos="word" start_char="4573">usó</TOKEN>
+<TOKEN end_char="4578" id="token-30-36" morph="none" pos="word" start_char="4577">el</TOKEN>
+<TOKEN end_char="4585" id="token-30-37" morph="none" pos="word" start_char="4580">plasma</TOKEN>
+<TOKEN end_char="4588" id="token-30-38" morph="none" pos="word" start_char="4587">de</TOKEN>
+<TOKEN end_char="4603" id="token-30-39" morph="none" pos="word" start_char="4590">convalecientes</TOKEN>
+<TOKEN end_char="4604" id="token-30-40" morph="none" pos="punct" start_char="4604">.</TOKEN>
+<TRANSLATED_TEXT>On the other hand - and these were the most important results expected - neither the proportion of patients who worsened nor the proportion of patients who died was lower in the group that used convalescent plasma.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="4733" id="segment-31" start_char="4607">
+<ORIGINAL_TEXT>En otras palabras, el plasma de convalecientes no impidió que los pacientes lleguen a cuidados intensivos ni les salvó la vida.</ORIGINAL_TEXT>
+<TOKEN end_char="4608" id="token-31-0" morph="none" pos="word" start_char="4607">En</TOKEN>
+<TOKEN end_char="4614" id="token-31-1" morph="none" pos="word" start_char="4610">otras</TOKEN>
+<TOKEN end_char="4623" id="token-31-2" morph="none" pos="word" start_char="4616">palabras</TOKEN>
+<TOKEN end_char="4624" id="token-31-3" morph="none" pos="punct" start_char="4624">,</TOKEN>
+<TOKEN end_char="4627" id="token-31-4" morph="none" pos="word" start_char="4626">el</TOKEN>
+<TOKEN end_char="4634" id="token-31-5" morph="none" pos="word" start_char="4629">plasma</TOKEN>
+<TOKEN end_char="4637" id="token-31-6" morph="none" pos="word" start_char="4636">de</TOKEN>
+<TOKEN end_char="4652" id="token-31-7" morph="none" pos="word" start_char="4639">convalecientes</TOKEN>
+<TOKEN end_char="4655" id="token-31-8" morph="none" pos="word" start_char="4654">no</TOKEN>
+<TOKEN end_char="4663" id="token-31-9" morph="none" pos="word" start_char="4657">impidió</TOKEN>
+<TOKEN end_char="4667" id="token-31-10" morph="none" pos="word" start_char="4665">que</TOKEN>
+<TOKEN end_char="4671" id="token-31-11" morph="none" pos="word" start_char="4669">los</TOKEN>
+<TOKEN end_char="4681" id="token-31-12" morph="none" pos="word" start_char="4673">pacientes</TOKEN>
+<TOKEN end_char="4689" id="token-31-13" morph="none" pos="word" start_char="4683">lleguen</TOKEN>
+<TOKEN end_char="4691" id="token-31-14" morph="none" pos="word" start_char="4691">a</TOKEN>
+<TOKEN end_char="4700" id="token-31-15" morph="none" pos="word" start_char="4693">cuidados</TOKEN>
+<TOKEN end_char="4711" id="token-31-16" morph="none" pos="word" start_char="4702">intensivos</TOKEN>
+<TOKEN end_char="4714" id="token-31-17" morph="none" pos="word" start_char="4713">ni</TOKEN>
+<TOKEN end_char="4718" id="token-31-18" morph="none" pos="word" start_char="4716">les</TOKEN>
+<TOKEN end_char="4724" id="token-31-19" morph="none" pos="word" start_char="4720">salvó</TOKEN>
+<TOKEN end_char="4727" id="token-31-20" morph="none" pos="word" start_char="4726">la</TOKEN>
+<TOKEN end_char="4732" id="token-31-21" morph="none" pos="word" start_char="4729">vida</TOKEN>
+<TOKEN end_char="4733" id="token-31-22" morph="none" pos="punct" start_char="4733">.</TOKEN>
+<TRANSLATED_TEXT>In other words, convalescent plasma did not prevent patients from getting intensive care or save their lives.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="4761" id="segment-32" start_char="4736">
+<ORIGINAL_TEXT>Los resultados del estudio</ORIGINAL_TEXT>
+<TOKEN end_char="4738" id="token-32-0" morph="none" pos="word" start_char="4736">Los</TOKEN>
+<TOKEN end_char="4749" id="token-32-1" morph="none" pos="word" start_char="4740">resultados</TOKEN>
+<TOKEN end_char="4753" id="token-32-2" morph="none" pos="word" start_char="4751">del</TOKEN>
+<TOKEN end_char="4761" id="token-32-3" morph="none" pos="word" start_char="4755">estudio</TOKEN>
+<TRANSLATED_TEXT>Results of the study</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="5019" id="segment-33" start_char="4765">
+<ORIGINAL_TEXT>Al respecto, 44 pacientes o 19% de participantes en el grupo que recibió el plasma y 41 o 18% de pacientes que no lo recibió degeneraron hacia una enfermedad más grave o fallecieron por alguna razón dentro de los 28 días después de empezar el tratamiento.</ORIGINAL_TEXT>
+<TOKEN end_char="4766" id="token-33-0" morph="none" pos="word" start_char="4765">Al</TOKEN>
+<TOKEN end_char="4775" id="token-33-1" morph="none" pos="word" start_char="4768">respecto</TOKEN>
+<TOKEN end_char="4776" id="token-33-2" morph="none" pos="punct" start_char="4776">,</TOKEN>
+<TOKEN end_char="4779" id="token-33-3" morph="none" pos="word" start_char="4778">44</TOKEN>
+<TOKEN end_char="4789" id="token-33-4" morph="none" pos="word" start_char="4781">pacientes</TOKEN>
+<TOKEN end_char="4791" id="token-33-5" morph="none" pos="word" start_char="4791">o</TOKEN>
+<TOKEN end_char="4794" id="token-33-6" morph="none" pos="word" start_char="4793">19</TOKEN>
+<TOKEN end_char="4795" id="token-33-7" morph="none" pos="punct" start_char="4795">%</TOKEN>
+<TOKEN end_char="4798" id="token-33-8" morph="none" pos="word" start_char="4797">de</TOKEN>
+<TOKEN end_char="4812" id="token-33-9" morph="none" pos="word" start_char="4800">participantes</TOKEN>
+<TOKEN end_char="4815" id="token-33-10" morph="none" pos="word" start_char="4814">en</TOKEN>
+<TOKEN end_char="4818" id="token-33-11" morph="none" pos="word" start_char="4817">el</TOKEN>
+<TOKEN end_char="4824" id="token-33-12" morph="none" pos="word" start_char="4820">grupo</TOKEN>
+<TOKEN end_char="4828" id="token-33-13" morph="none" pos="word" start_char="4826">que</TOKEN>
+<TOKEN end_char="4836" id="token-33-14" morph="none" pos="word" start_char="4830">recibió</TOKEN>
+<TOKEN end_char="4839" id="token-33-15" morph="none" pos="word" start_char="4838">el</TOKEN>
+<TOKEN end_char="4846" id="token-33-16" morph="none" pos="word" start_char="4841">plasma</TOKEN>
+<TOKEN end_char="4848" id="token-33-17" morph="none" pos="word" start_char="4848">y</TOKEN>
+<TOKEN end_char="4851" id="token-33-18" morph="none" pos="word" start_char="4850">41</TOKEN>
+<TOKEN end_char="4853" id="token-33-19" morph="none" pos="word" start_char="4853">o</TOKEN>
+<TOKEN end_char="4856" id="token-33-20" morph="none" pos="word" start_char="4855">18</TOKEN>
+<TOKEN end_char="4857" id="token-33-21" morph="none" pos="punct" start_char="4857">%</TOKEN>
+<TOKEN end_char="4860" id="token-33-22" morph="none" pos="word" start_char="4859">de</TOKEN>
+<TOKEN end_char="4870" id="token-33-23" morph="none" pos="word" start_char="4862">pacientes</TOKEN>
+<TOKEN end_char="4874" id="token-33-24" morph="none" pos="word" start_char="4872">que</TOKEN>
+<TOKEN end_char="4877" id="token-33-25" morph="none" pos="word" start_char="4876">no</TOKEN>
+<TOKEN end_char="4880" id="token-33-26" morph="none" pos="word" start_char="4879">lo</TOKEN>
+<TOKEN end_char="4888" id="token-33-27" morph="none" pos="word" start_char="4882">recibió</TOKEN>
+<TOKEN end_char="4900" id="token-33-28" morph="none" pos="word" start_char="4890">degeneraron</TOKEN>
+<TOKEN end_char="4906" id="token-33-29" morph="none" pos="word" start_char="4902">hacia</TOKEN>
+<TOKEN end_char="4910" id="token-33-30" morph="none" pos="word" start_char="4908">una</TOKEN>
+<TOKEN end_char="4921" id="token-33-31" morph="none" pos="word" start_char="4912">enfermedad</TOKEN>
+<TOKEN end_char="4925" id="token-33-32" morph="none" pos="word" start_char="4923">más</TOKEN>
+<TOKEN end_char="4931" id="token-33-33" morph="none" pos="word" start_char="4927">grave</TOKEN>
+<TOKEN end_char="4933" id="token-33-34" morph="none" pos="word" start_char="4933">o</TOKEN>
+<TOKEN end_char="4945" id="token-33-35" morph="none" pos="word" start_char="4935">fallecieron</TOKEN>
+<TOKEN end_char="4949" id="token-33-36" morph="none" pos="word" start_char="4947">por</TOKEN>
+<TOKEN end_char="4956" id="token-33-37" morph="none" pos="word" start_char="4951">alguna</TOKEN>
+<TOKEN end_char="4962" id="token-33-38" morph="none" pos="word" start_char="4958">razón</TOKEN>
+<TOKEN end_char="4969" id="token-33-39" morph="none" pos="word" start_char="4964">dentro</TOKEN>
+<TOKEN end_char="4972" id="token-33-40" morph="none" pos="word" start_char="4971">de</TOKEN>
+<TOKEN end_char="4976" id="token-33-41" morph="none" pos="word" start_char="4974">los</TOKEN>
+<TOKEN end_char="4979" id="token-33-42" morph="none" pos="word" start_char="4978">28</TOKEN>
+<TOKEN end_char="4984" id="token-33-43" morph="none" pos="word" start_char="4981">días</TOKEN>
+<TOKEN end_char="4992" id="token-33-44" morph="none" pos="word" start_char="4986">después</TOKEN>
+<TOKEN end_char="4995" id="token-33-45" morph="none" pos="word" start_char="4994">de</TOKEN>
+<TOKEN end_char="5003" id="token-33-46" morph="none" pos="word" start_char="4997">empezar</TOKEN>
+<TOKEN end_char="5006" id="token-33-47" morph="none" pos="word" start_char="5005">el</TOKEN>
+<TOKEN end_char="5018" id="token-33-48" morph="none" pos="word" start_char="5008">tratamiento</TOKEN>
+<TOKEN end_char="5019" id="token-33-49" morph="none" pos="punct" start_char="5019">.</TOKEN>
+<TRANSLATED_TEXT>In this regard, 44 patients or 19% of participants in the plasma receiving group and 41 or 18% of patients who did not receive the plasma degenerated into a more serious disease or died for some reason within 28 days of starting treatment.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="5325" id="segment-34" start_char="5022">
+<ORIGINAL_TEXT>Los autores concluyen que su estudio puede generalizarse a muchos otros países que han aprobado el plasma de convalecientes sin tener bases científicas para hacerlo, sobre todo en países de medianos o bajos ingresos que no cuentan con todas las medidas de seguridad que requiere este tipo de tratamiento.</ORIGINAL_TEXT>
+<TOKEN end_char="5024" id="token-34-0" morph="none" pos="word" start_char="5022">Los</TOKEN>
+<TOKEN end_char="5032" id="token-34-1" morph="none" pos="word" start_char="5026">autores</TOKEN>
+<TOKEN end_char="5042" id="token-34-2" morph="none" pos="word" start_char="5034">concluyen</TOKEN>
+<TOKEN end_char="5046" id="token-34-3" morph="none" pos="word" start_char="5044">que</TOKEN>
+<TOKEN end_char="5049" id="token-34-4" morph="none" pos="word" start_char="5048">su</TOKEN>
+<TOKEN end_char="5057" id="token-34-5" morph="none" pos="word" start_char="5051">estudio</TOKEN>
+<TOKEN end_char="5063" id="token-34-6" morph="none" pos="word" start_char="5059">puede</TOKEN>
+<TOKEN end_char="5077" id="token-34-7" morph="none" pos="word" start_char="5065">generalizarse</TOKEN>
+<TOKEN end_char="5079" id="token-34-8" morph="none" pos="word" start_char="5079">a</TOKEN>
+<TOKEN end_char="5086" id="token-34-9" morph="none" pos="word" start_char="5081">muchos</TOKEN>
+<TOKEN end_char="5092" id="token-34-10" morph="none" pos="word" start_char="5088">otros</TOKEN>
+<TOKEN end_char="5099" id="token-34-11" morph="none" pos="word" start_char="5094">países</TOKEN>
+<TOKEN end_char="5103" id="token-34-12" morph="none" pos="word" start_char="5101">que</TOKEN>
+<TOKEN end_char="5107" id="token-34-13" morph="none" pos="word" start_char="5105">han</TOKEN>
+<TOKEN end_char="5116" id="token-34-14" morph="none" pos="word" start_char="5109">aprobado</TOKEN>
+<TOKEN end_char="5119" id="token-34-15" morph="none" pos="word" start_char="5118">el</TOKEN>
+<TOKEN end_char="5126" id="token-34-16" morph="none" pos="word" start_char="5121">plasma</TOKEN>
+<TOKEN end_char="5129" id="token-34-17" morph="none" pos="word" start_char="5128">de</TOKEN>
+<TOKEN end_char="5144" id="token-34-18" morph="none" pos="word" start_char="5131">convalecientes</TOKEN>
+<TOKEN end_char="5148" id="token-34-19" morph="none" pos="word" start_char="5146">sin</TOKEN>
+<TOKEN end_char="5154" id="token-34-20" morph="none" pos="word" start_char="5150">tener</TOKEN>
+<TOKEN end_char="5160" id="token-34-21" morph="none" pos="word" start_char="5156">bases</TOKEN>
+<TOKEN end_char="5172" id="token-34-22" morph="none" pos="word" start_char="5162">científicas</TOKEN>
+<TOKEN end_char="5177" id="token-34-23" morph="none" pos="word" start_char="5174">para</TOKEN>
+<TOKEN end_char="5185" id="token-34-24" morph="none" pos="word" start_char="5179">hacerlo</TOKEN>
+<TOKEN end_char="5186" id="token-34-25" morph="none" pos="punct" start_char="5186">,</TOKEN>
+<TOKEN end_char="5192" id="token-34-26" morph="none" pos="word" start_char="5188">sobre</TOKEN>
+<TOKEN end_char="5197" id="token-34-27" morph="none" pos="word" start_char="5194">todo</TOKEN>
+<TOKEN end_char="5200" id="token-34-28" morph="none" pos="word" start_char="5199">en</TOKEN>
+<TOKEN end_char="5207" id="token-34-29" morph="none" pos="word" start_char="5202">países</TOKEN>
+<TOKEN end_char="5210" id="token-34-30" morph="none" pos="word" start_char="5209">de</TOKEN>
+<TOKEN end_char="5219" id="token-34-31" morph="none" pos="word" start_char="5212">medianos</TOKEN>
+<TOKEN end_char="5221" id="token-34-32" morph="none" pos="word" start_char="5221">o</TOKEN>
+<TOKEN end_char="5227" id="token-34-33" morph="none" pos="word" start_char="5223">bajos</TOKEN>
+<TOKEN end_char="5236" id="token-34-34" morph="none" pos="word" start_char="5229">ingresos</TOKEN>
+<TOKEN end_char="5240" id="token-34-35" morph="none" pos="word" start_char="5238">que</TOKEN>
+<TOKEN end_char="5243" id="token-34-36" morph="none" pos="word" start_char="5242">no</TOKEN>
+<TOKEN end_char="5251" id="token-34-37" morph="none" pos="word" start_char="5245">cuentan</TOKEN>
+<TOKEN end_char="5255" id="token-34-38" morph="none" pos="word" start_char="5253">con</TOKEN>
+<TOKEN end_char="5261" id="token-34-39" morph="none" pos="word" start_char="5257">todas</TOKEN>
+<TOKEN end_char="5265" id="token-34-40" morph="none" pos="word" start_char="5263">las</TOKEN>
+<TOKEN end_char="5273" id="token-34-41" morph="none" pos="word" start_char="5267">medidas</TOKEN>
+<TOKEN end_char="5276" id="token-34-42" morph="none" pos="word" start_char="5275">de</TOKEN>
+<TOKEN end_char="5286" id="token-34-43" morph="none" pos="word" start_char="5278">seguridad</TOKEN>
+<TOKEN end_char="5290" id="token-34-44" morph="none" pos="word" start_char="5288">que</TOKEN>
+<TOKEN end_char="5299" id="token-34-45" morph="none" pos="word" start_char="5292">requiere</TOKEN>
+<TOKEN end_char="5304" id="token-34-46" morph="none" pos="word" start_char="5301">este</TOKEN>
+<TOKEN end_char="5309" id="token-34-47" morph="none" pos="word" start_char="5306">tipo</TOKEN>
+<TOKEN end_char="5312" id="token-34-48" morph="none" pos="word" start_char="5311">de</TOKEN>
+<TOKEN end_char="5324" id="token-34-49" morph="none" pos="word" start_char="5314">tratamiento</TOKEN>
+<TOKEN end_char="5325" id="token-34-50" morph="none" pos="punct" start_char="5325">.</TOKEN>
+<TRANSLATED_TEXT>The authors conclude that their study can be generalized to many other countries that have approved convalescent plasma without a scientific basis for doing so, especially in middle-income or low-income countries that do not have all the safety measures required for this type of treatment.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="5512" id="segment-35" start_char="5328">
+<ORIGINAL_TEXT>El transfundir plasma preparado en condiciones no higiénicas o sin un adecuado control de virus o bacterias puede provocar más daño que beneficio en los pacientes afectados de covid-19.</ORIGINAL_TEXT>
+<TOKEN end_char="5329" id="token-35-0" morph="none" pos="word" start_char="5328">El</TOKEN>
+<TOKEN end_char="5341" id="token-35-1" morph="none" pos="word" start_char="5331">transfundir</TOKEN>
+<TOKEN end_char="5348" id="token-35-2" morph="none" pos="word" start_char="5343">plasma</TOKEN>
+<TOKEN end_char="5358" id="token-35-3" morph="none" pos="word" start_char="5350">preparado</TOKEN>
+<TOKEN end_char="5361" id="token-35-4" morph="none" pos="word" start_char="5360">en</TOKEN>
+<TOKEN end_char="5373" id="token-35-5" morph="none" pos="word" start_char="5363">condiciones</TOKEN>
+<TOKEN end_char="5376" id="token-35-6" morph="none" pos="word" start_char="5375">no</TOKEN>
+<TOKEN end_char="5387" id="token-35-7" morph="none" pos="word" start_char="5378">higiénicas</TOKEN>
+<TOKEN end_char="5389" id="token-35-8" morph="none" pos="word" start_char="5389">o</TOKEN>
+<TOKEN end_char="5393" id="token-35-9" morph="none" pos="word" start_char="5391">sin</TOKEN>
+<TOKEN end_char="5396" id="token-35-10" morph="none" pos="word" start_char="5395">un</TOKEN>
+<TOKEN end_char="5405" id="token-35-11" morph="none" pos="word" start_char="5398">adecuado</TOKEN>
+<TOKEN end_char="5413" id="token-35-12" morph="none" pos="word" start_char="5407">control</TOKEN>
+<TOKEN end_char="5416" id="token-35-13" morph="none" pos="word" start_char="5415">de</TOKEN>
+<TOKEN end_char="5422" id="token-35-14" morph="none" pos="word" start_char="5418">virus</TOKEN>
+<TOKEN end_char="5424" id="token-35-15" morph="none" pos="word" start_char="5424">o</TOKEN>
+<TOKEN end_char="5434" id="token-35-16" morph="none" pos="word" start_char="5426">bacterias</TOKEN>
+<TOKEN end_char="5440" id="token-35-17" morph="none" pos="word" start_char="5436">puede</TOKEN>
+<TOKEN end_char="5449" id="token-35-18" morph="none" pos="word" start_char="5442">provocar</TOKEN>
+<TOKEN end_char="5453" id="token-35-19" morph="none" pos="word" start_char="5451">más</TOKEN>
+<TOKEN end_char="5458" id="token-35-20" morph="none" pos="word" start_char="5455">daño</TOKEN>
+<TOKEN end_char="5462" id="token-35-21" morph="none" pos="word" start_char="5460">que</TOKEN>
+<TOKEN end_char="5472" id="token-35-22" morph="none" pos="word" start_char="5464">beneficio</TOKEN>
+<TOKEN end_char="5475" id="token-35-23" morph="none" pos="word" start_char="5474">en</TOKEN>
+<TOKEN end_char="5479" id="token-35-24" morph="none" pos="word" start_char="5477">los</TOKEN>
+<TOKEN end_char="5489" id="token-35-25" morph="none" pos="word" start_char="5481">pacientes</TOKEN>
+<TOKEN end_char="5499" id="token-35-26" morph="none" pos="word" start_char="5491">afectados</TOKEN>
+<TOKEN end_char="5502" id="token-35-27" morph="none" pos="word" start_char="5501">de</TOKEN>
+<TOKEN end_char="5511" id="token-35-28" morph="none" pos="unknown" start_char="5504">covid-19</TOKEN>
+<TOKEN end_char="5512" id="token-35-29" morph="none" pos="punct" start_char="5512">.</TOKEN>
+<TRANSLATED_TEXT>Transfusion of prepared plasma under unsanitary conditions or without proper virus or bacterial control can cause more harm than benefit in patients affected by covid-19.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="5660" id="segment-36" start_char="5515">
+<ORIGINAL_TEXT>Otros expertos son más cautos y piden esperar estudios con mayor número y selección de participantes, antes de abandonar este tipo de tratamiento.</ORIGINAL_TEXT>
+<TOKEN end_char="5519" id="token-36-0" morph="none" pos="word" start_char="5515">Otros</TOKEN>
+<TOKEN end_char="5528" id="token-36-1" morph="none" pos="word" start_char="5521">expertos</TOKEN>
+<TOKEN end_char="5532" id="token-36-2" morph="none" pos="word" start_char="5530">son</TOKEN>
+<TOKEN end_char="5536" id="token-36-3" morph="none" pos="word" start_char="5534">más</TOKEN>
+<TOKEN end_char="5543" id="token-36-4" morph="none" pos="word" start_char="5538">cautos</TOKEN>
+<TOKEN end_char="5545" id="token-36-5" morph="none" pos="word" start_char="5545">y</TOKEN>
+<TOKEN end_char="5551" id="token-36-6" morph="none" pos="word" start_char="5547">piden</TOKEN>
+<TOKEN end_char="5559" id="token-36-7" morph="none" pos="word" start_char="5553">esperar</TOKEN>
+<TOKEN end_char="5568" id="token-36-8" morph="none" pos="word" start_char="5561">estudios</TOKEN>
+<TOKEN end_char="5572" id="token-36-9" morph="none" pos="word" start_char="5570">con</TOKEN>
+<TOKEN end_char="5578" id="token-36-10" morph="none" pos="word" start_char="5574">mayor</TOKEN>
+<TOKEN end_char="5585" id="token-36-11" morph="none" pos="word" start_char="5580">número</TOKEN>
+<TOKEN end_char="5587" id="token-36-12" morph="none" pos="word" start_char="5587">y</TOKEN>
+<TOKEN end_char="5597" id="token-36-13" morph="none" pos="word" start_char="5589">selección</TOKEN>
+<TOKEN end_char="5600" id="token-36-14" morph="none" pos="word" start_char="5599">de</TOKEN>
+<TOKEN end_char="5614" id="token-36-15" morph="none" pos="word" start_char="5602">participantes</TOKEN>
+<TOKEN end_char="5615" id="token-36-16" morph="none" pos="punct" start_char="5615">,</TOKEN>
+<TOKEN end_char="5621" id="token-36-17" morph="none" pos="word" start_char="5617">antes</TOKEN>
+<TOKEN end_char="5624" id="token-36-18" morph="none" pos="word" start_char="5623">de</TOKEN>
+<TOKEN end_char="5634" id="token-36-19" morph="none" pos="word" start_char="5626">abandonar</TOKEN>
+<TOKEN end_char="5639" id="token-36-20" morph="none" pos="word" start_char="5636">este</TOKEN>
+<TOKEN end_char="5644" id="token-36-21" morph="none" pos="word" start_char="5641">tipo</TOKEN>
+<TOKEN end_char="5647" id="token-36-22" morph="none" pos="word" start_char="5646">de</TOKEN>
+<TOKEN end_char="5659" id="token-36-23" morph="none" pos="word" start_char="5649">tratamiento</TOKEN>
+<TOKEN end_char="5660" id="token-36-24" morph="none" pos="punct" start_char="5660">.</TOKEN>
+<TRANSLATED_TEXT>Other experts are more cautious and ask for more studies and selection of participants before abandoning this type of treatment.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="5701" id="segment-37" start_char="5663">
+<ORIGINAL_TEXT>¿Tienes preguntas sobre el coronavirus?</ORIGINAL_TEXT>
+<TOKEN end_char="5663" id="token-37-0" morph="none" pos="punct" start_char="5663">¿</TOKEN>
+<TOKEN end_char="5669" id="token-37-1" morph="none" pos="word" start_char="5664">Tienes</TOKEN>
+<TOKEN end_char="5679" id="token-37-2" morph="none" pos="word" start_char="5671">preguntas</TOKEN>
+<TOKEN end_char="5685" id="token-37-3" morph="none" pos="word" start_char="5681">sobre</TOKEN>
+<TOKEN end_char="5688" id="token-37-4" morph="none" pos="word" start_char="5687">el</TOKEN>
+<TOKEN end_char="5700" id="token-37-5" morph="none" pos="word" start_char="5690">coronavirus</TOKEN>
+<TOKEN end_char="5701" id="token-37-6" morph="none" pos="punct" start_char="5701">?</TOKEN>
+<TRANSLATED_TEXT>Do you have any questions about coronavirus?</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="5796" id="segment-38" start_char="5705">
+<ORIGINAL_TEXT>Envíeme sus preguntas por Twitter, intentaremos responderlas en nuestros próximos episodios.</ORIGINAL_TEXT>
+<TOKEN end_char="5711" id="token-38-0" morph="none" pos="word" start_char="5705">Envíeme</TOKEN>
+<TOKEN end_char="5715" id="token-38-1" morph="none" pos="word" start_char="5713">sus</TOKEN>
+<TOKEN end_char="5725" id="token-38-2" morph="none" pos="word" start_char="5717">preguntas</TOKEN>
+<TOKEN end_char="5729" id="token-38-3" morph="none" pos="word" start_char="5727">por</TOKEN>
+<TOKEN end_char="5737" id="token-38-4" morph="none" pos="word" start_char="5731">Twitter</TOKEN>
+<TOKEN end_char="5738" id="token-38-5" morph="none" pos="punct" start_char="5738">,</TOKEN>
+<TOKEN end_char="5751" id="token-38-6" morph="none" pos="word" start_char="5740">intentaremos</TOKEN>
+<TOKEN end_char="5764" id="token-38-7" morph="none" pos="word" start_char="5753">responderlas</TOKEN>
+<TOKEN end_char="5767" id="token-38-8" morph="none" pos="word" start_char="5766">en</TOKEN>
+<TOKEN end_char="5776" id="token-38-9" morph="none" pos="word" start_char="5769">nuestros</TOKEN>
+<TOKEN end_char="5785" id="token-38-10" morph="none" pos="word" start_char="5778">próximos</TOKEN>
+<TOKEN end_char="5795" id="token-38-11" morph="none" pos="word" start_char="5787">episodios</TOKEN>
+<TOKEN end_char="5796" id="token-38-12" morph="none" pos="punct" start_char="5796">.</TOKEN>
+<TRANSLATED_TEXT>Send me your questions via Twitter, we will try to answer them in our next episodes.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="5829" id="segment-39" start_char="5798">
+<ORIGINAL_TEXT>Pueden encontrarme en @DrHuerta.</ORIGINAL_TEXT>
+<TOKEN end_char="5803" id="token-39-0" morph="none" pos="word" start_char="5798">Pueden</TOKEN>
+<TOKEN end_char="5815" id="token-39-1" morph="none" pos="word" start_char="5805">encontrarme</TOKEN>
+<TOKEN end_char="5818" id="token-39-2" morph="none" pos="word" start_char="5817">en</TOKEN>
+<TOKEN end_char="5829" id="token-39-3" morph="none" pos="tag" start_char="5820">@DrHuerta.</TOKEN>
+<TRANSLATED_TEXT>You can find me at @DrHuerta.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="5959" id="segment-40" start_char="5832">
+<ORIGINAL_TEXT>Si cree que este podcast es útil, ayude a otros a encontrarlo, calificándolo y revisándolo en su aplicación de podcast favorita.</ORIGINAL_TEXT>
+<TOKEN end_char="5833" id="token-40-0" morph="none" pos="word" start_char="5832">Si</TOKEN>
+<TOKEN end_char="5838" id="token-40-1" morph="none" pos="word" start_char="5835">cree</TOKEN>
+<TOKEN end_char="5842" id="token-40-2" morph="none" pos="word" start_char="5840">que</TOKEN>
+<TOKEN end_char="5847" id="token-40-3" morph="none" pos="word" start_char="5844">este</TOKEN>
+<TOKEN end_char="5855" id="token-40-4" morph="none" pos="word" start_char="5849">podcast</TOKEN>
+<TOKEN end_char="5858" id="token-40-5" morph="none" pos="word" start_char="5857">es</TOKEN>
+<TOKEN end_char="5863" id="token-40-6" morph="none" pos="word" start_char="5860">útil</TOKEN>
+<TOKEN end_char="5864" id="token-40-7" morph="none" pos="punct" start_char="5864">,</TOKEN>
+<TOKEN end_char="5870" id="token-40-8" morph="none" pos="word" start_char="5866">ayude</TOKEN>
+<TOKEN end_char="5872" id="token-40-9" morph="none" pos="word" start_char="5872">a</TOKEN>
+<TOKEN end_char="5878" id="token-40-10" morph="none" pos="word" start_char="5874">otros</TOKEN>
+<TOKEN end_char="5880" id="token-40-11" morph="none" pos="word" start_char="5880">a</TOKEN>
+<TOKEN end_char="5892" id="token-40-12" morph="none" pos="word" start_char="5882">encontrarlo</TOKEN>
+<TOKEN end_char="5893" id="token-40-13" morph="none" pos="punct" start_char="5893">,</TOKEN>
+<TOKEN end_char="5907" id="token-40-14" morph="none" pos="word" start_char="5895">calificándolo</TOKEN>
+<TOKEN end_char="5909" id="token-40-15" morph="none" pos="word" start_char="5909">y</TOKEN>
+<TOKEN end_char="5921" id="token-40-16" morph="none" pos="word" start_char="5911">revisándolo</TOKEN>
+<TOKEN end_char="5924" id="token-40-17" morph="none" pos="word" start_char="5923">en</TOKEN>
+<TOKEN end_char="5927" id="token-40-18" morph="none" pos="word" start_char="5926">su</TOKEN>
+<TOKEN end_char="5938" id="token-40-19" morph="none" pos="word" start_char="5929">aplicación</TOKEN>
+<TOKEN end_char="5941" id="token-40-20" morph="none" pos="word" start_char="5940">de</TOKEN>
+<TOKEN end_char="5949" id="token-40-21" morph="none" pos="word" start_char="5943">podcast</TOKEN>
+<TOKEN end_char="5958" id="token-40-22" morph="none" pos="word" start_char="5951">favorita</TOKEN>
+<TOKEN end_char="5959" id="token-40-23" morph="none" pos="punct" start_char="5959">.</TOKEN>
+<TRANSLATED_TEXT>If you think this podcast is useful, help others find it, rating it and reviewing it in your favorite podcast application.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="6057" id="segment-41" start_char="5961">
+<ORIGINAL_TEXT>Volveremos mañana, así que asegúrese de suscribirse para obtener el último episodio en su cuenta.</ORIGINAL_TEXT>
+<TOKEN end_char="5970" id="token-41-0" morph="none" pos="word" start_char="5961">Volveremos</TOKEN>
+<TOKEN end_char="5977" id="token-41-1" morph="none" pos="word" start_char="5972">mañana</TOKEN>
+<TOKEN end_char="5978" id="token-41-2" morph="none" pos="punct" start_char="5978">,</TOKEN>
+<TOKEN end_char="5982" id="token-41-3" morph="none" pos="word" start_char="5980">así</TOKEN>
+<TOKEN end_char="5986" id="token-41-4" morph="none" pos="word" start_char="5984">que</TOKEN>
+<TOKEN end_char="5996" id="token-41-5" morph="none" pos="word" start_char="5988">asegúrese</TOKEN>
+<TOKEN end_char="5999" id="token-41-6" morph="none" pos="word" start_char="5998">de</TOKEN>
+<TOKEN end_char="6011" id="token-41-7" morph="none" pos="word" start_char="6001">suscribirse</TOKEN>
+<TOKEN end_char="6016" id="token-41-8" morph="none" pos="word" start_char="6013">para</TOKEN>
+<TOKEN end_char="6024" id="token-41-9" morph="none" pos="word" start_char="6018">obtener</TOKEN>
+<TOKEN end_char="6027" id="token-41-10" morph="none" pos="word" start_char="6026">el</TOKEN>
+<TOKEN end_char="6034" id="token-41-11" morph="none" pos="word" start_char="6029">último</TOKEN>
+<TOKEN end_char="6043" id="token-41-12" morph="none" pos="word" start_char="6036">episodio</TOKEN>
+<TOKEN end_char="6046" id="token-41-13" morph="none" pos="word" start_char="6045">en</TOKEN>
+<TOKEN end_char="6049" id="token-41-14" morph="none" pos="word" start_char="6048">su</TOKEN>
+<TOKEN end_char="6056" id="token-41-15" morph="none" pos="word" start_char="6051">cuenta</TOKEN>
+<TOKEN end_char="6057" id="token-41-16" morph="none" pos="punct" start_char="6057">.</TOKEN>
+<TRANSLATED_TEXT>We'll be back tomorrow, so make sure you subscribe to get the last episode on your account.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="6147" id="segment-42" start_char="6060">
+<ORIGINAL_TEXT>Y para obtener la información más actualizada, siempre puede dirigirse a CNNEspanol.com.</ORIGINAL_TEXT>
+<TOKEN end_char="6060" id="token-42-0" morph="none" pos="word" start_char="6060">Y</TOKEN>
+<TOKEN end_char="6065" id="token-42-1" morph="none" pos="word" start_char="6062">para</TOKEN>
+<TOKEN end_char="6073" id="token-42-2" morph="none" pos="word" start_char="6067">obtener</TOKEN>
+<TOKEN end_char="6076" id="token-42-3" morph="none" pos="word" start_char="6075">la</TOKEN>
+<TOKEN end_char="6088" id="token-42-4" morph="none" pos="word" start_char="6078">información</TOKEN>
+<TOKEN end_char="6092" id="token-42-5" morph="none" pos="word" start_char="6090">más</TOKEN>
+<TOKEN end_char="6104" id="token-42-6" morph="none" pos="word" start_char="6094">actualizada</TOKEN>
+<TOKEN end_char="6105" id="token-42-7" morph="none" pos="punct" start_char="6105">,</TOKEN>
+<TOKEN end_char="6113" id="token-42-8" morph="none" pos="word" start_char="6107">siempre</TOKEN>
+<TOKEN end_char="6119" id="token-42-9" morph="none" pos="word" start_char="6115">puede</TOKEN>
+<TOKEN end_char="6129" id="token-42-10" morph="none" pos="word" start_char="6121">dirigirse</TOKEN>
+<TOKEN end_char="6131" id="token-42-11" morph="none" pos="word" start_char="6131">a</TOKEN>
+<TOKEN end_char="6146" id="token-42-12" morph="none" pos="unknown" start_char="6133">CNNEspanol.com</TOKEN>
+<TOKEN end_char="6147" id="token-42-13" morph="none" pos="punct" start_char="6147">.</TOKEN>
+<TRANSLATED_TEXT>And for more up-to-date information, you can to CNNEspanol.com.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="6172" id="segment-43" start_char="6149">
+<ORIGINAL_TEXT>Gracias por su atención.</ORIGINAL_TEXT>
+<TOKEN end_char="6155" id="token-43-0" morph="none" pos="word" start_char="6149">Gracias</TOKEN>
+<TOKEN end_char="6159" id="token-43-1" morph="none" pos="word" start_char="6157">por</TOKEN>
+<TOKEN end_char="6162" id="token-43-2" morph="none" pos="word" start_char="6161">su</TOKEN>
+<TOKEN end_char="6171" id="token-43-3" morph="none" pos="word" start_char="6164">atención</TOKEN>
+<TOKEN end_char="6172" id="token-43-4" morph="none" pos="punct" start_char="6172">.</TOKEN>
+<TRANSLATED_TEXT>Thank you for your attention.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="6259" id="segment-44" start_char="6175">
+<ORIGINAL_TEXT>Si tienes alguna pregunta puedes enviarla al doctor Elmer Huerta a través de Twitter.</ORIGINAL_TEXT>
+<TOKEN end_char="6176" id="token-44-0" morph="none" pos="word" start_char="6175">Si</TOKEN>
+<TOKEN end_char="6183" id="token-44-1" morph="none" pos="word" start_char="6178">tienes</TOKEN>
+<TOKEN end_char="6190" id="token-44-2" morph="none" pos="word" start_char="6185">alguna</TOKEN>
+<TOKEN end_char="6199" id="token-44-3" morph="none" pos="word" start_char="6192">pregunta</TOKEN>
+<TOKEN end_char="6206" id="token-44-4" morph="none" pos="word" start_char="6201">puedes</TOKEN>
+<TOKEN end_char="6215" id="token-44-5" morph="none" pos="word" start_char="6208">enviarla</TOKEN>
+<TOKEN end_char="6218" id="token-44-6" morph="none" pos="word" start_char="6217">al</TOKEN>
+<TOKEN end_char="6225" id="token-44-7" morph="none" pos="word" start_char="6220">doctor</TOKEN>
+<TOKEN end_char="6231" id="token-44-8" morph="none" pos="word" start_char="6227">Elmer</TOKEN>
+<TOKEN end_char="6238" id="token-44-9" morph="none" pos="word" start_char="6233">Huerta</TOKEN>
+<TOKEN end_char="6240" id="token-44-10" morph="none" pos="word" start_char="6240">a</TOKEN>
+<TOKEN end_char="6247" id="token-44-11" morph="none" pos="word" start_char="6242">través</TOKEN>
+<TOKEN end_char="6250" id="token-44-12" morph="none" pos="word" start_char="6249">de</TOKEN>
+<TOKEN end_char="6258" id="token-44-13" morph="none" pos="word" start_char="6252">Twitter</TOKEN>
+<TOKEN end_char="6259" id="token-44-14" morph="none" pos="punct" start_char="6259">.</TOKEN>
+<TRANSLATED_TEXT>If you have any questions you can send them to Dr. Elmer Huerta via Twitter.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ca</DETECTED_LANGUAGE></SEG>
+<SEG end_char="6385" id="segment-45" start_char="6261">
+<ORIGINAL_TEXT>También puedes dirigirte a CNNE.com/coronaviruspodcast para todos los episodios de nuestro podcast «Coronavirus: Realidad vs.</ORIGINAL_TEXT>
+<TOKEN end_char="6267" id="token-45-0" morph="none" pos="word" start_char="6261">También</TOKEN>
+<TOKEN end_char="6274" id="token-45-1" morph="none" pos="word" start_char="6269">puedes</TOKEN>
+<TOKEN end_char="6284" id="token-45-2" morph="none" pos="word" start_char="6276">dirigirte</TOKEN>
+<TOKEN end_char="6286" id="token-45-3" morph="none" pos="word" start_char="6286">a</TOKEN>
+<TOKEN end_char="6314" id="token-45-4" morph="none" pos="unknown" start_char="6288">CNNE.com/coronaviruspodcast</TOKEN>
+<TOKEN end_char="6319" id="token-45-5" morph="none" pos="word" start_char="6316">para</TOKEN>
+<TOKEN end_char="6325" id="token-45-6" morph="none" pos="word" start_char="6321">todos</TOKEN>
+<TOKEN end_char="6329" id="token-45-7" morph="none" pos="word" start_char="6327">los</TOKEN>
+<TOKEN end_char="6339" id="token-45-8" morph="none" pos="word" start_char="6331">episodios</TOKEN>
+<TOKEN end_char="6342" id="token-45-9" morph="none" pos="word" start_char="6341">de</TOKEN>
+<TOKEN end_char="6350" id="token-45-10" morph="none" pos="word" start_char="6344">nuestro</TOKEN>
+<TOKEN end_char="6358" id="token-45-11" morph="none" pos="word" start_char="6352">podcast</TOKEN>
+<TOKEN end_char="6360" id="token-45-12" morph="none" pos="punct" start_char="6360">«</TOKEN>
+<TOKEN end_char="6371" id="token-45-13" morph="none" pos="word" start_char="6361">Coronavirus</TOKEN>
+<TOKEN end_char="6372" id="token-45-14" morph="none" pos="punct" start_char="6372">:</TOKEN>
+<TOKEN end_char="6381" id="token-45-15" morph="none" pos="word" start_char="6374">Realidad</TOKEN>
+<TOKEN end_char="6384" id="token-45-16" morph="none" pos="word" start_char="6383">vs</TOKEN>
+<TOKEN end_char="6385" id="token-45-17" morph="none" pos="punct" start_char="6385">.</TOKEN>
+<TRANSLATED_TEXT>You can also contact CNNE.com / coronavirusPodcast for all episodes of our podcast "Coronavirus: Reality vs.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="6395" id="segment-46" start_char="6387">
+<ORIGINAL_TEXT>ficción».</ORIGINAL_TEXT>
+<TOKEN end_char="6393" id="token-46-0" morph="none" pos="word" start_char="6387">ficción</TOKEN>
+<TOKEN end_char="6395" id="token-46-1" morph="none" pos="punct" start_char="6394">».</TOKEN>
+<TRANSLATED_TEXT>Fiction. "</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

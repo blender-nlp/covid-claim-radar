@@ -1,0 +1,187 @@
+<LCTL_TEXT lang="rus">
+<DOC grammar="none" id="L0C049DVG" lang="rus" raw_text_char_length="1010" raw_text_md5="9d83785cd4b2b7375f33ea9e08729563" tokenization="tokenization_parameters.v5.0">
+<TEXT>
+<SEG end_char="53" id="segment-0" start_char="1">
+<ORIGINAL_TEXT>ВОЗ: наличные деньги могут распространять коронавирус</ORIGINAL_TEXT>
+<TOKEN end_char="3" id="token-0-0" morph="none" pos="word" start_char="1">ВОЗ</TOKEN>
+<TOKEN end_char="4" id="token-0-1" morph="none" pos="punct" start_char="4">:</TOKEN>
+<TOKEN end_char="13" id="token-0-2" morph="none" pos="word" start_char="6">наличные</TOKEN>
+<TOKEN end_char="20" id="token-0-3" morph="none" pos="word" start_char="15">деньги</TOKEN>
+<TOKEN end_char="26" id="token-0-4" morph="none" pos="word" start_char="22">могут</TOKEN>
+<TOKEN end_char="41" id="token-0-5" morph="none" pos="word" start_char="28">распространять</TOKEN>
+<TOKEN end_char="53" id="token-0-6" morph="none" pos="word" start_char="43">коронавирус</TOKEN>
+<TRANSLATED_TEXT>WHO: Cash can distribute coronavirus</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="218" id="segment-1" start_char="58">
+<ORIGINAL_TEXT>Всемирная организация здравоохранения (ВОЗ) посоветовала людям мыть руки и по возможности не использовать наличку, т. к. купюры могут распространять коронавирус.</ORIGINAL_TEXT>
+<TOKEN end_char="66" id="token-1-0" morph="none" pos="word" start_char="58">Всемирная</TOKEN>
+<TOKEN end_char="78" id="token-1-1" morph="none" pos="word" start_char="68">организация</TOKEN>
+<TOKEN end_char="94" id="token-1-2" morph="none" pos="word" start_char="80">здравоохранения</TOKEN>
+<TOKEN end_char="96" id="token-1-3" morph="none" pos="punct" start_char="96">(</TOKEN>
+<TOKEN end_char="99" id="token-1-4" morph="none" pos="word" start_char="97">ВОЗ</TOKEN>
+<TOKEN end_char="100" id="token-1-5" morph="none" pos="punct" start_char="100">)</TOKEN>
+<TOKEN end_char="113" id="token-1-6" morph="none" pos="word" start_char="102">посоветовала</TOKEN>
+<TOKEN end_char="119" id="token-1-7" morph="none" pos="word" start_char="115">людям</TOKEN>
+<TOKEN end_char="124" id="token-1-8" morph="none" pos="word" start_char="121">мыть</TOKEN>
+<TOKEN end_char="129" id="token-1-9" morph="none" pos="word" start_char="126">руки</TOKEN>
+<TOKEN end_char="131" id="token-1-10" morph="none" pos="word" start_char="131">и</TOKEN>
+<TOKEN end_char="134" id="token-1-11" morph="none" pos="word" start_char="133">по</TOKEN>
+<TOKEN end_char="146" id="token-1-12" morph="none" pos="word" start_char="136">возможности</TOKEN>
+<TOKEN end_char="149" id="token-1-13" morph="none" pos="word" start_char="148">не</TOKEN>
+<TOKEN end_char="162" id="token-1-14" morph="none" pos="word" start_char="151">использовать</TOKEN>
+<TOKEN end_char="170" id="token-1-15" morph="none" pos="word" start_char="164">наличку</TOKEN>
+<TOKEN end_char="171" id="token-1-16" morph="none" pos="punct" start_char="171">,</TOKEN>
+<TOKEN end_char="173" id="token-1-17" morph="none" pos="word" start_char="173">т</TOKEN>
+<TOKEN end_char="174" id="token-1-18" morph="none" pos="punct" start_char="174">.</TOKEN>
+<TOKEN end_char="176" id="token-1-19" morph="none" pos="word" start_char="176">к</TOKEN>
+<TOKEN end_char="177" id="token-1-20" morph="none" pos="punct" start_char="177">.</TOKEN>
+<TOKEN end_char="184" id="token-1-21" morph="none" pos="word" start_char="179">купюры</TOKEN>
+<TOKEN end_char="190" id="token-1-22" morph="none" pos="word" start_char="186">могут</TOKEN>
+<TOKEN end_char="205" id="token-1-23" morph="none" pos="word" start_char="192">распространять</TOKEN>
+<TOKEN end_char="217" id="token-1-24" morph="none" pos="word" start_char="207">коронавирус</TOKEN>
+<TOKEN end_char="218" id="token-1-25" morph="none" pos="punct" start_char="218">.</TOKEN>
+<TRANSLATED_TEXT>The World Health Organization (WHO) has advised people to wash their hands and not use cash if possible, as bills can spread coronavirus.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="381" id="segment-2" start_char="221">
+<ORIGINAL_TEXT>В организации советуют использовать для расчета карты, смартфоны поскольку коронавирус (Covid-19) может находиться на бумажных деньгах в течение нескольких дней.</ORIGINAL_TEXT>
+<TOKEN end_char="221" id="token-2-0" morph="none" pos="word" start_char="221">В</TOKEN>
+<TOKEN end_char="233" id="token-2-1" morph="none" pos="word" start_char="223">организации</TOKEN>
+<TOKEN end_char="242" id="token-2-2" morph="none" pos="word" start_char="235">советуют</TOKEN>
+<TOKEN end_char="255" id="token-2-3" morph="none" pos="word" start_char="244">использовать</TOKEN>
+<TOKEN end_char="259" id="token-2-4" morph="none" pos="word" start_char="257">для</TOKEN>
+<TOKEN end_char="267" id="token-2-5" morph="none" pos="word" start_char="261">расчета</TOKEN>
+<TOKEN end_char="273" id="token-2-6" morph="none" pos="word" start_char="269">карты</TOKEN>
+<TOKEN end_char="274" id="token-2-7" morph="none" pos="punct" start_char="274">,</TOKEN>
+<TOKEN end_char="284" id="token-2-8" morph="none" pos="word" start_char="276">смартфоны</TOKEN>
+<TOKEN end_char="294" id="token-2-9" morph="none" pos="word" start_char="286">поскольку</TOKEN>
+<TOKEN end_char="306" id="token-2-10" morph="none" pos="word" start_char="296">коронавирус</TOKEN>
+<TOKEN end_char="308" id="token-2-11" morph="none" pos="punct" start_char="308">(</TOKEN>
+<TOKEN end_char="316" id="token-2-12" morph="none" pos="unknown" start_char="309">Covid-19</TOKEN>
+<TOKEN end_char="317" id="token-2-13" morph="none" pos="punct" start_char="317">)</TOKEN>
+<TOKEN end_char="323" id="token-2-14" morph="none" pos="word" start_char="319">может</TOKEN>
+<TOKEN end_char="334" id="token-2-15" morph="none" pos="word" start_char="325">находиться</TOKEN>
+<TOKEN end_char="337" id="token-2-16" morph="none" pos="word" start_char="336">на</TOKEN>
+<TOKEN end_char="346" id="token-2-17" morph="none" pos="word" start_char="339">бумажных</TOKEN>
+<TOKEN end_char="354" id="token-2-18" morph="none" pos="word" start_char="348">деньгах</TOKEN>
+<TOKEN end_char="356" id="token-2-19" morph="none" pos="word" start_char="356">в</TOKEN>
+<TOKEN end_char="364" id="token-2-20" morph="none" pos="word" start_char="358">течение</TOKEN>
+<TOKEN end_char="375" id="token-2-21" morph="none" pos="word" start_char="366">нескольких</TOKEN>
+<TOKEN end_char="380" id="token-2-22" morph="none" pos="word" start_char="377">дней</TOKEN>
+<TOKEN end_char="381" id="token-2-23" morph="none" pos="punct" start_char="381">.</TOKEN>
+<TRANSLATED_TEXT>The organization is advised to use smartphones to calculate the card, as a coronavirus (Covid-19) can be on paper money for several days.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="488" id="segment-3" start_char="384">
+<ORIGINAL_TEXT>Банк Англии признал, что наличные могут нести бактерии или вирусы, и призывает людей регулярно мыть руки.</ORIGINAL_TEXT>
+<TOKEN end_char="387" id="token-3-0" morph="none" pos="word" start_char="384">Банк</TOKEN>
+<TOKEN end_char="394" id="token-3-1" morph="none" pos="word" start_char="389">Англии</TOKEN>
+<TOKEN end_char="402" id="token-3-2" morph="none" pos="word" start_char="396">признал</TOKEN>
+<TOKEN end_char="403" id="token-3-3" morph="none" pos="punct" start_char="403">,</TOKEN>
+<TOKEN end_char="407" id="token-3-4" morph="none" pos="word" start_char="405">что</TOKEN>
+<TOKEN end_char="416" id="token-3-5" morph="none" pos="word" start_char="409">наличные</TOKEN>
+<TOKEN end_char="422" id="token-3-6" morph="none" pos="word" start_char="418">могут</TOKEN>
+<TOKEN end_char="428" id="token-3-7" morph="none" pos="word" start_char="424">нести</TOKEN>
+<TOKEN end_char="437" id="token-3-8" morph="none" pos="word" start_char="430">бактерии</TOKEN>
+<TOKEN end_char="441" id="token-3-9" morph="none" pos="word" start_char="439">или</TOKEN>
+<TOKEN end_char="448" id="token-3-10" morph="none" pos="word" start_char="443">вирусы</TOKEN>
+<TOKEN end_char="449" id="token-3-11" morph="none" pos="punct" start_char="449">,</TOKEN>
+<TOKEN end_char="451" id="token-3-12" morph="none" pos="word" start_char="451">и</TOKEN>
+<TOKEN end_char="461" id="token-3-13" morph="none" pos="word" start_char="453">призывает</TOKEN>
+<TOKEN end_char="467" id="token-3-14" morph="none" pos="word" start_char="463">людей</TOKEN>
+<TOKEN end_char="477" id="token-3-15" morph="none" pos="word" start_char="469">регулярно</TOKEN>
+<TOKEN end_char="482" id="token-3-16" morph="none" pos="word" start_char="479">мыть</TOKEN>
+<TOKEN end_char="487" id="token-3-17" morph="none" pos="word" start_char="484">руки</TOKEN>
+<TOKEN end_char="488" id="token-3-18" morph="none" pos="punct" start_char="488">.</TOKEN>
+<TRANSLATED_TEXT>The Bank of England has recognized that cash can carry bacteria or viruses, and encourages people to wash their hands regularly.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="627" id="segment-4" start_char="491">
+<ORIGINAL_TEXT>В феврале Китай и Корея начали дезинфекцию и изоляцию использованных банкнот в рамках своих усилий по прекращению распространения вируса.</ORIGINAL_TEXT>
+<TOKEN end_char="491" id="token-4-0" morph="none" pos="word" start_char="491">В</TOKEN>
+<TOKEN end_char="499" id="token-4-1" morph="none" pos="word" start_char="493">феврале</TOKEN>
+<TOKEN end_char="505" id="token-4-2" morph="none" pos="word" start_char="501">Китай</TOKEN>
+<TOKEN end_char="507" id="token-4-3" morph="none" pos="word" start_char="507">и</TOKEN>
+<TOKEN end_char="513" id="token-4-4" morph="none" pos="word" start_char="509">Корея</TOKEN>
+<TOKEN end_char="520" id="token-4-5" morph="none" pos="word" start_char="515">начали</TOKEN>
+<TOKEN end_char="532" id="token-4-6" morph="none" pos="word" start_char="522">дезинфекцию</TOKEN>
+<TOKEN end_char="534" id="token-4-7" morph="none" pos="word" start_char="534">и</TOKEN>
+<TOKEN end_char="543" id="token-4-8" morph="none" pos="word" start_char="536">изоляцию</TOKEN>
+<TOKEN end_char="558" id="token-4-9" morph="none" pos="word" start_char="545">использованных</TOKEN>
+<TOKEN end_char="566" id="token-4-10" morph="none" pos="word" start_char="560">банкнот</TOKEN>
+<TOKEN end_char="568" id="token-4-11" morph="none" pos="word" start_char="568">в</TOKEN>
+<TOKEN end_char="575" id="token-4-12" morph="none" pos="word" start_char="570">рамках</TOKEN>
+<TOKEN end_char="581" id="token-4-13" morph="none" pos="word" start_char="577">своих</TOKEN>
+<TOKEN end_char="588" id="token-4-14" morph="none" pos="word" start_char="583">усилий</TOKEN>
+<TOKEN end_char="591" id="token-4-15" morph="none" pos="word" start_char="590">по</TOKEN>
+<TOKEN end_char="603" id="token-4-16" morph="none" pos="word" start_char="593">прекращению</TOKEN>
+<TOKEN end_char="619" id="token-4-17" morph="none" pos="word" start_char="605">распространения</TOKEN>
+<TOKEN end_char="626" id="token-4-18" morph="none" pos="word" start_char="621">вируса</TOKEN>
+<TOKEN end_char="627" id="token-4-19" morph="none" pos="punct" start_char="627">.</TOKEN>
+<TRANSLATED_TEXT>In February, China and Korea began disinfecting and insulating used banknotes as part of their efforts to stop the spread of the virus.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="794" id="segment-5" start_char="629">
+<ORIGINAL_TEXT>Для стерилизации использовали ультрафиолетовое излучение или высокие температуры, после запечатали их на 14 дней, прежде чем выпускать обратно в обращение, пишет Fox.</ORIGINAL_TEXT>
+<TOKEN end_char="631" id="token-5-0" morph="none" pos="word" start_char="629">Для</TOKEN>
+<TOKEN end_char="644" id="token-5-1" morph="none" pos="word" start_char="633">стерилизации</TOKEN>
+<TOKEN end_char="657" id="token-5-2" morph="none" pos="word" start_char="646">использовали</TOKEN>
+<TOKEN end_char="674" id="token-5-3" morph="none" pos="word" start_char="659">ультрафиолетовое</TOKEN>
+<TOKEN end_char="684" id="token-5-4" morph="none" pos="word" start_char="676">излучение</TOKEN>
+<TOKEN end_char="688" id="token-5-5" morph="none" pos="word" start_char="686">или</TOKEN>
+<TOKEN end_char="696" id="token-5-6" morph="none" pos="word" start_char="690">высокие</TOKEN>
+<TOKEN end_char="708" id="token-5-7" morph="none" pos="word" start_char="698">температуры</TOKEN>
+<TOKEN end_char="709" id="token-5-8" morph="none" pos="punct" start_char="709">,</TOKEN>
+<TOKEN end_char="715" id="token-5-9" morph="none" pos="word" start_char="711">после</TOKEN>
+<TOKEN end_char="726" id="token-5-10" morph="none" pos="word" start_char="717">запечатали</TOKEN>
+<TOKEN end_char="729" id="token-5-11" morph="none" pos="word" start_char="728">их</TOKEN>
+<TOKEN end_char="732" id="token-5-12" morph="none" pos="word" start_char="731">на</TOKEN>
+<TOKEN end_char="735" id="token-5-13" morph="none" pos="word" start_char="734">14</TOKEN>
+<TOKEN end_char="740" id="token-5-14" morph="none" pos="word" start_char="737">дней</TOKEN>
+<TOKEN end_char="741" id="token-5-15" morph="none" pos="punct" start_char="741">,</TOKEN>
+<TOKEN end_char="748" id="token-5-16" morph="none" pos="word" start_char="743">прежде</TOKEN>
+<TOKEN end_char="752" id="token-5-17" morph="none" pos="word" start_char="750">чем</TOKEN>
+<TOKEN end_char="762" id="token-5-18" morph="none" pos="word" start_char="754">выпускать</TOKEN>
+<TOKEN end_char="770" id="token-5-19" morph="none" pos="word" start_char="764">обратно</TOKEN>
+<TOKEN end_char="772" id="token-5-20" morph="none" pos="word" start_char="772">в</TOKEN>
+<TOKEN end_char="782" id="token-5-21" morph="none" pos="word" start_char="774">обращение</TOKEN>
+<TOKEN end_char="783" id="token-5-22" morph="none" pos="punct" start_char="783">,</TOKEN>
+<TOKEN end_char="789" id="token-5-23" morph="none" pos="word" start_char="785">пишет</TOKEN>
+<TOKEN end_char="793" id="token-5-24" morph="none" pos="word" start_char="791">Fox</TOKEN>
+<TOKEN end_char="794" id="token-5-25" morph="none" pos="punct" start_char="794">.</TOKEN>
+<TRANSLATED_TEXT>They used ultraviolet radiation or high temperatures for sterilization, after sealing them for 14 days before releasing them back into circulation, writes Fox.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="979" id="segment-6" start_char="797">
+<ORIGINAL_TEXT>Неизвестно, как долго коронавирус может выживать вне человеческого тела, но считается, что на неодушевленных предметах вирус может сохранятся до девяти дней при комнатной температуре.</ORIGINAL_TEXT>
+<TOKEN end_char="806" id="token-6-0" morph="none" pos="word" start_char="797">Неизвестно</TOKEN>
+<TOKEN end_char="807" id="token-6-1" morph="none" pos="punct" start_char="807">,</TOKEN>
+<TOKEN end_char="811" id="token-6-2" morph="none" pos="word" start_char="809">как</TOKEN>
+<TOKEN end_char="817" id="token-6-3" morph="none" pos="word" start_char="813">долго</TOKEN>
+<TOKEN end_char="829" id="token-6-4" morph="none" pos="word" start_char="819">коронавирус</TOKEN>
+<TOKEN end_char="835" id="token-6-5" morph="none" pos="word" start_char="831">может</TOKEN>
+<TOKEN end_char="844" id="token-6-6" morph="none" pos="word" start_char="837">выживать</TOKEN>
+<TOKEN end_char="848" id="token-6-7" morph="none" pos="word" start_char="846">вне</TOKEN>
+<TOKEN end_char="862" id="token-6-8" morph="none" pos="word" start_char="850">человеческого</TOKEN>
+<TOKEN end_char="867" id="token-6-9" morph="none" pos="word" start_char="864">тела</TOKEN>
+<TOKEN end_char="868" id="token-6-10" morph="none" pos="punct" start_char="868">,</TOKEN>
+<TOKEN end_char="871" id="token-6-11" morph="none" pos="word" start_char="870">но</TOKEN>
+<TOKEN end_char="881" id="token-6-12" morph="none" pos="word" start_char="873">считается</TOKEN>
+<TOKEN end_char="882" id="token-6-13" morph="none" pos="punct" start_char="882">,</TOKEN>
+<TOKEN end_char="886" id="token-6-14" morph="none" pos="word" start_char="884">что</TOKEN>
+<TOKEN end_char="889" id="token-6-15" morph="none" pos="word" start_char="888">на</TOKEN>
+<TOKEN end_char="904" id="token-6-16" morph="none" pos="word" start_char="891">неодушевленных</TOKEN>
+<TOKEN end_char="914" id="token-6-17" morph="none" pos="word" start_char="906">предметах</TOKEN>
+<TOKEN end_char="920" id="token-6-18" morph="none" pos="word" start_char="916">вирус</TOKEN>
+<TOKEN end_char="926" id="token-6-19" morph="none" pos="word" start_char="922">может</TOKEN>
+<TOKEN end_char="937" id="token-6-20" morph="none" pos="word" start_char="928">сохранятся</TOKEN>
+<TOKEN end_char="940" id="token-6-21" morph="none" pos="word" start_char="939">до</TOKEN>
+<TOKEN end_char="947" id="token-6-22" morph="none" pos="word" start_char="942">девяти</TOKEN>
+<TOKEN end_char="952" id="token-6-23" morph="none" pos="word" start_char="949">дней</TOKEN>
+<TOKEN end_char="956" id="token-6-24" morph="none" pos="word" start_char="954">при</TOKEN>
+<TOKEN end_char="966" id="token-6-25" morph="none" pos="word" start_char="958">комнатной</TOKEN>
+<TOKEN end_char="978" id="token-6-26" morph="none" pos="word" start_char="968">температуре</TOKEN>
+<TOKEN end_char="979" id="token-6-27" morph="none" pos="punct" start_char="979">.</TOKEN>
+<TRANSLATED_TEXT>It is not known how long coronavirus can survive outside the human body, but it is believed that in inanimate objects the virus can persist for up to nine days at room temperature.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="992" id="segment-7" start_char="983">
+<ORIGINAL_TEXT>Поделиться</ORIGINAL_TEXT>
+<TOKEN end_char="992" id="token-7-0" morph="none" pos="word" start_char="983">Поделиться</TOKEN>
+<TRANSLATED_TEXT>Share</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1006" id="segment-8" start_char="996">
+<ORIGINAL_TEXT>Все по теме</ORIGINAL_TEXT>
+<TOKEN end_char="998" id="token-8-0" morph="none" pos="word" start_char="996">Все</TOKEN>
+<TOKEN end_char="1001" id="token-8-1" morph="none" pos="word" start_char="1000">по</TOKEN>
+<TOKEN end_char="1006" id="token-8-2" morph="none" pos="word" start_char="1003">теме</TOKEN>
+<TRANSLATED_TEXT>All on the topic</TRANSLATED_TEXT><DETECTED_LANGUAGE>mk</DETECTED_LANGUAGE></SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

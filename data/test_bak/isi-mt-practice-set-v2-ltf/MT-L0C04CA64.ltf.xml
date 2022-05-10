@@ -1,0 +1,199 @@
+<LCTL_TEXT lang="spa">
+<DOC grammar="none" id="L0C04CA64" lang="spa" raw_text_char_length="1078" raw_text_md5="b742091f427dcafc6a1cb5bd591166fc" tokenization="tokenization_parameters.v5.0">
+<TEXT>
+<SEG end_char="32" id="segment-0" start_char="1">
+<ORIGINAL_TEXT>Установлен источник коронавируса</ORIGINAL_TEXT>
+<TOKEN end_char="10" id="token-0-0" morph="none" pos="word" start_char="1">Установлен</TOKEN>
+<TOKEN end_char="19" id="token-0-1" morph="none" pos="word" start_char="12">источник</TOKEN>
+<TOKEN end_char="32" id="token-0-2" morph="none" pos="word" start_char="21">коронавируса</TOKEN>
+<TRANSLATED_TEXT>Coronavirus source established</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="299" id="segment-1" start_char="37">
+<ORIGINAL_TEXT>Китайские эпидемиологи установили, что источником коронавируса 2019-nCoV стали дикие животные, мясо которых продавалось на рынке в городе Ухань, об этом сообщает Центральное телевидение Китая, ссылаясь на Национальный центр по профилактике и контролю заболеваний.</ORIGINAL_TEXT>
+<TOKEN end_char="45" id="token-1-0" morph="none" pos="word" start_char="37">Китайские</TOKEN>
+<TOKEN end_char="58" id="token-1-1" morph="none" pos="word" start_char="47">эпидемиологи</TOKEN>
+<TOKEN end_char="69" id="token-1-2" morph="none" pos="word" start_char="60">установили</TOKEN>
+<TOKEN end_char="70" id="token-1-3" morph="none" pos="punct" start_char="70">,</TOKEN>
+<TOKEN end_char="74" id="token-1-4" morph="none" pos="word" start_char="72">что</TOKEN>
+<TOKEN end_char="85" id="token-1-5" morph="none" pos="word" start_char="76">источником</TOKEN>
+<TOKEN end_char="98" id="token-1-6" morph="none" pos="word" start_char="87">коронавируса</TOKEN>
+<TOKEN end_char="108" id="token-1-7" morph="none" pos="unknown" start_char="100">2019-nCoV</TOKEN>
+<TOKEN end_char="114" id="token-1-8" morph="none" pos="word" start_char="110">стали</TOKEN>
+<TOKEN end_char="120" id="token-1-9" morph="none" pos="word" start_char="116">дикие</TOKEN>
+<TOKEN end_char="129" id="token-1-10" morph="none" pos="word" start_char="122">животные</TOKEN>
+<TOKEN end_char="130" id="token-1-11" morph="none" pos="punct" start_char="130">,</TOKEN>
+<TOKEN end_char="135" id="token-1-12" morph="none" pos="word" start_char="132">мясо</TOKEN>
+<TOKEN end_char="143" id="token-1-13" morph="none" pos="word" start_char="137">которых</TOKEN>
+<TOKEN end_char="155" id="token-1-14" morph="none" pos="word" start_char="145">продавалось</TOKEN>
+<TOKEN end_char="158" id="token-1-15" morph="none" pos="word" start_char="157">на</TOKEN>
+<TOKEN end_char="164" id="token-1-16" morph="none" pos="word" start_char="160">рынке</TOKEN>
+<TOKEN end_char="166" id="token-1-17" morph="none" pos="word" start_char="166">в</TOKEN>
+<TOKEN end_char="173" id="token-1-18" morph="none" pos="word" start_char="168">городе</TOKEN>
+<TOKEN end_char="179" id="token-1-19" morph="none" pos="word" start_char="175">Ухань</TOKEN>
+<TOKEN end_char="180" id="token-1-20" morph="none" pos="punct" start_char="180">,</TOKEN>
+<TOKEN end_char="183" id="token-1-21" morph="none" pos="word" start_char="182">об</TOKEN>
+<TOKEN end_char="188" id="token-1-22" morph="none" pos="word" start_char="185">этом</TOKEN>
+<TOKEN end_char="197" id="token-1-23" morph="none" pos="word" start_char="190">сообщает</TOKEN>
+<TOKEN end_char="209" id="token-1-24" morph="none" pos="word" start_char="199">Центральное</TOKEN>
+<TOKEN end_char="221" id="token-1-25" morph="none" pos="word" start_char="211">телевидение</TOKEN>
+<TOKEN end_char="227" id="token-1-26" morph="none" pos="word" start_char="223">Китая</TOKEN>
+<TOKEN end_char="228" id="token-1-27" morph="none" pos="punct" start_char="228">,</TOKEN>
+<TOKEN end_char="237" id="token-1-28" morph="none" pos="word" start_char="230">ссылаясь</TOKEN>
+<TOKEN end_char="240" id="token-1-29" morph="none" pos="word" start_char="239">на</TOKEN>
+<TOKEN end_char="253" id="token-1-30" morph="none" pos="word" start_char="242">Национальный</TOKEN>
+<TOKEN end_char="259" id="token-1-31" morph="none" pos="word" start_char="255">центр</TOKEN>
+<TOKEN end_char="262" id="token-1-32" morph="none" pos="word" start_char="261">по</TOKEN>
+<TOKEN end_char="275" id="token-1-33" morph="none" pos="word" start_char="264">профилактике</TOKEN>
+<TOKEN end_char="277" id="token-1-34" morph="none" pos="word" start_char="277">и</TOKEN>
+<TOKEN end_char="286" id="token-1-35" morph="none" pos="word" start_char="279">контролю</TOKEN>
+<TOKEN end_char="298" id="token-1-36" morph="none" pos="word" start_char="288">заболеваний</TOKEN>
+<TOKEN end_char="299" id="token-1-37" morph="none" pos="punct" start_char="299">.</TOKEN>
+<TRANSLATED_TEXT>Chinese epidemiologists found that the source of coronavirus 2019-nCoV was wild animals whose meat was sold on the market in Wuhan city, as reported by China Central Television, citing the National Centre for Disease Prevention and Control.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="399" id="segment-2" start_char="302">
+<ORIGINAL_TEXT>По сообщению телеканала, ученые добились промежуточного прогресса в исследовании источника вируса.</ORIGINAL_TEXT>
+<TOKEN end_char="303" id="token-2-0" morph="none" pos="word" start_char="302">По</TOKEN>
+<TOKEN end_char="313" id="token-2-1" morph="none" pos="word" start_char="305">сообщению</TOKEN>
+<TOKEN end_char="324" id="token-2-2" morph="none" pos="word" start_char="315">телеканала</TOKEN>
+<TOKEN end_char="325" id="token-2-3" morph="none" pos="punct" start_char="325">,</TOKEN>
+<TOKEN end_char="332" id="token-2-4" morph="none" pos="word" start_char="327">ученые</TOKEN>
+<TOKEN end_char="341" id="token-2-5" morph="none" pos="word" start_char="334">добились</TOKEN>
+<TOKEN end_char="356" id="token-2-6" morph="none" pos="word" start_char="343">промежуточного</TOKEN>
+<TOKEN end_char="366" id="token-2-7" morph="none" pos="word" start_char="358">прогресса</TOKEN>
+<TOKEN end_char="368" id="token-2-8" morph="none" pos="word" start_char="368">в</TOKEN>
+<TOKEN end_char="381" id="token-2-9" morph="none" pos="word" start_char="370">исследовании</TOKEN>
+<TOKEN end_char="391" id="token-2-10" morph="none" pos="word" start_char="383">источника</TOKEN>
+<TOKEN end_char="398" id="token-2-11" morph="none" pos="word" start_char="393">вируса</TOKEN>
+<TOKEN end_char="399" id="token-2-12" morph="none" pos="punct" start_char="399">.</TOKEN>
+<TRANSLATED_TEXT>According to the channel, scientists have made interim progress in investigating the source of the virus.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="555" id="segment-3" start_char="401">
+<ORIGINAL_TEXT>В 33 из 585 проб, которые были взяты из среды на рынке морепродуктов «Хуанань» в Ухане, была найдена вирусная нуклеиновая кислота нового типа коронавируса.</ORIGINAL_TEXT>
+<TOKEN end_char="401" id="token-3-0" morph="none" pos="word" start_char="401">В</TOKEN>
+<TOKEN end_char="404" id="token-3-1" morph="none" pos="word" start_char="403">33</TOKEN>
+<TOKEN end_char="407" id="token-3-2" morph="none" pos="word" start_char="406">из</TOKEN>
+<TOKEN end_char="411" id="token-3-3" morph="none" pos="word" start_char="409">585</TOKEN>
+<TOKEN end_char="416" id="token-3-4" morph="none" pos="word" start_char="413">проб</TOKEN>
+<TOKEN end_char="417" id="token-3-5" morph="none" pos="punct" start_char="417">,</TOKEN>
+<TOKEN end_char="425" id="token-3-6" morph="none" pos="word" start_char="419">которые</TOKEN>
+<TOKEN end_char="430" id="token-3-7" morph="none" pos="word" start_char="427">были</TOKEN>
+<TOKEN end_char="436" id="token-3-8" morph="none" pos="word" start_char="432">взяты</TOKEN>
+<TOKEN end_char="439" id="token-3-9" morph="none" pos="word" start_char="438">из</TOKEN>
+<TOKEN end_char="445" id="token-3-10" morph="none" pos="word" start_char="441">среды</TOKEN>
+<TOKEN end_char="448" id="token-3-11" morph="none" pos="word" start_char="447">на</TOKEN>
+<TOKEN end_char="454" id="token-3-12" morph="none" pos="word" start_char="450">рынке</TOKEN>
+<TOKEN end_char="468" id="token-3-13" morph="none" pos="word" start_char="456">морепродуктов</TOKEN>
+<TOKEN end_char="470" id="token-3-14" morph="none" pos="punct" start_char="470">«</TOKEN>
+<TOKEN end_char="477" id="token-3-15" morph="none" pos="word" start_char="471">Хуанань</TOKEN>
+<TOKEN end_char="478" id="token-3-16" morph="none" pos="punct" start_char="478">»</TOKEN>
+<TOKEN end_char="480" id="token-3-17" morph="none" pos="word" start_char="480">в</TOKEN>
+<TOKEN end_char="486" id="token-3-18" morph="none" pos="word" start_char="482">Ухане</TOKEN>
+<TOKEN end_char="487" id="token-3-19" morph="none" pos="punct" start_char="487">,</TOKEN>
+<TOKEN end_char="492" id="token-3-20" morph="none" pos="word" start_char="489">была</TOKEN>
+<TOKEN end_char="500" id="token-3-21" morph="none" pos="word" start_char="494">найдена</TOKEN>
+<TOKEN end_char="509" id="token-3-22" morph="none" pos="word" start_char="502">вирусная</TOKEN>
+<TOKEN end_char="521" id="token-3-23" morph="none" pos="word" start_char="511">нуклеиновая</TOKEN>
+<TOKEN end_char="529" id="token-3-24" morph="none" pos="word" start_char="523">кислота</TOKEN>
+<TOKEN end_char="536" id="token-3-25" morph="none" pos="word" start_char="531">нового</TOKEN>
+<TOKEN end_char="541" id="token-3-26" morph="none" pos="word" start_char="538">типа</TOKEN>
+<TOKEN end_char="554" id="token-3-27" morph="none" pos="word" start_char="543">коронавируса</TOKEN>
+<TOKEN end_char="555" id="token-3-28" morph="none" pos="punct" start_char="555">.</TOKEN>
+<TRANSLATED_TEXT>A new type of coronavirus nucleic acid was found in 33 of the 585 samples taken from the environment of the Huan seafood market in Wuhan.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="627" id="segment-4" start_char="557">
+<ORIGINAL_TEXT>Также ученым удалось на положительных пробах успешно изолировать вирус.</ORIGINAL_TEXT>
+<TOKEN end_char="561" id="token-4-0" morph="none" pos="word" start_char="557">Также</TOKEN>
+<TOKEN end_char="568" id="token-4-1" morph="none" pos="word" start_char="563">ученым</TOKEN>
+<TOKEN end_char="576" id="token-4-2" morph="none" pos="word" start_char="570">удалось</TOKEN>
+<TOKEN end_char="579" id="token-4-3" morph="none" pos="word" start_char="578">на</TOKEN>
+<TOKEN end_char="593" id="token-4-4" morph="none" pos="word" start_char="581">положительных</TOKEN>
+<TOKEN end_char="600" id="token-4-5" morph="none" pos="word" start_char="595">пробах</TOKEN>
+<TOKEN end_char="608" id="token-4-6" morph="none" pos="word" start_char="602">успешно</TOKEN>
+<TOKEN end_char="620" id="token-4-7" morph="none" pos="word" start_char="610">изолировать</TOKEN>
+<TOKEN end_char="626" id="token-4-8" morph="none" pos="word" start_char="622">вирус</TOKEN>
+<TOKEN end_char="627" id="token-4-9" morph="none" pos="punct" start_char="627">.</TOKEN>
+<TRANSLATED_TEXT>Scientists have also successfully isolated the virus in positive tests.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="752" id="segment-5" start_char="630">
+<ORIGINAL_TEXT>В центре отметили, что 93% положительных проб были взяты в западной части рынка, где проводилась торговля дикими животными.</ORIGINAL_TEXT>
+<TOKEN end_char="630" id="token-5-0" morph="none" pos="word" start_char="630">В</TOKEN>
+<TOKEN end_char="637" id="token-5-1" morph="none" pos="word" start_char="632">центре</TOKEN>
+<TOKEN end_char="646" id="token-5-2" morph="none" pos="word" start_char="639">отметили</TOKEN>
+<TOKEN end_char="647" id="token-5-3" morph="none" pos="punct" start_char="647">,</TOKEN>
+<TOKEN end_char="651" id="token-5-4" morph="none" pos="word" start_char="649">что</TOKEN>
+<TOKEN end_char="654" id="token-5-5" morph="none" pos="word" start_char="653">93</TOKEN>
+<TOKEN end_char="655" id="token-5-6" morph="none" pos="punct" start_char="655">%</TOKEN>
+<TOKEN end_char="669" id="token-5-7" morph="none" pos="word" start_char="657">положительных</TOKEN>
+<TOKEN end_char="674" id="token-5-8" morph="none" pos="word" start_char="671">проб</TOKEN>
+<TOKEN end_char="679" id="token-5-9" morph="none" pos="word" start_char="676">были</TOKEN>
+<TOKEN end_char="685" id="token-5-10" morph="none" pos="word" start_char="681">взяты</TOKEN>
+<TOKEN end_char="687" id="token-5-11" morph="none" pos="word" start_char="687">в</TOKEN>
+<TOKEN end_char="696" id="token-5-12" morph="none" pos="word" start_char="689">западной</TOKEN>
+<TOKEN end_char="702" id="token-5-13" morph="none" pos="word" start_char="698">части</TOKEN>
+<TOKEN end_char="708" id="token-5-14" morph="none" pos="word" start_char="704">рынка</TOKEN>
+<TOKEN end_char="709" id="token-5-15" morph="none" pos="punct" start_char="709">,</TOKEN>
+<TOKEN end_char="713" id="token-5-16" morph="none" pos="word" start_char="711">где</TOKEN>
+<TOKEN end_char="725" id="token-5-17" morph="none" pos="word" start_char="715">проводилась</TOKEN>
+<TOKEN end_char="734" id="token-5-18" morph="none" pos="word" start_char="727">торговля</TOKEN>
+<TOKEN end_char="741" id="token-5-19" morph="none" pos="word" start_char="736">дикими</TOKEN>
+<TOKEN end_char="751" id="token-5-20" morph="none" pos="word" start_char="743">животными</TOKEN>
+<TOKEN end_char="752" id="token-5-21" morph="none" pos="punct" start_char="752">.</TOKEN>
+<TRANSLATED_TEXT>The Centre noted that 93 per cent of positive samples were taken in the western part of the wildlife market.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="892" id="segment-6" start_char="755">
+<ORIGINAL_TEXT>«Резюмируя вышесказанное, есть высокая вероятность того, что нынешняя эпидемия связана с торговлей дикими животными», - отметил телеканал.</ORIGINAL_TEXT>
+<TOKEN end_char="755" id="token-6-0" morph="none" pos="punct" start_char="755">«</TOKEN>
+<TOKEN end_char="764" id="token-6-1" morph="none" pos="word" start_char="756">Резюмируя</TOKEN>
+<TOKEN end_char="778" id="token-6-2" morph="none" pos="word" start_char="766">вышесказанное</TOKEN>
+<TOKEN end_char="779" id="token-6-3" morph="none" pos="punct" start_char="779">,</TOKEN>
+<TOKEN end_char="784" id="token-6-4" morph="none" pos="word" start_char="781">есть</TOKEN>
+<TOKEN end_char="792" id="token-6-5" morph="none" pos="word" start_char="786">высокая</TOKEN>
+<TOKEN end_char="804" id="token-6-6" morph="none" pos="word" start_char="794">вероятность</TOKEN>
+<TOKEN end_char="809" id="token-6-7" morph="none" pos="word" start_char="806">того</TOKEN>
+<TOKEN end_char="810" id="token-6-8" morph="none" pos="punct" start_char="810">,</TOKEN>
+<TOKEN end_char="814" id="token-6-9" morph="none" pos="word" start_char="812">что</TOKEN>
+<TOKEN end_char="823" id="token-6-10" morph="none" pos="word" start_char="816">нынешняя</TOKEN>
+<TOKEN end_char="832" id="token-6-11" morph="none" pos="word" start_char="825">эпидемия</TOKEN>
+<TOKEN end_char="840" id="token-6-12" morph="none" pos="word" start_char="834">связана</TOKEN>
+<TOKEN end_char="842" id="token-6-13" morph="none" pos="word" start_char="842">с</TOKEN>
+<TOKEN end_char="852" id="token-6-14" morph="none" pos="word" start_char="844">торговлей</TOKEN>
+<TOKEN end_char="859" id="token-6-15" morph="none" pos="word" start_char="854">дикими</TOKEN>
+<TOKEN end_char="869" id="token-6-16" morph="none" pos="word" start_char="861">животными</TOKEN>
+<TOKEN end_char="871" id="token-6-17" morph="none" pos="punct" start_char="870">»,</TOKEN>
+<TOKEN end_char="873" id="token-6-18" morph="none" pos="punct" start_char="873">-</TOKEN>
+<TOKEN end_char="881" id="token-6-19" morph="none" pos="word" start_char="875">отметил</TOKEN>
+<TOKEN end_char="891" id="token-6-20" morph="none" pos="word" start_char="883">телеканал</TOKEN>
+<TOKEN end_char="892" id="token-6-21" morph="none" pos="punct" start_char="892">.</TOKEN>
+<TRANSLATED_TEXT>"In summary, there is a high probability that the current epidemic is related to the wildlife trade," said the channel.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1003" id="segment-7" start_char="895">
+<ORIGINAL_TEXT>По последним данным, количество летальных исходов пневмонии, вызванной коронавирусом, в Китае возросло до 57.</ORIGINAL_TEXT>
+<TOKEN end_char="896" id="token-7-0" morph="none" pos="word" start_char="895">По</TOKEN>
+<TOKEN end_char="906" id="token-7-1" morph="none" pos="word" start_char="898">последним</TOKEN>
+<TOKEN end_char="913" id="token-7-2" morph="none" pos="word" start_char="908">данным</TOKEN>
+<TOKEN end_char="914" id="token-7-3" morph="none" pos="punct" start_char="914">,</TOKEN>
+<TOKEN end_char="925" id="token-7-4" morph="none" pos="word" start_char="916">количество</TOKEN>
+<TOKEN end_char="935" id="token-7-5" morph="none" pos="word" start_char="927">летальных</TOKEN>
+<TOKEN end_char="943" id="token-7-6" morph="none" pos="word" start_char="937">исходов</TOKEN>
+<TOKEN end_char="953" id="token-7-7" morph="none" pos="word" start_char="945">пневмонии</TOKEN>
+<TOKEN end_char="954" id="token-7-8" morph="none" pos="punct" start_char="954">,</TOKEN>
+<TOKEN end_char="964" id="token-7-9" morph="none" pos="word" start_char="956">вызванной</TOKEN>
+<TOKEN end_char="978" id="token-7-10" morph="none" pos="word" start_char="966">коронавирусом</TOKEN>
+<TOKEN end_char="979" id="token-7-11" morph="none" pos="punct" start_char="979">,</TOKEN>
+<TOKEN end_char="981" id="token-7-12" morph="none" pos="word" start_char="981">в</TOKEN>
+<TOKEN end_char="987" id="token-7-13" morph="none" pos="word" start_char="983">Китае</TOKEN>
+<TOKEN end_char="996" id="token-7-14" morph="none" pos="word" start_char="989">возросло</TOKEN>
+<TOKEN end_char="999" id="token-7-15" morph="none" pos="word" start_char="998">до</TOKEN>
+<TOKEN end_char="1002" id="token-7-16" morph="none" pos="word" start_char="1001">57</TOKEN>
+<TOKEN end_char="1003" id="token-7-17" morph="none" pos="punct" start_char="1003">.</TOKEN>
+<TRANSLATED_TEXT>According to recent data, the number of deaths from pneumonia caused by coronavirus in China has risen to 57.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1074" id="segment-8" start_char="1005">
+<ORIGINAL_TEXT>Из-за заболевания в стране закрыты на карантин порядка десяти городов.</ORIGINAL_TEXT>
+<TOKEN end_char="1009" id="token-8-0" morph="none" pos="unknown" start_char="1005">Из-за</TOKEN>
+<TOKEN end_char="1021" id="token-8-1" morph="none" pos="word" start_char="1011">заболевания</TOKEN>
+<TOKEN end_char="1023" id="token-8-2" morph="none" pos="word" start_char="1023">в</TOKEN>
+<TOKEN end_char="1030" id="token-8-3" morph="none" pos="word" start_char="1025">стране</TOKEN>
+<TOKEN end_char="1038" id="token-8-4" morph="none" pos="word" start_char="1032">закрыты</TOKEN>
+<TOKEN end_char="1041" id="token-8-5" morph="none" pos="word" start_char="1040">на</TOKEN>
+<TOKEN end_char="1050" id="token-8-6" morph="none" pos="word" start_char="1043">карантин</TOKEN>
+<TOKEN end_char="1058" id="token-8-7" morph="none" pos="word" start_char="1052">порядка</TOKEN>
+<TOKEN end_char="1065" id="token-8-8" morph="none" pos="word" start_char="1060">десяти</TOKEN>
+<TOKEN end_char="1073" id="token-8-9" morph="none" pos="word" start_char="1067">городов</TOKEN>
+<TOKEN end_char="1074" id="token-8-10" morph="none" pos="punct" start_char="1074">.</TOKEN>
+<TRANSLATED_TEXT>Due to the disease, about ten cities in the country are closed to quarantine.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

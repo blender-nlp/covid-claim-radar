@@ -1,0 +1,459 @@
+<LCTL_TEXT lang="spa">
+<DOC grammar="none" id="L0C049DQK" lang="spa" raw_text_char_length="2223" raw_text_md5="901e4a7ac3d715498d22f3c708054083" tokenization="tokenization_parameters.v5.0">
+<TEXT>
+<SEG end_char="45" id="segment-0" start_char="1">
+<ORIGINAL_TEXT>Teorías de conspiración sobre el Coronavirus.</ORIGINAL_TEXT>
+<TOKEN end_char="7" id="token-0-0" morph="none" pos="word" start_char="1">Teorías</TOKEN>
+<TOKEN end_char="10" id="token-0-1" morph="none" pos="word" start_char="9">de</TOKEN>
+<TOKEN end_char="23" id="token-0-2" morph="none" pos="word" start_char="12">conspiración</TOKEN>
+<TOKEN end_char="29" id="token-0-3" morph="none" pos="word" start_char="25">sobre</TOKEN>
+<TOKEN end_char="32" id="token-0-4" morph="none" pos="word" start_char="31">el</TOKEN>
+<TOKEN end_char="44" id="token-0-5" morph="none" pos="word" start_char="34">Coronavirus</TOKEN>
+<TOKEN end_char="45" id="token-0-6" morph="none" pos="punct" start_char="45">.</TOKEN>
+<TRANSLATED_TEXT>Conspiracy theories about the Coronavirus.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="103" id="segment-1" start_char="49">
+<ORIGINAL_TEXT>Imagen tomada de: https://diariodeavisos.elespanol.com/</ORIGINAL_TEXT>
+<TOKEN end_char="54" id="token-1-0" morph="none" pos="word" start_char="49">Imagen</TOKEN>
+<TOKEN end_char="61" id="token-1-1" morph="none" pos="word" start_char="56">tomada</TOKEN>
+<TOKEN end_char="64" id="token-1-2" morph="none" pos="word" start_char="63">de</TOKEN>
+<TOKEN end_char="65" id="token-1-3" morph="none" pos="punct" start_char="65">:</TOKEN>
+<TOKEN end_char="103" id="token-1-4" morph="none" pos="url" start_char="67">https://diariodeavisos.elespanol.com/</TOKEN>
+<TRANSLATED_TEXT>Image taken from: https: / / diariodeavicos.elespanol.com /</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="210" id="segment-2" start_char="107">
+<ORIGINAL_TEXT>Las siguientes son las teorías de conspiración más famosas que existen hasta ahora sobre el Coronavirus.</ORIGINAL_TEXT>
+<TOKEN end_char="109" id="token-2-0" morph="none" pos="word" start_char="107">Las</TOKEN>
+<TOKEN end_char="120" id="token-2-1" morph="none" pos="word" start_char="111">siguientes</TOKEN>
+<TOKEN end_char="124" id="token-2-2" morph="none" pos="word" start_char="122">son</TOKEN>
+<TOKEN end_char="128" id="token-2-3" morph="none" pos="word" start_char="126">las</TOKEN>
+<TOKEN end_char="136" id="token-2-4" morph="none" pos="word" start_char="130">teorías</TOKEN>
+<TOKEN end_char="139" id="token-2-5" morph="none" pos="word" start_char="138">de</TOKEN>
+<TOKEN end_char="152" id="token-2-6" morph="none" pos="word" start_char="141">conspiración</TOKEN>
+<TOKEN end_char="156" id="token-2-7" morph="none" pos="word" start_char="154">más</TOKEN>
+<TOKEN end_char="164" id="token-2-8" morph="none" pos="word" start_char="158">famosas</TOKEN>
+<TOKEN end_char="168" id="token-2-9" morph="none" pos="word" start_char="166">que</TOKEN>
+<TOKEN end_char="176" id="token-2-10" morph="none" pos="word" start_char="170">existen</TOKEN>
+<TOKEN end_char="182" id="token-2-11" morph="none" pos="word" start_char="178">hasta</TOKEN>
+<TOKEN end_char="188" id="token-2-12" morph="none" pos="word" start_char="184">ahora</TOKEN>
+<TOKEN end_char="194" id="token-2-13" morph="none" pos="word" start_char="190">sobre</TOKEN>
+<TOKEN end_char="197" id="token-2-14" morph="none" pos="word" start_char="196">el</TOKEN>
+<TOKEN end_char="209" id="token-2-15" morph="none" pos="word" start_char="199">Coronavirus</TOKEN>
+<TOKEN end_char="210" id="token-2-16" morph="none" pos="punct" start_char="210">.</TOKEN>
+<TRANSLATED_TEXT>The following are the most famous conspiracy theories that exist so far about Coronavirus.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="214" id="segment-3" start_char="213">
+<ORIGINAL_TEXT>1.</ORIGINAL_TEXT>
+<TOKEN end_char="213" id="token-3-0" morph="none" pos="word" start_char="213">1</TOKEN>
+<TOKEN end_char="214" id="token-3-1" morph="none" pos="punct" start_char="214">.</TOKEN>
+</SEG>
+<SEG end_char="238" id="segment-4" start_char="216">
+<ORIGINAL_TEXT>El plan de Donald Trump</ORIGINAL_TEXT>
+<TOKEN end_char="217" id="token-4-0" morph="none" pos="word" start_char="216">El</TOKEN>
+<TOKEN end_char="222" id="token-4-1" morph="none" pos="word" start_char="219">plan</TOKEN>
+<TOKEN end_char="225" id="token-4-2" morph="none" pos="word" start_char="224">de</TOKEN>
+<TOKEN end_char="232" id="token-4-3" morph="none" pos="word" start_char="227">Donald</TOKEN>
+<TOKEN end_char="238" id="token-4-4" morph="none" pos="word" start_char="234">Trump</TOKEN>
+<TRANSLATED_TEXT>Donald Trump's Plan</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="402" id="segment-5" start_char="242">
+<ORIGINAL_TEXT>Debido a la guerra comercial entre China y Estados Unidos, no hicieron falta quienes especularon que el Coronavirus hacía parte de la estrategia de Donald Trump.</ORIGINAL_TEXT>
+<TOKEN end_char="247" id="token-5-0" morph="none" pos="word" start_char="242">Debido</TOKEN>
+<TOKEN end_char="249" id="token-5-1" morph="none" pos="word" start_char="249">a</TOKEN>
+<TOKEN end_char="252" id="token-5-2" morph="none" pos="word" start_char="251">la</TOKEN>
+<TOKEN end_char="259" id="token-5-3" morph="none" pos="word" start_char="254">guerra</TOKEN>
+<TOKEN end_char="269" id="token-5-4" morph="none" pos="word" start_char="261">comercial</TOKEN>
+<TOKEN end_char="275" id="token-5-5" morph="none" pos="word" start_char="271">entre</TOKEN>
+<TOKEN end_char="281" id="token-5-6" morph="none" pos="word" start_char="277">China</TOKEN>
+<TOKEN end_char="283" id="token-5-7" morph="none" pos="word" start_char="283">y</TOKEN>
+<TOKEN end_char="291" id="token-5-8" morph="none" pos="word" start_char="285">Estados</TOKEN>
+<TOKEN end_char="298" id="token-5-9" morph="none" pos="word" start_char="293">Unidos</TOKEN>
+<TOKEN end_char="299" id="token-5-10" morph="none" pos="punct" start_char="299">,</TOKEN>
+<TOKEN end_char="302" id="token-5-11" morph="none" pos="word" start_char="301">no</TOKEN>
+<TOKEN end_char="311" id="token-5-12" morph="none" pos="word" start_char="304">hicieron</TOKEN>
+<TOKEN end_char="317" id="token-5-13" morph="none" pos="word" start_char="313">falta</TOKEN>
+<TOKEN end_char="325" id="token-5-14" morph="none" pos="word" start_char="319">quienes</TOKEN>
+<TOKEN end_char="337" id="token-5-15" morph="none" pos="word" start_char="327">especularon</TOKEN>
+<TOKEN end_char="341" id="token-5-16" morph="none" pos="word" start_char="339">que</TOKEN>
+<TOKEN end_char="344" id="token-5-17" morph="none" pos="word" start_char="343">el</TOKEN>
+<TOKEN end_char="356" id="token-5-18" morph="none" pos="word" start_char="346">Coronavirus</TOKEN>
+<TOKEN end_char="362" id="token-5-19" morph="none" pos="word" start_char="358">hacía</TOKEN>
+<TOKEN end_char="368" id="token-5-20" morph="none" pos="word" start_char="364">parte</TOKEN>
+<TOKEN end_char="371" id="token-5-21" morph="none" pos="word" start_char="370">de</TOKEN>
+<TOKEN end_char="374" id="token-5-22" morph="none" pos="word" start_char="373">la</TOKEN>
+<TOKEN end_char="385" id="token-5-23" morph="none" pos="word" start_char="376">estrategia</TOKEN>
+<TOKEN end_char="388" id="token-5-24" morph="none" pos="word" start_char="387">de</TOKEN>
+<TOKEN end_char="395" id="token-5-25" morph="none" pos="word" start_char="390">Donald</TOKEN>
+<TOKEN end_char="401" id="token-5-26" morph="none" pos="word" start_char="397">Trump</TOKEN>
+<TOKEN end_char="402" id="token-5-27" morph="none" pos="punct" start_char="402">.</TOKEN>
+<TRANSLATED_TEXT>Because of the trade war between China and the United States, there was no need for speculators to speculate that the Coronavirus was part of Donald Trump's strategy.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="539" id="segment-6" start_char="405">
+<ORIGINAL_TEXT>La teoría de conspiración plantea que el Coronavirus fue desarrollado por el gobierno estadounidense para afectar la economía de China.</ORIGINAL_TEXT>
+<TOKEN end_char="406" id="token-6-0" morph="none" pos="word" start_char="405">La</TOKEN>
+<TOKEN end_char="413" id="token-6-1" morph="none" pos="word" start_char="408">teoría</TOKEN>
+<TOKEN end_char="416" id="token-6-2" morph="none" pos="word" start_char="415">de</TOKEN>
+<TOKEN end_char="429" id="token-6-3" morph="none" pos="word" start_char="418">conspiración</TOKEN>
+<TOKEN end_char="437" id="token-6-4" morph="none" pos="word" start_char="431">plantea</TOKEN>
+<TOKEN end_char="441" id="token-6-5" morph="none" pos="word" start_char="439">que</TOKEN>
+<TOKEN end_char="444" id="token-6-6" morph="none" pos="word" start_char="443">el</TOKEN>
+<TOKEN end_char="456" id="token-6-7" morph="none" pos="word" start_char="446">Coronavirus</TOKEN>
+<TOKEN end_char="460" id="token-6-8" morph="none" pos="word" start_char="458">fue</TOKEN>
+<TOKEN end_char="473" id="token-6-9" morph="none" pos="word" start_char="462">desarrollado</TOKEN>
+<TOKEN end_char="477" id="token-6-10" morph="none" pos="word" start_char="475">por</TOKEN>
+<TOKEN end_char="480" id="token-6-11" morph="none" pos="word" start_char="479">el</TOKEN>
+<TOKEN end_char="489" id="token-6-12" morph="none" pos="word" start_char="482">gobierno</TOKEN>
+<TOKEN end_char="504" id="token-6-13" morph="none" pos="word" start_char="491">estadounidense</TOKEN>
+<TOKEN end_char="509" id="token-6-14" morph="none" pos="word" start_char="506">para</TOKEN>
+<TOKEN end_char="517" id="token-6-15" morph="none" pos="word" start_char="511">afectar</TOKEN>
+<TOKEN end_char="520" id="token-6-16" morph="none" pos="word" start_char="519">la</TOKEN>
+<TOKEN end_char="529" id="token-6-17" morph="none" pos="word" start_char="522">economía</TOKEN>
+<TOKEN end_char="532" id="token-6-18" morph="none" pos="word" start_char="531">de</TOKEN>
+<TOKEN end_char="538" id="token-6-19" morph="none" pos="word" start_char="534">China</TOKEN>
+<TOKEN end_char="539" id="token-6-20" morph="none" pos="punct" start_char="539">.</TOKEN>
+<TRANSLATED_TEXT>The conspiracy theory states that the Coronavirus was developed by the U.S. government to affect China's economy.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="659" id="segment-7" start_char="541">
+<ORIGINAL_TEXT>La parte cierta de esta teoría es que el gigante asiático sí ha recibido un tremendo golpe en su economía por el virus.</ORIGINAL_TEXT>
+<TOKEN end_char="542" id="token-7-0" morph="none" pos="word" start_char="541">La</TOKEN>
+<TOKEN end_char="548" id="token-7-1" morph="none" pos="word" start_char="544">parte</TOKEN>
+<TOKEN end_char="555" id="token-7-2" morph="none" pos="word" start_char="550">cierta</TOKEN>
+<TOKEN end_char="558" id="token-7-3" morph="none" pos="word" start_char="557">de</TOKEN>
+<TOKEN end_char="563" id="token-7-4" morph="none" pos="word" start_char="560">esta</TOKEN>
+<TOKEN end_char="570" id="token-7-5" morph="none" pos="word" start_char="565">teoría</TOKEN>
+<TOKEN end_char="573" id="token-7-6" morph="none" pos="word" start_char="572">es</TOKEN>
+<TOKEN end_char="577" id="token-7-7" morph="none" pos="word" start_char="575">que</TOKEN>
+<TOKEN end_char="580" id="token-7-8" morph="none" pos="word" start_char="579">el</TOKEN>
+<TOKEN end_char="588" id="token-7-9" morph="none" pos="word" start_char="582">gigante</TOKEN>
+<TOKEN end_char="597" id="token-7-10" morph="none" pos="word" start_char="590">asiático</TOKEN>
+<TOKEN end_char="600" id="token-7-11" morph="none" pos="word" start_char="599">sí</TOKEN>
+<TOKEN end_char="603" id="token-7-12" morph="none" pos="word" start_char="602">ha</TOKEN>
+<TOKEN end_char="612" id="token-7-13" morph="none" pos="word" start_char="605">recibido</TOKEN>
+<TOKEN end_char="615" id="token-7-14" morph="none" pos="word" start_char="614">un</TOKEN>
+<TOKEN end_char="624" id="token-7-15" morph="none" pos="word" start_char="617">tremendo</TOKEN>
+<TOKEN end_char="630" id="token-7-16" morph="none" pos="word" start_char="626">golpe</TOKEN>
+<TOKEN end_char="633" id="token-7-17" morph="none" pos="word" start_char="632">en</TOKEN>
+<TOKEN end_char="636" id="token-7-18" morph="none" pos="word" start_char="635">su</TOKEN>
+<TOKEN end_char="645" id="token-7-19" morph="none" pos="word" start_char="638">economía</TOKEN>
+<TOKEN end_char="649" id="token-7-20" morph="none" pos="word" start_char="647">por</TOKEN>
+<TOKEN end_char="652" id="token-7-21" morph="none" pos="word" start_char="651">el</TOKEN>
+<TOKEN end_char="658" id="token-7-22" morph="none" pos="word" start_char="654">virus</TOKEN>
+<TOKEN end_char="659" id="token-7-23" morph="none" pos="punct" start_char="659">.</TOKEN>
+<TRANSLATED_TEXT>The true part of this theory is that the Asian giant has indeed been hit hard by the virus.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="663" id="segment-8" start_char="662">
+<ORIGINAL_TEXT>2.</ORIGINAL_TEXT>
+<TOKEN end_char="662" id="token-8-0" morph="none" pos="word" start_char="662">2</TOKEN>
+<TOKEN end_char="663" id="token-8-1" morph="none" pos="punct" start_char="663">.</TOKEN>
+</SEG>
+<SEG end_char="711" id="segment-9" start_char="665">
+<ORIGINAL_TEXT>Que el coronavirus fue creado en un laboratorio</ORIGINAL_TEXT>
+<TOKEN end_char="667" id="token-9-0" morph="none" pos="word" start_char="665">Que</TOKEN>
+<TOKEN end_char="670" id="token-9-1" morph="none" pos="word" start_char="669">el</TOKEN>
+<TOKEN end_char="682" id="token-9-2" morph="none" pos="word" start_char="672">coronavirus</TOKEN>
+<TOKEN end_char="686" id="token-9-3" morph="none" pos="word" start_char="684">fue</TOKEN>
+<TOKEN end_char="693" id="token-9-4" morph="none" pos="word" start_char="688">creado</TOKEN>
+<TOKEN end_char="696" id="token-9-5" morph="none" pos="word" start_char="695">en</TOKEN>
+<TOKEN end_char="699" id="token-9-6" morph="none" pos="word" start_char="698">un</TOKEN>
+<TOKEN end_char="711" id="token-9-7" morph="none" pos="word" start_char="701">laboratorio</TOKEN>
+<TRANSLATED_TEXT>That the coronavirus was created in a laboratory</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="791" id="segment-10" start_char="715">
+<ORIGINAL_TEXT>Esta es otra de las teorías de conspiración más comunes sobre el coronavirus.</ORIGINAL_TEXT>
+<TOKEN end_char="718" id="token-10-0" morph="none" pos="word" start_char="715">Esta</TOKEN>
+<TOKEN end_char="721" id="token-10-1" morph="none" pos="word" start_char="720">es</TOKEN>
+<TOKEN end_char="726" id="token-10-2" morph="none" pos="word" start_char="723">otra</TOKEN>
+<TOKEN end_char="729" id="token-10-3" morph="none" pos="word" start_char="728">de</TOKEN>
+<TOKEN end_char="733" id="token-10-4" morph="none" pos="word" start_char="731">las</TOKEN>
+<TOKEN end_char="741" id="token-10-5" morph="none" pos="word" start_char="735">teorías</TOKEN>
+<TOKEN end_char="744" id="token-10-6" morph="none" pos="word" start_char="743">de</TOKEN>
+<TOKEN end_char="757" id="token-10-7" morph="none" pos="word" start_char="746">conspiración</TOKEN>
+<TOKEN end_char="761" id="token-10-8" morph="none" pos="word" start_char="759">más</TOKEN>
+<TOKEN end_char="769" id="token-10-9" morph="none" pos="word" start_char="763">comunes</TOKEN>
+<TOKEN end_char="775" id="token-10-10" morph="none" pos="word" start_char="771">sobre</TOKEN>
+<TOKEN end_char="778" id="token-10-11" morph="none" pos="word" start_char="777">el</TOKEN>
+<TOKEN end_char="790" id="token-10-12" morph="none" pos="word" start_char="780">coronavirus</TOKEN>
+<TOKEN end_char="791" id="token-10-13" morph="none" pos="punct" start_char="791">.</TOKEN>
+<TRANSLATED_TEXT>This is another of the most common conspiracy theories about coronavirus.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="872" id="segment-11" start_char="794">
+<ORIGINAL_TEXT>Algunos afirman que el virus fue creado por científicos como un arma biológica.</ORIGINAL_TEXT>
+<TOKEN end_char="800" id="token-11-0" morph="none" pos="word" start_char="794">Algunos</TOKEN>
+<TOKEN end_char="808" id="token-11-1" morph="none" pos="word" start_char="802">afirman</TOKEN>
+<TOKEN end_char="812" id="token-11-2" morph="none" pos="word" start_char="810">que</TOKEN>
+<TOKEN end_char="815" id="token-11-3" morph="none" pos="word" start_char="814">el</TOKEN>
+<TOKEN end_char="821" id="token-11-4" morph="none" pos="word" start_char="817">virus</TOKEN>
+<TOKEN end_char="825" id="token-11-5" morph="none" pos="word" start_char="823">fue</TOKEN>
+<TOKEN end_char="832" id="token-11-6" morph="none" pos="word" start_char="827">creado</TOKEN>
+<TOKEN end_char="836" id="token-11-7" morph="none" pos="word" start_char="834">por</TOKEN>
+<TOKEN end_char="848" id="token-11-8" morph="none" pos="word" start_char="838">científicos</TOKEN>
+<TOKEN end_char="853" id="token-11-9" morph="none" pos="word" start_char="850">como</TOKEN>
+<TOKEN end_char="856" id="token-11-10" morph="none" pos="word" start_char="855">un</TOKEN>
+<TOKEN end_char="861" id="token-11-11" morph="none" pos="word" start_char="858">arma</TOKEN>
+<TOKEN end_char="871" id="token-11-12" morph="none" pos="word" start_char="863">biológica</TOKEN>
+<TOKEN end_char="872" id="token-11-13" morph="none" pos="punct" start_char="872">.</TOKEN>
+<TRANSLATED_TEXT>Some claim that the virus was created by scientists as a biological weapon.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1025" id="segment-12" start_char="874">
+<ORIGINAL_TEXT>Los argumentos que soportan esta versión señalan que el la ciudad de Wuhan, donde comenzó el virus, queda el único laboratorio de nivel 4 de todo China.</ORIGINAL_TEXT>
+<TOKEN end_char="876" id="token-12-0" morph="none" pos="word" start_char="874">Los</TOKEN>
+<TOKEN end_char="887" id="token-12-1" morph="none" pos="word" start_char="878">argumentos</TOKEN>
+<TOKEN end_char="891" id="token-12-2" morph="none" pos="word" start_char="889">que</TOKEN>
+<TOKEN end_char="900" id="token-12-3" morph="none" pos="word" start_char="893">soportan</TOKEN>
+<TOKEN end_char="905" id="token-12-4" morph="none" pos="word" start_char="902">esta</TOKEN>
+<TOKEN end_char="913" id="token-12-5" morph="none" pos="word" start_char="907">versión</TOKEN>
+<TOKEN end_char="921" id="token-12-6" morph="none" pos="word" start_char="915">señalan</TOKEN>
+<TOKEN end_char="925" id="token-12-7" morph="none" pos="word" start_char="923">que</TOKEN>
+<TOKEN end_char="928" id="token-12-8" morph="none" pos="word" start_char="927">el</TOKEN>
+<TOKEN end_char="931" id="token-12-9" morph="none" pos="word" start_char="930">la</TOKEN>
+<TOKEN end_char="938" id="token-12-10" morph="none" pos="word" start_char="933">ciudad</TOKEN>
+<TOKEN end_char="941" id="token-12-11" morph="none" pos="word" start_char="940">de</TOKEN>
+<TOKEN end_char="947" id="token-12-12" morph="none" pos="word" start_char="943">Wuhan</TOKEN>
+<TOKEN end_char="948" id="token-12-13" morph="none" pos="punct" start_char="948">,</TOKEN>
+<TOKEN end_char="954" id="token-12-14" morph="none" pos="word" start_char="950">donde</TOKEN>
+<TOKEN end_char="962" id="token-12-15" morph="none" pos="word" start_char="956">comenzó</TOKEN>
+<TOKEN end_char="965" id="token-12-16" morph="none" pos="word" start_char="964">el</TOKEN>
+<TOKEN end_char="971" id="token-12-17" morph="none" pos="word" start_char="967">virus</TOKEN>
+<TOKEN end_char="972" id="token-12-18" morph="none" pos="punct" start_char="972">,</TOKEN>
+<TOKEN end_char="978" id="token-12-19" morph="none" pos="word" start_char="974">queda</TOKEN>
+<TOKEN end_char="981" id="token-12-20" morph="none" pos="word" start_char="980">el</TOKEN>
+<TOKEN end_char="987" id="token-12-21" morph="none" pos="word" start_char="983">único</TOKEN>
+<TOKEN end_char="999" id="token-12-22" morph="none" pos="word" start_char="989">laboratorio</TOKEN>
+<TOKEN end_char="1002" id="token-12-23" morph="none" pos="word" start_char="1001">de</TOKEN>
+<TOKEN end_char="1008" id="token-12-24" morph="none" pos="word" start_char="1004">nivel</TOKEN>
+<TOKEN end_char="1010" id="token-12-25" morph="none" pos="word" start_char="1010">4</TOKEN>
+<TOKEN end_char="1013" id="token-12-26" morph="none" pos="word" start_char="1012">de</TOKEN>
+<TOKEN end_char="1018" id="token-12-27" morph="none" pos="word" start_char="1015">todo</TOKEN>
+<TOKEN end_char="1024" id="token-12-28" morph="none" pos="word" start_char="1020">China</TOKEN>
+<TOKEN end_char="1025" id="token-12-29" morph="none" pos="punct" start_char="1025">.</TOKEN>
+<TRANSLATED_TEXT>The arguments supporting this version point out that the city of Wuhan, where the virus began, remains the only level 4 laboratory in all of China.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1165" id="segment-13" start_char="1028">
+<ORIGINAL_TEXT>Otra versión afirma que el virus fue creado en un laboratorio Canadiense y fue obtenido por los chinos a través de una labor de espionaje.</ORIGINAL_TEXT>
+<TOKEN end_char="1031" id="token-13-0" morph="none" pos="word" start_char="1028">Otra</TOKEN>
+<TOKEN end_char="1039" id="token-13-1" morph="none" pos="word" start_char="1033">versión</TOKEN>
+<TOKEN end_char="1046" id="token-13-2" morph="none" pos="word" start_char="1041">afirma</TOKEN>
+<TOKEN end_char="1050" id="token-13-3" morph="none" pos="word" start_char="1048">que</TOKEN>
+<TOKEN end_char="1053" id="token-13-4" morph="none" pos="word" start_char="1052">el</TOKEN>
+<TOKEN end_char="1059" id="token-13-5" morph="none" pos="word" start_char="1055">virus</TOKEN>
+<TOKEN end_char="1063" id="token-13-6" morph="none" pos="word" start_char="1061">fue</TOKEN>
+<TOKEN end_char="1070" id="token-13-7" morph="none" pos="word" start_char="1065">creado</TOKEN>
+<TOKEN end_char="1073" id="token-13-8" morph="none" pos="word" start_char="1072">en</TOKEN>
+<TOKEN end_char="1076" id="token-13-9" morph="none" pos="word" start_char="1075">un</TOKEN>
+<TOKEN end_char="1088" id="token-13-10" morph="none" pos="word" start_char="1078">laboratorio</TOKEN>
+<TOKEN end_char="1099" id="token-13-11" morph="none" pos="word" start_char="1090">Canadiense</TOKEN>
+<TOKEN end_char="1101" id="token-13-12" morph="none" pos="word" start_char="1101">y</TOKEN>
+<TOKEN end_char="1105" id="token-13-13" morph="none" pos="word" start_char="1103">fue</TOKEN>
+<TOKEN end_char="1114" id="token-13-14" morph="none" pos="word" start_char="1107">obtenido</TOKEN>
+<TOKEN end_char="1118" id="token-13-15" morph="none" pos="word" start_char="1116">por</TOKEN>
+<TOKEN end_char="1122" id="token-13-16" morph="none" pos="word" start_char="1120">los</TOKEN>
+<TOKEN end_char="1129" id="token-13-17" morph="none" pos="word" start_char="1124">chinos</TOKEN>
+<TOKEN end_char="1131" id="token-13-18" morph="none" pos="word" start_char="1131">a</TOKEN>
+<TOKEN end_char="1138" id="token-13-19" morph="none" pos="word" start_char="1133">través</TOKEN>
+<TOKEN end_char="1141" id="token-13-20" morph="none" pos="word" start_char="1140">de</TOKEN>
+<TOKEN end_char="1145" id="token-13-21" morph="none" pos="word" start_char="1143">una</TOKEN>
+<TOKEN end_char="1151" id="token-13-22" morph="none" pos="word" start_char="1147">labor</TOKEN>
+<TOKEN end_char="1154" id="token-13-23" morph="none" pos="word" start_char="1153">de</TOKEN>
+<TOKEN end_char="1164" id="token-13-24" morph="none" pos="word" start_char="1156">espionaje</TOKEN>
+<TOKEN end_char="1165" id="token-13-25" morph="none" pos="punct" start_char="1165">.</TOKEN>
+<TRANSLATED_TEXT>Another version claims that the virus was created in a Canadian laboratory and was obtained by the Chinese through espionage work.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1347" id="segment-14" start_char="1167">
+<ORIGINAL_TEXT>El sustento de esta versión reside en la noticia de que una microbióloga china fue expulsada del Laboratorio de Microbiología de Canadá por violar las políticas del establecimiento.</ORIGINAL_TEXT>
+<TOKEN end_char="1168" id="token-14-0" morph="none" pos="word" start_char="1167">El</TOKEN>
+<TOKEN end_char="1177" id="token-14-1" morph="none" pos="word" start_char="1170">sustento</TOKEN>
+<TOKEN end_char="1180" id="token-14-2" morph="none" pos="word" start_char="1179">de</TOKEN>
+<TOKEN end_char="1185" id="token-14-3" morph="none" pos="word" start_char="1182">esta</TOKEN>
+<TOKEN end_char="1193" id="token-14-4" morph="none" pos="word" start_char="1187">versión</TOKEN>
+<TOKEN end_char="1200" id="token-14-5" morph="none" pos="word" start_char="1195">reside</TOKEN>
+<TOKEN end_char="1203" id="token-14-6" morph="none" pos="word" start_char="1202">en</TOKEN>
+<TOKEN end_char="1206" id="token-14-7" morph="none" pos="word" start_char="1205">la</TOKEN>
+<TOKEN end_char="1214" id="token-14-8" morph="none" pos="word" start_char="1208">noticia</TOKEN>
+<TOKEN end_char="1217" id="token-14-9" morph="none" pos="word" start_char="1216">de</TOKEN>
+<TOKEN end_char="1221" id="token-14-10" morph="none" pos="word" start_char="1219">que</TOKEN>
+<TOKEN end_char="1225" id="token-14-11" morph="none" pos="word" start_char="1223">una</TOKEN>
+<TOKEN end_char="1238" id="token-14-12" morph="none" pos="word" start_char="1227">microbióloga</TOKEN>
+<TOKEN end_char="1244" id="token-14-13" morph="none" pos="word" start_char="1240">china</TOKEN>
+<TOKEN end_char="1248" id="token-14-14" morph="none" pos="word" start_char="1246">fue</TOKEN>
+<TOKEN end_char="1258" id="token-14-15" morph="none" pos="word" start_char="1250">expulsada</TOKEN>
+<TOKEN end_char="1262" id="token-14-16" morph="none" pos="word" start_char="1260">del</TOKEN>
+<TOKEN end_char="1274" id="token-14-17" morph="none" pos="word" start_char="1264">Laboratorio</TOKEN>
+<TOKEN end_char="1277" id="token-14-18" morph="none" pos="word" start_char="1276">de</TOKEN>
+<TOKEN end_char="1291" id="token-14-19" morph="none" pos="word" start_char="1279">Microbiología</TOKEN>
+<TOKEN end_char="1294" id="token-14-20" morph="none" pos="word" start_char="1293">de</TOKEN>
+<TOKEN end_char="1301" id="token-14-21" morph="none" pos="word" start_char="1296">Canadá</TOKEN>
+<TOKEN end_char="1305" id="token-14-22" morph="none" pos="word" start_char="1303">por</TOKEN>
+<TOKEN end_char="1312" id="token-14-23" morph="none" pos="word" start_char="1307">violar</TOKEN>
+<TOKEN end_char="1316" id="token-14-24" morph="none" pos="word" start_char="1314">las</TOKEN>
+<TOKEN end_char="1326" id="token-14-25" morph="none" pos="word" start_char="1318">políticas</TOKEN>
+<TOKEN end_char="1330" id="token-14-26" morph="none" pos="word" start_char="1328">del</TOKEN>
+<TOKEN end_char="1346" id="token-14-27" morph="none" pos="word" start_char="1332">establecimiento</TOKEN>
+<TOKEN end_char="1347" id="token-14-28" morph="none" pos="punct" start_char="1347">.</TOKEN>
+<TRANSLATED_TEXT>The support for this version lies in the news that a Chinese microbiologist was expelled from the Canadian Microbiology Laboratory for violating the establishment's policies.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1433" id="segment-15" start_char="1350">
+<ORIGINAL_TEXT>Quizás le interesa: CoronaVirus situación en el mundo, contagio y números de muerte.</ORIGINAL_TEXT>
+<TOKEN end_char="1355" id="token-15-0" morph="none" pos="word" start_char="1350">Quizás</TOKEN>
+<TOKEN end_char="1358" id="token-15-1" morph="none" pos="word" start_char="1357">le</TOKEN>
+<TOKEN end_char="1367" id="token-15-2" morph="none" pos="word" start_char="1360">interesa</TOKEN>
+<TOKEN end_char="1368" id="token-15-3" morph="none" pos="punct" start_char="1368">:</TOKEN>
+<TOKEN end_char="1380" id="token-15-4" morph="none" pos="word" start_char="1370">CoronaVirus</TOKEN>
+<TOKEN end_char="1390" id="token-15-5" morph="none" pos="word" start_char="1382">situación</TOKEN>
+<TOKEN end_char="1393" id="token-15-6" morph="none" pos="word" start_char="1392">en</TOKEN>
+<TOKEN end_char="1396" id="token-15-7" morph="none" pos="word" start_char="1395">el</TOKEN>
+<TOKEN end_char="1402" id="token-15-8" morph="none" pos="word" start_char="1398">mundo</TOKEN>
+<TOKEN end_char="1403" id="token-15-9" morph="none" pos="punct" start_char="1403">,</TOKEN>
+<TOKEN end_char="1412" id="token-15-10" morph="none" pos="word" start_char="1405">contagio</TOKEN>
+<TOKEN end_char="1414" id="token-15-11" morph="none" pos="word" start_char="1414">y</TOKEN>
+<TOKEN end_char="1422" id="token-15-12" morph="none" pos="word" start_char="1416">números</TOKEN>
+<TOKEN end_char="1425" id="token-15-13" morph="none" pos="word" start_char="1424">de</TOKEN>
+<TOKEN end_char="1432" id="token-15-14" morph="none" pos="word" start_char="1427">muerte</TOKEN>
+<TOKEN end_char="1433" id="token-15-15" morph="none" pos="punct" start_char="1433">.</TOKEN>
+<TRANSLATED_TEXT>Maybe you're interested: CoronaVirus situation in the world, contagion and death numbers.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1437" id="segment-16" start_char="1436">
+<ORIGINAL_TEXT>3.</ORIGINAL_TEXT>
+<TOKEN end_char="1436" id="token-16-0" morph="none" pos="word" start_char="1436">3</TOKEN>
+<TOKEN end_char="1437" id="token-16-1" morph="none" pos="punct" start_char="1437">.</TOKEN>
+</SEG>
+<SEG end_char="1471" id="segment-17" start_char="1439">
+<ORIGINAL_TEXT>Una medida de control demográfico</ORIGINAL_TEXT>
+<TOKEN end_char="1441" id="token-17-0" morph="none" pos="word" start_char="1439">Una</TOKEN>
+<TOKEN end_char="1448" id="token-17-1" morph="none" pos="word" start_char="1443">medida</TOKEN>
+<TOKEN end_char="1451" id="token-17-2" morph="none" pos="word" start_char="1450">de</TOKEN>
+<TOKEN end_char="1459" id="token-17-3" morph="none" pos="word" start_char="1453">control</TOKEN>
+<TOKEN end_char="1471" id="token-17-4" morph="none" pos="word" start_char="1461">demográfico</TOKEN>
+<TRANSLATED_TEXT>A demographic control measure</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1579" id="segment-18" start_char="1475">
+<ORIGINAL_TEXT>Esta es otra de las teorías más comunes: que el coronavirus lo diseñaron para combatir la sobrepoblación.</ORIGINAL_TEXT>
+<TOKEN end_char="1478" id="token-18-0" morph="none" pos="word" start_char="1475">Esta</TOKEN>
+<TOKEN end_char="1481" id="token-18-1" morph="none" pos="word" start_char="1480">es</TOKEN>
+<TOKEN end_char="1486" id="token-18-2" morph="none" pos="word" start_char="1483">otra</TOKEN>
+<TOKEN end_char="1489" id="token-18-3" morph="none" pos="word" start_char="1488">de</TOKEN>
+<TOKEN end_char="1493" id="token-18-4" morph="none" pos="word" start_char="1491">las</TOKEN>
+<TOKEN end_char="1501" id="token-18-5" morph="none" pos="word" start_char="1495">teorías</TOKEN>
+<TOKEN end_char="1505" id="token-18-6" morph="none" pos="word" start_char="1503">más</TOKEN>
+<TOKEN end_char="1513" id="token-18-7" morph="none" pos="word" start_char="1507">comunes</TOKEN>
+<TOKEN end_char="1514" id="token-18-8" morph="none" pos="punct" start_char="1514">:</TOKEN>
+<TOKEN end_char="1518" id="token-18-9" morph="none" pos="word" start_char="1516">que</TOKEN>
+<TOKEN end_char="1521" id="token-18-10" morph="none" pos="word" start_char="1520">el</TOKEN>
+<TOKEN end_char="1533" id="token-18-11" morph="none" pos="word" start_char="1523">coronavirus</TOKEN>
+<TOKEN end_char="1536" id="token-18-12" morph="none" pos="word" start_char="1535">lo</TOKEN>
+<TOKEN end_char="1546" id="token-18-13" morph="none" pos="word" start_char="1538">diseñaron</TOKEN>
+<TOKEN end_char="1551" id="token-18-14" morph="none" pos="word" start_char="1548">para</TOKEN>
+<TOKEN end_char="1560" id="token-18-15" morph="none" pos="word" start_char="1553">combatir</TOKEN>
+<TOKEN end_char="1563" id="token-18-16" morph="none" pos="word" start_char="1562">la</TOKEN>
+<TOKEN end_char="1578" id="token-18-17" morph="none" pos="word" start_char="1565">sobrepoblación</TOKEN>
+<TOKEN end_char="1579" id="token-18-18" morph="none" pos="punct" start_char="1579">.</TOKEN>
+<TRANSLATED_TEXT>This is another of the most common theories: that coronavirus was designed to combat overpopulation.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1699" id="segment-19" start_char="1582">
+<ORIGINAL_TEXT>Hay quienes afirman que la enfermedad afecta principalmente a los ancianos y que es una medida de control demográfico.</ORIGINAL_TEXT>
+<TOKEN end_char="1584" id="token-19-0" morph="none" pos="word" start_char="1582">Hay</TOKEN>
+<TOKEN end_char="1592" id="token-19-1" morph="none" pos="word" start_char="1586">quienes</TOKEN>
+<TOKEN end_char="1600" id="token-19-2" morph="none" pos="word" start_char="1594">afirman</TOKEN>
+<TOKEN end_char="1604" id="token-19-3" morph="none" pos="word" start_char="1602">que</TOKEN>
+<TOKEN end_char="1607" id="token-19-4" morph="none" pos="word" start_char="1606">la</TOKEN>
+<TOKEN end_char="1618" id="token-19-5" morph="none" pos="word" start_char="1609">enfermedad</TOKEN>
+<TOKEN end_char="1625" id="token-19-6" morph="none" pos="word" start_char="1620">afecta</TOKEN>
+<TOKEN end_char="1640" id="token-19-7" morph="none" pos="word" start_char="1627">principalmente</TOKEN>
+<TOKEN end_char="1642" id="token-19-8" morph="none" pos="word" start_char="1642">a</TOKEN>
+<TOKEN end_char="1646" id="token-19-9" morph="none" pos="word" start_char="1644">los</TOKEN>
+<TOKEN end_char="1655" id="token-19-10" morph="none" pos="word" start_char="1648">ancianos</TOKEN>
+<TOKEN end_char="1657" id="token-19-11" morph="none" pos="word" start_char="1657">y</TOKEN>
+<TOKEN end_char="1661" id="token-19-12" morph="none" pos="word" start_char="1659">que</TOKEN>
+<TOKEN end_char="1664" id="token-19-13" morph="none" pos="word" start_char="1663">es</TOKEN>
+<TOKEN end_char="1668" id="token-19-14" morph="none" pos="word" start_char="1666">una</TOKEN>
+<TOKEN end_char="1675" id="token-19-15" morph="none" pos="word" start_char="1670">medida</TOKEN>
+<TOKEN end_char="1678" id="token-19-16" morph="none" pos="word" start_char="1677">de</TOKEN>
+<TOKEN end_char="1686" id="token-19-17" morph="none" pos="word" start_char="1680">control</TOKEN>
+<TOKEN end_char="1698" id="token-19-18" morph="none" pos="word" start_char="1688">demográfico</TOKEN>
+<TOKEN end_char="1699" id="token-19-19" morph="none" pos="punct" start_char="1699">.</TOKEN>
+<TRANSLATED_TEXT>Some claim that the disease primarily affects the elderly and is a measure of population control.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1798" id="segment-20" start_char="1701">
+<ORIGINAL_TEXT>Pero lo cierto es que la enfermedad afecta los pulmones y es peor según la debilidad del paciente.</ORIGINAL_TEXT>
+<TOKEN end_char="1704" id="token-20-0" morph="none" pos="word" start_char="1701">Pero</TOKEN>
+<TOKEN end_char="1707" id="token-20-1" morph="none" pos="word" start_char="1706">lo</TOKEN>
+<TOKEN end_char="1714" id="token-20-2" morph="none" pos="word" start_char="1709">cierto</TOKEN>
+<TOKEN end_char="1717" id="token-20-3" morph="none" pos="word" start_char="1716">es</TOKEN>
+<TOKEN end_char="1721" id="token-20-4" morph="none" pos="word" start_char="1719">que</TOKEN>
+<TOKEN end_char="1724" id="token-20-5" morph="none" pos="word" start_char="1723">la</TOKEN>
+<TOKEN end_char="1735" id="token-20-6" morph="none" pos="word" start_char="1726">enfermedad</TOKEN>
+<TOKEN end_char="1742" id="token-20-7" morph="none" pos="word" start_char="1737">afecta</TOKEN>
+<TOKEN end_char="1746" id="token-20-8" morph="none" pos="word" start_char="1744">los</TOKEN>
+<TOKEN end_char="1755" id="token-20-9" morph="none" pos="word" start_char="1748">pulmones</TOKEN>
+<TOKEN end_char="1757" id="token-20-10" morph="none" pos="word" start_char="1757">y</TOKEN>
+<TOKEN end_char="1760" id="token-20-11" morph="none" pos="word" start_char="1759">es</TOKEN>
+<TOKEN end_char="1765" id="token-20-12" morph="none" pos="word" start_char="1762">peor</TOKEN>
+<TOKEN end_char="1771" id="token-20-13" morph="none" pos="word" start_char="1767">según</TOKEN>
+<TOKEN end_char="1774" id="token-20-14" morph="none" pos="word" start_char="1773">la</TOKEN>
+<TOKEN end_char="1784" id="token-20-15" morph="none" pos="word" start_char="1776">debilidad</TOKEN>
+<TOKEN end_char="1788" id="token-20-16" morph="none" pos="word" start_char="1786">del</TOKEN>
+<TOKEN end_char="1797" id="token-20-17" morph="none" pos="word" start_char="1790">paciente</TOKEN>
+<TOKEN end_char="1798" id="token-20-18" morph="none" pos="punct" start_char="1798">.</TOKEN>
+<TRANSLATED_TEXT>But the truth is that the disease affects the lungs and is worse depending on the patient's weakness.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1858" id="segment-21" start_char="1801">
+<ORIGINAL_TEXT>Imagen tomada de: https://www.alimente.elconfidencial.com/</ORIGINAL_TEXT>
+<TOKEN end_char="1806" id="token-21-0" morph="none" pos="word" start_char="1801">Imagen</TOKEN>
+<TOKEN end_char="1813" id="token-21-1" morph="none" pos="word" start_char="1808">tomada</TOKEN>
+<TOKEN end_char="1816" id="token-21-2" morph="none" pos="word" start_char="1815">de</TOKEN>
+<TOKEN end_char="1817" id="token-21-3" morph="none" pos="punct" start_char="1817">:</TOKEN>
+<TOKEN end_char="1858" id="token-21-4" morph="none" pos="url" start_char="1819">https://www.alimente.elconfidencial.com/</TOKEN>
+<TRANSLATED_TEXT>Image taken from: https: / / www.alimente.elconfidence.com /</TRANSLATED_TEXT><DETECTED_LANGUAGE>pt</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2067" id="segment-22" start_char="1862">
+<ORIGINAL_TEXT>Asimismo hay quienes dicen que es peor en los varones y, por ende, sospechan que sea una medida de control demográfico para equilibrar la cantidad de varones con respecto a las mujeres en la sociedad china.</ORIGINAL_TEXT>
+<TOKEN end_char="1869" id="token-22-0" morph="none" pos="word" start_char="1862">Asimismo</TOKEN>
+<TOKEN end_char="1873" id="token-22-1" morph="none" pos="word" start_char="1871">hay</TOKEN>
+<TOKEN end_char="1881" id="token-22-2" morph="none" pos="word" start_char="1875">quienes</TOKEN>
+<TOKEN end_char="1887" id="token-22-3" morph="none" pos="word" start_char="1883">dicen</TOKEN>
+<TOKEN end_char="1891" id="token-22-4" morph="none" pos="word" start_char="1889">que</TOKEN>
+<TOKEN end_char="1894" id="token-22-5" morph="none" pos="word" start_char="1893">es</TOKEN>
+<TOKEN end_char="1899" id="token-22-6" morph="none" pos="word" start_char="1896">peor</TOKEN>
+<TOKEN end_char="1902" id="token-22-7" morph="none" pos="word" start_char="1901">en</TOKEN>
+<TOKEN end_char="1906" id="token-22-8" morph="none" pos="word" start_char="1904">los</TOKEN>
+<TOKEN end_char="1914" id="token-22-9" morph="none" pos="word" start_char="1908">varones</TOKEN>
+<TOKEN end_char="1916" id="token-22-10" morph="none" pos="word" start_char="1916">y</TOKEN>
+<TOKEN end_char="1917" id="token-22-11" morph="none" pos="punct" start_char="1917">,</TOKEN>
+<TOKEN end_char="1921" id="token-22-12" morph="none" pos="word" start_char="1919">por</TOKEN>
+<TOKEN end_char="1926" id="token-22-13" morph="none" pos="word" start_char="1923">ende</TOKEN>
+<TOKEN end_char="1927" id="token-22-14" morph="none" pos="punct" start_char="1927">,</TOKEN>
+<TOKEN end_char="1937" id="token-22-15" morph="none" pos="word" start_char="1929">sospechan</TOKEN>
+<TOKEN end_char="1941" id="token-22-16" morph="none" pos="word" start_char="1939">que</TOKEN>
+<TOKEN end_char="1945" id="token-22-17" morph="none" pos="word" start_char="1943">sea</TOKEN>
+<TOKEN end_char="1949" id="token-22-18" morph="none" pos="word" start_char="1947">una</TOKEN>
+<TOKEN end_char="1956" id="token-22-19" morph="none" pos="word" start_char="1951">medida</TOKEN>
+<TOKEN end_char="1959" id="token-22-20" morph="none" pos="word" start_char="1958">de</TOKEN>
+<TOKEN end_char="1967" id="token-22-21" morph="none" pos="word" start_char="1961">control</TOKEN>
+<TOKEN end_char="1979" id="token-22-22" morph="none" pos="word" start_char="1969">demográfico</TOKEN>
+<TOKEN end_char="1984" id="token-22-23" morph="none" pos="word" start_char="1981">para</TOKEN>
+<TOKEN end_char="1995" id="token-22-24" morph="none" pos="word" start_char="1986">equilibrar</TOKEN>
+<TOKEN end_char="1998" id="token-22-25" morph="none" pos="word" start_char="1997">la</TOKEN>
+<TOKEN end_char="2007" id="token-22-26" morph="none" pos="word" start_char="2000">cantidad</TOKEN>
+<TOKEN end_char="2010" id="token-22-27" morph="none" pos="word" start_char="2009">de</TOKEN>
+<TOKEN end_char="2018" id="token-22-28" morph="none" pos="word" start_char="2012">varones</TOKEN>
+<TOKEN end_char="2022" id="token-22-29" morph="none" pos="word" start_char="2020">con</TOKEN>
+<TOKEN end_char="2031" id="token-22-30" morph="none" pos="word" start_char="2024">respecto</TOKEN>
+<TOKEN end_char="2033" id="token-22-31" morph="none" pos="word" start_char="2033">a</TOKEN>
+<TOKEN end_char="2037" id="token-22-32" morph="none" pos="word" start_char="2035">las</TOKEN>
+<TOKEN end_char="2045" id="token-22-33" morph="none" pos="word" start_char="2039">mujeres</TOKEN>
+<TOKEN end_char="2048" id="token-22-34" morph="none" pos="word" start_char="2047">en</TOKEN>
+<TOKEN end_char="2051" id="token-22-35" morph="none" pos="word" start_char="2050">la</TOKEN>
+<TOKEN end_char="2060" id="token-22-36" morph="none" pos="word" start_char="2053">sociedad</TOKEN>
+<TOKEN end_char="2066" id="token-22-37" morph="none" pos="word" start_char="2062">china</TOKEN>
+<TOKEN end_char="2067" id="token-22-38" morph="none" pos="punct" start_char="2067">.</TOKEN>
+<TRANSLATED_TEXT>There are also those who say it is worse for men, and therefore suspect that it is a demographic control measure to balance the number of men with women in Chinese society.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2219" id="segment-23" start_char="2070">
+<ORIGINAL_TEXT>A tal punto ha llegado la información falsa sobre el virus que tanto Instagram como Facebook han anunciado que implementarán medidas para controlarla.</ORIGINAL_TEXT>
+<TOKEN end_char="2070" id="token-23-0" morph="none" pos="word" start_char="2070">A</TOKEN>
+<TOKEN end_char="2074" id="token-23-1" morph="none" pos="word" start_char="2072">tal</TOKEN>
+<TOKEN end_char="2080" id="token-23-2" morph="none" pos="word" start_char="2076">punto</TOKEN>
+<TOKEN end_char="2083" id="token-23-3" morph="none" pos="word" start_char="2082">ha</TOKEN>
+<TOKEN end_char="2091" id="token-23-4" morph="none" pos="word" start_char="2085">llegado</TOKEN>
+<TOKEN end_char="2094" id="token-23-5" morph="none" pos="word" start_char="2093">la</TOKEN>
+<TOKEN end_char="2106" id="token-23-6" morph="none" pos="word" start_char="2096">información</TOKEN>
+<TOKEN end_char="2112" id="token-23-7" morph="none" pos="word" start_char="2108">falsa</TOKEN>
+<TOKEN end_char="2118" id="token-23-8" morph="none" pos="word" start_char="2114">sobre</TOKEN>
+<TOKEN end_char="2121" id="token-23-9" morph="none" pos="word" start_char="2120">el</TOKEN>
+<TOKEN end_char="2127" id="token-23-10" morph="none" pos="word" start_char="2123">virus</TOKEN>
+<TOKEN end_char="2131" id="token-23-11" morph="none" pos="word" start_char="2129">que</TOKEN>
+<TOKEN end_char="2137" id="token-23-12" morph="none" pos="word" start_char="2133">tanto</TOKEN>
+<TOKEN end_char="2147" id="token-23-13" morph="none" pos="word" start_char="2139">Instagram</TOKEN>
+<TOKEN end_char="2152" id="token-23-14" morph="none" pos="word" start_char="2149">como</TOKEN>
+<TOKEN end_char="2161" id="token-23-15" morph="none" pos="word" start_char="2154">Facebook</TOKEN>
+<TOKEN end_char="2165" id="token-23-16" morph="none" pos="word" start_char="2163">han</TOKEN>
+<TOKEN end_char="2175" id="token-23-17" morph="none" pos="word" start_char="2167">anunciado</TOKEN>
+<TOKEN end_char="2179" id="token-23-18" morph="none" pos="word" start_char="2177">que</TOKEN>
+<TOKEN end_char="2193" id="token-23-19" morph="none" pos="word" start_char="2181">implementarán</TOKEN>
+<TOKEN end_char="2201" id="token-23-20" morph="none" pos="word" start_char="2195">medidas</TOKEN>
+<TOKEN end_char="2206" id="token-23-21" morph="none" pos="word" start_char="2203">para</TOKEN>
+<TOKEN end_char="2218" id="token-23-22" morph="none" pos="word" start_char="2208">controlarla</TOKEN>
+<TOKEN end_char="2219" id="token-23-23" morph="none" pos="punct" start_char="2219">.</TOKEN>
+<TRANSLATED_TEXT>So much for the fake information about the virus that both Instagram and Facebook have announced they will implement measures to control it.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

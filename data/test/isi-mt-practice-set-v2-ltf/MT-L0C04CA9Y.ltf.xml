@@ -1,0 +1,291 @@
+<LCTL_TEXT lang="spa">
+<DOC grammar="none" id="L0C04CA9Y" lang="spa" raw_text_char_length="1417" raw_text_md5="e05291358c6f52e8b0edb2d69a62f5a9" tokenization="tokenization_parameters.v5.0">
+<TEXT>
+<SEG end_char="46" id="segment-0" start_char="1">
+<ORIGINAL_TEXT>Коронавирус появился в США раньше, чем в Китае</ORIGINAL_TEXT>
+<TOKEN end_char="11" id="token-0-0" morph="none" pos="word" start_char="1">Коронавирус</TOKEN>
+<TOKEN end_char="20" id="token-0-1" morph="none" pos="word" start_char="13">появился</TOKEN>
+<TOKEN end_char="22" id="token-0-2" morph="none" pos="word" start_char="22">в</TOKEN>
+<TOKEN end_char="26" id="token-0-3" morph="none" pos="word" start_char="24">США</TOKEN>
+<TOKEN end_char="33" id="token-0-4" morph="none" pos="word" start_char="28">раньше</TOKEN>
+<TOKEN end_char="34" id="token-0-5" morph="none" pos="punct" start_char="34">,</TOKEN>
+<TOKEN end_char="38" id="token-0-6" morph="none" pos="word" start_char="36">чем</TOKEN>
+<TOKEN end_char="40" id="token-0-7" morph="none" pos="word" start_char="40">в</TOKEN>
+<TOKEN end_char="46" id="token-0-8" morph="none" pos="word" start_char="42">Китае</TOKEN>
+<TRANSLATED_TEXT>Coronavirus appeared in the US before China.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="237" id="segment-1" start_char="51">
+<ORIGINAL_TEXT>Ученые исследовали образцы крови у жителей США, которые собрали еще в декабре 2019 года, и выяснили, что у некоторых из них коронавирус был еще до того, как Китай объявил о его появлении.</ORIGINAL_TEXT>
+<TOKEN end_char="56" id="token-1-0" morph="none" pos="word" start_char="51">Ученые</TOKEN>
+<TOKEN end_char="68" id="token-1-1" morph="none" pos="word" start_char="58">исследовали</TOKEN>
+<TOKEN end_char="76" id="token-1-2" morph="none" pos="word" start_char="70">образцы</TOKEN>
+<TOKEN end_char="82" id="token-1-3" morph="none" pos="word" start_char="78">крови</TOKEN>
+<TOKEN end_char="84" id="token-1-4" morph="none" pos="word" start_char="84">у</TOKEN>
+<TOKEN end_char="92" id="token-1-5" morph="none" pos="word" start_char="86">жителей</TOKEN>
+<TOKEN end_char="96" id="token-1-6" morph="none" pos="word" start_char="94">США</TOKEN>
+<TOKEN end_char="97" id="token-1-7" morph="none" pos="punct" start_char="97">,</TOKEN>
+<TOKEN end_char="105" id="token-1-8" morph="none" pos="word" start_char="99">которые</TOKEN>
+<TOKEN end_char="113" id="token-1-9" morph="none" pos="word" start_char="107">собрали</TOKEN>
+<TOKEN end_char="117" id="token-1-10" morph="none" pos="word" start_char="115">еще</TOKEN>
+<TOKEN end_char="119" id="token-1-11" morph="none" pos="word" start_char="119">в</TOKEN>
+<TOKEN end_char="127" id="token-1-12" morph="none" pos="word" start_char="121">декабре</TOKEN>
+<TOKEN end_char="132" id="token-1-13" morph="none" pos="word" start_char="129">2019</TOKEN>
+<TOKEN end_char="137" id="token-1-14" morph="none" pos="word" start_char="134">года</TOKEN>
+<TOKEN end_char="138" id="token-1-15" morph="none" pos="punct" start_char="138">,</TOKEN>
+<TOKEN end_char="140" id="token-1-16" morph="none" pos="word" start_char="140">и</TOKEN>
+<TOKEN end_char="149" id="token-1-17" morph="none" pos="word" start_char="142">выяснили</TOKEN>
+<TOKEN end_char="150" id="token-1-18" morph="none" pos="punct" start_char="150">,</TOKEN>
+<TOKEN end_char="154" id="token-1-19" morph="none" pos="word" start_char="152">что</TOKEN>
+<TOKEN end_char="156" id="token-1-20" morph="none" pos="word" start_char="156">у</TOKEN>
+<TOKEN end_char="166" id="token-1-21" morph="none" pos="word" start_char="158">некоторых</TOKEN>
+<TOKEN end_char="169" id="token-1-22" morph="none" pos="word" start_char="168">из</TOKEN>
+<TOKEN end_char="173" id="token-1-23" morph="none" pos="word" start_char="171">них</TOKEN>
+<TOKEN end_char="185" id="token-1-24" morph="none" pos="word" start_char="175">коронавирус</TOKEN>
+<TOKEN end_char="189" id="token-1-25" morph="none" pos="word" start_char="187">был</TOKEN>
+<TOKEN end_char="193" id="token-1-26" morph="none" pos="word" start_char="191">еще</TOKEN>
+<TOKEN end_char="196" id="token-1-27" morph="none" pos="word" start_char="195">до</TOKEN>
+<TOKEN end_char="201" id="token-1-28" morph="none" pos="word" start_char="198">того</TOKEN>
+<TOKEN end_char="202" id="token-1-29" morph="none" pos="punct" start_char="202">,</TOKEN>
+<TOKEN end_char="206" id="token-1-30" morph="none" pos="word" start_char="204">как</TOKEN>
+<TOKEN end_char="212" id="token-1-31" morph="none" pos="word" start_char="208">Китай</TOKEN>
+<TOKEN end_char="220" id="token-1-32" morph="none" pos="word" start_char="214">объявил</TOKEN>
+<TOKEN end_char="222" id="token-1-33" morph="none" pos="word" start_char="222">о</TOKEN>
+<TOKEN end_char="226" id="token-1-34" morph="none" pos="word" start_char="224">его</TOKEN>
+<TOKEN end_char="236" id="token-1-35" morph="none" pos="word" start_char="228">появлении</TOKEN>
+<TOKEN end_char="237" id="token-1-36" morph="none" pos="punct" start_char="237">.</TOKEN>
+<TRANSLATED_TEXT>Scientists investigated blood samples from U.S. residents who collected as early as December 2019, and found that some of them had coronavirus even before China announced it.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="433" id="segment-2" start_char="240">
+<ORIGINAL_TEXT>В рамках исследования эксперты проанализировали более 7 000 донорских образцов крови: они были собраны Американским Красным Крестом в девяти штатах с 13 декабря 2019 года по 17 января 2020 года.</ORIGINAL_TEXT>
+<TOKEN end_char="240" id="token-2-0" morph="none" pos="word" start_char="240">В</TOKEN>
+<TOKEN end_char="247" id="token-2-1" morph="none" pos="word" start_char="242">рамках</TOKEN>
+<TOKEN end_char="260" id="token-2-2" morph="none" pos="word" start_char="249">исследования</TOKEN>
+<TOKEN end_char="269" id="token-2-3" morph="none" pos="word" start_char="262">эксперты</TOKEN>
+<TOKEN end_char="286" id="token-2-4" morph="none" pos="word" start_char="271">проанализировали</TOKEN>
+<TOKEN end_char="292" id="token-2-5" morph="none" pos="word" start_char="288">более</TOKEN>
+<TOKEN end_char="294" id="token-2-6" morph="none" pos="word" start_char="294">7</TOKEN>
+<TOKEN end_char="298" id="token-2-7" morph="none" pos="word" start_char="296">000</TOKEN>
+<TOKEN end_char="308" id="token-2-8" morph="none" pos="word" start_char="300">донорских</TOKEN>
+<TOKEN end_char="317" id="token-2-9" morph="none" pos="word" start_char="310">образцов</TOKEN>
+<TOKEN end_char="323" id="token-2-10" morph="none" pos="word" start_char="319">крови</TOKEN>
+<TOKEN end_char="324" id="token-2-11" morph="none" pos="punct" start_char="324">:</TOKEN>
+<TOKEN end_char="328" id="token-2-12" morph="none" pos="word" start_char="326">они</TOKEN>
+<TOKEN end_char="333" id="token-2-13" morph="none" pos="word" start_char="330">были</TOKEN>
+<TOKEN end_char="341" id="token-2-14" morph="none" pos="word" start_char="335">собраны</TOKEN>
+<TOKEN end_char="354" id="token-2-15" morph="none" pos="word" start_char="343">Американским</TOKEN>
+<TOKEN end_char="362" id="token-2-16" morph="none" pos="word" start_char="356">Красным</TOKEN>
+<TOKEN end_char="370" id="token-2-17" morph="none" pos="word" start_char="364">Крестом</TOKEN>
+<TOKEN end_char="372" id="token-2-18" morph="none" pos="word" start_char="372">в</TOKEN>
+<TOKEN end_char="379" id="token-2-19" morph="none" pos="word" start_char="374">девяти</TOKEN>
+<TOKEN end_char="386" id="token-2-20" morph="none" pos="word" start_char="381">штатах</TOKEN>
+<TOKEN end_char="388" id="token-2-21" morph="none" pos="word" start_char="388">с</TOKEN>
+<TOKEN end_char="391" id="token-2-22" morph="none" pos="word" start_char="390">13</TOKEN>
+<TOKEN end_char="399" id="token-2-23" morph="none" pos="word" start_char="393">декабря</TOKEN>
+<TOKEN end_char="404" id="token-2-24" morph="none" pos="word" start_char="401">2019</TOKEN>
+<TOKEN end_char="409" id="token-2-25" morph="none" pos="word" start_char="406">года</TOKEN>
+<TOKEN end_char="412" id="token-2-26" morph="none" pos="word" start_char="411">по</TOKEN>
+<TOKEN end_char="415" id="token-2-27" morph="none" pos="word" start_char="414">17</TOKEN>
+<TOKEN end_char="422" id="token-2-28" morph="none" pos="word" start_char="417">января</TOKEN>
+<TOKEN end_char="427" id="token-2-29" morph="none" pos="word" start_char="424">2020</TOKEN>
+<TOKEN end_char="432" id="token-2-30" morph="none" pos="word" start_char="429">года</TOKEN>
+<TOKEN end_char="433" id="token-2-31" morph="none" pos="punct" start_char="433">.</TOKEN>
+<TRANSLATED_TEXT>As part of the study, experts analyzed over 7,000 donor blood samples collected by the American Red Cross in nine states from 13 December 2019 to 17 January 2020.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="612" id="segment-3" start_char="435">
+<ORIGINAL_TEXT>Из них 106 образцов дали положительный результат на антитела против SARS-CoV-2: 39 — в Калифорнии, и 67 — в Коннектикуте, Айове, Массачусетсе, Мичигане, Род-Айленде и Висконсине.</ORIGINAL_TEXT>
+<TOKEN end_char="436" id="token-3-0" morph="none" pos="word" start_char="435">Из</TOKEN>
+<TOKEN end_char="440" id="token-3-1" morph="none" pos="word" start_char="438">них</TOKEN>
+<TOKEN end_char="444" id="token-3-2" morph="none" pos="word" start_char="442">106</TOKEN>
+<TOKEN end_char="453" id="token-3-3" morph="none" pos="word" start_char="446">образцов</TOKEN>
+<TOKEN end_char="458" id="token-3-4" morph="none" pos="word" start_char="455">дали</TOKEN>
+<TOKEN end_char="472" id="token-3-5" morph="none" pos="word" start_char="460">положительный</TOKEN>
+<TOKEN end_char="482" id="token-3-6" morph="none" pos="word" start_char="474">результат</TOKEN>
+<TOKEN end_char="485" id="token-3-7" morph="none" pos="word" start_char="484">на</TOKEN>
+<TOKEN end_char="494" id="token-3-8" morph="none" pos="word" start_char="487">антитела</TOKEN>
+<TOKEN end_char="501" id="token-3-9" morph="none" pos="word" start_char="496">против</TOKEN>
+<TOKEN end_char="512" id="token-3-10" morph="none" pos="unknown" start_char="503">SARS-CoV-2</TOKEN>
+<TOKEN end_char="513" id="token-3-11" morph="none" pos="punct" start_char="513">:</TOKEN>
+<TOKEN end_char="516" id="token-3-12" morph="none" pos="word" start_char="515">39</TOKEN>
+<TOKEN end_char="518" id="token-3-13" morph="none" pos="punct" start_char="518">—</TOKEN>
+<TOKEN end_char="520" id="token-3-14" morph="none" pos="word" start_char="520">в</TOKEN>
+<TOKEN end_char="531" id="token-3-15" morph="none" pos="word" start_char="522">Калифорнии</TOKEN>
+<TOKEN end_char="532" id="token-3-16" morph="none" pos="punct" start_char="532">,</TOKEN>
+<TOKEN end_char="534" id="token-3-17" morph="none" pos="word" start_char="534">и</TOKEN>
+<TOKEN end_char="537" id="token-3-18" morph="none" pos="word" start_char="536">67</TOKEN>
+<TOKEN end_char="539" id="token-3-19" morph="none" pos="punct" start_char="539">—</TOKEN>
+<TOKEN end_char="541" id="token-3-20" morph="none" pos="word" start_char="541">в</TOKEN>
+<TOKEN end_char="554" id="token-3-21" morph="none" pos="word" start_char="543">Коннектикуте</TOKEN>
+<TOKEN end_char="555" id="token-3-22" morph="none" pos="punct" start_char="555">,</TOKEN>
+<TOKEN end_char="561" id="token-3-23" morph="none" pos="word" start_char="557">Айове</TOKEN>
+<TOKEN end_char="562" id="token-3-24" morph="none" pos="punct" start_char="562">,</TOKEN>
+<TOKEN end_char="575" id="token-3-25" morph="none" pos="word" start_char="564">Массачусетсе</TOKEN>
+<TOKEN end_char="576" id="token-3-26" morph="none" pos="punct" start_char="576">,</TOKEN>
+<TOKEN end_char="585" id="token-3-27" morph="none" pos="word" start_char="578">Мичигане</TOKEN>
+<TOKEN end_char="586" id="token-3-28" morph="none" pos="punct" start_char="586">,</TOKEN>
+<TOKEN end_char="598" id="token-3-29" morph="none" pos="unknown" start_char="588">Род-Айленде</TOKEN>
+<TOKEN end_char="600" id="token-3-30" morph="none" pos="word" start_char="600">и</TOKEN>
+<TOKEN end_char="611" id="token-3-31" morph="none" pos="word" start_char="602">Висконсине</TOKEN>
+<TOKEN end_char="612" id="token-3-32" morph="none" pos="punct" start_char="612">.</TOKEN>
+<TRANSLATED_TEXT>Of these, 106 tested positive for SARS-CoV-2 antibodies: 39 in California, and 67 in Connecticut, Iowa, Massachusetts, Michigan, Rhode Island, and Wisconsin.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="723" id="segment-4" start_char="615">
+<ORIGINAL_TEXT>Результаты этого отчета предполагают, что инфекция SARS-CoV-2 могла присутствовать в США в декабре 2019 года.</ORIGINAL_TEXT>
+<TOKEN end_char="624" id="token-4-0" morph="none" pos="word" start_char="615">Результаты</TOKEN>
+<TOKEN end_char="630" id="token-4-1" morph="none" pos="word" start_char="626">этого</TOKEN>
+<TOKEN end_char="637" id="token-4-2" morph="none" pos="word" start_char="632">отчета</TOKEN>
+<TOKEN end_char="650" id="token-4-3" morph="none" pos="word" start_char="639">предполагают</TOKEN>
+<TOKEN end_char="651" id="token-4-4" morph="none" pos="punct" start_char="651">,</TOKEN>
+<TOKEN end_char="655" id="token-4-5" morph="none" pos="word" start_char="653">что</TOKEN>
+<TOKEN end_char="664" id="token-4-6" morph="none" pos="word" start_char="657">инфекция</TOKEN>
+<TOKEN end_char="675" id="token-4-7" morph="none" pos="unknown" start_char="666">SARS-CoV-2</TOKEN>
+<TOKEN end_char="681" id="token-4-8" morph="none" pos="word" start_char="677">могла</TOKEN>
+<TOKEN end_char="696" id="token-4-9" morph="none" pos="word" start_char="683">присутствовать</TOKEN>
+<TOKEN end_char="698" id="token-4-10" morph="none" pos="word" start_char="698">в</TOKEN>
+<TOKEN end_char="702" id="token-4-11" morph="none" pos="word" start_char="700">США</TOKEN>
+<TOKEN end_char="704" id="token-4-12" morph="none" pos="word" start_char="704">в</TOKEN>
+<TOKEN end_char="712" id="token-4-13" morph="none" pos="word" start_char="706">декабре</TOKEN>
+<TOKEN end_char="717" id="token-4-14" morph="none" pos="word" start_char="714">2019</TOKEN>
+<TOKEN end_char="722" id="token-4-15" morph="none" pos="word" start_char="719">года</TOKEN>
+<TOKEN end_char="723" id="token-4-16" morph="none" pos="punct" start_char="723">.</TOKEN>
+<TRANSLATED_TEXT>The results of this report suggest that SARS-CoV-2 infection may have been present in the United States in December 2019.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="755" id="segment-5" start_char="725">
+<ORIGINAL_TEXT>Это раньше, чем предполагалось.</ORIGINAL_TEXT>
+<TOKEN end_char="727" id="token-5-0" morph="none" pos="word" start_char="725">Это</TOKEN>
+<TOKEN end_char="734" id="token-5-1" morph="none" pos="word" start_char="729">раньше</TOKEN>
+<TOKEN end_char="735" id="token-5-2" morph="none" pos="punct" start_char="735">,</TOKEN>
+<TOKEN end_char="739" id="token-5-3" morph="none" pos="word" start_char="737">чем</TOKEN>
+<TOKEN end_char="754" id="token-5-4" morph="none" pos="word" start_char="741">предполагалось</TOKEN>
+<TOKEN end_char="755" id="token-5-5" morph="none" pos="punct" start_char="755">.</TOKEN>
+<TRANSLATED_TEXT>This is earlier than expected.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="932" id="segment-6" start_char="759">
+<ORIGINAL_TEXT>Даже если учитывать процент вероятности ложноположительных тестов, то все равно можно утверждать, что к началу декабря вирус уже находился на территории США, отмечают ученые.</ORIGINAL_TEXT>
+<TOKEN end_char="762" id="token-6-0" morph="none" pos="word" start_char="759">Даже</TOKEN>
+<TOKEN end_char="767" id="token-6-1" morph="none" pos="word" start_char="764">если</TOKEN>
+<TOKEN end_char="777" id="token-6-2" morph="none" pos="word" start_char="769">учитывать</TOKEN>
+<TOKEN end_char="785" id="token-6-3" morph="none" pos="word" start_char="779">процент</TOKEN>
+<TOKEN end_char="797" id="token-6-4" morph="none" pos="word" start_char="787">вероятности</TOKEN>
+<TOKEN end_char="816" id="token-6-5" morph="none" pos="word" start_char="799">ложноположительных</TOKEN>
+<TOKEN end_char="823" id="token-6-6" morph="none" pos="word" start_char="818">тестов</TOKEN>
+<TOKEN end_char="824" id="token-6-7" morph="none" pos="punct" start_char="824">,</TOKEN>
+<TOKEN end_char="827" id="token-6-8" morph="none" pos="word" start_char="826">то</TOKEN>
+<TOKEN end_char="831" id="token-6-9" morph="none" pos="word" start_char="829">все</TOKEN>
+<TOKEN end_char="837" id="token-6-10" morph="none" pos="word" start_char="833">равно</TOKEN>
+<TOKEN end_char="843" id="token-6-11" morph="none" pos="word" start_char="839">можно</TOKEN>
+<TOKEN end_char="854" id="token-6-12" morph="none" pos="word" start_char="845">утверждать</TOKEN>
+<TOKEN end_char="855" id="token-6-13" morph="none" pos="punct" start_char="855">,</TOKEN>
+<TOKEN end_char="859" id="token-6-14" morph="none" pos="word" start_char="857">что</TOKEN>
+<TOKEN end_char="861" id="token-6-15" morph="none" pos="word" start_char="861">к</TOKEN>
+<TOKEN end_char="868" id="token-6-16" morph="none" pos="word" start_char="863">началу</TOKEN>
+<TOKEN end_char="876" id="token-6-17" morph="none" pos="word" start_char="870">декабря</TOKEN>
+<TOKEN end_char="882" id="token-6-18" morph="none" pos="word" start_char="878">вирус</TOKEN>
+<TOKEN end_char="886" id="token-6-19" morph="none" pos="word" start_char="884">уже</TOKEN>
+<TOKEN end_char="896" id="token-6-20" morph="none" pos="word" start_char="888">находился</TOKEN>
+<TOKEN end_char="899" id="token-6-21" morph="none" pos="word" start_char="898">на</TOKEN>
+<TOKEN end_char="910" id="token-6-22" morph="none" pos="word" start_char="901">территории</TOKEN>
+<TOKEN end_char="914" id="token-6-23" morph="none" pos="word" start_char="912">США</TOKEN>
+<TOKEN end_char="915" id="token-6-24" morph="none" pos="punct" start_char="915">,</TOKEN>
+<TOKEN end_char="924" id="token-6-25" morph="none" pos="word" start_char="917">отмечают</TOKEN>
+<TOKEN end_char="931" id="token-6-26" morph="none" pos="word" start_char="926">ученые</TOKEN>
+<TOKEN end_char="932" id="token-6-27" morph="none" pos="punct" start_char="932">.</TOKEN>
+<TRANSLATED_TEXT>Even taking into account the probability of false positive tests, it can still be argued that the virus was already in the US by early December, scientists note.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1031" id="segment-7" start_char="935">
+<ORIGINAL_TEXT>По мнению вирусологов, наличие антител говорит о том, что донор ранее проконтактировал с вирусом.</ORIGINAL_TEXT>
+<TOKEN end_char="936" id="token-7-0" morph="none" pos="word" start_char="935">По</TOKEN>
+<TOKEN end_char="943" id="token-7-1" morph="none" pos="word" start_char="938">мнению</TOKEN>
+<TOKEN end_char="955" id="token-7-2" morph="none" pos="word" start_char="945">вирусологов</TOKEN>
+<TOKEN end_char="956" id="token-7-3" morph="none" pos="punct" start_char="956">,</TOKEN>
+<TOKEN end_char="964" id="token-7-4" morph="none" pos="word" start_char="958">наличие</TOKEN>
+<TOKEN end_char="972" id="token-7-5" morph="none" pos="word" start_char="966">антител</TOKEN>
+<TOKEN end_char="980" id="token-7-6" morph="none" pos="word" start_char="974">говорит</TOKEN>
+<TOKEN end_char="982" id="token-7-7" morph="none" pos="word" start_char="982">о</TOKEN>
+<TOKEN end_char="986" id="token-7-8" morph="none" pos="word" start_char="984">том</TOKEN>
+<TOKEN end_char="987" id="token-7-9" morph="none" pos="punct" start_char="987">,</TOKEN>
+<TOKEN end_char="991" id="token-7-10" morph="none" pos="word" start_char="989">что</TOKEN>
+<TOKEN end_char="997" id="token-7-11" morph="none" pos="word" start_char="993">донор</TOKEN>
+<TOKEN end_char="1003" id="token-7-12" morph="none" pos="word" start_char="999">ранее</TOKEN>
+<TOKEN end_char="1020" id="token-7-13" morph="none" pos="word" start_char="1005">проконтактировал</TOKEN>
+<TOKEN end_char="1022" id="token-7-14" morph="none" pos="word" start_char="1022">с</TOKEN>
+<TOKEN end_char="1030" id="token-7-15" morph="none" pos="word" start_char="1024">вирусом</TOKEN>
+<TOKEN end_char="1031" id="token-7-16" morph="none" pos="punct" start_char="1031">.</TOKEN>
+<TRANSLATED_TEXT>The presence of antibodies suggests that the donor had previously been in contact with the virus.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1218" id="segment-8" start_char="1033">
+<ORIGINAL_TEXT>Теперь исследователи планируют связаться с людьми, у которых были найдены антитела, чтобы выяснить, путешествовали ли они в конце 2019 года и испытывали ли симптомы, похожие на COVID-19.</ORIGINAL_TEXT>
+<TOKEN end_char="1038" id="token-8-0" morph="none" pos="word" start_char="1033">Теперь</TOKEN>
+<TOKEN end_char="1052" id="token-8-1" morph="none" pos="word" start_char="1040">исследователи</TOKEN>
+<TOKEN end_char="1062" id="token-8-2" morph="none" pos="word" start_char="1054">планируют</TOKEN>
+<TOKEN end_char="1072" id="token-8-3" morph="none" pos="word" start_char="1064">связаться</TOKEN>
+<TOKEN end_char="1074" id="token-8-4" morph="none" pos="word" start_char="1074">с</TOKEN>
+<TOKEN end_char="1081" id="token-8-5" morph="none" pos="word" start_char="1076">людьми</TOKEN>
+<TOKEN end_char="1082" id="token-8-6" morph="none" pos="punct" start_char="1082">,</TOKEN>
+<TOKEN end_char="1084" id="token-8-7" morph="none" pos="word" start_char="1084">у</TOKEN>
+<TOKEN end_char="1092" id="token-8-8" morph="none" pos="word" start_char="1086">которых</TOKEN>
+<TOKEN end_char="1097" id="token-8-9" morph="none" pos="word" start_char="1094">были</TOKEN>
+<TOKEN end_char="1105" id="token-8-10" morph="none" pos="word" start_char="1099">найдены</TOKEN>
+<TOKEN end_char="1114" id="token-8-11" morph="none" pos="word" start_char="1107">антитела</TOKEN>
+<TOKEN end_char="1115" id="token-8-12" morph="none" pos="punct" start_char="1115">,</TOKEN>
+<TOKEN end_char="1121" id="token-8-13" morph="none" pos="word" start_char="1117">чтобы</TOKEN>
+<TOKEN end_char="1130" id="token-8-14" morph="none" pos="word" start_char="1123">выяснить</TOKEN>
+<TOKEN end_char="1131" id="token-8-15" morph="none" pos="punct" start_char="1131">,</TOKEN>
+<TOKEN end_char="1146" id="token-8-16" morph="none" pos="word" start_char="1133">путешествовали</TOKEN>
+<TOKEN end_char="1149" id="token-8-17" morph="none" pos="word" start_char="1148">ли</TOKEN>
+<TOKEN end_char="1153" id="token-8-18" morph="none" pos="word" start_char="1151">они</TOKEN>
+<TOKEN end_char="1155" id="token-8-19" morph="none" pos="word" start_char="1155">в</TOKEN>
+<TOKEN end_char="1161" id="token-8-20" morph="none" pos="word" start_char="1157">конце</TOKEN>
+<TOKEN end_char="1166" id="token-8-21" morph="none" pos="word" start_char="1163">2019</TOKEN>
+<TOKEN end_char="1171" id="token-8-22" morph="none" pos="word" start_char="1168">года</TOKEN>
+<TOKEN end_char="1173" id="token-8-23" morph="none" pos="word" start_char="1173">и</TOKEN>
+<TOKEN end_char="1184" id="token-8-24" morph="none" pos="word" start_char="1175">испытывали</TOKEN>
+<TOKEN end_char="1187" id="token-8-25" morph="none" pos="word" start_char="1186">ли</TOKEN>
+<TOKEN end_char="1196" id="token-8-26" morph="none" pos="word" start_char="1189">симптомы</TOKEN>
+<TOKEN end_char="1197" id="token-8-27" morph="none" pos="punct" start_char="1197">,</TOKEN>
+<TOKEN end_char="1205" id="token-8-28" morph="none" pos="word" start_char="1199">похожие</TOKEN>
+<TOKEN end_char="1208" id="token-8-29" morph="none" pos="word" start_char="1207">на</TOKEN>
+<TOKEN end_char="1217" id="token-8-30" morph="none" pos="unknown" start_char="1210">COVID-19</TOKEN>
+<TOKEN end_char="1218" id="token-8-31" morph="none" pos="punct" start_char="1218">.</TOKEN>
+<TRANSLATED_TEXT>Researchers now plan to contact people who have been found to have antibodies to determine if they traveled in late 2019 and experienced symptoms similar to COVID-19.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1325" id="segment-9" start_char="1221">
+<ORIGINAL_TEXT>Отмечается, что наличие антител у человека из США, возможно, говорит о том, он недавно вернулся из Китая.</ORIGINAL_TEXT>
+<TOKEN end_char="1230" id="token-9-0" morph="none" pos="word" start_char="1221">Отмечается</TOKEN>
+<TOKEN end_char="1231" id="token-9-1" morph="none" pos="punct" start_char="1231">,</TOKEN>
+<TOKEN end_char="1235" id="token-9-2" morph="none" pos="word" start_char="1233">что</TOKEN>
+<TOKEN end_char="1243" id="token-9-3" morph="none" pos="word" start_char="1237">наличие</TOKEN>
+<TOKEN end_char="1251" id="token-9-4" morph="none" pos="word" start_char="1245">антител</TOKEN>
+<TOKEN end_char="1253" id="token-9-5" morph="none" pos="word" start_char="1253">у</TOKEN>
+<TOKEN end_char="1262" id="token-9-6" morph="none" pos="word" start_char="1255">человека</TOKEN>
+<TOKEN end_char="1265" id="token-9-7" morph="none" pos="word" start_char="1264">из</TOKEN>
+<TOKEN end_char="1269" id="token-9-8" morph="none" pos="word" start_char="1267">США</TOKEN>
+<TOKEN end_char="1270" id="token-9-9" morph="none" pos="punct" start_char="1270">,</TOKEN>
+<TOKEN end_char="1279" id="token-9-10" morph="none" pos="word" start_char="1272">возможно</TOKEN>
+<TOKEN end_char="1280" id="token-9-11" morph="none" pos="punct" start_char="1280">,</TOKEN>
+<TOKEN end_char="1288" id="token-9-12" morph="none" pos="word" start_char="1282">говорит</TOKEN>
+<TOKEN end_char="1290" id="token-9-13" morph="none" pos="word" start_char="1290">о</TOKEN>
+<TOKEN end_char="1294" id="token-9-14" morph="none" pos="word" start_char="1292">том</TOKEN>
+<TOKEN end_char="1295" id="token-9-15" morph="none" pos="punct" start_char="1295">,</TOKEN>
+<TOKEN end_char="1298" id="token-9-16" morph="none" pos="word" start_char="1297">он</TOKEN>
+<TOKEN end_char="1306" id="token-9-17" morph="none" pos="word" start_char="1300">недавно</TOKEN>
+<TOKEN end_char="1315" id="token-9-18" morph="none" pos="word" start_char="1308">вернулся</TOKEN>
+<TOKEN end_char="1318" id="token-9-19" morph="none" pos="word" start_char="1317">из</TOKEN>
+<TOKEN end_char="1324" id="token-9-20" morph="none" pos="word" start_char="1320">Китая</TOKEN>
+<TOKEN end_char="1325" id="token-9-21" morph="none" pos="punct" start_char="1325">.</TOKEN>
+<TRANSLATED_TEXT>It has been suggested that the presence of antibodies in a person from the United States may indicate that he recently returned from China.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1399" id="segment-10" start_char="1327">
+<ORIGINAL_TEXT>Существуют данные, что вирус циркулировал в Китае еще в ноябре 2019 года.</ORIGINAL_TEXT>
+<TOKEN end_char="1336" id="token-10-0" morph="none" pos="word" start_char="1327">Существуют</TOKEN>
+<TOKEN end_char="1343" id="token-10-1" morph="none" pos="word" start_char="1338">данные</TOKEN>
+<TOKEN end_char="1344" id="token-10-2" morph="none" pos="punct" start_char="1344">,</TOKEN>
+<TOKEN end_char="1348" id="token-10-3" morph="none" pos="word" start_char="1346">что</TOKEN>
+<TOKEN end_char="1354" id="token-10-4" morph="none" pos="word" start_char="1350">вирус</TOKEN>
+<TOKEN end_char="1367" id="token-10-5" morph="none" pos="word" start_char="1356">циркулировал</TOKEN>
+<TOKEN end_char="1369" id="token-10-6" morph="none" pos="word" start_char="1369">в</TOKEN>
+<TOKEN end_char="1375" id="token-10-7" morph="none" pos="word" start_char="1371">Китае</TOKEN>
+<TOKEN end_char="1379" id="token-10-8" morph="none" pos="word" start_char="1377">еще</TOKEN>
+<TOKEN end_char="1381" id="token-10-9" morph="none" pos="word" start_char="1381">в</TOKEN>
+<TOKEN end_char="1388" id="token-10-10" morph="none" pos="word" start_char="1383">ноябре</TOKEN>
+<TOKEN end_char="1393" id="token-10-11" morph="none" pos="word" start_char="1390">2019</TOKEN>
+<TOKEN end_char="1398" id="token-10-12" morph="none" pos="word" start_char="1395">года</TOKEN>
+<TOKEN end_char="1399" id="token-10-13" morph="none" pos="punct" start_char="1399">.</TOKEN>
+<TRANSLATED_TEXT>It has been reported that the virus has been circulating in China since November 2019.........</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1413" id="segment-11" start_char="1402">
+<ORIGINAL_TEXT>Читать также</ORIGINAL_TEXT>
+<TOKEN end_char="1407" id="token-11-0" morph="none" pos="word" start_char="1402">Читать</TOKEN>
+<TOKEN end_char="1413" id="token-11-1" morph="none" pos="word" start_char="1409">также</TOKEN>
+<TRANSLATED_TEXT>Read also</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

@@ -1,0 +1,1113 @@
+<LCTL_TEXT lang="spa">
+<DOC grammar="none" id="L0C0495AQ" lang="spa" raw_text_char_length="5099" raw_text_md5="d6b4b60e02435b24e97728e24f5ace35" tokenization="tokenization_parameters.v5.0">
+<TEXT>
+<SEG end_char="36" id="segment-0" start_char="1">
+<ORIGINAL_TEXT>Can Vitamin C Treat the Coronavirus?</ORIGINAL_TEXT>
+<TOKEN end_char="3" id="token-0-0" morph="none" pos="word" start_char="1">Can</TOKEN>
+<TOKEN end_char="11" id="token-0-1" morph="none" pos="word" start_char="5">Vitamin</TOKEN>
+<TOKEN end_char="13" id="token-0-2" morph="none" pos="word" start_char="13">C</TOKEN>
+<TOKEN end_char="19" id="token-0-3" morph="none" pos="word" start_char="15">Treat</TOKEN>
+<TOKEN end_char="23" id="token-0-4" morph="none" pos="word" start_char="21">the</TOKEN>
+<TOKEN end_char="35" id="token-0-5" morph="none" pos="word" start_char="25">Coronavirus</TOKEN>
+<TOKEN end_char="36" id="token-0-6" morph="none" pos="punct" start_char="36">?</TOKEN>
+</SEG>
+<SEG end_char="42" id="segment-1" start_char="40">
+<ORIGINAL_TEXT>No.</ORIGINAL_TEXT>
+<TOKEN end_char="41" id="token-1-0" morph="none" pos="word" start_char="40">No</TOKEN>
+<TOKEN end_char="42" id="token-1-1" morph="none" pos="punct" start_char="42">.</TOKEN>
+<TRANSLATED_TEXT>No...</TRANSLATED_TEXT><DETECTED_LANGUAGE>pt</DETECTED_LANGUAGE></SEG>
+<SEG end_char="131" id="segment-2" start_char="45">
+<ORIGINAL_TEXT>At this time, there is no evidence that Vitamin C can prevent or treat the Coronavirus.</ORIGINAL_TEXT>
+<TOKEN end_char="46" id="token-2-0" morph="none" pos="word" start_char="45">At</TOKEN>
+<TOKEN end_char="51" id="token-2-1" morph="none" pos="word" start_char="48">this</TOKEN>
+<TOKEN end_char="56" id="token-2-2" morph="none" pos="word" start_char="53">time</TOKEN>
+<TOKEN end_char="57" id="token-2-3" morph="none" pos="punct" start_char="57">,</TOKEN>
+<TOKEN end_char="63" id="token-2-4" morph="none" pos="word" start_char="59">there</TOKEN>
+<TOKEN end_char="66" id="token-2-5" morph="none" pos="word" start_char="65">is</TOKEN>
+<TOKEN end_char="69" id="token-2-6" morph="none" pos="word" start_char="68">no</TOKEN>
+<TOKEN end_char="78" id="token-2-7" morph="none" pos="word" start_char="71">evidence</TOKEN>
+<TOKEN end_char="83" id="token-2-8" morph="none" pos="word" start_char="80">that</TOKEN>
+<TOKEN end_char="91" id="token-2-9" morph="none" pos="word" start_char="85">Vitamin</TOKEN>
+<TOKEN end_char="93" id="token-2-10" morph="none" pos="word" start_char="93">C</TOKEN>
+<TOKEN end_char="97" id="token-2-11" morph="none" pos="word" start_char="95">can</TOKEN>
+<TOKEN end_char="105" id="token-2-12" morph="none" pos="word" start_char="99">prevent</TOKEN>
+<TOKEN end_char="108" id="token-2-13" morph="none" pos="word" start_char="107">or</TOKEN>
+<TOKEN end_char="114" id="token-2-14" morph="none" pos="word" start_char="110">treat</TOKEN>
+<TOKEN end_char="118" id="token-2-15" morph="none" pos="word" start_char="116">the</TOKEN>
+<TOKEN end_char="130" id="token-2-16" morph="none" pos="word" start_char="120">Coronavirus</TOKEN>
+<TOKEN end_char="131" id="token-2-17" morph="none" pos="punct" start_char="131">.</TOKEN>
+</SEG>
+<SEG end_char="220" id="segment-3" start_char="134">
+<ORIGINAL_TEXT>In late March, I began to receive an uptick in questions about vitamin supplementation.</ORIGINAL_TEXT>
+<TOKEN end_char="135" id="token-3-0" morph="none" pos="word" start_char="134">In</TOKEN>
+<TOKEN end_char="140" id="token-3-1" morph="none" pos="word" start_char="137">late</TOKEN>
+<TOKEN end_char="146" id="token-3-2" morph="none" pos="word" start_char="142">March</TOKEN>
+<TOKEN end_char="147" id="token-3-3" morph="none" pos="punct" start_char="147">,</TOKEN>
+<TOKEN end_char="149" id="token-3-4" morph="none" pos="word" start_char="149">I</TOKEN>
+<TOKEN end_char="155" id="token-3-5" morph="none" pos="word" start_char="151">began</TOKEN>
+<TOKEN end_char="158" id="token-3-6" morph="none" pos="word" start_char="157">to</TOKEN>
+<TOKEN end_char="166" id="token-3-7" morph="none" pos="word" start_char="160">receive</TOKEN>
+<TOKEN end_char="169" id="token-3-8" morph="none" pos="word" start_char="168">an</TOKEN>
+<TOKEN end_char="176" id="token-3-9" morph="none" pos="word" start_char="171">uptick</TOKEN>
+<TOKEN end_char="179" id="token-3-10" morph="none" pos="word" start_char="178">in</TOKEN>
+<TOKEN end_char="189" id="token-3-11" morph="none" pos="word" start_char="181">questions</TOKEN>
+<TOKEN end_char="195" id="token-3-12" morph="none" pos="word" start_char="191">about</TOKEN>
+<TOKEN end_char="203" id="token-3-13" morph="none" pos="word" start_char="197">vitamin</TOKEN>
+<TOKEN end_char="219" id="token-3-14" morph="none" pos="word" start_char="205">supplementation</TOKEN>
+<TOKEN end_char="220" id="token-3-15" morph="none" pos="punct" start_char="220">.</TOKEN>
+</SEG>
+<SEG end_char="319" id="segment-4" start_char="222">
+<ORIGINAL_TEXT>There is little to no evidence that high doses of vitamin C will prevent or treat the Coronavirus.</ORIGINAL_TEXT>
+<TOKEN end_char="226" id="token-4-0" morph="none" pos="word" start_char="222">There</TOKEN>
+<TOKEN end_char="229" id="token-4-1" morph="none" pos="word" start_char="228">is</TOKEN>
+<TOKEN end_char="236" id="token-4-2" morph="none" pos="word" start_char="231">little</TOKEN>
+<TOKEN end_char="239" id="token-4-3" morph="none" pos="word" start_char="238">to</TOKEN>
+<TOKEN end_char="242" id="token-4-4" morph="none" pos="word" start_char="241">no</TOKEN>
+<TOKEN end_char="251" id="token-4-5" morph="none" pos="word" start_char="244">evidence</TOKEN>
+<TOKEN end_char="256" id="token-4-6" morph="none" pos="word" start_char="253">that</TOKEN>
+<TOKEN end_char="261" id="token-4-7" morph="none" pos="word" start_char="258">high</TOKEN>
+<TOKEN end_char="267" id="token-4-8" morph="none" pos="word" start_char="263">doses</TOKEN>
+<TOKEN end_char="270" id="token-4-9" morph="none" pos="word" start_char="269">of</TOKEN>
+<TOKEN end_char="278" id="token-4-10" morph="none" pos="word" start_char="272">vitamin</TOKEN>
+<TOKEN end_char="280" id="token-4-11" morph="none" pos="word" start_char="280">C</TOKEN>
+<TOKEN end_char="285" id="token-4-12" morph="none" pos="word" start_char="282">will</TOKEN>
+<TOKEN end_char="293" id="token-4-13" morph="none" pos="word" start_char="287">prevent</TOKEN>
+<TOKEN end_char="296" id="token-4-14" morph="none" pos="word" start_char="295">or</TOKEN>
+<TOKEN end_char="302" id="token-4-15" morph="none" pos="word" start_char="298">treat</TOKEN>
+<TOKEN end_char="306" id="token-4-16" morph="none" pos="word" start_char="304">the</TOKEN>
+<TOKEN end_char="318" id="token-4-17" morph="none" pos="word" start_char="308">Coronavirus</TOKEN>
+<TOKEN end_char="319" id="token-4-18" morph="none" pos="punct" start_char="319">.</TOKEN>
+</SEG>
+<SEG end_char="435" id="segment-5" start_char="321">
+<ORIGINAL_TEXT>But some people have been recommending these supplements as a panacea for all viruses and all seasonal afflictions.</ORIGINAL_TEXT>
+<TOKEN end_char="323" id="token-5-0" morph="none" pos="word" start_char="321">But</TOKEN>
+<TOKEN end_char="328" id="token-5-1" morph="none" pos="word" start_char="325">some</TOKEN>
+<TOKEN end_char="335" id="token-5-2" morph="none" pos="word" start_char="330">people</TOKEN>
+<TOKEN end_char="340" id="token-5-3" morph="none" pos="word" start_char="337">have</TOKEN>
+<TOKEN end_char="345" id="token-5-4" morph="none" pos="word" start_char="342">been</TOKEN>
+<TOKEN end_char="358" id="token-5-5" morph="none" pos="word" start_char="347">recommending</TOKEN>
+<TOKEN end_char="364" id="token-5-6" morph="none" pos="word" start_char="360">these</TOKEN>
+<TOKEN end_char="376" id="token-5-7" morph="none" pos="word" start_char="366">supplements</TOKEN>
+<TOKEN end_char="379" id="token-5-8" morph="none" pos="word" start_char="378">as</TOKEN>
+<TOKEN end_char="381" id="token-5-9" morph="none" pos="word" start_char="381">a</TOKEN>
+<TOKEN end_char="389" id="token-5-10" morph="none" pos="word" start_char="383">panacea</TOKEN>
+<TOKEN end_char="393" id="token-5-11" morph="none" pos="word" start_char="391">for</TOKEN>
+<TOKEN end_char="397" id="token-5-12" morph="none" pos="word" start_char="395">all</TOKEN>
+<TOKEN end_char="405" id="token-5-13" morph="none" pos="word" start_char="399">viruses</TOKEN>
+<TOKEN end_char="409" id="token-5-14" morph="none" pos="word" start_char="407">and</TOKEN>
+<TOKEN end_char="413" id="token-5-15" morph="none" pos="word" start_char="411">all</TOKEN>
+<TOKEN end_char="422" id="token-5-16" morph="none" pos="word" start_char="415">seasonal</TOKEN>
+<TOKEN end_char="434" id="token-5-17" morph="none" pos="word" start_char="424">afflictions</TOKEN>
+<TOKEN end_char="435" id="token-5-18" morph="none" pos="punct" start_char="435">.</TOKEN>
+</SEG>
+<SEG end_char="539" id="segment-6" start_char="437">
+<ORIGINAL_TEXT>There’s also been a few social media posts promoting vitamin supplementation as a cure for Coronavirus.</ORIGINAL_TEXT>
+<TOKEN end_char="443" id="token-6-0" morph="none" pos="word" start_char="437">There’s</TOKEN>
+<TOKEN end_char="448" id="token-6-1" morph="none" pos="word" start_char="445">also</TOKEN>
+<TOKEN end_char="453" id="token-6-2" morph="none" pos="word" start_char="450">been</TOKEN>
+<TOKEN end_char="455" id="token-6-3" morph="none" pos="word" start_char="455">a</TOKEN>
+<TOKEN end_char="459" id="token-6-4" morph="none" pos="word" start_char="457">few</TOKEN>
+<TOKEN end_char="466" id="token-6-5" morph="none" pos="word" start_char="461">social</TOKEN>
+<TOKEN end_char="472" id="token-6-6" morph="none" pos="word" start_char="468">media</TOKEN>
+<TOKEN end_char="478" id="token-6-7" morph="none" pos="word" start_char="474">posts</TOKEN>
+<TOKEN end_char="488" id="token-6-8" morph="none" pos="word" start_char="480">promoting</TOKEN>
+<TOKEN end_char="496" id="token-6-9" morph="none" pos="word" start_char="490">vitamin</TOKEN>
+<TOKEN end_char="512" id="token-6-10" morph="none" pos="word" start_char="498">supplementation</TOKEN>
+<TOKEN end_char="515" id="token-6-11" morph="none" pos="word" start_char="514">as</TOKEN>
+<TOKEN end_char="517" id="token-6-12" morph="none" pos="word" start_char="517">a</TOKEN>
+<TOKEN end_char="522" id="token-6-13" morph="none" pos="word" start_char="519">cure</TOKEN>
+<TOKEN end_char="526" id="token-6-14" morph="none" pos="word" start_char="524">for</TOKEN>
+<TOKEN end_char="538" id="token-6-15" morph="none" pos="word" start_char="528">Coronavirus</TOKEN>
+<TOKEN end_char="539" id="token-6-16" morph="none" pos="punct" start_char="539">.</TOKEN>
+</SEG>
+<SEG end_char="621" id="segment-7" start_char="541">
+<ORIGINAL_TEXT>In this blog post, I aim to set the record straight on vitamin C and Coronavirus.</ORIGINAL_TEXT>
+<TOKEN end_char="542" id="token-7-0" morph="none" pos="word" start_char="541">In</TOKEN>
+<TOKEN end_char="547" id="token-7-1" morph="none" pos="word" start_char="544">this</TOKEN>
+<TOKEN end_char="552" id="token-7-2" morph="none" pos="word" start_char="549">blog</TOKEN>
+<TOKEN end_char="557" id="token-7-3" morph="none" pos="word" start_char="554">post</TOKEN>
+<TOKEN end_char="558" id="token-7-4" morph="none" pos="punct" start_char="558">,</TOKEN>
+<TOKEN end_char="560" id="token-7-5" morph="none" pos="word" start_char="560">I</TOKEN>
+<TOKEN end_char="564" id="token-7-6" morph="none" pos="word" start_char="562">aim</TOKEN>
+<TOKEN end_char="567" id="token-7-7" morph="none" pos="word" start_char="566">to</TOKEN>
+<TOKEN end_char="571" id="token-7-8" morph="none" pos="word" start_char="569">set</TOKEN>
+<TOKEN end_char="575" id="token-7-9" morph="none" pos="word" start_char="573">the</TOKEN>
+<TOKEN end_char="582" id="token-7-10" morph="none" pos="word" start_char="577">record</TOKEN>
+<TOKEN end_char="591" id="token-7-11" morph="none" pos="word" start_char="584">straight</TOKEN>
+<TOKEN end_char="594" id="token-7-12" morph="none" pos="word" start_char="593">on</TOKEN>
+<TOKEN end_char="602" id="token-7-13" morph="none" pos="word" start_char="596">vitamin</TOKEN>
+<TOKEN end_char="604" id="token-7-14" morph="none" pos="word" start_char="604">C</TOKEN>
+<TOKEN end_char="608" id="token-7-15" morph="none" pos="word" start_char="606">and</TOKEN>
+<TOKEN end_char="620" id="token-7-16" morph="none" pos="word" start_char="610">Coronavirus</TOKEN>
+<TOKEN end_char="621" id="token-7-17" morph="none" pos="punct" start_char="621">.</TOKEN>
+</SEG>
+<SEG end_char="641" id="segment-8" start_char="624">
+<ORIGINAL_TEXT>What is Vitamin C?</ORIGINAL_TEXT>
+<TOKEN end_char="627" id="token-8-0" morph="none" pos="word" start_char="624">What</TOKEN>
+<TOKEN end_char="630" id="token-8-1" morph="none" pos="word" start_char="629">is</TOKEN>
+<TOKEN end_char="638" id="token-8-2" morph="none" pos="word" start_char="632">Vitamin</TOKEN>
+<TOKEN end_char="640" id="token-8-3" morph="none" pos="word" start_char="640">C</TOKEN>
+<TOKEN end_char="641" id="token-8-4" morph="none" pos="punct" start_char="641">?</TOKEN>
+</SEG>
+<SEG end_char="789" id="segment-9" start_char="645">
+<ORIGINAL_TEXT>First of all, Vitamin C (ascorbic acid) is an essential nutrient as it supports normal growth and development and it helps your body absorb iron.</ORIGINAL_TEXT>
+<TOKEN end_char="649" id="token-9-0" morph="none" pos="word" start_char="645">First</TOKEN>
+<TOKEN end_char="652" id="token-9-1" morph="none" pos="word" start_char="651">of</TOKEN>
+<TOKEN end_char="656" id="token-9-2" morph="none" pos="word" start_char="654">all</TOKEN>
+<TOKEN end_char="657" id="token-9-3" morph="none" pos="punct" start_char="657">,</TOKEN>
+<TOKEN end_char="665" id="token-9-4" morph="none" pos="word" start_char="659">Vitamin</TOKEN>
+<TOKEN end_char="667" id="token-9-5" morph="none" pos="word" start_char="667">C</TOKEN>
+<TOKEN end_char="669" id="token-9-6" morph="none" pos="punct" start_char="669">(</TOKEN>
+<TOKEN end_char="677" id="token-9-7" morph="none" pos="word" start_char="670">ascorbic</TOKEN>
+<TOKEN end_char="682" id="token-9-8" morph="none" pos="word" start_char="679">acid</TOKEN>
+<TOKEN end_char="683" id="token-9-9" morph="none" pos="punct" start_char="683">)</TOKEN>
+<TOKEN end_char="686" id="token-9-10" morph="none" pos="word" start_char="685">is</TOKEN>
+<TOKEN end_char="689" id="token-9-11" morph="none" pos="word" start_char="688">an</TOKEN>
+<TOKEN end_char="699" id="token-9-12" morph="none" pos="word" start_char="691">essential</TOKEN>
+<TOKEN end_char="708" id="token-9-13" morph="none" pos="word" start_char="701">nutrient</TOKEN>
+<TOKEN end_char="711" id="token-9-14" morph="none" pos="word" start_char="710">as</TOKEN>
+<TOKEN end_char="714" id="token-9-15" morph="none" pos="word" start_char="713">it</TOKEN>
+<TOKEN end_char="723" id="token-9-16" morph="none" pos="word" start_char="716">supports</TOKEN>
+<TOKEN end_char="730" id="token-9-17" morph="none" pos="word" start_char="725">normal</TOKEN>
+<TOKEN end_char="737" id="token-9-18" morph="none" pos="word" start_char="732">growth</TOKEN>
+<TOKEN end_char="741" id="token-9-19" morph="none" pos="word" start_char="739">and</TOKEN>
+<TOKEN end_char="753" id="token-9-20" morph="none" pos="word" start_char="743">development</TOKEN>
+<TOKEN end_char="757" id="token-9-21" morph="none" pos="word" start_char="755">and</TOKEN>
+<TOKEN end_char="760" id="token-9-22" morph="none" pos="word" start_char="759">it</TOKEN>
+<TOKEN end_char="766" id="token-9-23" morph="none" pos="word" start_char="762">helps</TOKEN>
+<TOKEN end_char="771" id="token-9-24" morph="none" pos="word" start_char="768">your</TOKEN>
+<TOKEN end_char="776" id="token-9-25" morph="none" pos="word" start_char="773">body</TOKEN>
+<TOKEN end_char="783" id="token-9-26" morph="none" pos="word" start_char="778">absorb</TOKEN>
+<TOKEN end_char="788" id="token-9-27" morph="none" pos="word" start_char="785">iron</TOKEN>
+<TOKEN end_char="789" id="token-9-28" morph="none" pos="punct" start_char="789">.</TOKEN>
+</SEG>
+<SEG end_char="903" id="segment-10" start_char="791">
+<ORIGINAL_TEXT>Your body doesn’t produce or store vitamin C, so it’s important to get enough vitamin C by eating a healthy diet.</ORIGINAL_TEXT>
+<TOKEN end_char="794" id="token-10-0" morph="none" pos="word" start_char="791">Your</TOKEN>
+<TOKEN end_char="799" id="token-10-1" morph="none" pos="word" start_char="796">body</TOKEN>
+<TOKEN end_char="807" id="token-10-2" morph="none" pos="word" start_char="801">doesn’t</TOKEN>
+<TOKEN end_char="815" id="token-10-3" morph="none" pos="word" start_char="809">produce</TOKEN>
+<TOKEN end_char="818" id="token-10-4" morph="none" pos="word" start_char="817">or</TOKEN>
+<TOKEN end_char="824" id="token-10-5" morph="none" pos="word" start_char="820">store</TOKEN>
+<TOKEN end_char="832" id="token-10-6" morph="none" pos="word" start_char="826">vitamin</TOKEN>
+<TOKEN end_char="834" id="token-10-7" morph="none" pos="word" start_char="834">C</TOKEN>
+<TOKEN end_char="835" id="token-10-8" morph="none" pos="punct" start_char="835">,</TOKEN>
+<TOKEN end_char="838" id="token-10-9" morph="none" pos="word" start_char="837">so</TOKEN>
+<TOKEN end_char="843" id="token-10-10" morph="none" pos="word" start_char="840">it’s</TOKEN>
+<TOKEN end_char="853" id="token-10-11" morph="none" pos="word" start_char="845">important</TOKEN>
+<TOKEN end_char="856" id="token-10-12" morph="none" pos="word" start_char="855">to</TOKEN>
+<TOKEN end_char="860" id="token-10-13" morph="none" pos="word" start_char="858">get</TOKEN>
+<TOKEN end_char="867" id="token-10-14" morph="none" pos="word" start_char="862">enough</TOKEN>
+<TOKEN end_char="875" id="token-10-15" morph="none" pos="word" start_char="869">vitamin</TOKEN>
+<TOKEN end_char="877" id="token-10-16" morph="none" pos="word" start_char="877">C</TOKEN>
+<TOKEN end_char="880" id="token-10-17" morph="none" pos="word" start_char="879">by</TOKEN>
+<TOKEN end_char="887" id="token-10-18" morph="none" pos="word" start_char="882">eating</TOKEN>
+<TOKEN end_char="889" id="token-10-19" morph="none" pos="word" start_char="889">a</TOKEN>
+<TOKEN end_char="897" id="token-10-20" morph="none" pos="word" start_char="891">healthy</TOKEN>
+<TOKEN end_char="902" id="token-10-21" morph="none" pos="word" start_char="899">diet</TOKEN>
+<TOKEN end_char="903" id="token-10-22" morph="none" pos="punct" start_char="903">.</TOKEN>
+</SEG>
+<SEG end_char="1003" id="segment-11" start_char="906">
+<ORIGINAL_TEXT>Next, and according to the Mayo Clinic, the average adult needs 65 to 90 mg of vitamin C each day.</ORIGINAL_TEXT>
+<TOKEN end_char="909" id="token-11-0" morph="none" pos="word" start_char="906">Next</TOKEN>
+<TOKEN end_char="910" id="token-11-1" morph="none" pos="punct" start_char="910">,</TOKEN>
+<TOKEN end_char="914" id="token-11-2" morph="none" pos="word" start_char="912">and</TOKEN>
+<TOKEN end_char="924" id="token-11-3" morph="none" pos="word" start_char="916">according</TOKEN>
+<TOKEN end_char="927" id="token-11-4" morph="none" pos="word" start_char="926">to</TOKEN>
+<TOKEN end_char="931" id="token-11-5" morph="none" pos="word" start_char="929">the</TOKEN>
+<TOKEN end_char="936" id="token-11-6" morph="none" pos="word" start_char="933">Mayo</TOKEN>
+<TOKEN end_char="943" id="token-11-7" morph="none" pos="word" start_char="938">Clinic</TOKEN>
+<TOKEN end_char="944" id="token-11-8" morph="none" pos="punct" start_char="944">,</TOKEN>
+<TOKEN end_char="948" id="token-11-9" morph="none" pos="word" start_char="946">the</TOKEN>
+<TOKEN end_char="956" id="token-11-10" morph="none" pos="word" start_char="950">average</TOKEN>
+<TOKEN end_char="962" id="token-11-11" morph="none" pos="word" start_char="958">adult</TOKEN>
+<TOKEN end_char="968" id="token-11-12" morph="none" pos="word" start_char="964">needs</TOKEN>
+<TOKEN end_char="971" id="token-11-13" morph="none" pos="word" start_char="970">65</TOKEN>
+<TOKEN end_char="974" id="token-11-14" morph="none" pos="word" start_char="973">to</TOKEN>
+<TOKEN end_char="977" id="token-11-15" morph="none" pos="word" start_char="976">90</TOKEN>
+<TOKEN end_char="980" id="token-11-16" morph="none" pos="word" start_char="979">mg</TOKEN>
+<TOKEN end_char="983" id="token-11-17" morph="none" pos="word" start_char="982">of</TOKEN>
+<TOKEN end_char="991" id="token-11-18" morph="none" pos="word" start_char="985">vitamin</TOKEN>
+<TOKEN end_char="993" id="token-11-19" morph="none" pos="word" start_char="993">C</TOKEN>
+<TOKEN end_char="998" id="token-11-20" morph="none" pos="word" start_char="995">each</TOKEN>
+<TOKEN end_char="1002" id="token-11-21" morph="none" pos="word" start_char="1000">day</TOKEN>
+<TOKEN end_char="1003" id="token-11-22" morph="none" pos="punct" start_char="1003">.</TOKEN>
+</SEG>
+<SEG end_char="1079" id="segment-12" start_char="1005">
+<ORIGINAL_TEXT>Again, we can get enough vitamin C by eating a healthy, well-balanced diet.</ORIGINAL_TEXT>
+<TOKEN end_char="1009" id="token-12-0" morph="none" pos="word" start_char="1005">Again</TOKEN>
+<TOKEN end_char="1010" id="token-12-1" morph="none" pos="punct" start_char="1010">,</TOKEN>
+<TOKEN end_char="1013" id="token-12-2" morph="none" pos="word" start_char="1012">we</TOKEN>
+<TOKEN end_char="1017" id="token-12-3" morph="none" pos="word" start_char="1015">can</TOKEN>
+<TOKEN end_char="1021" id="token-12-4" morph="none" pos="word" start_char="1019">get</TOKEN>
+<TOKEN end_char="1028" id="token-12-5" morph="none" pos="word" start_char="1023">enough</TOKEN>
+<TOKEN end_char="1036" id="token-12-6" morph="none" pos="word" start_char="1030">vitamin</TOKEN>
+<TOKEN end_char="1038" id="token-12-7" morph="none" pos="word" start_char="1038">C</TOKEN>
+<TOKEN end_char="1041" id="token-12-8" morph="none" pos="word" start_char="1040">by</TOKEN>
+<TOKEN end_char="1048" id="token-12-9" morph="none" pos="word" start_char="1043">eating</TOKEN>
+<TOKEN end_char="1050" id="token-12-10" morph="none" pos="word" start_char="1050">a</TOKEN>
+<TOKEN end_char="1058" id="token-12-11" morph="none" pos="word" start_char="1052">healthy</TOKEN>
+<TOKEN end_char="1059" id="token-12-12" morph="none" pos="punct" start_char="1059">,</TOKEN>
+<TOKEN end_char="1073" id="token-12-13" morph="none" pos="unknown" start_char="1061">well-balanced</TOKEN>
+<TOKEN end_char="1078" id="token-12-14" morph="none" pos="word" start_char="1075">diet</TOKEN>
+<TOKEN end_char="1079" id="token-12-15" morph="none" pos="punct" start_char="1079">.</TOKEN>
+</SEG>
+<SEG end_char="1185" id="segment-13" start_char="1081">
+<ORIGINAL_TEXT>There’s 190 mg of vitamin C in a raw sweet red pepper and there’s 97.5 mg of vitamin C in a large orange.</ORIGINAL_TEXT>
+<TOKEN end_char="1087" id="token-13-0" morph="none" pos="word" start_char="1081">There’s</TOKEN>
+<TOKEN end_char="1091" id="token-13-1" morph="none" pos="word" start_char="1089">190</TOKEN>
+<TOKEN end_char="1094" id="token-13-2" morph="none" pos="word" start_char="1093">mg</TOKEN>
+<TOKEN end_char="1097" id="token-13-3" morph="none" pos="word" start_char="1096">of</TOKEN>
+<TOKEN end_char="1105" id="token-13-4" morph="none" pos="word" start_char="1099">vitamin</TOKEN>
+<TOKEN end_char="1107" id="token-13-5" morph="none" pos="word" start_char="1107">C</TOKEN>
+<TOKEN end_char="1110" id="token-13-6" morph="none" pos="word" start_char="1109">in</TOKEN>
+<TOKEN end_char="1112" id="token-13-7" morph="none" pos="word" start_char="1112">a</TOKEN>
+<TOKEN end_char="1116" id="token-13-8" morph="none" pos="word" start_char="1114">raw</TOKEN>
+<TOKEN end_char="1122" id="token-13-9" morph="none" pos="word" start_char="1118">sweet</TOKEN>
+<TOKEN end_char="1126" id="token-13-10" morph="none" pos="word" start_char="1124">red</TOKEN>
+<TOKEN end_char="1133" id="token-13-11" morph="none" pos="word" start_char="1128">pepper</TOKEN>
+<TOKEN end_char="1137" id="token-13-12" morph="none" pos="word" start_char="1135">and</TOKEN>
+<TOKEN end_char="1145" id="token-13-13" morph="none" pos="word" start_char="1139">there’s</TOKEN>
+<TOKEN end_char="1150" id="token-13-14" morph="none" pos="word" start_char="1147">97.5</TOKEN>
+<TOKEN end_char="1153" id="token-13-15" morph="none" pos="word" start_char="1152">mg</TOKEN>
+<TOKEN end_char="1156" id="token-13-16" morph="none" pos="word" start_char="1155">of</TOKEN>
+<TOKEN end_char="1164" id="token-13-17" morph="none" pos="word" start_char="1158">vitamin</TOKEN>
+<TOKEN end_char="1166" id="token-13-18" morph="none" pos="word" start_char="1166">C</TOKEN>
+<TOKEN end_char="1169" id="token-13-19" morph="none" pos="word" start_char="1168">in</TOKEN>
+<TOKEN end_char="1171" id="token-13-20" morph="none" pos="word" start_char="1171">a</TOKEN>
+<TOKEN end_char="1177" id="token-13-21" morph="none" pos="word" start_char="1173">large</TOKEN>
+<TOKEN end_char="1184" id="token-13-22" morph="none" pos="word" start_char="1179">orange</TOKEN>
+<TOKEN end_char="1185" id="token-13-23" morph="none" pos="punct" start_char="1185">.</TOKEN>
+</SEG>
+<SEG end_char="1295" id="segment-14" start_char="1187">
+<ORIGINAL_TEXT>Other foods high in vitamin C include guava, tomato juice, orange juice, strawberries, papayas, and broccoli.</ORIGINAL_TEXT>
+<TOKEN end_char="1191" id="token-14-0" morph="none" pos="word" start_char="1187">Other</TOKEN>
+<TOKEN end_char="1197" id="token-14-1" morph="none" pos="word" start_char="1193">foods</TOKEN>
+<TOKEN end_char="1202" id="token-14-2" morph="none" pos="word" start_char="1199">high</TOKEN>
+<TOKEN end_char="1205" id="token-14-3" morph="none" pos="word" start_char="1204">in</TOKEN>
+<TOKEN end_char="1213" id="token-14-4" morph="none" pos="word" start_char="1207">vitamin</TOKEN>
+<TOKEN end_char="1215" id="token-14-5" morph="none" pos="word" start_char="1215">C</TOKEN>
+<TOKEN end_char="1223" id="token-14-6" morph="none" pos="word" start_char="1217">include</TOKEN>
+<TOKEN end_char="1229" id="token-14-7" morph="none" pos="word" start_char="1225">guava</TOKEN>
+<TOKEN end_char="1230" id="token-14-8" morph="none" pos="punct" start_char="1230">,</TOKEN>
+<TOKEN end_char="1237" id="token-14-9" morph="none" pos="word" start_char="1232">tomato</TOKEN>
+<TOKEN end_char="1243" id="token-14-10" morph="none" pos="word" start_char="1239">juice</TOKEN>
+<TOKEN end_char="1244" id="token-14-11" morph="none" pos="punct" start_char="1244">,</TOKEN>
+<TOKEN end_char="1251" id="token-14-12" morph="none" pos="word" start_char="1246">orange</TOKEN>
+<TOKEN end_char="1257" id="token-14-13" morph="none" pos="word" start_char="1253">juice</TOKEN>
+<TOKEN end_char="1258" id="token-14-14" morph="none" pos="punct" start_char="1258">,</TOKEN>
+<TOKEN end_char="1271" id="token-14-15" morph="none" pos="word" start_char="1260">strawberries</TOKEN>
+<TOKEN end_char="1272" id="token-14-16" morph="none" pos="punct" start_char="1272">,</TOKEN>
+<TOKEN end_char="1280" id="token-14-17" morph="none" pos="word" start_char="1274">papayas</TOKEN>
+<TOKEN end_char="1281" id="token-14-18" morph="none" pos="punct" start_char="1281">,</TOKEN>
+<TOKEN end_char="1285" id="token-14-19" morph="none" pos="word" start_char="1283">and</TOKEN>
+<TOKEN end_char="1294" id="token-14-20" morph="none" pos="word" start_char="1287">broccoli</TOKEN>
+<TOKEN end_char="1295" id="token-14-21" morph="none" pos="punct" start_char="1295">.</TOKEN>
+</SEG>
+<SEG end_char="1390" id="segment-15" start_char="1298">
+<ORIGINAL_TEXT>Here’s an awesome chart from Medical News Today that shows which foods are rich in Vitamin C.</ORIGINAL_TEXT>
+<TOKEN end_char="1303" id="token-15-0" morph="none" pos="word" start_char="1298">Here’s</TOKEN>
+<TOKEN end_char="1306" id="token-15-1" morph="none" pos="word" start_char="1305">an</TOKEN>
+<TOKEN end_char="1314" id="token-15-2" morph="none" pos="word" start_char="1308">awesome</TOKEN>
+<TOKEN end_char="1320" id="token-15-3" morph="none" pos="word" start_char="1316">chart</TOKEN>
+<TOKEN end_char="1325" id="token-15-4" morph="none" pos="word" start_char="1322">from</TOKEN>
+<TOKEN end_char="1333" id="token-15-5" morph="none" pos="word" start_char="1327">Medical</TOKEN>
+<TOKEN end_char="1338" id="token-15-6" morph="none" pos="word" start_char="1335">News</TOKEN>
+<TOKEN end_char="1344" id="token-15-7" morph="none" pos="word" start_char="1340">Today</TOKEN>
+<TOKEN end_char="1349" id="token-15-8" morph="none" pos="word" start_char="1346">that</TOKEN>
+<TOKEN end_char="1355" id="token-15-9" morph="none" pos="word" start_char="1351">shows</TOKEN>
+<TOKEN end_char="1361" id="token-15-10" morph="none" pos="word" start_char="1357">which</TOKEN>
+<TOKEN end_char="1367" id="token-15-11" morph="none" pos="word" start_char="1363">foods</TOKEN>
+<TOKEN end_char="1371" id="token-15-12" morph="none" pos="word" start_char="1369">are</TOKEN>
+<TOKEN end_char="1376" id="token-15-13" morph="none" pos="word" start_char="1373">rich</TOKEN>
+<TOKEN end_char="1379" id="token-15-14" morph="none" pos="word" start_char="1378">in</TOKEN>
+<TOKEN end_char="1387" id="token-15-15" morph="none" pos="word" start_char="1381">Vitamin</TOKEN>
+<TOKEN end_char="1389" id="token-15-16" morph="none" pos="word" start_char="1389">C</TOKEN>
+<TOKEN end_char="1390" id="token-15-17" morph="none" pos="punct" start_char="1390">.</TOKEN>
+</SEG>
+<SEG end_char="1430" id="segment-16" start_char="1394">
+<ORIGINAL_TEXT>The best way to get enough Vitamin C?</ORIGINAL_TEXT>
+<TOKEN end_char="1396" id="token-16-0" morph="none" pos="word" start_char="1394">The</TOKEN>
+<TOKEN end_char="1401" id="token-16-1" morph="none" pos="word" start_char="1398">best</TOKEN>
+<TOKEN end_char="1405" id="token-16-2" morph="none" pos="word" start_char="1403">way</TOKEN>
+<TOKEN end_char="1408" id="token-16-3" morph="none" pos="word" start_char="1407">to</TOKEN>
+<TOKEN end_char="1412" id="token-16-4" morph="none" pos="word" start_char="1410">get</TOKEN>
+<TOKEN end_char="1419" id="token-16-5" morph="none" pos="word" start_char="1414">enough</TOKEN>
+<TOKEN end_char="1427" id="token-16-6" morph="none" pos="word" start_char="1421">Vitamin</TOKEN>
+<TOKEN end_char="1429" id="token-16-7" morph="none" pos="word" start_char="1429">C</TOKEN>
+<TOKEN end_char="1430" id="token-16-8" morph="none" pos="punct" start_char="1430">?</TOKEN>
+</SEG>
+<SEG end_char="1446" id="segment-17" start_char="1432">
+<ORIGINAL_TEXT>A healthy diet.</ORIGINAL_TEXT>
+<TOKEN end_char="1432" id="token-17-0" morph="none" pos="word" start_char="1432">A</TOKEN>
+<TOKEN end_char="1440" id="token-17-1" morph="none" pos="word" start_char="1434">healthy</TOKEN>
+<TOKEN end_char="1445" id="token-17-2" morph="none" pos="word" start_char="1442">diet</TOKEN>
+<TOKEN end_char="1446" id="token-17-3" morph="none" pos="punct" start_char="1446">.</TOKEN>
+</SEG>
+<SEG end_char="1498" id="segment-18" start_char="1448">
+<ORIGINAL_TEXT>The above foods have adequate amounts of Vitamin C.</ORIGINAL_TEXT>
+<TOKEN end_char="1450" id="token-18-0" morph="none" pos="word" start_char="1448">The</TOKEN>
+<TOKEN end_char="1456" id="token-18-1" morph="none" pos="word" start_char="1452">above</TOKEN>
+<TOKEN end_char="1462" id="token-18-2" morph="none" pos="word" start_char="1458">foods</TOKEN>
+<TOKEN end_char="1467" id="token-18-3" morph="none" pos="word" start_char="1464">have</TOKEN>
+<TOKEN end_char="1476" id="token-18-4" morph="none" pos="word" start_char="1469">adequate</TOKEN>
+<TOKEN end_char="1484" id="token-18-5" morph="none" pos="word" start_char="1478">amounts</TOKEN>
+<TOKEN end_char="1487" id="token-18-6" morph="none" pos="word" start_char="1486">of</TOKEN>
+<TOKEN end_char="1495" id="token-18-7" morph="none" pos="word" start_char="1489">Vitamin</TOKEN>
+<TOKEN end_char="1497" id="token-18-8" morph="none" pos="word" start_char="1497">C</TOKEN>
+<TOKEN end_char="1498" id="token-18-9" morph="none" pos="punct" start_char="1498">.</TOKEN>
+</SEG>
+<SEG end_char="1551" id="segment-19" start_char="1502">
+<ORIGINAL_TEXT>Where is this Bad Advice on Vitamin C coming from?</ORIGINAL_TEXT>
+<TOKEN end_char="1506" id="token-19-0" morph="none" pos="word" start_char="1502">Where</TOKEN>
+<TOKEN end_char="1509" id="token-19-1" morph="none" pos="word" start_char="1508">is</TOKEN>
+<TOKEN end_char="1514" id="token-19-2" morph="none" pos="word" start_char="1511">this</TOKEN>
+<TOKEN end_char="1518" id="token-19-3" morph="none" pos="word" start_char="1516">Bad</TOKEN>
+<TOKEN end_char="1525" id="token-19-4" morph="none" pos="word" start_char="1520">Advice</TOKEN>
+<TOKEN end_char="1528" id="token-19-5" morph="none" pos="word" start_char="1527">on</TOKEN>
+<TOKEN end_char="1536" id="token-19-6" morph="none" pos="word" start_char="1530">Vitamin</TOKEN>
+<TOKEN end_char="1538" id="token-19-7" morph="none" pos="word" start_char="1538">C</TOKEN>
+<TOKEN end_char="1545" id="token-19-8" morph="none" pos="word" start_char="1540">coming</TOKEN>
+<TOKEN end_char="1550" id="token-19-9" morph="none" pos="word" start_char="1547">from</TOKEN>
+<TOKEN end_char="1551" id="token-19-10" morph="none" pos="punct" start_char="1551">?</TOKEN>
+</SEG>
+<SEG end_char="1756" id="segment-20" start_char="1555">
+<ORIGINAL_TEXT>Here’s the issue, in late March I was forwarded general advice from a holistic doctor who went so far as to recommend as much vitamin C "as your body can handle" but at least 3,000 to 5,000 mg each day.</ORIGINAL_TEXT>
+<TOKEN end_char="1560" id="token-20-0" morph="none" pos="word" start_char="1555">Here’s</TOKEN>
+<TOKEN end_char="1564" id="token-20-1" morph="none" pos="word" start_char="1562">the</TOKEN>
+<TOKEN end_char="1570" id="token-20-2" morph="none" pos="word" start_char="1566">issue</TOKEN>
+<TOKEN end_char="1571" id="token-20-3" morph="none" pos="punct" start_char="1571">,</TOKEN>
+<TOKEN end_char="1574" id="token-20-4" morph="none" pos="word" start_char="1573">in</TOKEN>
+<TOKEN end_char="1579" id="token-20-5" morph="none" pos="word" start_char="1576">late</TOKEN>
+<TOKEN end_char="1585" id="token-20-6" morph="none" pos="word" start_char="1581">March</TOKEN>
+<TOKEN end_char="1587" id="token-20-7" morph="none" pos="word" start_char="1587">I</TOKEN>
+<TOKEN end_char="1591" id="token-20-8" morph="none" pos="word" start_char="1589">was</TOKEN>
+<TOKEN end_char="1601" id="token-20-9" morph="none" pos="word" start_char="1593">forwarded</TOKEN>
+<TOKEN end_char="1609" id="token-20-10" morph="none" pos="word" start_char="1603">general</TOKEN>
+<TOKEN end_char="1616" id="token-20-11" morph="none" pos="word" start_char="1611">advice</TOKEN>
+<TOKEN end_char="1621" id="token-20-12" morph="none" pos="word" start_char="1618">from</TOKEN>
+<TOKEN end_char="1623" id="token-20-13" morph="none" pos="word" start_char="1623">a</TOKEN>
+<TOKEN end_char="1632" id="token-20-14" morph="none" pos="word" start_char="1625">holistic</TOKEN>
+<TOKEN end_char="1639" id="token-20-15" morph="none" pos="word" start_char="1634">doctor</TOKEN>
+<TOKEN end_char="1643" id="token-20-16" morph="none" pos="word" start_char="1641">who</TOKEN>
+<TOKEN end_char="1648" id="token-20-17" morph="none" pos="word" start_char="1645">went</TOKEN>
+<TOKEN end_char="1651" id="token-20-18" morph="none" pos="word" start_char="1650">so</TOKEN>
+<TOKEN end_char="1655" id="token-20-19" morph="none" pos="word" start_char="1653">far</TOKEN>
+<TOKEN end_char="1658" id="token-20-20" morph="none" pos="word" start_char="1657">as</TOKEN>
+<TOKEN end_char="1661" id="token-20-21" morph="none" pos="word" start_char="1660">to</TOKEN>
+<TOKEN end_char="1671" id="token-20-22" morph="none" pos="word" start_char="1663">recommend</TOKEN>
+<TOKEN end_char="1674" id="token-20-23" morph="none" pos="word" start_char="1673">as</TOKEN>
+<TOKEN end_char="1679" id="token-20-24" morph="none" pos="word" start_char="1676">much</TOKEN>
+<TOKEN end_char="1687" id="token-20-25" morph="none" pos="word" start_char="1681">vitamin</TOKEN>
+<TOKEN end_char="1689" id="token-20-26" morph="none" pos="word" start_char="1689">C</TOKEN>
+<TOKEN end_char="1691" id="token-20-27" morph="none" pos="punct" start_char="1691">"</TOKEN>
+<TOKEN end_char="1693" id="token-20-28" morph="none" pos="word" start_char="1692">as</TOKEN>
+<TOKEN end_char="1698" id="token-20-29" morph="none" pos="word" start_char="1695">your</TOKEN>
+<TOKEN end_char="1703" id="token-20-30" morph="none" pos="word" start_char="1700">body</TOKEN>
+<TOKEN end_char="1707" id="token-20-31" morph="none" pos="word" start_char="1705">can</TOKEN>
+<TOKEN end_char="1714" id="token-20-32" morph="none" pos="word" start_char="1709">handle</TOKEN>
+<TOKEN end_char="1715" id="token-20-33" morph="none" pos="punct" start_char="1715">"</TOKEN>
+<TOKEN end_char="1719" id="token-20-34" morph="none" pos="word" start_char="1717">but</TOKEN>
+<TOKEN end_char="1722" id="token-20-35" morph="none" pos="word" start_char="1721">at</TOKEN>
+<TOKEN end_char="1728" id="token-20-36" morph="none" pos="word" start_char="1724">least</TOKEN>
+<TOKEN end_char="1734" id="token-20-37" morph="none" pos="unknown" start_char="1730">3,000</TOKEN>
+<TOKEN end_char="1737" id="token-20-38" morph="none" pos="word" start_char="1736">to</TOKEN>
+<TOKEN end_char="1743" id="token-20-39" morph="none" pos="unknown" start_char="1739">5,000</TOKEN>
+<TOKEN end_char="1746" id="token-20-40" morph="none" pos="word" start_char="1745">mg</TOKEN>
+<TOKEN end_char="1751" id="token-20-41" morph="none" pos="word" start_char="1748">each</TOKEN>
+<TOKEN end_char="1755" id="token-20-42" morph="none" pos="word" start_char="1753">day</TOKEN>
+<TOKEN end_char="1756" id="token-20-43" morph="none" pos="punct" start_char="1756">.</TOKEN>
+</SEG>
+<SEG end_char="1817" id="segment-21" start_char="1758">
+<ORIGINAL_TEXT>In their words, this would protect you from the Coronavirus.</ORIGINAL_TEXT>
+<TOKEN end_char="1759" id="token-21-0" morph="none" pos="word" start_char="1758">In</TOKEN>
+<TOKEN end_char="1765" id="token-21-1" morph="none" pos="word" start_char="1761">their</TOKEN>
+<TOKEN end_char="1771" id="token-21-2" morph="none" pos="word" start_char="1767">words</TOKEN>
+<TOKEN end_char="1772" id="token-21-3" morph="none" pos="punct" start_char="1772">,</TOKEN>
+<TOKEN end_char="1777" id="token-21-4" morph="none" pos="word" start_char="1774">this</TOKEN>
+<TOKEN end_char="1783" id="token-21-5" morph="none" pos="word" start_char="1779">would</TOKEN>
+<TOKEN end_char="1791" id="token-21-6" morph="none" pos="word" start_char="1785">protect</TOKEN>
+<TOKEN end_char="1795" id="token-21-7" morph="none" pos="word" start_char="1793">you</TOKEN>
+<TOKEN end_char="1800" id="token-21-8" morph="none" pos="word" start_char="1797">from</TOKEN>
+<TOKEN end_char="1804" id="token-21-9" morph="none" pos="word" start_char="1802">the</TOKEN>
+<TOKEN end_char="1816" id="token-21-10" morph="none" pos="word" start_char="1806">Coronavirus</TOKEN>
+<TOKEN end_char="1817" id="token-21-11" morph="none" pos="punct" start_char="1817">.</TOKEN>
+</SEG>
+<SEG end_char="2003" id="segment-22" start_char="1820">
+<ORIGINAL_TEXT>Not only is this person misleading their patients and giving potentially dangerous medical advice on a non-individualized basis, but he is also profiteering on their lack of knowledge.</ORIGINAL_TEXT>
+<TOKEN end_char="1822" id="token-22-0" morph="none" pos="word" start_char="1820">Not</TOKEN>
+<TOKEN end_char="1827" id="token-22-1" morph="none" pos="word" start_char="1824">only</TOKEN>
+<TOKEN end_char="1830" id="token-22-2" morph="none" pos="word" start_char="1829">is</TOKEN>
+<TOKEN end_char="1835" id="token-22-3" morph="none" pos="word" start_char="1832">this</TOKEN>
+<TOKEN end_char="1842" id="token-22-4" morph="none" pos="word" start_char="1837">person</TOKEN>
+<TOKEN end_char="1853" id="token-22-5" morph="none" pos="word" start_char="1844">misleading</TOKEN>
+<TOKEN end_char="1859" id="token-22-6" morph="none" pos="word" start_char="1855">their</TOKEN>
+<TOKEN end_char="1868" id="token-22-7" morph="none" pos="word" start_char="1861">patients</TOKEN>
+<TOKEN end_char="1872" id="token-22-8" morph="none" pos="word" start_char="1870">and</TOKEN>
+<TOKEN end_char="1879" id="token-22-9" morph="none" pos="word" start_char="1874">giving</TOKEN>
+<TOKEN end_char="1891" id="token-22-10" morph="none" pos="word" start_char="1881">potentially</TOKEN>
+<TOKEN end_char="1901" id="token-22-11" morph="none" pos="word" start_char="1893">dangerous</TOKEN>
+<TOKEN end_char="1909" id="token-22-12" morph="none" pos="word" start_char="1903">medical</TOKEN>
+<TOKEN end_char="1916" id="token-22-13" morph="none" pos="word" start_char="1911">advice</TOKEN>
+<TOKEN end_char="1919" id="token-22-14" morph="none" pos="word" start_char="1918">on</TOKEN>
+<TOKEN end_char="1921" id="token-22-15" morph="none" pos="word" start_char="1921">a</TOKEN>
+<TOKEN end_char="1940" id="token-22-16" morph="none" pos="unknown" start_char="1923">non-individualized</TOKEN>
+<TOKEN end_char="1946" id="token-22-17" morph="none" pos="word" start_char="1942">basis</TOKEN>
+<TOKEN end_char="1947" id="token-22-18" morph="none" pos="punct" start_char="1947">,</TOKEN>
+<TOKEN end_char="1951" id="token-22-19" morph="none" pos="word" start_char="1949">but</TOKEN>
+<TOKEN end_char="1954" id="token-22-20" morph="none" pos="word" start_char="1953">he</TOKEN>
+<TOKEN end_char="1957" id="token-22-21" morph="none" pos="word" start_char="1956">is</TOKEN>
+<TOKEN end_char="1962" id="token-22-22" morph="none" pos="word" start_char="1959">also</TOKEN>
+<TOKEN end_char="1975" id="token-22-23" morph="none" pos="word" start_char="1964">profiteering</TOKEN>
+<TOKEN end_char="1978" id="token-22-24" morph="none" pos="word" start_char="1977">on</TOKEN>
+<TOKEN end_char="1984" id="token-22-25" morph="none" pos="word" start_char="1980">their</TOKEN>
+<TOKEN end_char="1989" id="token-22-26" morph="none" pos="word" start_char="1986">lack</TOKEN>
+<TOKEN end_char="1992" id="token-22-27" morph="none" pos="word" start_char="1991">of</TOKEN>
+<TOKEN end_char="2002" id="token-22-28" morph="none" pos="word" start_char="1994">knowledge</TOKEN>
+<TOKEN end_char="2003" id="token-22-29" morph="none" pos="punct" start_char="2003">.</TOKEN>
+</SEG>
+<SEG end_char="2138" id="segment-23" start_char="2005">
+<ORIGINAL_TEXT>The doctor has an online supplement store where patients can purchase his recommended vitamins without a prescription for a hefty sum.</ORIGINAL_TEXT>
+<TOKEN end_char="2007" id="token-23-0" morph="none" pos="word" start_char="2005">The</TOKEN>
+<TOKEN end_char="2014" id="token-23-1" morph="none" pos="word" start_char="2009">doctor</TOKEN>
+<TOKEN end_char="2018" id="token-23-2" morph="none" pos="word" start_char="2016">has</TOKEN>
+<TOKEN end_char="2021" id="token-23-3" morph="none" pos="word" start_char="2020">an</TOKEN>
+<TOKEN end_char="2028" id="token-23-4" morph="none" pos="word" start_char="2023">online</TOKEN>
+<TOKEN end_char="2039" id="token-23-5" morph="none" pos="word" start_char="2030">supplement</TOKEN>
+<TOKEN end_char="2045" id="token-23-6" morph="none" pos="word" start_char="2041">store</TOKEN>
+<TOKEN end_char="2051" id="token-23-7" morph="none" pos="word" start_char="2047">where</TOKEN>
+<TOKEN end_char="2060" id="token-23-8" morph="none" pos="word" start_char="2053">patients</TOKEN>
+<TOKEN end_char="2064" id="token-23-9" morph="none" pos="word" start_char="2062">can</TOKEN>
+<TOKEN end_char="2073" id="token-23-10" morph="none" pos="word" start_char="2066">purchase</TOKEN>
+<TOKEN end_char="2077" id="token-23-11" morph="none" pos="word" start_char="2075">his</TOKEN>
+<TOKEN end_char="2089" id="token-23-12" morph="none" pos="word" start_char="2079">recommended</TOKEN>
+<TOKEN end_char="2098" id="token-23-13" morph="none" pos="word" start_char="2091">vitamins</TOKEN>
+<TOKEN end_char="2106" id="token-23-14" morph="none" pos="word" start_char="2100">without</TOKEN>
+<TOKEN end_char="2108" id="token-23-15" morph="none" pos="word" start_char="2108">a</TOKEN>
+<TOKEN end_char="2121" id="token-23-16" morph="none" pos="word" start_char="2110">prescription</TOKEN>
+<TOKEN end_char="2125" id="token-23-17" morph="none" pos="word" start_char="2123">for</TOKEN>
+<TOKEN end_char="2127" id="token-23-18" morph="none" pos="word" start_char="2127">a</TOKEN>
+<TOKEN end_char="2133" id="token-23-19" morph="none" pos="word" start_char="2129">hefty</TOKEN>
+<TOKEN end_char="2137" id="token-23-20" morph="none" pos="word" start_char="2135">sum</TOKEN>
+<TOKEN end_char="2138" id="token-23-21" morph="none" pos="punct" start_char="2138">.</TOKEN>
+</SEG>
+<SEG end_char="2270" id="segment-24" start_char="2142">
+<ORIGINAL_TEXT>This email was forwarded to me from a holistic doctor who has been prescribing the above supplements as Coronavirus "protection."</ORIGINAL_TEXT>
+<TOKEN end_char="2145" id="token-24-0" morph="none" pos="word" start_char="2142">This</TOKEN>
+<TOKEN end_char="2151" id="token-24-1" morph="none" pos="word" start_char="2147">email</TOKEN>
+<TOKEN end_char="2155" id="token-24-2" morph="none" pos="word" start_char="2153">was</TOKEN>
+<TOKEN end_char="2165" id="token-24-3" morph="none" pos="word" start_char="2157">forwarded</TOKEN>
+<TOKEN end_char="2168" id="token-24-4" morph="none" pos="word" start_char="2167">to</TOKEN>
+<TOKEN end_char="2171" id="token-24-5" morph="none" pos="word" start_char="2170">me</TOKEN>
+<TOKEN end_char="2176" id="token-24-6" morph="none" pos="word" start_char="2173">from</TOKEN>
+<TOKEN end_char="2178" id="token-24-7" morph="none" pos="word" start_char="2178">a</TOKEN>
+<TOKEN end_char="2187" id="token-24-8" morph="none" pos="word" start_char="2180">holistic</TOKEN>
+<TOKEN end_char="2194" id="token-24-9" morph="none" pos="word" start_char="2189">doctor</TOKEN>
+<TOKEN end_char="2198" id="token-24-10" morph="none" pos="word" start_char="2196">who</TOKEN>
+<TOKEN end_char="2202" id="token-24-11" morph="none" pos="word" start_char="2200">has</TOKEN>
+<TOKEN end_char="2207" id="token-24-12" morph="none" pos="word" start_char="2204">been</TOKEN>
+<TOKEN end_char="2219" id="token-24-13" morph="none" pos="word" start_char="2209">prescribing</TOKEN>
+<TOKEN end_char="2223" id="token-24-14" morph="none" pos="word" start_char="2221">the</TOKEN>
+<TOKEN end_char="2229" id="token-24-15" morph="none" pos="word" start_char="2225">above</TOKEN>
+<TOKEN end_char="2241" id="token-24-16" morph="none" pos="word" start_char="2231">supplements</TOKEN>
+<TOKEN end_char="2244" id="token-24-17" morph="none" pos="word" start_char="2243">as</TOKEN>
+<TOKEN end_char="2256" id="token-24-18" morph="none" pos="word" start_char="2246">Coronavirus</TOKEN>
+<TOKEN end_char="2258" id="token-24-19" morph="none" pos="punct" start_char="2258">"</TOKEN>
+<TOKEN end_char="2268" id="token-24-20" morph="none" pos="word" start_char="2259">protection</TOKEN>
+<TOKEN end_char="2270" id="token-24-21" morph="none" pos="punct" start_char="2269">."</TOKEN>
+</SEG>
+<SEG end_char="2448" id="segment-25" start_char="2272">
+<ORIGINAL_TEXT>As a family medicine doctor who follows evidence-based guidelines, it is very frustrating to see this type of bad information circulating via email and on social media channels.</ORIGINAL_TEXT>
+<TOKEN end_char="2273" id="token-25-0" morph="none" pos="word" start_char="2272">As</TOKEN>
+<TOKEN end_char="2275" id="token-25-1" morph="none" pos="word" start_char="2275">a</TOKEN>
+<TOKEN end_char="2282" id="token-25-2" morph="none" pos="word" start_char="2277">family</TOKEN>
+<TOKEN end_char="2291" id="token-25-3" morph="none" pos="word" start_char="2284">medicine</TOKEN>
+<TOKEN end_char="2298" id="token-25-4" morph="none" pos="word" start_char="2293">doctor</TOKEN>
+<TOKEN end_char="2302" id="token-25-5" morph="none" pos="word" start_char="2300">who</TOKEN>
+<TOKEN end_char="2310" id="token-25-6" morph="none" pos="word" start_char="2304">follows</TOKEN>
+<TOKEN end_char="2325" id="token-25-7" morph="none" pos="unknown" start_char="2312">evidence-based</TOKEN>
+<TOKEN end_char="2336" id="token-25-8" morph="none" pos="word" start_char="2327">guidelines</TOKEN>
+<TOKEN end_char="2337" id="token-25-9" morph="none" pos="punct" start_char="2337">,</TOKEN>
+<TOKEN end_char="2340" id="token-25-10" morph="none" pos="word" start_char="2339">it</TOKEN>
+<TOKEN end_char="2343" id="token-25-11" morph="none" pos="word" start_char="2342">is</TOKEN>
+<TOKEN end_char="2348" id="token-25-12" morph="none" pos="word" start_char="2345">very</TOKEN>
+<TOKEN end_char="2360" id="token-25-13" morph="none" pos="word" start_char="2350">frustrating</TOKEN>
+<TOKEN end_char="2363" id="token-25-14" morph="none" pos="word" start_char="2362">to</TOKEN>
+<TOKEN end_char="2367" id="token-25-15" morph="none" pos="word" start_char="2365">see</TOKEN>
+<TOKEN end_char="2372" id="token-25-16" morph="none" pos="word" start_char="2369">this</TOKEN>
+<TOKEN end_char="2377" id="token-25-17" morph="none" pos="word" start_char="2374">type</TOKEN>
+<TOKEN end_char="2380" id="token-25-18" morph="none" pos="word" start_char="2379">of</TOKEN>
+<TOKEN end_char="2384" id="token-25-19" morph="none" pos="word" start_char="2382">bad</TOKEN>
+<TOKEN end_char="2396" id="token-25-20" morph="none" pos="word" start_char="2386">information</TOKEN>
+<TOKEN end_char="2408" id="token-25-21" morph="none" pos="word" start_char="2398">circulating</TOKEN>
+<TOKEN end_char="2412" id="token-25-22" morph="none" pos="word" start_char="2410">via</TOKEN>
+<TOKEN end_char="2418" id="token-25-23" morph="none" pos="word" start_char="2414">email</TOKEN>
+<TOKEN end_char="2422" id="token-25-24" morph="none" pos="word" start_char="2420">and</TOKEN>
+<TOKEN end_char="2425" id="token-25-25" morph="none" pos="word" start_char="2424">on</TOKEN>
+<TOKEN end_char="2432" id="token-25-26" morph="none" pos="word" start_char="2427">social</TOKEN>
+<TOKEN end_char="2438" id="token-25-27" morph="none" pos="word" start_char="2434">media</TOKEN>
+<TOKEN end_char="2447" id="token-25-28" morph="none" pos="word" start_char="2440">channels</TOKEN>
+<TOKEN end_char="2448" id="token-25-29" morph="none" pos="punct" start_char="2448">.</TOKEN>
+</SEG>
+<SEG end_char="2487" id="segment-26" start_char="2452">
+<ORIGINAL_TEXT>Can Too Much Vitamin C be Dangerous?</ORIGINAL_TEXT>
+<TOKEN end_char="2454" id="token-26-0" morph="none" pos="word" start_char="2452">Can</TOKEN>
+<TOKEN end_char="2458" id="token-26-1" morph="none" pos="word" start_char="2456">Too</TOKEN>
+<TOKEN end_char="2463" id="token-26-2" morph="none" pos="word" start_char="2460">Much</TOKEN>
+<TOKEN end_char="2471" id="token-26-3" morph="none" pos="word" start_char="2465">Vitamin</TOKEN>
+<TOKEN end_char="2473" id="token-26-4" morph="none" pos="word" start_char="2473">C</TOKEN>
+<TOKEN end_char="2476" id="token-26-5" morph="none" pos="word" start_char="2475">be</TOKEN>
+<TOKEN end_char="2486" id="token-26-6" morph="none" pos="word" start_char="2478">Dangerous</TOKEN>
+<TOKEN end_char="2487" id="token-26-7" morph="none" pos="punct" start_char="2487">?</TOKEN>
+</SEG>
+<SEG end_char="2574" id="segment-27" start_char="2491">
+<ORIGINAL_TEXT>When people think of vitamins, minerals, and supplements, they think of good health.</ORIGINAL_TEXT>
+<TOKEN end_char="2494" id="token-27-0" morph="none" pos="word" start_char="2491">When</TOKEN>
+<TOKEN end_char="2501" id="token-27-1" morph="none" pos="word" start_char="2496">people</TOKEN>
+<TOKEN end_char="2507" id="token-27-2" morph="none" pos="word" start_char="2503">think</TOKEN>
+<TOKEN end_char="2510" id="token-27-3" morph="none" pos="word" start_char="2509">of</TOKEN>
+<TOKEN end_char="2519" id="token-27-4" morph="none" pos="word" start_char="2512">vitamins</TOKEN>
+<TOKEN end_char="2520" id="token-27-5" morph="none" pos="punct" start_char="2520">,</TOKEN>
+<TOKEN end_char="2529" id="token-27-6" morph="none" pos="word" start_char="2522">minerals</TOKEN>
+<TOKEN end_char="2530" id="token-27-7" morph="none" pos="punct" start_char="2530">,</TOKEN>
+<TOKEN end_char="2534" id="token-27-8" morph="none" pos="word" start_char="2532">and</TOKEN>
+<TOKEN end_char="2546" id="token-27-9" morph="none" pos="word" start_char="2536">supplements</TOKEN>
+<TOKEN end_char="2547" id="token-27-10" morph="none" pos="punct" start_char="2547">,</TOKEN>
+<TOKEN end_char="2552" id="token-27-11" morph="none" pos="word" start_char="2549">they</TOKEN>
+<TOKEN end_char="2558" id="token-27-12" morph="none" pos="word" start_char="2554">think</TOKEN>
+<TOKEN end_char="2561" id="token-27-13" morph="none" pos="word" start_char="2560">of</TOKEN>
+<TOKEN end_char="2566" id="token-27-14" morph="none" pos="word" start_char="2563">good</TOKEN>
+<TOKEN end_char="2573" id="token-27-15" morph="none" pos="word" start_char="2568">health</TOKEN>
+<TOKEN end_char="2574" id="token-27-16" morph="none" pos="punct" start_char="2574">.</TOKEN>
+</SEG>
+<SEG end_char="2640" id="segment-28" start_char="2576">
+<ORIGINAL_TEXT>If supplements are good, then more supplements are better, right?</ORIGINAL_TEXT>
+<TOKEN end_char="2577" id="token-28-0" morph="none" pos="word" start_char="2576">If</TOKEN>
+<TOKEN end_char="2589" id="token-28-1" morph="none" pos="word" start_char="2579">supplements</TOKEN>
+<TOKEN end_char="2593" id="token-28-2" morph="none" pos="word" start_char="2591">are</TOKEN>
+<TOKEN end_char="2598" id="token-28-3" morph="none" pos="word" start_char="2595">good</TOKEN>
+<TOKEN end_char="2599" id="token-28-4" morph="none" pos="punct" start_char="2599">,</TOKEN>
+<TOKEN end_char="2604" id="token-28-5" morph="none" pos="word" start_char="2601">then</TOKEN>
+<TOKEN end_char="2609" id="token-28-6" morph="none" pos="word" start_char="2606">more</TOKEN>
+<TOKEN end_char="2621" id="token-28-7" morph="none" pos="word" start_char="2611">supplements</TOKEN>
+<TOKEN end_char="2625" id="token-28-8" morph="none" pos="word" start_char="2623">are</TOKEN>
+<TOKEN end_char="2632" id="token-28-9" morph="none" pos="word" start_char="2627">better</TOKEN>
+<TOKEN end_char="2633" id="token-28-10" morph="none" pos="punct" start_char="2633">,</TOKEN>
+<TOKEN end_char="2639" id="token-28-11" morph="none" pos="word" start_char="2635">right</TOKEN>
+<TOKEN end_char="2640" id="token-28-12" morph="none" pos="punct" start_char="2640">?</TOKEN>
+</SEG>
+<SEG end_char="2784" id="segment-29" start_char="2642">
+<ORIGINAL_TEXT>But what people don’t know, and what this vitamin-pushing doctor should know, is that mega doses of supplements can have negative consequences.</ORIGINAL_TEXT>
+<TOKEN end_char="2644" id="token-29-0" morph="none" pos="word" start_char="2642">But</TOKEN>
+<TOKEN end_char="2649" id="token-29-1" morph="none" pos="word" start_char="2646">what</TOKEN>
+<TOKEN end_char="2656" id="token-29-2" morph="none" pos="word" start_char="2651">people</TOKEN>
+<TOKEN end_char="2662" id="token-29-3" morph="none" pos="word" start_char="2658">don’t</TOKEN>
+<TOKEN end_char="2667" id="token-29-4" morph="none" pos="word" start_char="2664">know</TOKEN>
+<TOKEN end_char="2668" id="token-29-5" morph="none" pos="punct" start_char="2668">,</TOKEN>
+<TOKEN end_char="2672" id="token-29-6" morph="none" pos="word" start_char="2670">and</TOKEN>
+<TOKEN end_char="2677" id="token-29-7" morph="none" pos="word" start_char="2674">what</TOKEN>
+<TOKEN end_char="2682" id="token-29-8" morph="none" pos="word" start_char="2679">this</TOKEN>
+<TOKEN end_char="2698" id="token-29-9" morph="none" pos="unknown" start_char="2684">vitamin-pushing</TOKEN>
+<TOKEN end_char="2705" id="token-29-10" morph="none" pos="word" start_char="2700">doctor</TOKEN>
+<TOKEN end_char="2712" id="token-29-11" morph="none" pos="word" start_char="2707">should</TOKEN>
+<TOKEN end_char="2717" id="token-29-12" morph="none" pos="word" start_char="2714">know</TOKEN>
+<TOKEN end_char="2718" id="token-29-13" morph="none" pos="punct" start_char="2718">,</TOKEN>
+<TOKEN end_char="2721" id="token-29-14" morph="none" pos="word" start_char="2720">is</TOKEN>
+<TOKEN end_char="2726" id="token-29-15" morph="none" pos="word" start_char="2723">that</TOKEN>
+<TOKEN end_char="2731" id="token-29-16" morph="none" pos="word" start_char="2728">mega</TOKEN>
+<TOKEN end_char="2737" id="token-29-17" morph="none" pos="word" start_char="2733">doses</TOKEN>
+<TOKEN end_char="2740" id="token-29-18" morph="none" pos="word" start_char="2739">of</TOKEN>
+<TOKEN end_char="2752" id="token-29-19" morph="none" pos="word" start_char="2742">supplements</TOKEN>
+<TOKEN end_char="2756" id="token-29-20" morph="none" pos="word" start_char="2754">can</TOKEN>
+<TOKEN end_char="2761" id="token-29-21" morph="none" pos="word" start_char="2758">have</TOKEN>
+<TOKEN end_char="2770" id="token-29-22" morph="none" pos="word" start_char="2763">negative</TOKEN>
+<TOKEN end_char="2783" id="token-29-23" morph="none" pos="word" start_char="2772">consequences</TOKEN>
+<TOKEN end_char="2784" id="token-29-24" morph="none" pos="punct" start_char="2784">.</TOKEN>
+</SEG>
+<SEG end_char="2897" id="segment-30" start_char="2787">
+<ORIGINAL_TEXT>Most adults only need 65 to 90 mg of vitamin C each day, and adults shouldn’t take more than 2,000 mg each day.</ORIGINAL_TEXT>
+<TOKEN end_char="2790" id="token-30-0" morph="none" pos="word" start_char="2787">Most</TOKEN>
+<TOKEN end_char="2797" id="token-30-1" morph="none" pos="word" start_char="2792">adults</TOKEN>
+<TOKEN end_char="2802" id="token-30-2" morph="none" pos="word" start_char="2799">only</TOKEN>
+<TOKEN end_char="2807" id="token-30-3" morph="none" pos="word" start_char="2804">need</TOKEN>
+<TOKEN end_char="2810" id="token-30-4" morph="none" pos="word" start_char="2809">65</TOKEN>
+<TOKEN end_char="2813" id="token-30-5" morph="none" pos="word" start_char="2812">to</TOKEN>
+<TOKEN end_char="2816" id="token-30-6" morph="none" pos="word" start_char="2815">90</TOKEN>
+<TOKEN end_char="2819" id="token-30-7" morph="none" pos="word" start_char="2818">mg</TOKEN>
+<TOKEN end_char="2822" id="token-30-8" morph="none" pos="word" start_char="2821">of</TOKEN>
+<TOKEN end_char="2830" id="token-30-9" morph="none" pos="word" start_char="2824">vitamin</TOKEN>
+<TOKEN end_char="2832" id="token-30-10" morph="none" pos="word" start_char="2832">C</TOKEN>
+<TOKEN end_char="2837" id="token-30-11" morph="none" pos="word" start_char="2834">each</TOKEN>
+<TOKEN end_char="2841" id="token-30-12" morph="none" pos="word" start_char="2839">day</TOKEN>
+<TOKEN end_char="2842" id="token-30-13" morph="none" pos="punct" start_char="2842">,</TOKEN>
+<TOKEN end_char="2846" id="token-30-14" morph="none" pos="word" start_char="2844">and</TOKEN>
+<TOKEN end_char="2853" id="token-30-15" morph="none" pos="word" start_char="2848">adults</TOKEN>
+<TOKEN end_char="2863" id="token-30-16" morph="none" pos="word" start_char="2855">shouldn’t</TOKEN>
+<TOKEN end_char="2868" id="token-30-17" morph="none" pos="word" start_char="2865">take</TOKEN>
+<TOKEN end_char="2873" id="token-30-18" morph="none" pos="word" start_char="2870">more</TOKEN>
+<TOKEN end_char="2878" id="token-30-19" morph="none" pos="word" start_char="2875">than</TOKEN>
+<TOKEN end_char="2884" id="token-30-20" morph="none" pos="unknown" start_char="2880">2,000</TOKEN>
+<TOKEN end_char="2887" id="token-30-21" morph="none" pos="word" start_char="2886">mg</TOKEN>
+<TOKEN end_char="2892" id="token-30-22" morph="none" pos="word" start_char="2889">each</TOKEN>
+<TOKEN end_char="2896" id="token-30-23" morph="none" pos="word" start_char="2894">day</TOKEN>
+<TOKEN end_char="2897" id="token-30-24" morph="none" pos="punct" start_char="2897">.</TOKEN>
+</SEG>
+<SEG end_char="3090" id="segment-31" start_char="2899">
+<ORIGINAL_TEXT>Although too much dietary vitamin C is unlikely to be harmful, mega doses of vitamin C supplements might cause diarrhea, nausea, vomiting, heartburn, abdominal cramps, headaches, and insomnia.</ORIGINAL_TEXT>
+<TOKEN end_char="2906" id="token-31-0" morph="none" pos="word" start_char="2899">Although</TOKEN>
+<TOKEN end_char="2910" id="token-31-1" morph="none" pos="word" start_char="2908">too</TOKEN>
+<TOKEN end_char="2915" id="token-31-2" morph="none" pos="word" start_char="2912">much</TOKEN>
+<TOKEN end_char="2923" id="token-31-3" morph="none" pos="word" start_char="2917">dietary</TOKEN>
+<TOKEN end_char="2931" id="token-31-4" morph="none" pos="word" start_char="2925">vitamin</TOKEN>
+<TOKEN end_char="2933" id="token-31-5" morph="none" pos="word" start_char="2933">C</TOKEN>
+<TOKEN end_char="2936" id="token-31-6" morph="none" pos="word" start_char="2935">is</TOKEN>
+<TOKEN end_char="2945" id="token-31-7" morph="none" pos="word" start_char="2938">unlikely</TOKEN>
+<TOKEN end_char="2948" id="token-31-8" morph="none" pos="word" start_char="2947">to</TOKEN>
+<TOKEN end_char="2951" id="token-31-9" morph="none" pos="word" start_char="2950">be</TOKEN>
+<TOKEN end_char="2959" id="token-31-10" morph="none" pos="word" start_char="2953">harmful</TOKEN>
+<TOKEN end_char="2960" id="token-31-11" morph="none" pos="punct" start_char="2960">,</TOKEN>
+<TOKEN end_char="2965" id="token-31-12" morph="none" pos="word" start_char="2962">mega</TOKEN>
+<TOKEN end_char="2971" id="token-31-13" morph="none" pos="word" start_char="2967">doses</TOKEN>
+<TOKEN end_char="2974" id="token-31-14" morph="none" pos="word" start_char="2973">of</TOKEN>
+<TOKEN end_char="2982" id="token-31-15" morph="none" pos="word" start_char="2976">vitamin</TOKEN>
+<TOKEN end_char="2984" id="token-31-16" morph="none" pos="word" start_char="2984">C</TOKEN>
+<TOKEN end_char="2996" id="token-31-17" morph="none" pos="word" start_char="2986">supplements</TOKEN>
+<TOKEN end_char="3002" id="token-31-18" morph="none" pos="word" start_char="2998">might</TOKEN>
+<TOKEN end_char="3008" id="token-31-19" morph="none" pos="word" start_char="3004">cause</TOKEN>
+<TOKEN end_char="3017" id="token-31-20" morph="none" pos="word" start_char="3010">diarrhea</TOKEN>
+<TOKEN end_char="3018" id="token-31-21" morph="none" pos="punct" start_char="3018">,</TOKEN>
+<TOKEN end_char="3025" id="token-31-22" morph="none" pos="word" start_char="3020">nausea</TOKEN>
+<TOKEN end_char="3026" id="token-31-23" morph="none" pos="punct" start_char="3026">,</TOKEN>
+<TOKEN end_char="3035" id="token-31-24" morph="none" pos="word" start_char="3028">vomiting</TOKEN>
+<TOKEN end_char="3036" id="token-31-25" morph="none" pos="punct" start_char="3036">,</TOKEN>
+<TOKEN end_char="3046" id="token-31-26" morph="none" pos="word" start_char="3038">heartburn</TOKEN>
+<TOKEN end_char="3047" id="token-31-27" morph="none" pos="punct" start_char="3047">,</TOKEN>
+<TOKEN end_char="3057" id="token-31-28" morph="none" pos="word" start_char="3049">abdominal</TOKEN>
+<TOKEN end_char="3064" id="token-31-29" morph="none" pos="word" start_char="3059">cramps</TOKEN>
+<TOKEN end_char="3065" id="token-31-30" morph="none" pos="punct" start_char="3065">,</TOKEN>
+<TOKEN end_char="3075" id="token-31-31" morph="none" pos="word" start_char="3067">headaches</TOKEN>
+<TOKEN end_char="3076" id="token-31-32" morph="none" pos="punct" start_char="3076">,</TOKEN>
+<TOKEN end_char="3080" id="token-31-33" morph="none" pos="word" start_char="3078">and</TOKEN>
+<TOKEN end_char="3089" id="token-31-34" morph="none" pos="word" start_char="3082">insomnia</TOKEN>
+<TOKEN end_char="3090" id="token-31-35" morph="none" pos="punct" start_char="3090">.</TOKEN>
+</SEG>
+<SEG end_char="3229" id="segment-32" start_char="3093">
+<ORIGINAL_TEXT>Let’s create a hypothetical patient who is a middle-aged adult man who takes Metformin 500 mg twice daily for his long-standing diabetes.</ORIGINAL_TEXT>
+<TOKEN end_char="3097" id="token-32-0" morph="none" pos="word" start_char="3093">Let’s</TOKEN>
+<TOKEN end_char="3104" id="token-32-1" morph="none" pos="word" start_char="3099">create</TOKEN>
+<TOKEN end_char="3106" id="token-32-2" morph="none" pos="word" start_char="3106">a</TOKEN>
+<TOKEN end_char="3119" id="token-32-3" morph="none" pos="word" start_char="3108">hypothetical</TOKEN>
+<TOKEN end_char="3127" id="token-32-4" morph="none" pos="word" start_char="3121">patient</TOKEN>
+<TOKEN end_char="3131" id="token-32-5" morph="none" pos="word" start_char="3129">who</TOKEN>
+<TOKEN end_char="3134" id="token-32-6" morph="none" pos="word" start_char="3133">is</TOKEN>
+<TOKEN end_char="3136" id="token-32-7" morph="none" pos="word" start_char="3136">a</TOKEN>
+<TOKEN end_char="3148" id="token-32-8" morph="none" pos="unknown" start_char="3138">middle-aged</TOKEN>
+<TOKEN end_char="3154" id="token-32-9" morph="none" pos="word" start_char="3150">adult</TOKEN>
+<TOKEN end_char="3158" id="token-32-10" morph="none" pos="word" start_char="3156">man</TOKEN>
+<TOKEN end_char="3162" id="token-32-11" morph="none" pos="word" start_char="3160">who</TOKEN>
+<TOKEN end_char="3168" id="token-32-12" morph="none" pos="word" start_char="3164">takes</TOKEN>
+<TOKEN end_char="3178" id="token-32-13" morph="none" pos="word" start_char="3170">Metformin</TOKEN>
+<TOKEN end_char="3182" id="token-32-14" morph="none" pos="word" start_char="3180">500</TOKEN>
+<TOKEN end_char="3185" id="token-32-15" morph="none" pos="word" start_char="3184">mg</TOKEN>
+<TOKEN end_char="3191" id="token-32-16" morph="none" pos="word" start_char="3187">twice</TOKEN>
+<TOKEN end_char="3197" id="token-32-17" morph="none" pos="word" start_char="3193">daily</TOKEN>
+<TOKEN end_char="3201" id="token-32-18" morph="none" pos="word" start_char="3199">for</TOKEN>
+<TOKEN end_char="3205" id="token-32-19" morph="none" pos="word" start_char="3203">his</TOKEN>
+<TOKEN end_char="3219" id="token-32-20" morph="none" pos="unknown" start_char="3207">long-standing</TOKEN>
+<TOKEN end_char="3228" id="token-32-21" morph="none" pos="word" start_char="3221">diabetes</TOKEN>
+<TOKEN end_char="3229" id="token-32-22" morph="none" pos="punct" start_char="3229">.</TOKEN>
+</SEG>
+<SEG end_char="3318" id="segment-33" start_char="3231">
+<ORIGINAL_TEXT>The Metformin works well, keeping his blood sugar and hemoglobin a1c levels near normal.</ORIGINAL_TEXT>
+<TOKEN end_char="3233" id="token-33-0" morph="none" pos="word" start_char="3231">The</TOKEN>
+<TOKEN end_char="3243" id="token-33-1" morph="none" pos="word" start_char="3235">Metformin</TOKEN>
+<TOKEN end_char="3249" id="token-33-2" morph="none" pos="word" start_char="3245">works</TOKEN>
+<TOKEN end_char="3254" id="token-33-3" morph="none" pos="word" start_char="3251">well</TOKEN>
+<TOKEN end_char="3255" id="token-33-4" morph="none" pos="punct" start_char="3255">,</TOKEN>
+<TOKEN end_char="3263" id="token-33-5" morph="none" pos="word" start_char="3257">keeping</TOKEN>
+<TOKEN end_char="3267" id="token-33-6" morph="none" pos="word" start_char="3265">his</TOKEN>
+<TOKEN end_char="3273" id="token-33-7" morph="none" pos="word" start_char="3269">blood</TOKEN>
+<TOKEN end_char="3279" id="token-33-8" morph="none" pos="word" start_char="3275">sugar</TOKEN>
+<TOKEN end_char="3283" id="token-33-9" morph="none" pos="word" start_char="3281">and</TOKEN>
+<TOKEN end_char="3294" id="token-33-10" morph="none" pos="word" start_char="3285">hemoglobin</TOKEN>
+<TOKEN end_char="3298" id="token-33-11" morph="none" pos="word" start_char="3296">a1c</TOKEN>
+<TOKEN end_char="3305" id="token-33-12" morph="none" pos="word" start_char="3300">levels</TOKEN>
+<TOKEN end_char="3310" id="token-33-13" morph="none" pos="word" start_char="3307">near</TOKEN>
+<TOKEN end_char="3317" id="token-33-14" morph="none" pos="word" start_char="3312">normal</TOKEN>
+<TOKEN end_char="3318" id="token-33-15" morph="none" pos="punct" start_char="3318">.</TOKEN>
+</SEG>
+<SEG end_char="3452" id="segment-34" start_char="3320">
+<ORIGINAL_TEXT>It’s important to know that adverse effects of Metformin include diarrhea, GI complaints, nausea, vomiting, and abdominal distention.</ORIGINAL_TEXT>
+<TOKEN end_char="3323" id="token-34-0" morph="none" pos="word" start_char="3320">It’s</TOKEN>
+<TOKEN end_char="3333" id="token-34-1" morph="none" pos="word" start_char="3325">important</TOKEN>
+<TOKEN end_char="3336" id="token-34-2" morph="none" pos="word" start_char="3335">to</TOKEN>
+<TOKEN end_char="3341" id="token-34-3" morph="none" pos="word" start_char="3338">know</TOKEN>
+<TOKEN end_char="3346" id="token-34-4" morph="none" pos="word" start_char="3343">that</TOKEN>
+<TOKEN end_char="3354" id="token-34-5" morph="none" pos="word" start_char="3348">adverse</TOKEN>
+<TOKEN end_char="3362" id="token-34-6" morph="none" pos="word" start_char="3356">effects</TOKEN>
+<TOKEN end_char="3365" id="token-34-7" morph="none" pos="word" start_char="3364">of</TOKEN>
+<TOKEN end_char="3375" id="token-34-8" morph="none" pos="word" start_char="3367">Metformin</TOKEN>
+<TOKEN end_char="3383" id="token-34-9" morph="none" pos="word" start_char="3377">include</TOKEN>
+<TOKEN end_char="3392" id="token-34-10" morph="none" pos="word" start_char="3385">diarrhea</TOKEN>
+<TOKEN end_char="3393" id="token-34-11" morph="none" pos="punct" start_char="3393">,</TOKEN>
+<TOKEN end_char="3396" id="token-34-12" morph="none" pos="word" start_char="3395">GI</TOKEN>
+<TOKEN end_char="3407" id="token-34-13" morph="none" pos="word" start_char="3398">complaints</TOKEN>
+<TOKEN end_char="3408" id="token-34-14" morph="none" pos="punct" start_char="3408">,</TOKEN>
+<TOKEN end_char="3415" id="token-34-15" morph="none" pos="word" start_char="3410">nausea</TOKEN>
+<TOKEN end_char="3416" id="token-34-16" morph="none" pos="punct" start_char="3416">,</TOKEN>
+<TOKEN end_char="3425" id="token-34-17" morph="none" pos="word" start_char="3418">vomiting</TOKEN>
+<TOKEN end_char="3426" id="token-34-18" morph="none" pos="punct" start_char="3426">,</TOKEN>
+<TOKEN end_char="3430" id="token-34-19" morph="none" pos="word" start_char="3428">and</TOKEN>
+<TOKEN end_char="3440" id="token-34-20" morph="none" pos="word" start_char="3432">abdominal</TOKEN>
+<TOKEN end_char="3451" id="token-34-21" morph="none" pos="word" start_char="3442">distention</TOKEN>
+<TOKEN end_char="3452" id="token-34-22" morph="none" pos="punct" start_char="3452">.</TOKEN>
+</SEG>
+<SEG end_char="3692" id="segment-35" start_char="3455">
+<ORIGINAL_TEXT>If both the Metformin and the high-dose Vitamin C are taken at the same time, the side effects from Vitamin C supplementation may be incorrectly attributed to the Metformin, potentially causing the patient to stop a beneficial medication.</ORIGINAL_TEXT>
+<TOKEN end_char="3456" id="token-35-0" morph="none" pos="word" start_char="3455">If</TOKEN>
+<TOKEN end_char="3461" id="token-35-1" morph="none" pos="word" start_char="3458">both</TOKEN>
+<TOKEN end_char="3465" id="token-35-2" morph="none" pos="word" start_char="3463">the</TOKEN>
+<TOKEN end_char="3475" id="token-35-3" morph="none" pos="word" start_char="3467">Metformin</TOKEN>
+<TOKEN end_char="3479" id="token-35-4" morph="none" pos="word" start_char="3477">and</TOKEN>
+<TOKEN end_char="3483" id="token-35-5" morph="none" pos="word" start_char="3481">the</TOKEN>
+<TOKEN end_char="3493" id="token-35-6" morph="none" pos="unknown" start_char="3485">high-dose</TOKEN>
+<TOKEN end_char="3501" id="token-35-7" morph="none" pos="word" start_char="3495">Vitamin</TOKEN>
+<TOKEN end_char="3503" id="token-35-8" morph="none" pos="word" start_char="3503">C</TOKEN>
+<TOKEN end_char="3507" id="token-35-9" morph="none" pos="word" start_char="3505">are</TOKEN>
+<TOKEN end_char="3513" id="token-35-10" morph="none" pos="word" start_char="3509">taken</TOKEN>
+<TOKEN end_char="3516" id="token-35-11" morph="none" pos="word" start_char="3515">at</TOKEN>
+<TOKEN end_char="3520" id="token-35-12" morph="none" pos="word" start_char="3518">the</TOKEN>
+<TOKEN end_char="3525" id="token-35-13" morph="none" pos="word" start_char="3522">same</TOKEN>
+<TOKEN end_char="3530" id="token-35-14" morph="none" pos="word" start_char="3527">time</TOKEN>
+<TOKEN end_char="3531" id="token-35-15" morph="none" pos="punct" start_char="3531">,</TOKEN>
+<TOKEN end_char="3535" id="token-35-16" morph="none" pos="word" start_char="3533">the</TOKEN>
+<TOKEN end_char="3540" id="token-35-17" morph="none" pos="word" start_char="3537">side</TOKEN>
+<TOKEN end_char="3548" id="token-35-18" morph="none" pos="word" start_char="3542">effects</TOKEN>
+<TOKEN end_char="3553" id="token-35-19" morph="none" pos="word" start_char="3550">from</TOKEN>
+<TOKEN end_char="3561" id="token-35-20" morph="none" pos="word" start_char="3555">Vitamin</TOKEN>
+<TOKEN end_char="3563" id="token-35-21" morph="none" pos="word" start_char="3563">C</TOKEN>
+<TOKEN end_char="3579" id="token-35-22" morph="none" pos="word" start_char="3565">supplementation</TOKEN>
+<TOKEN end_char="3583" id="token-35-23" morph="none" pos="word" start_char="3581">may</TOKEN>
+<TOKEN end_char="3586" id="token-35-24" morph="none" pos="word" start_char="3585">be</TOKEN>
+<TOKEN end_char="3598" id="token-35-25" morph="none" pos="word" start_char="3588">incorrectly</TOKEN>
+<TOKEN end_char="3609" id="token-35-26" morph="none" pos="word" start_char="3600">attributed</TOKEN>
+<TOKEN end_char="3612" id="token-35-27" morph="none" pos="word" start_char="3611">to</TOKEN>
+<TOKEN end_char="3616" id="token-35-28" morph="none" pos="word" start_char="3614">the</TOKEN>
+<TOKEN end_char="3626" id="token-35-29" morph="none" pos="word" start_char="3618">Metformin</TOKEN>
+<TOKEN end_char="3627" id="token-35-30" morph="none" pos="punct" start_char="3627">,</TOKEN>
+<TOKEN end_char="3639" id="token-35-31" morph="none" pos="word" start_char="3629">potentially</TOKEN>
+<TOKEN end_char="3647" id="token-35-32" morph="none" pos="word" start_char="3641">causing</TOKEN>
+<TOKEN end_char="3651" id="token-35-33" morph="none" pos="word" start_char="3649">the</TOKEN>
+<TOKEN end_char="3659" id="token-35-34" morph="none" pos="word" start_char="3653">patient</TOKEN>
+<TOKEN end_char="3662" id="token-35-35" morph="none" pos="word" start_char="3661">to</TOKEN>
+<TOKEN end_char="3667" id="token-35-36" morph="none" pos="word" start_char="3664">stop</TOKEN>
+<TOKEN end_char="3669" id="token-35-37" morph="none" pos="word" start_char="3669">a</TOKEN>
+<TOKEN end_char="3680" id="token-35-38" morph="none" pos="word" start_char="3671">beneficial</TOKEN>
+<TOKEN end_char="3691" id="token-35-39" morph="none" pos="word" start_char="3682">medication</TOKEN>
+<TOKEN end_char="3692" id="token-35-40" morph="none" pos="punct" start_char="3692">.</TOKEN>
+</SEG>
+<SEG end_char="3764" id="segment-36" start_char="3695">
+<ORIGINAL_TEXT>Always Talk to Your Doctor about Your medications and your supplements</ORIGINAL_TEXT>
+<TOKEN end_char="3700" id="token-36-0" morph="none" pos="word" start_char="3695">Always</TOKEN>
+<TOKEN end_char="3705" id="token-36-1" morph="none" pos="word" start_char="3702">Talk</TOKEN>
+<TOKEN end_char="3708" id="token-36-2" morph="none" pos="word" start_char="3707">to</TOKEN>
+<TOKEN end_char="3713" id="token-36-3" morph="none" pos="word" start_char="3710">Your</TOKEN>
+<TOKEN end_char="3720" id="token-36-4" morph="none" pos="word" start_char="3715">Doctor</TOKEN>
+<TOKEN end_char="3726" id="token-36-5" morph="none" pos="word" start_char="3722">about</TOKEN>
+<TOKEN end_char="3731" id="token-36-6" morph="none" pos="word" start_char="3728">Your</TOKEN>
+<TOKEN end_char="3743" id="token-36-7" morph="none" pos="word" start_char="3733">medications</TOKEN>
+<TOKEN end_char="3747" id="token-36-8" morph="none" pos="word" start_char="3745">and</TOKEN>
+<TOKEN end_char="3752" id="token-36-9" morph="none" pos="word" start_char="3749">your</TOKEN>
+<TOKEN end_char="3764" id="token-36-10" morph="none" pos="word" start_char="3754">supplements</TOKEN>
+</SEG>
+<SEG end_char="3913" id="segment-37" start_char="3768">
+<ORIGINAL_TEXT>It’s entirely possible that in some cases, a patient might be taking mega doses of vitamin C, and not inform their physician of these supplements.</ORIGINAL_TEXT>
+<TOKEN end_char="3771" id="token-37-0" morph="none" pos="word" start_char="3768">It’s</TOKEN>
+<TOKEN end_char="3780" id="token-37-1" morph="none" pos="word" start_char="3773">entirely</TOKEN>
+<TOKEN end_char="3789" id="token-37-2" morph="none" pos="word" start_char="3782">possible</TOKEN>
+<TOKEN end_char="3794" id="token-37-3" morph="none" pos="word" start_char="3791">that</TOKEN>
+<TOKEN end_char="3797" id="token-37-4" morph="none" pos="word" start_char="3796">in</TOKEN>
+<TOKEN end_char="3802" id="token-37-5" morph="none" pos="word" start_char="3799">some</TOKEN>
+<TOKEN end_char="3808" id="token-37-6" morph="none" pos="word" start_char="3804">cases</TOKEN>
+<TOKEN end_char="3809" id="token-37-7" morph="none" pos="punct" start_char="3809">,</TOKEN>
+<TOKEN end_char="3811" id="token-37-8" morph="none" pos="word" start_char="3811">a</TOKEN>
+<TOKEN end_char="3819" id="token-37-9" morph="none" pos="word" start_char="3813">patient</TOKEN>
+<TOKEN end_char="3825" id="token-37-10" morph="none" pos="word" start_char="3821">might</TOKEN>
+<TOKEN end_char="3828" id="token-37-11" morph="none" pos="word" start_char="3827">be</TOKEN>
+<TOKEN end_char="3835" id="token-37-12" morph="none" pos="word" start_char="3830">taking</TOKEN>
+<TOKEN end_char="3840" id="token-37-13" morph="none" pos="word" start_char="3837">mega</TOKEN>
+<TOKEN end_char="3846" id="token-37-14" morph="none" pos="word" start_char="3842">doses</TOKEN>
+<TOKEN end_char="3849" id="token-37-15" morph="none" pos="word" start_char="3848">of</TOKEN>
+<TOKEN end_char="3857" id="token-37-16" morph="none" pos="word" start_char="3851">vitamin</TOKEN>
+<TOKEN end_char="3859" id="token-37-17" morph="none" pos="word" start_char="3859">C</TOKEN>
+<TOKEN end_char="3860" id="token-37-18" morph="none" pos="punct" start_char="3860">,</TOKEN>
+<TOKEN end_char="3864" id="token-37-19" morph="none" pos="word" start_char="3862">and</TOKEN>
+<TOKEN end_char="3868" id="token-37-20" morph="none" pos="word" start_char="3866">not</TOKEN>
+<TOKEN end_char="3875" id="token-37-21" morph="none" pos="word" start_char="3870">inform</TOKEN>
+<TOKEN end_char="3881" id="token-37-22" morph="none" pos="word" start_char="3877">their</TOKEN>
+<TOKEN end_char="3891" id="token-37-23" morph="none" pos="word" start_char="3883">physician</TOKEN>
+<TOKEN end_char="3894" id="token-37-24" morph="none" pos="word" start_char="3893">of</TOKEN>
+<TOKEN end_char="3900" id="token-37-25" morph="none" pos="word" start_char="3896">these</TOKEN>
+<TOKEN end_char="3912" id="token-37-26" morph="none" pos="word" start_char="3902">supplements</TOKEN>
+<TOKEN end_char="3913" id="token-37-27" morph="none" pos="punct" start_char="3913">.</TOKEN>
+</SEG>
+<SEG end_char="4035" id="segment-38" start_char="3915">
+<ORIGINAL_TEXT>Usually a doctor only asks their patients about which medications they’re taking, and not specifically about supplements.</ORIGINAL_TEXT>
+<TOKEN end_char="3921" id="token-38-0" morph="none" pos="word" start_char="3915">Usually</TOKEN>
+<TOKEN end_char="3923" id="token-38-1" morph="none" pos="word" start_char="3923">a</TOKEN>
+<TOKEN end_char="3930" id="token-38-2" morph="none" pos="word" start_char="3925">doctor</TOKEN>
+<TOKEN end_char="3935" id="token-38-3" morph="none" pos="word" start_char="3932">only</TOKEN>
+<TOKEN end_char="3940" id="token-38-4" morph="none" pos="word" start_char="3937">asks</TOKEN>
+<TOKEN end_char="3946" id="token-38-5" morph="none" pos="word" start_char="3942">their</TOKEN>
+<TOKEN end_char="3955" id="token-38-6" morph="none" pos="word" start_char="3948">patients</TOKEN>
+<TOKEN end_char="3961" id="token-38-7" morph="none" pos="word" start_char="3957">about</TOKEN>
+<TOKEN end_char="3967" id="token-38-8" morph="none" pos="word" start_char="3963">which</TOKEN>
+<TOKEN end_char="3979" id="token-38-9" morph="none" pos="word" start_char="3969">medications</TOKEN>
+<TOKEN end_char="3987" id="token-38-10" morph="none" pos="word" start_char="3981">they’re</TOKEN>
+<TOKEN end_char="3994" id="token-38-11" morph="none" pos="word" start_char="3989">taking</TOKEN>
+<TOKEN end_char="3995" id="token-38-12" morph="none" pos="punct" start_char="3995">,</TOKEN>
+<TOKEN end_char="3999" id="token-38-13" morph="none" pos="word" start_char="3997">and</TOKEN>
+<TOKEN end_char="4003" id="token-38-14" morph="none" pos="word" start_char="4001">not</TOKEN>
+<TOKEN end_char="4016" id="token-38-15" morph="none" pos="word" start_char="4005">specifically</TOKEN>
+<TOKEN end_char="4022" id="token-38-16" morph="none" pos="word" start_char="4018">about</TOKEN>
+<TOKEN end_char="4034" id="token-38-17" morph="none" pos="word" start_char="4024">supplements</TOKEN>
+<TOKEN end_char="4035" id="token-38-18" morph="none" pos="punct" start_char="4035">.</TOKEN>
+</SEG>
+<SEG end_char="4261" id="segment-39" start_char="4037">
+<ORIGINAL_TEXT>If the doctor doesn’t know about these mega doses of vitamins, those adverse effects caused by the vitamin C mega doses may be blamed on or attributed to a life-saving or life-prolonging medications prescribed by your doctor.</ORIGINAL_TEXT>
+<TOKEN end_char="4038" id="token-39-0" morph="none" pos="word" start_char="4037">If</TOKEN>
+<TOKEN end_char="4042" id="token-39-1" morph="none" pos="word" start_char="4040">the</TOKEN>
+<TOKEN end_char="4049" id="token-39-2" morph="none" pos="word" start_char="4044">doctor</TOKEN>
+<TOKEN end_char="4057" id="token-39-3" morph="none" pos="word" start_char="4051">doesn’t</TOKEN>
+<TOKEN end_char="4062" id="token-39-4" morph="none" pos="word" start_char="4059">know</TOKEN>
+<TOKEN end_char="4068" id="token-39-5" morph="none" pos="word" start_char="4064">about</TOKEN>
+<TOKEN end_char="4074" id="token-39-6" morph="none" pos="word" start_char="4070">these</TOKEN>
+<TOKEN end_char="4079" id="token-39-7" morph="none" pos="word" start_char="4076">mega</TOKEN>
+<TOKEN end_char="4085" id="token-39-8" morph="none" pos="word" start_char="4081">doses</TOKEN>
+<TOKEN end_char="4088" id="token-39-9" morph="none" pos="word" start_char="4087">of</TOKEN>
+<TOKEN end_char="4097" id="token-39-10" morph="none" pos="word" start_char="4090">vitamins</TOKEN>
+<TOKEN end_char="4098" id="token-39-11" morph="none" pos="punct" start_char="4098">,</TOKEN>
+<TOKEN end_char="4104" id="token-39-12" morph="none" pos="word" start_char="4100">those</TOKEN>
+<TOKEN end_char="4112" id="token-39-13" morph="none" pos="word" start_char="4106">adverse</TOKEN>
+<TOKEN end_char="4120" id="token-39-14" morph="none" pos="word" start_char="4114">effects</TOKEN>
+<TOKEN end_char="4127" id="token-39-15" morph="none" pos="word" start_char="4122">caused</TOKEN>
+<TOKEN end_char="4130" id="token-39-16" morph="none" pos="word" start_char="4129">by</TOKEN>
+<TOKEN end_char="4134" id="token-39-17" morph="none" pos="word" start_char="4132">the</TOKEN>
+<TOKEN end_char="4142" id="token-39-18" morph="none" pos="word" start_char="4136">vitamin</TOKEN>
+<TOKEN end_char="4144" id="token-39-19" morph="none" pos="word" start_char="4144">C</TOKEN>
+<TOKEN end_char="4149" id="token-39-20" morph="none" pos="word" start_char="4146">mega</TOKEN>
+<TOKEN end_char="4155" id="token-39-21" morph="none" pos="word" start_char="4151">doses</TOKEN>
+<TOKEN end_char="4159" id="token-39-22" morph="none" pos="word" start_char="4157">may</TOKEN>
+<TOKEN end_char="4162" id="token-39-23" morph="none" pos="word" start_char="4161">be</TOKEN>
+<TOKEN end_char="4169" id="token-39-24" morph="none" pos="word" start_char="4164">blamed</TOKEN>
+<TOKEN end_char="4172" id="token-39-25" morph="none" pos="word" start_char="4171">on</TOKEN>
+<TOKEN end_char="4175" id="token-39-26" morph="none" pos="word" start_char="4174">or</TOKEN>
+<TOKEN end_char="4186" id="token-39-27" morph="none" pos="word" start_char="4177">attributed</TOKEN>
+<TOKEN end_char="4189" id="token-39-28" morph="none" pos="word" start_char="4188">to</TOKEN>
+<TOKEN end_char="4191" id="token-39-29" morph="none" pos="word" start_char="4191">a</TOKEN>
+<TOKEN end_char="4203" id="token-39-30" morph="none" pos="unknown" start_char="4193">life-saving</TOKEN>
+<TOKEN end_char="4206" id="token-39-31" morph="none" pos="word" start_char="4205">or</TOKEN>
+<TOKEN end_char="4222" id="token-39-32" morph="none" pos="unknown" start_char="4208">life-prolonging</TOKEN>
+<TOKEN end_char="4234" id="token-39-33" morph="none" pos="word" start_char="4224">medications</TOKEN>
+<TOKEN end_char="4245" id="token-39-34" morph="none" pos="word" start_char="4236">prescribed</TOKEN>
+<TOKEN end_char="4248" id="token-39-35" morph="none" pos="word" start_char="4247">by</TOKEN>
+<TOKEN end_char="4253" id="token-39-36" morph="none" pos="word" start_char="4250">your</TOKEN>
+<TOKEN end_char="4260" id="token-39-37" morph="none" pos="word" start_char="4255">doctor</TOKEN>
+<TOKEN end_char="4261" id="token-39-38" morph="none" pos="punct" start_char="4261">.</TOKEN>
+</SEG>
+<SEG end_char="4456" id="segment-40" start_char="4264">
+<ORIGINAL_TEXT>And this is just one example - many medications, from blood pressure medications to SSRIs for depression to other medications for diabetes like glipizide can have gastrointestinal side effects.</ORIGINAL_TEXT>
+<TOKEN end_char="4266" id="token-40-0" morph="none" pos="word" start_char="4264">And</TOKEN>
+<TOKEN end_char="4271" id="token-40-1" morph="none" pos="word" start_char="4268">this</TOKEN>
+<TOKEN end_char="4274" id="token-40-2" morph="none" pos="word" start_char="4273">is</TOKEN>
+<TOKEN end_char="4279" id="token-40-3" morph="none" pos="word" start_char="4276">just</TOKEN>
+<TOKEN end_char="4283" id="token-40-4" morph="none" pos="word" start_char="4281">one</TOKEN>
+<TOKEN end_char="4291" id="token-40-5" morph="none" pos="word" start_char="4285">example</TOKEN>
+<TOKEN end_char="4293" id="token-40-6" morph="none" pos="punct" start_char="4293">-</TOKEN>
+<TOKEN end_char="4298" id="token-40-7" morph="none" pos="word" start_char="4295">many</TOKEN>
+<TOKEN end_char="4310" id="token-40-8" morph="none" pos="word" start_char="4300">medications</TOKEN>
+<TOKEN end_char="4311" id="token-40-9" morph="none" pos="punct" start_char="4311">,</TOKEN>
+<TOKEN end_char="4316" id="token-40-10" morph="none" pos="word" start_char="4313">from</TOKEN>
+<TOKEN end_char="4322" id="token-40-11" morph="none" pos="word" start_char="4318">blood</TOKEN>
+<TOKEN end_char="4331" id="token-40-12" morph="none" pos="word" start_char="4324">pressure</TOKEN>
+<TOKEN end_char="4343" id="token-40-13" morph="none" pos="word" start_char="4333">medications</TOKEN>
+<TOKEN end_char="4346" id="token-40-14" morph="none" pos="word" start_char="4345">to</TOKEN>
+<TOKEN end_char="4352" id="token-40-15" morph="none" pos="word" start_char="4348">SSRIs</TOKEN>
+<TOKEN end_char="4356" id="token-40-16" morph="none" pos="word" start_char="4354">for</TOKEN>
+<TOKEN end_char="4367" id="token-40-17" morph="none" pos="word" start_char="4358">depression</TOKEN>
+<TOKEN end_char="4370" id="token-40-18" morph="none" pos="word" start_char="4369">to</TOKEN>
+<TOKEN end_char="4376" id="token-40-19" morph="none" pos="word" start_char="4372">other</TOKEN>
+<TOKEN end_char="4388" id="token-40-20" morph="none" pos="word" start_char="4378">medications</TOKEN>
+<TOKEN end_char="4392" id="token-40-21" morph="none" pos="word" start_char="4390">for</TOKEN>
+<TOKEN end_char="4401" id="token-40-22" morph="none" pos="word" start_char="4394">diabetes</TOKEN>
+<TOKEN end_char="4406" id="token-40-23" morph="none" pos="word" start_char="4403">like</TOKEN>
+<TOKEN end_char="4416" id="token-40-24" morph="none" pos="word" start_char="4408">glipizide</TOKEN>
+<TOKEN end_char="4420" id="token-40-25" morph="none" pos="word" start_char="4418">can</TOKEN>
+<TOKEN end_char="4425" id="token-40-26" morph="none" pos="word" start_char="4422">have</TOKEN>
+<TOKEN end_char="4442" id="token-40-27" morph="none" pos="word" start_char="4427">gastrointestinal</TOKEN>
+<TOKEN end_char="4447" id="token-40-28" morph="none" pos="word" start_char="4444">side</TOKEN>
+<TOKEN end_char="4455" id="token-40-29" morph="none" pos="word" start_char="4449">effects</TOKEN>
+<TOKEN end_char="4456" id="token-40-30" morph="none" pos="punct" start_char="4456">.</TOKEN>
+</SEG>
+<SEG end_char="4592" id="segment-41" start_char="4458">
+<ORIGINAL_TEXT>So, please, talk with your family medicine doctor or internal medicine doctor about the medications and supplements that you’re taking.</ORIGINAL_TEXT>
+<TOKEN end_char="4459" id="token-41-0" morph="none" pos="word" start_char="4458">So</TOKEN>
+<TOKEN end_char="4460" id="token-41-1" morph="none" pos="punct" start_char="4460">,</TOKEN>
+<TOKEN end_char="4467" id="token-41-2" morph="none" pos="word" start_char="4462">please</TOKEN>
+<TOKEN end_char="4468" id="token-41-3" morph="none" pos="punct" start_char="4468">,</TOKEN>
+<TOKEN end_char="4473" id="token-41-4" morph="none" pos="word" start_char="4470">talk</TOKEN>
+<TOKEN end_char="4478" id="token-41-5" morph="none" pos="word" start_char="4475">with</TOKEN>
+<TOKEN end_char="4483" id="token-41-6" morph="none" pos="word" start_char="4480">your</TOKEN>
+<TOKEN end_char="4490" id="token-41-7" morph="none" pos="word" start_char="4485">family</TOKEN>
+<TOKEN end_char="4499" id="token-41-8" morph="none" pos="word" start_char="4492">medicine</TOKEN>
+<TOKEN end_char="4506" id="token-41-9" morph="none" pos="word" start_char="4501">doctor</TOKEN>
+<TOKEN end_char="4509" id="token-41-10" morph="none" pos="word" start_char="4508">or</TOKEN>
+<TOKEN end_char="4518" id="token-41-11" morph="none" pos="word" start_char="4511">internal</TOKEN>
+<TOKEN end_char="4527" id="token-41-12" morph="none" pos="word" start_char="4520">medicine</TOKEN>
+<TOKEN end_char="4534" id="token-41-13" morph="none" pos="word" start_char="4529">doctor</TOKEN>
+<TOKEN end_char="4540" id="token-41-14" morph="none" pos="word" start_char="4536">about</TOKEN>
+<TOKEN end_char="4544" id="token-41-15" morph="none" pos="word" start_char="4542">the</TOKEN>
+<TOKEN end_char="4556" id="token-41-16" morph="none" pos="word" start_char="4546">medications</TOKEN>
+<TOKEN end_char="4560" id="token-41-17" morph="none" pos="word" start_char="4558">and</TOKEN>
+<TOKEN end_char="4572" id="token-41-18" morph="none" pos="word" start_char="4562">supplements</TOKEN>
+<TOKEN end_char="4577" id="token-41-19" morph="none" pos="word" start_char="4574">that</TOKEN>
+<TOKEN end_char="4584" id="token-41-20" morph="none" pos="word" start_char="4579">you’re</TOKEN>
+<TOKEN end_char="4591" id="token-41-21" morph="none" pos="word" start_char="4586">taking</TOKEN>
+<TOKEN end_char="4592" id="token-41-22" morph="none" pos="punct" start_char="4592">.</TOKEN>
+</SEG>
+<SEG end_char="4645" id="segment-42" start_char="4595">
+<ORIGINAL_TEXT>What Can You do to help improve your immune system?</ORIGINAL_TEXT>
+<TOKEN end_char="4598" id="token-42-0" morph="none" pos="word" start_char="4595">What</TOKEN>
+<TOKEN end_char="4602" id="token-42-1" morph="none" pos="word" start_char="4600">Can</TOKEN>
+<TOKEN end_char="4606" id="token-42-2" morph="none" pos="word" start_char="4604">You</TOKEN>
+<TOKEN end_char="4609" id="token-42-3" morph="none" pos="word" start_char="4608">do</TOKEN>
+<TOKEN end_char="4612" id="token-42-4" morph="none" pos="word" start_char="4611">to</TOKEN>
+<TOKEN end_char="4617" id="token-42-5" morph="none" pos="word" start_char="4614">help</TOKEN>
+<TOKEN end_char="4625" id="token-42-6" morph="none" pos="word" start_char="4619">improve</TOKEN>
+<TOKEN end_char="4630" id="token-42-7" morph="none" pos="word" start_char="4627">your</TOKEN>
+<TOKEN end_char="4637" id="token-42-8" morph="none" pos="word" start_char="4632">immune</TOKEN>
+<TOKEN end_char="4644" id="token-42-9" morph="none" pos="word" start_char="4639">system</TOKEN>
+<TOKEN end_char="4645" id="token-42-10" morph="none" pos="punct" start_char="4645">?</TOKEN>
+</SEG>
+<SEG end_char="4714" id="segment-43" start_char="4649">
+<ORIGINAL_TEXT>Here’s my recommendation for a healthy lifestyle during this time:</ORIGINAL_TEXT>
+<TOKEN end_char="4654" id="token-43-0" morph="none" pos="word" start_char="4649">Here’s</TOKEN>
+<TOKEN end_char="4657" id="token-43-1" morph="none" pos="word" start_char="4656">my</TOKEN>
+<TOKEN end_char="4672" id="token-43-2" morph="none" pos="word" start_char="4659">recommendation</TOKEN>
+<TOKEN end_char="4676" id="token-43-3" morph="none" pos="word" start_char="4674">for</TOKEN>
+<TOKEN end_char="4678" id="token-43-4" morph="none" pos="word" start_char="4678">a</TOKEN>
+<TOKEN end_char="4686" id="token-43-5" morph="none" pos="word" start_char="4680">healthy</TOKEN>
+<TOKEN end_char="4696" id="token-43-6" morph="none" pos="word" start_char="4688">lifestyle</TOKEN>
+<TOKEN end_char="4703" id="token-43-7" morph="none" pos="word" start_char="4698">during</TOKEN>
+<TOKEN end_char="4708" id="token-43-8" morph="none" pos="word" start_char="4705">this</TOKEN>
+<TOKEN end_char="4713" id="token-43-9" morph="none" pos="word" start_char="4710">time</TOKEN>
+<TOKEN end_char="4714" id="token-43-10" morph="none" pos="punct" start_char="4714">:</TOKEN>
+</SEG>
+<SEG end_char="4738" id="segment-44" start_char="4717">
+<ORIGINAL_TEXT>Exercise: 1 hour daily</ORIGINAL_TEXT>
+<TOKEN end_char="4724" id="token-44-0" morph="none" pos="word" start_char="4717">Exercise</TOKEN>
+<TOKEN end_char="4725" id="token-44-1" morph="none" pos="punct" start_char="4725">:</TOKEN>
+<TOKEN end_char="4727" id="token-44-2" morph="none" pos="word" start_char="4727">1</TOKEN>
+<TOKEN end_char="4732" id="token-44-3" morph="none" pos="word" start_char="4729">hour</TOKEN>
+<TOKEN end_char="4738" id="token-44-4" morph="none" pos="word" start_char="4734">daily</TOKEN>
+<TRANSLATED_TEXT>Uitoefening: 1 uur per dag</TRANSLATED_TEXT><DETECTED_LANGUAGE>fr</DETECTED_LANGUAGE></SEG>
+<SEG end_char="4764" id="segment-45" start_char="4741">
+<ORIGINAL_TEXT>Sleep: 7 - 9 hours daily</ORIGINAL_TEXT>
+<TOKEN end_char="4745" id="token-45-0" morph="none" pos="word" start_char="4741">Sleep</TOKEN>
+<TOKEN end_char="4746" id="token-45-1" morph="none" pos="punct" start_char="4746">:</TOKEN>
+<TOKEN end_char="4748" id="token-45-2" morph="none" pos="word" start_char="4748">7</TOKEN>
+<TOKEN end_char="4750" id="token-45-3" morph="none" pos="punct" start_char="4750">-</TOKEN>
+<TOKEN end_char="4752" id="token-45-4" morph="none" pos="word" start_char="4752">9</TOKEN>
+<TOKEN end_char="4758" id="token-45-5" morph="none" pos="word" start_char="4754">hours</TOKEN>
+<TOKEN end_char="4764" id="token-45-6" morph="none" pos="word" start_char="4760">daily</TOKEN>
+<TRANSLATED_TEXT>Sleep: 7 - 9 uur per dag</TRANSLATED_TEXT><DETECTED_LANGUAGE>af</DETECTED_LANGUAGE></SEG>
+<SEG end_char="4795" id="segment-46" start_char="4767">
+<ORIGINAL_TEXT>Eat: a balanced, healthy diet</ORIGINAL_TEXT>
+<TOKEN end_char="4769" id="token-46-0" morph="none" pos="word" start_char="4767">Eat</TOKEN>
+<TOKEN end_char="4770" id="token-46-1" morph="none" pos="punct" start_char="4770">:</TOKEN>
+<TOKEN end_char="4772" id="token-46-2" morph="none" pos="word" start_char="4772">a</TOKEN>
+<TOKEN end_char="4781" id="token-46-3" morph="none" pos="word" start_char="4774">balanced</TOKEN>
+<TOKEN end_char="4782" id="token-46-4" morph="none" pos="punct" start_char="4782">,</TOKEN>
+<TOKEN end_char="4790" id="token-46-5" morph="none" pos="word" start_char="4784">healthy</TOKEN>
+<TOKEN end_char="4795" id="token-46-6" morph="none" pos="word" start_char="4792">diet</TOKEN>
+</SEG>
+<SEG end_char="4833" id="segment-47" start_char="4798">
+<ORIGINAL_TEXT>Meditate: 30 minutes to 1 hour daily</ORIGINAL_TEXT>
+<TOKEN end_char="4805" id="token-47-0" morph="none" pos="word" start_char="4798">Meditate</TOKEN>
+<TOKEN end_char="4806" id="token-47-1" morph="none" pos="punct" start_char="4806">:</TOKEN>
+<TOKEN end_char="4809" id="token-47-2" morph="none" pos="word" start_char="4808">30</TOKEN>
+<TOKEN end_char="4817" id="token-47-3" morph="none" pos="word" start_char="4811">minutes</TOKEN>
+<TOKEN end_char="4820" id="token-47-4" morph="none" pos="word" start_char="4819">to</TOKEN>
+<TOKEN end_char="4822" id="token-47-5" morph="none" pos="word" start_char="4822">1</TOKEN>
+<TOKEN end_char="4827" id="token-47-6" morph="none" pos="word" start_char="4824">hour</TOKEN>
+<TOKEN end_char="4833" id="token-47-7" morph="none" pos="word" start_char="4829">daily</TOKEN>
+</SEG>
+<SEG end_char="4902" id="segment-48" start_char="4837">
+<ORIGINAL_TEXT>If you choose to supplement with Vitamin C, talk with your doctor.</ORIGINAL_TEXT>
+<TOKEN end_char="4838" id="token-48-0" morph="none" pos="word" start_char="4837">If</TOKEN>
+<TOKEN end_char="4842" id="token-48-1" morph="none" pos="word" start_char="4840">you</TOKEN>
+<TOKEN end_char="4849" id="token-48-2" morph="none" pos="word" start_char="4844">choose</TOKEN>
+<TOKEN end_char="4852" id="token-48-3" morph="none" pos="word" start_char="4851">to</TOKEN>
+<TOKEN end_char="4863" id="token-48-4" morph="none" pos="word" start_char="4854">supplement</TOKEN>
+<TOKEN end_char="4868" id="token-48-5" morph="none" pos="word" start_char="4865">with</TOKEN>
+<TOKEN end_char="4876" id="token-48-6" morph="none" pos="word" start_char="4870">Vitamin</TOKEN>
+<TOKEN end_char="4878" id="token-48-7" morph="none" pos="word" start_char="4878">C</TOKEN>
+<TOKEN end_char="4879" id="token-48-8" morph="none" pos="punct" start_char="4879">,</TOKEN>
+<TOKEN end_char="4884" id="token-48-9" morph="none" pos="word" start_char="4881">talk</TOKEN>
+<TOKEN end_char="4889" id="token-48-10" morph="none" pos="word" start_char="4886">with</TOKEN>
+<TOKEN end_char="4894" id="token-48-11" morph="none" pos="word" start_char="4891">your</TOKEN>
+<TOKEN end_char="4901" id="token-48-12" morph="none" pos="word" start_char="4896">doctor</TOKEN>
+<TOKEN end_char="4902" id="token-48-13" morph="none" pos="punct" start_char="4902">.</TOKEN>
+</SEG>
+<SEG end_char="5035" id="segment-49" start_char="4905">
+<ORIGINAL_TEXT>As a final note, the USA Today wrote a good article about this topic, and Harvard Health has another good article about this topic.</ORIGINAL_TEXT>
+<TOKEN end_char="4906" id="token-49-0" morph="none" pos="word" start_char="4905">As</TOKEN>
+<TOKEN end_char="4908" id="token-49-1" morph="none" pos="word" start_char="4908">a</TOKEN>
+<TOKEN end_char="4914" id="token-49-2" morph="none" pos="word" start_char="4910">final</TOKEN>
+<TOKEN end_char="4919" id="token-49-3" morph="none" pos="word" start_char="4916">note</TOKEN>
+<TOKEN end_char="4920" id="token-49-4" morph="none" pos="punct" start_char="4920">,</TOKEN>
+<TOKEN end_char="4924" id="token-49-5" morph="none" pos="word" start_char="4922">the</TOKEN>
+<TOKEN end_char="4928" id="token-49-6" morph="none" pos="word" start_char="4926">USA</TOKEN>
+<TOKEN end_char="4934" id="token-49-7" morph="none" pos="word" start_char="4930">Today</TOKEN>
+<TOKEN end_char="4940" id="token-49-8" morph="none" pos="word" start_char="4936">wrote</TOKEN>
+<TOKEN end_char="4942" id="token-49-9" morph="none" pos="word" start_char="4942">a</TOKEN>
+<TOKEN end_char="4947" id="token-49-10" morph="none" pos="word" start_char="4944">good</TOKEN>
+<TOKEN end_char="4955" id="token-49-11" morph="none" pos="word" start_char="4949">article</TOKEN>
+<TOKEN end_char="4961" id="token-49-12" morph="none" pos="word" start_char="4957">about</TOKEN>
+<TOKEN end_char="4966" id="token-49-13" morph="none" pos="word" start_char="4963">this</TOKEN>
+<TOKEN end_char="4972" id="token-49-14" morph="none" pos="word" start_char="4968">topic</TOKEN>
+<TOKEN end_char="4973" id="token-49-15" morph="none" pos="punct" start_char="4973">,</TOKEN>
+<TOKEN end_char="4977" id="token-49-16" morph="none" pos="word" start_char="4975">and</TOKEN>
+<TOKEN end_char="4985" id="token-49-17" morph="none" pos="word" start_char="4979">Harvard</TOKEN>
+<TOKEN end_char="4992" id="token-49-18" morph="none" pos="word" start_char="4987">Health</TOKEN>
+<TOKEN end_char="4996" id="token-49-19" morph="none" pos="word" start_char="4994">has</TOKEN>
+<TOKEN end_char="5004" id="token-49-20" morph="none" pos="word" start_char="4998">another</TOKEN>
+<TOKEN end_char="5009" id="token-49-21" morph="none" pos="word" start_char="5006">good</TOKEN>
+<TOKEN end_char="5017" id="token-49-22" morph="none" pos="word" start_char="5011">article</TOKEN>
+<TOKEN end_char="5023" id="token-49-23" morph="none" pos="word" start_char="5019">about</TOKEN>
+<TOKEN end_char="5028" id="token-49-24" morph="none" pos="word" start_char="5025">this</TOKEN>
+<TOKEN end_char="5034" id="token-49-25" morph="none" pos="word" start_char="5030">topic</TOKEN>
+<TOKEN end_char="5035" id="token-49-26" morph="none" pos="punct" start_char="5035">.</TOKEN>
+</SEG>
+<SEG end_char="5062" id="segment-50" start_char="5038">
+<ORIGINAL_TEXT>Thanks for reading, - Dr.</ORIGINAL_TEXT>
+<TOKEN end_char="5043" id="token-50-0" morph="none" pos="word" start_char="5038">Thanks</TOKEN>
+<TOKEN end_char="5047" id="token-50-1" morph="none" pos="word" start_char="5045">for</TOKEN>
+<TOKEN end_char="5055" id="token-50-2" morph="none" pos="word" start_char="5049">reading</TOKEN>
+<TOKEN end_char="5056" id="token-50-3" morph="none" pos="punct" start_char="5056">,</TOKEN>
+<TOKEN end_char="5058" id="token-50-4" morph="none" pos="punct" start_char="5058">-</TOKEN>
+<TOKEN end_char="5061" id="token-50-5" morph="none" pos="word" start_char="5060">Dr</TOKEN>
+<TOKEN end_char="5062" id="token-50-6" morph="none" pos="punct" start_char="5062">.</TOKEN>
+</SEG>
+<SEG end_char="5095" id="segment-51" start_char="5064">
+<ORIGINAL_TEXT>Paul Thomas with Plum Health DPC</ORIGINAL_TEXT>
+<TOKEN end_char="5067" id="token-51-0" morph="none" pos="word" start_char="5064">Paul</TOKEN>
+<TOKEN end_char="5074" id="token-51-1" morph="none" pos="word" start_char="5069">Thomas</TOKEN>
+<TOKEN end_char="5079" id="token-51-2" morph="none" pos="word" start_char="5076">with</TOKEN>
+<TOKEN end_char="5084" id="token-51-3" morph="none" pos="word" start_char="5081">Plum</TOKEN>
+<TOKEN end_char="5091" id="token-51-4" morph="none" pos="word" start_char="5086">Health</TOKEN>
+<TOKEN end_char="5095" id="token-51-5" morph="none" pos="word" start_char="5093">DPC</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

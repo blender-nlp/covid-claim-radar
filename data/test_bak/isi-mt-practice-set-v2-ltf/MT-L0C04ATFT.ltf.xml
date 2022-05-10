@@ -1,0 +1,21 @@
+<LCTL_TEXT lang="spa">
+<DOC grammar="none" id="L0C04ATFT" lang="spa" raw_text_char_length="50" raw_text_md5="607f306d18bdc6d18aad0ad7d81610be" tokenization="tokenization_parameters.v5.0">
+<TEXT>
+<SEG end_char="37" id="segment-0" start_char="1">
+<ORIGINAL_TEXT>How Long Does COVID-19 Immunity Last?</ORIGINAL_TEXT>
+<TOKEN end_char="3" id="token-0-0" morph="none" pos="word" start_char="1">How</TOKEN>
+<TOKEN end_char="8" id="token-0-1" morph="none" pos="word" start_char="5">Long</TOKEN>
+<TOKEN end_char="13" id="token-0-2" morph="none" pos="word" start_char="10">Does</TOKEN>
+<TOKEN end_char="22" id="token-0-3" morph="none" pos="unknown" start_char="15">COVID-19</TOKEN>
+<TOKEN end_char="31" id="token-0-4" morph="none" pos="word" start_char="24">Immunity</TOKEN>
+<TOKEN end_char="36" id="token-0-5" morph="none" pos="word" start_char="33">Last</TOKEN>
+<TOKEN end_char="37" id="token-0-6" morph="none" pos="punct" start_char="37">?</TOKEN>
+</SEG>
+<SEG end_char="46" id="segment-1" start_char="39">
+<ORIGINAL_TEXT>- GoodRx</ORIGINAL_TEXT>
+<TOKEN end_char="39" id="token-1-0" morph="none" pos="punct" start_char="39">-</TOKEN>
+<TOKEN end_char="46" id="token-1-1" morph="none" pos="word" start_char="41">GoodRx</TOKEN>
+<TRANSLATED_TEXT>GoodRx</TRANSLATED_TEXT><DETECTED_LANGUAGE>so</DETECTED_LANGUAGE></SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

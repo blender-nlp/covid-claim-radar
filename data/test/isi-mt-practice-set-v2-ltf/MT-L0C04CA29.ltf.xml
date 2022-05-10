@@ -1,0 +1,202 @@
+<LCTL_TEXT lang="spa">
+<DOC grammar="none" id="L0C04CA29" lang="spa" raw_text_char_length="988" raw_text_md5="5b0f0064f1a0c19bd7a7e31e907ac333" tokenization="tokenization_parameters.v5.0">
+<TEXT>
+<SEG end_char="60" id="segment-0" start_char="1">
+<ORIGINAL_TEXT>Первый случай коронавируса был зафиксирован в Китае в ноябре</ORIGINAL_TEXT>
+<TOKEN end_char="6" id="token-0-0" morph="none" pos="word" start_char="1">Первый</TOKEN>
+<TOKEN end_char="13" id="token-0-1" morph="none" pos="word" start_char="8">случай</TOKEN>
+<TOKEN end_char="26" id="token-0-2" morph="none" pos="word" start_char="15">коронавируса</TOKEN>
+<TOKEN end_char="30" id="token-0-3" morph="none" pos="word" start_char="28">был</TOKEN>
+<TOKEN end_char="43" id="token-0-4" morph="none" pos="word" start_char="32">зафиксирован</TOKEN>
+<TOKEN end_char="45" id="token-0-5" morph="none" pos="word" start_char="45">в</TOKEN>
+<TOKEN end_char="51" id="token-0-6" morph="none" pos="word" start_char="47">Китае</TOKEN>
+<TOKEN end_char="53" id="token-0-7" morph="none" pos="word" start_char="53">в</TOKEN>
+<TOKEN end_char="60" id="token-0-8" morph="none" pos="word" start_char="55">ноябре</TOKEN>
+<TRANSLATED_TEXT>The first case of a coronavirus was reported in China in November...........</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="166" id="segment-1" start_char="65">
+<ORIGINAL_TEXT>Первый случай инфицирования новым коронавирусом COVID-19 в Китае был зафиксирован 17 ноября 2019 года.</ORIGINAL_TEXT>
+<TOKEN end_char="70" id="token-1-0" morph="none" pos="word" start_char="65">Первый</TOKEN>
+<TOKEN end_char="77" id="token-1-1" morph="none" pos="word" start_char="72">случай</TOKEN>
+<TOKEN end_char="91" id="token-1-2" morph="none" pos="word" start_char="79">инфицирования</TOKEN>
+<TOKEN end_char="97" id="token-1-3" morph="none" pos="word" start_char="93">новым</TOKEN>
+<TOKEN end_char="111" id="token-1-4" morph="none" pos="word" start_char="99">коронавирусом</TOKEN>
+<TOKEN end_char="120" id="token-1-5" morph="none" pos="unknown" start_char="113">COVID-19</TOKEN>
+<TOKEN end_char="122" id="token-1-6" morph="none" pos="word" start_char="122">в</TOKEN>
+<TOKEN end_char="128" id="token-1-7" morph="none" pos="word" start_char="124">Китае</TOKEN>
+<TOKEN end_char="132" id="token-1-8" morph="none" pos="word" start_char="130">был</TOKEN>
+<TOKEN end_char="145" id="token-1-9" morph="none" pos="word" start_char="134">зафиксирован</TOKEN>
+<TOKEN end_char="148" id="token-1-10" morph="none" pos="word" start_char="147">17</TOKEN>
+<TOKEN end_char="155" id="token-1-11" morph="none" pos="word" start_char="150">ноября</TOKEN>
+<TOKEN end_char="160" id="token-1-12" morph="none" pos="word" start_char="157">2019</TOKEN>
+<TOKEN end_char="165" id="token-1-13" morph="none" pos="word" start_char="162">года</TOKEN>
+<TOKEN end_char="166" id="token-1-14" morph="none" pos="punct" start_char="166">.</TOKEN>
+<TRANSLATED_TEXT>The first case of new COVID-19 coronavirus infection in China was reported on 17 November 2019.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="235" id="segment-2" start_char="168">
+<ORIGINAL_TEXT>Об этом пишут местные СМИ со ссылкой на правительственные документы.</ORIGINAL_TEXT>
+<TOKEN end_char="169" id="token-2-0" morph="none" pos="word" start_char="168">Об</TOKEN>
+<TOKEN end_char="174" id="token-2-1" morph="none" pos="word" start_char="171">этом</TOKEN>
+<TOKEN end_char="180" id="token-2-2" morph="none" pos="word" start_char="176">пишут</TOKEN>
+<TOKEN end_char="188" id="token-2-3" morph="none" pos="word" start_char="182">местные</TOKEN>
+<TOKEN end_char="192" id="token-2-4" morph="none" pos="word" start_char="190">СМИ</TOKEN>
+<TOKEN end_char="195" id="token-2-5" morph="none" pos="word" start_char="194">со</TOKEN>
+<TOKEN end_char="203" id="token-2-6" morph="none" pos="word" start_char="197">ссылкой</TOKEN>
+<TOKEN end_char="206" id="token-2-7" morph="none" pos="word" start_char="205">на</TOKEN>
+<TOKEN end_char="224" id="token-2-8" morph="none" pos="word" start_char="208">правительственные</TOKEN>
+<TOKEN end_char="234" id="token-2-9" morph="none" pos="word" start_char="226">документы</TOKEN>
+<TOKEN end_char="235" id="token-2-10" morph="none" pos="punct" start_char="235">.</TOKEN>
+<TRANSLATED_TEXT>Local media have written about this with reference to government documents.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="292" id="segment-3" start_char="238">
+<ORIGINAL_TEXT>Первым заболевшим был 55-летний житель провинции Хубэй.</ORIGINAL_TEXT>
+<TOKEN end_char="243" id="token-3-0" morph="none" pos="word" start_char="238">Первым</TOKEN>
+<TOKEN end_char="254" id="token-3-1" morph="none" pos="word" start_char="245">заболевшим</TOKEN>
+<TOKEN end_char="258" id="token-3-2" morph="none" pos="word" start_char="256">был</TOKEN>
+<TOKEN end_char="268" id="token-3-3" morph="none" pos="unknown" start_char="260">55-летний</TOKEN>
+<TOKEN end_char="275" id="token-3-4" morph="none" pos="word" start_char="270">житель</TOKEN>
+<TOKEN end_char="285" id="token-3-5" morph="none" pos="word" start_char="277">провинции</TOKEN>
+<TOKEN end_char="291" id="token-3-6" morph="none" pos="word" start_char="287">Хубэй</TOKEN>
+<TOKEN end_char="292" id="token-3-7" morph="none" pos="punct" start_char="292">.</TOKEN>
+<TRANSLATED_TEXT>The first victim was a 55-year-old resident of Hubei Province.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="341" id="segment-4" start_char="294">
+<ORIGINAL_TEXT>После этого каждый день заболевали до 5 человек.</ORIGINAL_TEXT>
+<TOKEN end_char="298" id="token-4-0" morph="none" pos="word" start_char="294">После</TOKEN>
+<TOKEN end_char="304" id="token-4-1" morph="none" pos="word" start_char="300">этого</TOKEN>
+<TOKEN end_char="311" id="token-4-2" morph="none" pos="word" start_char="306">каждый</TOKEN>
+<TOKEN end_char="316" id="token-4-3" morph="none" pos="word" start_char="313">день</TOKEN>
+<TOKEN end_char="327" id="token-4-4" morph="none" pos="word" start_char="318">заболевали</TOKEN>
+<TOKEN end_char="330" id="token-4-5" morph="none" pos="word" start_char="329">до</TOKEN>
+<TOKEN end_char="332" id="token-4-6" morph="none" pos="word" start_char="332">5</TOKEN>
+<TOKEN end_char="340" id="token-4-7" morph="none" pos="word" start_char="334">человек</TOKEN>
+<TOKEN end_char="341" id="token-4-8" morph="none" pos="punct" start_char="341">.</TOKEN>
+<TRANSLATED_TEXT>Since then, up to five people have fallen ill every day.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="409" id="segment-5" start_char="343">
+<ORIGINAL_TEXT>К середине декабря инфицировались 27 человек, к 1 января – уже 381.</ORIGINAL_TEXT>
+<TOKEN end_char="343" id="token-5-0" morph="none" pos="word" start_char="343">К</TOKEN>
+<TOKEN end_char="352" id="token-5-1" morph="none" pos="word" start_char="345">середине</TOKEN>
+<TOKEN end_char="360" id="token-5-2" morph="none" pos="word" start_char="354">декабря</TOKEN>
+<TOKEN end_char="375" id="token-5-3" morph="none" pos="word" start_char="362">инфицировались</TOKEN>
+<TOKEN end_char="378" id="token-5-4" morph="none" pos="word" start_char="377">27</TOKEN>
+<TOKEN end_char="386" id="token-5-5" morph="none" pos="word" start_char="380">человек</TOKEN>
+<TOKEN end_char="387" id="token-5-6" morph="none" pos="punct" start_char="387">,</TOKEN>
+<TOKEN end_char="389" id="token-5-7" morph="none" pos="word" start_char="389">к</TOKEN>
+<TOKEN end_char="391" id="token-5-8" morph="none" pos="word" start_char="391">1</TOKEN>
+<TOKEN end_char="398" id="token-5-9" morph="none" pos="word" start_char="393">января</TOKEN>
+<TOKEN end_char="400" id="token-5-10" morph="none" pos="punct" start_char="400">–</TOKEN>
+<TOKEN end_char="404" id="token-5-11" morph="none" pos="word" start_char="402">уже</TOKEN>
+<TOKEN end_char="408" id="token-5-12" morph="none" pos="word" start_char="406">381</TOKEN>
+<TOKEN end_char="409" id="token-5-13" morph="none" pos="punct" start_char="409">.</TOKEN>
+<TRANSLATED_TEXT>By mid-December, 27 people had been infected, and by 1 January, 381 had been infected.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="563" id="segment-6" start_char="412">
+<ORIGINAL_TEXT>Ранее Всемирная организации здравоохранения сообщала, что первый случай заражения новым коронавирусом был зафиксирован в Китае 8 декабря, передает ТАСС.</ORIGINAL_TEXT>
+<TOKEN end_char="416" id="token-6-0" morph="none" pos="word" start_char="412">Ранее</TOKEN>
+<TOKEN end_char="426" id="token-6-1" morph="none" pos="word" start_char="418">Всемирная</TOKEN>
+<TOKEN end_char="438" id="token-6-2" morph="none" pos="word" start_char="428">организации</TOKEN>
+<TOKEN end_char="454" id="token-6-3" morph="none" pos="word" start_char="440">здравоохранения</TOKEN>
+<TOKEN end_char="463" id="token-6-4" morph="none" pos="word" start_char="456">сообщала</TOKEN>
+<TOKEN end_char="464" id="token-6-5" morph="none" pos="punct" start_char="464">,</TOKEN>
+<TOKEN end_char="468" id="token-6-6" morph="none" pos="word" start_char="466">что</TOKEN>
+<TOKEN end_char="475" id="token-6-7" morph="none" pos="word" start_char="470">первый</TOKEN>
+<TOKEN end_char="482" id="token-6-8" morph="none" pos="word" start_char="477">случай</TOKEN>
+<TOKEN end_char="492" id="token-6-9" morph="none" pos="word" start_char="484">заражения</TOKEN>
+<TOKEN end_char="498" id="token-6-10" morph="none" pos="word" start_char="494">новым</TOKEN>
+<TOKEN end_char="512" id="token-6-11" morph="none" pos="word" start_char="500">коронавирусом</TOKEN>
+<TOKEN end_char="516" id="token-6-12" morph="none" pos="word" start_char="514">был</TOKEN>
+<TOKEN end_char="529" id="token-6-13" morph="none" pos="word" start_char="518">зафиксирован</TOKEN>
+<TOKEN end_char="531" id="token-6-14" morph="none" pos="word" start_char="531">в</TOKEN>
+<TOKEN end_char="537" id="token-6-15" morph="none" pos="word" start_char="533">Китае</TOKEN>
+<TOKEN end_char="539" id="token-6-16" morph="none" pos="word" start_char="539">8</TOKEN>
+<TOKEN end_char="547" id="token-6-17" morph="none" pos="word" start_char="541">декабря</TOKEN>
+<TOKEN end_char="548" id="token-6-18" morph="none" pos="punct" start_char="548">,</TOKEN>
+<TOKEN end_char="557" id="token-6-19" morph="none" pos="word" start_char="550">передает</TOKEN>
+<TOKEN end_char="562" id="token-6-20" morph="none" pos="word" start_char="559">ТАСС</TOKEN>
+<TOKEN end_char="563" id="token-6-21" morph="none" pos="punct" start_char="563">.</TOKEN>
+<TRANSLATED_TEXT>The World Health Organization previously reported that the first case of new coronavirus infection was reported in China on 8 December, TASS reports.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="648" id="segment-7" start_char="566">
+<ORIGINAL_TEXT>Обновите, пожалуйста, браузер: текущая версия не поддерживает воспроизведение видео</ORIGINAL_TEXT>
+<TOKEN end_char="573" id="token-7-0" morph="none" pos="word" start_char="566">Обновите</TOKEN>
+<TOKEN end_char="574" id="token-7-1" morph="none" pos="punct" start_char="574">,</TOKEN>
+<TOKEN end_char="585" id="token-7-2" morph="none" pos="word" start_char="576">пожалуйста</TOKEN>
+<TOKEN end_char="586" id="token-7-3" morph="none" pos="punct" start_char="586">,</TOKEN>
+<TOKEN end_char="594" id="token-7-4" morph="none" pos="word" start_char="588">браузер</TOKEN>
+<TOKEN end_char="595" id="token-7-5" morph="none" pos="punct" start_char="595">:</TOKEN>
+<TOKEN end_char="603" id="token-7-6" morph="none" pos="word" start_char="597">текущая</TOKEN>
+<TOKEN end_char="610" id="token-7-7" morph="none" pos="word" start_char="605">версия</TOKEN>
+<TOKEN end_char="613" id="token-7-8" morph="none" pos="word" start_char="612">не</TOKEN>
+<TOKEN end_char="626" id="token-7-9" morph="none" pos="word" start_char="615">поддерживает</TOKEN>
+<TOKEN end_char="642" id="token-7-10" morph="none" pos="word" start_char="628">воспроизведение</TOKEN>
+<TOKEN end_char="648" id="token-7-11" morph="none" pos="word" start_char="644">видео</TOKEN>
+<TRANSLATED_TEXT>Please update your browser: the current version does not support video playback</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="724" id="segment-8" start_char="652">
+<ORIGINAL_TEXT>В конце декабря врач Ли Вэньлян из Уханя сообщил о вспышке новой болезни.</ORIGINAL_TEXT>
+<TOKEN end_char="652" id="token-8-0" morph="none" pos="word" start_char="652">В</TOKEN>
+<TOKEN end_char="658" id="token-8-1" morph="none" pos="word" start_char="654">конце</TOKEN>
+<TOKEN end_char="666" id="token-8-2" morph="none" pos="word" start_char="660">декабря</TOKEN>
+<TOKEN end_char="671" id="token-8-3" morph="none" pos="word" start_char="668">врач</TOKEN>
+<TOKEN end_char="674" id="token-8-4" morph="none" pos="word" start_char="673">Ли</TOKEN>
+<TOKEN end_char="682" id="token-8-5" morph="none" pos="word" start_char="676">Вэньлян</TOKEN>
+<TOKEN end_char="685" id="token-8-6" morph="none" pos="word" start_char="684">из</TOKEN>
+<TOKEN end_char="691" id="token-8-7" morph="none" pos="word" start_char="687">Уханя</TOKEN>
+<TOKEN end_char="699" id="token-8-8" morph="none" pos="word" start_char="693">сообщил</TOKEN>
+<TOKEN end_char="701" id="token-8-9" morph="none" pos="word" start_char="701">о</TOKEN>
+<TOKEN end_char="709" id="token-8-10" morph="none" pos="word" start_char="703">вспышке</TOKEN>
+<TOKEN end_char="715" id="token-8-11" morph="none" pos="word" start_char="711">новой</TOKEN>
+<TOKEN end_char="723" id="token-8-12" morph="none" pos="word" start_char="717">болезни</TOKEN>
+<TOKEN end_char="724" id="token-8-13" morph="none" pos="punct" start_char="724">.</TOKEN>
+<TRANSLATED_TEXT>In late December, Dr. Li Wenliang of Wuhan reported an outbreak of a new disease.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="776" id="segment-9" start_char="726">
+<ORIGINAL_TEXT>Однако тогда его обвинили в распространении слухов.</ORIGINAL_TEXT>
+<TOKEN end_char="731" id="token-9-0" morph="none" pos="word" start_char="726">Однако</TOKEN>
+<TOKEN end_char="737" id="token-9-1" morph="none" pos="word" start_char="733">тогда</TOKEN>
+<TOKEN end_char="741" id="token-9-2" morph="none" pos="word" start_char="739">его</TOKEN>
+<TOKEN end_char="750" id="token-9-3" morph="none" pos="word" start_char="743">обвинили</TOKEN>
+<TOKEN end_char="752" id="token-9-4" morph="none" pos="word" start_char="752">в</TOKEN>
+<TOKEN end_char="768" id="token-9-5" morph="none" pos="word" start_char="754">распространении</TOKEN>
+<TOKEN end_char="775" id="token-9-6" morph="none" pos="word" start_char="770">слухов</TOKEN>
+<TOKEN end_char="776" id="token-9-7" morph="none" pos="punct" start_char="776">.</TOKEN>
+<TRANSLATED_TEXT>He was accused of spreading rumors.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="841" id="segment-10" start_char="778">
+<ORIGINAL_TEXT>В феврале он умер от тяжелой пневмонии, вызванной коронавирусом.</ORIGINAL_TEXT>
+<TOKEN end_char="778" id="token-10-0" morph="none" pos="word" start_char="778">В</TOKEN>
+<TOKEN end_char="786" id="token-10-1" morph="none" pos="word" start_char="780">феврале</TOKEN>
+<TOKEN end_char="789" id="token-10-2" morph="none" pos="word" start_char="788">он</TOKEN>
+<TOKEN end_char="794" id="token-10-3" morph="none" pos="word" start_char="791">умер</TOKEN>
+<TOKEN end_char="797" id="token-10-4" morph="none" pos="word" start_char="796">от</TOKEN>
+<TOKEN end_char="805" id="token-10-5" morph="none" pos="word" start_char="799">тяжелой</TOKEN>
+<TOKEN end_char="815" id="token-10-6" morph="none" pos="word" start_char="807">пневмонии</TOKEN>
+<TOKEN end_char="816" id="token-10-7" morph="none" pos="punct" start_char="816">,</TOKEN>
+<TOKEN end_char="826" id="token-10-8" morph="none" pos="word" start_char="818">вызванной</TOKEN>
+<TOKEN end_char="840" id="token-10-9" morph="none" pos="word" start_char="828">коронавирусом</TOKEN>
+<TOKEN end_char="841" id="token-10-10" morph="none" pos="punct" start_char="841">.</TOKEN>
+<TRANSLATED_TEXT>In February, he died of severe pneumonia caused by coronavirus.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="935" id="segment-11" start_char="844">
+<ORIGINAL_TEXT>В настоящее время по всему миру заразились более 118 тысяч человек, около 4,3 тысячи умерли.</ORIGINAL_TEXT>
+<TOKEN end_char="844" id="token-11-0" morph="none" pos="word" start_char="844">В</TOKEN>
+<TOKEN end_char="854" id="token-11-1" morph="none" pos="word" start_char="846">настоящее</TOKEN>
+<TOKEN end_char="860" id="token-11-2" morph="none" pos="word" start_char="856">время</TOKEN>
+<TOKEN end_char="863" id="token-11-3" morph="none" pos="word" start_char="862">по</TOKEN>
+<TOKEN end_char="869" id="token-11-4" morph="none" pos="word" start_char="865">всему</TOKEN>
+<TOKEN end_char="874" id="token-11-5" morph="none" pos="word" start_char="871">миру</TOKEN>
+<TOKEN end_char="885" id="token-11-6" morph="none" pos="word" start_char="876">заразились</TOKEN>
+<TOKEN end_char="891" id="token-11-7" morph="none" pos="word" start_char="887">более</TOKEN>
+<TOKEN end_char="895" id="token-11-8" morph="none" pos="word" start_char="893">118</TOKEN>
+<TOKEN end_char="901" id="token-11-9" morph="none" pos="word" start_char="897">тысяч</TOKEN>
+<TOKEN end_char="909" id="token-11-10" morph="none" pos="word" start_char="903">человек</TOKEN>
+<TOKEN end_char="910" id="token-11-11" morph="none" pos="punct" start_char="910">,</TOKEN>
+<TOKEN end_char="916" id="token-11-12" morph="none" pos="word" start_char="912">около</TOKEN>
+<TOKEN end_char="920" id="token-11-13" morph="none" pos="unknown" start_char="918">4,3</TOKEN>
+<TOKEN end_char="927" id="token-11-14" morph="none" pos="word" start_char="922">тысячи</TOKEN>
+<TOKEN end_char="934" id="token-11-15" morph="none" pos="word" start_char="929">умерли</TOKEN>
+<TOKEN end_char="935" id="token-11-16" morph="none" pos="punct" start_char="935">.</TOKEN>
+<TRANSLATED_TEXT>Worldwide, more than 118,000 people have been infected and about 4,300 have died.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="984" id="segment-12" start_char="937">
+<ORIGINAL_TEXT>Наиболее сложная ситуация складывается в Италии.</ORIGINAL_TEXT>
+<TOKEN end_char="944" id="token-12-0" morph="none" pos="word" start_char="937">Наиболее</TOKEN>
+<TOKEN end_char="952" id="token-12-1" morph="none" pos="word" start_char="946">сложная</TOKEN>
+<TOKEN end_char="961" id="token-12-2" morph="none" pos="word" start_char="954">ситуация</TOKEN>
+<TOKEN end_char="974" id="token-12-3" morph="none" pos="word" start_char="963">складывается</TOKEN>
+<TOKEN end_char="976" id="token-12-4" morph="none" pos="word" start_char="976">в</TOKEN>
+<TOKEN end_char="983" id="token-12-5" morph="none" pos="word" start_char="978">Италии</TOKEN>
+<TOKEN end_char="984" id="token-12-6" morph="none" pos="punct" start_char="984">.</TOKEN>
+<TRANSLATED_TEXT>The most difficult situation is in Italy.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

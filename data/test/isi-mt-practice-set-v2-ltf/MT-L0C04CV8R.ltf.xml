@@ -1,0 +1,293 @@
+<LCTL_TEXT lang="spa">
+<DOC grammar="none" id="L0C04CV8R" lang="spa" raw_text_char_length="1546" raw_text_md5="bd195490a30bdb791c663b0e9c8659a4" tokenization="tokenization_parameters.v5.0">
+<TEXT>
+<SEG end_char="61" id="segment-0" start_char="1">
+<ORIGINAL_TEXT>Эксперт ООН считает, что коронавирус создан в США в 2015 году</ORIGINAL_TEXT>
+<TOKEN end_char="7" id="token-0-0" morph="none" pos="word" start_char="1">Эксперт</TOKEN>
+<TOKEN end_char="11" id="token-0-1" morph="none" pos="word" start_char="9">ООН</TOKEN>
+<TOKEN end_char="19" id="token-0-2" morph="none" pos="word" start_char="13">считает</TOKEN>
+<TOKEN end_char="20" id="token-0-3" morph="none" pos="punct" start_char="20">,</TOKEN>
+<TOKEN end_char="24" id="token-0-4" morph="none" pos="word" start_char="22">что</TOKEN>
+<TOKEN end_char="36" id="token-0-5" morph="none" pos="word" start_char="26">коронавирус</TOKEN>
+<TOKEN end_char="43" id="token-0-6" morph="none" pos="word" start_char="38">создан</TOKEN>
+<TOKEN end_char="45" id="token-0-7" morph="none" pos="word" start_char="45">в</TOKEN>
+<TOKEN end_char="49" id="token-0-8" morph="none" pos="word" start_char="47">США</TOKEN>
+<TOKEN end_char="51" id="token-0-9" morph="none" pos="word" start_char="51">в</TOKEN>
+<TOKEN end_char="56" id="token-0-10" morph="none" pos="word" start_char="53">2015</TOKEN>
+<TOKEN end_char="61" id="token-0-11" morph="none" pos="word" start_char="58">году</TOKEN>
+<TRANSLATED_TEXT>A UN expert believes that coronavirus was created in the United States in 2015.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="80" id="segment-1" start_char="65">
+<ORIGINAL_TEXT>КарантинКарантин</ORIGINAL_TEXT>
+<TOKEN end_char="80" id="token-1-0" morph="none" pos="word" start_char="65">КарантинКарантин</TOKEN>
+<TRANSLATED_TEXT>KaranthinKaranthin</TRANSLATED_TEXT><DETECTED_LANGUAGE>bg</DETECTED_LANGUAGE></SEG>
+<SEG end_char="127" id="segment-2" start_char="83">
+<ORIGINAL_TEXT>Изображение: Сергей Кайсин © ИА Красная Весна</ORIGINAL_TEXT>
+<TOKEN end_char="93" id="token-2-0" morph="none" pos="word" start_char="83">Изображение</TOKEN>
+<TOKEN end_char="94" id="token-2-1" morph="none" pos="punct" start_char="94">:</TOKEN>
+<TOKEN end_char="101" id="token-2-2" morph="none" pos="word" start_char="96">Сергей</TOKEN>
+<TOKEN end_char="108" id="token-2-3" morph="none" pos="word" start_char="103">Кайсин</TOKEN>
+<TOKEN end_char="110" id="token-2-4" morph="none" pos="unknown" start_char="110">©</TOKEN>
+<TOKEN end_char="113" id="token-2-5" morph="none" pos="word" start_char="112">ИА</TOKEN>
+<TOKEN end_char="121" id="token-2-6" morph="none" pos="word" start_char="115">Красная</TOKEN>
+<TOKEN end_char="127" id="token-2-7" morph="none" pos="word" start_char="123">Весна</TOKEN>
+<TRANSLATED_TEXT>Image: Sergey Kaisin © IA Red Spring</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="306" id="segment-3" start_char="131">
+<ORIGINAL_TEXT>Коронавирус был разработан в США еще в 2015 году, заявил бывший эксперт ООН по бактериологическому оружию Игорь Никулин, 17 марта сообщает Федеральное агентство новостей (ФАН).</ORIGINAL_TEXT>
+<TOKEN end_char="141" id="token-3-0" morph="none" pos="word" start_char="131">Коронавирус</TOKEN>
+<TOKEN end_char="145" id="token-3-1" morph="none" pos="word" start_char="143">был</TOKEN>
+<TOKEN end_char="156" id="token-3-2" morph="none" pos="word" start_char="147">разработан</TOKEN>
+<TOKEN end_char="158" id="token-3-3" morph="none" pos="word" start_char="158">в</TOKEN>
+<TOKEN end_char="162" id="token-3-4" morph="none" pos="word" start_char="160">США</TOKEN>
+<TOKEN end_char="166" id="token-3-5" morph="none" pos="word" start_char="164">еще</TOKEN>
+<TOKEN end_char="168" id="token-3-6" morph="none" pos="word" start_char="168">в</TOKEN>
+<TOKEN end_char="173" id="token-3-7" morph="none" pos="word" start_char="170">2015</TOKEN>
+<TOKEN end_char="178" id="token-3-8" morph="none" pos="word" start_char="175">году</TOKEN>
+<TOKEN end_char="179" id="token-3-9" morph="none" pos="punct" start_char="179">,</TOKEN>
+<TOKEN end_char="186" id="token-3-10" morph="none" pos="word" start_char="181">заявил</TOKEN>
+<TOKEN end_char="193" id="token-3-11" morph="none" pos="word" start_char="188">бывший</TOKEN>
+<TOKEN end_char="201" id="token-3-12" morph="none" pos="word" start_char="195">эксперт</TOKEN>
+<TOKEN end_char="205" id="token-3-13" morph="none" pos="word" start_char="203">ООН</TOKEN>
+<TOKEN end_char="208" id="token-3-14" morph="none" pos="word" start_char="207">по</TOKEN>
+<TOKEN end_char="228" id="token-3-15" morph="none" pos="word" start_char="210">бактериологическому</TOKEN>
+<TOKEN end_char="235" id="token-3-16" morph="none" pos="word" start_char="230">оружию</TOKEN>
+<TOKEN end_char="241" id="token-3-17" morph="none" pos="word" start_char="237">Игорь</TOKEN>
+<TOKEN end_char="249" id="token-3-18" morph="none" pos="word" start_char="243">Никулин</TOKEN>
+<TOKEN end_char="250" id="token-3-19" morph="none" pos="punct" start_char="250">,</TOKEN>
+<TOKEN end_char="253" id="token-3-20" morph="none" pos="word" start_char="252">17</TOKEN>
+<TOKEN end_char="259" id="token-3-21" morph="none" pos="word" start_char="255">марта</TOKEN>
+<TOKEN end_char="268" id="token-3-22" morph="none" pos="word" start_char="261">сообщает</TOKEN>
+<TOKEN end_char="280" id="token-3-23" morph="none" pos="word" start_char="270">Федеральное</TOKEN>
+<TOKEN end_char="290" id="token-3-24" morph="none" pos="word" start_char="282">агентство</TOKEN>
+<TOKEN end_char="299" id="token-3-25" morph="none" pos="word" start_char="292">новостей</TOKEN>
+<TOKEN end_char="301" id="token-3-26" morph="none" pos="punct" start_char="301">(</TOKEN>
+<TOKEN end_char="304" id="token-3-27" morph="none" pos="word" start_char="302">ФАН</TOKEN>
+<TOKEN end_char="306" id="token-3-28" morph="none" pos="punct" start_char="305">).</TOKEN>
+<TRANSLATED_TEXT>Coronavirus was developed in the USA as early as 2015, stated former UN expert on bacteriological weapons Igor Nikulin, 17 March reports Federal News Agency (FAN).</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="469" id="segment-4" start_char="309">
+<ORIGINAL_TEXT>Никулин рассказал, что в 2015 году в журнале Nature вышла статья об успешном эксперименте американских ученых по модификации коронавируса китайской летучей мыши.</ORIGINAL_TEXT>
+<TOKEN end_char="315" id="token-4-0" morph="none" pos="word" start_char="309">Никулин</TOKEN>
+<TOKEN end_char="325" id="token-4-1" morph="none" pos="word" start_char="317">рассказал</TOKEN>
+<TOKEN end_char="326" id="token-4-2" morph="none" pos="punct" start_char="326">,</TOKEN>
+<TOKEN end_char="330" id="token-4-3" morph="none" pos="word" start_char="328">что</TOKEN>
+<TOKEN end_char="332" id="token-4-4" morph="none" pos="word" start_char="332">в</TOKEN>
+<TOKEN end_char="337" id="token-4-5" morph="none" pos="word" start_char="334">2015</TOKEN>
+<TOKEN end_char="342" id="token-4-6" morph="none" pos="word" start_char="339">году</TOKEN>
+<TOKEN end_char="344" id="token-4-7" morph="none" pos="word" start_char="344">в</TOKEN>
+<TOKEN end_char="352" id="token-4-8" morph="none" pos="word" start_char="346">журнале</TOKEN>
+<TOKEN end_char="359" id="token-4-9" morph="none" pos="word" start_char="354">Nature</TOKEN>
+<TOKEN end_char="365" id="token-4-10" morph="none" pos="word" start_char="361">вышла</TOKEN>
+<TOKEN end_char="372" id="token-4-11" morph="none" pos="word" start_char="367">статья</TOKEN>
+<TOKEN end_char="375" id="token-4-12" morph="none" pos="word" start_char="374">об</TOKEN>
+<TOKEN end_char="384" id="token-4-13" morph="none" pos="word" start_char="377">успешном</TOKEN>
+<TOKEN end_char="397" id="token-4-14" morph="none" pos="word" start_char="386">эксперименте</TOKEN>
+<TOKEN end_char="410" id="token-4-15" morph="none" pos="word" start_char="399">американских</TOKEN>
+<TOKEN end_char="417" id="token-4-16" morph="none" pos="word" start_char="412">ученых</TOKEN>
+<TOKEN end_char="420" id="token-4-17" morph="none" pos="word" start_char="419">по</TOKEN>
+<TOKEN end_char="432" id="token-4-18" morph="none" pos="word" start_char="422">модификации</TOKEN>
+<TOKEN end_char="445" id="token-4-19" morph="none" pos="word" start_char="434">коронавируса</TOKEN>
+<TOKEN end_char="455" id="token-4-20" morph="none" pos="word" start_char="447">китайской</TOKEN>
+<TOKEN end_char="463" id="token-4-21" morph="none" pos="word" start_char="457">летучей</TOKEN>
+<TOKEN end_char="468" id="token-4-22" morph="none" pos="word" start_char="465">мыши</TOKEN>
+<TOKEN end_char="469" id="token-4-23" morph="none" pos="punct" start_char="469">.</TOKEN>
+<TRANSLATED_TEXT>Nikulin said that in 2015, the journal Nature published an article about a successful experiment by American scientists to modify the coronavirus of a Chinese flying mouse.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="558" id="segment-5" start_char="471">
+<ORIGINAL_TEXT>В результате модификации вирус получил возможность напрямую проникать в клетки человека.</ORIGINAL_TEXT>
+<TOKEN end_char="471" id="token-5-0" morph="none" pos="word" start_char="471">В</TOKEN>
+<TOKEN end_char="482" id="token-5-1" morph="none" pos="word" start_char="473">результате</TOKEN>
+<TOKEN end_char="494" id="token-5-2" morph="none" pos="word" start_char="484">модификации</TOKEN>
+<TOKEN end_char="500" id="token-5-3" morph="none" pos="word" start_char="496">вирус</TOKEN>
+<TOKEN end_char="508" id="token-5-4" morph="none" pos="word" start_char="502">получил</TOKEN>
+<TOKEN end_char="520" id="token-5-5" morph="none" pos="word" start_char="510">возможность</TOKEN>
+<TOKEN end_char="529" id="token-5-6" morph="none" pos="word" start_char="522">напрямую</TOKEN>
+<TOKEN end_char="539" id="token-5-7" morph="none" pos="word" start_char="531">проникать</TOKEN>
+<TOKEN end_char="541" id="token-5-8" morph="none" pos="word" start_char="541">в</TOKEN>
+<TOKEN end_char="548" id="token-5-9" morph="none" pos="word" start_char="543">клетки</TOKEN>
+<TOKEN end_char="557" id="token-5-10" morph="none" pos="word" start_char="550">человека</TOKEN>
+<TOKEN end_char="558" id="token-5-11" morph="none" pos="punct" start_char="558">.</TOKEN>
+<TRANSLATED_TEXT>As a result of the modification, the virus was able to enter human cells directly.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="675" id="segment-6" start_char="561">
+<ORIGINAL_TEXT>Эксперимент был осуществлен в лаборатории военного научно-исследовательского института Уолтера Рида в Форте Детрик.</ORIGINAL_TEXT>
+<TOKEN end_char="571" id="token-6-0" morph="none" pos="word" start_char="561">Эксперимент</TOKEN>
+<TOKEN end_char="575" id="token-6-1" morph="none" pos="word" start_char="573">был</TOKEN>
+<TOKEN end_char="587" id="token-6-2" morph="none" pos="word" start_char="577">осуществлен</TOKEN>
+<TOKEN end_char="589" id="token-6-3" morph="none" pos="word" start_char="589">в</TOKEN>
+<TOKEN end_char="601" id="token-6-4" morph="none" pos="word" start_char="591">лаборатории</TOKEN>
+<TOKEN end_char="610" id="token-6-5" morph="none" pos="word" start_char="603">военного</TOKEN>
+<TOKEN end_char="636" id="token-6-6" morph="none" pos="unknown" start_char="612">научно-исследовательского</TOKEN>
+<TOKEN end_char="646" id="token-6-7" morph="none" pos="word" start_char="638">института</TOKEN>
+<TOKEN end_char="654" id="token-6-8" morph="none" pos="word" start_char="648">Уолтера</TOKEN>
+<TOKEN end_char="659" id="token-6-9" morph="none" pos="word" start_char="656">Рида</TOKEN>
+<TOKEN end_char="661" id="token-6-10" morph="none" pos="word" start_char="661">в</TOKEN>
+<TOKEN end_char="667" id="token-6-11" morph="none" pos="word" start_char="663">Форте</TOKEN>
+<TOKEN end_char="674" id="token-6-12" morph="none" pos="word" start_char="669">Детрик</TOKEN>
+<TOKEN end_char="675" id="token-6-13" morph="none" pos="punct" start_char="675">.</TOKEN>
+<TRANSLATED_TEXT>The experiment was carried out at the Walter Reed Military Research Institute laboratory in Fort Detrick.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="740" id="segment-7" start_char="677">
+<ORIGINAL_TEXT>В вышедшей статье такие эксперименты назывались крайне опасными.</ORIGINAL_TEXT>
+<TOKEN end_char="677" id="token-7-0" morph="none" pos="word" start_char="677">В</TOKEN>
+<TOKEN end_char="686" id="token-7-1" morph="none" pos="word" start_char="679">вышедшей</TOKEN>
+<TOKEN end_char="693" id="token-7-2" morph="none" pos="word" start_char="688">статье</TOKEN>
+<TOKEN end_char="699" id="token-7-3" morph="none" pos="word" start_char="695">такие</TOKEN>
+<TOKEN end_char="712" id="token-7-4" morph="none" pos="word" start_char="701">эксперименты</TOKEN>
+<TOKEN end_char="723" id="token-7-5" morph="none" pos="word" start_char="714">назывались</TOKEN>
+<TOKEN end_char="730" id="token-7-6" morph="none" pos="word" start_char="725">крайне</TOKEN>
+<TOKEN end_char="739" id="token-7-7" morph="none" pos="word" start_char="732">опасными</TOKEN>
+<TOKEN end_char="740" id="token-7-8" morph="none" pos="punct" start_char="740">.</TOKEN>
+<TRANSLATED_TEXT>These experiments were described as extremely dangerous.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="899" id="segment-8" start_char="743">
+<ORIGINAL_TEXT>Никулин напомнил, что по словам бывшего заместителя министра обороны Германии Вилли Виммера, в 2015 году модифицированный коронавирус был запатентован в США.</ORIGINAL_TEXT>
+<TOKEN end_char="749" id="token-8-0" morph="none" pos="word" start_char="743">Никулин</TOKEN>
+<TOKEN end_char="758" id="token-8-1" morph="none" pos="word" start_char="751">напомнил</TOKEN>
+<TOKEN end_char="759" id="token-8-2" morph="none" pos="punct" start_char="759">,</TOKEN>
+<TOKEN end_char="763" id="token-8-3" morph="none" pos="word" start_char="761">что</TOKEN>
+<TOKEN end_char="766" id="token-8-4" morph="none" pos="word" start_char="765">по</TOKEN>
+<TOKEN end_char="773" id="token-8-5" morph="none" pos="word" start_char="768">словам</TOKEN>
+<TOKEN end_char="781" id="token-8-6" morph="none" pos="word" start_char="775">бывшего</TOKEN>
+<TOKEN end_char="793" id="token-8-7" morph="none" pos="word" start_char="783">заместителя</TOKEN>
+<TOKEN end_char="802" id="token-8-8" morph="none" pos="word" start_char="795">министра</TOKEN>
+<TOKEN end_char="810" id="token-8-9" morph="none" pos="word" start_char="804">обороны</TOKEN>
+<TOKEN end_char="819" id="token-8-10" morph="none" pos="word" start_char="812">Германии</TOKEN>
+<TOKEN end_char="825" id="token-8-11" morph="none" pos="word" start_char="821">Вилли</TOKEN>
+<TOKEN end_char="833" id="token-8-12" morph="none" pos="word" start_char="827">Виммера</TOKEN>
+<TOKEN end_char="834" id="token-8-13" morph="none" pos="punct" start_char="834">,</TOKEN>
+<TOKEN end_char="836" id="token-8-14" morph="none" pos="word" start_char="836">в</TOKEN>
+<TOKEN end_char="841" id="token-8-15" morph="none" pos="word" start_char="838">2015</TOKEN>
+<TOKEN end_char="846" id="token-8-16" morph="none" pos="word" start_char="843">году</TOKEN>
+<TOKEN end_char="863" id="token-8-17" morph="none" pos="word" start_char="848">модифицированный</TOKEN>
+<TOKEN end_char="875" id="token-8-18" morph="none" pos="word" start_char="865">коронавирус</TOKEN>
+<TOKEN end_char="879" id="token-8-19" morph="none" pos="word" start_char="877">был</TOKEN>
+<TOKEN end_char="892" id="token-8-20" morph="none" pos="word" start_char="881">запатентован</TOKEN>
+<TOKEN end_char="894" id="token-8-21" morph="none" pos="word" start_char="894">в</TOKEN>
+<TOKEN end_char="898" id="token-8-22" morph="none" pos="word" start_char="896">США</TOKEN>
+<TOKEN end_char="899" id="token-8-23" morph="none" pos="punct" start_char="899">.</TOKEN>
+<TRANSLATED_TEXT>Nikulin recalled that, according to former German Deputy Minister of Defense Willy Wimmer, a modified coronavirus was patented in the United States in 2015.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1016" id="segment-9" start_char="902">
+<ORIGINAL_TEXT>Эксперт также обратил внимание на то, что первый случай заражения коронавирусом в Ухане был зафиксирован 17 ноября.</ORIGINAL_TEXT>
+<TOKEN end_char="908" id="token-9-0" morph="none" pos="word" start_char="902">Эксперт</TOKEN>
+<TOKEN end_char="914" id="token-9-1" morph="none" pos="word" start_char="910">также</TOKEN>
+<TOKEN end_char="922" id="token-9-2" morph="none" pos="word" start_char="916">обратил</TOKEN>
+<TOKEN end_char="931" id="token-9-3" morph="none" pos="word" start_char="924">внимание</TOKEN>
+<TOKEN end_char="934" id="token-9-4" morph="none" pos="word" start_char="933">на</TOKEN>
+<TOKEN end_char="937" id="token-9-5" morph="none" pos="word" start_char="936">то</TOKEN>
+<TOKEN end_char="938" id="token-9-6" morph="none" pos="punct" start_char="938">,</TOKEN>
+<TOKEN end_char="942" id="token-9-7" morph="none" pos="word" start_char="940">что</TOKEN>
+<TOKEN end_char="949" id="token-9-8" morph="none" pos="word" start_char="944">первый</TOKEN>
+<TOKEN end_char="956" id="token-9-9" morph="none" pos="word" start_char="951">случай</TOKEN>
+<TOKEN end_char="966" id="token-9-10" morph="none" pos="word" start_char="958">заражения</TOKEN>
+<TOKEN end_char="980" id="token-9-11" morph="none" pos="word" start_char="968">коронавирусом</TOKEN>
+<TOKEN end_char="982" id="token-9-12" morph="none" pos="word" start_char="982">в</TOKEN>
+<TOKEN end_char="988" id="token-9-13" morph="none" pos="word" start_char="984">Ухане</TOKEN>
+<TOKEN end_char="992" id="token-9-14" morph="none" pos="word" start_char="990">был</TOKEN>
+<TOKEN end_char="1005" id="token-9-15" morph="none" pos="word" start_char="994">зафиксирован</TOKEN>
+<TOKEN end_char="1008" id="token-9-16" morph="none" pos="word" start_char="1007">17</TOKEN>
+<TOKEN end_char="1015" id="token-9-17" morph="none" pos="word" start_char="1010">ноября</TOKEN>
+<TOKEN end_char="1016" id="token-9-18" morph="none" pos="punct" start_char="1016">.</TOKEN>
+<TRANSLATED_TEXT>The expert also noted that the first case of coronavirus infection in Wuhan was recorded on 17 November.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1126" id="segment-10" start_char="1018">
+<ORIGINAL_TEXT>А в конце октября в Ухане проходили соревнования военных, в которых участвовали около 200 военнослужащих США.</ORIGINAL_TEXT>
+<TOKEN end_char="1018" id="token-10-0" morph="none" pos="word" start_char="1018">А</TOKEN>
+<TOKEN end_char="1020" id="token-10-1" morph="none" pos="word" start_char="1020">в</TOKEN>
+<TOKEN end_char="1026" id="token-10-2" morph="none" pos="word" start_char="1022">конце</TOKEN>
+<TOKEN end_char="1034" id="token-10-3" morph="none" pos="word" start_char="1028">октября</TOKEN>
+<TOKEN end_char="1036" id="token-10-4" morph="none" pos="word" start_char="1036">в</TOKEN>
+<TOKEN end_char="1042" id="token-10-5" morph="none" pos="word" start_char="1038">Ухане</TOKEN>
+<TOKEN end_char="1052" id="token-10-6" morph="none" pos="word" start_char="1044">проходили</TOKEN>
+<TOKEN end_char="1065" id="token-10-7" morph="none" pos="word" start_char="1054">соревнования</TOKEN>
+<TOKEN end_char="1073" id="token-10-8" morph="none" pos="word" start_char="1067">военных</TOKEN>
+<TOKEN end_char="1074" id="token-10-9" morph="none" pos="punct" start_char="1074">,</TOKEN>
+<TOKEN end_char="1076" id="token-10-10" morph="none" pos="word" start_char="1076">в</TOKEN>
+<TOKEN end_char="1084" id="token-10-11" morph="none" pos="word" start_char="1078">которых</TOKEN>
+<TOKEN end_char="1096" id="token-10-12" morph="none" pos="word" start_char="1086">участвовали</TOKEN>
+<TOKEN end_char="1102" id="token-10-13" morph="none" pos="word" start_char="1098">около</TOKEN>
+<TOKEN end_char="1106" id="token-10-14" morph="none" pos="word" start_char="1104">200</TOKEN>
+<TOKEN end_char="1121" id="token-10-15" morph="none" pos="word" start_char="1108">военнослужащих</TOKEN>
+<TOKEN end_char="1125" id="token-10-16" morph="none" pos="word" start_char="1123">США</TOKEN>
+<TOKEN end_char="1126" id="token-10-17" morph="none" pos="punct" start_char="1126">.</TOKEN>
+<TRANSLATED_TEXT>At the end of October, military competitions were held in Wuhan, in which about 200 U.S. soldiers participated.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1237" id="segment-11" start_char="1128">
+<ORIGINAL_TEXT>По словам Никулина, в промежуток между этими событиями как раз укладывается инкубационный период коронавируса.</ORIGINAL_TEXT>
+<TOKEN end_char="1129" id="token-11-0" morph="none" pos="word" start_char="1128">По</TOKEN>
+<TOKEN end_char="1136" id="token-11-1" morph="none" pos="word" start_char="1131">словам</TOKEN>
+<TOKEN end_char="1145" id="token-11-2" morph="none" pos="word" start_char="1138">Никулина</TOKEN>
+<TOKEN end_char="1146" id="token-11-3" morph="none" pos="punct" start_char="1146">,</TOKEN>
+<TOKEN end_char="1148" id="token-11-4" morph="none" pos="word" start_char="1148">в</TOKEN>
+<TOKEN end_char="1159" id="token-11-5" morph="none" pos="word" start_char="1150">промежуток</TOKEN>
+<TOKEN end_char="1165" id="token-11-6" morph="none" pos="word" start_char="1161">между</TOKEN>
+<TOKEN end_char="1171" id="token-11-7" morph="none" pos="word" start_char="1167">этими</TOKEN>
+<TOKEN end_char="1181" id="token-11-8" morph="none" pos="word" start_char="1173">событиями</TOKEN>
+<TOKEN end_char="1185" id="token-11-9" morph="none" pos="word" start_char="1183">как</TOKEN>
+<TOKEN end_char="1189" id="token-11-10" morph="none" pos="word" start_char="1187">раз</TOKEN>
+<TOKEN end_char="1202" id="token-11-11" morph="none" pos="word" start_char="1191">укладывается</TOKEN>
+<TOKEN end_char="1216" id="token-11-12" morph="none" pos="word" start_char="1204">инкубационный</TOKEN>
+<TOKEN end_char="1223" id="token-11-13" morph="none" pos="word" start_char="1218">период</TOKEN>
+<TOKEN end_char="1236" id="token-11-14" morph="none" pos="word" start_char="1225">коронавируса</TOKEN>
+<TOKEN end_char="1237" id="token-11-15" morph="none" pos="punct" start_char="1237">.</TOKEN>
+<TRANSLATED_TEXT>According to Nikulin, the incubation period of the coronavirus is exactly in between.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1351" id="segment-12" start_char="1240">
+<ORIGINAL_TEXT>Никулин отметил, что все данные взяты из открытых источников, поэтому в данной версии нет никакой конспирологии.</ORIGINAL_TEXT>
+<TOKEN end_char="1246" id="token-12-0" morph="none" pos="word" start_char="1240">Никулин</TOKEN>
+<TOKEN end_char="1254" id="token-12-1" morph="none" pos="word" start_char="1248">отметил</TOKEN>
+<TOKEN end_char="1255" id="token-12-2" morph="none" pos="punct" start_char="1255">,</TOKEN>
+<TOKEN end_char="1259" id="token-12-3" morph="none" pos="word" start_char="1257">что</TOKEN>
+<TOKEN end_char="1263" id="token-12-4" morph="none" pos="word" start_char="1261">все</TOKEN>
+<TOKEN end_char="1270" id="token-12-5" morph="none" pos="word" start_char="1265">данные</TOKEN>
+<TOKEN end_char="1276" id="token-12-6" morph="none" pos="word" start_char="1272">взяты</TOKEN>
+<TOKEN end_char="1279" id="token-12-7" morph="none" pos="word" start_char="1278">из</TOKEN>
+<TOKEN end_char="1288" id="token-12-8" morph="none" pos="word" start_char="1281">открытых</TOKEN>
+<TOKEN end_char="1299" id="token-12-9" morph="none" pos="word" start_char="1290">источников</TOKEN>
+<TOKEN end_char="1300" id="token-12-10" morph="none" pos="punct" start_char="1300">,</TOKEN>
+<TOKEN end_char="1308" id="token-12-11" morph="none" pos="word" start_char="1302">поэтому</TOKEN>
+<TOKEN end_char="1310" id="token-12-12" morph="none" pos="word" start_char="1310">в</TOKEN>
+<TOKEN end_char="1317" id="token-12-13" morph="none" pos="word" start_char="1312">данной</TOKEN>
+<TOKEN end_char="1324" id="token-12-14" morph="none" pos="word" start_char="1319">версии</TOKEN>
+<TOKEN end_char="1328" id="token-12-15" morph="none" pos="word" start_char="1326">нет</TOKEN>
+<TOKEN end_char="1336" id="token-12-16" morph="none" pos="word" start_char="1330">никакой</TOKEN>
+<TOKEN end_char="1350" id="token-12-17" morph="none" pos="word" start_char="1338">конспирологии</TOKEN>
+<TOKEN end_char="1351" id="token-12-18" morph="none" pos="punct" start_char="1351">.</TOKEN>
+<TRANSLATED_TEXT>Nikulin noted that all data are from open sources, so there is no conspiracy theory in this version.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1386" id="segment-13" start_char="1354">
+<ORIGINAL_TEXT>«Всё выглядит очень даже логично»</ORIGINAL_TEXT>
+<TOKEN end_char="1354" id="token-13-0" morph="none" pos="punct" start_char="1354">«</TOKEN>
+<TOKEN end_char="1357" id="token-13-1" morph="none" pos="word" start_char="1355">Всё</TOKEN>
+<TOKEN end_char="1366" id="token-13-2" morph="none" pos="word" start_char="1359">выглядит</TOKEN>
+<TOKEN end_char="1372" id="token-13-3" morph="none" pos="word" start_char="1368">очень</TOKEN>
+<TOKEN end_char="1377" id="token-13-4" morph="none" pos="word" start_char="1374">даже</TOKEN>
+<TOKEN end_char="1385" id="token-13-5" morph="none" pos="word" start_char="1379">логично</TOKEN>
+<TOKEN end_char="1386" id="token-13-6" morph="none" pos="punct" start_char="1386">»</TOKEN>
+<TRANSLATED_TEXT>Everything seems very logical.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1411" id="segment-14" start_char="1389">
+<ORIGINAL_TEXT>, — добавил специалист.</ORIGINAL_TEXT>
+<TOKEN end_char="1389" id="token-14-0" morph="none" pos="punct" start_char="1389">,</TOKEN>
+<TOKEN end_char="1391" id="token-14-1" morph="none" pos="punct" start_char="1391">—</TOKEN>
+<TOKEN end_char="1399" id="token-14-2" morph="none" pos="word" start_char="1393">добавил</TOKEN>
+<TOKEN end_char="1410" id="token-14-3" morph="none" pos="word" start_char="1401">специалист</TOKEN>
+<TOKEN end_char="1411" id="token-14-4" morph="none" pos="punct" start_char="1411">.</TOKEN>
+<TRANSLATED_TEXT>, added a specialist.</TRANSLATED_TEXT><DETECTED_LANGUAGE>bg</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1542" id="segment-15" start_char="1414">
+<ORIGINAL_TEXT>Напомним, 12 марта официальный представитель МИД Китая Чжао Лицзянь заявил, что коронавирус мог попасть в китайский Ухань из США.</ORIGINAL_TEXT>
+<TOKEN end_char="1421" id="token-15-0" morph="none" pos="word" start_char="1414">Напомним</TOKEN>
+<TOKEN end_char="1422" id="token-15-1" morph="none" pos="punct" start_char="1422">,</TOKEN>
+<TOKEN end_char="1425" id="token-15-2" morph="none" pos="word" start_char="1424">12</TOKEN>
+<TOKEN end_char="1431" id="token-15-3" morph="none" pos="word" start_char="1427">марта</TOKEN>
+<TOKEN end_char="1443" id="token-15-4" morph="none" pos="word" start_char="1433">официальный</TOKEN>
+<TOKEN end_char="1457" id="token-15-5" morph="none" pos="word" start_char="1445">представитель</TOKEN>
+<TOKEN end_char="1461" id="token-15-6" morph="none" pos="word" start_char="1459">МИД</TOKEN>
+<TOKEN end_char="1467" id="token-15-7" morph="none" pos="word" start_char="1463">Китая</TOKEN>
+<TOKEN end_char="1472" id="token-15-8" morph="none" pos="word" start_char="1469">Чжао</TOKEN>
+<TOKEN end_char="1480" id="token-15-9" morph="none" pos="word" start_char="1474">Лицзянь</TOKEN>
+<TOKEN end_char="1487" id="token-15-10" morph="none" pos="word" start_char="1482">заявил</TOKEN>
+<TOKEN end_char="1488" id="token-15-11" morph="none" pos="punct" start_char="1488">,</TOKEN>
+<TOKEN end_char="1492" id="token-15-12" morph="none" pos="word" start_char="1490">что</TOKEN>
+<TOKEN end_char="1504" id="token-15-13" morph="none" pos="word" start_char="1494">коронавирус</TOKEN>
+<TOKEN end_char="1508" id="token-15-14" morph="none" pos="word" start_char="1506">мог</TOKEN>
+<TOKEN end_char="1516" id="token-15-15" morph="none" pos="word" start_char="1510">попасть</TOKEN>
+<TOKEN end_char="1518" id="token-15-16" morph="none" pos="word" start_char="1518">в</TOKEN>
+<TOKEN end_char="1528" id="token-15-17" morph="none" pos="word" start_char="1520">китайский</TOKEN>
+<TOKEN end_char="1534" id="token-15-18" morph="none" pos="word" start_char="1530">Ухань</TOKEN>
+<TOKEN end_char="1537" id="token-15-19" morph="none" pos="word" start_char="1536">из</TOKEN>
+<TOKEN end_char="1541" id="token-15-20" morph="none" pos="word" start_char="1539">США</TOKEN>
+<TOKEN end_char="1542" id="token-15-21" morph="none" pos="punct" start_char="1542">.</TOKEN>
+<TRANSLATED_TEXT>We recall that on 12 March, Chinese Foreign Ministry official Zhao Lixian stated that the coronavirus could have entered China's Wuhan from the United States.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

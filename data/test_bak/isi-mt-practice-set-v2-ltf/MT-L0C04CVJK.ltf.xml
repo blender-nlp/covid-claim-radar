@@ -1,0 +1,272 @@
+<LCTL_TEXT lang="spa">
+<DOC grammar="none" id="L0C04CVJK" lang="spa" raw_text_char_length="1432" raw_text_md5="10903375d12c8b587d1d714fa44b7ff3" tokenization="tokenization_parameters.v5.0">
+<TEXT>
+<SEG end_char="74" id="segment-0" start_char="1">
+<ORIGINAL_TEXT>CONFIRMADO: Hidroxicloroquina no reduce la tasa de mortalidad del COVID-19</ORIGINAL_TEXT>
+<TOKEN end_char="10" id="token-0-0" morph="none" pos="word" start_char="1">CONFIRMADO</TOKEN>
+<TOKEN end_char="11" id="token-0-1" morph="none" pos="punct" start_char="11">:</TOKEN>
+<TOKEN end_char="29" id="token-0-2" morph="none" pos="word" start_char="13">Hidroxicloroquina</TOKEN>
+<TOKEN end_char="32" id="token-0-3" morph="none" pos="word" start_char="31">no</TOKEN>
+<TOKEN end_char="39" id="token-0-4" morph="none" pos="word" start_char="34">reduce</TOKEN>
+<TOKEN end_char="42" id="token-0-5" morph="none" pos="word" start_char="41">la</TOKEN>
+<TOKEN end_char="47" id="token-0-6" morph="none" pos="word" start_char="44">tasa</TOKEN>
+<TOKEN end_char="50" id="token-0-7" morph="none" pos="word" start_char="49">de</TOKEN>
+<TOKEN end_char="61" id="token-0-8" morph="none" pos="word" start_char="52">mortalidad</TOKEN>
+<TOKEN end_char="65" id="token-0-9" morph="none" pos="word" start_char="63">del</TOKEN>
+<TOKEN end_char="74" id="token-0-10" morph="none" pos="unknown" start_char="67">COVID-19</TOKEN>
+<TRANSLATED_TEXT>CONFIRMED: Hydrochloroquine does not reduce the mortality rate of COVID-19</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="359" id="segment-1" start_char="78">
+<ORIGINAL_TEXT>La OMS confirmo que la hidroxicloroquina no reduce la tasa de mortalidad del COVID-19, por lo que el farmacó será suspendido del programa de ensayos Solidarity el cual está siendo aplicado en numerosos países con el objetivo de encontrar un tratamiento para combatir el coronavirus.</ORIGINAL_TEXT>
+<TOKEN end_char="79" id="token-1-0" morph="none" pos="word" start_char="78">La</TOKEN>
+<TOKEN end_char="83" id="token-1-1" morph="none" pos="word" start_char="81">OMS</TOKEN>
+<TOKEN end_char="92" id="token-1-2" morph="none" pos="word" start_char="85">confirmo</TOKEN>
+<TOKEN end_char="96" id="token-1-3" morph="none" pos="word" start_char="94">que</TOKEN>
+<TOKEN end_char="99" id="token-1-4" morph="none" pos="word" start_char="98">la</TOKEN>
+<TOKEN end_char="117" id="token-1-5" morph="none" pos="word" start_char="101">hidroxicloroquina</TOKEN>
+<TOKEN end_char="120" id="token-1-6" morph="none" pos="word" start_char="119">no</TOKEN>
+<TOKEN end_char="127" id="token-1-7" morph="none" pos="word" start_char="122">reduce</TOKEN>
+<TOKEN end_char="130" id="token-1-8" morph="none" pos="word" start_char="129">la</TOKEN>
+<TOKEN end_char="135" id="token-1-9" morph="none" pos="word" start_char="132">tasa</TOKEN>
+<TOKEN end_char="138" id="token-1-10" morph="none" pos="word" start_char="137">de</TOKEN>
+<TOKEN end_char="149" id="token-1-11" morph="none" pos="word" start_char="140">mortalidad</TOKEN>
+<TOKEN end_char="153" id="token-1-12" morph="none" pos="word" start_char="151">del</TOKEN>
+<TOKEN end_char="162" id="token-1-13" morph="none" pos="unknown" start_char="155">COVID-19</TOKEN>
+<TOKEN end_char="163" id="token-1-14" morph="none" pos="punct" start_char="163">,</TOKEN>
+<TOKEN end_char="167" id="token-1-15" morph="none" pos="word" start_char="165">por</TOKEN>
+<TOKEN end_char="170" id="token-1-16" morph="none" pos="word" start_char="169">lo</TOKEN>
+<TOKEN end_char="174" id="token-1-17" morph="none" pos="word" start_char="172">que</TOKEN>
+<TOKEN end_char="177" id="token-1-18" morph="none" pos="word" start_char="176">el</TOKEN>
+<TOKEN end_char="185" id="token-1-19" morph="none" pos="word" start_char="179">farmacó</TOKEN>
+<TOKEN end_char="190" id="token-1-20" morph="none" pos="word" start_char="187">será</TOKEN>
+<TOKEN end_char="201" id="token-1-21" morph="none" pos="word" start_char="192">suspendido</TOKEN>
+<TOKEN end_char="205" id="token-1-22" morph="none" pos="word" start_char="203">del</TOKEN>
+<TOKEN end_char="214" id="token-1-23" morph="none" pos="word" start_char="207">programa</TOKEN>
+<TOKEN end_char="217" id="token-1-24" morph="none" pos="word" start_char="216">de</TOKEN>
+<TOKEN end_char="225" id="token-1-25" morph="none" pos="word" start_char="219">ensayos</TOKEN>
+<TOKEN end_char="236" id="token-1-26" morph="none" pos="word" start_char="227">Solidarity</TOKEN>
+<TOKEN end_char="239" id="token-1-27" morph="none" pos="word" start_char="238">el</TOKEN>
+<TOKEN end_char="244" id="token-1-28" morph="none" pos="word" start_char="241">cual</TOKEN>
+<TOKEN end_char="249" id="token-1-29" morph="none" pos="word" start_char="246">está</TOKEN>
+<TOKEN end_char="256" id="token-1-30" morph="none" pos="word" start_char="251">siendo</TOKEN>
+<TOKEN end_char="265" id="token-1-31" morph="none" pos="word" start_char="258">aplicado</TOKEN>
+<TOKEN end_char="268" id="token-1-32" morph="none" pos="word" start_char="267">en</TOKEN>
+<TOKEN end_char="278" id="token-1-33" morph="none" pos="word" start_char="270">numerosos</TOKEN>
+<TOKEN end_char="285" id="token-1-34" morph="none" pos="word" start_char="280">países</TOKEN>
+<TOKEN end_char="289" id="token-1-35" morph="none" pos="word" start_char="287">con</TOKEN>
+<TOKEN end_char="292" id="token-1-36" morph="none" pos="word" start_char="291">el</TOKEN>
+<TOKEN end_char="301" id="token-1-37" morph="none" pos="word" start_char="294">objetivo</TOKEN>
+<TOKEN end_char="304" id="token-1-38" morph="none" pos="word" start_char="303">de</TOKEN>
+<TOKEN end_char="314" id="token-1-39" morph="none" pos="word" start_char="306">encontrar</TOKEN>
+<TOKEN end_char="317" id="token-1-40" morph="none" pos="word" start_char="316">un</TOKEN>
+<TOKEN end_char="329" id="token-1-41" morph="none" pos="word" start_char="319">tratamiento</TOKEN>
+<TOKEN end_char="334" id="token-1-42" morph="none" pos="word" start_char="331">para</TOKEN>
+<TOKEN end_char="343" id="token-1-43" morph="none" pos="word" start_char="336">combatir</TOKEN>
+<TOKEN end_char="346" id="token-1-44" morph="none" pos="word" start_char="345">el</TOKEN>
+<TOKEN end_char="358" id="token-1-45" morph="none" pos="word" start_char="348">coronavirus</TOKEN>
+<TOKEN end_char="359" id="token-1-46" morph="none" pos="punct" start_char="359">.</TOKEN>
+<TRANSLATED_TEXT>WHO confirms that hydroxychloroquine does not reduce the mortality rate of COVID-19, so the pharmacy will be suspended from the Solidarity testing program which is being applied in many countries with the aim of finding a treatment to combat coronavirus.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="709" id="segment-2" start_char="362">
+<ORIGINAL_TEXT>La doctora Ana Maria Henao Restrepo, de la unidad de emergencias sanitarias de la OMS explicó "La evidencia interna del programa Solidarity/Discovery, la evidencia externa del programa Recovery y la evidencia de esos amplios programas de ensayo al azar, sugieren que la hidroxicloroquina no implica la reducción de la mortalidad de esos pacientes".</ORIGINAL_TEXT>
+<TOKEN end_char="363" id="token-2-0" morph="none" pos="word" start_char="362">La</TOKEN>
+<TOKEN end_char="371" id="token-2-1" morph="none" pos="word" start_char="365">doctora</TOKEN>
+<TOKEN end_char="375" id="token-2-2" morph="none" pos="word" start_char="373">Ana</TOKEN>
+<TOKEN end_char="381" id="token-2-3" morph="none" pos="word" start_char="377">Maria</TOKEN>
+<TOKEN end_char="387" id="token-2-4" morph="none" pos="word" start_char="383">Henao</TOKEN>
+<TOKEN end_char="396" id="token-2-5" morph="none" pos="word" start_char="389">Restrepo</TOKEN>
+<TOKEN end_char="397" id="token-2-6" morph="none" pos="punct" start_char="397">,</TOKEN>
+<TOKEN end_char="400" id="token-2-7" morph="none" pos="word" start_char="399">de</TOKEN>
+<TOKEN end_char="403" id="token-2-8" morph="none" pos="word" start_char="402">la</TOKEN>
+<TOKEN end_char="410" id="token-2-9" morph="none" pos="word" start_char="405">unidad</TOKEN>
+<TOKEN end_char="413" id="token-2-10" morph="none" pos="word" start_char="412">de</TOKEN>
+<TOKEN end_char="425" id="token-2-11" morph="none" pos="word" start_char="415">emergencias</TOKEN>
+<TOKEN end_char="436" id="token-2-12" morph="none" pos="word" start_char="427">sanitarias</TOKEN>
+<TOKEN end_char="439" id="token-2-13" morph="none" pos="word" start_char="438">de</TOKEN>
+<TOKEN end_char="442" id="token-2-14" morph="none" pos="word" start_char="441">la</TOKEN>
+<TOKEN end_char="446" id="token-2-15" morph="none" pos="word" start_char="444">OMS</TOKEN>
+<TOKEN end_char="454" id="token-2-16" morph="none" pos="word" start_char="448">explicó</TOKEN>
+<TOKEN end_char="456" id="token-2-17" morph="none" pos="punct" start_char="456">"</TOKEN>
+<TOKEN end_char="458" id="token-2-18" morph="none" pos="word" start_char="457">La</TOKEN>
+<TOKEN end_char="468" id="token-2-19" morph="none" pos="word" start_char="460">evidencia</TOKEN>
+<TOKEN end_char="476" id="token-2-20" morph="none" pos="word" start_char="470">interna</TOKEN>
+<TOKEN end_char="480" id="token-2-21" morph="none" pos="word" start_char="478">del</TOKEN>
+<TOKEN end_char="489" id="token-2-22" morph="none" pos="word" start_char="482">programa</TOKEN>
+<TOKEN end_char="510" id="token-2-23" morph="none" pos="unknown" start_char="491">Solidarity/Discovery</TOKEN>
+<TOKEN end_char="511" id="token-2-24" morph="none" pos="punct" start_char="511">,</TOKEN>
+<TOKEN end_char="514" id="token-2-25" morph="none" pos="word" start_char="513">la</TOKEN>
+<TOKEN end_char="524" id="token-2-26" morph="none" pos="word" start_char="516">evidencia</TOKEN>
+<TOKEN end_char="532" id="token-2-27" morph="none" pos="word" start_char="526">externa</TOKEN>
+<TOKEN end_char="536" id="token-2-28" morph="none" pos="word" start_char="534">del</TOKEN>
+<TOKEN end_char="545" id="token-2-29" morph="none" pos="word" start_char="538">programa</TOKEN>
+<TOKEN end_char="554" id="token-2-30" morph="none" pos="word" start_char="547">Recovery</TOKEN>
+<TOKEN end_char="556" id="token-2-31" morph="none" pos="word" start_char="556">y</TOKEN>
+<TOKEN end_char="559" id="token-2-32" morph="none" pos="word" start_char="558">la</TOKEN>
+<TOKEN end_char="569" id="token-2-33" morph="none" pos="word" start_char="561">evidencia</TOKEN>
+<TOKEN end_char="572" id="token-2-34" morph="none" pos="word" start_char="571">de</TOKEN>
+<TOKEN end_char="577" id="token-2-35" morph="none" pos="word" start_char="574">esos</TOKEN>
+<TOKEN end_char="585" id="token-2-36" morph="none" pos="word" start_char="579">amplios</TOKEN>
+<TOKEN end_char="595" id="token-2-37" morph="none" pos="word" start_char="587">programas</TOKEN>
+<TOKEN end_char="598" id="token-2-38" morph="none" pos="word" start_char="597">de</TOKEN>
+<TOKEN end_char="605" id="token-2-39" morph="none" pos="word" start_char="600">ensayo</TOKEN>
+<TOKEN end_char="608" id="token-2-40" morph="none" pos="word" start_char="607">al</TOKEN>
+<TOKEN end_char="613" id="token-2-41" morph="none" pos="word" start_char="610">azar</TOKEN>
+<TOKEN end_char="614" id="token-2-42" morph="none" pos="punct" start_char="614">,</TOKEN>
+<TOKEN end_char="623" id="token-2-43" morph="none" pos="word" start_char="616">sugieren</TOKEN>
+<TOKEN end_char="627" id="token-2-44" morph="none" pos="word" start_char="625">que</TOKEN>
+<TOKEN end_char="630" id="token-2-45" morph="none" pos="word" start_char="629">la</TOKEN>
+<TOKEN end_char="648" id="token-2-46" morph="none" pos="word" start_char="632">hidroxicloroquina</TOKEN>
+<TOKEN end_char="651" id="token-2-47" morph="none" pos="word" start_char="650">no</TOKEN>
+<TOKEN end_char="659" id="token-2-48" morph="none" pos="word" start_char="653">implica</TOKEN>
+<TOKEN end_char="662" id="token-2-49" morph="none" pos="word" start_char="661">la</TOKEN>
+<TOKEN end_char="672" id="token-2-50" morph="none" pos="word" start_char="664">reducción</TOKEN>
+<TOKEN end_char="675" id="token-2-51" morph="none" pos="word" start_char="674">de</TOKEN>
+<TOKEN end_char="678" id="token-2-52" morph="none" pos="word" start_char="677">la</TOKEN>
+<TOKEN end_char="689" id="token-2-53" morph="none" pos="word" start_char="680">mortalidad</TOKEN>
+<TOKEN end_char="692" id="token-2-54" morph="none" pos="word" start_char="691">de</TOKEN>
+<TOKEN end_char="697" id="token-2-55" morph="none" pos="word" start_char="694">esos</TOKEN>
+<TOKEN end_char="707" id="token-2-56" morph="none" pos="word" start_char="699">pacientes</TOKEN>
+<TOKEN end_char="709" id="token-2-57" morph="none" pos="punct" start_char="708">".</TOKEN>
+<TRANSLATED_TEXT>Dr. Ana Maria Henao Restrepo of the WHO Health Emergency Unit explained, "Internal evidence from the Solidarity / Discovery program, external evidence from the Recovery program, and evidence from those extensive random trial programs, suggest that hydroxychloroquine does not imply a reduction in the mortality of these patients."</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="893" id="segment-3" start_char="712">
+<ORIGINAL_TEXT>Solidarity, es un ensayo en el cual se compararán cuatro opciones de tratamiento con la norma asistencial para evaluar la eficacia relativa de cada una de ellas frente a la COVID‑19.</ORIGINAL_TEXT>
+<TOKEN end_char="721" id="token-3-0" morph="none" pos="word" start_char="712">Solidarity</TOKEN>
+<TOKEN end_char="722" id="token-3-1" morph="none" pos="punct" start_char="722">,</TOKEN>
+<TOKEN end_char="725" id="token-3-2" morph="none" pos="word" start_char="724">es</TOKEN>
+<TOKEN end_char="728" id="token-3-3" morph="none" pos="word" start_char="727">un</TOKEN>
+<TOKEN end_char="735" id="token-3-4" morph="none" pos="word" start_char="730">ensayo</TOKEN>
+<TOKEN end_char="738" id="token-3-5" morph="none" pos="word" start_char="737">en</TOKEN>
+<TOKEN end_char="741" id="token-3-6" morph="none" pos="word" start_char="740">el</TOKEN>
+<TOKEN end_char="746" id="token-3-7" morph="none" pos="word" start_char="743">cual</TOKEN>
+<TOKEN end_char="749" id="token-3-8" morph="none" pos="word" start_char="748">se</TOKEN>
+<TOKEN end_char="760" id="token-3-9" morph="none" pos="word" start_char="751">compararán</TOKEN>
+<TOKEN end_char="767" id="token-3-10" morph="none" pos="word" start_char="762">cuatro</TOKEN>
+<TOKEN end_char="776" id="token-3-11" morph="none" pos="word" start_char="769">opciones</TOKEN>
+<TOKEN end_char="779" id="token-3-12" morph="none" pos="word" start_char="778">de</TOKEN>
+<TOKEN end_char="791" id="token-3-13" morph="none" pos="word" start_char="781">tratamiento</TOKEN>
+<TOKEN end_char="795" id="token-3-14" morph="none" pos="word" start_char="793">con</TOKEN>
+<TOKEN end_char="798" id="token-3-15" morph="none" pos="word" start_char="797">la</TOKEN>
+<TOKEN end_char="804" id="token-3-16" morph="none" pos="word" start_char="800">norma</TOKEN>
+<TOKEN end_char="816" id="token-3-17" morph="none" pos="word" start_char="806">asistencial</TOKEN>
+<TOKEN end_char="821" id="token-3-18" morph="none" pos="word" start_char="818">para</TOKEN>
+<TOKEN end_char="829" id="token-3-19" morph="none" pos="word" start_char="823">evaluar</TOKEN>
+<TOKEN end_char="832" id="token-3-20" morph="none" pos="word" start_char="831">la</TOKEN>
+<TOKEN end_char="841" id="token-3-21" morph="none" pos="word" start_char="834">eficacia</TOKEN>
+<TOKEN end_char="850" id="token-3-22" morph="none" pos="word" start_char="843">relativa</TOKEN>
+<TOKEN end_char="853" id="token-3-23" morph="none" pos="word" start_char="852">de</TOKEN>
+<TOKEN end_char="858" id="token-3-24" morph="none" pos="word" start_char="855">cada</TOKEN>
+<TOKEN end_char="862" id="token-3-25" morph="none" pos="word" start_char="860">una</TOKEN>
+<TOKEN end_char="865" id="token-3-26" morph="none" pos="word" start_char="864">de</TOKEN>
+<TOKEN end_char="871" id="token-3-27" morph="none" pos="word" start_char="867">ellas</TOKEN>
+<TOKEN end_char="878" id="token-3-28" morph="none" pos="word" start_char="873">frente</TOKEN>
+<TOKEN end_char="880" id="token-3-29" morph="none" pos="word" start_char="880">a</TOKEN>
+<TOKEN end_char="883" id="token-3-30" morph="none" pos="word" start_char="882">la</TOKEN>
+<TOKEN end_char="892" id="token-3-31" morph="none" pos="unknown" start_char="885">COVID‑19</TOKEN>
+<TOKEN end_char="893" id="token-3-32" morph="none" pos="punct" start_char="893">.</TOKEN>
+<TRANSLATED_TEXT>Solidarity is a trial in which four treatment options will be compared with the standard of care to assess the relative efficacy of each of them against COVID-19.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1138" id="segment-4" start_char="895">
+<ORIGINAL_TEXT>Gracias a la participación en el ensayo de pacientes de diversos países, "Solidaridad" tiene como finalidad descubrir con rapidez si alguno de los medicamentos estudiados retrasa la progresión de la enfermedad o mejora la tasa de supervivencia.</ORIGINAL_TEXT>
+<TOKEN end_char="901" id="token-4-0" morph="none" pos="word" start_char="895">Gracias</TOKEN>
+<TOKEN end_char="903" id="token-4-1" morph="none" pos="word" start_char="903">a</TOKEN>
+<TOKEN end_char="906" id="token-4-2" morph="none" pos="word" start_char="905">la</TOKEN>
+<TOKEN end_char="920" id="token-4-3" morph="none" pos="word" start_char="908">participación</TOKEN>
+<TOKEN end_char="923" id="token-4-4" morph="none" pos="word" start_char="922">en</TOKEN>
+<TOKEN end_char="926" id="token-4-5" morph="none" pos="word" start_char="925">el</TOKEN>
+<TOKEN end_char="933" id="token-4-6" morph="none" pos="word" start_char="928">ensayo</TOKEN>
+<TOKEN end_char="936" id="token-4-7" morph="none" pos="word" start_char="935">de</TOKEN>
+<TOKEN end_char="946" id="token-4-8" morph="none" pos="word" start_char="938">pacientes</TOKEN>
+<TOKEN end_char="949" id="token-4-9" morph="none" pos="word" start_char="948">de</TOKEN>
+<TOKEN end_char="958" id="token-4-10" morph="none" pos="word" start_char="951">diversos</TOKEN>
+<TOKEN end_char="965" id="token-4-11" morph="none" pos="word" start_char="960">países</TOKEN>
+<TOKEN end_char="966" id="token-4-12" morph="none" pos="punct" start_char="966">,</TOKEN>
+<TOKEN end_char="968" id="token-4-13" morph="none" pos="punct" start_char="968">"</TOKEN>
+<TOKEN end_char="979" id="token-4-14" morph="none" pos="word" start_char="969">Solidaridad</TOKEN>
+<TOKEN end_char="980" id="token-4-15" morph="none" pos="punct" start_char="980">"</TOKEN>
+<TOKEN end_char="986" id="token-4-16" morph="none" pos="word" start_char="982">tiene</TOKEN>
+<TOKEN end_char="991" id="token-4-17" morph="none" pos="word" start_char="988">como</TOKEN>
+<TOKEN end_char="1001" id="token-4-18" morph="none" pos="word" start_char="993">finalidad</TOKEN>
+<TOKEN end_char="1011" id="token-4-19" morph="none" pos="word" start_char="1003">descubrir</TOKEN>
+<TOKEN end_char="1015" id="token-4-20" morph="none" pos="word" start_char="1013">con</TOKEN>
+<TOKEN end_char="1023" id="token-4-21" morph="none" pos="word" start_char="1017">rapidez</TOKEN>
+<TOKEN end_char="1026" id="token-4-22" morph="none" pos="word" start_char="1025">si</TOKEN>
+<TOKEN end_char="1033" id="token-4-23" morph="none" pos="word" start_char="1028">alguno</TOKEN>
+<TOKEN end_char="1036" id="token-4-24" morph="none" pos="word" start_char="1035">de</TOKEN>
+<TOKEN end_char="1040" id="token-4-25" morph="none" pos="word" start_char="1038">los</TOKEN>
+<TOKEN end_char="1053" id="token-4-26" morph="none" pos="word" start_char="1042">medicamentos</TOKEN>
+<TOKEN end_char="1064" id="token-4-27" morph="none" pos="word" start_char="1055">estudiados</TOKEN>
+<TOKEN end_char="1072" id="token-4-28" morph="none" pos="word" start_char="1066">retrasa</TOKEN>
+<TOKEN end_char="1075" id="token-4-29" morph="none" pos="word" start_char="1074">la</TOKEN>
+<TOKEN end_char="1086" id="token-4-30" morph="none" pos="word" start_char="1077">progresión</TOKEN>
+<TOKEN end_char="1089" id="token-4-31" morph="none" pos="word" start_char="1088">de</TOKEN>
+<TOKEN end_char="1092" id="token-4-32" morph="none" pos="word" start_char="1091">la</TOKEN>
+<TOKEN end_char="1103" id="token-4-33" morph="none" pos="word" start_char="1094">enfermedad</TOKEN>
+<TOKEN end_char="1105" id="token-4-34" morph="none" pos="word" start_char="1105">o</TOKEN>
+<TOKEN end_char="1112" id="token-4-35" morph="none" pos="word" start_char="1107">mejora</TOKEN>
+<TOKEN end_char="1115" id="token-4-36" morph="none" pos="word" start_char="1114">la</TOKEN>
+<TOKEN end_char="1120" id="token-4-37" morph="none" pos="word" start_char="1117">tasa</TOKEN>
+<TOKEN end_char="1123" id="token-4-38" morph="none" pos="word" start_char="1122">de</TOKEN>
+<TOKEN end_char="1137" id="token-4-39" morph="none" pos="word" start_char="1125">supervivencia</TOKEN>
+<TOKEN end_char="1138" id="token-4-40" morph="none" pos="punct" start_char="1138">.</TOKEN>
+<TRANSLATED_TEXT>Thanks to participation in the trial of patients from different countries, "Solidarity" aims to quickly discover whether any of the drugs studied delay the progression of the disease or improve the survival rate.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1282" id="segment-5" start_char="1140">
+<ORIGINAL_TEXT>Podrán incluirse más medicamentos en el ensayo en función de los datos que vayan apareciendo sobre ellos, de acuerdo con información de la OMS.</ORIGINAL_TEXT>
+<TOKEN end_char="1145" id="token-5-0" morph="none" pos="word" start_char="1140">Podrán</TOKEN>
+<TOKEN end_char="1155" id="token-5-1" morph="none" pos="word" start_char="1147">incluirse</TOKEN>
+<TOKEN end_char="1159" id="token-5-2" morph="none" pos="word" start_char="1157">más</TOKEN>
+<TOKEN end_char="1172" id="token-5-3" morph="none" pos="word" start_char="1161">medicamentos</TOKEN>
+<TOKEN end_char="1175" id="token-5-4" morph="none" pos="word" start_char="1174">en</TOKEN>
+<TOKEN end_char="1178" id="token-5-5" morph="none" pos="word" start_char="1177">el</TOKEN>
+<TOKEN end_char="1185" id="token-5-6" morph="none" pos="word" start_char="1180">ensayo</TOKEN>
+<TOKEN end_char="1188" id="token-5-7" morph="none" pos="word" start_char="1187">en</TOKEN>
+<TOKEN end_char="1196" id="token-5-8" morph="none" pos="word" start_char="1190">función</TOKEN>
+<TOKEN end_char="1199" id="token-5-9" morph="none" pos="word" start_char="1198">de</TOKEN>
+<TOKEN end_char="1203" id="token-5-10" morph="none" pos="word" start_char="1201">los</TOKEN>
+<TOKEN end_char="1209" id="token-5-11" morph="none" pos="word" start_char="1205">datos</TOKEN>
+<TOKEN end_char="1213" id="token-5-12" morph="none" pos="word" start_char="1211">que</TOKEN>
+<TOKEN end_char="1219" id="token-5-13" morph="none" pos="word" start_char="1215">vayan</TOKEN>
+<TOKEN end_char="1231" id="token-5-14" morph="none" pos="word" start_char="1221">apareciendo</TOKEN>
+<TOKEN end_char="1237" id="token-5-15" morph="none" pos="word" start_char="1233">sobre</TOKEN>
+<TOKEN end_char="1243" id="token-5-16" morph="none" pos="word" start_char="1239">ellos</TOKEN>
+<TOKEN end_char="1244" id="token-5-17" morph="none" pos="punct" start_char="1244">,</TOKEN>
+<TOKEN end_char="1247" id="token-5-18" morph="none" pos="word" start_char="1246">de</TOKEN>
+<TOKEN end_char="1255" id="token-5-19" morph="none" pos="word" start_char="1249">acuerdo</TOKEN>
+<TOKEN end_char="1259" id="token-5-20" morph="none" pos="word" start_char="1257">con</TOKEN>
+<TOKEN end_char="1271" id="token-5-21" morph="none" pos="word" start_char="1261">información</TOKEN>
+<TOKEN end_char="1274" id="token-5-22" morph="none" pos="word" start_char="1273">de</TOKEN>
+<TOKEN end_char="1277" id="token-5-23" morph="none" pos="word" start_char="1276">la</TOKEN>
+<TOKEN end_char="1281" id="token-5-24" morph="none" pos="word" start_char="1279">OMS</TOKEN>
+<TOKEN end_char="1282" id="token-5-25" morph="none" pos="punct" start_char="1282">.</TOKEN>
+<TRANSLATED_TEXT>Additional drugs may be included in the trial depending on the data that will appear on them, according to WHO information.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1428" id="segment-6" start_char="1285">
+<ORIGINAL_TEXT>De acuerdo con la OMS, el programa ha recuadado por el momento más de 43 millones de dólares gracias a más de 173 mil personas y organizaciones.</ORIGINAL_TEXT>
+<TOKEN end_char="1286" id="token-6-0" morph="none" pos="word" start_char="1285">De</TOKEN>
+<TOKEN end_char="1294" id="token-6-1" morph="none" pos="word" start_char="1288">acuerdo</TOKEN>
+<TOKEN end_char="1298" id="token-6-2" morph="none" pos="word" start_char="1296">con</TOKEN>
+<TOKEN end_char="1301" id="token-6-3" morph="none" pos="word" start_char="1300">la</TOKEN>
+<TOKEN end_char="1305" id="token-6-4" morph="none" pos="word" start_char="1303">OMS</TOKEN>
+<TOKEN end_char="1306" id="token-6-5" morph="none" pos="punct" start_char="1306">,</TOKEN>
+<TOKEN end_char="1309" id="token-6-6" morph="none" pos="word" start_char="1308">el</TOKEN>
+<TOKEN end_char="1318" id="token-6-7" morph="none" pos="word" start_char="1311">programa</TOKEN>
+<TOKEN end_char="1321" id="token-6-8" morph="none" pos="word" start_char="1320">ha</TOKEN>
+<TOKEN end_char="1331" id="token-6-9" morph="none" pos="word" start_char="1323">recuadado</TOKEN>
+<TOKEN end_char="1335" id="token-6-10" morph="none" pos="word" start_char="1333">por</TOKEN>
+<TOKEN end_char="1338" id="token-6-11" morph="none" pos="word" start_char="1337">el</TOKEN>
+<TOKEN end_char="1346" id="token-6-12" morph="none" pos="word" start_char="1340">momento</TOKEN>
+<TOKEN end_char="1350" id="token-6-13" morph="none" pos="word" start_char="1348">más</TOKEN>
+<TOKEN end_char="1353" id="token-6-14" morph="none" pos="word" start_char="1352">de</TOKEN>
+<TOKEN end_char="1356" id="token-6-15" morph="none" pos="word" start_char="1355">43</TOKEN>
+<TOKEN end_char="1365" id="token-6-16" morph="none" pos="word" start_char="1358">millones</TOKEN>
+<TOKEN end_char="1368" id="token-6-17" morph="none" pos="word" start_char="1367">de</TOKEN>
+<TOKEN end_char="1376" id="token-6-18" morph="none" pos="word" start_char="1370">dólares</TOKEN>
+<TOKEN end_char="1384" id="token-6-19" morph="none" pos="word" start_char="1378">gracias</TOKEN>
+<TOKEN end_char="1386" id="token-6-20" morph="none" pos="word" start_char="1386">a</TOKEN>
+<TOKEN end_char="1390" id="token-6-21" morph="none" pos="word" start_char="1388">más</TOKEN>
+<TOKEN end_char="1393" id="token-6-22" morph="none" pos="word" start_char="1392">de</TOKEN>
+<TOKEN end_char="1397" id="token-6-23" morph="none" pos="word" start_char="1395">173</TOKEN>
+<TOKEN end_char="1401" id="token-6-24" morph="none" pos="word" start_char="1399">mil</TOKEN>
+<TOKEN end_char="1410" id="token-6-25" morph="none" pos="word" start_char="1403">personas</TOKEN>
+<TOKEN end_char="1412" id="token-6-26" morph="none" pos="word" start_char="1412">y</TOKEN>
+<TOKEN end_char="1427" id="token-6-27" morph="none" pos="word" start_char="1414">organizaciones</TOKEN>
+<TOKEN end_char="1428" id="token-6-28" morph="none" pos="punct" start_char="1428">.</TOKEN>
+<TRANSLATED_TEXT>According to the WHO, the program has so far provided more than $43 million thanks to more than 173,000 people and organizations.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

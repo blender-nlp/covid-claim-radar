@@ -1,0 +1,915 @@
+<LCTL_TEXT lang="rus">
+<DOC grammar="none" id="L0C049596" lang="rus" raw_text_char_length="3914" raw_text_md5="3d98b185fefaa6cb0f9acc27bdfd217e" tokenization="tokenization_parameters.v5.0">
+<TEXT>
+<SEG end_char="43" id="segment-0" start_char="1">
+<ORIGINAL_TEXT>Is IV vitamin C effective against COVID-19?</ORIGINAL_TEXT>
+<TOKEN end_char="2" id="token-0-0" morph="none" pos="word" start_char="1">Is</TOKEN>
+<TOKEN end_char="5" id="token-0-1" morph="none" pos="word" start_char="4">IV</TOKEN>
+<TOKEN end_char="13" id="token-0-2" morph="none" pos="word" start_char="7">vitamin</TOKEN>
+<TOKEN end_char="15" id="token-0-3" morph="none" pos="word" start_char="15">C</TOKEN>
+<TOKEN end_char="25" id="token-0-4" morph="none" pos="word" start_char="17">effective</TOKEN>
+<TOKEN end_char="33" id="token-0-5" morph="none" pos="word" start_char="27">against</TOKEN>
+<TOKEN end_char="42" id="token-0-6" morph="none" pos="unknown" start_char="35">COVID-19</TOKEN>
+<TOKEN end_char="43" id="token-0-7" morph="none" pos="punct" start_char="43">?</TOKEN>
+<TRANSLATED_TEXT>Is vitamin C IV effectief tegen COVID-19?</TRANSLATED_TEXT><DETECTED_LANGUAGE>fr</DETECTED_LANGUAGE></SEG>
+<SEG end_char="146" id="segment-1" start_char="47">
+<ORIGINAL_TEXT>Vitamin C, also known as ascorbic acid, is currently making headlines in the fight against COVID-19.</ORIGINAL_TEXT>
+<TOKEN end_char="53" id="token-1-0" morph="none" pos="word" start_char="47">Vitamin</TOKEN>
+<TOKEN end_char="55" id="token-1-1" morph="none" pos="word" start_char="55">C</TOKEN>
+<TOKEN end_char="56" id="token-1-2" morph="none" pos="punct" start_char="56">,</TOKEN>
+<TOKEN end_char="61" id="token-1-3" morph="none" pos="word" start_char="58">also</TOKEN>
+<TOKEN end_char="67" id="token-1-4" morph="none" pos="word" start_char="63">known</TOKEN>
+<TOKEN end_char="70" id="token-1-5" morph="none" pos="word" start_char="69">as</TOKEN>
+<TOKEN end_char="79" id="token-1-6" morph="none" pos="word" start_char="72">ascorbic</TOKEN>
+<TOKEN end_char="84" id="token-1-7" morph="none" pos="word" start_char="81">acid</TOKEN>
+<TOKEN end_char="85" id="token-1-8" morph="none" pos="punct" start_char="85">,</TOKEN>
+<TOKEN end_char="88" id="token-1-9" morph="none" pos="word" start_char="87">is</TOKEN>
+<TOKEN end_char="98" id="token-1-10" morph="none" pos="word" start_char="90">currently</TOKEN>
+<TOKEN end_char="105" id="token-1-11" morph="none" pos="word" start_char="100">making</TOKEN>
+<TOKEN end_char="115" id="token-1-12" morph="none" pos="word" start_char="107">headlines</TOKEN>
+<TOKEN end_char="118" id="token-1-13" morph="none" pos="word" start_char="117">in</TOKEN>
+<TOKEN end_char="122" id="token-1-14" morph="none" pos="word" start_char="120">the</TOKEN>
+<TOKEN end_char="128" id="token-1-15" morph="none" pos="word" start_char="124">fight</TOKEN>
+<TOKEN end_char="136" id="token-1-16" morph="none" pos="word" start_char="130">against</TOKEN>
+<TOKEN end_char="145" id="token-1-17" morph="none" pos="unknown" start_char="138">COVID-19</TOKEN>
+<TOKEN end_char="146" id="token-1-18" morph="none" pos="punct" start_char="146">.</TOKEN>
+</SEG>
+<SEG end_char="235" id="segment-2" start_char="148">
+<ORIGINAL_TEXT>Reports say that intravenous (IV) vitamin C may help people suffering from this disease.</ORIGINAL_TEXT>
+<TOKEN end_char="154" id="token-2-0" morph="none" pos="word" start_char="148">Reports</TOKEN>
+<TOKEN end_char="158" id="token-2-1" morph="none" pos="word" start_char="156">say</TOKEN>
+<TOKEN end_char="163" id="token-2-2" morph="none" pos="word" start_char="160">that</TOKEN>
+<TOKEN end_char="175" id="token-2-3" morph="none" pos="word" start_char="165">intravenous</TOKEN>
+<TOKEN end_char="177" id="token-2-4" morph="none" pos="punct" start_char="177">(</TOKEN>
+<TOKEN end_char="179" id="token-2-5" morph="none" pos="word" start_char="178">IV</TOKEN>
+<TOKEN end_char="180" id="token-2-6" morph="none" pos="punct" start_char="180">)</TOKEN>
+<TOKEN end_char="188" id="token-2-7" morph="none" pos="word" start_char="182">vitamin</TOKEN>
+<TOKEN end_char="190" id="token-2-8" morph="none" pos="word" start_char="190">C</TOKEN>
+<TOKEN end_char="194" id="token-2-9" morph="none" pos="word" start_char="192">may</TOKEN>
+<TOKEN end_char="199" id="token-2-10" morph="none" pos="word" start_char="196">help</TOKEN>
+<TOKEN end_char="206" id="token-2-11" morph="none" pos="word" start_char="201">people</TOKEN>
+<TOKEN end_char="216" id="token-2-12" morph="none" pos="word" start_char="208">suffering</TOKEN>
+<TOKEN end_char="221" id="token-2-13" morph="none" pos="word" start_char="218">from</TOKEN>
+<TOKEN end_char="226" id="token-2-14" morph="none" pos="word" start_char="223">this</TOKEN>
+<TOKEN end_char="234" id="token-2-15" morph="none" pos="word" start_char="228">disease</TOKEN>
+<TOKEN end_char="235" id="token-2-16" morph="none" pos="punct" start_char="235">.</TOKEN>
+</SEG>
+<SEG end_char="301" id="segment-3" start_char="238">
+<ORIGINAL_TEXT>Recently, IV vitamin C clinical trials began in China and Italy.</ORIGINAL_TEXT>
+<TOKEN end_char="245" id="token-3-0" morph="none" pos="word" start_char="238">Recently</TOKEN>
+<TOKEN end_char="246" id="token-3-1" morph="none" pos="punct" start_char="246">,</TOKEN>
+<TOKEN end_char="249" id="token-3-2" morph="none" pos="word" start_char="248">IV</TOKEN>
+<TOKEN end_char="257" id="token-3-3" morph="none" pos="word" start_char="251">vitamin</TOKEN>
+<TOKEN end_char="259" id="token-3-4" morph="none" pos="word" start_char="259">C</TOKEN>
+<TOKEN end_char="268" id="token-3-5" morph="none" pos="word" start_char="261">clinical</TOKEN>
+<TOKEN end_char="275" id="token-3-6" morph="none" pos="word" start_char="270">trials</TOKEN>
+<TOKEN end_char="281" id="token-3-7" morph="none" pos="word" start_char="277">began</TOKEN>
+<TOKEN end_char="284" id="token-3-8" morph="none" pos="word" start_char="283">in</TOKEN>
+<TOKEN end_char="290" id="token-3-9" morph="none" pos="word" start_char="286">China</TOKEN>
+<TOKEN end_char="294" id="token-3-10" morph="none" pos="word" start_char="292">and</TOKEN>
+<TOKEN end_char="300" id="token-3-11" morph="none" pos="word" start_char="296">Italy</TOKEN>
+<TOKEN end_char="301" id="token-3-12" morph="none" pos="punct" start_char="301">.</TOKEN>
+</SEG>
+<SEG end_char="376" id="segment-4" start_char="303">
+<ORIGINAL_TEXT>Doctors in hard-hit areas of the United States are now reporting using it.</ORIGINAL_TEXT>
+<TOKEN end_char="309" id="token-4-0" morph="none" pos="word" start_char="303">Doctors</TOKEN>
+<TOKEN end_char="312" id="token-4-1" morph="none" pos="word" start_char="311">in</TOKEN>
+<TOKEN end_char="321" id="token-4-2" morph="none" pos="unknown" start_char="314">hard-hit</TOKEN>
+<TOKEN end_char="327" id="token-4-3" morph="none" pos="word" start_char="323">areas</TOKEN>
+<TOKEN end_char="330" id="token-4-4" morph="none" pos="word" start_char="329">of</TOKEN>
+<TOKEN end_char="334" id="token-4-5" morph="none" pos="word" start_char="332">the</TOKEN>
+<TOKEN end_char="341" id="token-4-6" morph="none" pos="word" start_char="336">United</TOKEN>
+<TOKEN end_char="348" id="token-4-7" morph="none" pos="word" start_char="343">States</TOKEN>
+<TOKEN end_char="352" id="token-4-8" morph="none" pos="word" start_char="350">are</TOKEN>
+<TOKEN end_char="356" id="token-4-9" morph="none" pos="word" start_char="354">now</TOKEN>
+<TOKEN end_char="366" id="token-4-10" morph="none" pos="word" start_char="358">reporting</TOKEN>
+<TOKEN end_char="372" id="token-4-11" morph="none" pos="word" start_char="368">using</TOKEN>
+<TOKEN end_char="375" id="token-4-12" morph="none" pos="word" start_char="374">it</TOKEN>
+<TOKEN end_char="376" id="token-4-13" morph="none" pos="punct" start_char="376">.</TOKEN>
+</SEG>
+<SEG end_char="498" id="segment-5" start_char="378">
+<ORIGINAL_TEXT>Furthermore, IV vitamin C appears in some COVID-19 critical care guidelines, like at the Eastern Virginia Medical School.</ORIGINAL_TEXT>
+<TOKEN end_char="388" id="token-5-0" morph="none" pos="word" start_char="378">Furthermore</TOKEN>
+<TOKEN end_char="389" id="token-5-1" morph="none" pos="punct" start_char="389">,</TOKEN>
+<TOKEN end_char="392" id="token-5-2" morph="none" pos="word" start_char="391">IV</TOKEN>
+<TOKEN end_char="400" id="token-5-3" morph="none" pos="word" start_char="394">vitamin</TOKEN>
+<TOKEN end_char="402" id="token-5-4" morph="none" pos="word" start_char="402">C</TOKEN>
+<TOKEN end_char="410" id="token-5-5" morph="none" pos="word" start_char="404">appears</TOKEN>
+<TOKEN end_char="413" id="token-5-6" morph="none" pos="word" start_char="412">in</TOKEN>
+<TOKEN end_char="418" id="token-5-7" morph="none" pos="word" start_char="415">some</TOKEN>
+<TOKEN end_char="427" id="token-5-8" morph="none" pos="unknown" start_char="420">COVID-19</TOKEN>
+<TOKEN end_char="436" id="token-5-9" morph="none" pos="word" start_char="429">critical</TOKEN>
+<TOKEN end_char="441" id="token-5-10" morph="none" pos="word" start_char="438">care</TOKEN>
+<TOKEN end_char="452" id="token-5-11" morph="none" pos="word" start_char="443">guidelines</TOKEN>
+<TOKEN end_char="453" id="token-5-12" morph="none" pos="punct" start_char="453">,</TOKEN>
+<TOKEN end_char="458" id="token-5-13" morph="none" pos="word" start_char="455">like</TOKEN>
+<TOKEN end_char="461" id="token-5-14" morph="none" pos="word" start_char="460">at</TOKEN>
+<TOKEN end_char="465" id="token-5-15" morph="none" pos="word" start_char="463">the</TOKEN>
+<TOKEN end_char="473" id="token-5-16" morph="none" pos="word" start_char="467">Eastern</TOKEN>
+<TOKEN end_char="482" id="token-5-17" morph="none" pos="word" start_char="475">Virginia</TOKEN>
+<TOKEN end_char="490" id="token-5-18" morph="none" pos="word" start_char="484">Medical</TOKEN>
+<TOKEN end_char="497" id="token-5-19" morph="none" pos="word" start_char="492">School</TOKEN>
+<TOKEN end_char="498" id="token-5-20" morph="none" pos="punct" start_char="498">.</TOKEN>
+</SEG>
+<SEG end_char="546" id="segment-6" start_char="501">
+<ORIGINAL_TEXT>Even though using IV vitamin C is nothing new,</ORIGINAL_TEXT>
+<TOKEN end_char="504" id="token-6-0" morph="none" pos="word" start_char="501">Even</TOKEN>
+<TOKEN end_char="511" id="token-6-1" morph="none" pos="word" start_char="506">though</TOKEN>
+<TOKEN end_char="517" id="token-6-2" morph="none" pos="word" start_char="513">using</TOKEN>
+<TOKEN end_char="520" id="token-6-3" morph="none" pos="word" start_char="519">IV</TOKEN>
+<TOKEN end_char="528" id="token-6-4" morph="none" pos="word" start_char="522">vitamin</TOKEN>
+<TOKEN end_char="530" id="token-6-5" morph="none" pos="word" start_char="530">C</TOKEN>
+<TOKEN end_char="533" id="token-6-6" morph="none" pos="word" start_char="532">is</TOKEN>
+<TOKEN end_char="541" id="token-6-7" morph="none" pos="word" start_char="535">nothing</TOKEN>
+<TOKEN end_char="545" id="token-6-8" morph="none" pos="word" start_char="543">new</TOKEN>
+<TOKEN end_char="546" id="token-6-9" morph="none" pos="punct" start_char="546">,</TOKEN>
+</SEG>
+<SEG end_char="629" id="segment-7" start_char="549">
+<ORIGINAL_TEXT>there is not enough scientific evidence to determine if it works against COVID-19</ORIGINAL_TEXT>
+<TOKEN end_char="553" id="token-7-0" morph="none" pos="word" start_char="549">there</TOKEN>
+<TOKEN end_char="556" id="token-7-1" morph="none" pos="word" start_char="555">is</TOKEN>
+<TOKEN end_char="560" id="token-7-2" morph="none" pos="word" start_char="558">not</TOKEN>
+<TOKEN end_char="567" id="token-7-3" morph="none" pos="word" start_char="562">enough</TOKEN>
+<TOKEN end_char="578" id="token-7-4" morph="none" pos="word" start_char="569">scientific</TOKEN>
+<TOKEN end_char="587" id="token-7-5" morph="none" pos="word" start_char="580">evidence</TOKEN>
+<TOKEN end_char="590" id="token-7-6" morph="none" pos="word" start_char="589">to</TOKEN>
+<TOKEN end_char="600" id="token-7-7" morph="none" pos="word" start_char="592">determine</TOKEN>
+<TOKEN end_char="603" id="token-7-8" morph="none" pos="word" start_char="602">if</TOKEN>
+<TOKEN end_char="606" id="token-7-9" morph="none" pos="word" start_char="605">it</TOKEN>
+<TOKEN end_char="612" id="token-7-10" morph="none" pos="word" start_char="608">works</TOKEN>
+<TOKEN end_char="620" id="token-7-11" morph="none" pos="word" start_char="614">against</TOKEN>
+<TOKEN end_char="629" id="token-7-12" morph="none" pos="unknown" start_char="622">COVID-19</TOKEN>
+</SEG>
+<SEG end_char="632" id="segment-8" start_char="632">
+<ORIGINAL_TEXT>.</ORIGINAL_TEXT>
+<TOKEN end_char="632" id="token-8-0" morph="none" pos="punct" start_char="632">.</TOKEN>
+</SEG>
+<SEG end_char="662" id="segment-9" start_char="634">
+<ORIGINAL_TEXT>Read on for more information.</ORIGINAL_TEXT>
+<TOKEN end_char="637" id="token-9-0" morph="none" pos="word" start_char="634">Read</TOKEN>
+<TOKEN end_char="640" id="token-9-1" morph="none" pos="word" start_char="639">on</TOKEN>
+<TOKEN end_char="644" id="token-9-2" morph="none" pos="word" start_char="642">for</TOKEN>
+<TOKEN end_char="649" id="token-9-3" morph="none" pos="word" start_char="646">more</TOKEN>
+<TOKEN end_char="661" id="token-9-4" morph="none" pos="word" start_char="651">information</TOKEN>
+<TOKEN end_char="662" id="token-9-5" morph="none" pos="punct" start_char="662">.</TOKEN>
+</SEG>
+<SEG end_char="685" id="segment-10" start_char="665">
+<ORIGINAL_TEXT>What is IV vitamin C?</ORIGINAL_TEXT>
+<TOKEN end_char="668" id="token-10-0" morph="none" pos="word" start_char="665">What</TOKEN>
+<TOKEN end_char="671" id="token-10-1" morph="none" pos="word" start_char="670">is</TOKEN>
+<TOKEN end_char="674" id="token-10-2" morph="none" pos="word" start_char="673">IV</TOKEN>
+<TOKEN end_char="682" id="token-10-3" morph="none" pos="word" start_char="676">vitamin</TOKEN>
+<TOKEN end_char="684" id="token-10-4" morph="none" pos="word" start_char="684">C</TOKEN>
+<TOKEN end_char="685" id="token-10-5" morph="none" pos="punct" start_char="685">?</TOKEN>
+</SEG>
+<SEG end_char="791" id="segment-11" start_char="688">
+<ORIGINAL_TEXT>A solution of vitamin C is delivered directly into the bloodstream through a vein, typically in the arm.</ORIGINAL_TEXT>
+<TOKEN end_char="688" id="token-11-0" morph="none" pos="word" start_char="688">A</TOKEN>
+<TOKEN end_char="697" id="token-11-1" morph="none" pos="word" start_char="690">solution</TOKEN>
+<TOKEN end_char="700" id="token-11-2" morph="none" pos="word" start_char="699">of</TOKEN>
+<TOKEN end_char="708" id="token-11-3" morph="none" pos="word" start_char="702">vitamin</TOKEN>
+<TOKEN end_char="710" id="token-11-4" morph="none" pos="word" start_char="710">C</TOKEN>
+<TOKEN end_char="713" id="token-11-5" morph="none" pos="word" start_char="712">is</TOKEN>
+<TOKEN end_char="723" id="token-11-6" morph="none" pos="word" start_char="715">delivered</TOKEN>
+<TOKEN end_char="732" id="token-11-7" morph="none" pos="word" start_char="725">directly</TOKEN>
+<TOKEN end_char="737" id="token-11-8" morph="none" pos="word" start_char="734">into</TOKEN>
+<TOKEN end_char="741" id="token-11-9" morph="none" pos="word" start_char="739">the</TOKEN>
+<TOKEN end_char="753" id="token-11-10" morph="none" pos="word" start_char="743">bloodstream</TOKEN>
+<TOKEN end_char="761" id="token-11-11" morph="none" pos="word" start_char="755">through</TOKEN>
+<TOKEN end_char="763" id="token-11-12" morph="none" pos="word" start_char="763">a</TOKEN>
+<TOKEN end_char="768" id="token-11-13" morph="none" pos="word" start_char="765">vein</TOKEN>
+<TOKEN end_char="769" id="token-11-14" morph="none" pos="punct" start_char="769">,</TOKEN>
+<TOKEN end_char="779" id="token-11-15" morph="none" pos="word" start_char="771">typically</TOKEN>
+<TOKEN end_char="782" id="token-11-16" morph="none" pos="word" start_char="781">in</TOKEN>
+<TOKEN end_char="786" id="token-11-17" morph="none" pos="word" start_char="784">the</TOKEN>
+<TOKEN end_char="790" id="token-11-18" morph="none" pos="word" start_char="788">arm</TOKEN>
+<TOKEN end_char="791" id="token-11-19" morph="none" pos="punct" start_char="791">.</TOKEN>
+</SEG>
+<SEG end_char="850" id="segment-12" start_char="793">
+<ORIGINAL_TEXT>A physician’s order is required to receive this treatment.</ORIGINAL_TEXT>
+<TOKEN end_char="793" id="token-12-0" morph="none" pos="word" start_char="793">A</TOKEN>
+<TOKEN end_char="805" id="token-12-1" morph="none" pos="word" start_char="795">physician’s</TOKEN>
+<TOKEN end_char="811" id="token-12-2" morph="none" pos="word" start_char="807">order</TOKEN>
+<TOKEN end_char="814" id="token-12-3" morph="none" pos="word" start_char="813">is</TOKEN>
+<TOKEN end_char="823" id="token-12-4" morph="none" pos="word" start_char="816">required</TOKEN>
+<TOKEN end_char="826" id="token-12-5" morph="none" pos="word" start_char="825">to</TOKEN>
+<TOKEN end_char="834" id="token-12-6" morph="none" pos="word" start_char="828">receive</TOKEN>
+<TOKEN end_char="839" id="token-12-7" morph="none" pos="word" start_char="836">this</TOKEN>
+<TOKEN end_char="849" id="token-12-8" morph="none" pos="word" start_char="841">treatment</TOKEN>
+<TOKEN end_char="850" id="token-12-9" morph="none" pos="punct" start_char="850">.</TOKEN>
+</SEG>
+<SEG end_char="929" id="segment-13" start_char="852">
+<ORIGINAL_TEXT>It is important to get IV vitamin C only in a clinic or other medical setting.</ORIGINAL_TEXT>
+<TOKEN end_char="853" id="token-13-0" morph="none" pos="word" start_char="852">It</TOKEN>
+<TOKEN end_char="856" id="token-13-1" morph="none" pos="word" start_char="855">is</TOKEN>
+<TOKEN end_char="866" id="token-13-2" morph="none" pos="word" start_char="858">important</TOKEN>
+<TOKEN end_char="869" id="token-13-3" morph="none" pos="word" start_char="868">to</TOKEN>
+<TOKEN end_char="873" id="token-13-4" morph="none" pos="word" start_char="871">get</TOKEN>
+<TOKEN end_char="876" id="token-13-5" morph="none" pos="word" start_char="875">IV</TOKEN>
+<TOKEN end_char="884" id="token-13-6" morph="none" pos="word" start_char="878">vitamin</TOKEN>
+<TOKEN end_char="886" id="token-13-7" morph="none" pos="word" start_char="886">C</TOKEN>
+<TOKEN end_char="891" id="token-13-8" morph="none" pos="word" start_char="888">only</TOKEN>
+<TOKEN end_char="894" id="token-13-9" morph="none" pos="word" start_char="893">in</TOKEN>
+<TOKEN end_char="896" id="token-13-10" morph="none" pos="word" start_char="896">a</TOKEN>
+<TOKEN end_char="903" id="token-13-11" morph="none" pos="word" start_char="898">clinic</TOKEN>
+<TOKEN end_char="906" id="token-13-12" morph="none" pos="word" start_char="905">or</TOKEN>
+<TOKEN end_char="912" id="token-13-13" morph="none" pos="word" start_char="908">other</TOKEN>
+<TOKEN end_char="920" id="token-13-14" morph="none" pos="word" start_char="914">medical</TOKEN>
+<TOKEN end_char="928" id="token-13-15" morph="none" pos="word" start_char="922">setting</TOKEN>
+<TOKEN end_char="929" id="token-13-16" morph="none" pos="punct" start_char="929">.</TOKEN>
+</SEG>
+<SEG end_char="952" id="segment-14" start_char="932">
+<ORIGINAL_TEXT>Why use IV vitamin C?</ORIGINAL_TEXT>
+<TOKEN end_char="934" id="token-14-0" morph="none" pos="word" start_char="932">Why</TOKEN>
+<TOKEN end_char="938" id="token-14-1" morph="none" pos="word" start_char="936">use</TOKEN>
+<TOKEN end_char="941" id="token-14-2" morph="none" pos="word" start_char="940">IV</TOKEN>
+<TOKEN end_char="949" id="token-14-3" morph="none" pos="word" start_char="943">vitamin</TOKEN>
+<TOKEN end_char="951" id="token-14-4" morph="none" pos="word" start_char="951">C</TOKEN>
+<TOKEN end_char="952" id="token-14-5" morph="none" pos="punct" start_char="952">?</TOKEN>
+</SEG>
+<SEG end_char="1002" id="segment-15" start_char="955">
+<ORIGINAL_TEXT>IV vitamin C goes straight into the bloodstream.</ORIGINAL_TEXT>
+<TOKEN end_char="956" id="token-15-0" morph="none" pos="word" start_char="955">IV</TOKEN>
+<TOKEN end_char="964" id="token-15-1" morph="none" pos="word" start_char="958">vitamin</TOKEN>
+<TOKEN end_char="966" id="token-15-2" morph="none" pos="word" start_char="966">C</TOKEN>
+<TOKEN end_char="971" id="token-15-3" morph="none" pos="word" start_char="968">goes</TOKEN>
+<TOKEN end_char="980" id="token-15-4" morph="none" pos="word" start_char="973">straight</TOKEN>
+<TOKEN end_char="985" id="token-15-5" morph="none" pos="word" start_char="982">into</TOKEN>
+<TOKEN end_char="989" id="token-15-6" morph="none" pos="word" start_char="987">the</TOKEN>
+<TOKEN end_char="1001" id="token-15-7" morph="none" pos="word" start_char="991">bloodstream</TOKEN>
+<TOKEN end_char="1002" id="token-15-8" morph="none" pos="punct" start_char="1002">.</TOKEN>
+</SEG>
+<SEG end_char="1114" id="segment-16" start_char="1004">
+<ORIGINAL_TEXT>Because it skips the stomach and intestines, vitamin C in the blood rises to very high levels and very quickly.</ORIGINAL_TEXT>
+<TOKEN end_char="1010" id="token-16-0" morph="none" pos="word" start_char="1004">Because</TOKEN>
+<TOKEN end_char="1013" id="token-16-1" morph="none" pos="word" start_char="1012">it</TOKEN>
+<TOKEN end_char="1019" id="token-16-2" morph="none" pos="word" start_char="1015">skips</TOKEN>
+<TOKEN end_char="1023" id="token-16-3" morph="none" pos="word" start_char="1021">the</TOKEN>
+<TOKEN end_char="1031" id="token-16-4" morph="none" pos="word" start_char="1025">stomach</TOKEN>
+<TOKEN end_char="1035" id="token-16-5" morph="none" pos="word" start_char="1033">and</TOKEN>
+<TOKEN end_char="1046" id="token-16-6" morph="none" pos="word" start_char="1037">intestines</TOKEN>
+<TOKEN end_char="1047" id="token-16-7" morph="none" pos="punct" start_char="1047">,</TOKEN>
+<TOKEN end_char="1055" id="token-16-8" morph="none" pos="word" start_char="1049">vitamin</TOKEN>
+<TOKEN end_char="1057" id="token-16-9" morph="none" pos="word" start_char="1057">C</TOKEN>
+<TOKEN end_char="1060" id="token-16-10" morph="none" pos="word" start_char="1059">in</TOKEN>
+<TOKEN end_char="1064" id="token-16-11" morph="none" pos="word" start_char="1062">the</TOKEN>
+<TOKEN end_char="1070" id="token-16-12" morph="none" pos="word" start_char="1066">blood</TOKEN>
+<TOKEN end_char="1076" id="token-16-13" morph="none" pos="word" start_char="1072">rises</TOKEN>
+<TOKEN end_char="1079" id="token-16-14" morph="none" pos="word" start_char="1078">to</TOKEN>
+<TOKEN end_char="1084" id="token-16-15" morph="none" pos="word" start_char="1081">very</TOKEN>
+<TOKEN end_char="1089" id="token-16-16" morph="none" pos="word" start_char="1086">high</TOKEN>
+<TOKEN end_char="1096" id="token-16-17" morph="none" pos="word" start_char="1091">levels</TOKEN>
+<TOKEN end_char="1100" id="token-16-18" morph="none" pos="word" start_char="1098">and</TOKEN>
+<TOKEN end_char="1105" id="token-16-19" morph="none" pos="word" start_char="1102">very</TOKEN>
+<TOKEN end_char="1113" id="token-16-20" morph="none" pos="word" start_char="1107">quickly</TOKEN>
+<TOKEN end_char="1114" id="token-16-21" morph="none" pos="punct" start_char="1114">.</TOKEN>
+</SEG>
+<SEG end_char="1164" id="segment-17" start_char="1118">
+<ORIGINAL_TEXT>What do we know about IV vitamin C in COVID-19?</ORIGINAL_TEXT>
+<TOKEN end_char="1121" id="token-17-0" morph="none" pos="word" start_char="1118">What</TOKEN>
+<TOKEN end_char="1124" id="token-17-1" morph="none" pos="word" start_char="1123">do</TOKEN>
+<TOKEN end_char="1127" id="token-17-2" morph="none" pos="word" start_char="1126">we</TOKEN>
+<TOKEN end_char="1132" id="token-17-3" morph="none" pos="word" start_char="1129">know</TOKEN>
+<TOKEN end_char="1138" id="token-17-4" morph="none" pos="word" start_char="1134">about</TOKEN>
+<TOKEN end_char="1141" id="token-17-5" morph="none" pos="word" start_char="1140">IV</TOKEN>
+<TOKEN end_char="1149" id="token-17-6" morph="none" pos="word" start_char="1143">vitamin</TOKEN>
+<TOKEN end_char="1151" id="token-17-7" morph="none" pos="word" start_char="1151">C</TOKEN>
+<TOKEN end_char="1154" id="token-17-8" morph="none" pos="word" start_char="1153">in</TOKEN>
+<TOKEN end_char="1163" id="token-17-9" morph="none" pos="unknown" start_char="1156">COVID-19</TOKEN>
+<TOKEN end_char="1164" id="token-17-10" morph="none" pos="punct" start_char="1164">?</TOKEN>
+</SEG>
+<SEG end_char="1247" id="segment-18" start_char="1167">
+<ORIGINAL_TEXT>The clinical data from IV vitamin C trials will not be available for many months.</ORIGINAL_TEXT>
+<TOKEN end_char="1169" id="token-18-0" morph="none" pos="word" start_char="1167">The</TOKEN>
+<TOKEN end_char="1178" id="token-18-1" morph="none" pos="word" start_char="1171">clinical</TOKEN>
+<TOKEN end_char="1183" id="token-18-2" morph="none" pos="word" start_char="1180">data</TOKEN>
+<TOKEN end_char="1188" id="token-18-3" morph="none" pos="word" start_char="1185">from</TOKEN>
+<TOKEN end_char="1191" id="token-18-4" morph="none" pos="word" start_char="1190">IV</TOKEN>
+<TOKEN end_char="1199" id="token-18-5" morph="none" pos="word" start_char="1193">vitamin</TOKEN>
+<TOKEN end_char="1201" id="token-18-6" morph="none" pos="word" start_char="1201">C</TOKEN>
+<TOKEN end_char="1208" id="token-18-7" morph="none" pos="word" start_char="1203">trials</TOKEN>
+<TOKEN end_char="1213" id="token-18-8" morph="none" pos="word" start_char="1210">will</TOKEN>
+<TOKEN end_char="1217" id="token-18-9" morph="none" pos="word" start_char="1215">not</TOKEN>
+<TOKEN end_char="1220" id="token-18-10" morph="none" pos="word" start_char="1219">be</TOKEN>
+<TOKEN end_char="1230" id="token-18-11" morph="none" pos="word" start_char="1222">available</TOKEN>
+<TOKEN end_char="1234" id="token-18-12" morph="none" pos="word" start_char="1232">for</TOKEN>
+<TOKEN end_char="1239" id="token-18-13" morph="none" pos="word" start_char="1236">many</TOKEN>
+<TOKEN end_char="1246" id="token-18-14" morph="none" pos="word" start_char="1241">months</TOKEN>
+<TOKEN end_char="1247" id="token-18-15" morph="none" pos="punct" start_char="1247">.</TOKEN>
+</SEG>
+<SEG end_char="1343" id="segment-19" start_char="1249">
+<ORIGINAL_TEXT>So far, doctors and researchers cannot tell how effective IV vitamin C is or how it might work.</ORIGINAL_TEXT>
+<TOKEN end_char="1250" id="token-19-0" morph="none" pos="word" start_char="1249">So</TOKEN>
+<TOKEN end_char="1254" id="token-19-1" morph="none" pos="word" start_char="1252">far</TOKEN>
+<TOKEN end_char="1255" id="token-19-2" morph="none" pos="punct" start_char="1255">,</TOKEN>
+<TOKEN end_char="1263" id="token-19-3" morph="none" pos="word" start_char="1257">doctors</TOKEN>
+<TOKEN end_char="1267" id="token-19-4" morph="none" pos="word" start_char="1265">and</TOKEN>
+<TOKEN end_char="1279" id="token-19-5" morph="none" pos="word" start_char="1269">researchers</TOKEN>
+<TOKEN end_char="1286" id="token-19-6" morph="none" pos="word" start_char="1281">cannot</TOKEN>
+<TOKEN end_char="1291" id="token-19-7" morph="none" pos="word" start_char="1288">tell</TOKEN>
+<TOKEN end_char="1295" id="token-19-8" morph="none" pos="word" start_char="1293">how</TOKEN>
+<TOKEN end_char="1305" id="token-19-9" morph="none" pos="word" start_char="1297">effective</TOKEN>
+<TOKEN end_char="1308" id="token-19-10" morph="none" pos="word" start_char="1307">IV</TOKEN>
+<TOKEN end_char="1316" id="token-19-11" morph="none" pos="word" start_char="1310">vitamin</TOKEN>
+<TOKEN end_char="1318" id="token-19-12" morph="none" pos="word" start_char="1318">C</TOKEN>
+<TOKEN end_char="1321" id="token-19-13" morph="none" pos="word" start_char="1320">is</TOKEN>
+<TOKEN end_char="1324" id="token-19-14" morph="none" pos="word" start_char="1323">or</TOKEN>
+<TOKEN end_char="1328" id="token-19-15" morph="none" pos="word" start_char="1326">how</TOKEN>
+<TOKEN end_char="1331" id="token-19-16" morph="none" pos="word" start_char="1330">it</TOKEN>
+<TOKEN end_char="1337" id="token-19-17" morph="none" pos="word" start_char="1333">might</TOKEN>
+<TOKEN end_char="1342" id="token-19-18" morph="none" pos="word" start_char="1339">work</TOKEN>
+<TOKEN end_char="1343" id="token-19-19" morph="none" pos="punct" start_char="1343">.</TOKEN>
+</SEG>
+<SEG end_char="1448" id="segment-20" start_char="1346">
+<ORIGINAL_TEXT>There is some scientific evidence that IV vitamin C can be useful in the treatment of other infections.</ORIGINAL_TEXT>
+<TOKEN end_char="1350" id="token-20-0" morph="none" pos="word" start_char="1346">There</TOKEN>
+<TOKEN end_char="1353" id="token-20-1" morph="none" pos="word" start_char="1352">is</TOKEN>
+<TOKEN end_char="1358" id="token-20-2" morph="none" pos="word" start_char="1355">some</TOKEN>
+<TOKEN end_char="1369" id="token-20-3" morph="none" pos="word" start_char="1360">scientific</TOKEN>
+<TOKEN end_char="1378" id="token-20-4" morph="none" pos="word" start_char="1371">evidence</TOKEN>
+<TOKEN end_char="1383" id="token-20-5" morph="none" pos="word" start_char="1380">that</TOKEN>
+<TOKEN end_char="1386" id="token-20-6" morph="none" pos="word" start_char="1385">IV</TOKEN>
+<TOKEN end_char="1394" id="token-20-7" morph="none" pos="word" start_char="1388">vitamin</TOKEN>
+<TOKEN end_char="1396" id="token-20-8" morph="none" pos="word" start_char="1396">C</TOKEN>
+<TOKEN end_char="1400" id="token-20-9" morph="none" pos="word" start_char="1398">can</TOKEN>
+<TOKEN end_char="1403" id="token-20-10" morph="none" pos="word" start_char="1402">be</TOKEN>
+<TOKEN end_char="1410" id="token-20-11" morph="none" pos="word" start_char="1405">useful</TOKEN>
+<TOKEN end_char="1413" id="token-20-12" morph="none" pos="word" start_char="1412">in</TOKEN>
+<TOKEN end_char="1417" id="token-20-13" morph="none" pos="word" start_char="1415">the</TOKEN>
+<TOKEN end_char="1427" id="token-20-14" morph="none" pos="word" start_char="1419">treatment</TOKEN>
+<TOKEN end_char="1430" id="token-20-15" morph="none" pos="word" start_char="1429">of</TOKEN>
+<TOKEN end_char="1436" id="token-20-16" morph="none" pos="word" start_char="1432">other</TOKEN>
+<TOKEN end_char="1447" id="token-20-17" morph="none" pos="word" start_char="1438">infections</TOKEN>
+<TOKEN end_char="1448" id="token-20-18" morph="none" pos="punct" start_char="1448">.</TOKEN>
+</SEG>
+<SEG end_char="1526" id="segment-21" start_char="1450">
+<ORIGINAL_TEXT>Most of the recorded use of IV vitamin C has been in the treatment of cancer.</ORIGINAL_TEXT>
+<TOKEN end_char="1453" id="token-21-0" morph="none" pos="word" start_char="1450">Most</TOKEN>
+<TOKEN end_char="1456" id="token-21-1" morph="none" pos="word" start_char="1455">of</TOKEN>
+<TOKEN end_char="1460" id="token-21-2" morph="none" pos="word" start_char="1458">the</TOKEN>
+<TOKEN end_char="1469" id="token-21-3" morph="none" pos="word" start_char="1462">recorded</TOKEN>
+<TOKEN end_char="1473" id="token-21-4" morph="none" pos="word" start_char="1471">use</TOKEN>
+<TOKEN end_char="1476" id="token-21-5" morph="none" pos="word" start_char="1475">of</TOKEN>
+<TOKEN end_char="1479" id="token-21-6" morph="none" pos="word" start_char="1478">IV</TOKEN>
+<TOKEN end_char="1487" id="token-21-7" morph="none" pos="word" start_char="1481">vitamin</TOKEN>
+<TOKEN end_char="1489" id="token-21-8" morph="none" pos="word" start_char="1489">C</TOKEN>
+<TOKEN end_char="1493" id="token-21-9" morph="none" pos="word" start_char="1491">has</TOKEN>
+<TOKEN end_char="1498" id="token-21-10" morph="none" pos="word" start_char="1495">been</TOKEN>
+<TOKEN end_char="1501" id="token-21-11" morph="none" pos="word" start_char="1500">in</TOKEN>
+<TOKEN end_char="1505" id="token-21-12" morph="none" pos="word" start_char="1503">the</TOKEN>
+<TOKEN end_char="1515" id="token-21-13" morph="none" pos="word" start_char="1507">treatment</TOKEN>
+<TOKEN end_char="1518" id="token-21-14" morph="none" pos="word" start_char="1517">of</TOKEN>
+<TOKEN end_char="1525" id="token-21-15" morph="none" pos="word" start_char="1520">cancer</TOKEN>
+<TOKEN end_char="1526" id="token-21-16" morph="none" pos="punct" start_char="1526">.</TOKEN>
+</SEG>
+<SEG end_char="1540" id="segment-22" start_char="1529">
+<ORIGINAL_TEXT>To be clear:</ORIGINAL_TEXT>
+<TOKEN end_char="1530" id="token-22-0" morph="none" pos="word" start_char="1529">To</TOKEN>
+<TOKEN end_char="1533" id="token-22-1" morph="none" pos="word" start_char="1532">be</TOKEN>
+<TOKEN end_char="1539" id="token-22-2" morph="none" pos="word" start_char="1535">clear</TOKEN>
+<TOKEN end_char="1540" id="token-22-3" morph="none" pos="punct" start_char="1540">:</TOKEN>
+</SEG>
+<SEG end_char="1581" id="segment-23" start_char="1543">
+<ORIGINAL_TEXT>IV vitamin C is not a cure for COVID-19</ORIGINAL_TEXT>
+<TOKEN end_char="1544" id="token-23-0" morph="none" pos="word" start_char="1543">IV</TOKEN>
+<TOKEN end_char="1552" id="token-23-1" morph="none" pos="word" start_char="1546">vitamin</TOKEN>
+<TOKEN end_char="1554" id="token-23-2" morph="none" pos="word" start_char="1554">C</TOKEN>
+<TOKEN end_char="1557" id="token-23-3" morph="none" pos="word" start_char="1556">is</TOKEN>
+<TOKEN end_char="1561" id="token-23-4" morph="none" pos="word" start_char="1559">not</TOKEN>
+<TOKEN end_char="1563" id="token-23-5" morph="none" pos="word" start_char="1563">a</TOKEN>
+<TOKEN end_char="1568" id="token-23-6" morph="none" pos="word" start_char="1565">cure</TOKEN>
+<TOKEN end_char="1572" id="token-23-7" morph="none" pos="word" start_char="1570">for</TOKEN>
+<TOKEN end_char="1581" id="token-23-8" morph="none" pos="unknown" start_char="1574">COVID-19</TOKEN>
+</SEG>
+<SEG end_char="1584" id="segment-24" start_char="1584">
+<ORIGINAL_TEXT>.</ORIGINAL_TEXT>
+<TOKEN end_char="1584" id="token-24-0" morph="none" pos="punct" start_char="1584">.</TOKEN>
+</SEG>
+<SEG end_char="1613" id="segment-25" start_char="1587">
+<ORIGINAL_TEXT>It is hard to compare them.</ORIGINAL_TEXT>
+<TOKEN end_char="1588" id="token-25-0" morph="none" pos="word" start_char="1587">It</TOKEN>
+<TOKEN end_char="1591" id="token-25-1" morph="none" pos="word" start_char="1590">is</TOKEN>
+<TOKEN end_char="1596" id="token-25-2" morph="none" pos="word" start_char="1593">hard</TOKEN>
+<TOKEN end_char="1599" id="token-25-3" morph="none" pos="word" start_char="1598">to</TOKEN>
+<TOKEN end_char="1607" id="token-25-4" morph="none" pos="word" start_char="1601">compare</TOKEN>
+<TOKEN end_char="1612" id="token-25-5" morph="none" pos="word" start_char="1609">them</TOKEN>
+<TOKEN end_char="1613" id="token-25-6" morph="none" pos="punct" start_char="1613">.</TOKEN>
+</SEG>
+<SEG end_char="1717" id="segment-26" start_char="1616">
+<ORIGINAL_TEXT>You cannot get blood vitamin C levels nearly as high as IV vitamin C when taking vitamin C supplements</ORIGINAL_TEXT>
+<TOKEN end_char="1618" id="token-26-0" morph="none" pos="word" start_char="1616">You</TOKEN>
+<TOKEN end_char="1625" id="token-26-1" morph="none" pos="word" start_char="1620">cannot</TOKEN>
+<TOKEN end_char="1629" id="token-26-2" morph="none" pos="word" start_char="1627">get</TOKEN>
+<TOKEN end_char="1635" id="token-26-3" morph="none" pos="word" start_char="1631">blood</TOKEN>
+<TOKEN end_char="1643" id="token-26-4" morph="none" pos="word" start_char="1637">vitamin</TOKEN>
+<TOKEN end_char="1645" id="token-26-5" morph="none" pos="word" start_char="1645">C</TOKEN>
+<TOKEN end_char="1652" id="token-26-6" morph="none" pos="word" start_char="1647">levels</TOKEN>
+<TOKEN end_char="1659" id="token-26-7" morph="none" pos="word" start_char="1654">nearly</TOKEN>
+<TOKEN end_char="1662" id="token-26-8" morph="none" pos="word" start_char="1661">as</TOKEN>
+<TOKEN end_char="1667" id="token-26-9" morph="none" pos="word" start_char="1664">high</TOKEN>
+<TOKEN end_char="1670" id="token-26-10" morph="none" pos="word" start_char="1669">as</TOKEN>
+<TOKEN end_char="1673" id="token-26-11" morph="none" pos="word" start_char="1672">IV</TOKEN>
+<TOKEN end_char="1681" id="token-26-12" morph="none" pos="word" start_char="1675">vitamin</TOKEN>
+<TOKEN end_char="1683" id="token-26-13" morph="none" pos="word" start_char="1683">C</TOKEN>
+<TOKEN end_char="1688" id="token-26-14" morph="none" pos="word" start_char="1685">when</TOKEN>
+<TOKEN end_char="1695" id="token-26-15" morph="none" pos="word" start_char="1690">taking</TOKEN>
+<TOKEN end_char="1703" id="token-26-16" morph="none" pos="word" start_char="1697">vitamin</TOKEN>
+<TOKEN end_char="1705" id="token-26-17" morph="none" pos="word" start_char="1705">C</TOKEN>
+<TOKEN end_char="1717" id="token-26-18" morph="none" pos="word" start_char="1707">supplements</TOKEN>
+</SEG>
+<SEG end_char="1720" id="segment-27" start_char="1720">
+<ORIGINAL_TEXT>.</ORIGINAL_TEXT>
+<TOKEN end_char="1720" id="token-27-0" morph="none" pos="punct" start_char="1720">.</TOKEN>
+</SEG>
+<SEG end_char="1837" id="segment-28" start_char="1723">
+<ORIGINAL_TEXT>Despite label claims, no supplement is equal to IV vitamin C – no matter how much you take or what formula you use.</ORIGINAL_TEXT>
+<TOKEN end_char="1729" id="token-28-0" morph="none" pos="word" start_char="1723">Despite</TOKEN>
+<TOKEN end_char="1735" id="token-28-1" morph="none" pos="word" start_char="1731">label</TOKEN>
+<TOKEN end_char="1742" id="token-28-2" morph="none" pos="word" start_char="1737">claims</TOKEN>
+<TOKEN end_char="1743" id="token-28-3" morph="none" pos="punct" start_char="1743">,</TOKEN>
+<TOKEN end_char="1746" id="token-28-4" morph="none" pos="word" start_char="1745">no</TOKEN>
+<TOKEN end_char="1757" id="token-28-5" morph="none" pos="word" start_char="1748">supplement</TOKEN>
+<TOKEN end_char="1760" id="token-28-6" morph="none" pos="word" start_char="1759">is</TOKEN>
+<TOKEN end_char="1766" id="token-28-7" morph="none" pos="word" start_char="1762">equal</TOKEN>
+<TOKEN end_char="1769" id="token-28-8" morph="none" pos="word" start_char="1768">to</TOKEN>
+<TOKEN end_char="1772" id="token-28-9" morph="none" pos="word" start_char="1771">IV</TOKEN>
+<TOKEN end_char="1780" id="token-28-10" morph="none" pos="word" start_char="1774">vitamin</TOKEN>
+<TOKEN end_char="1782" id="token-28-11" morph="none" pos="word" start_char="1782">C</TOKEN>
+<TOKEN end_char="1784" id="token-28-12" morph="none" pos="punct" start_char="1784">–</TOKEN>
+<TOKEN end_char="1787" id="token-28-13" morph="none" pos="word" start_char="1786">no</TOKEN>
+<TOKEN end_char="1794" id="token-28-14" morph="none" pos="word" start_char="1789">matter</TOKEN>
+<TOKEN end_char="1798" id="token-28-15" morph="none" pos="word" start_char="1796">how</TOKEN>
+<TOKEN end_char="1803" id="token-28-16" morph="none" pos="word" start_char="1800">much</TOKEN>
+<TOKEN end_char="1807" id="token-28-17" morph="none" pos="word" start_char="1805">you</TOKEN>
+<TOKEN end_char="1812" id="token-28-18" morph="none" pos="word" start_char="1809">take</TOKEN>
+<TOKEN end_char="1815" id="token-28-19" morph="none" pos="word" start_char="1814">or</TOKEN>
+<TOKEN end_char="1820" id="token-28-20" morph="none" pos="word" start_char="1817">what</TOKEN>
+<TOKEN end_char="1828" id="token-28-21" morph="none" pos="word" start_char="1822">formula</TOKEN>
+<TOKEN end_char="1832" id="token-28-22" morph="none" pos="word" start_char="1830">you</TOKEN>
+<TOKEN end_char="1836" id="token-28-23" morph="none" pos="word" start_char="1834">use</TOKEN>
+<TOKEN end_char="1837" id="token-28-24" morph="none" pos="punct" start_char="1837">.</TOKEN>
+</SEG>
+<SEG end_char="1889" id="segment-29" start_char="1840">
+<ORIGINAL_TEXT>Can vitamin C supplements help your immune system?</ORIGINAL_TEXT>
+<TOKEN end_char="1842" id="token-29-0" morph="none" pos="word" start_char="1840">Can</TOKEN>
+<TOKEN end_char="1850" id="token-29-1" morph="none" pos="word" start_char="1844">vitamin</TOKEN>
+<TOKEN end_char="1852" id="token-29-2" morph="none" pos="word" start_char="1852">C</TOKEN>
+<TOKEN end_char="1864" id="token-29-3" morph="none" pos="word" start_char="1854">supplements</TOKEN>
+<TOKEN end_char="1869" id="token-29-4" morph="none" pos="word" start_char="1866">help</TOKEN>
+<TOKEN end_char="1874" id="token-29-5" morph="none" pos="word" start_char="1871">your</TOKEN>
+<TOKEN end_char="1881" id="token-29-6" morph="none" pos="word" start_char="1876">immune</TOKEN>
+<TOKEN end_char="1888" id="token-29-7" morph="none" pos="word" start_char="1883">system</TOKEN>
+<TOKEN end_char="1889" id="token-29-8" morph="none" pos="punct" start_char="1889">?</TOKEN>
+<TRANSLATED_TEXT>Kan vitamine C-supplementen uw immuunsysteem helpen?</TRANSLATED_TEXT><DETECTED_LANGUAGE>fr</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1921" id="segment-30" start_char="1891">
+<ORIGINAL_TEXT>Yes, but for different reasons.</ORIGINAL_TEXT>
+<TOKEN end_char="1893" id="token-30-0" morph="none" pos="word" start_char="1891">Yes</TOKEN>
+<TOKEN end_char="1894" id="token-30-1" morph="none" pos="punct" start_char="1894">,</TOKEN>
+<TOKEN end_char="1898" id="token-30-2" morph="none" pos="word" start_char="1896">but</TOKEN>
+<TOKEN end_char="1902" id="token-30-3" morph="none" pos="word" start_char="1900">for</TOKEN>
+<TOKEN end_char="1912" id="token-30-4" morph="none" pos="word" start_char="1904">different</TOKEN>
+<TOKEN end_char="1920" id="token-30-5" morph="none" pos="word" start_char="1914">reasons</TOKEN>
+<TOKEN end_char="1921" id="token-30-6" morph="none" pos="punct" start_char="1921">.</TOKEN>
+</SEG>
+<SEG end_char="1991" id="segment-31" start_char="1924">
+<ORIGINAL_TEXT>Caution: Be careful taking very high doses of vitamin C supplements.</ORIGINAL_TEXT>
+<TOKEN end_char="1930" id="token-31-0" morph="none" pos="word" start_char="1924">Caution</TOKEN>
+<TOKEN end_char="1931" id="token-31-1" morph="none" pos="punct" start_char="1931">:</TOKEN>
+<TOKEN end_char="1934" id="token-31-2" morph="none" pos="word" start_char="1933">Be</TOKEN>
+<TOKEN end_char="1942" id="token-31-3" morph="none" pos="word" start_char="1936">careful</TOKEN>
+<TOKEN end_char="1949" id="token-31-4" morph="none" pos="word" start_char="1944">taking</TOKEN>
+<TOKEN end_char="1954" id="token-31-5" morph="none" pos="word" start_char="1951">very</TOKEN>
+<TOKEN end_char="1959" id="token-31-6" morph="none" pos="word" start_char="1956">high</TOKEN>
+<TOKEN end_char="1965" id="token-31-7" morph="none" pos="word" start_char="1961">doses</TOKEN>
+<TOKEN end_char="1968" id="token-31-8" morph="none" pos="word" start_char="1967">of</TOKEN>
+<TOKEN end_char="1976" id="token-31-9" morph="none" pos="word" start_char="1970">vitamin</TOKEN>
+<TOKEN end_char="1978" id="token-31-10" morph="none" pos="word" start_char="1978">C</TOKEN>
+<TOKEN end_char="1990" id="token-31-11" morph="none" pos="word" start_char="1980">supplements</TOKEN>
+<TOKEN end_char="1991" id="token-31-12" morph="none" pos="punct" start_char="1991">.</TOKEN>
+</SEG>
+<SEG end_char="2074" id="segment-32" start_char="1993">
+<ORIGINAL_TEXT>They can also cause unwanted side effects such as abdominal cramping and diarrhea.</ORIGINAL_TEXT>
+<TOKEN end_char="1996" id="token-32-0" morph="none" pos="word" start_char="1993">They</TOKEN>
+<TOKEN end_char="2000" id="token-32-1" morph="none" pos="word" start_char="1998">can</TOKEN>
+<TOKEN end_char="2005" id="token-32-2" morph="none" pos="word" start_char="2002">also</TOKEN>
+<TOKEN end_char="2011" id="token-32-3" morph="none" pos="word" start_char="2007">cause</TOKEN>
+<TOKEN end_char="2020" id="token-32-4" morph="none" pos="word" start_char="2013">unwanted</TOKEN>
+<TOKEN end_char="2025" id="token-32-5" morph="none" pos="word" start_char="2022">side</TOKEN>
+<TOKEN end_char="2033" id="token-32-6" morph="none" pos="word" start_char="2027">effects</TOKEN>
+<TOKEN end_char="2038" id="token-32-7" morph="none" pos="word" start_char="2035">such</TOKEN>
+<TOKEN end_char="2041" id="token-32-8" morph="none" pos="word" start_char="2040">as</TOKEN>
+<TOKEN end_char="2051" id="token-32-9" morph="none" pos="word" start_char="2043">abdominal</TOKEN>
+<TOKEN end_char="2060" id="token-32-10" morph="none" pos="word" start_char="2053">cramping</TOKEN>
+<TOKEN end_char="2064" id="token-32-11" morph="none" pos="word" start_char="2062">and</TOKEN>
+<TOKEN end_char="2073" id="token-32-12" morph="none" pos="word" start_char="2066">diarrhea</TOKEN>
+<TOKEN end_char="2074" id="token-32-13" morph="none" pos="punct" start_char="2074">.</TOKEN>
+</SEG>
+<SEG end_char="2125" id="segment-33" start_char="2077">
+<ORIGINAL_TEXT>How might IV vitamin C work in COVID-19 patients?</ORIGINAL_TEXT>
+<TOKEN end_char="2079" id="token-33-0" morph="none" pos="word" start_char="2077">How</TOKEN>
+<TOKEN end_char="2085" id="token-33-1" morph="none" pos="word" start_char="2081">might</TOKEN>
+<TOKEN end_char="2088" id="token-33-2" morph="none" pos="word" start_char="2087">IV</TOKEN>
+<TOKEN end_char="2096" id="token-33-3" morph="none" pos="word" start_char="2090">vitamin</TOKEN>
+<TOKEN end_char="2098" id="token-33-4" morph="none" pos="word" start_char="2098">C</TOKEN>
+<TOKEN end_char="2103" id="token-33-5" morph="none" pos="word" start_char="2100">work</TOKEN>
+<TOKEN end_char="2106" id="token-33-6" morph="none" pos="word" start_char="2105">in</TOKEN>
+<TOKEN end_char="2115" id="token-33-7" morph="none" pos="unknown" start_char="2108">COVID-19</TOKEN>
+<TOKEN end_char="2124" id="token-33-8" morph="none" pos="word" start_char="2117">patients</TOKEN>
+<TOKEN end_char="2125" id="token-33-9" morph="none" pos="punct" start_char="2125">?</TOKEN>
+</SEG>
+<SEG end_char="2201" id="segment-34" start_char="2128">
+<ORIGINAL_TEXT>There are several theories about how IV vitamin C may help treat COVID-19:</ORIGINAL_TEXT>
+<TOKEN end_char="2132" id="token-34-0" morph="none" pos="word" start_char="2128">There</TOKEN>
+<TOKEN end_char="2136" id="token-34-1" morph="none" pos="word" start_char="2134">are</TOKEN>
+<TOKEN end_char="2144" id="token-34-2" morph="none" pos="word" start_char="2138">several</TOKEN>
+<TOKEN end_char="2153" id="token-34-3" morph="none" pos="word" start_char="2146">theories</TOKEN>
+<TOKEN end_char="2159" id="token-34-4" morph="none" pos="word" start_char="2155">about</TOKEN>
+<TOKEN end_char="2163" id="token-34-5" morph="none" pos="word" start_char="2161">how</TOKEN>
+<TOKEN end_char="2166" id="token-34-6" morph="none" pos="word" start_char="2165">IV</TOKEN>
+<TOKEN end_char="2174" id="token-34-7" morph="none" pos="word" start_char="2168">vitamin</TOKEN>
+<TOKEN end_char="2176" id="token-34-8" morph="none" pos="word" start_char="2176">C</TOKEN>
+<TOKEN end_char="2180" id="token-34-9" morph="none" pos="word" start_char="2178">may</TOKEN>
+<TOKEN end_char="2185" id="token-34-10" morph="none" pos="word" start_char="2182">help</TOKEN>
+<TOKEN end_char="2191" id="token-34-11" morph="none" pos="word" start_char="2187">treat</TOKEN>
+<TOKEN end_char="2200" id="token-34-12" morph="none" pos="unknown" start_char="2193">COVID-19</TOKEN>
+<TOKEN end_char="2201" id="token-34-13" morph="none" pos="punct" start_char="2201">:</TOKEN>
+</SEG>
+<SEG end_char="2289" id="segment-35" start_char="2204">
+<ORIGINAL_TEXT>Very high vitamin C levels may create free radicals that destroy viruses and bacteria.</ORIGINAL_TEXT>
+<TOKEN end_char="2207" id="token-35-0" morph="none" pos="word" start_char="2204">Very</TOKEN>
+<TOKEN end_char="2212" id="token-35-1" morph="none" pos="word" start_char="2209">high</TOKEN>
+<TOKEN end_char="2220" id="token-35-2" morph="none" pos="word" start_char="2214">vitamin</TOKEN>
+<TOKEN end_char="2222" id="token-35-3" morph="none" pos="word" start_char="2222">C</TOKEN>
+<TOKEN end_char="2229" id="token-35-4" morph="none" pos="word" start_char="2224">levels</TOKEN>
+<TOKEN end_char="2233" id="token-35-5" morph="none" pos="word" start_char="2231">may</TOKEN>
+<TOKEN end_char="2240" id="token-35-6" morph="none" pos="word" start_char="2235">create</TOKEN>
+<TOKEN end_char="2245" id="token-35-7" morph="none" pos="word" start_char="2242">free</TOKEN>
+<TOKEN end_char="2254" id="token-35-8" morph="none" pos="word" start_char="2247">radicals</TOKEN>
+<TOKEN end_char="2259" id="token-35-9" morph="none" pos="word" start_char="2256">that</TOKEN>
+<TOKEN end_char="2267" id="token-35-10" morph="none" pos="word" start_char="2261">destroy</TOKEN>
+<TOKEN end_char="2275" id="token-35-11" morph="none" pos="word" start_char="2269">viruses</TOKEN>
+<TOKEN end_char="2279" id="token-35-12" morph="none" pos="word" start_char="2277">and</TOKEN>
+<TOKEN end_char="2288" id="token-35-13" morph="none" pos="word" start_char="2281">bacteria</TOKEN>
+<TOKEN end_char="2289" id="token-35-14" morph="none" pos="punct" start_char="2289">.</TOKEN>
+</SEG>
+<SEG end_char="2369" id="segment-36" start_char="2291">
+<ORIGINAL_TEXT>Our body’s cells have defenses against these free radicals, but viruses do not.</ORIGINAL_TEXT>
+<TOKEN end_char="2293" id="token-36-0" morph="none" pos="word" start_char="2291">Our</TOKEN>
+<TOKEN end_char="2300" id="token-36-1" morph="none" pos="word" start_char="2295">body’s</TOKEN>
+<TOKEN end_char="2306" id="token-36-2" morph="none" pos="word" start_char="2302">cells</TOKEN>
+<TOKEN end_char="2311" id="token-36-3" morph="none" pos="word" start_char="2308">have</TOKEN>
+<TOKEN end_char="2320" id="token-36-4" morph="none" pos="word" start_char="2313">defenses</TOKEN>
+<TOKEN end_char="2328" id="token-36-5" morph="none" pos="word" start_char="2322">against</TOKEN>
+<TOKEN end_char="2334" id="token-36-6" morph="none" pos="word" start_char="2330">these</TOKEN>
+<TOKEN end_char="2339" id="token-36-7" morph="none" pos="word" start_char="2336">free</TOKEN>
+<TOKEN end_char="2348" id="token-36-8" morph="none" pos="word" start_char="2341">radicals</TOKEN>
+<TOKEN end_char="2349" id="token-36-9" morph="none" pos="punct" start_char="2349">,</TOKEN>
+<TOKEN end_char="2353" id="token-36-10" morph="none" pos="word" start_char="2351">but</TOKEN>
+<TOKEN end_char="2361" id="token-36-11" morph="none" pos="word" start_char="2355">viruses</TOKEN>
+<TOKEN end_char="2364" id="token-36-12" morph="none" pos="word" start_char="2363">do</TOKEN>
+<TOKEN end_char="2368" id="token-36-13" morph="none" pos="word" start_char="2366">not</TOKEN>
+<TOKEN end_char="2369" id="token-36-14" morph="none" pos="punct" start_char="2369">.</TOKEN>
+</SEG>
+<SEG end_char="2449" id="segment-37" start_char="2373">
+<ORIGINAL_TEXT>Another possibility is IV vitamin C renews the body’s antioxidant protection.</ORIGINAL_TEXT>
+<TOKEN end_char="2379" id="token-37-0" morph="none" pos="word" start_char="2373">Another</TOKEN>
+<TOKEN end_char="2391" id="token-37-1" morph="none" pos="word" start_char="2381">possibility</TOKEN>
+<TOKEN end_char="2394" id="token-37-2" morph="none" pos="word" start_char="2393">is</TOKEN>
+<TOKEN end_char="2397" id="token-37-3" morph="none" pos="word" start_char="2396">IV</TOKEN>
+<TOKEN end_char="2405" id="token-37-4" morph="none" pos="word" start_char="2399">vitamin</TOKEN>
+<TOKEN end_char="2407" id="token-37-5" morph="none" pos="word" start_char="2407">C</TOKEN>
+<TOKEN end_char="2414" id="token-37-6" morph="none" pos="word" start_char="2409">renews</TOKEN>
+<TOKEN end_char="2418" id="token-37-7" morph="none" pos="word" start_char="2416">the</TOKEN>
+<TOKEN end_char="2425" id="token-37-8" morph="none" pos="word" start_char="2420">body’s</TOKEN>
+<TOKEN end_char="2437" id="token-37-9" morph="none" pos="word" start_char="2427">antioxidant</TOKEN>
+<TOKEN end_char="2448" id="token-37-10" morph="none" pos="word" start_char="2439">protection</TOKEN>
+<TOKEN end_char="2449" id="token-37-11" morph="none" pos="punct" start_char="2449">.</TOKEN>
+</SEG>
+<SEG end_char="2537" id="segment-38" start_char="2451">
+<ORIGINAL_TEXT>Serious infections can use up our body’s vitamin C and other antioxidants very quickly.</ORIGINAL_TEXT>
+<TOKEN end_char="2457" id="token-38-0" morph="none" pos="word" start_char="2451">Serious</TOKEN>
+<TOKEN end_char="2468" id="token-38-1" morph="none" pos="word" start_char="2459">infections</TOKEN>
+<TOKEN end_char="2472" id="token-38-2" morph="none" pos="word" start_char="2470">can</TOKEN>
+<TOKEN end_char="2476" id="token-38-3" morph="none" pos="word" start_char="2474">use</TOKEN>
+<TOKEN end_char="2479" id="token-38-4" morph="none" pos="word" start_char="2478">up</TOKEN>
+<TOKEN end_char="2483" id="token-38-5" morph="none" pos="word" start_char="2481">our</TOKEN>
+<TOKEN end_char="2490" id="token-38-6" morph="none" pos="word" start_char="2485">body’s</TOKEN>
+<TOKEN end_char="2498" id="token-38-7" morph="none" pos="word" start_char="2492">vitamin</TOKEN>
+<TOKEN end_char="2500" id="token-38-8" morph="none" pos="word" start_char="2500">C</TOKEN>
+<TOKEN end_char="2504" id="token-38-9" morph="none" pos="word" start_char="2502">and</TOKEN>
+<TOKEN end_char="2510" id="token-38-10" morph="none" pos="word" start_char="2506">other</TOKEN>
+<TOKEN end_char="2523" id="token-38-11" morph="none" pos="word" start_char="2512">antioxidants</TOKEN>
+<TOKEN end_char="2528" id="token-38-12" morph="none" pos="word" start_char="2525">very</TOKEN>
+<TOKEN end_char="2536" id="token-38-13" morph="none" pos="word" start_char="2530">quickly</TOKEN>
+<TOKEN end_char="2537" id="token-38-14" morph="none" pos="punct" start_char="2537">.</TOKEN>
+</SEG>
+<SEG end_char="2693" id="segment-39" start_char="2542">
+<ORIGINAL_TEXT>Vitamin C is a vital part of the immune system, but there is no reason to think IV vitamin C can boost your immune system beyond normal, healthy status.</ORIGINAL_TEXT>
+<TOKEN end_char="2548" id="token-39-0" morph="none" pos="word" start_char="2542">Vitamin</TOKEN>
+<TOKEN end_char="2550" id="token-39-1" morph="none" pos="word" start_char="2550">C</TOKEN>
+<TOKEN end_char="2553" id="token-39-2" morph="none" pos="word" start_char="2552">is</TOKEN>
+<TOKEN end_char="2555" id="token-39-3" morph="none" pos="word" start_char="2555">a</TOKEN>
+<TOKEN end_char="2561" id="token-39-4" morph="none" pos="word" start_char="2557">vital</TOKEN>
+<TOKEN end_char="2566" id="token-39-5" morph="none" pos="word" start_char="2563">part</TOKEN>
+<TOKEN end_char="2569" id="token-39-6" morph="none" pos="word" start_char="2568">of</TOKEN>
+<TOKEN end_char="2573" id="token-39-7" morph="none" pos="word" start_char="2571">the</TOKEN>
+<TOKEN end_char="2580" id="token-39-8" morph="none" pos="word" start_char="2575">immune</TOKEN>
+<TOKEN end_char="2587" id="token-39-9" morph="none" pos="word" start_char="2582">system</TOKEN>
+<TOKEN end_char="2588" id="token-39-10" morph="none" pos="punct" start_char="2588">,</TOKEN>
+<TOKEN end_char="2592" id="token-39-11" morph="none" pos="word" start_char="2590">but</TOKEN>
+<TOKEN end_char="2598" id="token-39-12" morph="none" pos="word" start_char="2594">there</TOKEN>
+<TOKEN end_char="2601" id="token-39-13" morph="none" pos="word" start_char="2600">is</TOKEN>
+<TOKEN end_char="2604" id="token-39-14" morph="none" pos="word" start_char="2603">no</TOKEN>
+<TOKEN end_char="2611" id="token-39-15" morph="none" pos="word" start_char="2606">reason</TOKEN>
+<TOKEN end_char="2614" id="token-39-16" morph="none" pos="word" start_char="2613">to</TOKEN>
+<TOKEN end_char="2620" id="token-39-17" morph="none" pos="word" start_char="2616">think</TOKEN>
+<TOKEN end_char="2623" id="token-39-18" morph="none" pos="word" start_char="2622">IV</TOKEN>
+<TOKEN end_char="2631" id="token-39-19" morph="none" pos="word" start_char="2625">vitamin</TOKEN>
+<TOKEN end_char="2633" id="token-39-20" morph="none" pos="word" start_char="2633">C</TOKEN>
+<TOKEN end_char="2637" id="token-39-21" morph="none" pos="word" start_char="2635">can</TOKEN>
+<TOKEN end_char="2643" id="token-39-22" morph="none" pos="word" start_char="2639">boost</TOKEN>
+<TOKEN end_char="2648" id="token-39-23" morph="none" pos="word" start_char="2645">your</TOKEN>
+<TOKEN end_char="2655" id="token-39-24" morph="none" pos="word" start_char="2650">immune</TOKEN>
+<TOKEN end_char="2662" id="token-39-25" morph="none" pos="word" start_char="2657">system</TOKEN>
+<TOKEN end_char="2669" id="token-39-26" morph="none" pos="word" start_char="2664">beyond</TOKEN>
+<TOKEN end_char="2676" id="token-39-27" morph="none" pos="word" start_char="2671">normal</TOKEN>
+<TOKEN end_char="2677" id="token-39-28" morph="none" pos="punct" start_char="2677">,</TOKEN>
+<TOKEN end_char="2685" id="token-39-29" morph="none" pos="word" start_char="2679">healthy</TOKEN>
+<TOKEN end_char="2692" id="token-39-30" morph="none" pos="word" start_char="2687">status</TOKEN>
+<TOKEN end_char="2693" id="token-39-31" morph="none" pos="punct" start_char="2693">.</TOKEN>
+</SEG>
+<SEG end_char="2773" id="segment-40" start_char="2695">
+<ORIGINAL_TEXT>Daily vitamin C from food or supplements is enough to support healthy immunity.</ORIGINAL_TEXT>
+<TOKEN end_char="2699" id="token-40-0" morph="none" pos="word" start_char="2695">Daily</TOKEN>
+<TOKEN end_char="2707" id="token-40-1" morph="none" pos="word" start_char="2701">vitamin</TOKEN>
+<TOKEN end_char="2709" id="token-40-2" morph="none" pos="word" start_char="2709">C</TOKEN>
+<TOKEN end_char="2714" id="token-40-3" morph="none" pos="word" start_char="2711">from</TOKEN>
+<TOKEN end_char="2719" id="token-40-4" morph="none" pos="word" start_char="2716">food</TOKEN>
+<TOKEN end_char="2722" id="token-40-5" morph="none" pos="word" start_char="2721">or</TOKEN>
+<TOKEN end_char="2734" id="token-40-6" morph="none" pos="word" start_char="2724">supplements</TOKEN>
+<TOKEN end_char="2737" id="token-40-7" morph="none" pos="word" start_char="2736">is</TOKEN>
+<TOKEN end_char="2744" id="token-40-8" morph="none" pos="word" start_char="2739">enough</TOKEN>
+<TOKEN end_char="2747" id="token-40-9" morph="none" pos="word" start_char="2746">to</TOKEN>
+<TOKEN end_char="2755" id="token-40-10" morph="none" pos="word" start_char="2749">support</TOKEN>
+<TOKEN end_char="2763" id="token-40-11" morph="none" pos="word" start_char="2757">healthy</TOKEN>
+<TOKEN end_char="2772" id="token-40-12" morph="none" pos="word" start_char="2765">immunity</TOKEN>
+<TOKEN end_char="2773" id="token-40-13" morph="none" pos="punct" start_char="2773">.</TOKEN>
+</SEG>
+<SEG end_char="2796" id="segment-41" start_char="2776">
+<ORIGINAL_TEXT>Is IV vitamin C safe?</ORIGINAL_TEXT>
+<TOKEN end_char="2777" id="token-41-0" morph="none" pos="word" start_char="2776">Is</TOKEN>
+<TOKEN end_char="2780" id="token-41-1" morph="none" pos="word" start_char="2779">IV</TOKEN>
+<TOKEN end_char="2788" id="token-41-2" morph="none" pos="word" start_char="2782">vitamin</TOKEN>
+<TOKEN end_char="2790" id="token-41-3" morph="none" pos="word" start_char="2790">C</TOKEN>
+<TOKEN end_char="2795" id="token-41-4" morph="none" pos="word" start_char="2792">safe</TOKEN>
+<TOKEN end_char="2796" id="token-41-5" morph="none" pos="punct" start_char="2796">?</TOKEN>
+<TRANSLATED_TEXT>Is vitamin C IV safe?</TRANSLATED_TEXT><DETECTED_LANGUAGE>it</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2874" id="segment-42" start_char="2799">
+<ORIGINAL_TEXT>IV infusions always require proper administration by a medical professional.</ORIGINAL_TEXT>
+<TOKEN end_char="2800" id="token-42-0" morph="none" pos="word" start_char="2799">IV</TOKEN>
+<TOKEN end_char="2810" id="token-42-1" morph="none" pos="word" start_char="2802">infusions</TOKEN>
+<TOKEN end_char="2817" id="token-42-2" morph="none" pos="word" start_char="2812">always</TOKEN>
+<TOKEN end_char="2825" id="token-42-3" morph="none" pos="word" start_char="2819">require</TOKEN>
+<TOKEN end_char="2832" id="token-42-4" morph="none" pos="word" start_char="2827">proper</TOKEN>
+<TOKEN end_char="2847" id="token-42-5" morph="none" pos="word" start_char="2834">administration</TOKEN>
+<TOKEN end_char="2850" id="token-42-6" morph="none" pos="word" start_char="2849">by</TOKEN>
+<TOKEN end_char="2852" id="token-42-7" morph="none" pos="word" start_char="2852">a</TOKEN>
+<TOKEN end_char="2860" id="token-42-8" morph="none" pos="word" start_char="2854">medical</TOKEN>
+<TOKEN end_char="2873" id="token-42-9" morph="none" pos="word" start_char="2862">professional</TOKEN>
+<TOKEN end_char="2874" id="token-42-10" morph="none" pos="punct" start_char="2874">.</TOKEN>
+</SEG>
+<SEG end_char="2937" id="segment-43" start_char="2876">
+<ORIGINAL_TEXT>Patients need to be screened to make sure it is safe for them.</ORIGINAL_TEXT>
+<TOKEN end_char="2883" id="token-43-0" morph="none" pos="word" start_char="2876">Patients</TOKEN>
+<TOKEN end_char="2888" id="token-43-1" morph="none" pos="word" start_char="2885">need</TOKEN>
+<TOKEN end_char="2891" id="token-43-2" morph="none" pos="word" start_char="2890">to</TOKEN>
+<TOKEN end_char="2894" id="token-43-3" morph="none" pos="word" start_char="2893">be</TOKEN>
+<TOKEN end_char="2903" id="token-43-4" morph="none" pos="word" start_char="2896">screened</TOKEN>
+<TOKEN end_char="2906" id="token-43-5" morph="none" pos="word" start_char="2905">to</TOKEN>
+<TOKEN end_char="2911" id="token-43-6" morph="none" pos="word" start_char="2908">make</TOKEN>
+<TOKEN end_char="2916" id="token-43-7" morph="none" pos="word" start_char="2913">sure</TOKEN>
+<TOKEN end_char="2919" id="token-43-8" morph="none" pos="word" start_char="2918">it</TOKEN>
+<TOKEN end_char="2922" id="token-43-9" morph="none" pos="word" start_char="2921">is</TOKEN>
+<TOKEN end_char="2927" id="token-43-10" morph="none" pos="word" start_char="2924">safe</TOKEN>
+<TOKEN end_char="2931" id="token-43-11" morph="none" pos="word" start_char="2929">for</TOKEN>
+<TOKEN end_char="2936" id="token-43-12" morph="none" pos="word" start_char="2933">them</TOKEN>
+<TOKEN end_char="2937" id="token-43-13" morph="none" pos="punct" start_char="2937">.</TOKEN>
+</SEG>
+<SEG end_char="3003" id="segment-44" start_char="2939">
+<ORIGINAL_TEXT>Some conditions might prevent a person from getting IV vitamin C.</ORIGINAL_TEXT>
+<TOKEN end_char="2942" id="token-44-0" morph="none" pos="word" start_char="2939">Some</TOKEN>
+<TOKEN end_char="2953" id="token-44-1" morph="none" pos="word" start_char="2944">conditions</TOKEN>
+<TOKEN end_char="2959" id="token-44-2" morph="none" pos="word" start_char="2955">might</TOKEN>
+<TOKEN end_char="2967" id="token-44-3" morph="none" pos="word" start_char="2961">prevent</TOKEN>
+<TOKEN end_char="2969" id="token-44-4" morph="none" pos="word" start_char="2969">a</TOKEN>
+<TOKEN end_char="2976" id="token-44-5" morph="none" pos="word" start_char="2971">person</TOKEN>
+<TOKEN end_char="2981" id="token-44-6" morph="none" pos="word" start_char="2978">from</TOKEN>
+<TOKEN end_char="2989" id="token-44-7" morph="none" pos="word" start_char="2983">getting</TOKEN>
+<TOKEN end_char="2992" id="token-44-8" morph="none" pos="word" start_char="2991">IV</TOKEN>
+<TOKEN end_char="3000" id="token-44-9" morph="none" pos="word" start_char="2994">vitamin</TOKEN>
+<TOKEN end_char="3002" id="token-44-10" morph="none" pos="word" start_char="3002">C</TOKEN>
+<TOKEN end_char="3003" id="token-44-11" morph="none" pos="punct" start_char="3003">.</TOKEN>
+</SEG>
+<SEG end_char="3115" id="segment-45" start_char="3006">
+<ORIGINAL_TEXT>From research on vitamin C and cancer, we know that IV vitamin C is safe when medical guidelines are followed.</ORIGINAL_TEXT>
+<TOKEN end_char="3009" id="token-45-0" morph="none" pos="word" start_char="3006">From</TOKEN>
+<TOKEN end_char="3018" id="token-45-1" morph="none" pos="word" start_char="3011">research</TOKEN>
+<TOKEN end_char="3021" id="token-45-2" morph="none" pos="word" start_char="3020">on</TOKEN>
+<TOKEN end_char="3029" id="token-45-3" morph="none" pos="word" start_char="3023">vitamin</TOKEN>
+<TOKEN end_char="3031" id="token-45-4" morph="none" pos="word" start_char="3031">C</TOKEN>
+<TOKEN end_char="3035" id="token-45-5" morph="none" pos="word" start_char="3033">and</TOKEN>
+<TOKEN end_char="3042" id="token-45-6" morph="none" pos="word" start_char="3037">cancer</TOKEN>
+<TOKEN end_char="3043" id="token-45-7" morph="none" pos="punct" start_char="3043">,</TOKEN>
+<TOKEN end_char="3046" id="token-45-8" morph="none" pos="word" start_char="3045">we</TOKEN>
+<TOKEN end_char="3051" id="token-45-9" morph="none" pos="word" start_char="3048">know</TOKEN>
+<TOKEN end_char="3056" id="token-45-10" morph="none" pos="word" start_char="3053">that</TOKEN>
+<TOKEN end_char="3059" id="token-45-11" morph="none" pos="word" start_char="3058">IV</TOKEN>
+<TOKEN end_char="3067" id="token-45-12" morph="none" pos="word" start_char="3061">vitamin</TOKEN>
+<TOKEN end_char="3069" id="token-45-13" morph="none" pos="word" start_char="3069">C</TOKEN>
+<TOKEN end_char="3072" id="token-45-14" morph="none" pos="word" start_char="3071">is</TOKEN>
+<TOKEN end_char="3077" id="token-45-15" morph="none" pos="word" start_char="3074">safe</TOKEN>
+<TOKEN end_char="3082" id="token-45-16" morph="none" pos="word" start_char="3079">when</TOKEN>
+<TOKEN end_char="3090" id="token-45-17" morph="none" pos="word" start_char="3084">medical</TOKEN>
+<TOKEN end_char="3101" id="token-45-18" morph="none" pos="word" start_char="3092">guidelines</TOKEN>
+<TOKEN end_char="3105" id="token-45-19" morph="none" pos="word" start_char="3103">are</TOKEN>
+<TOKEN end_char="3114" id="token-45-20" morph="none" pos="word" start_char="3107">followed</TOKEN>
+<TOKEN end_char="3115" id="token-45-21" morph="none" pos="punct" start_char="3115">.</TOKEN>
+</SEG>
+<SEG end_char="3128" id="segment-46" start_char="3118">
+<ORIGINAL_TEXT>Conclusions</ORIGINAL_TEXT>
+<TOKEN end_char="3128" id="token-46-0" morph="none" pos="word" start_char="3118">Conclusions</TOKEN>
+</SEG>
+<SEG end_char="3255" id="segment-47" start_char="3131">
+<ORIGINAL_TEXT>Although doctors are using IV vitamin C, there is no published scientific evidence about the use of IV vitamin C in COVID-19.</ORIGINAL_TEXT>
+<TOKEN end_char="3138" id="token-47-0" morph="none" pos="word" start_char="3131">Although</TOKEN>
+<TOKEN end_char="3146" id="token-47-1" morph="none" pos="word" start_char="3140">doctors</TOKEN>
+<TOKEN end_char="3150" id="token-47-2" morph="none" pos="word" start_char="3148">are</TOKEN>
+<TOKEN end_char="3156" id="token-47-3" morph="none" pos="word" start_char="3152">using</TOKEN>
+<TOKEN end_char="3159" id="token-47-4" morph="none" pos="word" start_char="3158">IV</TOKEN>
+<TOKEN end_char="3167" id="token-47-5" morph="none" pos="word" start_char="3161">vitamin</TOKEN>
+<TOKEN end_char="3169" id="token-47-6" morph="none" pos="word" start_char="3169">C</TOKEN>
+<TOKEN end_char="3170" id="token-47-7" morph="none" pos="punct" start_char="3170">,</TOKEN>
+<TOKEN end_char="3176" id="token-47-8" morph="none" pos="word" start_char="3172">there</TOKEN>
+<TOKEN end_char="3179" id="token-47-9" morph="none" pos="word" start_char="3178">is</TOKEN>
+<TOKEN end_char="3182" id="token-47-10" morph="none" pos="word" start_char="3181">no</TOKEN>
+<TOKEN end_char="3192" id="token-47-11" morph="none" pos="word" start_char="3184">published</TOKEN>
+<TOKEN end_char="3203" id="token-47-12" morph="none" pos="word" start_char="3194">scientific</TOKEN>
+<TOKEN end_char="3212" id="token-47-13" morph="none" pos="word" start_char="3205">evidence</TOKEN>
+<TOKEN end_char="3218" id="token-47-14" morph="none" pos="word" start_char="3214">about</TOKEN>
+<TOKEN end_char="3222" id="token-47-15" morph="none" pos="word" start_char="3220">the</TOKEN>
+<TOKEN end_char="3226" id="token-47-16" morph="none" pos="word" start_char="3224">use</TOKEN>
+<TOKEN end_char="3229" id="token-47-17" morph="none" pos="word" start_char="3228">of</TOKEN>
+<TOKEN end_char="3232" id="token-47-18" morph="none" pos="word" start_char="3231">IV</TOKEN>
+<TOKEN end_char="3240" id="token-47-19" morph="none" pos="word" start_char="3234">vitamin</TOKEN>
+<TOKEN end_char="3242" id="token-47-20" morph="none" pos="word" start_char="3242">C</TOKEN>
+<TOKEN end_char="3245" id="token-47-21" morph="none" pos="word" start_char="3244">in</TOKEN>
+<TOKEN end_char="3254" id="token-47-22" morph="none" pos="unknown" start_char="3247">COVID-19</TOKEN>
+<TOKEN end_char="3255" id="token-47-23" morph="none" pos="punct" start_char="3255">.</TOKEN>
+</SEG>
+<SEG end_char="3310" id="segment-48" start_char="3257">
+<ORIGINAL_TEXT>Therefore, we cannot fully evaluate its effectiveness.</ORIGINAL_TEXT>
+<TOKEN end_char="3265" id="token-48-0" morph="none" pos="word" start_char="3257">Therefore</TOKEN>
+<TOKEN end_char="3266" id="token-48-1" morph="none" pos="punct" start_char="3266">,</TOKEN>
+<TOKEN end_char="3269" id="token-48-2" morph="none" pos="word" start_char="3268">we</TOKEN>
+<TOKEN end_char="3276" id="token-48-3" morph="none" pos="word" start_char="3271">cannot</TOKEN>
+<TOKEN end_char="3282" id="token-48-4" morph="none" pos="word" start_char="3278">fully</TOKEN>
+<TOKEN end_char="3291" id="token-48-5" morph="none" pos="word" start_char="3284">evaluate</TOKEN>
+<TOKEN end_char="3295" id="token-48-6" morph="none" pos="word" start_char="3293">its</TOKEN>
+<TOKEN end_char="3309" id="token-48-7" morph="none" pos="word" start_char="3297">effectiveness</TOKEN>
+<TOKEN end_char="3310" id="token-48-8" morph="none" pos="punct" start_char="3310">.</TOKEN>
+</SEG>
+<SEG end_char="3374" id="segment-49" start_char="3314">
+<ORIGINAL_TEXT>IV vitamin C is not the same as taking vitamin C supplements.</ORIGINAL_TEXT>
+<TOKEN end_char="3315" id="token-49-0" morph="none" pos="word" start_char="3314">IV</TOKEN>
+<TOKEN end_char="3323" id="token-49-1" morph="none" pos="word" start_char="3317">vitamin</TOKEN>
+<TOKEN end_char="3325" id="token-49-2" morph="none" pos="word" start_char="3325">C</TOKEN>
+<TOKEN end_char="3328" id="token-49-3" morph="none" pos="word" start_char="3327">is</TOKEN>
+<TOKEN end_char="3332" id="token-49-4" morph="none" pos="word" start_char="3330">not</TOKEN>
+<TOKEN end_char="3336" id="token-49-5" morph="none" pos="word" start_char="3334">the</TOKEN>
+<TOKEN end_char="3341" id="token-49-6" morph="none" pos="word" start_char="3338">same</TOKEN>
+<TOKEN end_char="3344" id="token-49-7" morph="none" pos="word" start_char="3343">as</TOKEN>
+<TOKEN end_char="3351" id="token-49-8" morph="none" pos="word" start_char="3346">taking</TOKEN>
+<TOKEN end_char="3359" id="token-49-9" morph="none" pos="word" start_char="3353">vitamin</TOKEN>
+<TOKEN end_char="3361" id="token-49-10" morph="none" pos="word" start_char="3361">C</TOKEN>
+<TOKEN end_char="3373" id="token-49-11" morph="none" pos="word" start_char="3363">supplements</TOKEN>
+<TOKEN end_char="3374" id="token-49-12" morph="none" pos="punct" start_char="3374">.</TOKEN>
+</SEG>
+<SEG end_char="3489" id="segment-50" start_char="3376">
+<ORIGINAL_TEXT>Vitamin C supplements may help the immune system, but vitamin C blood levels that are far lower than IV vitamin C.</ORIGINAL_TEXT>
+<TOKEN end_char="3382" id="token-50-0" morph="none" pos="word" start_char="3376">Vitamin</TOKEN>
+<TOKEN end_char="3384" id="token-50-1" morph="none" pos="word" start_char="3384">C</TOKEN>
+<TOKEN end_char="3396" id="token-50-2" morph="none" pos="word" start_char="3386">supplements</TOKEN>
+<TOKEN end_char="3400" id="token-50-3" morph="none" pos="word" start_char="3398">may</TOKEN>
+<TOKEN end_char="3405" id="token-50-4" morph="none" pos="word" start_char="3402">help</TOKEN>
+<TOKEN end_char="3409" id="token-50-5" morph="none" pos="word" start_char="3407">the</TOKEN>
+<TOKEN end_char="3416" id="token-50-6" morph="none" pos="word" start_char="3411">immune</TOKEN>
+<TOKEN end_char="3423" id="token-50-7" morph="none" pos="word" start_char="3418">system</TOKEN>
+<TOKEN end_char="3424" id="token-50-8" morph="none" pos="punct" start_char="3424">,</TOKEN>
+<TOKEN end_char="3428" id="token-50-9" morph="none" pos="word" start_char="3426">but</TOKEN>
+<TOKEN end_char="3436" id="token-50-10" morph="none" pos="word" start_char="3430">vitamin</TOKEN>
+<TOKEN end_char="3438" id="token-50-11" morph="none" pos="word" start_char="3438">C</TOKEN>
+<TOKEN end_char="3444" id="token-50-12" morph="none" pos="word" start_char="3440">blood</TOKEN>
+<TOKEN end_char="3451" id="token-50-13" morph="none" pos="word" start_char="3446">levels</TOKEN>
+<TOKEN end_char="3456" id="token-50-14" morph="none" pos="word" start_char="3453">that</TOKEN>
+<TOKEN end_char="3460" id="token-50-15" morph="none" pos="word" start_char="3458">are</TOKEN>
+<TOKEN end_char="3464" id="token-50-16" morph="none" pos="word" start_char="3462">far</TOKEN>
+<TOKEN end_char="3470" id="token-50-17" morph="none" pos="word" start_char="3466">lower</TOKEN>
+<TOKEN end_char="3475" id="token-50-18" morph="none" pos="word" start_char="3472">than</TOKEN>
+<TOKEN end_char="3478" id="token-50-19" morph="none" pos="word" start_char="3477">IV</TOKEN>
+<TOKEN end_char="3486" id="token-50-20" morph="none" pos="word" start_char="3480">vitamin</TOKEN>
+<TOKEN end_char="3488" id="token-50-21" morph="none" pos="word" start_char="3488">C</TOKEN>
+<TOKEN end_char="3489" id="token-50-22" morph="none" pos="punct" start_char="3489">.</TOKEN>
+</SEG>
+<SEG end_char="3631" id="segment-51" start_char="3493">
+<ORIGINAL_TEXT>The National Cancer Institute provides more information about IV vitamin C that may be helpful if you want to know more about this therapy.</ORIGINAL_TEXT>
+<TOKEN end_char="3495" id="token-51-0" morph="none" pos="word" start_char="3493">The</TOKEN>
+<TOKEN end_char="3504" id="token-51-1" morph="none" pos="word" start_char="3497">National</TOKEN>
+<TOKEN end_char="3511" id="token-51-2" morph="none" pos="word" start_char="3506">Cancer</TOKEN>
+<TOKEN end_char="3521" id="token-51-3" morph="none" pos="word" start_char="3513">Institute</TOKEN>
+<TOKEN end_char="3530" id="token-51-4" morph="none" pos="word" start_char="3523">provides</TOKEN>
+<TOKEN end_char="3535" id="token-51-5" morph="none" pos="word" start_char="3532">more</TOKEN>
+<TOKEN end_char="3547" id="token-51-6" morph="none" pos="word" start_char="3537">information</TOKEN>
+<TOKEN end_char="3553" id="token-51-7" morph="none" pos="word" start_char="3549">about</TOKEN>
+<TOKEN end_char="3556" id="token-51-8" morph="none" pos="word" start_char="3555">IV</TOKEN>
+<TOKEN end_char="3564" id="token-51-9" morph="none" pos="word" start_char="3558">vitamin</TOKEN>
+<TOKEN end_char="3566" id="token-51-10" morph="none" pos="word" start_char="3566">C</TOKEN>
+<TOKEN end_char="3571" id="token-51-11" morph="none" pos="word" start_char="3568">that</TOKEN>
+<TOKEN end_char="3575" id="token-51-12" morph="none" pos="word" start_char="3573">may</TOKEN>
+<TOKEN end_char="3578" id="token-51-13" morph="none" pos="word" start_char="3577">be</TOKEN>
+<TOKEN end_char="3586" id="token-51-14" morph="none" pos="word" start_char="3580">helpful</TOKEN>
+<TOKEN end_char="3589" id="token-51-15" morph="none" pos="word" start_char="3588">if</TOKEN>
+<TOKEN end_char="3593" id="token-51-16" morph="none" pos="word" start_char="3591">you</TOKEN>
+<TOKEN end_char="3598" id="token-51-17" morph="none" pos="word" start_char="3595">want</TOKEN>
+<TOKEN end_char="3601" id="token-51-18" morph="none" pos="word" start_char="3600">to</TOKEN>
+<TOKEN end_char="3606" id="token-51-19" morph="none" pos="word" start_char="3603">know</TOKEN>
+<TOKEN end_char="3611" id="token-51-20" morph="none" pos="word" start_char="3608">more</TOKEN>
+<TOKEN end_char="3617" id="token-51-21" morph="none" pos="word" start_char="3613">about</TOKEN>
+<TOKEN end_char="3622" id="token-51-22" morph="none" pos="word" start_char="3619">this</TOKEN>
+<TOKEN end_char="3630" id="token-51-23" morph="none" pos="word" start_char="3624">therapy</TOKEN>
+<TOKEN end_char="3631" id="token-51-24" morph="none" pos="punct" start_char="3631">.</TOKEN>
+</SEG>
+<SEG end_char="3734" id="segment-52" start_char="3635">
+<ORIGINAL_TEXT>For more information about vitamin C in the immune system, see the Micronutrient Information Center.</ORIGINAL_TEXT>
+<TOKEN end_char="3637" id="token-52-0" morph="none" pos="word" start_char="3635">For</TOKEN>
+<TOKEN end_char="3642" id="token-52-1" morph="none" pos="word" start_char="3639">more</TOKEN>
+<TOKEN end_char="3654" id="token-52-2" morph="none" pos="word" start_char="3644">information</TOKEN>
+<TOKEN end_char="3660" id="token-52-3" morph="none" pos="word" start_char="3656">about</TOKEN>
+<TOKEN end_char="3668" id="token-52-4" morph="none" pos="word" start_char="3662">vitamin</TOKEN>
+<TOKEN end_char="3670" id="token-52-5" morph="none" pos="word" start_char="3670">C</TOKEN>
+<TOKEN end_char="3673" id="token-52-6" morph="none" pos="word" start_char="3672">in</TOKEN>
+<TOKEN end_char="3677" id="token-52-7" morph="none" pos="word" start_char="3675">the</TOKEN>
+<TOKEN end_char="3684" id="token-52-8" morph="none" pos="word" start_char="3679">immune</TOKEN>
+<TOKEN end_char="3691" id="token-52-9" morph="none" pos="word" start_char="3686">system</TOKEN>
+<TOKEN end_char="3692" id="token-52-10" morph="none" pos="punct" start_char="3692">,</TOKEN>
+<TOKEN end_char="3696" id="token-52-11" morph="none" pos="word" start_char="3694">see</TOKEN>
+<TOKEN end_char="3700" id="token-52-12" morph="none" pos="word" start_char="3698">the</TOKEN>
+<TOKEN end_char="3714" id="token-52-13" morph="none" pos="word" start_char="3702">Micronutrient</TOKEN>
+<TOKEN end_char="3726" id="token-52-14" morph="none" pos="word" start_char="3716">Information</TOKEN>
+<TOKEN end_char="3733" id="token-52-15" morph="none" pos="word" start_char="3728">Center</TOKEN>
+<TOKEN end_char="3734" id="token-52-16" morph="none" pos="punct" start_char="3734">.</TOKEN>
+</SEG>
+<SEG end_char="3884" id="segment-53" start_char="3739">
+<ORIGINAL_TEXT>Authors: Alexander Michels, PhD; Victoria Drake, PhD; Sandra Uesugi, RN, BSN, MS, all from the Linus Pauling Institute at Oregon State University.</ORIGINAL_TEXT>
+<TOKEN end_char="3745" id="token-53-0" morph="none" pos="word" start_char="3739">Authors</TOKEN>
+<TOKEN end_char="3746" id="token-53-1" morph="none" pos="punct" start_char="3746">:</TOKEN>
+<TOKEN end_char="3756" id="token-53-2" morph="none" pos="word" start_char="3748">Alexander</TOKEN>
+<TOKEN end_char="3764" id="token-53-3" morph="none" pos="word" start_char="3758">Michels</TOKEN>
+<TOKEN end_char="3765" id="token-53-4" morph="none" pos="punct" start_char="3765">,</TOKEN>
+<TOKEN end_char="3769" id="token-53-5" morph="none" pos="word" start_char="3767">PhD</TOKEN>
+<TOKEN end_char="3770" id="token-53-6" morph="none" pos="punct" start_char="3770">;</TOKEN>
+<TOKEN end_char="3779" id="token-53-7" morph="none" pos="word" start_char="3772">Victoria</TOKEN>
+<TOKEN end_char="3785" id="token-53-8" morph="none" pos="word" start_char="3781">Drake</TOKEN>
+<TOKEN end_char="3786" id="token-53-9" morph="none" pos="punct" start_char="3786">,</TOKEN>
+<TOKEN end_char="3790" id="token-53-10" morph="none" pos="word" start_char="3788">PhD</TOKEN>
+<TOKEN end_char="3791" id="token-53-11" morph="none" pos="punct" start_char="3791">;</TOKEN>
+<TOKEN end_char="3798" id="token-53-12" morph="none" pos="word" start_char="3793">Sandra</TOKEN>
+<TOKEN end_char="3805" id="token-53-13" morph="none" pos="word" start_char="3800">Uesugi</TOKEN>
+<TOKEN end_char="3806" id="token-53-14" morph="none" pos="punct" start_char="3806">,</TOKEN>
+<TOKEN end_char="3809" id="token-53-15" morph="none" pos="word" start_char="3808">RN</TOKEN>
+<TOKEN end_char="3810" id="token-53-16" morph="none" pos="punct" start_char="3810">,</TOKEN>
+<TOKEN end_char="3814" id="token-53-17" morph="none" pos="word" start_char="3812">BSN</TOKEN>
+<TOKEN end_char="3815" id="token-53-18" morph="none" pos="punct" start_char="3815">,</TOKEN>
+<TOKEN end_char="3818" id="token-53-19" morph="none" pos="word" start_char="3817">MS</TOKEN>
+<TOKEN end_char="3819" id="token-53-20" morph="none" pos="punct" start_char="3819">,</TOKEN>
+<TOKEN end_char="3823" id="token-53-21" morph="none" pos="word" start_char="3821">all</TOKEN>
+<TOKEN end_char="3828" id="token-53-22" morph="none" pos="word" start_char="3825">from</TOKEN>
+<TOKEN end_char="3832" id="token-53-23" morph="none" pos="word" start_char="3830">the</TOKEN>
+<TOKEN end_char="3838" id="token-53-24" morph="none" pos="word" start_char="3834">Linus</TOKEN>
+<TOKEN end_char="3846" id="token-53-25" morph="none" pos="word" start_char="3840">Pauling</TOKEN>
+<TOKEN end_char="3856" id="token-53-26" morph="none" pos="word" start_char="3848">Institute</TOKEN>
+<TOKEN end_char="3859" id="token-53-27" morph="none" pos="word" start_char="3858">at</TOKEN>
+<TOKEN end_char="3866" id="token-53-28" morph="none" pos="word" start_char="3861">Oregon</TOKEN>
+<TOKEN end_char="3872" id="token-53-29" morph="none" pos="word" start_char="3868">State</TOKEN>
+<TOKEN end_char="3883" id="token-53-30" morph="none" pos="word" start_char="3874">University</TOKEN>
+<TOKEN end_char="3884" id="token-53-31" morph="none" pos="punct" start_char="3884">.</TOKEN>
+</SEG>
+<SEG end_char="3910" id="segment-54" start_char="3886">
+<ORIGINAL_TEXT>Contact information here.</ORIGINAL_TEXT>
+<TOKEN end_char="3892" id="token-54-0" morph="none" pos="word" start_char="3886">Contact</TOKEN>
+<TOKEN end_char="3904" id="token-54-1" morph="none" pos="word" start_char="3894">information</TOKEN>
+<TOKEN end_char="3909" id="token-54-2" morph="none" pos="word" start_char="3906">here</TOKEN>
+<TOKEN end_char="3910" id="token-54-3" morph="none" pos="punct" start_char="3910">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

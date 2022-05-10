@@ -1,0 +1,498 @@
+<LCTL_TEXT lang="spa">
+<DOC grammar="none" id="L0C049DQN" lang="spa" raw_text_char_length="2653" raw_text_md5="004b84ab5c7e33681884e6c0227237e2" tokenization="tokenization_parameters.v5.0">
+<TEXT>
+<SEG end_char="33" id="segment-0" start_char="1">
+<ORIGINAL_TEXT>Поможет ли чеснок от коронавируса</ORIGINAL_TEXT>
+<TOKEN end_char="7" id="token-0-0" morph="none" pos="word" start_char="1">Поможет</TOKEN>
+<TOKEN end_char="10" id="token-0-1" morph="none" pos="word" start_char="9">ли</TOKEN>
+<TOKEN end_char="17" id="token-0-2" morph="none" pos="word" start_char="12">чеснок</TOKEN>
+<TOKEN end_char="20" id="token-0-3" morph="none" pos="word" start_char="19">от</TOKEN>
+<TOKEN end_char="33" id="token-0-4" morph="none" pos="word" start_char="22">коронавируса</TOKEN>
+<TRANSLATED_TEXT>Will garlic from the coronavirus help?</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="78" id="segment-1" start_char="37">
+<ORIGINAL_TEXT>Продовольственный рынок в Белграде, Сербия</ORIGINAL_TEXT>
+<TOKEN end_char="53" id="token-1-0" morph="none" pos="word" start_char="37">Продовольственный</TOKEN>
+<TOKEN end_char="59" id="token-1-1" morph="none" pos="word" start_char="55">рынок</TOKEN>
+<TOKEN end_char="61" id="token-1-2" morph="none" pos="word" start_char="61">в</TOKEN>
+<TOKEN end_char="70" id="token-1-3" morph="none" pos="word" start_char="63">Белграде</TOKEN>
+<TOKEN end_char="71" id="token-1-4" morph="none" pos="punct" start_char="71">,</TOKEN>
+<TOKEN end_char="78" id="token-1-5" morph="none" pos="word" start_char="73">Сербия</TOKEN>
+<TRANSLATED_TEXT>Food market in Belgrade, Serbia</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="110" id="segment-2" start_char="82">
+<ORIGINAL_TEXT>МОСКВА, 20 мар — РИА Новости.</ORIGINAL_TEXT>
+<TOKEN end_char="87" id="token-2-0" morph="none" pos="word" start_char="82">МОСКВА</TOKEN>
+<TOKEN end_char="88" id="token-2-1" morph="none" pos="punct" start_char="88">,</TOKEN>
+<TOKEN end_char="91" id="token-2-2" morph="none" pos="word" start_char="90">20</TOKEN>
+<TOKEN end_char="95" id="token-2-3" morph="none" pos="word" start_char="93">мар</TOKEN>
+<TOKEN end_char="97" id="token-2-4" morph="none" pos="punct" start_char="97">—</TOKEN>
+<TOKEN end_char="101" id="token-2-5" morph="none" pos="word" start_char="99">РИА</TOKEN>
+<TOKEN end_char="109" id="token-2-6" morph="none" pos="word" start_char="103">Новости</TOKEN>
+<TOKEN end_char="110" id="token-2-7" morph="none" pos="punct" start_char="110">.</TOKEN>
+<TRANSLATED_TEXT>Moscow, 20 Mar - RIA News.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="238" id="segment-3" start_char="112">
+<ORIGINAL_TEXT>"Чудодейственные" народные средства против коронавируса, рецепты которых распространяют в соцсетях, — миф, утверждают эксперты.</ORIGINAL_TEXT>
+<TOKEN end_char="112" id="token-3-0" morph="none" pos="punct" start_char="112">"</TOKEN>
+<TOKEN end_char="127" id="token-3-1" morph="none" pos="word" start_char="113">Чудодейственные</TOKEN>
+<TOKEN end_char="128" id="token-3-2" morph="none" pos="punct" start_char="128">"</TOKEN>
+<TOKEN end_char="137" id="token-3-3" morph="none" pos="word" start_char="130">народные</TOKEN>
+<TOKEN end_char="146" id="token-3-4" morph="none" pos="word" start_char="139">средства</TOKEN>
+<TOKEN end_char="153" id="token-3-5" morph="none" pos="word" start_char="148">против</TOKEN>
+<TOKEN end_char="166" id="token-3-6" morph="none" pos="word" start_char="155">коронавируса</TOKEN>
+<TOKEN end_char="167" id="token-3-7" morph="none" pos="punct" start_char="167">,</TOKEN>
+<TOKEN end_char="175" id="token-3-8" morph="none" pos="word" start_char="169">рецепты</TOKEN>
+<TOKEN end_char="183" id="token-3-9" morph="none" pos="word" start_char="177">которых</TOKEN>
+<TOKEN end_char="198" id="token-3-10" morph="none" pos="word" start_char="185">распространяют</TOKEN>
+<TOKEN end_char="200" id="token-3-11" morph="none" pos="word" start_char="200">в</TOKEN>
+<TOKEN end_char="209" id="token-3-12" morph="none" pos="word" start_char="202">соцсетях</TOKEN>
+<TOKEN end_char="210" id="token-3-13" morph="none" pos="punct" start_char="210">,</TOKEN>
+<TOKEN end_char="212" id="token-3-14" morph="none" pos="punct" start_char="212">—</TOKEN>
+<TOKEN end_char="216" id="token-3-15" morph="none" pos="word" start_char="214">миф</TOKEN>
+<TOKEN end_char="217" id="token-3-16" morph="none" pos="punct" start_char="217">,</TOKEN>
+<TOKEN end_char="228" id="token-3-17" morph="none" pos="word" start_char="219">утверждают</TOKEN>
+<TOKEN end_char="237" id="token-3-18" morph="none" pos="word" start_char="230">эксперты</TOKEN>
+<TOKEN end_char="238" id="token-3-19" morph="none" pos="punct" start_char="238">.</TOKEN>
+<TRANSLATED_TEXT>"Miraculous" folk remedies against coronavirus, whose recipes are disseminated on social media, are a myth, experts claim.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="313" id="segment-4" start_char="240">
+<ORIGINAL_TEXT>РИА Новости выяснило, к чему на самом деле могут привести советы знахарей.</ORIGINAL_TEXT>
+<TOKEN end_char="242" id="token-4-0" morph="none" pos="word" start_char="240">РИА</TOKEN>
+<TOKEN end_char="250" id="token-4-1" morph="none" pos="word" start_char="244">Новости</TOKEN>
+<TOKEN end_char="259" id="token-4-2" morph="none" pos="word" start_char="252">выяснило</TOKEN>
+<TOKEN end_char="260" id="token-4-3" morph="none" pos="punct" start_char="260">,</TOKEN>
+<TOKEN end_char="262" id="token-4-4" morph="none" pos="word" start_char="262">к</TOKEN>
+<TOKEN end_char="267" id="token-4-5" morph="none" pos="word" start_char="264">чему</TOKEN>
+<TOKEN end_char="270" id="token-4-6" morph="none" pos="word" start_char="269">на</TOKEN>
+<TOKEN end_char="276" id="token-4-7" morph="none" pos="word" start_char="272">самом</TOKEN>
+<TOKEN end_char="281" id="token-4-8" morph="none" pos="word" start_char="278">деле</TOKEN>
+<TOKEN end_char="287" id="token-4-9" morph="none" pos="word" start_char="283">могут</TOKEN>
+<TOKEN end_char="296" id="token-4-10" morph="none" pos="word" start_char="289">привести</TOKEN>
+<TOKEN end_char="303" id="token-4-11" morph="none" pos="word" start_char="298">советы</TOKEN>
+<TOKEN end_char="312" id="token-4-12" morph="none" pos="word" start_char="305">знахарей</TOKEN>
+<TOKEN end_char="313" id="token-4-13" morph="none" pos="punct" start_char="313">.</TOKEN>
+<TRANSLATED_TEXT>RIA Novosti found out what the doctors' advice might actually lead to.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="382" id="segment-5" start_char="316">
+<ORIGINAL_TEXT>Особенно популярны в Сети истории об антивирусном действии чеснока.</ORIGINAL_TEXT>
+<TOKEN end_char="323" id="token-5-0" morph="none" pos="word" start_char="316">Особенно</TOKEN>
+<TOKEN end_char="333" id="token-5-1" morph="none" pos="word" start_char="325">популярны</TOKEN>
+<TOKEN end_char="335" id="token-5-2" morph="none" pos="word" start_char="335">в</TOKEN>
+<TOKEN end_char="340" id="token-5-3" morph="none" pos="word" start_char="337">Сети</TOKEN>
+<TOKEN end_char="348" id="token-5-4" morph="none" pos="word" start_char="342">истории</TOKEN>
+<TOKEN end_char="351" id="token-5-5" morph="none" pos="word" start_char="350">об</TOKEN>
+<TOKEN end_char="364" id="token-5-6" morph="none" pos="word" start_char="353">антивирусном</TOKEN>
+<TOKEN end_char="373" id="token-5-7" morph="none" pos="word" start_char="366">действии</TOKEN>
+<TOKEN end_char="381" id="token-5-8" morph="none" pos="word" start_char="375">чеснока</TOKEN>
+<TOKEN end_char="382" id="token-5-9" morph="none" pos="punct" start_char="382">.</TOKEN>
+<TRANSLATED_TEXT>They are particularly popular in the garlic anti-virus history network.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="553" id="segment-6" start_char="384">
+<ORIGINAL_TEXT>Это многолетнее травянистое растение предлагается употреблять сырым и вареным, а также в виде чесночной воды — способ ее приготовления придумал "старый китайский доктор".</ORIGINAL_TEXT>
+<TOKEN end_char="386" id="token-6-0" morph="none" pos="word" start_char="384">Это</TOKEN>
+<TOKEN end_char="398" id="token-6-1" morph="none" pos="word" start_char="388">многолетнее</TOKEN>
+<TOKEN end_char="410" id="token-6-2" morph="none" pos="word" start_char="400">травянистое</TOKEN>
+<TOKEN end_char="419" id="token-6-3" morph="none" pos="word" start_char="412">растение</TOKEN>
+<TOKEN end_char="432" id="token-6-4" morph="none" pos="word" start_char="421">предлагается</TOKEN>
+<TOKEN end_char="444" id="token-6-5" morph="none" pos="word" start_char="434">употреблять</TOKEN>
+<TOKEN end_char="450" id="token-6-6" morph="none" pos="word" start_char="446">сырым</TOKEN>
+<TOKEN end_char="452" id="token-6-7" morph="none" pos="word" start_char="452">и</TOKEN>
+<TOKEN end_char="460" id="token-6-8" morph="none" pos="word" start_char="454">вареным</TOKEN>
+<TOKEN end_char="461" id="token-6-9" morph="none" pos="punct" start_char="461">,</TOKEN>
+<TOKEN end_char="463" id="token-6-10" morph="none" pos="word" start_char="463">а</TOKEN>
+<TOKEN end_char="469" id="token-6-11" morph="none" pos="word" start_char="465">также</TOKEN>
+<TOKEN end_char="471" id="token-6-12" morph="none" pos="word" start_char="471">в</TOKEN>
+<TOKEN end_char="476" id="token-6-13" morph="none" pos="word" start_char="473">виде</TOKEN>
+<TOKEN end_char="486" id="token-6-14" morph="none" pos="word" start_char="478">чесночной</TOKEN>
+<TOKEN end_char="491" id="token-6-15" morph="none" pos="word" start_char="488">воды</TOKEN>
+<TOKEN end_char="493" id="token-6-16" morph="none" pos="punct" start_char="493">—</TOKEN>
+<TOKEN end_char="500" id="token-6-17" morph="none" pos="word" start_char="495">способ</TOKEN>
+<TOKEN end_char="503" id="token-6-18" morph="none" pos="word" start_char="502">ее</TOKEN>
+<TOKEN end_char="517" id="token-6-19" morph="none" pos="word" start_char="505">приготовления</TOKEN>
+<TOKEN end_char="526" id="token-6-20" morph="none" pos="word" start_char="519">придумал</TOKEN>
+<TOKEN end_char="528" id="token-6-21" morph="none" pos="punct" start_char="528">"</TOKEN>
+<TOKEN end_char="534" id="token-6-22" morph="none" pos="word" start_char="529">старый</TOKEN>
+<TOKEN end_char="544" id="token-6-23" morph="none" pos="word" start_char="536">китайский</TOKEN>
+<TOKEN end_char="551" id="token-6-24" morph="none" pos="word" start_char="546">доктор</TOKEN>
+<TOKEN end_char="553" id="token-6-25" morph="none" pos="punct" start_char="552">".</TOKEN>
+<TRANSLATED_TEXT>It is a perennial herb that is offered for use in raw and boiled water, as well as in the form of tap water - a method invented by the "old Chinese doctor."</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="674" id="segment-7" start_char="556">
+<ORIGINAL_TEXT>Всемирная организация здравоохранения (ВОЗ) даже посвятила чесноку особый раздел на своей странице "Развенчание мифов".</ORIGINAL_TEXT>
+<TOKEN end_char="564" id="token-7-0" morph="none" pos="word" start_char="556">Всемирная</TOKEN>
+<TOKEN end_char="576" id="token-7-1" morph="none" pos="word" start_char="566">организация</TOKEN>
+<TOKEN end_char="592" id="token-7-2" morph="none" pos="word" start_char="578">здравоохранения</TOKEN>
+<TOKEN end_char="594" id="token-7-3" morph="none" pos="punct" start_char="594">(</TOKEN>
+<TOKEN end_char="597" id="token-7-4" morph="none" pos="word" start_char="595">ВОЗ</TOKEN>
+<TOKEN end_char="598" id="token-7-5" morph="none" pos="punct" start_char="598">)</TOKEN>
+<TOKEN end_char="603" id="token-7-6" morph="none" pos="word" start_char="600">даже</TOKEN>
+<TOKEN end_char="613" id="token-7-7" morph="none" pos="word" start_char="605">посвятила</TOKEN>
+<TOKEN end_char="621" id="token-7-8" morph="none" pos="word" start_char="615">чесноку</TOKEN>
+<TOKEN end_char="628" id="token-7-9" morph="none" pos="word" start_char="623">особый</TOKEN>
+<TOKEN end_char="635" id="token-7-10" morph="none" pos="word" start_char="630">раздел</TOKEN>
+<TOKEN end_char="638" id="token-7-11" morph="none" pos="word" start_char="637">на</TOKEN>
+<TOKEN end_char="644" id="token-7-12" morph="none" pos="word" start_char="640">своей</TOKEN>
+<TOKEN end_char="653" id="token-7-13" morph="none" pos="word" start_char="646">странице</TOKEN>
+<TOKEN end_char="655" id="token-7-14" morph="none" pos="punct" start_char="655">"</TOKEN>
+<TOKEN end_char="666" id="token-7-15" morph="none" pos="word" start_char="656">Развенчание</TOKEN>
+<TOKEN end_char="672" id="token-7-16" morph="none" pos="word" start_char="668">мифов</TOKEN>
+<TOKEN end_char="674" id="token-7-17" morph="none" pos="punct" start_char="673">".</TOKEN>
+<TRANSLATED_TEXT>The World Health Organization (WHO) has even devoted a special section to garlic on its "Disseminating Myths" page.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="778" id="segment-8" start_char="676">
+<ORIGINAL_TEXT>Там говорится: "Чеснок — здоровая пища, которая может обладать некоторыми противомикробными свойствами.</ORIGINAL_TEXT>
+<TOKEN end_char="678" id="token-8-0" morph="none" pos="word" start_char="676">Там</TOKEN>
+<TOKEN end_char="688" id="token-8-1" morph="none" pos="word" start_char="680">говорится</TOKEN>
+<TOKEN end_char="689" id="token-8-2" morph="none" pos="punct" start_char="689">:</TOKEN>
+<TOKEN end_char="691" id="token-8-3" morph="none" pos="punct" start_char="691">"</TOKEN>
+<TOKEN end_char="697" id="token-8-4" morph="none" pos="word" start_char="692">Чеснок</TOKEN>
+<TOKEN end_char="699" id="token-8-5" morph="none" pos="punct" start_char="699">—</TOKEN>
+<TOKEN end_char="708" id="token-8-6" morph="none" pos="word" start_char="701">здоровая</TOKEN>
+<TOKEN end_char="713" id="token-8-7" morph="none" pos="word" start_char="710">пища</TOKEN>
+<TOKEN end_char="714" id="token-8-8" morph="none" pos="punct" start_char="714">,</TOKEN>
+<TOKEN end_char="722" id="token-8-9" morph="none" pos="word" start_char="716">которая</TOKEN>
+<TOKEN end_char="728" id="token-8-10" morph="none" pos="word" start_char="724">может</TOKEN>
+<TOKEN end_char="737" id="token-8-11" morph="none" pos="word" start_char="730">обладать</TOKEN>
+<TOKEN end_char="748" id="token-8-12" morph="none" pos="word" start_char="739">некоторыми</TOKEN>
+<TOKEN end_char="766" id="token-8-13" morph="none" pos="word" start_char="750">противомикробными</TOKEN>
+<TOKEN end_char="777" id="token-8-14" morph="none" pos="word" start_char="768">свойствами</TOKEN>
+<TOKEN end_char="778" id="token-8-15" morph="none" pos="punct" start_char="778">.</TOKEN>
+<TRANSLATED_TEXT>It states: "Garlic is a healthy food that may have some antimicrobial properties.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="884" id="segment-9" start_char="780">
+<ORIGINAL_TEXT>Тем не менее в настоящее время нет данных о том, что употребление этого продукта защищает от SARS-CoV-2".</ORIGINAL_TEXT>
+<TOKEN end_char="782" id="token-9-0" morph="none" pos="word" start_char="780">Тем</TOKEN>
+<TOKEN end_char="785" id="token-9-1" morph="none" pos="word" start_char="784">не</TOKEN>
+<TOKEN end_char="791" id="token-9-2" morph="none" pos="word" start_char="787">менее</TOKEN>
+<TOKEN end_char="793" id="token-9-3" morph="none" pos="word" start_char="793">в</TOKEN>
+<TOKEN end_char="803" id="token-9-4" morph="none" pos="word" start_char="795">настоящее</TOKEN>
+<TOKEN end_char="809" id="token-9-5" morph="none" pos="word" start_char="805">время</TOKEN>
+<TOKEN end_char="813" id="token-9-6" morph="none" pos="word" start_char="811">нет</TOKEN>
+<TOKEN end_char="820" id="token-9-7" morph="none" pos="word" start_char="815">данных</TOKEN>
+<TOKEN end_char="822" id="token-9-8" morph="none" pos="word" start_char="822">о</TOKEN>
+<TOKEN end_char="826" id="token-9-9" morph="none" pos="word" start_char="824">том</TOKEN>
+<TOKEN end_char="827" id="token-9-10" morph="none" pos="punct" start_char="827">,</TOKEN>
+<TOKEN end_char="831" id="token-9-11" morph="none" pos="word" start_char="829">что</TOKEN>
+<TOKEN end_char="844" id="token-9-12" morph="none" pos="word" start_char="833">употребление</TOKEN>
+<TOKEN end_char="850" id="token-9-13" morph="none" pos="word" start_char="846">этого</TOKEN>
+<TOKEN end_char="859" id="token-9-14" morph="none" pos="word" start_char="852">продукта</TOKEN>
+<TOKEN end_char="868" id="token-9-15" morph="none" pos="word" start_char="861">защищает</TOKEN>
+<TOKEN end_char="871" id="token-9-16" morph="none" pos="word" start_char="870">от</TOKEN>
+<TOKEN end_char="882" id="token-9-17" morph="none" pos="unknown" start_char="873">SARS-CoV-2</TOKEN>
+<TOKEN end_char="884" id="token-9-18" morph="none" pos="punct" start_char="883">".</TOKEN>
+<TRANSLATED_TEXT>However, there is currently no evidence that the use of this product protects against SARS-CoV-2. "</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1210" id="segment-10" start_char="887">
+<ORIGINAL_TEXT>В обзоре альтернативных средств лечения Центра комплементарного и интегрального здоровья Национального института здравоохранения США (NCCIH) упомянута работа, утверждающая, что чеснок способен предотвращать и лечить простуду и насморк, с уточнением: "Клинических данных недостаточно, необходимы дополнительные исследования".</ORIGINAL_TEXT>
+<TOKEN end_char="887" id="token-10-0" morph="none" pos="word" start_char="887">В</TOKEN>
+<TOKEN end_char="894" id="token-10-1" morph="none" pos="word" start_char="889">обзоре</TOKEN>
+<TOKEN end_char="909" id="token-10-2" morph="none" pos="word" start_char="896">альтернативных</TOKEN>
+<TOKEN end_char="917" id="token-10-3" morph="none" pos="word" start_char="911">средств</TOKEN>
+<TOKEN end_char="925" id="token-10-4" morph="none" pos="word" start_char="919">лечения</TOKEN>
+<TOKEN end_char="932" id="token-10-5" morph="none" pos="word" start_char="927">Центра</TOKEN>
+<TOKEN end_char="949" id="token-10-6" morph="none" pos="word" start_char="934">комплементарного</TOKEN>
+<TOKEN end_char="951" id="token-10-7" morph="none" pos="word" start_char="951">и</TOKEN>
+<TOKEN end_char="965" id="token-10-8" morph="none" pos="word" start_char="953">интегрального</TOKEN>
+<TOKEN end_char="974" id="token-10-9" morph="none" pos="word" start_char="967">здоровья</TOKEN>
+<TOKEN end_char="988" id="token-10-10" morph="none" pos="word" start_char="976">Национального</TOKEN>
+<TOKEN end_char="998" id="token-10-11" morph="none" pos="word" start_char="990">института</TOKEN>
+<TOKEN end_char="1014" id="token-10-12" morph="none" pos="word" start_char="1000">здравоохранения</TOKEN>
+<TOKEN end_char="1018" id="token-10-13" morph="none" pos="word" start_char="1016">США</TOKEN>
+<TOKEN end_char="1020" id="token-10-14" morph="none" pos="punct" start_char="1020">(</TOKEN>
+<TOKEN end_char="1025" id="token-10-15" morph="none" pos="word" start_char="1021">NCCIH</TOKEN>
+<TOKEN end_char="1026" id="token-10-16" morph="none" pos="punct" start_char="1026">)</TOKEN>
+<TOKEN end_char="1036" id="token-10-17" morph="none" pos="word" start_char="1028">упомянута</TOKEN>
+<TOKEN end_char="1043" id="token-10-18" morph="none" pos="word" start_char="1038">работа</TOKEN>
+<TOKEN end_char="1044" id="token-10-19" morph="none" pos="punct" start_char="1044">,</TOKEN>
+<TOKEN end_char="1057" id="token-10-20" morph="none" pos="word" start_char="1046">утверждающая</TOKEN>
+<TOKEN end_char="1058" id="token-10-21" morph="none" pos="punct" start_char="1058">,</TOKEN>
+<TOKEN end_char="1062" id="token-10-22" morph="none" pos="word" start_char="1060">что</TOKEN>
+<TOKEN end_char="1069" id="token-10-23" morph="none" pos="word" start_char="1064">чеснок</TOKEN>
+<TOKEN end_char="1078" id="token-10-24" morph="none" pos="word" start_char="1071">способен</TOKEN>
+<TOKEN end_char="1092" id="token-10-25" morph="none" pos="word" start_char="1080">предотвращать</TOKEN>
+<TOKEN end_char="1094" id="token-10-26" morph="none" pos="word" start_char="1094">и</TOKEN>
+<TOKEN end_char="1101" id="token-10-27" morph="none" pos="word" start_char="1096">лечить</TOKEN>
+<TOKEN end_char="1110" id="token-10-28" morph="none" pos="word" start_char="1103">простуду</TOKEN>
+<TOKEN end_char="1112" id="token-10-29" morph="none" pos="word" start_char="1112">и</TOKEN>
+<TOKEN end_char="1120" id="token-10-30" morph="none" pos="word" start_char="1114">насморк</TOKEN>
+<TOKEN end_char="1121" id="token-10-31" morph="none" pos="punct" start_char="1121">,</TOKEN>
+<TOKEN end_char="1123" id="token-10-32" morph="none" pos="word" start_char="1123">с</TOKEN>
+<TOKEN end_char="1134" id="token-10-33" morph="none" pos="word" start_char="1125">уточнением</TOKEN>
+<TOKEN end_char="1135" id="token-10-34" morph="none" pos="punct" start_char="1135">:</TOKEN>
+<TOKEN end_char="1137" id="token-10-35" morph="none" pos="punct" start_char="1137">"</TOKEN>
+<TOKEN end_char="1148" id="token-10-36" morph="none" pos="word" start_char="1138">Клинических</TOKEN>
+<TOKEN end_char="1155" id="token-10-37" morph="none" pos="word" start_char="1150">данных</TOKEN>
+<TOKEN end_char="1168" id="token-10-38" morph="none" pos="word" start_char="1157">недостаточно</TOKEN>
+<TOKEN end_char="1169" id="token-10-39" morph="none" pos="punct" start_char="1169">,</TOKEN>
+<TOKEN end_char="1180" id="token-10-40" morph="none" pos="word" start_char="1171">необходимы</TOKEN>
+<TOKEN end_char="1195" id="token-10-41" morph="none" pos="word" start_char="1182">дополнительные</TOKEN>
+<TOKEN end_char="1208" id="token-10-42" morph="none" pos="word" start_char="1197">исследования</TOKEN>
+<TOKEN end_char="1210" id="token-10-43" morph="none" pos="punct" start_char="1209">".</TOKEN>
+<TRANSLATED_TEXT>A review of alternative treatments by the National Institute of Health (NCCIH) Center for Complementary and Integral Health (NCCIH) cited work claiming garlic can prevent and treat colds and drowsiness, stating: "Clinical data are insufficient, further research is needed."</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1308" id="segment-11" start_char="1214">
+<ORIGINAL_TEXT>"Если средство народное, это совершенно не значит, что оно проверенное и действие его доказано.</ORIGINAL_TEXT>
+<TOKEN end_char="1214" id="token-11-0" morph="none" pos="punct" start_char="1214">"</TOKEN>
+<TOKEN end_char="1218" id="token-11-1" morph="none" pos="word" start_char="1215">Если</TOKEN>
+<TOKEN end_char="1227" id="token-11-2" morph="none" pos="word" start_char="1220">средство</TOKEN>
+<TOKEN end_char="1236" id="token-11-3" morph="none" pos="word" start_char="1229">народное</TOKEN>
+<TOKEN end_char="1237" id="token-11-4" morph="none" pos="punct" start_char="1237">,</TOKEN>
+<TOKEN end_char="1241" id="token-11-5" morph="none" pos="word" start_char="1239">это</TOKEN>
+<TOKEN end_char="1252" id="token-11-6" morph="none" pos="word" start_char="1243">совершенно</TOKEN>
+<TOKEN end_char="1255" id="token-11-7" morph="none" pos="word" start_char="1254">не</TOKEN>
+<TOKEN end_char="1262" id="token-11-8" morph="none" pos="word" start_char="1257">значит</TOKEN>
+<TOKEN end_char="1263" id="token-11-9" morph="none" pos="punct" start_char="1263">,</TOKEN>
+<TOKEN end_char="1267" id="token-11-10" morph="none" pos="word" start_char="1265">что</TOKEN>
+<TOKEN end_char="1271" id="token-11-11" morph="none" pos="word" start_char="1269">оно</TOKEN>
+<TOKEN end_char="1283" id="token-11-12" morph="none" pos="word" start_char="1273">проверенное</TOKEN>
+<TOKEN end_char="1285" id="token-11-13" morph="none" pos="word" start_char="1285">и</TOKEN>
+<TOKEN end_char="1294" id="token-11-14" morph="none" pos="word" start_char="1287">действие</TOKEN>
+<TOKEN end_char="1298" id="token-11-15" morph="none" pos="word" start_char="1296">его</TOKEN>
+<TOKEN end_char="1307" id="token-11-16" morph="none" pos="word" start_char="1300">доказано</TOKEN>
+<TOKEN end_char="1308" id="token-11-17" morph="none" pos="punct" start_char="1308">.</TOKEN>
+<TRANSLATED_TEXT>If the means is popular, it does not mean at all that it is verified and its action proved.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1588" id="segment-12" start_char="1310">
+<ORIGINAL_TEXT>Чеснок от COVID-19 никак не поможет", — объясняет Сергей Нетесов, профессор, член-корреспондент РАН, заведующий лабораторией биотехнологии и вирусологии Новосибирского госуниверситета и лабораторией молекулярной биологии РНК-вирусов ФГУН ГНЦ вирусологии и биотехнологии "Вектор".</ORIGINAL_TEXT>
+<TOKEN end_char="1315" id="token-12-0" morph="none" pos="word" start_char="1310">Чеснок</TOKEN>
+<TOKEN end_char="1318" id="token-12-1" morph="none" pos="word" start_char="1317">от</TOKEN>
+<TOKEN end_char="1327" id="token-12-2" morph="none" pos="unknown" start_char="1320">COVID-19</TOKEN>
+<TOKEN end_char="1333" id="token-12-3" morph="none" pos="word" start_char="1329">никак</TOKEN>
+<TOKEN end_char="1336" id="token-12-4" morph="none" pos="word" start_char="1335">не</TOKEN>
+<TOKEN end_char="1344" id="token-12-5" morph="none" pos="word" start_char="1338">поможет</TOKEN>
+<TOKEN end_char="1346" id="token-12-6" morph="none" pos="punct" start_char="1345">",</TOKEN>
+<TOKEN end_char="1348" id="token-12-7" morph="none" pos="punct" start_char="1348">—</TOKEN>
+<TOKEN end_char="1358" id="token-12-8" morph="none" pos="word" start_char="1350">объясняет</TOKEN>
+<TOKEN end_char="1365" id="token-12-9" morph="none" pos="word" start_char="1360">Сергей</TOKEN>
+<TOKEN end_char="1373" id="token-12-10" morph="none" pos="word" start_char="1367">Нетесов</TOKEN>
+<TOKEN end_char="1374" id="token-12-11" morph="none" pos="punct" start_char="1374">,</TOKEN>
+<TOKEN end_char="1384" id="token-12-12" morph="none" pos="word" start_char="1376">профессор</TOKEN>
+<TOKEN end_char="1385" id="token-12-13" morph="none" pos="punct" start_char="1385">,</TOKEN>
+<TOKEN end_char="1404" id="token-12-14" morph="none" pos="unknown" start_char="1387">член-корреспондент</TOKEN>
+<TOKEN end_char="1408" id="token-12-15" morph="none" pos="word" start_char="1406">РАН</TOKEN>
+<TOKEN end_char="1409" id="token-12-16" morph="none" pos="punct" start_char="1409">,</TOKEN>
+<TOKEN end_char="1420" id="token-12-17" morph="none" pos="word" start_char="1411">заведующий</TOKEN>
+<TOKEN end_char="1433" id="token-12-18" morph="none" pos="word" start_char="1422">лабораторией</TOKEN>
+<TOKEN end_char="1447" id="token-12-19" morph="none" pos="word" start_char="1435">биотехнологии</TOKEN>
+<TOKEN end_char="1449" id="token-12-20" morph="none" pos="word" start_char="1449">и</TOKEN>
+<TOKEN end_char="1461" id="token-12-21" morph="none" pos="word" start_char="1451">вирусологии</TOKEN>
+<TOKEN end_char="1476" id="token-12-22" morph="none" pos="word" start_char="1463">Новосибирского</TOKEN>
+<TOKEN end_char="1492" id="token-12-23" morph="none" pos="word" start_char="1478">госуниверситета</TOKEN>
+<TOKEN end_char="1494" id="token-12-24" morph="none" pos="word" start_char="1494">и</TOKEN>
+<TOKEN end_char="1507" id="token-12-25" morph="none" pos="word" start_char="1496">лабораторией</TOKEN>
+<TOKEN end_char="1520" id="token-12-26" morph="none" pos="word" start_char="1509">молекулярной</TOKEN>
+<TOKEN end_char="1529" id="token-12-27" morph="none" pos="word" start_char="1522">биологии</TOKEN>
+<TOKEN end_char="1541" id="token-12-28" morph="none" pos="unknown" start_char="1531">РНК-вирусов</TOKEN>
+<TOKEN end_char="1546" id="token-12-29" morph="none" pos="word" start_char="1543">ФГУН</TOKEN>
+<TOKEN end_char="1550" id="token-12-30" morph="none" pos="word" start_char="1548">ГНЦ</TOKEN>
+<TOKEN end_char="1562" id="token-12-31" morph="none" pos="word" start_char="1552">вирусологии</TOKEN>
+<TOKEN end_char="1564" id="token-12-32" morph="none" pos="word" start_char="1564">и</TOKEN>
+<TOKEN end_char="1578" id="token-12-33" morph="none" pos="word" start_char="1566">биотехнологии</TOKEN>
+<TOKEN end_char="1580" id="token-12-34" morph="none" pos="punct" start_char="1580">"</TOKEN>
+<TOKEN end_char="1586" id="token-12-35" morph="none" pos="word" start_char="1581">Вектор</TOKEN>
+<TOKEN end_char="1588" id="token-12-36" morph="none" pos="punct" start_char="1587">".</TOKEN>
+<TRANSLATED_TEXT>The cocoon from COVID-19 will not help at all, "explains Sergey Netesov, professor, corresponding member of the Russian Academy of Sciences, head of the Laboratory of Biotechnology and Virology of Novosibirsk State University and the Laboratory of Molecular Biology of RNA viruses FGUN GNC Virology and Biotechnology" Vector. "</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1650" id="segment-13" start_char="1591">
+<ORIGINAL_TEXT>"Хотя нет, есть у чеснока защитное свойство, — шутит ученый.</ORIGINAL_TEXT>
+<TOKEN end_char="1591" id="token-13-0" morph="none" pos="punct" start_char="1591">"</TOKEN>
+<TOKEN end_char="1595" id="token-13-1" morph="none" pos="word" start_char="1592">Хотя</TOKEN>
+<TOKEN end_char="1599" id="token-13-2" morph="none" pos="word" start_char="1597">нет</TOKEN>
+<TOKEN end_char="1600" id="token-13-3" morph="none" pos="punct" start_char="1600">,</TOKEN>
+<TOKEN end_char="1605" id="token-13-4" morph="none" pos="word" start_char="1602">есть</TOKEN>
+<TOKEN end_char="1607" id="token-13-5" morph="none" pos="word" start_char="1607">у</TOKEN>
+<TOKEN end_char="1615" id="token-13-6" morph="none" pos="word" start_char="1609">чеснока</TOKEN>
+<TOKEN end_char="1624" id="token-13-7" morph="none" pos="word" start_char="1617">защитное</TOKEN>
+<TOKEN end_char="1633" id="token-13-8" morph="none" pos="word" start_char="1626">свойство</TOKEN>
+<TOKEN end_char="1634" id="token-13-9" morph="none" pos="punct" start_char="1634">,</TOKEN>
+<TOKEN end_char="1636" id="token-13-10" morph="none" pos="punct" start_char="1636">—</TOKEN>
+<TOKEN end_char="1642" id="token-13-11" morph="none" pos="word" start_char="1638">шутит</TOKEN>
+<TOKEN end_char="1649" id="token-13-12" morph="none" pos="word" start_char="1644">ученый</TOKEN>
+<TOKEN end_char="1650" id="token-13-13" morph="none" pos="punct" start_char="1650">.</TOKEN>
+<TRANSLATED_TEXT>"Although not, garlic has a protective property," the scientist jokes.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1741" id="segment-14" start_char="1652">
+<ORIGINAL_TEXT>— Если им натираться им, то люди будут шарахаться от запаха, и никто на вас не накашляет".</ORIGINAL_TEXT>
+<TOKEN end_char="1652" id="token-14-0" morph="none" pos="punct" start_char="1652">—</TOKEN>
+<TOKEN end_char="1657" id="token-14-1" morph="none" pos="word" start_char="1654">Если</TOKEN>
+<TOKEN end_char="1660" id="token-14-2" morph="none" pos="word" start_char="1659">им</TOKEN>
+<TOKEN end_char="1671" id="token-14-3" morph="none" pos="word" start_char="1662">натираться</TOKEN>
+<TOKEN end_char="1674" id="token-14-4" morph="none" pos="word" start_char="1673">им</TOKEN>
+<TOKEN end_char="1675" id="token-14-5" morph="none" pos="punct" start_char="1675">,</TOKEN>
+<TOKEN end_char="1678" id="token-14-6" morph="none" pos="word" start_char="1677">то</TOKEN>
+<TOKEN end_char="1683" id="token-14-7" morph="none" pos="word" start_char="1680">люди</TOKEN>
+<TOKEN end_char="1689" id="token-14-8" morph="none" pos="word" start_char="1685">будут</TOKEN>
+<TOKEN end_char="1700" id="token-14-9" morph="none" pos="word" start_char="1691">шарахаться</TOKEN>
+<TOKEN end_char="1703" id="token-14-10" morph="none" pos="word" start_char="1702">от</TOKEN>
+<TOKEN end_char="1710" id="token-14-11" morph="none" pos="word" start_char="1705">запаха</TOKEN>
+<TOKEN end_char="1711" id="token-14-12" morph="none" pos="punct" start_char="1711">,</TOKEN>
+<TOKEN end_char="1713" id="token-14-13" morph="none" pos="word" start_char="1713">и</TOKEN>
+<TOKEN end_char="1719" id="token-14-14" morph="none" pos="word" start_char="1715">никто</TOKEN>
+<TOKEN end_char="1722" id="token-14-15" morph="none" pos="word" start_char="1721">на</TOKEN>
+<TOKEN end_char="1726" id="token-14-16" morph="none" pos="word" start_char="1724">вас</TOKEN>
+<TOKEN end_char="1729" id="token-14-17" morph="none" pos="word" start_char="1728">не</TOKEN>
+<TOKEN end_char="1739" id="token-14-18" morph="none" pos="word" start_char="1731">накашляет</TOKEN>
+<TOKEN end_char="1741" id="token-14-19" morph="none" pos="punct" start_char="1740">".</TOKEN>
+<TRANSLATED_TEXT>If they are attacked by them, people will be terrified of the smell, and you will not be bullied. "</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1808" id="segment-15" start_char="1744">
+<ORIGINAL_TEXT>"Эта инфекция не выбирает людей с сильным или слабым иммунитетом.</ORIGINAL_TEXT>
+<TOKEN end_char="1744" id="token-15-0" morph="none" pos="punct" start_char="1744">"</TOKEN>
+<TOKEN end_char="1747" id="token-15-1" morph="none" pos="word" start_char="1745">Эта</TOKEN>
+<TOKEN end_char="1756" id="token-15-2" morph="none" pos="word" start_char="1749">инфекция</TOKEN>
+<TOKEN end_char="1759" id="token-15-3" morph="none" pos="word" start_char="1758">не</TOKEN>
+<TOKEN end_char="1768" id="token-15-4" morph="none" pos="word" start_char="1761">выбирает</TOKEN>
+<TOKEN end_char="1774" id="token-15-5" morph="none" pos="word" start_char="1770">людей</TOKEN>
+<TOKEN end_char="1776" id="token-15-6" morph="none" pos="word" start_char="1776">с</TOKEN>
+<TOKEN end_char="1784" id="token-15-7" morph="none" pos="word" start_char="1778">сильным</TOKEN>
+<TOKEN end_char="1788" id="token-15-8" morph="none" pos="word" start_char="1786">или</TOKEN>
+<TOKEN end_char="1795" id="token-15-9" morph="none" pos="word" start_char="1790">слабым</TOKEN>
+<TOKEN end_char="1807" id="token-15-10" morph="none" pos="word" start_char="1797">иммунитетом</TOKEN>
+<TOKEN end_char="1808" id="token-15-11" morph="none" pos="punct" start_char="1808">.</TOKEN>
+<TRANSLATED_TEXT>This infection does not select people with strong or weak immunity.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1912" id="segment-16" start_char="1810">
+<ORIGINAL_TEXT>Тут работают другие механизмы, — говорит доцент кафедры инфекционных болезней у детей ПФ РНИМУ имени Н.</ORIGINAL_TEXT>
+<TOKEN end_char="1812" id="token-16-0" morph="none" pos="word" start_char="1810">Тут</TOKEN>
+<TOKEN end_char="1821" id="token-16-1" morph="none" pos="word" start_char="1814">работают</TOKEN>
+<TOKEN end_char="1828" id="token-16-2" morph="none" pos="word" start_char="1823">другие</TOKEN>
+<TOKEN end_char="1838" id="token-16-3" morph="none" pos="word" start_char="1830">механизмы</TOKEN>
+<TOKEN end_char="1839" id="token-16-4" morph="none" pos="punct" start_char="1839">,</TOKEN>
+<TOKEN end_char="1841" id="token-16-5" morph="none" pos="punct" start_char="1841">—</TOKEN>
+<TOKEN end_char="1849" id="token-16-6" morph="none" pos="word" start_char="1843">говорит</TOKEN>
+<TOKEN end_char="1856" id="token-16-7" morph="none" pos="word" start_char="1851">доцент</TOKEN>
+<TOKEN end_char="1864" id="token-16-8" morph="none" pos="word" start_char="1858">кафедры</TOKEN>
+<TOKEN end_char="1877" id="token-16-9" morph="none" pos="word" start_char="1866">инфекционных</TOKEN>
+<TOKEN end_char="1886" id="token-16-10" morph="none" pos="word" start_char="1879">болезней</TOKEN>
+<TOKEN end_char="1888" id="token-16-11" morph="none" pos="word" start_char="1888">у</TOKEN>
+<TOKEN end_char="1894" id="token-16-12" morph="none" pos="word" start_char="1890">детей</TOKEN>
+<TOKEN end_char="1897" id="token-16-13" morph="none" pos="word" start_char="1896">ПФ</TOKEN>
+<TOKEN end_char="1903" id="token-16-14" morph="none" pos="word" start_char="1899">РНИМУ</TOKEN>
+<TOKEN end_char="1909" id="token-16-15" morph="none" pos="word" start_char="1905">имени</TOKEN>
+<TOKEN end_char="1911" id="token-16-16" morph="none" pos="word" start_char="1911">Н</TOKEN>
+<TOKEN end_char="1912" id="token-16-17" morph="none" pos="punct" start_char="1912">.</TOKEN>
+<TRANSLATED_TEXT>There are other mechanisms working here, "says the associate professor of the Department of Infectious Diseases in Children of the PFR RNIMU named N.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2091" id="segment-17" start_char="1914">
+<ORIGINAL_TEXT>И. Пирогова, кандидат медицинских наук, инфекционист Иван Коновалов. — К примеру, для свиного гриппа описаны случаи летального исхода, вызванные слишком сильным иммунным ответом.</ORIGINAL_TEXT>
+<TOKEN end_char="1914" id="token-17-0" morph="none" pos="word" start_char="1914">И</TOKEN>
+<TOKEN end_char="1915" id="token-17-1" morph="none" pos="punct" start_char="1915">.</TOKEN>
+<TOKEN end_char="1924" id="token-17-2" morph="none" pos="word" start_char="1917">Пирогова</TOKEN>
+<TOKEN end_char="1925" id="token-17-3" morph="none" pos="punct" start_char="1925">,</TOKEN>
+<TOKEN end_char="1934" id="token-17-4" morph="none" pos="word" start_char="1927">кандидат</TOKEN>
+<TOKEN end_char="1946" id="token-17-5" morph="none" pos="word" start_char="1936">медицинских</TOKEN>
+<TOKEN end_char="1951" id="token-17-6" morph="none" pos="word" start_char="1948">наук</TOKEN>
+<TOKEN end_char="1952" id="token-17-7" morph="none" pos="punct" start_char="1952">,</TOKEN>
+<TOKEN end_char="1965" id="token-17-8" morph="none" pos="word" start_char="1954">инфекционист</TOKEN>
+<TOKEN end_char="1970" id="token-17-9" morph="none" pos="word" start_char="1967">Иван</TOKEN>
+<TOKEN end_char="1980" id="token-17-10" morph="none" pos="word" start_char="1972">Коновалов</TOKEN>
+<TOKEN end_char="1981" id="token-17-11" morph="none" pos="punct" start_char="1981">.</TOKEN>
+<TOKEN end_char="1983" id="token-17-12" morph="none" pos="punct" start_char="1983">—</TOKEN>
+<TOKEN end_char="1985" id="token-17-13" morph="none" pos="word" start_char="1985">К</TOKEN>
+<TOKEN end_char="1993" id="token-17-14" morph="none" pos="word" start_char="1987">примеру</TOKEN>
+<TOKEN end_char="1994" id="token-17-15" morph="none" pos="punct" start_char="1994">,</TOKEN>
+<TOKEN end_char="1998" id="token-17-16" morph="none" pos="word" start_char="1996">для</TOKEN>
+<TOKEN end_char="2006" id="token-17-17" morph="none" pos="word" start_char="2000">свиного</TOKEN>
+<TOKEN end_char="2013" id="token-17-18" morph="none" pos="word" start_char="2008">гриппа</TOKEN>
+<TOKEN end_char="2021" id="token-17-19" morph="none" pos="word" start_char="2015">описаны</TOKEN>
+<TOKEN end_char="2028" id="token-17-20" morph="none" pos="word" start_char="2023">случаи</TOKEN>
+<TOKEN end_char="2039" id="token-17-21" morph="none" pos="word" start_char="2030">летального</TOKEN>
+<TOKEN end_char="2046" id="token-17-22" morph="none" pos="word" start_char="2041">исхода</TOKEN>
+<TOKEN end_char="2047" id="token-17-23" morph="none" pos="punct" start_char="2047">,</TOKEN>
+<TOKEN end_char="2057" id="token-17-24" morph="none" pos="word" start_char="2049">вызванные</TOKEN>
+<TOKEN end_char="2065" id="token-17-25" morph="none" pos="word" start_char="2059">слишком</TOKEN>
+<TOKEN end_char="2073" id="token-17-26" morph="none" pos="word" start_char="2067">сильным</TOKEN>
+<TOKEN end_char="2082" id="token-17-27" morph="none" pos="word" start_char="2075">иммунным</TOKEN>
+<TOKEN end_char="2090" id="token-17-28" morph="none" pos="word" start_char="2084">ответом</TOKEN>
+<TOKEN end_char="2091" id="token-17-29" morph="none" pos="punct" start_char="2091">.</TOKEN>
+<TRANSLATED_TEXT>I. Pirogova, PhD, infectionist Ivan Konovalov. - For example, for swine flu, deaths caused by too strong an immune response are described.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2195" id="segment-18" start_char="2093">
+<ORIGINAL_TEXT>Поэтому нет смысла говорить о повышении иммунитета с помощью каких-то особенных экзотических продуктов.</ORIGINAL_TEXT>
+<TOKEN end_char="2099" id="token-18-0" morph="none" pos="word" start_char="2093">Поэтому</TOKEN>
+<TOKEN end_char="2103" id="token-18-1" morph="none" pos="word" start_char="2101">нет</TOKEN>
+<TOKEN end_char="2110" id="token-18-2" morph="none" pos="word" start_char="2105">смысла</TOKEN>
+<TOKEN end_char="2119" id="token-18-3" morph="none" pos="word" start_char="2112">говорить</TOKEN>
+<TOKEN end_char="2121" id="token-18-4" morph="none" pos="word" start_char="2121">о</TOKEN>
+<TOKEN end_char="2131" id="token-18-5" morph="none" pos="word" start_char="2123">повышении</TOKEN>
+<TOKEN end_char="2142" id="token-18-6" morph="none" pos="word" start_char="2133">иммунитета</TOKEN>
+<TOKEN end_char="2144" id="token-18-7" morph="none" pos="word" start_char="2144">с</TOKEN>
+<TOKEN end_char="2152" id="token-18-8" morph="none" pos="word" start_char="2146">помощью</TOKEN>
+<TOKEN end_char="2161" id="token-18-9" morph="none" pos="unknown" start_char="2154">каких-то</TOKEN>
+<TOKEN end_char="2171" id="token-18-10" morph="none" pos="word" start_char="2163">особенных</TOKEN>
+<TOKEN end_char="2184" id="token-18-11" morph="none" pos="word" start_char="2173">экзотических</TOKEN>
+<TOKEN end_char="2194" id="token-18-12" morph="none" pos="word" start_char="2186">продуктов</TOKEN>
+<TOKEN end_char="2195" id="token-18-13" morph="none" pos="punct" start_char="2195">.</TOKEN>
+<TRANSLATED_TEXT>Therefore, there is no point in talking about increasing immunity with any particular exotic products.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2330" id="segment-19" start_char="2197">
+<ORIGINAL_TEXT>Важно сбалансированное, разнообразное питание — овощи, фрукты, мясные изделия, поменьше жирного, побольше салатов, отказ от алкоголя".</ORIGINAL_TEXT>
+<TOKEN end_char="2201" id="token-19-0" morph="none" pos="word" start_char="2197">Важно</TOKEN>
+<TOKEN end_char="2218" id="token-19-1" morph="none" pos="word" start_char="2203">сбалансированное</TOKEN>
+<TOKEN end_char="2219" id="token-19-2" morph="none" pos="punct" start_char="2219">,</TOKEN>
+<TOKEN end_char="2233" id="token-19-3" morph="none" pos="word" start_char="2221">разнообразное</TOKEN>
+<TOKEN end_char="2241" id="token-19-4" morph="none" pos="word" start_char="2235">питание</TOKEN>
+<TOKEN end_char="2243" id="token-19-5" morph="none" pos="punct" start_char="2243">—</TOKEN>
+<TOKEN end_char="2249" id="token-19-6" morph="none" pos="word" start_char="2245">овощи</TOKEN>
+<TOKEN end_char="2250" id="token-19-7" morph="none" pos="punct" start_char="2250">,</TOKEN>
+<TOKEN end_char="2257" id="token-19-8" morph="none" pos="word" start_char="2252">фрукты</TOKEN>
+<TOKEN end_char="2258" id="token-19-9" morph="none" pos="punct" start_char="2258">,</TOKEN>
+<TOKEN end_char="2265" id="token-19-10" morph="none" pos="word" start_char="2260">мясные</TOKEN>
+<TOKEN end_char="2273" id="token-19-11" morph="none" pos="word" start_char="2267">изделия</TOKEN>
+<TOKEN end_char="2274" id="token-19-12" morph="none" pos="punct" start_char="2274">,</TOKEN>
+<TOKEN end_char="2283" id="token-19-13" morph="none" pos="word" start_char="2276">поменьше</TOKEN>
+<TOKEN end_char="2291" id="token-19-14" morph="none" pos="word" start_char="2285">жирного</TOKEN>
+<TOKEN end_char="2292" id="token-19-15" morph="none" pos="punct" start_char="2292">,</TOKEN>
+<TOKEN end_char="2301" id="token-19-16" morph="none" pos="word" start_char="2294">побольше</TOKEN>
+<TOKEN end_char="2309" id="token-19-17" morph="none" pos="word" start_char="2303">салатов</TOKEN>
+<TOKEN end_char="2310" id="token-19-18" morph="none" pos="punct" start_char="2310">,</TOKEN>
+<TOKEN end_char="2316" id="token-19-19" morph="none" pos="word" start_char="2312">отказ</TOKEN>
+<TOKEN end_char="2319" id="token-19-20" morph="none" pos="word" start_char="2318">от</TOKEN>
+<TOKEN end_char="2328" id="token-19-21" morph="none" pos="word" start_char="2321">алкоголя</TOKEN>
+<TOKEN end_char="2330" id="token-19-22" morph="none" pos="punct" start_char="2329">".</TOKEN>
+<TRANSLATED_TEXT>A balanced, varied diet - vegetables, fruits, meat products, less fat, more salads, and no alcohol is important. "</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2508" id="segment-20" start_char="2333">
+<ORIGINAL_TEXT>В некоторых ситуациях чеснок просто опасен, так как увеличивает риск кровотечений у тех, кто принимает препараты, разжижающие кровь, и снижает эффективность некоторых лекарств.</ORIGINAL_TEXT>
+<TOKEN end_char="2333" id="token-20-0" morph="none" pos="word" start_char="2333">В</TOKEN>
+<TOKEN end_char="2343" id="token-20-1" morph="none" pos="word" start_char="2335">некоторых</TOKEN>
+<TOKEN end_char="2353" id="token-20-2" morph="none" pos="word" start_char="2345">ситуациях</TOKEN>
+<TOKEN end_char="2360" id="token-20-3" morph="none" pos="word" start_char="2355">чеснок</TOKEN>
+<TOKEN end_char="2367" id="token-20-4" morph="none" pos="word" start_char="2362">просто</TOKEN>
+<TOKEN end_char="2374" id="token-20-5" morph="none" pos="word" start_char="2369">опасен</TOKEN>
+<TOKEN end_char="2375" id="token-20-6" morph="none" pos="punct" start_char="2375">,</TOKEN>
+<TOKEN end_char="2379" id="token-20-7" morph="none" pos="word" start_char="2377">так</TOKEN>
+<TOKEN end_char="2383" id="token-20-8" morph="none" pos="word" start_char="2381">как</TOKEN>
+<TOKEN end_char="2395" id="token-20-9" morph="none" pos="word" start_char="2385">увеличивает</TOKEN>
+<TOKEN end_char="2400" id="token-20-10" morph="none" pos="word" start_char="2397">риск</TOKEN>
+<TOKEN end_char="2413" id="token-20-11" morph="none" pos="word" start_char="2402">кровотечений</TOKEN>
+<TOKEN end_char="2415" id="token-20-12" morph="none" pos="word" start_char="2415">у</TOKEN>
+<TOKEN end_char="2419" id="token-20-13" morph="none" pos="word" start_char="2417">тех</TOKEN>
+<TOKEN end_char="2420" id="token-20-14" morph="none" pos="punct" start_char="2420">,</TOKEN>
+<TOKEN end_char="2424" id="token-20-15" morph="none" pos="word" start_char="2422">кто</TOKEN>
+<TOKEN end_char="2434" id="token-20-16" morph="none" pos="word" start_char="2426">принимает</TOKEN>
+<TOKEN end_char="2444" id="token-20-17" morph="none" pos="word" start_char="2436">препараты</TOKEN>
+<TOKEN end_char="2445" id="token-20-18" morph="none" pos="punct" start_char="2445">,</TOKEN>
+<TOKEN end_char="2457" id="token-20-19" morph="none" pos="word" start_char="2447">разжижающие</TOKEN>
+<TOKEN end_char="2463" id="token-20-20" morph="none" pos="word" start_char="2459">кровь</TOKEN>
+<TOKEN end_char="2464" id="token-20-21" morph="none" pos="punct" start_char="2464">,</TOKEN>
+<TOKEN end_char="2466" id="token-20-22" morph="none" pos="word" start_char="2466">и</TOKEN>
+<TOKEN end_char="2474" id="token-20-23" morph="none" pos="word" start_char="2468">снижает</TOKEN>
+<TOKEN end_char="2488" id="token-20-24" morph="none" pos="word" start_char="2476">эффективность</TOKEN>
+<TOKEN end_char="2498" id="token-20-25" morph="none" pos="word" start_char="2490">некоторых</TOKEN>
+<TOKEN end_char="2507" id="token-20-26" morph="none" pos="word" start_char="2500">лекарств</TOKEN>
+<TOKEN end_char="2508" id="token-20-27" morph="none" pos="punct" start_char="2508">.</TOKEN>
+<TRANSLATED_TEXT>In some situations garlic is simply dangerous because it increases the risk of bleeding in those taking blood thinners and reduces the effectiveness of some drugs.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2553" id="segment-21" start_char="2511">
+<ORIGINAL_TEXT>"Здесь нельзя давать огульные рекомендации.</ORIGINAL_TEXT>
+<TOKEN end_char="2511" id="token-21-0" morph="none" pos="punct" start_char="2511">"</TOKEN>
+<TOKEN end_char="2516" id="token-21-1" morph="none" pos="word" start_char="2512">Здесь</TOKEN>
+<TOKEN end_char="2523" id="token-21-2" morph="none" pos="word" start_char="2518">нельзя</TOKEN>
+<TOKEN end_char="2530" id="token-21-3" morph="none" pos="word" start_char="2525">давать</TOKEN>
+<TOKEN end_char="2539" id="token-21-4" morph="none" pos="word" start_char="2532">огульные</TOKEN>
+<TOKEN end_char="2552" id="token-21-5" morph="none" pos="word" start_char="2541">рекомендации</TOKEN>
+<TOKEN end_char="2553" id="token-21-6" morph="none" pos="punct" start_char="2553">.</TOKEN>
+<TRANSLATED_TEXT>There can be no blanket recommendations.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2649" id="segment-22" start_char="2555">
+<ORIGINAL_TEXT>У кого-то сырой чеснок может вызвать гастрит или даже язву желудка", — предупреждает Коновалов.</ORIGINAL_TEXT>
+<TOKEN end_char="2555" id="token-22-0" morph="none" pos="word" start_char="2555">У</TOKEN>
+<TOKEN end_char="2563" id="token-22-1" morph="none" pos="unknown" start_char="2557">кого-то</TOKEN>
+<TOKEN end_char="2569" id="token-22-2" morph="none" pos="word" start_char="2565">сырой</TOKEN>
+<TOKEN end_char="2576" id="token-22-3" morph="none" pos="word" start_char="2571">чеснок</TOKEN>
+<TOKEN end_char="2582" id="token-22-4" morph="none" pos="word" start_char="2578">может</TOKEN>
+<TOKEN end_char="2590" id="token-22-5" morph="none" pos="word" start_char="2584">вызвать</TOKEN>
+<TOKEN end_char="2598" id="token-22-6" morph="none" pos="word" start_char="2592">гастрит</TOKEN>
+<TOKEN end_char="2602" id="token-22-7" morph="none" pos="word" start_char="2600">или</TOKEN>
+<TOKEN end_char="2607" id="token-22-8" morph="none" pos="word" start_char="2604">даже</TOKEN>
+<TOKEN end_char="2612" id="token-22-9" morph="none" pos="word" start_char="2609">язву</TOKEN>
+<TOKEN end_char="2620" id="token-22-10" morph="none" pos="word" start_char="2614">желудка</TOKEN>
+<TOKEN end_char="2622" id="token-22-11" morph="none" pos="punct" start_char="2621">",</TOKEN>
+<TOKEN end_char="2624" id="token-22-12" morph="none" pos="punct" start_char="2624">—</TOKEN>
+<TOKEN end_char="2638" id="token-22-13" morph="none" pos="word" start_char="2626">предупреждает</TOKEN>
+<TOKEN end_char="2648" id="token-22-14" morph="none" pos="word" start_char="2640">Коновалов</TOKEN>
+<TOKEN end_char="2649" id="token-22-15" morph="none" pos="punct" start_char="2649">.</TOKEN>
+<TRANSLATED_TEXT>A person with a raw garlic can cause gastritis or even stomach ulcers, "Konovalov warns.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

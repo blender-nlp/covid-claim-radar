@@ -6,6 +6,7 @@ import itertools
 import xml.dom.minidom
 import xml.etree.ElementTree as ET
 import codecs
+import shutil
 
 # dirty import from current dir
 CURRENT_DIR = os.path.abspath(os.path.dirname(__file__))
@@ -207,6 +208,9 @@ if __name__ == "__main__":
     rsd_files = []
     output_files = []
     if os.path.isdir(input_rsd):
+        if os.path.exists(output_ltf):
+            shutil.rmtree(output_ltf, ignore_errors=True)
+        os.makedirs(output_ltf, exist_ok=False)
         assert os.path.isdir(output_ltf)
 
         for fn in os.listdir(input_rsd):

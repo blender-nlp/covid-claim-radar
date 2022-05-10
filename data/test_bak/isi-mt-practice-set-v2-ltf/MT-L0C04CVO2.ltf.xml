@@ -1,0 +1,600 @@
+<LCTL_TEXT lang="spa">
+<DOC grammar="none" id="L0C04CVO2" lang="spa" raw_text_char_length="2896" raw_text_md5="f60acddd70f4e8cb2cdc0c5ceeef11e2" tokenization="tokenization_parameters.v5.0">
+<TEXT>
+<SEG end_char="65" id="segment-0" start_char="1">
+<ORIGINAL_TEXT>Study Findings Do Not Support Use of Ivermectin for Mild COVID-19</ORIGINAL_TEXT>
+<TOKEN end_char="5" id="token-0-0" morph="none" pos="word" start_char="1">Study</TOKEN>
+<TOKEN end_char="14" id="token-0-1" morph="none" pos="word" start_char="7">Findings</TOKEN>
+<TOKEN end_char="17" id="token-0-2" morph="none" pos="word" start_char="16">Do</TOKEN>
+<TOKEN end_char="21" id="token-0-3" morph="none" pos="word" start_char="19">Not</TOKEN>
+<TOKEN end_char="29" id="token-0-4" morph="none" pos="word" start_char="23">Support</TOKEN>
+<TOKEN end_char="33" id="token-0-5" morph="none" pos="word" start_char="31">Use</TOKEN>
+<TOKEN end_char="36" id="token-0-6" morph="none" pos="word" start_char="35">of</TOKEN>
+<TOKEN end_char="47" id="token-0-7" morph="none" pos="word" start_char="38">Ivermectin</TOKEN>
+<TOKEN end_char="51" id="token-0-8" morph="none" pos="word" start_char="49">for</TOKEN>
+<TOKEN end_char="56" id="token-0-9" morph="none" pos="word" start_char="53">Mild</TOKEN>
+<TOKEN end_char="65" id="token-0-10" morph="none" pos="unknown" start_char="58">COVID-19</TOKEN>
+</SEG>
+<SEG end_char="175" id="segment-1" start_char="69">
+<ORIGINAL_TEXT>Patients with mild COVID-19 symptoms were administered ivermectin 0.6% oral solution or placebo for 5 days.</ORIGINAL_TEXT>
+<TOKEN end_char="76" id="token-1-0" morph="none" pos="word" start_char="69">Patients</TOKEN>
+<TOKEN end_char="81" id="token-1-1" morph="none" pos="word" start_char="78">with</TOKEN>
+<TOKEN end_char="86" id="token-1-2" morph="none" pos="word" start_char="83">mild</TOKEN>
+<TOKEN end_char="95" id="token-1-3" morph="none" pos="unknown" start_char="88">COVID-19</TOKEN>
+<TOKEN end_char="104" id="token-1-4" morph="none" pos="word" start_char="97">symptoms</TOKEN>
+<TOKEN end_char="109" id="token-1-5" morph="none" pos="word" start_char="106">were</TOKEN>
+<TOKEN end_char="122" id="token-1-6" morph="none" pos="word" start_char="111">administered</TOKEN>
+<TOKEN end_char="133" id="token-1-7" morph="none" pos="word" start_char="124">ivermectin</TOKEN>
+<TOKEN end_char="137" id="token-1-8" morph="none" pos="unknown" start_char="135">0.6</TOKEN>
+<TOKEN end_char="138" id="token-1-9" morph="none" pos="punct" start_char="138">%</TOKEN>
+<TOKEN end_char="143" id="token-1-10" morph="none" pos="word" start_char="140">oral</TOKEN>
+<TOKEN end_char="152" id="token-1-11" morph="none" pos="word" start_char="145">solution</TOKEN>
+<TOKEN end_char="155" id="token-1-12" morph="none" pos="word" start_char="154">or</TOKEN>
+<TOKEN end_char="163" id="token-1-13" morph="none" pos="word" start_char="157">placebo</TOKEN>
+<TOKEN end_char="167" id="token-1-14" morph="none" pos="word" start_char="165">for</TOKEN>
+<TOKEN end_char="169" id="token-1-15" morph="none" pos="word" start_char="169">5</TOKEN>
+<TOKEN end_char="174" id="token-1-16" morph="none" pos="word" start_char="171">days</TOKEN>
+<TOKEN end_char="175" id="token-1-17" morph="none" pos="punct" start_char="175">.</TOKEN>
+</SEG>
+<SEG end_char="392" id="segment-2" start_char="179">
+<ORIGINAL_TEXT>The use of ivermectin does not appear to significantly shorten the duration of symptoms in patients with mild coronavirus disease 2019 (COVID-19), according to findings from a randomized clinical trial published in</ORIGINAL_TEXT>
+<TOKEN end_char="181" id="token-2-0" morph="none" pos="word" start_char="179">The</TOKEN>
+<TOKEN end_char="185" id="token-2-1" morph="none" pos="word" start_char="183">use</TOKEN>
+<TOKEN end_char="188" id="token-2-2" morph="none" pos="word" start_char="187">of</TOKEN>
+<TOKEN end_char="199" id="token-2-3" morph="none" pos="word" start_char="190">ivermectin</TOKEN>
+<TOKEN end_char="204" id="token-2-4" morph="none" pos="word" start_char="201">does</TOKEN>
+<TOKEN end_char="208" id="token-2-5" morph="none" pos="word" start_char="206">not</TOKEN>
+<TOKEN end_char="215" id="token-2-6" morph="none" pos="word" start_char="210">appear</TOKEN>
+<TOKEN end_char="218" id="token-2-7" morph="none" pos="word" start_char="217">to</TOKEN>
+<TOKEN end_char="232" id="token-2-8" morph="none" pos="word" start_char="220">significantly</TOKEN>
+<TOKEN end_char="240" id="token-2-9" morph="none" pos="word" start_char="234">shorten</TOKEN>
+<TOKEN end_char="244" id="token-2-10" morph="none" pos="word" start_char="242">the</TOKEN>
+<TOKEN end_char="253" id="token-2-11" morph="none" pos="word" start_char="246">duration</TOKEN>
+<TOKEN end_char="256" id="token-2-12" morph="none" pos="word" start_char="255">of</TOKEN>
+<TOKEN end_char="265" id="token-2-13" morph="none" pos="word" start_char="258">symptoms</TOKEN>
+<TOKEN end_char="268" id="token-2-14" morph="none" pos="word" start_char="267">in</TOKEN>
+<TOKEN end_char="277" id="token-2-15" morph="none" pos="word" start_char="270">patients</TOKEN>
+<TOKEN end_char="282" id="token-2-16" morph="none" pos="word" start_char="279">with</TOKEN>
+<TOKEN end_char="287" id="token-2-17" morph="none" pos="word" start_char="284">mild</TOKEN>
+<TOKEN end_char="299" id="token-2-18" morph="none" pos="word" start_char="289">coronavirus</TOKEN>
+<TOKEN end_char="307" id="token-2-19" morph="none" pos="word" start_char="301">disease</TOKEN>
+<TOKEN end_char="312" id="token-2-20" morph="none" pos="word" start_char="309">2019</TOKEN>
+<TOKEN end_char="314" id="token-2-21" morph="none" pos="punct" start_char="314">(</TOKEN>
+<TOKEN end_char="322" id="token-2-22" morph="none" pos="unknown" start_char="315">COVID-19</TOKEN>
+<TOKEN end_char="324" id="token-2-23" morph="none" pos="punct" start_char="323">),</TOKEN>
+<TOKEN end_char="334" id="token-2-24" morph="none" pos="word" start_char="326">according</TOKEN>
+<TOKEN end_char="337" id="token-2-25" morph="none" pos="word" start_char="336">to</TOKEN>
+<TOKEN end_char="346" id="token-2-26" morph="none" pos="word" start_char="339">findings</TOKEN>
+<TOKEN end_char="351" id="token-2-27" morph="none" pos="word" start_char="348">from</TOKEN>
+<TOKEN end_char="353" id="token-2-28" morph="none" pos="word" start_char="353">a</TOKEN>
+<TOKEN end_char="364" id="token-2-29" morph="none" pos="word" start_char="355">randomized</TOKEN>
+<TOKEN end_char="373" id="token-2-30" morph="none" pos="word" start_char="366">clinical</TOKEN>
+<TOKEN end_char="379" id="token-2-31" morph="none" pos="word" start_char="375">trial</TOKEN>
+<TOKEN end_char="389" id="token-2-32" morph="none" pos="word" start_char="381">published</TOKEN>
+<TOKEN end_char="392" id="token-2-33" morph="none" pos="word" start_char="391">in</TOKEN>
+</SEG>
+<SEG end_char="398" id="segment-3" start_char="395">
+<ORIGINAL_TEXT>JAMA</ORIGINAL_TEXT>
+<TOKEN end_char="398" id="token-3-0" morph="none" pos="word" start_char="395">JAMA</TOKEN>
+</SEG>
+<SEG end_char="401" id="segment-4" start_char="401">
+<ORIGINAL_TEXT>.</ORIGINAL_TEXT>
+<TOKEN end_char="401" id="token-4-0" morph="none" pos="punct" start_char="401">.</TOKEN>
+</SEG>
+<SEG end_char="606" id="segment-5" start_char="404">
+<ORIGINAL_TEXT>Ivermectin, an antiparasitic agent, continues to be widely used as a potential treatment for COVID-19 based on experimental studies showing antiviral activity during the early stages of other infections.</ORIGINAL_TEXT>
+<TOKEN end_char="413" id="token-5-0" morph="none" pos="word" start_char="404">Ivermectin</TOKEN>
+<TOKEN end_char="414" id="token-5-1" morph="none" pos="punct" start_char="414">,</TOKEN>
+<TOKEN end_char="417" id="token-5-2" morph="none" pos="word" start_char="416">an</TOKEN>
+<TOKEN end_char="431" id="token-5-3" morph="none" pos="word" start_char="419">antiparasitic</TOKEN>
+<TOKEN end_char="437" id="token-5-4" morph="none" pos="word" start_char="433">agent</TOKEN>
+<TOKEN end_char="438" id="token-5-5" morph="none" pos="punct" start_char="438">,</TOKEN>
+<TOKEN end_char="448" id="token-5-6" morph="none" pos="word" start_char="440">continues</TOKEN>
+<TOKEN end_char="451" id="token-5-7" morph="none" pos="word" start_char="450">to</TOKEN>
+<TOKEN end_char="454" id="token-5-8" morph="none" pos="word" start_char="453">be</TOKEN>
+<TOKEN end_char="461" id="token-5-9" morph="none" pos="word" start_char="456">widely</TOKEN>
+<TOKEN end_char="466" id="token-5-10" morph="none" pos="word" start_char="463">used</TOKEN>
+<TOKEN end_char="469" id="token-5-11" morph="none" pos="word" start_char="468">as</TOKEN>
+<TOKEN end_char="471" id="token-5-12" morph="none" pos="word" start_char="471">a</TOKEN>
+<TOKEN end_char="481" id="token-5-13" morph="none" pos="word" start_char="473">potential</TOKEN>
+<TOKEN end_char="491" id="token-5-14" morph="none" pos="word" start_char="483">treatment</TOKEN>
+<TOKEN end_char="495" id="token-5-15" morph="none" pos="word" start_char="493">for</TOKEN>
+<TOKEN end_char="504" id="token-5-16" morph="none" pos="unknown" start_char="497">COVID-19</TOKEN>
+<TOKEN end_char="510" id="token-5-17" morph="none" pos="word" start_char="506">based</TOKEN>
+<TOKEN end_char="513" id="token-5-18" morph="none" pos="word" start_char="512">on</TOKEN>
+<TOKEN end_char="526" id="token-5-19" morph="none" pos="word" start_char="515">experimental</TOKEN>
+<TOKEN end_char="534" id="token-5-20" morph="none" pos="word" start_char="528">studies</TOKEN>
+<TOKEN end_char="542" id="token-5-21" morph="none" pos="word" start_char="536">showing</TOKEN>
+<TOKEN end_char="552" id="token-5-22" morph="none" pos="word" start_char="544">antiviral</TOKEN>
+<TOKEN end_char="561" id="token-5-23" morph="none" pos="word" start_char="554">activity</TOKEN>
+<TOKEN end_char="568" id="token-5-24" morph="none" pos="word" start_char="563">during</TOKEN>
+<TOKEN end_char="572" id="token-5-25" morph="none" pos="word" start_char="570">the</TOKEN>
+<TOKEN end_char="578" id="token-5-26" morph="none" pos="word" start_char="574">early</TOKEN>
+<TOKEN end_char="585" id="token-5-27" morph="none" pos="word" start_char="580">stages</TOKEN>
+<TOKEN end_char="588" id="token-5-28" morph="none" pos="word" start_char="587">of</TOKEN>
+<TOKEN end_char="594" id="token-5-29" morph="none" pos="word" start_char="590">other</TOKEN>
+<TOKEN end_char="605" id="token-5-30" morph="none" pos="word" start_char="596">infections</TOKEN>
+<TOKEN end_char="606" id="token-5-31" morph="none" pos="punct" start_char="606">.</TOKEN>
+</SEG>
+<SEG end_char="818" id="segment-6" start_char="608">
+<ORIGINAL_TEXT>To assess its effect on the duration of symptoms in patients with mild COVID-19, the study authors conducted a double-blind, randomized trial in a single site in Cali, Colombia (ClinicalTrials.gov: NCT04405843).</ORIGINAL_TEXT>
+<TOKEN end_char="609" id="token-6-0" morph="none" pos="word" start_char="608">To</TOKEN>
+<TOKEN end_char="616" id="token-6-1" morph="none" pos="word" start_char="611">assess</TOKEN>
+<TOKEN end_char="620" id="token-6-2" morph="none" pos="word" start_char="618">its</TOKEN>
+<TOKEN end_char="627" id="token-6-3" morph="none" pos="word" start_char="622">effect</TOKEN>
+<TOKEN end_char="630" id="token-6-4" morph="none" pos="word" start_char="629">on</TOKEN>
+<TOKEN end_char="634" id="token-6-5" morph="none" pos="word" start_char="632">the</TOKEN>
+<TOKEN end_char="643" id="token-6-6" morph="none" pos="word" start_char="636">duration</TOKEN>
+<TOKEN end_char="646" id="token-6-7" morph="none" pos="word" start_char="645">of</TOKEN>
+<TOKEN end_char="655" id="token-6-8" morph="none" pos="word" start_char="648">symptoms</TOKEN>
+<TOKEN end_char="658" id="token-6-9" morph="none" pos="word" start_char="657">in</TOKEN>
+<TOKEN end_char="667" id="token-6-10" morph="none" pos="word" start_char="660">patients</TOKEN>
+<TOKEN end_char="672" id="token-6-11" morph="none" pos="word" start_char="669">with</TOKEN>
+<TOKEN end_char="677" id="token-6-12" morph="none" pos="word" start_char="674">mild</TOKEN>
+<TOKEN end_char="686" id="token-6-13" morph="none" pos="unknown" start_char="679">COVID-19</TOKEN>
+<TOKEN end_char="687" id="token-6-14" morph="none" pos="punct" start_char="687">,</TOKEN>
+<TOKEN end_char="691" id="token-6-15" morph="none" pos="word" start_char="689">the</TOKEN>
+<TOKEN end_char="697" id="token-6-16" morph="none" pos="word" start_char="693">study</TOKEN>
+<TOKEN end_char="705" id="token-6-17" morph="none" pos="word" start_char="699">authors</TOKEN>
+<TOKEN end_char="715" id="token-6-18" morph="none" pos="word" start_char="707">conducted</TOKEN>
+<TOKEN end_char="717" id="token-6-19" morph="none" pos="word" start_char="717">a</TOKEN>
+<TOKEN end_char="730" id="token-6-20" morph="none" pos="unknown" start_char="719">double-blind</TOKEN>
+<TOKEN end_char="731" id="token-6-21" morph="none" pos="punct" start_char="731">,</TOKEN>
+<TOKEN end_char="742" id="token-6-22" morph="none" pos="word" start_char="733">randomized</TOKEN>
+<TOKEN end_char="748" id="token-6-23" morph="none" pos="word" start_char="744">trial</TOKEN>
+<TOKEN end_char="751" id="token-6-24" morph="none" pos="word" start_char="750">in</TOKEN>
+<TOKEN end_char="753" id="token-6-25" morph="none" pos="word" start_char="753">a</TOKEN>
+<TOKEN end_char="760" id="token-6-26" morph="none" pos="word" start_char="755">single</TOKEN>
+<TOKEN end_char="765" id="token-6-27" morph="none" pos="word" start_char="762">site</TOKEN>
+<TOKEN end_char="768" id="token-6-28" morph="none" pos="word" start_char="767">in</TOKEN>
+<TOKEN end_char="773" id="token-6-29" morph="none" pos="word" start_char="770">Cali</TOKEN>
+<TOKEN end_char="774" id="token-6-30" morph="none" pos="punct" start_char="774">,</TOKEN>
+<TOKEN end_char="783" id="token-6-31" morph="none" pos="word" start_char="776">Colombia</TOKEN>
+<TOKEN end_char="785" id="token-6-32" morph="none" pos="punct" start_char="785">(</TOKEN>
+<TOKEN end_char="803" id="token-6-33" morph="none" pos="unknown" start_char="786">ClinicalTrials.gov</TOKEN>
+<TOKEN end_char="804" id="token-6-34" morph="none" pos="punct" start_char="804">:</TOKEN>
+<TOKEN end_char="816" id="token-6-35" morph="none" pos="word" start_char="806">NCT04405843</TOKEN>
+<TOKEN end_char="818" id="token-6-36" morph="none" pos="punct" start_char="817">).</TOKEN>
+</SEG>
+<SEG end_char="1009" id="segment-7" start_char="821">
+<ORIGINAL_TEXT>Using the state’s health department electronic database, study participants were selected if they had laboratory-confirmed COVID-19 with mild disease and symptom duration of 7 days or less.</ORIGINAL_TEXT>
+<TOKEN end_char="825" id="token-7-0" morph="none" pos="word" start_char="821">Using</TOKEN>
+<TOKEN end_char="829" id="token-7-1" morph="none" pos="word" start_char="827">the</TOKEN>
+<TOKEN end_char="837" id="token-7-2" morph="none" pos="word" start_char="831">state’s</TOKEN>
+<TOKEN end_char="844" id="token-7-3" morph="none" pos="word" start_char="839">health</TOKEN>
+<TOKEN end_char="855" id="token-7-4" morph="none" pos="word" start_char="846">department</TOKEN>
+<TOKEN end_char="866" id="token-7-5" morph="none" pos="word" start_char="857">electronic</TOKEN>
+<TOKEN end_char="875" id="token-7-6" morph="none" pos="word" start_char="868">database</TOKEN>
+<TOKEN end_char="876" id="token-7-7" morph="none" pos="punct" start_char="876">,</TOKEN>
+<TOKEN end_char="882" id="token-7-8" morph="none" pos="word" start_char="878">study</TOKEN>
+<TOKEN end_char="895" id="token-7-9" morph="none" pos="word" start_char="884">participants</TOKEN>
+<TOKEN end_char="900" id="token-7-10" morph="none" pos="word" start_char="897">were</TOKEN>
+<TOKEN end_char="909" id="token-7-11" morph="none" pos="word" start_char="902">selected</TOKEN>
+<TOKEN end_char="912" id="token-7-12" morph="none" pos="word" start_char="911">if</TOKEN>
+<TOKEN end_char="917" id="token-7-13" morph="none" pos="word" start_char="914">they</TOKEN>
+<TOKEN end_char="921" id="token-7-14" morph="none" pos="word" start_char="919">had</TOKEN>
+<TOKEN end_char="942" id="token-7-15" morph="none" pos="unknown" start_char="923">laboratory-confirmed</TOKEN>
+<TOKEN end_char="951" id="token-7-16" morph="none" pos="unknown" start_char="944">COVID-19</TOKEN>
+<TOKEN end_char="956" id="token-7-17" morph="none" pos="word" start_char="953">with</TOKEN>
+<TOKEN end_char="961" id="token-7-18" morph="none" pos="word" start_char="958">mild</TOKEN>
+<TOKEN end_char="969" id="token-7-19" morph="none" pos="word" start_char="963">disease</TOKEN>
+<TOKEN end_char="973" id="token-7-20" morph="none" pos="word" start_char="971">and</TOKEN>
+<TOKEN end_char="981" id="token-7-21" morph="none" pos="word" start_char="975">symptom</TOKEN>
+<TOKEN end_char="990" id="token-7-22" morph="none" pos="word" start_char="983">duration</TOKEN>
+<TOKEN end_char="993" id="token-7-23" morph="none" pos="word" start_char="992">of</TOKEN>
+<TOKEN end_char="995" id="token-7-24" morph="none" pos="word" start_char="995">7</TOKEN>
+<TOKEN end_char="1000" id="token-7-25" morph="none" pos="word" start_char="997">days</TOKEN>
+<TOKEN end_char="1003" id="token-7-26" morph="none" pos="word" start_char="1002">or</TOKEN>
+<TOKEN end_char="1008" id="token-7-27" morph="none" pos="word" start_char="1005">less</TOKEN>
+<TOKEN end_char="1009" id="token-7-28" morph="none" pos="punct" start_char="1009">.</TOKEN>
+</SEG>
+<SEG end_char="1232" id="segment-8" start_char="1011">
+<ORIGINAL_TEXT>A total of 476 adults were enrolled and 400 (the primary analysis population; median age, 37 years; 58% women) were randomly assigned to receive ivermectin 300μg/kg of body weight/day for 5 days (n=200) or placebo (n=200).</ORIGINAL_TEXT>
+<TOKEN end_char="1011" id="token-8-0" morph="none" pos="word" start_char="1011">A</TOKEN>
+<TOKEN end_char="1017" id="token-8-1" morph="none" pos="word" start_char="1013">total</TOKEN>
+<TOKEN end_char="1020" id="token-8-2" morph="none" pos="word" start_char="1019">of</TOKEN>
+<TOKEN end_char="1024" id="token-8-3" morph="none" pos="word" start_char="1022">476</TOKEN>
+<TOKEN end_char="1031" id="token-8-4" morph="none" pos="word" start_char="1026">adults</TOKEN>
+<TOKEN end_char="1036" id="token-8-5" morph="none" pos="word" start_char="1033">were</TOKEN>
+<TOKEN end_char="1045" id="token-8-6" morph="none" pos="word" start_char="1038">enrolled</TOKEN>
+<TOKEN end_char="1049" id="token-8-7" morph="none" pos="word" start_char="1047">and</TOKEN>
+<TOKEN end_char="1053" id="token-8-8" morph="none" pos="word" start_char="1051">400</TOKEN>
+<TOKEN end_char="1055" id="token-8-9" morph="none" pos="punct" start_char="1055">(</TOKEN>
+<TOKEN end_char="1058" id="token-8-10" morph="none" pos="word" start_char="1056">the</TOKEN>
+<TOKEN end_char="1066" id="token-8-11" morph="none" pos="word" start_char="1060">primary</TOKEN>
+<TOKEN end_char="1075" id="token-8-12" morph="none" pos="word" start_char="1068">analysis</TOKEN>
+<TOKEN end_char="1086" id="token-8-13" morph="none" pos="word" start_char="1077">population</TOKEN>
+<TOKEN end_char="1087" id="token-8-14" morph="none" pos="punct" start_char="1087">;</TOKEN>
+<TOKEN end_char="1094" id="token-8-15" morph="none" pos="word" start_char="1089">median</TOKEN>
+<TOKEN end_char="1098" id="token-8-16" morph="none" pos="word" start_char="1096">age</TOKEN>
+<TOKEN end_char="1099" id="token-8-17" morph="none" pos="punct" start_char="1099">,</TOKEN>
+<TOKEN end_char="1102" id="token-8-18" morph="none" pos="word" start_char="1101">37</TOKEN>
+<TOKEN end_char="1108" id="token-8-19" morph="none" pos="word" start_char="1104">years</TOKEN>
+<TOKEN end_char="1109" id="token-8-20" morph="none" pos="punct" start_char="1109">;</TOKEN>
+<TOKEN end_char="1112" id="token-8-21" morph="none" pos="word" start_char="1111">58</TOKEN>
+<TOKEN end_char="1113" id="token-8-22" morph="none" pos="punct" start_char="1113">%</TOKEN>
+<TOKEN end_char="1119" id="token-8-23" morph="none" pos="word" start_char="1115">women</TOKEN>
+<TOKEN end_char="1120" id="token-8-24" morph="none" pos="punct" start_char="1120">)</TOKEN>
+<TOKEN end_char="1125" id="token-8-25" morph="none" pos="word" start_char="1122">were</TOKEN>
+<TOKEN end_char="1134" id="token-8-26" morph="none" pos="word" start_char="1127">randomly</TOKEN>
+<TOKEN end_char="1143" id="token-8-27" morph="none" pos="word" start_char="1136">assigned</TOKEN>
+<TOKEN end_char="1146" id="token-8-28" morph="none" pos="word" start_char="1145">to</TOKEN>
+<TOKEN end_char="1154" id="token-8-29" morph="none" pos="word" start_char="1148">receive</TOKEN>
+<TOKEN end_char="1165" id="token-8-30" morph="none" pos="word" start_char="1156">ivermectin</TOKEN>
+<TOKEN end_char="1174" id="token-8-31" morph="none" pos="unknown" start_char="1167">300μg/kg</TOKEN>
+<TOKEN end_char="1177" id="token-8-32" morph="none" pos="word" start_char="1176">of</TOKEN>
+<TOKEN end_char="1182" id="token-8-33" morph="none" pos="word" start_char="1179">body</TOKEN>
+<TOKEN end_char="1193" id="token-8-34" morph="none" pos="unknown" start_char="1184">weight/day</TOKEN>
+<TOKEN end_char="1197" id="token-8-35" morph="none" pos="word" start_char="1195">for</TOKEN>
+<TOKEN end_char="1199" id="token-8-36" morph="none" pos="word" start_char="1199">5</TOKEN>
+<TOKEN end_char="1204" id="token-8-37" morph="none" pos="word" start_char="1201">days</TOKEN>
+<TOKEN end_char="1206" id="token-8-38" morph="none" pos="punct" start_char="1206">(</TOKEN>
+<TOKEN end_char="1211" id="token-8-39" morph="none" pos="unknown" start_char="1207">n=200</TOKEN>
+<TOKEN end_char="1212" id="token-8-40" morph="none" pos="punct" start_char="1212">)</TOKEN>
+<TOKEN end_char="1215" id="token-8-41" morph="none" pos="word" start_char="1214">or</TOKEN>
+<TOKEN end_char="1223" id="token-8-42" morph="none" pos="word" start_char="1217">placebo</TOKEN>
+<TOKEN end_char="1225" id="token-8-43" morph="none" pos="punct" start_char="1225">(</TOKEN>
+<TOKEN end_char="1230" id="token-8-44" morph="none" pos="unknown" start_char="1226">n=200</TOKEN>
+<TOKEN end_char="1232" id="token-8-45" morph="none" pos="punct" start_char="1231">).</TOKEN>
+</SEG>
+<SEG end_char="1366" id="segment-9" start_char="1234">
+<ORIGINAL_TEXT>The primary outcome measure of the study was the time to complete resolution of COVID-19 symptoms within the 21-day follow-up period.</ORIGINAL_TEXT>
+<TOKEN end_char="1236" id="token-9-0" morph="none" pos="word" start_char="1234">The</TOKEN>
+<TOKEN end_char="1244" id="token-9-1" morph="none" pos="word" start_char="1238">primary</TOKEN>
+<TOKEN end_char="1252" id="token-9-2" morph="none" pos="word" start_char="1246">outcome</TOKEN>
+<TOKEN end_char="1260" id="token-9-3" morph="none" pos="word" start_char="1254">measure</TOKEN>
+<TOKEN end_char="1263" id="token-9-4" morph="none" pos="word" start_char="1262">of</TOKEN>
+<TOKEN end_char="1267" id="token-9-5" morph="none" pos="word" start_char="1265">the</TOKEN>
+<TOKEN end_char="1273" id="token-9-6" morph="none" pos="word" start_char="1269">study</TOKEN>
+<TOKEN end_char="1277" id="token-9-7" morph="none" pos="word" start_char="1275">was</TOKEN>
+<TOKEN end_char="1281" id="token-9-8" morph="none" pos="word" start_char="1279">the</TOKEN>
+<TOKEN end_char="1286" id="token-9-9" morph="none" pos="word" start_char="1283">time</TOKEN>
+<TOKEN end_char="1289" id="token-9-10" morph="none" pos="word" start_char="1288">to</TOKEN>
+<TOKEN end_char="1298" id="token-9-11" morph="none" pos="word" start_char="1291">complete</TOKEN>
+<TOKEN end_char="1309" id="token-9-12" morph="none" pos="word" start_char="1300">resolution</TOKEN>
+<TOKEN end_char="1312" id="token-9-13" morph="none" pos="word" start_char="1311">of</TOKEN>
+<TOKEN end_char="1321" id="token-9-14" morph="none" pos="unknown" start_char="1314">COVID-19</TOKEN>
+<TOKEN end_char="1330" id="token-9-15" morph="none" pos="word" start_char="1323">symptoms</TOKEN>
+<TOKEN end_char="1337" id="token-9-16" morph="none" pos="word" start_char="1332">within</TOKEN>
+<TOKEN end_char="1341" id="token-9-17" morph="none" pos="word" start_char="1339">the</TOKEN>
+<TOKEN end_char="1348" id="token-9-18" morph="none" pos="unknown" start_char="1343">21-day</TOKEN>
+<TOKEN end_char="1358" id="token-9-19" morph="none" pos="unknown" start_char="1350">follow-up</TOKEN>
+<TOKEN end_char="1365" id="token-9-20" morph="none" pos="word" start_char="1360">period</TOKEN>
+<TOKEN end_char="1366" id="token-9-21" morph="none" pos="punct" start_char="1366">.</TOKEN>
+</SEG>
+<SEG end_char="1660" id="segment-10" start_char="1369">
+<ORIGINAL_TEXT>Among the 398 patients that completed the trial, results showed the median time to resolution of COVID-19 symptoms was 10 days (interquartile range [IQR], 9-13) for patients who received ivermectin and 12 days (IQR, 9-13) for those who received placebo (hazard ratio 1.07 [95% CI, 0.87-1.32];</ORIGINAL_TEXT>
+<TOKEN end_char="1373" id="token-10-0" morph="none" pos="word" start_char="1369">Among</TOKEN>
+<TOKEN end_char="1377" id="token-10-1" morph="none" pos="word" start_char="1375">the</TOKEN>
+<TOKEN end_char="1381" id="token-10-2" morph="none" pos="word" start_char="1379">398</TOKEN>
+<TOKEN end_char="1390" id="token-10-3" morph="none" pos="word" start_char="1383">patients</TOKEN>
+<TOKEN end_char="1395" id="token-10-4" morph="none" pos="word" start_char="1392">that</TOKEN>
+<TOKEN end_char="1405" id="token-10-5" morph="none" pos="word" start_char="1397">completed</TOKEN>
+<TOKEN end_char="1409" id="token-10-6" morph="none" pos="word" start_char="1407">the</TOKEN>
+<TOKEN end_char="1415" id="token-10-7" morph="none" pos="word" start_char="1411">trial</TOKEN>
+<TOKEN end_char="1416" id="token-10-8" morph="none" pos="punct" start_char="1416">,</TOKEN>
+<TOKEN end_char="1424" id="token-10-9" morph="none" pos="word" start_char="1418">results</TOKEN>
+<TOKEN end_char="1431" id="token-10-10" morph="none" pos="word" start_char="1426">showed</TOKEN>
+<TOKEN end_char="1435" id="token-10-11" morph="none" pos="word" start_char="1433">the</TOKEN>
+<TOKEN end_char="1442" id="token-10-12" morph="none" pos="word" start_char="1437">median</TOKEN>
+<TOKEN end_char="1447" id="token-10-13" morph="none" pos="word" start_char="1444">time</TOKEN>
+<TOKEN end_char="1450" id="token-10-14" morph="none" pos="word" start_char="1449">to</TOKEN>
+<TOKEN end_char="1461" id="token-10-15" morph="none" pos="word" start_char="1452">resolution</TOKEN>
+<TOKEN end_char="1464" id="token-10-16" morph="none" pos="word" start_char="1463">of</TOKEN>
+<TOKEN end_char="1473" id="token-10-17" morph="none" pos="unknown" start_char="1466">COVID-19</TOKEN>
+<TOKEN end_char="1482" id="token-10-18" morph="none" pos="word" start_char="1475">symptoms</TOKEN>
+<TOKEN end_char="1486" id="token-10-19" morph="none" pos="word" start_char="1484">was</TOKEN>
+<TOKEN end_char="1489" id="token-10-20" morph="none" pos="word" start_char="1488">10</TOKEN>
+<TOKEN end_char="1494" id="token-10-21" morph="none" pos="word" start_char="1491">days</TOKEN>
+<TOKEN end_char="1496" id="token-10-22" morph="none" pos="punct" start_char="1496">(</TOKEN>
+<TOKEN end_char="1509" id="token-10-23" morph="none" pos="word" start_char="1497">interquartile</TOKEN>
+<TOKEN end_char="1515" id="token-10-24" morph="none" pos="word" start_char="1511">range</TOKEN>
+<TOKEN end_char="1517" id="token-10-25" morph="none" pos="punct" start_char="1517">[</TOKEN>
+<TOKEN end_char="1520" id="token-10-26" morph="none" pos="word" start_char="1518">IQR</TOKEN>
+<TOKEN end_char="1522" id="token-10-27" morph="none" pos="punct" start_char="1521">],</TOKEN>
+<TOKEN end_char="1527" id="token-10-28" morph="none" pos="unknown" start_char="1524">9-13</TOKEN>
+<TOKEN end_char="1528" id="token-10-29" morph="none" pos="punct" start_char="1528">)</TOKEN>
+<TOKEN end_char="1532" id="token-10-30" morph="none" pos="word" start_char="1530">for</TOKEN>
+<TOKEN end_char="1541" id="token-10-31" morph="none" pos="word" start_char="1534">patients</TOKEN>
+<TOKEN end_char="1545" id="token-10-32" morph="none" pos="word" start_char="1543">who</TOKEN>
+<TOKEN end_char="1554" id="token-10-33" morph="none" pos="word" start_char="1547">received</TOKEN>
+<TOKEN end_char="1565" id="token-10-34" morph="none" pos="word" start_char="1556">ivermectin</TOKEN>
+<TOKEN end_char="1569" id="token-10-35" morph="none" pos="word" start_char="1567">and</TOKEN>
+<TOKEN end_char="1572" id="token-10-36" morph="none" pos="word" start_char="1571">12</TOKEN>
+<TOKEN end_char="1577" id="token-10-37" morph="none" pos="word" start_char="1574">days</TOKEN>
+<TOKEN end_char="1579" id="token-10-38" morph="none" pos="punct" start_char="1579">(</TOKEN>
+<TOKEN end_char="1582" id="token-10-39" morph="none" pos="word" start_char="1580">IQR</TOKEN>
+<TOKEN end_char="1583" id="token-10-40" morph="none" pos="punct" start_char="1583">,</TOKEN>
+<TOKEN end_char="1588" id="token-10-41" morph="none" pos="unknown" start_char="1585">9-13</TOKEN>
+<TOKEN end_char="1589" id="token-10-42" morph="none" pos="punct" start_char="1589">)</TOKEN>
+<TOKEN end_char="1593" id="token-10-43" morph="none" pos="word" start_char="1591">for</TOKEN>
+<TOKEN end_char="1599" id="token-10-44" morph="none" pos="word" start_char="1595">those</TOKEN>
+<TOKEN end_char="1603" id="token-10-45" morph="none" pos="word" start_char="1601">who</TOKEN>
+<TOKEN end_char="1612" id="token-10-46" morph="none" pos="word" start_char="1605">received</TOKEN>
+<TOKEN end_char="1620" id="token-10-47" morph="none" pos="word" start_char="1614">placebo</TOKEN>
+<TOKEN end_char="1622" id="token-10-48" morph="none" pos="punct" start_char="1622">(</TOKEN>
+<TOKEN end_char="1628" id="token-10-49" morph="none" pos="word" start_char="1623">hazard</TOKEN>
+<TOKEN end_char="1634" id="token-10-50" morph="none" pos="word" start_char="1630">ratio</TOKEN>
+<TOKEN end_char="1639" id="token-10-51" morph="none" pos="word" start_char="1636">1.07</TOKEN>
+<TOKEN end_char="1641" id="token-10-52" morph="none" pos="punct" start_char="1641">[</TOKEN>
+<TOKEN end_char="1643" id="token-10-53" morph="none" pos="word" start_char="1642">95</TOKEN>
+<TOKEN end_char="1644" id="token-10-54" morph="none" pos="punct" start_char="1644">%</TOKEN>
+<TOKEN end_char="1647" id="token-10-55" morph="none" pos="word" start_char="1646">CI</TOKEN>
+<TOKEN end_char="1648" id="token-10-56" morph="none" pos="punct" start_char="1648">,</TOKEN>
+<TOKEN end_char="1658" id="token-10-57" morph="none" pos="unknown" start_char="1650">0.87-1.32</TOKEN>
+<TOKEN end_char="1660" id="token-10-58" morph="none" pos="punct" start_char="1659">];</TOKEN>
+</SEG>
+<SEG end_char="1663" id="segment-11" start_char="1663">
+<ORIGINAL_TEXT>P</ORIGINAL_TEXT>
+<TOKEN end_char="1663" id="token-11-0" morph="none" pos="word" start_char="1663">P</TOKEN>
+</SEG>
+<SEG end_char="1671" id="segment-12" start_char="1666">
+<ORIGINAL_TEXT>=.53).</ORIGINAL_TEXT>
+<TOKEN end_char="1671" id="token-12-0" morph="none" pos="unknown" start_char="1666">=.53).</TOKEN>
+<TRANSLATED_TEXT>(53).</TRANSLATED_TEXT><DETECTED_LANGUAGE /></SEG>
+<SEG end_char="1774" id="segment-13" start_char="1673">
+<ORIGINAL_TEXT>By day 21, symptoms had resolved for 82% of the ivermectin-treated group and 79% of the placebo group.</ORIGINAL_TEXT>
+<TOKEN end_char="1674" id="token-13-0" morph="none" pos="word" start_char="1673">By</TOKEN>
+<TOKEN end_char="1678" id="token-13-1" morph="none" pos="word" start_char="1676">day</TOKEN>
+<TOKEN end_char="1681" id="token-13-2" morph="none" pos="word" start_char="1680">21</TOKEN>
+<TOKEN end_char="1682" id="token-13-3" morph="none" pos="punct" start_char="1682">,</TOKEN>
+<TOKEN end_char="1691" id="token-13-4" morph="none" pos="word" start_char="1684">symptoms</TOKEN>
+<TOKEN end_char="1695" id="token-13-5" morph="none" pos="word" start_char="1693">had</TOKEN>
+<TOKEN end_char="1704" id="token-13-6" morph="none" pos="word" start_char="1697">resolved</TOKEN>
+<TOKEN end_char="1708" id="token-13-7" morph="none" pos="word" start_char="1706">for</TOKEN>
+<TOKEN end_char="1711" id="token-13-8" morph="none" pos="word" start_char="1710">82</TOKEN>
+<TOKEN end_char="1712" id="token-13-9" morph="none" pos="punct" start_char="1712">%</TOKEN>
+<TOKEN end_char="1715" id="token-13-10" morph="none" pos="word" start_char="1714">of</TOKEN>
+<TOKEN end_char="1719" id="token-13-11" morph="none" pos="word" start_char="1717">the</TOKEN>
+<TOKEN end_char="1738" id="token-13-12" morph="none" pos="unknown" start_char="1721">ivermectin-treated</TOKEN>
+<TOKEN end_char="1744" id="token-13-13" morph="none" pos="word" start_char="1740">group</TOKEN>
+<TOKEN end_char="1748" id="token-13-14" morph="none" pos="word" start_char="1746">and</TOKEN>
+<TOKEN end_char="1751" id="token-13-15" morph="none" pos="word" start_char="1750">79</TOKEN>
+<TOKEN end_char="1752" id="token-13-16" morph="none" pos="punct" start_char="1752">%</TOKEN>
+<TOKEN end_char="1755" id="token-13-17" morph="none" pos="word" start_char="1754">of</TOKEN>
+<TOKEN end_char="1759" id="token-13-18" morph="none" pos="word" start_char="1757">the</TOKEN>
+<TOKEN end_char="1767" id="token-13-19" morph="none" pos="word" start_char="1761">placebo</TOKEN>
+<TOKEN end_char="1773" id="token-13-20" morph="none" pos="word" start_char="1769">group</TOKEN>
+<TOKEN end_char="1774" id="token-13-21" morph="none" pos="punct" start_char="1774">.</TOKEN>
+</SEG>
+<SEG end_char="1882" id="segment-14" start_char="1777">
+<ORIGINAL_TEXT>As for safety, adverse events were reported by 77% of the ivermectin group and 81.3% of the placebo group.</ORIGINAL_TEXT>
+<TOKEN end_char="1778" id="token-14-0" morph="none" pos="word" start_char="1777">As</TOKEN>
+<TOKEN end_char="1782" id="token-14-1" morph="none" pos="word" start_char="1780">for</TOKEN>
+<TOKEN end_char="1789" id="token-14-2" morph="none" pos="word" start_char="1784">safety</TOKEN>
+<TOKEN end_char="1790" id="token-14-3" morph="none" pos="punct" start_char="1790">,</TOKEN>
+<TOKEN end_char="1798" id="token-14-4" morph="none" pos="word" start_char="1792">adverse</TOKEN>
+<TOKEN end_char="1805" id="token-14-5" morph="none" pos="word" start_char="1800">events</TOKEN>
+<TOKEN end_char="1810" id="token-14-6" morph="none" pos="word" start_char="1807">were</TOKEN>
+<TOKEN end_char="1819" id="token-14-7" morph="none" pos="word" start_char="1812">reported</TOKEN>
+<TOKEN end_char="1822" id="token-14-8" morph="none" pos="word" start_char="1821">by</TOKEN>
+<TOKEN end_char="1825" id="token-14-9" morph="none" pos="word" start_char="1824">77</TOKEN>
+<TOKEN end_char="1826" id="token-14-10" morph="none" pos="punct" start_char="1826">%</TOKEN>
+<TOKEN end_char="1829" id="token-14-11" morph="none" pos="word" start_char="1828">of</TOKEN>
+<TOKEN end_char="1833" id="token-14-12" morph="none" pos="word" start_char="1831">the</TOKEN>
+<TOKEN end_char="1844" id="token-14-13" morph="none" pos="word" start_char="1835">ivermectin</TOKEN>
+<TOKEN end_char="1850" id="token-14-14" morph="none" pos="word" start_char="1846">group</TOKEN>
+<TOKEN end_char="1854" id="token-14-15" morph="none" pos="word" start_char="1852">and</TOKEN>
+<TOKEN end_char="1859" id="token-14-16" morph="none" pos="unknown" start_char="1856">81.3</TOKEN>
+<TOKEN end_char="1860" id="token-14-17" morph="none" pos="punct" start_char="1860">%</TOKEN>
+<TOKEN end_char="1863" id="token-14-18" morph="none" pos="word" start_char="1862">of</TOKEN>
+<TOKEN end_char="1867" id="token-14-19" morph="none" pos="word" start_char="1865">the</TOKEN>
+<TOKEN end_char="1875" id="token-14-20" morph="none" pos="word" start_char="1869">placebo</TOKEN>
+<TOKEN end_char="1881" id="token-14-21" morph="none" pos="word" start_char="1877">group</TOKEN>
+<TOKEN end_char="1882" id="token-14-22" morph="none" pos="punct" start_char="1882">.</TOKEN>
+</SEG>
+<SEG end_char="1995" id="segment-15" start_char="1884">
+<ORIGINAL_TEXT>Headache was the most common solicited adverse event (52% in the ivermectin group and 56% in the placebo group).</ORIGINAL_TEXT>
+<TOKEN end_char="1891" id="token-15-0" morph="none" pos="word" start_char="1884">Headache</TOKEN>
+<TOKEN end_char="1895" id="token-15-1" morph="none" pos="word" start_char="1893">was</TOKEN>
+<TOKEN end_char="1899" id="token-15-2" morph="none" pos="word" start_char="1897">the</TOKEN>
+<TOKEN end_char="1904" id="token-15-3" morph="none" pos="word" start_char="1901">most</TOKEN>
+<TOKEN end_char="1911" id="token-15-4" morph="none" pos="word" start_char="1906">common</TOKEN>
+<TOKEN end_char="1921" id="token-15-5" morph="none" pos="word" start_char="1913">solicited</TOKEN>
+<TOKEN end_char="1929" id="token-15-6" morph="none" pos="word" start_char="1923">adverse</TOKEN>
+<TOKEN end_char="1935" id="token-15-7" morph="none" pos="word" start_char="1931">event</TOKEN>
+<TOKEN end_char="1937" id="token-15-8" morph="none" pos="punct" start_char="1937">(</TOKEN>
+<TOKEN end_char="1939" id="token-15-9" morph="none" pos="word" start_char="1938">52</TOKEN>
+<TOKEN end_char="1940" id="token-15-10" morph="none" pos="punct" start_char="1940">%</TOKEN>
+<TOKEN end_char="1943" id="token-15-11" morph="none" pos="word" start_char="1942">in</TOKEN>
+<TOKEN end_char="1947" id="token-15-12" morph="none" pos="word" start_char="1945">the</TOKEN>
+<TOKEN end_char="1958" id="token-15-13" morph="none" pos="word" start_char="1949">ivermectin</TOKEN>
+<TOKEN end_char="1964" id="token-15-14" morph="none" pos="word" start_char="1960">group</TOKEN>
+<TOKEN end_char="1968" id="token-15-15" morph="none" pos="word" start_char="1966">and</TOKEN>
+<TOKEN end_char="1971" id="token-15-16" morph="none" pos="word" start_char="1970">56</TOKEN>
+<TOKEN end_char="1972" id="token-15-17" morph="none" pos="punct" start_char="1972">%</TOKEN>
+<TOKEN end_char="1975" id="token-15-18" morph="none" pos="word" start_char="1974">in</TOKEN>
+<TOKEN end_char="1979" id="token-15-19" morph="none" pos="word" start_char="1977">the</TOKEN>
+<TOKEN end_char="1987" id="token-15-20" morph="none" pos="word" start_char="1981">placebo</TOKEN>
+<TOKEN end_char="1993" id="token-15-21" morph="none" pos="word" start_char="1989">group</TOKEN>
+<TOKEN end_char="1995" id="token-15-22" morph="none" pos="punct" start_char="1994">).</TOKEN>
+</SEG>
+<SEG end_char="2233" id="segment-16" start_char="1998">
+<ORIGINAL_TEXT>The authors noted several limitations of the trial including a change in study design 6 weeks in (the original outcome measure was meant to assess clinical deterioration), a lack of virological assessments, and a young study population.</ORIGINAL_TEXT>
+<TOKEN end_char="2000" id="token-16-0" morph="none" pos="word" start_char="1998">The</TOKEN>
+<TOKEN end_char="2008" id="token-16-1" morph="none" pos="word" start_char="2002">authors</TOKEN>
+<TOKEN end_char="2014" id="token-16-2" morph="none" pos="word" start_char="2010">noted</TOKEN>
+<TOKEN end_char="2022" id="token-16-3" morph="none" pos="word" start_char="2016">several</TOKEN>
+<TOKEN end_char="2034" id="token-16-4" morph="none" pos="word" start_char="2024">limitations</TOKEN>
+<TOKEN end_char="2037" id="token-16-5" morph="none" pos="word" start_char="2036">of</TOKEN>
+<TOKEN end_char="2041" id="token-16-6" morph="none" pos="word" start_char="2039">the</TOKEN>
+<TOKEN end_char="2047" id="token-16-7" morph="none" pos="word" start_char="2043">trial</TOKEN>
+<TOKEN end_char="2057" id="token-16-8" morph="none" pos="word" start_char="2049">including</TOKEN>
+<TOKEN end_char="2059" id="token-16-9" morph="none" pos="word" start_char="2059">a</TOKEN>
+<TOKEN end_char="2066" id="token-16-10" morph="none" pos="word" start_char="2061">change</TOKEN>
+<TOKEN end_char="2069" id="token-16-11" morph="none" pos="word" start_char="2068">in</TOKEN>
+<TOKEN end_char="2075" id="token-16-12" morph="none" pos="word" start_char="2071">study</TOKEN>
+<TOKEN end_char="2082" id="token-16-13" morph="none" pos="word" start_char="2077">design</TOKEN>
+<TOKEN end_char="2084" id="token-16-14" morph="none" pos="word" start_char="2084">6</TOKEN>
+<TOKEN end_char="2090" id="token-16-15" morph="none" pos="word" start_char="2086">weeks</TOKEN>
+<TOKEN end_char="2093" id="token-16-16" morph="none" pos="word" start_char="2092">in</TOKEN>
+<TOKEN end_char="2095" id="token-16-17" morph="none" pos="punct" start_char="2095">(</TOKEN>
+<TOKEN end_char="2098" id="token-16-18" morph="none" pos="word" start_char="2096">the</TOKEN>
+<TOKEN end_char="2107" id="token-16-19" morph="none" pos="word" start_char="2100">original</TOKEN>
+<TOKEN end_char="2115" id="token-16-20" morph="none" pos="word" start_char="2109">outcome</TOKEN>
+<TOKEN end_char="2123" id="token-16-21" morph="none" pos="word" start_char="2117">measure</TOKEN>
+<TOKEN end_char="2127" id="token-16-22" morph="none" pos="word" start_char="2125">was</TOKEN>
+<TOKEN end_char="2133" id="token-16-23" morph="none" pos="word" start_char="2129">meant</TOKEN>
+<TOKEN end_char="2136" id="token-16-24" morph="none" pos="word" start_char="2135">to</TOKEN>
+<TOKEN end_char="2143" id="token-16-25" morph="none" pos="word" start_char="2138">assess</TOKEN>
+<TOKEN end_char="2152" id="token-16-26" morph="none" pos="word" start_char="2145">clinical</TOKEN>
+<TOKEN end_char="2166" id="token-16-27" morph="none" pos="word" start_char="2154">deterioration</TOKEN>
+<TOKEN end_char="2168" id="token-16-28" morph="none" pos="punct" start_char="2167">),</TOKEN>
+<TOKEN end_char="2170" id="token-16-29" morph="none" pos="word" start_char="2170">a</TOKEN>
+<TOKEN end_char="2175" id="token-16-30" morph="none" pos="word" start_char="2172">lack</TOKEN>
+<TOKEN end_char="2178" id="token-16-31" morph="none" pos="word" start_char="2177">of</TOKEN>
+<TOKEN end_char="2190" id="token-16-32" morph="none" pos="word" start_char="2180">virological</TOKEN>
+<TOKEN end_char="2202" id="token-16-33" morph="none" pos="word" start_char="2192">assessments</TOKEN>
+<TOKEN end_char="2203" id="token-16-34" morph="none" pos="punct" start_char="2203">,</TOKEN>
+<TOKEN end_char="2207" id="token-16-35" morph="none" pos="word" start_char="2205">and</TOKEN>
+<TOKEN end_char="2209" id="token-16-36" morph="none" pos="word" start_char="2209">a</TOKEN>
+<TOKEN end_char="2215" id="token-16-37" morph="none" pos="word" start_char="2211">young</TOKEN>
+<TOKEN end_char="2221" id="token-16-38" morph="none" pos="word" start_char="2217">study</TOKEN>
+<TOKEN end_char="2232" id="token-16-39" morph="none" pos="word" start_char="2223">population</TOKEN>
+<TOKEN end_char="2233" id="token-16-40" morph="none" pos="punct" start_char="2233">.</TOKEN>
+</SEG>
+<SEG end_char="2457" id="segment-17" start_char="2236">
+<ORIGINAL_TEXT>"The findings do not support the use of ivermectin for treatment of mild COVID-19, although larger trials may be needed to understand the effects of ivermectin on other clinically relevant outcomes," the authors concluded.</ORIGINAL_TEXT>
+<TOKEN end_char="2236" id="token-17-0" morph="none" pos="punct" start_char="2236">"</TOKEN>
+<TOKEN end_char="2239" id="token-17-1" morph="none" pos="word" start_char="2237">The</TOKEN>
+<TOKEN end_char="2248" id="token-17-2" morph="none" pos="word" start_char="2241">findings</TOKEN>
+<TOKEN end_char="2251" id="token-17-3" morph="none" pos="word" start_char="2250">do</TOKEN>
+<TOKEN end_char="2255" id="token-17-4" morph="none" pos="word" start_char="2253">not</TOKEN>
+<TOKEN end_char="2263" id="token-17-5" morph="none" pos="word" start_char="2257">support</TOKEN>
+<TOKEN end_char="2267" id="token-17-6" morph="none" pos="word" start_char="2265">the</TOKEN>
+<TOKEN end_char="2271" id="token-17-7" morph="none" pos="word" start_char="2269">use</TOKEN>
+<TOKEN end_char="2274" id="token-17-8" morph="none" pos="word" start_char="2273">of</TOKEN>
+<TOKEN end_char="2285" id="token-17-9" morph="none" pos="word" start_char="2276">ivermectin</TOKEN>
+<TOKEN end_char="2289" id="token-17-10" morph="none" pos="word" start_char="2287">for</TOKEN>
+<TOKEN end_char="2299" id="token-17-11" morph="none" pos="word" start_char="2291">treatment</TOKEN>
+<TOKEN end_char="2302" id="token-17-12" morph="none" pos="word" start_char="2301">of</TOKEN>
+<TOKEN end_char="2307" id="token-17-13" morph="none" pos="word" start_char="2304">mild</TOKEN>
+<TOKEN end_char="2316" id="token-17-14" morph="none" pos="unknown" start_char="2309">COVID-19</TOKEN>
+<TOKEN end_char="2317" id="token-17-15" morph="none" pos="punct" start_char="2317">,</TOKEN>
+<TOKEN end_char="2326" id="token-17-16" morph="none" pos="word" start_char="2319">although</TOKEN>
+<TOKEN end_char="2333" id="token-17-17" morph="none" pos="word" start_char="2328">larger</TOKEN>
+<TOKEN end_char="2340" id="token-17-18" morph="none" pos="word" start_char="2335">trials</TOKEN>
+<TOKEN end_char="2344" id="token-17-19" morph="none" pos="word" start_char="2342">may</TOKEN>
+<TOKEN end_char="2347" id="token-17-20" morph="none" pos="word" start_char="2346">be</TOKEN>
+<TOKEN end_char="2354" id="token-17-21" morph="none" pos="word" start_char="2349">needed</TOKEN>
+<TOKEN end_char="2357" id="token-17-22" morph="none" pos="word" start_char="2356">to</TOKEN>
+<TOKEN end_char="2368" id="token-17-23" morph="none" pos="word" start_char="2359">understand</TOKEN>
+<TOKEN end_char="2372" id="token-17-24" morph="none" pos="word" start_char="2370">the</TOKEN>
+<TOKEN end_char="2380" id="token-17-25" morph="none" pos="word" start_char="2374">effects</TOKEN>
+<TOKEN end_char="2383" id="token-17-26" morph="none" pos="word" start_char="2382">of</TOKEN>
+<TOKEN end_char="2394" id="token-17-27" morph="none" pos="word" start_char="2385">ivermectin</TOKEN>
+<TOKEN end_char="2397" id="token-17-28" morph="none" pos="word" start_char="2396">on</TOKEN>
+<TOKEN end_char="2403" id="token-17-29" morph="none" pos="word" start_char="2399">other</TOKEN>
+<TOKEN end_char="2414" id="token-17-30" morph="none" pos="word" start_char="2405">clinically</TOKEN>
+<TOKEN end_char="2423" id="token-17-31" morph="none" pos="word" start_char="2416">relevant</TOKEN>
+<TOKEN end_char="2432" id="token-17-32" morph="none" pos="word" start_char="2425">outcomes</TOKEN>
+<TOKEN end_char="2434" id="token-17-33" morph="none" pos="punct" start_char="2433">,"</TOKEN>
+<TOKEN end_char="2438" id="token-17-34" morph="none" pos="word" start_char="2436">the</TOKEN>
+<TOKEN end_char="2446" id="token-17-35" morph="none" pos="word" start_char="2440">authors</TOKEN>
+<TOKEN end_char="2456" id="token-17-36" morph="none" pos="word" start_char="2448">concluded</TOKEN>
+<TOKEN end_char="2457" id="token-17-37" morph="none" pos="punct" start_char="2457">.</TOKEN>
+</SEG>
+<SEG end_char="2569" id="segment-18" start_char="2460">
+<ORIGINAL_TEXT>Disclosure: Some authors have declared affiliations with or received funding from the pharmaceutical industry.</ORIGINAL_TEXT>
+<TOKEN end_char="2469" id="token-18-0" morph="none" pos="word" start_char="2460">Disclosure</TOKEN>
+<TOKEN end_char="2470" id="token-18-1" morph="none" pos="punct" start_char="2470">:</TOKEN>
+<TOKEN end_char="2475" id="token-18-2" morph="none" pos="word" start_char="2472">Some</TOKEN>
+<TOKEN end_char="2483" id="token-18-3" morph="none" pos="word" start_char="2477">authors</TOKEN>
+<TOKEN end_char="2488" id="token-18-4" morph="none" pos="word" start_char="2485">have</TOKEN>
+<TOKEN end_char="2497" id="token-18-5" morph="none" pos="word" start_char="2490">declared</TOKEN>
+<TOKEN end_char="2510" id="token-18-6" morph="none" pos="word" start_char="2499">affiliations</TOKEN>
+<TOKEN end_char="2515" id="token-18-7" morph="none" pos="word" start_char="2512">with</TOKEN>
+<TOKEN end_char="2518" id="token-18-8" morph="none" pos="word" start_char="2517">or</TOKEN>
+<TOKEN end_char="2527" id="token-18-9" morph="none" pos="word" start_char="2520">received</TOKEN>
+<TOKEN end_char="2535" id="token-18-10" morph="none" pos="word" start_char="2529">funding</TOKEN>
+<TOKEN end_char="2540" id="token-18-11" morph="none" pos="word" start_char="2537">from</TOKEN>
+<TOKEN end_char="2544" id="token-18-12" morph="none" pos="word" start_char="2542">the</TOKEN>
+<TOKEN end_char="2559" id="token-18-13" morph="none" pos="word" start_char="2546">pharmaceutical</TOKEN>
+<TOKEN end_char="2568" id="token-18-14" morph="none" pos="word" start_char="2561">industry</TOKEN>
+<TOKEN end_char="2569" id="token-18-15" morph="none" pos="punct" start_char="2569">.</TOKEN>
+</SEG>
+<SEG end_char="2636" id="segment-19" start_char="2571">
+<ORIGINAL_TEXT>Please refer to the original study for a full list of disclosures.</ORIGINAL_TEXT>
+<TOKEN end_char="2576" id="token-19-0" morph="none" pos="word" start_char="2571">Please</TOKEN>
+<TOKEN end_char="2582" id="token-19-1" morph="none" pos="word" start_char="2578">refer</TOKEN>
+<TOKEN end_char="2585" id="token-19-2" morph="none" pos="word" start_char="2584">to</TOKEN>
+<TOKEN end_char="2589" id="token-19-3" morph="none" pos="word" start_char="2587">the</TOKEN>
+<TOKEN end_char="2598" id="token-19-4" morph="none" pos="word" start_char="2591">original</TOKEN>
+<TOKEN end_char="2604" id="token-19-5" morph="none" pos="word" start_char="2600">study</TOKEN>
+<TOKEN end_char="2608" id="token-19-6" morph="none" pos="word" start_char="2606">for</TOKEN>
+<TOKEN end_char="2610" id="token-19-7" morph="none" pos="word" start_char="2610">a</TOKEN>
+<TOKEN end_char="2615" id="token-19-8" morph="none" pos="word" start_char="2612">full</TOKEN>
+<TOKEN end_char="2620" id="token-19-9" morph="none" pos="word" start_char="2617">list</TOKEN>
+<TOKEN end_char="2623" id="token-19-10" morph="none" pos="word" start_char="2622">of</TOKEN>
+<TOKEN end_char="2635" id="token-19-11" morph="none" pos="word" start_char="2625">disclosures</TOKEN>
+<TOKEN end_char="2636" id="token-19-12" morph="none" pos="punct" start_char="2636">.</TOKEN>
+</SEG>
+<SEG end_char="2648" id="segment-20" start_char="2640">
+<ORIGINAL_TEXT>Reference</ORIGINAL_TEXT>
+<TOKEN end_char="2648" id="token-20-0" morph="none" pos="word" start_char="2640">Reference</TOKEN>
+</SEG>
+<SEG end_char="2694" id="segment-21" start_char="2652">
+<ORIGINAL_TEXT>López-Medina E, López P, Hurtado IC, et al.</ORIGINAL_TEXT>
+<TOKEN end_char="2663" id="token-21-0" morph="none" pos="unknown" start_char="2652">López-Medina</TOKEN>
+<TOKEN end_char="2665" id="token-21-1" morph="none" pos="word" start_char="2665">E</TOKEN>
+<TOKEN end_char="2666" id="token-21-2" morph="none" pos="punct" start_char="2666">,</TOKEN>
+<TOKEN end_char="2672" id="token-21-3" morph="none" pos="word" start_char="2668">López</TOKEN>
+<TOKEN end_char="2674" id="token-21-4" morph="none" pos="word" start_char="2674">P</TOKEN>
+<TOKEN end_char="2675" id="token-21-5" morph="none" pos="punct" start_char="2675">,</TOKEN>
+<TOKEN end_char="2683" id="token-21-6" morph="none" pos="word" start_char="2677">Hurtado</TOKEN>
+<TOKEN end_char="2686" id="token-21-7" morph="none" pos="word" start_char="2685">IC</TOKEN>
+<TOKEN end_char="2687" id="token-21-8" morph="none" pos="punct" start_char="2687">,</TOKEN>
+<TOKEN end_char="2690" id="token-21-9" morph="none" pos="word" start_char="2689">et</TOKEN>
+<TOKEN end_char="2693" id="token-21-10" morph="none" pos="word" start_char="2692">al</TOKEN>
+<TOKEN end_char="2694" id="token-21-11" morph="none" pos="punct" start_char="2694">.</TOKEN>
+<TRANSLATED_TEXT>Lopez-Medina E, Lopez P, Hurtado IC, et al.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2782" id="segment-22" start_char="2696">
+<ORIGINAL_TEXT>Effect of ivermectin on time to resolution of symptoms among adults with mild COVID-19.</ORIGINAL_TEXT>
+<TOKEN end_char="2701" id="token-22-0" morph="none" pos="word" start_char="2696">Effect</TOKEN>
+<TOKEN end_char="2704" id="token-22-1" morph="none" pos="word" start_char="2703">of</TOKEN>
+<TOKEN end_char="2715" id="token-22-2" morph="none" pos="word" start_char="2706">ivermectin</TOKEN>
+<TOKEN end_char="2718" id="token-22-3" morph="none" pos="word" start_char="2717">on</TOKEN>
+<TOKEN end_char="2723" id="token-22-4" morph="none" pos="word" start_char="2720">time</TOKEN>
+<TOKEN end_char="2726" id="token-22-5" morph="none" pos="word" start_char="2725">to</TOKEN>
+<TOKEN end_char="2737" id="token-22-6" morph="none" pos="word" start_char="2728">resolution</TOKEN>
+<TOKEN end_char="2740" id="token-22-7" morph="none" pos="word" start_char="2739">of</TOKEN>
+<TOKEN end_char="2749" id="token-22-8" morph="none" pos="word" start_char="2742">symptoms</TOKEN>
+<TOKEN end_char="2755" id="token-22-9" morph="none" pos="word" start_char="2751">among</TOKEN>
+<TOKEN end_char="2762" id="token-22-10" morph="none" pos="word" start_char="2757">adults</TOKEN>
+<TOKEN end_char="2767" id="token-22-11" morph="none" pos="word" start_char="2764">with</TOKEN>
+<TOKEN end_char="2772" id="token-22-12" morph="none" pos="word" start_char="2769">mild</TOKEN>
+<TOKEN end_char="2781" id="token-22-13" morph="none" pos="unknown" start_char="2774">COVID-19</TOKEN>
+<TOKEN end_char="2782" id="token-22-14" morph="none" pos="punct" start_char="2782">.</TOKEN>
+</SEG>
+<SEG end_char="2816" id="segment-23" start_char="2784">
+<ORIGINAL_TEXT>[Published online March 4, 2021].</ORIGINAL_TEXT>
+<TOKEN end_char="2784" id="token-23-0" morph="none" pos="punct" start_char="2784">[</TOKEN>
+<TOKEN end_char="2793" id="token-23-1" morph="none" pos="word" start_char="2785">Published</TOKEN>
+<TOKEN end_char="2800" id="token-23-2" morph="none" pos="word" start_char="2795">online</TOKEN>
+<TOKEN end_char="2806" id="token-23-3" morph="none" pos="word" start_char="2802">March</TOKEN>
+<TOKEN end_char="2808" id="token-23-4" morph="none" pos="word" start_char="2808">4</TOKEN>
+<TOKEN end_char="2809" id="token-23-5" morph="none" pos="punct" start_char="2809">,</TOKEN>
+<TOKEN end_char="2814" id="token-23-6" morph="none" pos="word" start_char="2811">2021</TOKEN>
+<TOKEN end_char="2816" id="token-23-7" morph="none" pos="punct" start_char="2815">].</TOKEN>
+</SEG>
+<SEG end_char="2822" id="segment-24" start_char="2819">
+<ORIGINAL_TEXT>JAMA</ORIGINAL_TEXT>
+<TOKEN end_char="2822" id="token-24-0" morph="none" pos="word" start_char="2819">JAMA</TOKEN>
+</SEG>
+<SEG end_char="2851" id="segment-25" start_char="2825">
+<ORIGINAL_TEXT>doi:10.1001/jama.2021.3071.</ORIGINAL_TEXT>
+<TOKEN end_char="2850" id="token-25-0" morph="none" pos="unknown" start_char="2825">doi:10.1001/jama.2021.3071</TOKEN>
+<TOKEN end_char="2851" id="token-25-1" morph="none" pos="punct" start_char="2851">.</TOKEN>
+<TRANSLATED_TEXT>doi: 10.1001 / jama.2021.3071.</TRANSLATED_TEXT><DETECTED_LANGUAGE>hr</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2892" id="segment-26" start_char="2854">
+<ORIGINAL_TEXT>This article originally appeared on MPR</ORIGINAL_TEXT>
+<TOKEN end_char="2857" id="token-26-0" morph="none" pos="word" start_char="2854">This</TOKEN>
+<TOKEN end_char="2865" id="token-26-1" morph="none" pos="word" start_char="2859">article</TOKEN>
+<TOKEN end_char="2876" id="token-26-2" morph="none" pos="word" start_char="2867">originally</TOKEN>
+<TOKEN end_char="2885" id="token-26-3" morph="none" pos="word" start_char="2878">appeared</TOKEN>
+<TOKEN end_char="2888" id="token-26-4" morph="none" pos="word" start_char="2887">on</TOKEN>
+<TOKEN end_char="2892" id="token-26-5" morph="none" pos="word" start_char="2890">MPR</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

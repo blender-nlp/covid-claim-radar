@@ -1,0 +1,249 @@
+<LCTL_TEXT lang="spa">
+<DOC grammar="none" id="L0C04CVM8" lang="spa" raw_text_char_length="1408" raw_text_md5="9d177779968fbf1bfcef6ce97e926bd6" tokenization="tokenization_parameters.v5.0">
+<TEXT>
+<SEG end_char="87" id="segment-0" start_char="1">
+<ORIGINAL_TEXT>Gotuzzo: Tratamiento ambulatorio temprano con hidroxicloroquina e ivermectina es seguro</ORIGINAL_TEXT>
+<TOKEN end_char="7" id="token-0-0" morph="none" pos="word" start_char="1">Gotuzzo</TOKEN>
+<TOKEN end_char="8" id="token-0-1" morph="none" pos="punct" start_char="8">:</TOKEN>
+<TOKEN end_char="20" id="token-0-2" morph="none" pos="word" start_char="10">Tratamiento</TOKEN>
+<TOKEN end_char="32" id="token-0-3" morph="none" pos="word" start_char="22">ambulatorio</TOKEN>
+<TOKEN end_char="41" id="token-0-4" morph="none" pos="word" start_char="34">temprano</TOKEN>
+<TOKEN end_char="45" id="token-0-5" morph="none" pos="word" start_char="43">con</TOKEN>
+<TOKEN end_char="63" id="token-0-6" morph="none" pos="word" start_char="47">hidroxicloroquina</TOKEN>
+<TOKEN end_char="65" id="token-0-7" morph="none" pos="word" start_char="65">e</TOKEN>
+<TOKEN end_char="77" id="token-0-8" morph="none" pos="word" start_char="67">ivermectina</TOKEN>
+<TOKEN end_char="80" id="token-0-9" morph="none" pos="word" start_char="79">es</TOKEN>
+<TOKEN end_char="87" id="token-0-10" morph="none" pos="word" start_char="82">seguro</TOKEN>
+<TRANSLATED_TEXT>Gotuzzo: Early ambulatory treatment with hydroxychloroquine and ivermectin is safe</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="110" id="segment-1" start_char="92">
+<ORIGINAL_TEXT>Imagen Referencial.</ORIGINAL_TEXT>
+<TOKEN end_char="97" id="token-1-0" morph="none" pos="word" start_char="92">Imagen</TOKEN>
+<TOKEN end_char="109" id="token-1-1" morph="none" pos="word" start_char="99">Referencial</TOKEN>
+<TOKEN end_char="110" id="token-1-2" morph="none" pos="punct" start_char="110">.</TOKEN>
+</SEG>
+<SEG end_char="123" id="segment-2" start_char="112">
+<ORIGINAL_TEXT>Foto: ANDINA</ORIGINAL_TEXT>
+<TOKEN end_char="115" id="token-2-0" morph="none" pos="word" start_char="112">Foto</TOKEN>
+<TOKEN end_char="116" id="token-2-1" morph="none" pos="punct" start_char="116">:</TOKEN>
+<TOKEN end_char="123" id="token-2-2" morph="none" pos="word" start_char="118">ANDINA</TOKEN>
+<TRANSLATED_TEXT>Photo: ANDINA</TRANSLATED_TEXT><DETECTED_LANGUAGE>pt</DETECTED_LANGUAGE></SEG>
+<SEG end_char="406" id="segment-3" start_char="128">
+<ORIGINAL_TEXT>El doctor Eduardo Gotuzzo, miembro del Comité de Expertos del Ministerio de Salud, señaló que el uso de la hidroxicloroquina e ivermectina en fases tempranas del coronavirus y como parte de un tratamiento ambulatorio en pacientes con riesgos, es una alternativa "seria y segura".</ORIGINAL_TEXT>
+<TOKEN end_char="129" id="token-3-0" morph="none" pos="word" start_char="128">El</TOKEN>
+<TOKEN end_char="136" id="token-3-1" morph="none" pos="word" start_char="131">doctor</TOKEN>
+<TOKEN end_char="144" id="token-3-2" morph="none" pos="word" start_char="138">Eduardo</TOKEN>
+<TOKEN end_char="152" id="token-3-3" morph="none" pos="word" start_char="146">Gotuzzo</TOKEN>
+<TOKEN end_char="153" id="token-3-4" morph="none" pos="punct" start_char="153">,</TOKEN>
+<TOKEN end_char="161" id="token-3-5" morph="none" pos="word" start_char="155">miembro</TOKEN>
+<TOKEN end_char="165" id="token-3-6" morph="none" pos="word" start_char="163">del</TOKEN>
+<TOKEN end_char="172" id="token-3-7" morph="none" pos="word" start_char="167">Comité</TOKEN>
+<TOKEN end_char="175" id="token-3-8" morph="none" pos="word" start_char="174">de</TOKEN>
+<TOKEN end_char="184" id="token-3-9" morph="none" pos="word" start_char="177">Expertos</TOKEN>
+<TOKEN end_char="188" id="token-3-10" morph="none" pos="word" start_char="186">del</TOKEN>
+<TOKEN end_char="199" id="token-3-11" morph="none" pos="word" start_char="190">Ministerio</TOKEN>
+<TOKEN end_char="202" id="token-3-12" morph="none" pos="word" start_char="201">de</TOKEN>
+<TOKEN end_char="208" id="token-3-13" morph="none" pos="word" start_char="204">Salud</TOKEN>
+<TOKEN end_char="209" id="token-3-14" morph="none" pos="punct" start_char="209">,</TOKEN>
+<TOKEN end_char="216" id="token-3-15" morph="none" pos="word" start_char="211">señaló</TOKEN>
+<TOKEN end_char="220" id="token-3-16" morph="none" pos="word" start_char="218">que</TOKEN>
+<TOKEN end_char="223" id="token-3-17" morph="none" pos="word" start_char="222">el</TOKEN>
+<TOKEN end_char="227" id="token-3-18" morph="none" pos="word" start_char="225">uso</TOKEN>
+<TOKEN end_char="230" id="token-3-19" morph="none" pos="word" start_char="229">de</TOKEN>
+<TOKEN end_char="233" id="token-3-20" morph="none" pos="word" start_char="232">la</TOKEN>
+<TOKEN end_char="251" id="token-3-21" morph="none" pos="word" start_char="235">hidroxicloroquina</TOKEN>
+<TOKEN end_char="253" id="token-3-22" morph="none" pos="word" start_char="253">e</TOKEN>
+<TOKEN end_char="265" id="token-3-23" morph="none" pos="word" start_char="255">ivermectina</TOKEN>
+<TOKEN end_char="268" id="token-3-24" morph="none" pos="word" start_char="267">en</TOKEN>
+<TOKEN end_char="274" id="token-3-25" morph="none" pos="word" start_char="270">fases</TOKEN>
+<TOKEN end_char="284" id="token-3-26" morph="none" pos="word" start_char="276">tempranas</TOKEN>
+<TOKEN end_char="288" id="token-3-27" morph="none" pos="word" start_char="286">del</TOKEN>
+<TOKEN end_char="300" id="token-3-28" morph="none" pos="word" start_char="290">coronavirus</TOKEN>
+<TOKEN end_char="302" id="token-3-29" morph="none" pos="word" start_char="302">y</TOKEN>
+<TOKEN end_char="307" id="token-3-30" morph="none" pos="word" start_char="304">como</TOKEN>
+<TOKEN end_char="313" id="token-3-31" morph="none" pos="word" start_char="309">parte</TOKEN>
+<TOKEN end_char="316" id="token-3-32" morph="none" pos="word" start_char="315">de</TOKEN>
+<TOKEN end_char="319" id="token-3-33" morph="none" pos="word" start_char="318">un</TOKEN>
+<TOKEN end_char="331" id="token-3-34" morph="none" pos="word" start_char="321">tratamiento</TOKEN>
+<TOKEN end_char="343" id="token-3-35" morph="none" pos="word" start_char="333">ambulatorio</TOKEN>
+<TOKEN end_char="346" id="token-3-36" morph="none" pos="word" start_char="345">en</TOKEN>
+<TOKEN end_char="356" id="token-3-37" morph="none" pos="word" start_char="348">pacientes</TOKEN>
+<TOKEN end_char="360" id="token-3-38" morph="none" pos="word" start_char="358">con</TOKEN>
+<TOKEN end_char="368" id="token-3-39" morph="none" pos="word" start_char="362">riesgos</TOKEN>
+<TOKEN end_char="369" id="token-3-40" morph="none" pos="punct" start_char="369">,</TOKEN>
+<TOKEN end_char="372" id="token-3-41" morph="none" pos="word" start_char="371">es</TOKEN>
+<TOKEN end_char="376" id="token-3-42" morph="none" pos="word" start_char="374">una</TOKEN>
+<TOKEN end_char="388" id="token-3-43" morph="none" pos="word" start_char="378">alternativa</TOKEN>
+<TOKEN end_char="390" id="token-3-44" morph="none" pos="punct" start_char="390">"</TOKEN>
+<TOKEN end_char="395" id="token-3-45" morph="none" pos="word" start_char="391">seria</TOKEN>
+<TOKEN end_char="397" id="token-3-46" morph="none" pos="word" start_char="397">y</TOKEN>
+<TOKEN end_char="404" id="token-3-47" morph="none" pos="word" start_char="399">segura</TOKEN>
+<TOKEN end_char="406" id="token-3-48" morph="none" pos="punct" start_char="405">".</TOKEN>
+<TRANSLATED_TEXT>Dr. Eduardo Gotuzzo, a member of the Committee of Experts of the Ministry of Health, noted that the use of hydroxychloroquine and ivermectin in early stages of coronavirus and as part of ambulatory treatment in patients at risk is a "serious and safe" alternative.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="711" id="segment-4" start_char="409">
+<ORIGINAL_TEXT>Gottuzzo manifestó que la hidroxicloroquina tiene 126 estudios registrados en programas internacionales y es una droga muy útil en enfermedades reumáticas por sus efectos antiinflamatorios, mientras que la ivermectina se usa en el mundo hace más de 40 años y es la más utilizada, después de la aspirina.</ORIGINAL_TEXT>
+<TOKEN end_char="416" id="token-4-0" morph="none" pos="word" start_char="409">Gottuzzo</TOKEN>
+<TOKEN end_char="426" id="token-4-1" morph="none" pos="word" start_char="418">manifestó</TOKEN>
+<TOKEN end_char="430" id="token-4-2" morph="none" pos="word" start_char="428">que</TOKEN>
+<TOKEN end_char="433" id="token-4-3" morph="none" pos="word" start_char="432">la</TOKEN>
+<TOKEN end_char="451" id="token-4-4" morph="none" pos="word" start_char="435">hidroxicloroquina</TOKEN>
+<TOKEN end_char="457" id="token-4-5" morph="none" pos="word" start_char="453">tiene</TOKEN>
+<TOKEN end_char="461" id="token-4-6" morph="none" pos="word" start_char="459">126</TOKEN>
+<TOKEN end_char="470" id="token-4-7" morph="none" pos="word" start_char="463">estudios</TOKEN>
+<TOKEN end_char="482" id="token-4-8" morph="none" pos="word" start_char="472">registrados</TOKEN>
+<TOKEN end_char="485" id="token-4-9" morph="none" pos="word" start_char="484">en</TOKEN>
+<TOKEN end_char="495" id="token-4-10" morph="none" pos="word" start_char="487">programas</TOKEN>
+<TOKEN end_char="511" id="token-4-11" morph="none" pos="word" start_char="497">internacionales</TOKEN>
+<TOKEN end_char="513" id="token-4-12" morph="none" pos="word" start_char="513">y</TOKEN>
+<TOKEN end_char="516" id="token-4-13" morph="none" pos="word" start_char="515">es</TOKEN>
+<TOKEN end_char="520" id="token-4-14" morph="none" pos="word" start_char="518">una</TOKEN>
+<TOKEN end_char="526" id="token-4-15" morph="none" pos="word" start_char="522">droga</TOKEN>
+<TOKEN end_char="530" id="token-4-16" morph="none" pos="word" start_char="528">muy</TOKEN>
+<TOKEN end_char="535" id="token-4-17" morph="none" pos="word" start_char="532">útil</TOKEN>
+<TOKEN end_char="538" id="token-4-18" morph="none" pos="word" start_char="537">en</TOKEN>
+<TOKEN end_char="551" id="token-4-19" morph="none" pos="word" start_char="540">enfermedades</TOKEN>
+<TOKEN end_char="562" id="token-4-20" morph="none" pos="word" start_char="553">reumáticas</TOKEN>
+<TOKEN end_char="566" id="token-4-21" morph="none" pos="word" start_char="564">por</TOKEN>
+<TOKEN end_char="570" id="token-4-22" morph="none" pos="word" start_char="568">sus</TOKEN>
+<TOKEN end_char="578" id="token-4-23" morph="none" pos="word" start_char="572">efectos</TOKEN>
+<TOKEN end_char="596" id="token-4-24" morph="none" pos="word" start_char="580">antiinflamatorios</TOKEN>
+<TOKEN end_char="597" id="token-4-25" morph="none" pos="punct" start_char="597">,</TOKEN>
+<TOKEN end_char="606" id="token-4-26" morph="none" pos="word" start_char="599">mientras</TOKEN>
+<TOKEN end_char="610" id="token-4-27" morph="none" pos="word" start_char="608">que</TOKEN>
+<TOKEN end_char="613" id="token-4-28" morph="none" pos="word" start_char="612">la</TOKEN>
+<TOKEN end_char="625" id="token-4-29" morph="none" pos="word" start_char="615">ivermectina</TOKEN>
+<TOKEN end_char="628" id="token-4-30" morph="none" pos="word" start_char="627">se</TOKEN>
+<TOKEN end_char="632" id="token-4-31" morph="none" pos="word" start_char="630">usa</TOKEN>
+<TOKEN end_char="635" id="token-4-32" morph="none" pos="word" start_char="634">en</TOKEN>
+<TOKEN end_char="638" id="token-4-33" morph="none" pos="word" start_char="637">el</TOKEN>
+<TOKEN end_char="644" id="token-4-34" morph="none" pos="word" start_char="640">mundo</TOKEN>
+<TOKEN end_char="649" id="token-4-35" morph="none" pos="word" start_char="646">hace</TOKEN>
+<TOKEN end_char="653" id="token-4-36" morph="none" pos="word" start_char="651">más</TOKEN>
+<TOKEN end_char="656" id="token-4-37" morph="none" pos="word" start_char="655">de</TOKEN>
+<TOKEN end_char="659" id="token-4-38" morph="none" pos="word" start_char="658">40</TOKEN>
+<TOKEN end_char="664" id="token-4-39" morph="none" pos="word" start_char="661">años</TOKEN>
+<TOKEN end_char="666" id="token-4-40" morph="none" pos="word" start_char="666">y</TOKEN>
+<TOKEN end_char="669" id="token-4-41" morph="none" pos="word" start_char="668">es</TOKEN>
+<TOKEN end_char="672" id="token-4-42" morph="none" pos="word" start_char="671">la</TOKEN>
+<TOKEN end_char="676" id="token-4-43" morph="none" pos="word" start_char="674">más</TOKEN>
+<TOKEN end_char="686" id="token-4-44" morph="none" pos="word" start_char="678">utilizada</TOKEN>
+<TOKEN end_char="687" id="token-4-45" morph="none" pos="punct" start_char="687">,</TOKEN>
+<TOKEN end_char="695" id="token-4-46" morph="none" pos="word" start_char="689">después</TOKEN>
+<TOKEN end_char="698" id="token-4-47" morph="none" pos="word" start_char="697">de</TOKEN>
+<TOKEN end_char="701" id="token-4-48" morph="none" pos="word" start_char="700">la</TOKEN>
+<TOKEN end_char="710" id="token-4-49" morph="none" pos="word" start_char="703">aspirina</TOKEN>
+<TOKEN end_char="711" id="token-4-50" morph="none" pos="punct" start_char="711">.</TOKEN>
+<TRANSLATED_TEXT>Gottuzzo stated that hydroxychloroquine has 126 studies registered in international programs and is a very useful drug in rheumatic diseases because of its anti-inflammatory effects, while ivermectin was used in the world more than 40 years ago and is the most used, after aspirin.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="832" id="segment-5" start_char="714">
+<ORIGINAL_TEXT>"Estas experiencias internacionales permiten garantizar un alto nivel de seguridad en pacientes ambulatorios", expresó.</ORIGINAL_TEXT>
+<TOKEN end_char="714" id="token-5-0" morph="none" pos="punct" start_char="714">"</TOKEN>
+<TOKEN end_char="719" id="token-5-1" morph="none" pos="word" start_char="715">Estas</TOKEN>
+<TOKEN end_char="732" id="token-5-2" morph="none" pos="word" start_char="721">experiencias</TOKEN>
+<TOKEN end_char="748" id="token-5-3" morph="none" pos="word" start_char="734">internacionales</TOKEN>
+<TOKEN end_char="757" id="token-5-4" morph="none" pos="word" start_char="750">permiten</TOKEN>
+<TOKEN end_char="768" id="token-5-5" morph="none" pos="word" start_char="759">garantizar</TOKEN>
+<TOKEN end_char="771" id="token-5-6" morph="none" pos="word" start_char="770">un</TOKEN>
+<TOKEN end_char="776" id="token-5-7" morph="none" pos="word" start_char="773">alto</TOKEN>
+<TOKEN end_char="782" id="token-5-8" morph="none" pos="word" start_char="778">nivel</TOKEN>
+<TOKEN end_char="785" id="token-5-9" morph="none" pos="word" start_char="784">de</TOKEN>
+<TOKEN end_char="795" id="token-5-10" morph="none" pos="word" start_char="787">seguridad</TOKEN>
+<TOKEN end_char="798" id="token-5-11" morph="none" pos="word" start_char="797">en</TOKEN>
+<TOKEN end_char="808" id="token-5-12" morph="none" pos="word" start_char="800">pacientes</TOKEN>
+<TOKEN end_char="821" id="token-5-13" morph="none" pos="word" start_char="810">ambulatorios</TOKEN>
+<TOKEN end_char="823" id="token-5-14" morph="none" pos="punct" start_char="822">",</TOKEN>
+<TOKEN end_char="831" id="token-5-15" morph="none" pos="word" start_char="825">expresó</TOKEN>
+<TOKEN end_char="832" id="token-5-16" morph="none" pos="punct" start_char="832">.</TOKEN>
+<TRANSLATED_TEXT>"These international experiences ensure a high level of safety in ambulatory patients," he said.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1073" id="segment-6" start_char="835">
+<ORIGINAL_TEXT>Gotuzzo agregó que, en pacientes hospitalizados, también existen ensayos controlados o estudios cuasiexperimentales que concluyeron que estos medicamentos no se asocian a una diferencia en la mortalidad general en pacientes hospitalizados.</ORIGINAL_TEXT>
+<TOKEN end_char="841" id="token-6-0" morph="none" pos="word" start_char="835">Gotuzzo</TOKEN>
+<TOKEN end_char="848" id="token-6-1" morph="none" pos="word" start_char="843">agregó</TOKEN>
+<TOKEN end_char="852" id="token-6-2" morph="none" pos="word" start_char="850">que</TOKEN>
+<TOKEN end_char="853" id="token-6-3" morph="none" pos="punct" start_char="853">,</TOKEN>
+<TOKEN end_char="856" id="token-6-4" morph="none" pos="word" start_char="855">en</TOKEN>
+<TOKEN end_char="866" id="token-6-5" morph="none" pos="word" start_char="858">pacientes</TOKEN>
+<TOKEN end_char="881" id="token-6-6" morph="none" pos="word" start_char="868">hospitalizados</TOKEN>
+<TOKEN end_char="882" id="token-6-7" morph="none" pos="punct" start_char="882">,</TOKEN>
+<TOKEN end_char="890" id="token-6-8" morph="none" pos="word" start_char="884">también</TOKEN>
+<TOKEN end_char="898" id="token-6-9" morph="none" pos="word" start_char="892">existen</TOKEN>
+<TOKEN end_char="906" id="token-6-10" morph="none" pos="word" start_char="900">ensayos</TOKEN>
+<TOKEN end_char="918" id="token-6-11" morph="none" pos="word" start_char="908">controlados</TOKEN>
+<TOKEN end_char="920" id="token-6-12" morph="none" pos="word" start_char="920">o</TOKEN>
+<TOKEN end_char="929" id="token-6-13" morph="none" pos="word" start_char="922">estudios</TOKEN>
+<TOKEN end_char="949" id="token-6-14" morph="none" pos="word" start_char="931">cuasiexperimentales</TOKEN>
+<TOKEN end_char="953" id="token-6-15" morph="none" pos="word" start_char="951">que</TOKEN>
+<TOKEN end_char="965" id="token-6-16" morph="none" pos="word" start_char="955">concluyeron</TOKEN>
+<TOKEN end_char="969" id="token-6-17" morph="none" pos="word" start_char="967">que</TOKEN>
+<TOKEN end_char="975" id="token-6-18" morph="none" pos="word" start_char="971">estos</TOKEN>
+<TOKEN end_char="988" id="token-6-19" morph="none" pos="word" start_char="977">medicamentos</TOKEN>
+<TOKEN end_char="991" id="token-6-20" morph="none" pos="word" start_char="990">no</TOKEN>
+<TOKEN end_char="994" id="token-6-21" morph="none" pos="word" start_char="993">se</TOKEN>
+<TOKEN end_char="1002" id="token-6-22" morph="none" pos="word" start_char="996">asocian</TOKEN>
+<TOKEN end_char="1004" id="token-6-23" morph="none" pos="word" start_char="1004">a</TOKEN>
+<TOKEN end_char="1008" id="token-6-24" morph="none" pos="word" start_char="1006">una</TOKEN>
+<TOKEN end_char="1019" id="token-6-25" morph="none" pos="word" start_char="1010">diferencia</TOKEN>
+<TOKEN end_char="1022" id="token-6-26" morph="none" pos="word" start_char="1021">en</TOKEN>
+<TOKEN end_char="1025" id="token-6-27" morph="none" pos="word" start_char="1024">la</TOKEN>
+<TOKEN end_char="1036" id="token-6-28" morph="none" pos="word" start_char="1027">mortalidad</TOKEN>
+<TOKEN end_char="1044" id="token-6-29" morph="none" pos="word" start_char="1038">general</TOKEN>
+<TOKEN end_char="1047" id="token-6-30" morph="none" pos="word" start_char="1046">en</TOKEN>
+<TOKEN end_char="1057" id="token-6-31" morph="none" pos="word" start_char="1049">pacientes</TOKEN>
+<TOKEN end_char="1072" id="token-6-32" morph="none" pos="word" start_char="1059">hospitalizados</TOKEN>
+<TOKEN end_char="1073" id="token-6-33" morph="none" pos="punct" start_char="1073">.</TOKEN>
+<TRANSLATED_TEXT>Gotuzzo added that, in hospitalized patients, there are also controlled trials or quasi-experimental studies that concluded that these drugs are not associated with a difference in overall mortality in hospitalized patients.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1310" id="segment-7" start_char="1076">
+<ORIGINAL_TEXT>Finalmente, aclaró que el estudio publicado en la revista médica británica The Lancet sobre efectos nocivos de la hidroxicloroquina en pacientes hospitalizados habría presentado datos incorrectos, generando mucho ruido a nivel mundial.</ORIGINAL_TEXT>
+<TOKEN end_char="1085" id="token-7-0" morph="none" pos="word" start_char="1076">Finalmente</TOKEN>
+<TOKEN end_char="1086" id="token-7-1" morph="none" pos="punct" start_char="1086">,</TOKEN>
+<TOKEN end_char="1093" id="token-7-2" morph="none" pos="word" start_char="1088">aclaró</TOKEN>
+<TOKEN end_char="1097" id="token-7-3" morph="none" pos="word" start_char="1095">que</TOKEN>
+<TOKEN end_char="1100" id="token-7-4" morph="none" pos="word" start_char="1099">el</TOKEN>
+<TOKEN end_char="1108" id="token-7-5" morph="none" pos="word" start_char="1102">estudio</TOKEN>
+<TOKEN end_char="1118" id="token-7-6" morph="none" pos="word" start_char="1110">publicado</TOKEN>
+<TOKEN end_char="1121" id="token-7-7" morph="none" pos="word" start_char="1120">en</TOKEN>
+<TOKEN end_char="1124" id="token-7-8" morph="none" pos="word" start_char="1123">la</TOKEN>
+<TOKEN end_char="1132" id="token-7-9" morph="none" pos="word" start_char="1126">revista</TOKEN>
+<TOKEN end_char="1139" id="token-7-10" morph="none" pos="word" start_char="1134">médica</TOKEN>
+<TOKEN end_char="1149" id="token-7-11" morph="none" pos="word" start_char="1141">británica</TOKEN>
+<TOKEN end_char="1153" id="token-7-12" morph="none" pos="word" start_char="1151">The</TOKEN>
+<TOKEN end_char="1160" id="token-7-13" morph="none" pos="word" start_char="1155">Lancet</TOKEN>
+<TOKEN end_char="1166" id="token-7-14" morph="none" pos="word" start_char="1162">sobre</TOKEN>
+<TOKEN end_char="1174" id="token-7-15" morph="none" pos="word" start_char="1168">efectos</TOKEN>
+<TOKEN end_char="1182" id="token-7-16" morph="none" pos="word" start_char="1176">nocivos</TOKEN>
+<TOKEN end_char="1185" id="token-7-17" morph="none" pos="word" start_char="1184">de</TOKEN>
+<TOKEN end_char="1188" id="token-7-18" morph="none" pos="word" start_char="1187">la</TOKEN>
+<TOKEN end_char="1206" id="token-7-19" morph="none" pos="word" start_char="1190">hidroxicloroquina</TOKEN>
+<TOKEN end_char="1209" id="token-7-20" morph="none" pos="word" start_char="1208">en</TOKEN>
+<TOKEN end_char="1219" id="token-7-21" morph="none" pos="word" start_char="1211">pacientes</TOKEN>
+<TOKEN end_char="1234" id="token-7-22" morph="none" pos="word" start_char="1221">hospitalizados</TOKEN>
+<TOKEN end_char="1241" id="token-7-23" morph="none" pos="word" start_char="1236">habría</TOKEN>
+<TOKEN end_char="1252" id="token-7-24" morph="none" pos="word" start_char="1243">presentado</TOKEN>
+<TOKEN end_char="1258" id="token-7-25" morph="none" pos="word" start_char="1254">datos</TOKEN>
+<TOKEN end_char="1270" id="token-7-26" morph="none" pos="word" start_char="1260">incorrectos</TOKEN>
+<TOKEN end_char="1271" id="token-7-27" morph="none" pos="punct" start_char="1271">,</TOKEN>
+<TOKEN end_char="1281" id="token-7-28" morph="none" pos="word" start_char="1273">generando</TOKEN>
+<TOKEN end_char="1287" id="token-7-29" morph="none" pos="word" start_char="1283">mucho</TOKEN>
+<TOKEN end_char="1293" id="token-7-30" morph="none" pos="word" start_char="1289">ruido</TOKEN>
+<TOKEN end_char="1295" id="token-7-31" morph="none" pos="word" start_char="1295">a</TOKEN>
+<TOKEN end_char="1301" id="token-7-32" morph="none" pos="word" start_char="1297">nivel</TOKEN>
+<TOKEN end_char="1309" id="token-7-33" morph="none" pos="word" start_char="1303">mundial</TOKEN>
+<TOKEN end_char="1310" id="token-7-34" morph="none" pos="punct" start_char="1310">.</TOKEN>
+<TRANSLATED_TEXT>Finally, he clarified that the study published in the British medical journal The Lancet on the harmful effects of hydroxychloroquine on hospitalized patients would have presented incorrect data, generating much worldwide noise.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1404" id="segment-8" start_char="1313">
+<ORIGINAL_TEXT>LEE| Zamora: La hidroxicloroquina seguirá siendo parte del tratamiento contra el coronavirus</ORIGINAL_TEXT>
+<TOKEN end_char="1316" id="token-8-0" morph="none" pos="unknown" start_char="1313">LEE|</TOKEN>
+<TOKEN end_char="1323" id="token-8-1" morph="none" pos="word" start_char="1318">Zamora</TOKEN>
+<TOKEN end_char="1324" id="token-8-2" morph="none" pos="punct" start_char="1324">:</TOKEN>
+<TOKEN end_char="1327" id="token-8-3" morph="none" pos="word" start_char="1326">La</TOKEN>
+<TOKEN end_char="1345" id="token-8-4" morph="none" pos="word" start_char="1329">hidroxicloroquina</TOKEN>
+<TOKEN end_char="1353" id="token-8-5" morph="none" pos="word" start_char="1347">seguirá</TOKEN>
+<TOKEN end_char="1360" id="token-8-6" morph="none" pos="word" start_char="1355">siendo</TOKEN>
+<TOKEN end_char="1366" id="token-8-7" morph="none" pos="word" start_char="1362">parte</TOKEN>
+<TOKEN end_char="1370" id="token-8-8" morph="none" pos="word" start_char="1368">del</TOKEN>
+<TOKEN end_char="1382" id="token-8-9" morph="none" pos="word" start_char="1372">tratamiento</TOKEN>
+<TOKEN end_char="1389" id="token-8-10" morph="none" pos="word" start_char="1384">contra</TOKEN>
+<TOKEN end_char="1392" id="token-8-11" morph="none" pos="word" start_char="1391">el</TOKEN>
+<TOKEN end_char="1404" id="token-8-12" morph="none" pos="word" start_char="1394">coronavirus</TOKEN>
+<TRANSLATED_TEXT>LEE | Zamora: Hydrochloroquine will remain part of coronavirus treatment</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

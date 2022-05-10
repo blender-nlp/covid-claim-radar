@@ -1,0 +1,392 @@
+<LCTL_TEXT lang="spa">
+<DOC grammar="none" id="L0C04CABK" lang="spa" raw_text_char_length="2109" raw_text_md5="4956408a30be4afd598114da15dd9977" tokenization="tokenization_parameters.v5.0">
+<TEXT>
+<SEG end_char="68" id="segment-0" start_char="1">
+<ORIGINAL_TEXT>Коронавирус во Франции мог появиться ещё в ноябре 2019 года — медики</ORIGINAL_TEXT>
+<TOKEN end_char="11" id="token-0-0" morph="none" pos="word" start_char="1">Коронавирус</TOKEN>
+<TOKEN end_char="14" id="token-0-1" morph="none" pos="word" start_char="13">во</TOKEN>
+<TOKEN end_char="22" id="token-0-2" morph="none" pos="word" start_char="16">Франции</TOKEN>
+<TOKEN end_char="26" id="token-0-3" morph="none" pos="word" start_char="24">мог</TOKEN>
+<TOKEN end_char="36" id="token-0-4" morph="none" pos="word" start_char="28">появиться</TOKEN>
+<TOKEN end_char="40" id="token-0-5" morph="none" pos="word" start_char="38">ещё</TOKEN>
+<TOKEN end_char="42" id="token-0-6" morph="none" pos="word" start_char="42">в</TOKEN>
+<TOKEN end_char="49" id="token-0-7" morph="none" pos="word" start_char="44">ноябре</TOKEN>
+<TOKEN end_char="54" id="token-0-8" morph="none" pos="word" start_char="51">2019</TOKEN>
+<TOKEN end_char="59" id="token-0-9" morph="none" pos="word" start_char="56">года</TOKEN>
+<TOKEN end_char="61" id="token-0-10" morph="none" pos="punct" start_char="61">—</TOKEN>
+<TOKEN end_char="68" id="token-0-11" morph="none" pos="word" start_char="63">медики</TOKEN>
+<TRANSLATED_TEXT>Coronavirus may have appeared in France as early as November 2019 - doctors</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="312" id="segment-1" start_char="72">
+<ORIGINAL_TEXT>Париж, 18 мая 2020, 10:51 — REGNUM Во французской больнице в Кольмаре (Верхний Рейн) пересмотрели все рентгеновские снимки, сделанные с 1 октября 2019, чтобы выяснить, когда и как коронавирус попал на территорию страны, сообщает Le Parisien.</ORIGINAL_TEXT>
+<TOKEN end_char="76" id="token-1-0" morph="none" pos="word" start_char="72">Париж</TOKEN>
+<TOKEN end_char="77" id="token-1-1" morph="none" pos="punct" start_char="77">,</TOKEN>
+<TOKEN end_char="80" id="token-1-2" morph="none" pos="word" start_char="79">18</TOKEN>
+<TOKEN end_char="84" id="token-1-3" morph="none" pos="word" start_char="82">мая</TOKEN>
+<TOKEN end_char="89" id="token-1-4" morph="none" pos="word" start_char="86">2020</TOKEN>
+<TOKEN end_char="90" id="token-1-5" morph="none" pos="punct" start_char="90">,</TOKEN>
+<TOKEN end_char="96" id="token-1-6" morph="none" pos="unknown" start_char="92">10:51</TOKEN>
+<TOKEN end_char="98" id="token-1-7" morph="none" pos="punct" start_char="98">—</TOKEN>
+<TOKEN end_char="105" id="token-1-8" morph="none" pos="word" start_char="100">REGNUM</TOKEN>
+<TOKEN end_char="108" id="token-1-9" morph="none" pos="word" start_char="107">Во</TOKEN>
+<TOKEN end_char="120" id="token-1-10" morph="none" pos="word" start_char="110">французской</TOKEN>
+<TOKEN end_char="129" id="token-1-11" morph="none" pos="word" start_char="122">больнице</TOKEN>
+<TOKEN end_char="131" id="token-1-12" morph="none" pos="word" start_char="131">в</TOKEN>
+<TOKEN end_char="140" id="token-1-13" morph="none" pos="word" start_char="133">Кольмаре</TOKEN>
+<TOKEN end_char="142" id="token-1-14" morph="none" pos="punct" start_char="142">(</TOKEN>
+<TOKEN end_char="149" id="token-1-15" morph="none" pos="word" start_char="143">Верхний</TOKEN>
+<TOKEN end_char="154" id="token-1-16" morph="none" pos="word" start_char="151">Рейн</TOKEN>
+<TOKEN end_char="155" id="token-1-17" morph="none" pos="punct" start_char="155">)</TOKEN>
+<TOKEN end_char="168" id="token-1-18" morph="none" pos="word" start_char="157">пересмотрели</TOKEN>
+<TOKEN end_char="172" id="token-1-19" morph="none" pos="word" start_char="170">все</TOKEN>
+<TOKEN end_char="186" id="token-1-20" morph="none" pos="word" start_char="174">рентгеновские</TOKEN>
+<TOKEN end_char="193" id="token-1-21" morph="none" pos="word" start_char="188">снимки</TOKEN>
+<TOKEN end_char="194" id="token-1-22" morph="none" pos="punct" start_char="194">,</TOKEN>
+<TOKEN end_char="204" id="token-1-23" morph="none" pos="word" start_char="196">сделанные</TOKEN>
+<TOKEN end_char="206" id="token-1-24" morph="none" pos="word" start_char="206">с</TOKEN>
+<TOKEN end_char="208" id="token-1-25" morph="none" pos="word" start_char="208">1</TOKEN>
+<TOKEN end_char="216" id="token-1-26" morph="none" pos="word" start_char="210">октября</TOKEN>
+<TOKEN end_char="221" id="token-1-27" morph="none" pos="word" start_char="218">2019</TOKEN>
+<TOKEN end_char="222" id="token-1-28" morph="none" pos="punct" start_char="222">,</TOKEN>
+<TOKEN end_char="228" id="token-1-29" morph="none" pos="word" start_char="224">чтобы</TOKEN>
+<TOKEN end_char="237" id="token-1-30" morph="none" pos="word" start_char="230">выяснить</TOKEN>
+<TOKEN end_char="238" id="token-1-31" morph="none" pos="punct" start_char="238">,</TOKEN>
+<TOKEN end_char="244" id="token-1-32" morph="none" pos="word" start_char="240">когда</TOKEN>
+<TOKEN end_char="246" id="token-1-33" morph="none" pos="word" start_char="246">и</TOKEN>
+<TOKEN end_char="250" id="token-1-34" morph="none" pos="word" start_char="248">как</TOKEN>
+<TOKEN end_char="262" id="token-1-35" morph="none" pos="word" start_char="252">коронавирус</TOKEN>
+<TOKEN end_char="268" id="token-1-36" morph="none" pos="word" start_char="264">попал</TOKEN>
+<TOKEN end_char="271" id="token-1-37" morph="none" pos="word" start_char="270">на</TOKEN>
+<TOKEN end_char="282" id="token-1-38" morph="none" pos="word" start_char="273">территорию</TOKEN>
+<TOKEN end_char="289" id="token-1-39" morph="none" pos="word" start_char="284">страны</TOKEN>
+<TOKEN end_char="290" id="token-1-40" morph="none" pos="punct" start_char="290">,</TOKEN>
+<TOKEN end_char="299" id="token-1-41" morph="none" pos="word" start_char="292">сообщает</TOKEN>
+<TOKEN end_char="302" id="token-1-42" morph="none" pos="word" start_char="301">Le</TOKEN>
+<TOKEN end_char="311" id="token-1-43" morph="none" pos="word" start_char="304">Parisien</TOKEN>
+<TOKEN end_char="312" id="token-1-44" morph="none" pos="punct" start_char="312">.</TOKEN>
+<TRANSLATED_TEXT>Paris, 18 May 2020, 10: 51 - REGNUM In the French hospital in Colmar (Upper Rhine) all X-ray images taken since 1 October 2019 have been reviewed to find out when and how the coronavirus entered the country, reports Le Parisien.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="584" id="segment-2" start_char="315">
+<ORIGINAL_TEXT>В больнице Альберта-Швейцера в Кольмаре главный врач, работающий с рентгеновскими снимками, просмотрел 2456 снимков, выполненных в период с 15 октября по 30 апреля, и пришел к выводу, что первые пациенты с коронавирусом могли появиться во Франции еще в ноябре 2019 года.</ORIGINAL_TEXT>
+<TOKEN end_char="315" id="token-2-0" morph="none" pos="word" start_char="315">В</TOKEN>
+<TOKEN end_char="324" id="token-2-1" morph="none" pos="word" start_char="317">больнице</TOKEN>
+<TOKEN end_char="342" id="token-2-2" morph="none" pos="unknown" start_char="326">Альберта-Швейцера</TOKEN>
+<TOKEN end_char="344" id="token-2-3" morph="none" pos="word" start_char="344">в</TOKEN>
+<TOKEN end_char="353" id="token-2-4" morph="none" pos="word" start_char="346">Кольмаре</TOKEN>
+<TOKEN end_char="361" id="token-2-5" morph="none" pos="word" start_char="355">главный</TOKEN>
+<TOKEN end_char="366" id="token-2-6" morph="none" pos="word" start_char="363">врач</TOKEN>
+<TOKEN end_char="367" id="token-2-7" morph="none" pos="punct" start_char="367">,</TOKEN>
+<TOKEN end_char="378" id="token-2-8" morph="none" pos="word" start_char="369">работающий</TOKEN>
+<TOKEN end_char="380" id="token-2-9" morph="none" pos="word" start_char="380">с</TOKEN>
+<TOKEN end_char="395" id="token-2-10" morph="none" pos="word" start_char="382">рентгеновскими</TOKEN>
+<TOKEN end_char="404" id="token-2-11" morph="none" pos="word" start_char="397">снимками</TOKEN>
+<TOKEN end_char="405" id="token-2-12" morph="none" pos="punct" start_char="405">,</TOKEN>
+<TOKEN end_char="416" id="token-2-13" morph="none" pos="word" start_char="407">просмотрел</TOKEN>
+<TOKEN end_char="421" id="token-2-14" morph="none" pos="word" start_char="418">2456</TOKEN>
+<TOKEN end_char="429" id="token-2-15" morph="none" pos="word" start_char="423">снимков</TOKEN>
+<TOKEN end_char="430" id="token-2-16" morph="none" pos="punct" start_char="430">,</TOKEN>
+<TOKEN end_char="442" id="token-2-17" morph="none" pos="word" start_char="432">выполненных</TOKEN>
+<TOKEN end_char="444" id="token-2-18" morph="none" pos="word" start_char="444">в</TOKEN>
+<TOKEN end_char="451" id="token-2-19" morph="none" pos="word" start_char="446">период</TOKEN>
+<TOKEN end_char="453" id="token-2-20" morph="none" pos="word" start_char="453">с</TOKEN>
+<TOKEN end_char="456" id="token-2-21" morph="none" pos="word" start_char="455">15</TOKEN>
+<TOKEN end_char="464" id="token-2-22" morph="none" pos="word" start_char="458">октября</TOKEN>
+<TOKEN end_char="467" id="token-2-23" morph="none" pos="word" start_char="466">по</TOKEN>
+<TOKEN end_char="470" id="token-2-24" morph="none" pos="word" start_char="469">30</TOKEN>
+<TOKEN end_char="477" id="token-2-25" morph="none" pos="word" start_char="472">апреля</TOKEN>
+<TOKEN end_char="478" id="token-2-26" morph="none" pos="punct" start_char="478">,</TOKEN>
+<TOKEN end_char="480" id="token-2-27" morph="none" pos="word" start_char="480">и</TOKEN>
+<TOKEN end_char="487" id="token-2-28" morph="none" pos="word" start_char="482">пришел</TOKEN>
+<TOKEN end_char="489" id="token-2-29" morph="none" pos="word" start_char="489">к</TOKEN>
+<TOKEN end_char="496" id="token-2-30" morph="none" pos="word" start_char="491">выводу</TOKEN>
+<TOKEN end_char="497" id="token-2-31" morph="none" pos="punct" start_char="497">,</TOKEN>
+<TOKEN end_char="501" id="token-2-32" morph="none" pos="word" start_char="499">что</TOKEN>
+<TOKEN end_char="508" id="token-2-33" morph="none" pos="word" start_char="503">первые</TOKEN>
+<TOKEN end_char="517" id="token-2-34" morph="none" pos="word" start_char="510">пациенты</TOKEN>
+<TOKEN end_char="519" id="token-2-35" morph="none" pos="word" start_char="519">с</TOKEN>
+<TOKEN end_char="533" id="token-2-36" morph="none" pos="word" start_char="521">коронавирусом</TOKEN>
+<TOKEN end_char="539" id="token-2-37" morph="none" pos="word" start_char="535">могли</TOKEN>
+<TOKEN end_char="549" id="token-2-38" morph="none" pos="word" start_char="541">появиться</TOKEN>
+<TOKEN end_char="552" id="token-2-39" morph="none" pos="word" start_char="551">во</TOKEN>
+<TOKEN end_char="560" id="token-2-40" morph="none" pos="word" start_char="554">Франции</TOKEN>
+<TOKEN end_char="564" id="token-2-41" morph="none" pos="word" start_char="562">еще</TOKEN>
+<TOKEN end_char="566" id="token-2-42" morph="none" pos="word" start_char="566">в</TOKEN>
+<TOKEN end_char="573" id="token-2-43" morph="none" pos="word" start_char="568">ноябре</TOKEN>
+<TOKEN end_char="578" id="token-2-44" morph="none" pos="word" start_char="575">2019</TOKEN>
+<TOKEN end_char="583" id="token-2-45" morph="none" pos="word" start_char="580">года</TOKEN>
+<TOKEN end_char="584" id="token-2-46" morph="none" pos="punct" start_char="584">.</TOKEN>
+<TRANSLATED_TEXT>At the Albert Schweitzer Hospital in Colmar, the chief X-ray physician reviewed 2,456 images taken between 15 October and 30 April, and concluded that the first coronavirus patients could have appeared in France as early as November 2019.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="696" id="segment-3" start_char="587">
+<ORIGINAL_TEXT>Доктор Мишель Шмитт обнаружил на снимке от 16 ноября 2019 года «типичные аномалии легких, вызванные COVID-19».</ORIGINAL_TEXT>
+<TOKEN end_char="592" id="token-3-0" morph="none" pos="word" start_char="587">Доктор</TOKEN>
+<TOKEN end_char="599" id="token-3-1" morph="none" pos="word" start_char="594">Мишель</TOKEN>
+<TOKEN end_char="605" id="token-3-2" morph="none" pos="word" start_char="601">Шмитт</TOKEN>
+<TOKEN end_char="615" id="token-3-3" morph="none" pos="word" start_char="607">обнаружил</TOKEN>
+<TOKEN end_char="618" id="token-3-4" morph="none" pos="word" start_char="617">на</TOKEN>
+<TOKEN end_char="625" id="token-3-5" morph="none" pos="word" start_char="620">снимке</TOKEN>
+<TOKEN end_char="628" id="token-3-6" morph="none" pos="word" start_char="627">от</TOKEN>
+<TOKEN end_char="631" id="token-3-7" morph="none" pos="word" start_char="630">16</TOKEN>
+<TOKEN end_char="638" id="token-3-8" morph="none" pos="word" start_char="633">ноября</TOKEN>
+<TOKEN end_char="643" id="token-3-9" morph="none" pos="word" start_char="640">2019</TOKEN>
+<TOKEN end_char="648" id="token-3-10" morph="none" pos="word" start_char="645">года</TOKEN>
+<TOKEN end_char="650" id="token-3-11" morph="none" pos="punct" start_char="650">«</TOKEN>
+<TOKEN end_char="658" id="token-3-12" morph="none" pos="word" start_char="651">типичные</TOKEN>
+<TOKEN end_char="667" id="token-3-13" morph="none" pos="word" start_char="660">аномалии</TOKEN>
+<TOKEN end_char="674" id="token-3-14" morph="none" pos="word" start_char="669">легких</TOKEN>
+<TOKEN end_char="675" id="token-3-15" morph="none" pos="punct" start_char="675">,</TOKEN>
+<TOKEN end_char="685" id="token-3-16" morph="none" pos="word" start_char="677">вызванные</TOKEN>
+<TOKEN end_char="694" id="token-3-17" morph="none" pos="unknown" start_char="687">COVID-19</TOKEN>
+<TOKEN end_char="696" id="token-3-18" morph="none" pos="punct" start_char="695">».</TOKEN>
+<TRANSLATED_TEXT>On 16 November 2019, Dr. Michel Schmitt discovered "typical lung abnormalities caused by COVID-19."</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="820" id="segment-4" start_char="699">
+<ORIGINAL_TEXT>Первые результаты доктора, которые должны быть подтверждены, очень интересны для региона, сильно пострадавшем от COVID-19.</ORIGINAL_TEXT>
+<TOKEN end_char="704" id="token-4-0" morph="none" pos="word" start_char="699">Первые</TOKEN>
+<TOKEN end_char="715" id="token-4-1" morph="none" pos="word" start_char="706">результаты</TOKEN>
+<TOKEN end_char="723" id="token-4-2" morph="none" pos="word" start_char="717">доктора</TOKEN>
+<TOKEN end_char="724" id="token-4-3" morph="none" pos="punct" start_char="724">,</TOKEN>
+<TOKEN end_char="732" id="token-4-4" morph="none" pos="word" start_char="726">которые</TOKEN>
+<TOKEN end_char="739" id="token-4-5" morph="none" pos="word" start_char="734">должны</TOKEN>
+<TOKEN end_char="744" id="token-4-6" morph="none" pos="word" start_char="741">быть</TOKEN>
+<TOKEN end_char="757" id="token-4-7" morph="none" pos="word" start_char="746">подтверждены</TOKEN>
+<TOKEN end_char="758" id="token-4-8" morph="none" pos="punct" start_char="758">,</TOKEN>
+<TOKEN end_char="764" id="token-4-9" morph="none" pos="word" start_char="760">очень</TOKEN>
+<TOKEN end_char="774" id="token-4-10" morph="none" pos="word" start_char="766">интересны</TOKEN>
+<TOKEN end_char="778" id="token-4-11" morph="none" pos="word" start_char="776">для</TOKEN>
+<TOKEN end_char="786" id="token-4-12" morph="none" pos="word" start_char="780">региона</TOKEN>
+<TOKEN end_char="787" id="token-4-13" morph="none" pos="punct" start_char="787">,</TOKEN>
+<TOKEN end_char="794" id="token-4-14" morph="none" pos="word" start_char="789">сильно</TOKEN>
+<TOKEN end_char="807" id="token-4-15" morph="none" pos="word" start_char="796">пострадавшем</TOKEN>
+<TOKEN end_char="810" id="token-4-16" morph="none" pos="word" start_char="809">от</TOKEN>
+<TOKEN end_char="819" id="token-4-17" morph="none" pos="unknown" start_char="812">COVID-19</TOKEN>
+<TOKEN end_char="820" id="token-4-18" morph="none" pos="punct" start_char="820">.</TOKEN>
+<TRANSLATED_TEXT>The first results of the doctor to be confirmed are very interesting for the region badly affected by COVID-19.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="934" id="segment-5" start_char="822">
+<ORIGINAL_TEXT>По его словам, другие подозрительные случаи были выявлены в декабре и январе, задолго до заметного пика эпидемии.</ORIGINAL_TEXT>
+<TOKEN end_char="823" id="token-5-0" morph="none" pos="word" start_char="822">По</TOKEN>
+<TOKEN end_char="827" id="token-5-1" morph="none" pos="word" start_char="825">его</TOKEN>
+<TOKEN end_char="834" id="token-5-2" morph="none" pos="word" start_char="829">словам</TOKEN>
+<TOKEN end_char="835" id="token-5-3" morph="none" pos="punct" start_char="835">,</TOKEN>
+<TOKEN end_char="842" id="token-5-4" morph="none" pos="word" start_char="837">другие</TOKEN>
+<TOKEN end_char="857" id="token-5-5" morph="none" pos="word" start_char="844">подозрительные</TOKEN>
+<TOKEN end_char="864" id="token-5-6" morph="none" pos="word" start_char="859">случаи</TOKEN>
+<TOKEN end_char="869" id="token-5-7" morph="none" pos="word" start_char="866">были</TOKEN>
+<TOKEN end_char="878" id="token-5-8" morph="none" pos="word" start_char="871">выявлены</TOKEN>
+<TOKEN end_char="880" id="token-5-9" morph="none" pos="word" start_char="880">в</TOKEN>
+<TOKEN end_char="888" id="token-5-10" morph="none" pos="word" start_char="882">декабре</TOKEN>
+<TOKEN end_char="890" id="token-5-11" morph="none" pos="word" start_char="890">и</TOKEN>
+<TOKEN end_char="897" id="token-5-12" morph="none" pos="word" start_char="892">январе</TOKEN>
+<TOKEN end_char="898" id="token-5-13" morph="none" pos="punct" start_char="898">,</TOKEN>
+<TOKEN end_char="906" id="token-5-14" morph="none" pos="word" start_char="900">задолго</TOKEN>
+<TOKEN end_char="909" id="token-5-15" morph="none" pos="word" start_char="908">до</TOKEN>
+<TOKEN end_char="919" id="token-5-16" morph="none" pos="word" start_char="911">заметного</TOKEN>
+<TOKEN end_char="924" id="token-5-17" morph="none" pos="word" start_char="921">пика</TOKEN>
+<TOKEN end_char="933" id="token-5-18" morph="none" pos="word" start_char="926">эпидемии</TOKEN>
+<TOKEN end_char="934" id="token-5-19" morph="none" pos="punct" start_char="934">.</TOKEN>
+<TRANSLATED_TEXT>According to him, other suspicious cases were identified in December and January, well before the epidemic reached a marked peak.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1194" id="segment-6" start_char="937">
+<ORIGINAL_TEXT>Как сообщало ИА REGNUM, ранее генеральный директор фармацевтической компании Sanofi Пол Хадсон извинился перед своими сотрудниками «за деликатную ситуацию», связанную с его заявлением о предоставлении первой партии вакцины против COVID-19 Соединенным Штатам.</ORIGINAL_TEXT>
+<TOKEN end_char="939" id="token-6-0" morph="none" pos="word" start_char="937">Как</TOKEN>
+<TOKEN end_char="948" id="token-6-1" morph="none" pos="word" start_char="941">сообщало</TOKEN>
+<TOKEN end_char="951" id="token-6-2" morph="none" pos="word" start_char="950">ИА</TOKEN>
+<TOKEN end_char="958" id="token-6-3" morph="none" pos="word" start_char="953">REGNUM</TOKEN>
+<TOKEN end_char="959" id="token-6-4" morph="none" pos="punct" start_char="959">,</TOKEN>
+<TOKEN end_char="965" id="token-6-5" morph="none" pos="word" start_char="961">ранее</TOKEN>
+<TOKEN end_char="977" id="token-6-6" morph="none" pos="word" start_char="967">генеральный</TOKEN>
+<TOKEN end_char="986" id="token-6-7" morph="none" pos="word" start_char="979">директор</TOKEN>
+<TOKEN end_char="1003" id="token-6-8" morph="none" pos="word" start_char="988">фармацевтической</TOKEN>
+<TOKEN end_char="1012" id="token-6-9" morph="none" pos="word" start_char="1005">компании</TOKEN>
+<TOKEN end_char="1019" id="token-6-10" morph="none" pos="word" start_char="1014">Sanofi</TOKEN>
+<TOKEN end_char="1023" id="token-6-11" morph="none" pos="word" start_char="1021">Пол</TOKEN>
+<TOKEN end_char="1030" id="token-6-12" morph="none" pos="word" start_char="1025">Хадсон</TOKEN>
+<TOKEN end_char="1040" id="token-6-13" morph="none" pos="word" start_char="1032">извинился</TOKEN>
+<TOKEN end_char="1046" id="token-6-14" morph="none" pos="word" start_char="1042">перед</TOKEN>
+<TOKEN end_char="1053" id="token-6-15" morph="none" pos="word" start_char="1048">своими</TOKEN>
+<TOKEN end_char="1066" id="token-6-16" morph="none" pos="word" start_char="1055">сотрудниками</TOKEN>
+<TOKEN end_char="1068" id="token-6-17" morph="none" pos="punct" start_char="1068">«</TOKEN>
+<TOKEN end_char="1070" id="token-6-18" morph="none" pos="word" start_char="1069">за</TOKEN>
+<TOKEN end_char="1081" id="token-6-19" morph="none" pos="word" start_char="1072">деликатную</TOKEN>
+<TOKEN end_char="1090" id="token-6-20" morph="none" pos="word" start_char="1083">ситуацию</TOKEN>
+<TOKEN end_char="1092" id="token-6-21" morph="none" pos="punct" start_char="1091">»,</TOKEN>
+<TOKEN end_char="1102" id="token-6-22" morph="none" pos="word" start_char="1094">связанную</TOKEN>
+<TOKEN end_char="1104" id="token-6-23" morph="none" pos="word" start_char="1104">с</TOKEN>
+<TOKEN end_char="1108" id="token-6-24" morph="none" pos="word" start_char="1106">его</TOKEN>
+<TOKEN end_char="1119" id="token-6-25" morph="none" pos="word" start_char="1110">заявлением</TOKEN>
+<TOKEN end_char="1121" id="token-6-26" morph="none" pos="word" start_char="1121">о</TOKEN>
+<TOKEN end_char="1136" id="token-6-27" morph="none" pos="word" start_char="1123">предоставлении</TOKEN>
+<TOKEN end_char="1143" id="token-6-28" morph="none" pos="word" start_char="1138">первой</TOKEN>
+<TOKEN end_char="1150" id="token-6-29" morph="none" pos="word" start_char="1145">партии</TOKEN>
+<TOKEN end_char="1158" id="token-6-30" morph="none" pos="word" start_char="1152">вакцины</TOKEN>
+<TOKEN end_char="1165" id="token-6-31" morph="none" pos="word" start_char="1160">против</TOKEN>
+<TOKEN end_char="1174" id="token-6-32" morph="none" pos="unknown" start_char="1167">COVID-19</TOKEN>
+<TOKEN end_char="1186" id="token-6-33" morph="none" pos="word" start_char="1176">Соединенным</TOKEN>
+<TOKEN end_char="1193" id="token-6-34" morph="none" pos="word" start_char="1188">Штатам</TOKEN>
+<TOKEN end_char="1194" id="token-6-35" morph="none" pos="punct" start_char="1194">.</TOKEN>
+<TRANSLATED_TEXT>As reported by IA REGNUM, Sanofi General Manager Paul Hudson had previously apologized to his staff for the "delicate situation" associated with his application for the first batch of COVID-19 vaccine to the United States.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1291" id="segment-7" start_char="1197">
+<ORIGINAL_TEXT>Подробнее в материале: Спор о вакцине: глава фармкомпании Sanofi приносит извинения сотрудникам</ORIGINAL_TEXT>
+<TOKEN end_char="1205" id="token-7-0" morph="none" pos="word" start_char="1197">Подробнее</TOKEN>
+<TOKEN end_char="1207" id="token-7-1" morph="none" pos="word" start_char="1207">в</TOKEN>
+<TOKEN end_char="1217" id="token-7-2" morph="none" pos="word" start_char="1209">материале</TOKEN>
+<TOKEN end_char="1218" id="token-7-3" morph="none" pos="punct" start_char="1218">:</TOKEN>
+<TOKEN end_char="1223" id="token-7-4" morph="none" pos="word" start_char="1220">Спор</TOKEN>
+<TOKEN end_char="1225" id="token-7-5" morph="none" pos="word" start_char="1225">о</TOKEN>
+<TOKEN end_char="1233" id="token-7-6" morph="none" pos="word" start_char="1227">вакцине</TOKEN>
+<TOKEN end_char="1234" id="token-7-7" morph="none" pos="punct" start_char="1234">:</TOKEN>
+<TOKEN end_char="1240" id="token-7-8" morph="none" pos="word" start_char="1236">глава</TOKEN>
+<TOKEN end_char="1253" id="token-7-9" morph="none" pos="word" start_char="1242">фармкомпании</TOKEN>
+<TOKEN end_char="1260" id="token-7-10" morph="none" pos="word" start_char="1255">Sanofi</TOKEN>
+<TOKEN end_char="1269" id="token-7-11" morph="none" pos="word" start_char="1262">приносит</TOKEN>
+<TOKEN end_char="1279" id="token-7-12" morph="none" pos="word" start_char="1271">извинения</TOKEN>
+<TOKEN end_char="1291" id="token-7-13" morph="none" pos="word" start_char="1281">сотрудникам</TOKEN>
+<TRANSLATED_TEXT>More information: Vaccine dispute: Sanofi farm manager apologizes to employees</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1385" id="segment-8" start_char="1295">
+<ORIGINAL_TEXT>Читайте развитие сюжета: Учёные в США нашли признаки появления коронавируса летом 2019 года</ORIGINAL_TEXT>
+<TOKEN end_char="1301" id="token-8-0" morph="none" pos="word" start_char="1295">Читайте</TOKEN>
+<TOKEN end_char="1310" id="token-8-1" morph="none" pos="word" start_char="1303">развитие</TOKEN>
+<TOKEN end_char="1317" id="token-8-2" morph="none" pos="word" start_char="1312">сюжета</TOKEN>
+<TOKEN end_char="1318" id="token-8-3" morph="none" pos="punct" start_char="1318">:</TOKEN>
+<TOKEN end_char="1325" id="token-8-4" morph="none" pos="word" start_char="1320">Учёные</TOKEN>
+<TOKEN end_char="1327" id="token-8-5" morph="none" pos="word" start_char="1327">в</TOKEN>
+<TOKEN end_char="1331" id="token-8-6" morph="none" pos="word" start_char="1329">США</TOKEN>
+<TOKEN end_char="1337" id="token-8-7" morph="none" pos="word" start_char="1333">нашли</TOKEN>
+<TOKEN end_char="1346" id="token-8-8" morph="none" pos="word" start_char="1339">признаки</TOKEN>
+<TOKEN end_char="1356" id="token-8-9" morph="none" pos="word" start_char="1348">появления</TOKEN>
+<TOKEN end_char="1369" id="token-8-10" morph="none" pos="word" start_char="1358">коронавируса</TOKEN>
+<TOKEN end_char="1375" id="token-8-11" morph="none" pos="word" start_char="1371">летом</TOKEN>
+<TOKEN end_char="1380" id="token-8-12" morph="none" pos="word" start_char="1377">2019</TOKEN>
+<TOKEN end_char="1385" id="token-8-13" morph="none" pos="word" start_char="1382">года</TOKEN>
+<TRANSLATED_TEXT>Read plot development: Scientists in the United States found signs of a coronavirus in the summer of 2019</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1452" id="segment-9" start_char="1389">
+<ORIGINAL_TEXT>Пятая республика во Франции переживает свои не лучшие свои годы.</ORIGINAL_TEXT>
+<TOKEN end_char="1393" id="token-9-0" morph="none" pos="word" start_char="1389">Пятая</TOKEN>
+<TOKEN end_char="1404" id="token-9-1" morph="none" pos="word" start_char="1395">республика</TOKEN>
+<TOKEN end_char="1407" id="token-9-2" morph="none" pos="word" start_char="1406">во</TOKEN>
+<TOKEN end_char="1415" id="token-9-3" morph="none" pos="word" start_char="1409">Франции</TOKEN>
+<TOKEN end_char="1426" id="token-9-4" morph="none" pos="word" start_char="1417">переживает</TOKEN>
+<TOKEN end_char="1431" id="token-9-5" morph="none" pos="word" start_char="1428">свои</TOKEN>
+<TOKEN end_char="1434" id="token-9-6" morph="none" pos="word" start_char="1433">не</TOKEN>
+<TOKEN end_char="1441" id="token-9-7" morph="none" pos="word" start_char="1436">лучшие</TOKEN>
+<TOKEN end_char="1446" id="token-9-8" morph="none" pos="word" start_char="1443">свои</TOKEN>
+<TOKEN end_char="1451" id="token-9-9" morph="none" pos="word" start_char="1448">годы</TOKEN>
+<TOKEN end_char="1452" id="token-9-10" morph="none" pos="punct" start_char="1452">.</TOKEN>
+<TRANSLATED_TEXT>The Fifth Republic in France is going through its worst years.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1581" id="segment-10" start_char="1454">
+<ORIGINAL_TEXT>Рейтинги президентов Саркози, Олланда, Макрона очень скоро после прихода к власти начинают бить антирекорды по уровню недоверия.</ORIGINAL_TEXT>
+<TOKEN end_char="1461" id="token-10-0" morph="none" pos="word" start_char="1454">Рейтинги</TOKEN>
+<TOKEN end_char="1473" id="token-10-1" morph="none" pos="word" start_char="1463">президентов</TOKEN>
+<TOKEN end_char="1481" id="token-10-2" morph="none" pos="word" start_char="1475">Саркози</TOKEN>
+<TOKEN end_char="1482" id="token-10-3" morph="none" pos="punct" start_char="1482">,</TOKEN>
+<TOKEN end_char="1490" id="token-10-4" morph="none" pos="word" start_char="1484">Олланда</TOKEN>
+<TOKEN end_char="1491" id="token-10-5" morph="none" pos="punct" start_char="1491">,</TOKEN>
+<TOKEN end_char="1499" id="token-10-6" morph="none" pos="word" start_char="1493">Макрона</TOKEN>
+<TOKEN end_char="1505" id="token-10-7" morph="none" pos="word" start_char="1501">очень</TOKEN>
+<TOKEN end_char="1511" id="token-10-8" morph="none" pos="word" start_char="1507">скоро</TOKEN>
+<TOKEN end_char="1517" id="token-10-9" morph="none" pos="word" start_char="1513">после</TOKEN>
+<TOKEN end_char="1525" id="token-10-10" morph="none" pos="word" start_char="1519">прихода</TOKEN>
+<TOKEN end_char="1527" id="token-10-11" morph="none" pos="word" start_char="1527">к</TOKEN>
+<TOKEN end_char="1534" id="token-10-12" morph="none" pos="word" start_char="1529">власти</TOKEN>
+<TOKEN end_char="1543" id="token-10-13" morph="none" pos="word" start_char="1536">начинают</TOKEN>
+<TOKEN end_char="1548" id="token-10-14" morph="none" pos="word" start_char="1545">бить</TOKEN>
+<TOKEN end_char="1560" id="token-10-15" morph="none" pos="word" start_char="1550">антирекорды</TOKEN>
+<TOKEN end_char="1563" id="token-10-16" morph="none" pos="word" start_char="1562">по</TOKEN>
+<TOKEN end_char="1570" id="token-10-17" morph="none" pos="word" start_char="1565">уровню</TOKEN>
+<TOKEN end_char="1580" id="token-10-18" morph="none" pos="word" start_char="1572">недоверия</TOKEN>
+<TOKEN end_char="1581" id="token-10-19" morph="none" pos="punct" start_char="1581">.</TOKEN>
+<TRANSLATED_TEXT>The ratings of Presidents Sarkozy, Hollande, and Macron begin to beat the record of mistrust very soon after they take office.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1665" id="segment-11" start_char="1583">
+<ORIGINAL_TEXT>За последние 20 лет страна по своему влиянию в ЕС окончательно ушла на вторые роли.</ORIGINAL_TEXT>
+<TOKEN end_char="1584" id="token-11-0" morph="none" pos="word" start_char="1583">За</TOKEN>
+<TOKEN end_char="1594" id="token-11-1" morph="none" pos="word" start_char="1586">последние</TOKEN>
+<TOKEN end_char="1597" id="token-11-2" morph="none" pos="word" start_char="1596">20</TOKEN>
+<TOKEN end_char="1601" id="token-11-3" morph="none" pos="word" start_char="1599">лет</TOKEN>
+<TOKEN end_char="1608" id="token-11-4" morph="none" pos="word" start_char="1603">страна</TOKEN>
+<TOKEN end_char="1611" id="token-11-5" morph="none" pos="word" start_char="1610">по</TOKEN>
+<TOKEN end_char="1618" id="token-11-6" morph="none" pos="word" start_char="1613">своему</TOKEN>
+<TOKEN end_char="1626" id="token-11-7" morph="none" pos="word" start_char="1620">влиянию</TOKEN>
+<TOKEN end_char="1628" id="token-11-8" morph="none" pos="word" start_char="1628">в</TOKEN>
+<TOKEN end_char="1631" id="token-11-9" morph="none" pos="word" start_char="1630">ЕС</TOKEN>
+<TOKEN end_char="1644" id="token-11-10" morph="none" pos="word" start_char="1633">окончательно</TOKEN>
+<TOKEN end_char="1649" id="token-11-11" morph="none" pos="word" start_char="1646">ушла</TOKEN>
+<TOKEN end_char="1652" id="token-11-12" morph="none" pos="word" start_char="1651">на</TOKEN>
+<TOKEN end_char="1659" id="token-11-13" morph="none" pos="word" start_char="1654">вторые</TOKEN>
+<TOKEN end_char="1664" id="token-11-14" morph="none" pos="word" start_char="1661">роли</TOKEN>
+<TOKEN end_char="1665" id="token-11-15" morph="none" pos="punct" start_char="1665">.</TOKEN>
+<TRANSLATED_TEXT>Over the past 20 years, the country's influence in the EU has finally taken second place.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1827" id="segment-12" start_char="1667">
+<ORIGINAL_TEXT>При этом политика в отношении России вне зависимости от имени главы государства не меняется, оставаясь относительно нейтральной в рамках, очерченных не в Париже.</ORIGINAL_TEXT>
+<TOKEN end_char="1669" id="token-12-0" morph="none" pos="word" start_char="1667">При</TOKEN>
+<TOKEN end_char="1674" id="token-12-1" morph="none" pos="word" start_char="1671">этом</TOKEN>
+<TOKEN end_char="1683" id="token-12-2" morph="none" pos="word" start_char="1676">политика</TOKEN>
+<TOKEN end_char="1685" id="token-12-3" morph="none" pos="word" start_char="1685">в</TOKEN>
+<TOKEN end_char="1695" id="token-12-4" morph="none" pos="word" start_char="1687">отношении</TOKEN>
+<TOKEN end_char="1702" id="token-12-5" morph="none" pos="word" start_char="1697">России</TOKEN>
+<TOKEN end_char="1706" id="token-12-6" morph="none" pos="word" start_char="1704">вне</TOKEN>
+<TOKEN end_char="1718" id="token-12-7" morph="none" pos="word" start_char="1708">зависимости</TOKEN>
+<TOKEN end_char="1721" id="token-12-8" morph="none" pos="word" start_char="1720">от</TOKEN>
+<TOKEN end_char="1727" id="token-12-9" morph="none" pos="word" start_char="1723">имени</TOKEN>
+<TOKEN end_char="1733" id="token-12-10" morph="none" pos="word" start_char="1729">главы</TOKEN>
+<TOKEN end_char="1745" id="token-12-11" morph="none" pos="word" start_char="1735">государства</TOKEN>
+<TOKEN end_char="1748" id="token-12-12" morph="none" pos="word" start_char="1747">не</TOKEN>
+<TOKEN end_char="1757" id="token-12-13" morph="none" pos="word" start_char="1750">меняется</TOKEN>
+<TOKEN end_char="1758" id="token-12-14" morph="none" pos="punct" start_char="1758">,</TOKEN>
+<TOKEN end_char="1768" id="token-12-15" morph="none" pos="word" start_char="1760">оставаясь</TOKEN>
+<TOKEN end_char="1781" id="token-12-16" morph="none" pos="word" start_char="1770">относительно</TOKEN>
+<TOKEN end_char="1793" id="token-12-17" morph="none" pos="word" start_char="1783">нейтральной</TOKEN>
+<TOKEN end_char="1795" id="token-12-18" morph="none" pos="word" start_char="1795">в</TOKEN>
+<TOKEN end_char="1802" id="token-12-19" morph="none" pos="word" start_char="1797">рамках</TOKEN>
+<TOKEN end_char="1803" id="token-12-20" morph="none" pos="punct" start_char="1803">,</TOKEN>
+<TOKEN end_char="1814" id="token-12-21" morph="none" pos="word" start_char="1805">очерченных</TOKEN>
+<TOKEN end_char="1817" id="token-12-22" morph="none" pos="word" start_char="1816">не</TOKEN>
+<TOKEN end_char="1819" id="token-12-23" morph="none" pos="word" start_char="1819">в</TOKEN>
+<TOKEN end_char="1826" id="token-12-24" morph="none" pos="word" start_char="1821">Париже</TOKEN>
+<TOKEN end_char="1827" id="token-12-25" morph="none" pos="punct" start_char="1827">.</TOKEN>
+<TRANSLATED_TEXT>However, policy towards Russia, regardless of the head of state, remains relatively neutral within a framework not defined in Paris.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1954" id="segment-13" start_char="1829">
+<ORIGINAL_TEXT>Наиболее значительным инцидентом в двусторонних отношениях можно назвать отказ в продаже двух вертолётоносцев типа «Мистраль».</ORIGINAL_TEXT>
+<TOKEN end_char="1836" id="token-13-0" morph="none" pos="word" start_char="1829">Наиболее</TOKEN>
+<TOKEN end_char="1849" id="token-13-1" morph="none" pos="word" start_char="1838">значительным</TOKEN>
+<TOKEN end_char="1860" id="token-13-2" morph="none" pos="word" start_char="1851">инцидентом</TOKEN>
+<TOKEN end_char="1862" id="token-13-3" morph="none" pos="word" start_char="1862">в</TOKEN>
+<TOKEN end_char="1875" id="token-13-4" morph="none" pos="word" start_char="1864">двусторонних</TOKEN>
+<TOKEN end_char="1886" id="token-13-5" morph="none" pos="word" start_char="1877">отношениях</TOKEN>
+<TOKEN end_char="1892" id="token-13-6" morph="none" pos="word" start_char="1888">можно</TOKEN>
+<TOKEN end_char="1900" id="token-13-7" morph="none" pos="word" start_char="1894">назвать</TOKEN>
+<TOKEN end_char="1906" id="token-13-8" morph="none" pos="word" start_char="1902">отказ</TOKEN>
+<TOKEN end_char="1908" id="token-13-9" morph="none" pos="word" start_char="1908">в</TOKEN>
+<TOKEN end_char="1916" id="token-13-10" morph="none" pos="word" start_char="1910">продаже</TOKEN>
+<TOKEN end_char="1921" id="token-13-11" morph="none" pos="word" start_char="1918">двух</TOKEN>
+<TOKEN end_char="1937" id="token-13-12" morph="none" pos="word" start_char="1923">вертолётоносцев</TOKEN>
+<TOKEN end_char="1942" id="token-13-13" morph="none" pos="word" start_char="1939">типа</TOKEN>
+<TOKEN end_char="1944" id="token-13-14" morph="none" pos="punct" start_char="1944">«</TOKEN>
+<TOKEN end_char="1952" id="token-13-15" morph="none" pos="word" start_char="1945">Мистраль</TOKEN>
+<TOKEN end_char="1954" id="token-13-16" morph="none" pos="punct" start_char="1953">».</TOKEN>
+<TRANSLATED_TEXT>The most significant incident in bilateral relations is the refusal to sell two Mistral-type helicopters.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2105" id="segment-14" start_char="1956">
+<ORIGINAL_TEXT>По итогам той истории можно сказать, что ущерб самой Франции от отказа от сделки — финансовый, репутационный намного превысил возможные убытки России.</ORIGINAL_TEXT>
+<TOKEN end_char="1957" id="token-14-0" morph="none" pos="word" start_char="1956">По</TOKEN>
+<TOKEN end_char="1964" id="token-14-1" morph="none" pos="word" start_char="1959">итогам</TOKEN>
+<TOKEN end_char="1968" id="token-14-2" morph="none" pos="word" start_char="1966">той</TOKEN>
+<TOKEN end_char="1976" id="token-14-3" morph="none" pos="word" start_char="1970">истории</TOKEN>
+<TOKEN end_char="1982" id="token-14-4" morph="none" pos="word" start_char="1978">можно</TOKEN>
+<TOKEN end_char="1990" id="token-14-5" morph="none" pos="word" start_char="1984">сказать</TOKEN>
+<TOKEN end_char="1991" id="token-14-6" morph="none" pos="punct" start_char="1991">,</TOKEN>
+<TOKEN end_char="1995" id="token-14-7" morph="none" pos="word" start_char="1993">что</TOKEN>
+<TOKEN end_char="2001" id="token-14-8" morph="none" pos="word" start_char="1997">ущерб</TOKEN>
+<TOKEN end_char="2007" id="token-14-9" morph="none" pos="word" start_char="2003">самой</TOKEN>
+<TOKEN end_char="2015" id="token-14-10" morph="none" pos="word" start_char="2009">Франции</TOKEN>
+<TOKEN end_char="2018" id="token-14-11" morph="none" pos="word" start_char="2017">от</TOKEN>
+<TOKEN end_char="2025" id="token-14-12" morph="none" pos="word" start_char="2020">отказа</TOKEN>
+<TOKEN end_char="2028" id="token-14-13" morph="none" pos="word" start_char="2027">от</TOKEN>
+<TOKEN end_char="2035" id="token-14-14" morph="none" pos="word" start_char="2030">сделки</TOKEN>
+<TOKEN end_char="2037" id="token-14-15" morph="none" pos="punct" start_char="2037">—</TOKEN>
+<TOKEN end_char="2048" id="token-14-16" morph="none" pos="word" start_char="2039">финансовый</TOKEN>
+<TOKEN end_char="2049" id="token-14-17" morph="none" pos="punct" start_char="2049">,</TOKEN>
+<TOKEN end_char="2063" id="token-14-18" morph="none" pos="word" start_char="2051">репутационный</TOKEN>
+<TOKEN end_char="2071" id="token-14-19" morph="none" pos="word" start_char="2065">намного</TOKEN>
+<TOKEN end_char="2080" id="token-14-20" morph="none" pos="word" start_char="2073">превысил</TOKEN>
+<TOKEN end_char="2090" id="token-14-21" morph="none" pos="word" start_char="2082">возможные</TOKEN>
+<TOKEN end_char="2097" id="token-14-22" morph="none" pos="word" start_char="2092">убытки</TOKEN>
+<TOKEN end_char="2104" id="token-14-23" morph="none" pos="word" start_char="2099">России</TOKEN>
+<TOKEN end_char="2105" id="token-14-24" morph="none" pos="punct" start_char="2105">.</TOKEN>
+<TRANSLATED_TEXT>As a result of that history, it can be said that the damage to France itself from refusing the deal - financial, reputational - far outweighed the possible damage to Russia.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

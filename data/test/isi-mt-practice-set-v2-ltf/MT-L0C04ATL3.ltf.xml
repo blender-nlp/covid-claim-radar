@@ -1,0 +1,195 @@
+<LCTL_TEXT lang="spa">
+<DOC grammar="none" id="L0C04ATL3" lang="spa" raw_text_char_length="861" raw_text_md5="26c7d24b9da69d0565d274e6dc1b3b92" tokenization="tokenization_parameters.v5.0">
+<TEXT>
+<SEG end_char="60" id="segment-0" start_char="1">
+<ORIGINAL_TEXT>Will the coronavirus survive in the refrigerator or freezer?</ORIGINAL_TEXT>
+<TOKEN end_char="4" id="token-0-0" morph="none" pos="word" start_char="1">Will</TOKEN>
+<TOKEN end_char="8" id="token-0-1" morph="none" pos="word" start_char="6">the</TOKEN>
+<TOKEN end_char="20" id="token-0-2" morph="none" pos="word" start_char="10">coronavirus</TOKEN>
+<TOKEN end_char="28" id="token-0-3" morph="none" pos="word" start_char="22">survive</TOKEN>
+<TOKEN end_char="31" id="token-0-4" morph="none" pos="word" start_char="30">in</TOKEN>
+<TOKEN end_char="35" id="token-0-5" morph="none" pos="word" start_char="33">the</TOKEN>
+<TOKEN end_char="48" id="token-0-6" morph="none" pos="word" start_char="37">refrigerator</TOKEN>
+<TOKEN end_char="51" id="token-0-7" morph="none" pos="word" start_char="50">or</TOKEN>
+<TOKEN end_char="59" id="token-0-8" morph="none" pos="word" start_char="53">freezer</TOKEN>
+<TOKEN end_char="60" id="token-0-9" morph="none" pos="punct" start_char="60">?</TOKEN>
+</SEG>
+<SEG end_char="201" id="segment-1" start_char="64">
+<ORIGINAL_TEXT>A 2010 study used two viruses that are related to the COVID-19 virus to look at the effects of temperature and humidity on viral survival.</ORIGINAL_TEXT>
+<TOKEN end_char="64" id="token-1-0" morph="none" pos="word" start_char="64">A</TOKEN>
+<TOKEN end_char="69" id="token-1-1" morph="none" pos="word" start_char="66">2010</TOKEN>
+<TOKEN end_char="75" id="token-1-2" morph="none" pos="word" start_char="71">study</TOKEN>
+<TOKEN end_char="80" id="token-1-3" morph="none" pos="word" start_char="77">used</TOKEN>
+<TOKEN end_char="84" id="token-1-4" morph="none" pos="word" start_char="82">two</TOKEN>
+<TOKEN end_char="92" id="token-1-5" morph="none" pos="word" start_char="86">viruses</TOKEN>
+<TOKEN end_char="97" id="token-1-6" morph="none" pos="word" start_char="94">that</TOKEN>
+<TOKEN end_char="101" id="token-1-7" morph="none" pos="word" start_char="99">are</TOKEN>
+<TOKEN end_char="109" id="token-1-8" morph="none" pos="word" start_char="103">related</TOKEN>
+<TOKEN end_char="112" id="token-1-9" morph="none" pos="word" start_char="111">to</TOKEN>
+<TOKEN end_char="116" id="token-1-10" morph="none" pos="word" start_char="114">the</TOKEN>
+<TOKEN end_char="125" id="token-1-11" morph="none" pos="unknown" start_char="118">COVID-19</TOKEN>
+<TOKEN end_char="131" id="token-1-12" morph="none" pos="word" start_char="127">virus</TOKEN>
+<TOKEN end_char="134" id="token-1-13" morph="none" pos="word" start_char="133">to</TOKEN>
+<TOKEN end_char="139" id="token-1-14" morph="none" pos="word" start_char="136">look</TOKEN>
+<TOKEN end_char="142" id="token-1-15" morph="none" pos="word" start_char="141">at</TOKEN>
+<TOKEN end_char="146" id="token-1-16" morph="none" pos="word" start_char="144">the</TOKEN>
+<TOKEN end_char="154" id="token-1-17" morph="none" pos="word" start_char="148">effects</TOKEN>
+<TOKEN end_char="157" id="token-1-18" morph="none" pos="word" start_char="156">of</TOKEN>
+<TOKEN end_char="169" id="token-1-19" morph="none" pos="word" start_char="159">temperature</TOKEN>
+<TOKEN end_char="173" id="token-1-20" morph="none" pos="word" start_char="171">and</TOKEN>
+<TOKEN end_char="182" id="token-1-21" morph="none" pos="word" start_char="175">humidity</TOKEN>
+<TOKEN end_char="185" id="token-1-22" morph="none" pos="word" start_char="184">on</TOKEN>
+<TOKEN end_char="191" id="token-1-23" morph="none" pos="word" start_char="187">viral</TOKEN>
+<TOKEN end_char="200" id="token-1-24" morph="none" pos="word" start_char="193">survival</TOKEN>
+<TOKEN end_char="201" id="token-1-25" morph="none" pos="punct" start_char="201">.</TOKEN>
+</SEG>
+<SEG end_char="298" id="segment-2" start_char="203">
+<ORIGINAL_TEXT>Researchers found that both lower temperatures and lower humidity helped viruses survive longer.</ORIGINAL_TEXT>
+<TOKEN end_char="213" id="token-2-0" morph="none" pos="word" start_char="203">Researchers</TOKEN>
+<TOKEN end_char="219" id="token-2-1" morph="none" pos="word" start_char="215">found</TOKEN>
+<TOKEN end_char="224" id="token-2-2" morph="none" pos="word" start_char="221">that</TOKEN>
+<TOKEN end_char="229" id="token-2-3" morph="none" pos="word" start_char="226">both</TOKEN>
+<TOKEN end_char="235" id="token-2-4" morph="none" pos="word" start_char="231">lower</TOKEN>
+<TOKEN end_char="248" id="token-2-5" morph="none" pos="word" start_char="237">temperatures</TOKEN>
+<TOKEN end_char="252" id="token-2-6" morph="none" pos="word" start_char="250">and</TOKEN>
+<TOKEN end_char="258" id="token-2-7" morph="none" pos="word" start_char="254">lower</TOKEN>
+<TOKEN end_char="267" id="token-2-8" morph="none" pos="word" start_char="260">humidity</TOKEN>
+<TOKEN end_char="274" id="token-2-9" morph="none" pos="word" start_char="269">helped</TOKEN>
+<TOKEN end_char="282" id="token-2-10" morph="none" pos="word" start_char="276">viruses</TOKEN>
+<TOKEN end_char="290" id="token-2-11" morph="none" pos="word" start_char="284">survive</TOKEN>
+<TOKEN end_char="297" id="token-2-12" morph="none" pos="word" start_char="292">longer</TOKEN>
+<TOKEN end_char="298" id="token-2-13" morph="none" pos="punct" start_char="298">.</TOKEN>
+</SEG>
+<SEG end_char="431" id="segment-3" start_char="300">
+<ORIGINAL_TEXT>In particular, at 4 degrees C, or 40 degrees F, and 20% relative humidity, more than two thirds of the viruses survived for 28 days.</ORIGINAL_TEXT>
+<TOKEN end_char="301" id="token-3-0" morph="none" pos="word" start_char="300">In</TOKEN>
+<TOKEN end_char="312" id="token-3-1" morph="none" pos="word" start_char="303">particular</TOKEN>
+<TOKEN end_char="313" id="token-3-2" morph="none" pos="punct" start_char="313">,</TOKEN>
+<TOKEN end_char="316" id="token-3-3" morph="none" pos="word" start_char="315">at</TOKEN>
+<TOKEN end_char="318" id="token-3-4" morph="none" pos="word" start_char="318">4</TOKEN>
+<TOKEN end_char="326" id="token-3-5" morph="none" pos="word" start_char="320">degrees</TOKEN>
+<TOKEN end_char="328" id="token-3-6" morph="none" pos="word" start_char="328">C</TOKEN>
+<TOKEN end_char="329" id="token-3-7" morph="none" pos="punct" start_char="329">,</TOKEN>
+<TOKEN end_char="332" id="token-3-8" morph="none" pos="word" start_char="331">or</TOKEN>
+<TOKEN end_char="335" id="token-3-9" morph="none" pos="word" start_char="334">40</TOKEN>
+<TOKEN end_char="343" id="token-3-10" morph="none" pos="word" start_char="337">degrees</TOKEN>
+<TOKEN end_char="345" id="token-3-11" morph="none" pos="word" start_char="345">F</TOKEN>
+<TOKEN end_char="346" id="token-3-12" morph="none" pos="punct" start_char="346">,</TOKEN>
+<TOKEN end_char="350" id="token-3-13" morph="none" pos="word" start_char="348">and</TOKEN>
+<TOKEN end_char="353" id="token-3-14" morph="none" pos="word" start_char="352">20</TOKEN>
+<TOKEN end_char="354" id="token-3-15" morph="none" pos="punct" start_char="354">%</TOKEN>
+<TOKEN end_char="363" id="token-3-16" morph="none" pos="word" start_char="356">relative</TOKEN>
+<TOKEN end_char="372" id="token-3-17" morph="none" pos="word" start_char="365">humidity</TOKEN>
+<TOKEN end_char="373" id="token-3-18" morph="none" pos="punct" start_char="373">,</TOKEN>
+<TOKEN end_char="378" id="token-3-19" morph="none" pos="word" start_char="375">more</TOKEN>
+<TOKEN end_char="383" id="token-3-20" morph="none" pos="word" start_char="380">than</TOKEN>
+<TOKEN end_char="387" id="token-3-21" morph="none" pos="word" start_char="385">two</TOKEN>
+<TOKEN end_char="394" id="token-3-22" morph="none" pos="word" start_char="389">thirds</TOKEN>
+<TOKEN end_char="397" id="token-3-23" morph="none" pos="word" start_char="396">of</TOKEN>
+<TOKEN end_char="401" id="token-3-24" morph="none" pos="word" start_char="399">the</TOKEN>
+<TOKEN end_char="409" id="token-3-25" morph="none" pos="word" start_char="403">viruses</TOKEN>
+<TOKEN end_char="418" id="token-3-26" morph="none" pos="word" start_char="411">survived</TOKEN>
+<TOKEN end_char="422" id="token-3-27" morph="none" pos="word" start_char="420">for</TOKEN>
+<TOKEN end_char="425" id="token-3-28" morph="none" pos="word" start_char="424">28</TOKEN>
+<TOKEN end_char="430" id="token-3-29" morph="none" pos="word" start_char="427">days</TOKEN>
+<TOKEN end_char="431" id="token-3-30" morph="none" pos="punct" start_char="431">.</TOKEN>
+</SEG>
+<SEG end_char="562" id="segment-4" start_char="433">
+<ORIGINAL_TEXT>On the other end of the spectrum, at 40 degrees C, or 104 degrees F, and 80% humidity, the viruses survived for less than 6 hours.</ORIGINAL_TEXT>
+<TOKEN end_char="434" id="token-4-0" morph="none" pos="word" start_char="433">On</TOKEN>
+<TOKEN end_char="438" id="token-4-1" morph="none" pos="word" start_char="436">the</TOKEN>
+<TOKEN end_char="444" id="token-4-2" morph="none" pos="word" start_char="440">other</TOKEN>
+<TOKEN end_char="448" id="token-4-3" morph="none" pos="word" start_char="446">end</TOKEN>
+<TOKEN end_char="451" id="token-4-4" morph="none" pos="word" start_char="450">of</TOKEN>
+<TOKEN end_char="455" id="token-4-5" morph="none" pos="word" start_char="453">the</TOKEN>
+<TOKEN end_char="464" id="token-4-6" morph="none" pos="word" start_char="457">spectrum</TOKEN>
+<TOKEN end_char="465" id="token-4-7" morph="none" pos="punct" start_char="465">,</TOKEN>
+<TOKEN end_char="468" id="token-4-8" morph="none" pos="word" start_char="467">at</TOKEN>
+<TOKEN end_char="471" id="token-4-9" morph="none" pos="word" start_char="470">40</TOKEN>
+<TOKEN end_char="479" id="token-4-10" morph="none" pos="word" start_char="473">degrees</TOKEN>
+<TOKEN end_char="481" id="token-4-11" morph="none" pos="word" start_char="481">C</TOKEN>
+<TOKEN end_char="482" id="token-4-12" morph="none" pos="punct" start_char="482">,</TOKEN>
+<TOKEN end_char="485" id="token-4-13" morph="none" pos="word" start_char="484">or</TOKEN>
+<TOKEN end_char="489" id="token-4-14" morph="none" pos="word" start_char="487">104</TOKEN>
+<TOKEN end_char="497" id="token-4-15" morph="none" pos="word" start_char="491">degrees</TOKEN>
+<TOKEN end_char="499" id="token-4-16" morph="none" pos="word" start_char="499">F</TOKEN>
+<TOKEN end_char="500" id="token-4-17" morph="none" pos="punct" start_char="500">,</TOKEN>
+<TOKEN end_char="504" id="token-4-18" morph="none" pos="word" start_char="502">and</TOKEN>
+<TOKEN end_char="507" id="token-4-19" morph="none" pos="word" start_char="506">80</TOKEN>
+<TOKEN end_char="508" id="token-4-20" morph="none" pos="punct" start_char="508">%</TOKEN>
+<TOKEN end_char="517" id="token-4-21" morph="none" pos="word" start_char="510">humidity</TOKEN>
+<TOKEN end_char="518" id="token-4-22" morph="none" pos="punct" start_char="518">,</TOKEN>
+<TOKEN end_char="522" id="token-4-23" morph="none" pos="word" start_char="520">the</TOKEN>
+<TOKEN end_char="530" id="token-4-24" morph="none" pos="word" start_char="524">viruses</TOKEN>
+<TOKEN end_char="539" id="token-4-25" morph="none" pos="word" start_char="532">survived</TOKEN>
+<TOKEN end_char="543" id="token-4-26" morph="none" pos="word" start_char="541">for</TOKEN>
+<TOKEN end_char="548" id="token-4-27" morph="none" pos="word" start_char="545">less</TOKEN>
+<TOKEN end_char="553" id="token-4-28" morph="none" pos="word" start_char="550">than</TOKEN>
+<TOKEN end_char="555" id="token-4-29" morph="none" pos="word" start_char="555">6</TOKEN>
+<TOKEN end_char="561" id="token-4-30" morph="none" pos="word" start_char="557">hours</TOKEN>
+<TOKEN end_char="562" id="token-4-31" morph="none" pos="punct" start_char="562">.</TOKEN>
+</SEG>
+<SEG end_char="647" id="segment-5" start_char="565">
+<ORIGINAL_TEXT>This suggests that coronaviruses survive better on surfaces at colder temperatures.</ORIGINAL_TEXT>
+<TOKEN end_char="568" id="token-5-0" morph="none" pos="word" start_char="565">This</TOKEN>
+<TOKEN end_char="577" id="token-5-1" morph="none" pos="word" start_char="570">suggests</TOKEN>
+<TOKEN end_char="582" id="token-5-2" morph="none" pos="word" start_char="579">that</TOKEN>
+<TOKEN end_char="596" id="token-5-3" morph="none" pos="word" start_char="584">coronaviruses</TOKEN>
+<TOKEN end_char="604" id="token-5-4" morph="none" pos="word" start_char="598">survive</TOKEN>
+<TOKEN end_char="611" id="token-5-5" morph="none" pos="word" start_char="606">better</TOKEN>
+<TOKEN end_char="614" id="token-5-6" morph="none" pos="word" start_char="613">on</TOKEN>
+<TOKEN end_char="623" id="token-5-7" morph="none" pos="word" start_char="616">surfaces</TOKEN>
+<TOKEN end_char="626" id="token-5-8" morph="none" pos="word" start_char="625">at</TOKEN>
+<TOKEN end_char="633" id="token-5-9" morph="none" pos="word" start_char="628">colder</TOKEN>
+<TOKEN end_char="646" id="token-5-10" morph="none" pos="word" start_char="635">temperatures</TOKEN>
+<TOKEN end_char="647" id="token-5-11" morph="none" pos="punct" start_char="647">.</TOKEN>
+</SEG>
+<SEG end_char="710" id="segment-6" start_char="649">
+<ORIGINAL_TEXT>It is also expected that the virus would survive being frozen.</ORIGINAL_TEXT>
+<TOKEN end_char="650" id="token-6-0" morph="none" pos="word" start_char="649">It</TOKEN>
+<TOKEN end_char="653" id="token-6-1" morph="none" pos="word" start_char="652">is</TOKEN>
+<TOKEN end_char="658" id="token-6-2" morph="none" pos="word" start_char="655">also</TOKEN>
+<TOKEN end_char="667" id="token-6-3" morph="none" pos="word" start_char="660">expected</TOKEN>
+<TOKEN end_char="672" id="token-6-4" morph="none" pos="word" start_char="669">that</TOKEN>
+<TOKEN end_char="676" id="token-6-5" morph="none" pos="word" start_char="674">the</TOKEN>
+<TOKEN end_char="682" id="token-6-6" morph="none" pos="word" start_char="678">virus</TOKEN>
+<TOKEN end_char="688" id="token-6-7" morph="none" pos="word" start_char="684">would</TOKEN>
+<TOKEN end_char="696" id="token-6-8" morph="none" pos="word" start_char="690">survive</TOKEN>
+<TOKEN end_char="702" id="token-6-9" morph="none" pos="word" start_char="698">being</TOKEN>
+<TOKEN end_char="709" id="token-6-10" morph="none" pos="word" start_char="704">frozen</TOKEN>
+<TOKEN end_char="710" id="token-6-11" morph="none" pos="punct" start_char="710">.</TOKEN>
+</SEG>
+<SEG end_char="806" id="segment-7" start_char="713">
+<ORIGINAL_TEXT>It is important to wash your hands and your produce, following sound food handling guidelines.</ORIGINAL_TEXT>
+<TOKEN end_char="714" id="token-7-0" morph="none" pos="word" start_char="713">It</TOKEN>
+<TOKEN end_char="717" id="token-7-1" morph="none" pos="word" start_char="716">is</TOKEN>
+<TOKEN end_char="727" id="token-7-2" morph="none" pos="word" start_char="719">important</TOKEN>
+<TOKEN end_char="730" id="token-7-3" morph="none" pos="word" start_char="729">to</TOKEN>
+<TOKEN end_char="735" id="token-7-4" morph="none" pos="word" start_char="732">wash</TOKEN>
+<TOKEN end_char="740" id="token-7-5" morph="none" pos="word" start_char="737">your</TOKEN>
+<TOKEN end_char="746" id="token-7-6" morph="none" pos="word" start_char="742">hands</TOKEN>
+<TOKEN end_char="750" id="token-7-7" morph="none" pos="word" start_char="748">and</TOKEN>
+<TOKEN end_char="755" id="token-7-8" morph="none" pos="word" start_char="752">your</TOKEN>
+<TOKEN end_char="763" id="token-7-9" morph="none" pos="word" start_char="757">produce</TOKEN>
+<TOKEN end_char="764" id="token-7-10" morph="none" pos="punct" start_char="764">,</TOKEN>
+<TOKEN end_char="774" id="token-7-11" morph="none" pos="word" start_char="766">following</TOKEN>
+<TOKEN end_char="780" id="token-7-12" morph="none" pos="word" start_char="776">sound</TOKEN>
+<TOKEN end_char="785" id="token-7-13" morph="none" pos="word" start_char="782">food</TOKEN>
+<TOKEN end_char="794" id="token-7-14" morph="none" pos="word" start_char="787">handling</TOKEN>
+<TOKEN end_char="805" id="token-7-15" morph="none" pos="word" start_char="796">guidelines</TOKEN>
+<TOKEN end_char="806" id="token-7-16" morph="none" pos="punct" start_char="806">.</TOKEN>
+</SEG>
+<SEG end_char="857" id="segment-8" start_char="808">
+<ORIGINAL_TEXT>Also, clean surfaces using approved disinfectants.</ORIGINAL_TEXT>
+<TOKEN end_char="811" id="token-8-0" morph="none" pos="word" start_char="808">Also</TOKEN>
+<TOKEN end_char="812" id="token-8-1" morph="none" pos="punct" start_char="812">,</TOKEN>
+<TOKEN end_char="818" id="token-8-2" morph="none" pos="word" start_char="814">clean</TOKEN>
+<TOKEN end_char="827" id="token-8-3" morph="none" pos="word" start_char="820">surfaces</TOKEN>
+<TOKEN end_char="833" id="token-8-4" morph="none" pos="word" start_char="829">using</TOKEN>
+<TOKEN end_char="842" id="token-8-5" morph="none" pos="word" start_char="835">approved</TOKEN>
+<TOKEN end_char="856" id="token-8-6" morph="none" pos="word" start_char="844">disinfectants</TOKEN>
+<TOKEN end_char="857" id="token-8-7" morph="none" pos="punct" start_char="857">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

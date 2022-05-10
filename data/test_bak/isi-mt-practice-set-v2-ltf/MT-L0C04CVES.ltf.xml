@@ -1,0 +1,436 @@
+<LCTL_TEXT lang="spa">
+<DOC grammar="none" id="L0C04CVES" lang="spa" raw_text_char_length="2297" raw_text_md5="8f31416f1910504545be2f8c9490f5dc" tokenization="tokenization_parameters.v5.0">
+<TEXT>
+<SEG end_char="69" id="segment-0" start_char="1">
+<ORIGINAL_TEXT>Tratamiento contra la malaria se muestra eficaz contra el coronavirus</ORIGINAL_TEXT>
+<TOKEN end_char="11" id="token-0-0" morph="none" pos="word" start_char="1">Tratamiento</TOKEN>
+<TOKEN end_char="18" id="token-0-1" morph="none" pos="word" start_char="13">contra</TOKEN>
+<TOKEN end_char="21" id="token-0-2" morph="none" pos="word" start_char="20">la</TOKEN>
+<TOKEN end_char="29" id="token-0-3" morph="none" pos="word" start_char="23">malaria</TOKEN>
+<TOKEN end_char="32" id="token-0-4" morph="none" pos="word" start_char="31">se</TOKEN>
+<TOKEN end_char="40" id="token-0-5" morph="none" pos="word" start_char="34">muestra</TOKEN>
+<TOKEN end_char="47" id="token-0-6" morph="none" pos="word" start_char="42">eficaz</TOKEN>
+<TOKEN end_char="54" id="token-0-7" morph="none" pos="word" start_char="49">contra</TOKEN>
+<TOKEN end_char="57" id="token-0-8" morph="none" pos="word" start_char="56">el</TOKEN>
+<TOKEN end_char="69" id="token-0-9" morph="none" pos="word" start_char="59">coronavirus</TOKEN>
+<TRANSLATED_TEXT>Malaria treatment is shown to be effective against coronavirus</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="86" id="segment-1" start_char="73">
+<ORIGINAL_TEXT>Marsella (AFP)</ORIGINAL_TEXT>
+<TOKEN end_char="80" id="token-1-0" morph="none" pos="word" start_char="73">Marsella</TOKEN>
+<TOKEN end_char="82" id="token-1-1" morph="none" pos="punct" start_char="82">(</TOKEN>
+<TOKEN end_char="85" id="token-1-2" morph="none" pos="word" start_char="83">AFP</TOKEN>
+<TOKEN end_char="86" id="token-1-3" morph="none" pos="punct" start_char="86">)</TOKEN>
+<TRANSLATED_TEXT>Marseille (AFP)</TRANSLATED_TEXT><DETECTED_LANGUAGE>ca</DETECTED_LANGUAGE></SEG>
+<SEG end_char="399" id="segment-2" start_char="89">
+<ORIGINAL_TEXT>Un tratamiento con cloroquina, habitualmente utilizado para combatir la malaria, ha mostrado señales de eficacia contra el coronavirus, aseguró el martes a la AFP Didier Raoult, director del Instituto Mediterráneo de Infecciones en Marsella (sur de Francia), basándose en resultados de un estudio clínico chino.</ORIGINAL_TEXT>
+<TOKEN end_char="90" id="token-2-0" morph="none" pos="word" start_char="89">Un</TOKEN>
+<TOKEN end_char="102" id="token-2-1" morph="none" pos="word" start_char="92">tratamiento</TOKEN>
+<TOKEN end_char="106" id="token-2-2" morph="none" pos="word" start_char="104">con</TOKEN>
+<TOKEN end_char="117" id="token-2-3" morph="none" pos="word" start_char="108">cloroquina</TOKEN>
+<TOKEN end_char="118" id="token-2-4" morph="none" pos="punct" start_char="118">,</TOKEN>
+<TOKEN end_char="132" id="token-2-5" morph="none" pos="word" start_char="120">habitualmente</TOKEN>
+<TOKEN end_char="142" id="token-2-6" morph="none" pos="word" start_char="134">utilizado</TOKEN>
+<TOKEN end_char="147" id="token-2-7" morph="none" pos="word" start_char="144">para</TOKEN>
+<TOKEN end_char="156" id="token-2-8" morph="none" pos="word" start_char="149">combatir</TOKEN>
+<TOKEN end_char="159" id="token-2-9" morph="none" pos="word" start_char="158">la</TOKEN>
+<TOKEN end_char="167" id="token-2-10" morph="none" pos="word" start_char="161">malaria</TOKEN>
+<TOKEN end_char="168" id="token-2-11" morph="none" pos="punct" start_char="168">,</TOKEN>
+<TOKEN end_char="171" id="token-2-12" morph="none" pos="word" start_char="170">ha</TOKEN>
+<TOKEN end_char="180" id="token-2-13" morph="none" pos="word" start_char="173">mostrado</TOKEN>
+<TOKEN end_char="188" id="token-2-14" morph="none" pos="word" start_char="182">señales</TOKEN>
+<TOKEN end_char="191" id="token-2-15" morph="none" pos="word" start_char="190">de</TOKEN>
+<TOKEN end_char="200" id="token-2-16" morph="none" pos="word" start_char="193">eficacia</TOKEN>
+<TOKEN end_char="207" id="token-2-17" morph="none" pos="word" start_char="202">contra</TOKEN>
+<TOKEN end_char="210" id="token-2-18" morph="none" pos="word" start_char="209">el</TOKEN>
+<TOKEN end_char="222" id="token-2-19" morph="none" pos="word" start_char="212">coronavirus</TOKEN>
+<TOKEN end_char="223" id="token-2-20" morph="none" pos="punct" start_char="223">,</TOKEN>
+<TOKEN end_char="231" id="token-2-21" morph="none" pos="word" start_char="225">aseguró</TOKEN>
+<TOKEN end_char="234" id="token-2-22" morph="none" pos="word" start_char="233">el</TOKEN>
+<TOKEN end_char="241" id="token-2-23" morph="none" pos="word" start_char="236">martes</TOKEN>
+<TOKEN end_char="243" id="token-2-24" morph="none" pos="word" start_char="243">a</TOKEN>
+<TOKEN end_char="246" id="token-2-25" morph="none" pos="word" start_char="245">la</TOKEN>
+<TOKEN end_char="250" id="token-2-26" morph="none" pos="word" start_char="248">AFP</TOKEN>
+<TOKEN end_char="257" id="token-2-27" morph="none" pos="word" start_char="252">Didier</TOKEN>
+<TOKEN end_char="264" id="token-2-28" morph="none" pos="word" start_char="259">Raoult</TOKEN>
+<TOKEN end_char="265" id="token-2-29" morph="none" pos="punct" start_char="265">,</TOKEN>
+<TOKEN end_char="274" id="token-2-30" morph="none" pos="word" start_char="267">director</TOKEN>
+<TOKEN end_char="278" id="token-2-31" morph="none" pos="word" start_char="276">del</TOKEN>
+<TOKEN end_char="288" id="token-2-32" morph="none" pos="word" start_char="280">Instituto</TOKEN>
+<TOKEN end_char="301" id="token-2-33" morph="none" pos="word" start_char="290">Mediterráneo</TOKEN>
+<TOKEN end_char="304" id="token-2-34" morph="none" pos="word" start_char="303">de</TOKEN>
+<TOKEN end_char="316" id="token-2-35" morph="none" pos="word" start_char="306">Infecciones</TOKEN>
+<TOKEN end_char="319" id="token-2-36" morph="none" pos="word" start_char="318">en</TOKEN>
+<TOKEN end_char="328" id="token-2-37" morph="none" pos="word" start_char="321">Marsella</TOKEN>
+<TOKEN end_char="330" id="token-2-38" morph="none" pos="punct" start_char="330">(</TOKEN>
+<TOKEN end_char="333" id="token-2-39" morph="none" pos="word" start_char="331">sur</TOKEN>
+<TOKEN end_char="336" id="token-2-40" morph="none" pos="word" start_char="335">de</TOKEN>
+<TOKEN end_char="344" id="token-2-41" morph="none" pos="word" start_char="338">Francia</TOKEN>
+<TOKEN end_char="346" id="token-2-42" morph="none" pos="punct" start_char="345">),</TOKEN>
+<TOKEN end_char="356" id="token-2-43" morph="none" pos="word" start_char="348">basándose</TOKEN>
+<TOKEN end_char="359" id="token-2-44" morph="none" pos="word" start_char="358">en</TOKEN>
+<TOKEN end_char="370" id="token-2-45" morph="none" pos="word" start_char="361">resultados</TOKEN>
+<TOKEN end_char="373" id="token-2-46" morph="none" pos="word" start_char="372">de</TOKEN>
+<TOKEN end_char="376" id="token-2-47" morph="none" pos="word" start_char="375">un</TOKEN>
+<TOKEN end_char="384" id="token-2-48" morph="none" pos="word" start_char="378">estudio</TOKEN>
+<TOKEN end_char="392" id="token-2-49" morph="none" pos="word" start_char="386">clínico</TOKEN>
+<TOKEN end_char="398" id="token-2-50" morph="none" pos="word" start_char="394">chino</TOKEN>
+<TOKEN end_char="399" id="token-2-51" morph="none" pos="punct" start_char="399">.</TOKEN>
+<TRANSLATED_TEXT>A treatment with chloroquine, commonly used to combat malaria, has shown signs of efficacy against coronavirus, according to AFP director Didier Raoult of the Mediterranean Institute of Infections in Marseille (southern France), based on the results from a Chinese study.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="744" id="segment-3" start_char="402">
+<ORIGINAL_TEXT>"Sabíamos que la cloroquina era eficaz in vitro contra el nuevo coronavius y la evaluación clínica realizada en China lo ha confirmado", explica el profesor Raoult, especialista de renombre de enfermedades infecciosas, al comentar la primera publicación sobre este estudio clínico de tres investigadores chinos en la revista BioScience Trends.</ORIGINAL_TEXT>
+<TOKEN end_char="402" id="token-3-0" morph="none" pos="punct" start_char="402">"</TOKEN>
+<TOKEN end_char="410" id="token-3-1" morph="none" pos="word" start_char="403">Sabíamos</TOKEN>
+<TOKEN end_char="414" id="token-3-2" morph="none" pos="word" start_char="412">que</TOKEN>
+<TOKEN end_char="417" id="token-3-3" morph="none" pos="word" start_char="416">la</TOKEN>
+<TOKEN end_char="428" id="token-3-4" morph="none" pos="word" start_char="419">cloroquina</TOKEN>
+<TOKEN end_char="432" id="token-3-5" morph="none" pos="word" start_char="430">era</TOKEN>
+<TOKEN end_char="439" id="token-3-6" morph="none" pos="word" start_char="434">eficaz</TOKEN>
+<TOKEN end_char="442" id="token-3-7" morph="none" pos="word" start_char="441">in</TOKEN>
+<TOKEN end_char="448" id="token-3-8" morph="none" pos="word" start_char="444">vitro</TOKEN>
+<TOKEN end_char="455" id="token-3-9" morph="none" pos="word" start_char="450">contra</TOKEN>
+<TOKEN end_char="458" id="token-3-10" morph="none" pos="word" start_char="457">el</TOKEN>
+<TOKEN end_char="464" id="token-3-11" morph="none" pos="word" start_char="460">nuevo</TOKEN>
+<TOKEN end_char="475" id="token-3-12" morph="none" pos="word" start_char="466">coronavius</TOKEN>
+<TOKEN end_char="477" id="token-3-13" morph="none" pos="word" start_char="477">y</TOKEN>
+<TOKEN end_char="480" id="token-3-14" morph="none" pos="word" start_char="479">la</TOKEN>
+<TOKEN end_char="491" id="token-3-15" morph="none" pos="word" start_char="482">evaluación</TOKEN>
+<TOKEN end_char="499" id="token-3-16" morph="none" pos="word" start_char="493">clínica</TOKEN>
+<TOKEN end_char="509" id="token-3-17" morph="none" pos="word" start_char="501">realizada</TOKEN>
+<TOKEN end_char="512" id="token-3-18" morph="none" pos="word" start_char="511">en</TOKEN>
+<TOKEN end_char="518" id="token-3-19" morph="none" pos="word" start_char="514">China</TOKEN>
+<TOKEN end_char="521" id="token-3-20" morph="none" pos="word" start_char="520">lo</TOKEN>
+<TOKEN end_char="524" id="token-3-21" morph="none" pos="word" start_char="523">ha</TOKEN>
+<TOKEN end_char="535" id="token-3-22" morph="none" pos="word" start_char="526">confirmado</TOKEN>
+<TOKEN end_char="537" id="token-3-23" morph="none" pos="punct" start_char="536">",</TOKEN>
+<TOKEN end_char="545" id="token-3-24" morph="none" pos="word" start_char="539">explica</TOKEN>
+<TOKEN end_char="548" id="token-3-25" morph="none" pos="word" start_char="547">el</TOKEN>
+<TOKEN end_char="557" id="token-3-26" morph="none" pos="word" start_char="550">profesor</TOKEN>
+<TOKEN end_char="564" id="token-3-27" morph="none" pos="word" start_char="559">Raoult</TOKEN>
+<TOKEN end_char="565" id="token-3-28" morph="none" pos="punct" start_char="565">,</TOKEN>
+<TOKEN end_char="578" id="token-3-29" morph="none" pos="word" start_char="567">especialista</TOKEN>
+<TOKEN end_char="581" id="token-3-30" morph="none" pos="word" start_char="580">de</TOKEN>
+<TOKEN end_char="590" id="token-3-31" morph="none" pos="word" start_char="583">renombre</TOKEN>
+<TOKEN end_char="593" id="token-3-32" morph="none" pos="word" start_char="592">de</TOKEN>
+<TOKEN end_char="606" id="token-3-33" morph="none" pos="word" start_char="595">enfermedades</TOKEN>
+<TOKEN end_char="618" id="token-3-34" morph="none" pos="word" start_char="608">infecciosas</TOKEN>
+<TOKEN end_char="619" id="token-3-35" morph="none" pos="punct" start_char="619">,</TOKEN>
+<TOKEN end_char="622" id="token-3-36" morph="none" pos="word" start_char="621">al</TOKEN>
+<TOKEN end_char="631" id="token-3-37" morph="none" pos="word" start_char="624">comentar</TOKEN>
+<TOKEN end_char="634" id="token-3-38" morph="none" pos="word" start_char="633">la</TOKEN>
+<TOKEN end_char="642" id="token-3-39" morph="none" pos="word" start_char="636">primera</TOKEN>
+<TOKEN end_char="654" id="token-3-40" morph="none" pos="word" start_char="644">publicación</TOKEN>
+<TOKEN end_char="660" id="token-3-41" morph="none" pos="word" start_char="656">sobre</TOKEN>
+<TOKEN end_char="665" id="token-3-42" morph="none" pos="word" start_char="662">este</TOKEN>
+<TOKEN end_char="673" id="token-3-43" morph="none" pos="word" start_char="667">estudio</TOKEN>
+<TOKEN end_char="681" id="token-3-44" morph="none" pos="word" start_char="675">clínico</TOKEN>
+<TOKEN end_char="684" id="token-3-45" morph="none" pos="word" start_char="683">de</TOKEN>
+<TOKEN end_char="689" id="token-3-46" morph="none" pos="word" start_char="686">tres</TOKEN>
+<TOKEN end_char="704" id="token-3-47" morph="none" pos="word" start_char="691">investigadores</TOKEN>
+<TOKEN end_char="711" id="token-3-48" morph="none" pos="word" start_char="706">chinos</TOKEN>
+<TOKEN end_char="714" id="token-3-49" morph="none" pos="word" start_char="713">en</TOKEN>
+<TOKEN end_char="717" id="token-3-50" morph="none" pos="word" start_char="716">la</TOKEN>
+<TOKEN end_char="725" id="token-3-51" morph="none" pos="word" start_char="719">revista</TOKEN>
+<TOKEN end_char="736" id="token-3-52" morph="none" pos="word" start_char="727">BioScience</TOKEN>
+<TOKEN end_char="743" id="token-3-53" morph="none" pos="word" start_char="738">Trends</TOKEN>
+<TOKEN end_char="744" id="token-3-54" morph="none" pos="punct" start_char="744">.</TOKEN>
+<TRANSLATED_TEXT>"We knew that chloroquine was effective in vitro against the new coronavirus and the clinical evaluation in China has confirmed this," explains Professor Raoult, a renowned infectious disease specialist, commenting on the first publication of this clinical study by three Chinese researchers in BioScience Trends.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="982" id="segment-4" start_char="747">
+<ORIGINAL_TEXT>"Finalmente, esta infección es quizá la más simple y la más barata de curar de todas las infecciones virales", dice el director de este instituto hospitalario universitario muy implicado en la detección del nuevo coronavirus en Francia.</ORIGINAL_TEXT>
+<TOKEN end_char="747" id="token-4-0" morph="none" pos="punct" start_char="747">"</TOKEN>
+<TOKEN end_char="757" id="token-4-1" morph="none" pos="word" start_char="748">Finalmente</TOKEN>
+<TOKEN end_char="758" id="token-4-2" morph="none" pos="punct" start_char="758">,</TOKEN>
+<TOKEN end_char="763" id="token-4-3" morph="none" pos="word" start_char="760">esta</TOKEN>
+<TOKEN end_char="773" id="token-4-4" morph="none" pos="word" start_char="765">infección</TOKEN>
+<TOKEN end_char="776" id="token-4-5" morph="none" pos="word" start_char="775">es</TOKEN>
+<TOKEN end_char="782" id="token-4-6" morph="none" pos="word" start_char="778">quizá</TOKEN>
+<TOKEN end_char="785" id="token-4-7" morph="none" pos="word" start_char="784">la</TOKEN>
+<TOKEN end_char="789" id="token-4-8" morph="none" pos="word" start_char="787">más</TOKEN>
+<TOKEN end_char="796" id="token-4-9" morph="none" pos="word" start_char="791">simple</TOKEN>
+<TOKEN end_char="798" id="token-4-10" morph="none" pos="word" start_char="798">y</TOKEN>
+<TOKEN end_char="801" id="token-4-11" morph="none" pos="word" start_char="800">la</TOKEN>
+<TOKEN end_char="805" id="token-4-12" morph="none" pos="word" start_char="803">más</TOKEN>
+<TOKEN end_char="812" id="token-4-13" morph="none" pos="word" start_char="807">barata</TOKEN>
+<TOKEN end_char="815" id="token-4-14" morph="none" pos="word" start_char="814">de</TOKEN>
+<TOKEN end_char="821" id="token-4-15" morph="none" pos="word" start_char="817">curar</TOKEN>
+<TOKEN end_char="824" id="token-4-16" morph="none" pos="word" start_char="823">de</TOKEN>
+<TOKEN end_char="830" id="token-4-17" morph="none" pos="word" start_char="826">todas</TOKEN>
+<TOKEN end_char="834" id="token-4-18" morph="none" pos="word" start_char="832">las</TOKEN>
+<TOKEN end_char="846" id="token-4-19" morph="none" pos="word" start_char="836">infecciones</TOKEN>
+<TOKEN end_char="854" id="token-4-20" morph="none" pos="word" start_char="848">virales</TOKEN>
+<TOKEN end_char="856" id="token-4-21" morph="none" pos="punct" start_char="855">",</TOKEN>
+<TOKEN end_char="861" id="token-4-22" morph="none" pos="word" start_char="858">dice</TOKEN>
+<TOKEN end_char="864" id="token-4-23" morph="none" pos="word" start_char="863">el</TOKEN>
+<TOKEN end_char="873" id="token-4-24" morph="none" pos="word" start_char="866">director</TOKEN>
+<TOKEN end_char="876" id="token-4-25" morph="none" pos="word" start_char="875">de</TOKEN>
+<TOKEN end_char="881" id="token-4-26" morph="none" pos="word" start_char="878">este</TOKEN>
+<TOKEN end_char="891" id="token-4-27" morph="none" pos="word" start_char="883">instituto</TOKEN>
+<TOKEN end_char="904" id="token-4-28" morph="none" pos="word" start_char="893">hospitalario</TOKEN>
+<TOKEN end_char="918" id="token-4-29" morph="none" pos="word" start_char="906">universitario</TOKEN>
+<TOKEN end_char="922" id="token-4-30" morph="none" pos="word" start_char="920">muy</TOKEN>
+<TOKEN end_char="932" id="token-4-31" morph="none" pos="word" start_char="924">implicado</TOKEN>
+<TOKEN end_char="935" id="token-4-32" morph="none" pos="word" start_char="934">en</TOKEN>
+<TOKEN end_char="938" id="token-4-33" morph="none" pos="word" start_char="937">la</TOKEN>
+<TOKEN end_char="948" id="token-4-34" morph="none" pos="word" start_char="940">detección</TOKEN>
+<TOKEN end_char="952" id="token-4-35" morph="none" pos="word" start_char="950">del</TOKEN>
+<TOKEN end_char="958" id="token-4-36" morph="none" pos="word" start_char="954">nuevo</TOKEN>
+<TOKEN end_char="970" id="token-4-37" morph="none" pos="word" start_char="960">coronavirus</TOKEN>
+<TOKEN end_char="973" id="token-4-38" morph="none" pos="word" start_char="972">en</TOKEN>
+<TOKEN end_char="981" id="token-4-39" morph="none" pos="word" start_char="975">Francia</TOKEN>
+<TOKEN end_char="982" id="token-4-40" morph="none" pos="punct" start_char="982">.</TOKEN>
+<TRANSLATED_TEXT>"Finally, this infection is perhaps the simplest and cheapest to cure all viral infections," says the director of this university hospital institute heavily involved in the detection of the new coronavirus in France.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1258" id="segment-5" start_char="985">
+<ORIGINAL_TEXT>El artículo publicado en internet el 19 de febrero saca sus conclusiones de un ensayo clínico realizado en más de diez hospitales chinos (en Wuhan -foco de la epidemia-- Pekín y Shanghái) para evaluar "la eficacia de la cloroquina en los tratamientos asociados al COVID-19".</ORIGINAL_TEXT>
+<TOKEN end_char="986" id="token-5-0" morph="none" pos="word" start_char="985">El</TOKEN>
+<TOKEN end_char="995" id="token-5-1" morph="none" pos="word" start_char="988">artículo</TOKEN>
+<TOKEN end_char="1005" id="token-5-2" morph="none" pos="word" start_char="997">publicado</TOKEN>
+<TOKEN end_char="1008" id="token-5-3" morph="none" pos="word" start_char="1007">en</TOKEN>
+<TOKEN end_char="1017" id="token-5-4" morph="none" pos="word" start_char="1010">internet</TOKEN>
+<TOKEN end_char="1020" id="token-5-5" morph="none" pos="word" start_char="1019">el</TOKEN>
+<TOKEN end_char="1023" id="token-5-6" morph="none" pos="word" start_char="1022">19</TOKEN>
+<TOKEN end_char="1026" id="token-5-7" morph="none" pos="word" start_char="1025">de</TOKEN>
+<TOKEN end_char="1034" id="token-5-8" morph="none" pos="word" start_char="1028">febrero</TOKEN>
+<TOKEN end_char="1039" id="token-5-9" morph="none" pos="word" start_char="1036">saca</TOKEN>
+<TOKEN end_char="1043" id="token-5-10" morph="none" pos="word" start_char="1041">sus</TOKEN>
+<TOKEN end_char="1056" id="token-5-11" morph="none" pos="word" start_char="1045">conclusiones</TOKEN>
+<TOKEN end_char="1059" id="token-5-12" morph="none" pos="word" start_char="1058">de</TOKEN>
+<TOKEN end_char="1062" id="token-5-13" morph="none" pos="word" start_char="1061">un</TOKEN>
+<TOKEN end_char="1069" id="token-5-14" morph="none" pos="word" start_char="1064">ensayo</TOKEN>
+<TOKEN end_char="1077" id="token-5-15" morph="none" pos="word" start_char="1071">clínico</TOKEN>
+<TOKEN end_char="1087" id="token-5-16" morph="none" pos="word" start_char="1079">realizado</TOKEN>
+<TOKEN end_char="1090" id="token-5-17" morph="none" pos="word" start_char="1089">en</TOKEN>
+<TOKEN end_char="1094" id="token-5-18" morph="none" pos="word" start_char="1092">más</TOKEN>
+<TOKEN end_char="1097" id="token-5-19" morph="none" pos="word" start_char="1096">de</TOKEN>
+<TOKEN end_char="1102" id="token-5-20" morph="none" pos="word" start_char="1099">diez</TOKEN>
+<TOKEN end_char="1113" id="token-5-21" morph="none" pos="word" start_char="1104">hospitales</TOKEN>
+<TOKEN end_char="1120" id="token-5-22" morph="none" pos="word" start_char="1115">chinos</TOKEN>
+<TOKEN end_char="1122" id="token-5-23" morph="none" pos="punct" start_char="1122">(</TOKEN>
+<TOKEN end_char="1124" id="token-5-24" morph="none" pos="word" start_char="1123">en</TOKEN>
+<TOKEN end_char="1130" id="token-5-25" morph="none" pos="word" start_char="1126">Wuhan</TOKEN>
+<TOKEN end_char="1132" id="token-5-26" morph="none" pos="punct" start_char="1132">-</TOKEN>
+<TOKEN end_char="1136" id="token-5-27" morph="none" pos="word" start_char="1133">foco</TOKEN>
+<TOKEN end_char="1139" id="token-5-28" morph="none" pos="word" start_char="1138">de</TOKEN>
+<TOKEN end_char="1142" id="token-5-29" morph="none" pos="word" start_char="1141">la</TOKEN>
+<TOKEN end_char="1151" id="token-5-30" morph="none" pos="word" start_char="1144">epidemia</TOKEN>
+<TOKEN end_char="1153" id="token-5-31" morph="none" pos="punct" start_char="1152">--</TOKEN>
+<TOKEN end_char="1159" id="token-5-32" morph="none" pos="word" start_char="1155">Pekín</TOKEN>
+<TOKEN end_char="1161" id="token-5-33" morph="none" pos="word" start_char="1161">y</TOKEN>
+<TOKEN end_char="1170" id="token-5-34" morph="none" pos="word" start_char="1163">Shanghái</TOKEN>
+<TOKEN end_char="1171" id="token-5-35" morph="none" pos="punct" start_char="1171">)</TOKEN>
+<TOKEN end_char="1176" id="token-5-36" morph="none" pos="word" start_char="1173">para</TOKEN>
+<TOKEN end_char="1184" id="token-5-37" morph="none" pos="word" start_char="1178">evaluar</TOKEN>
+<TOKEN end_char="1186" id="token-5-38" morph="none" pos="punct" start_char="1186">"</TOKEN>
+<TOKEN end_char="1188" id="token-5-39" morph="none" pos="word" start_char="1187">la</TOKEN>
+<TOKEN end_char="1197" id="token-5-40" morph="none" pos="word" start_char="1190">eficacia</TOKEN>
+<TOKEN end_char="1200" id="token-5-41" morph="none" pos="word" start_char="1199">de</TOKEN>
+<TOKEN end_char="1203" id="token-5-42" morph="none" pos="word" start_char="1202">la</TOKEN>
+<TOKEN end_char="1214" id="token-5-43" morph="none" pos="word" start_char="1205">cloroquina</TOKEN>
+<TOKEN end_char="1217" id="token-5-44" morph="none" pos="word" start_char="1216">en</TOKEN>
+<TOKEN end_char="1221" id="token-5-45" morph="none" pos="word" start_char="1219">los</TOKEN>
+<TOKEN end_char="1234" id="token-5-46" morph="none" pos="word" start_char="1223">tratamientos</TOKEN>
+<TOKEN end_char="1244" id="token-5-47" morph="none" pos="word" start_char="1236">asociados</TOKEN>
+<TOKEN end_char="1247" id="token-5-48" morph="none" pos="word" start_char="1246">al</TOKEN>
+<TOKEN end_char="1256" id="token-5-49" morph="none" pos="unknown" start_char="1249">COVID-19</TOKEN>
+<TOKEN end_char="1258" id="token-5-50" morph="none" pos="punct" start_char="1257">".</TOKEN>
+<TRANSLATED_TEXT>The article published online on February 19 draws its conclusions from a clinical trial conducted in more than ten Chinese hospitals (in Wuhan - the epicentre of the epidemic - Beijing and Shanghai) to evaluate "the efficacy of chloroquine in COVID-19-associated treatments."</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1640" id="segment-6" start_char="1261">
+<ORIGINAL_TEXT>"Los resultados obtenidos hasta ahora con más de 100 pacientes han demostrado que el fosfato de cloroquina es más eficaz que el tratamiento recibido por el grupo comparativo para contener la evolución de la neumonía, mejorar el estado de los pulmones, para que el paciente vuelva a dar negativo al virus y acortar la duración de la enfermedad", precisan los investigadores chinos.</ORIGINAL_TEXT>
+<TOKEN end_char="1261" id="token-6-0" morph="none" pos="punct" start_char="1261">"</TOKEN>
+<TOKEN end_char="1264" id="token-6-1" morph="none" pos="word" start_char="1262">Los</TOKEN>
+<TOKEN end_char="1275" id="token-6-2" morph="none" pos="word" start_char="1266">resultados</TOKEN>
+<TOKEN end_char="1285" id="token-6-3" morph="none" pos="word" start_char="1277">obtenidos</TOKEN>
+<TOKEN end_char="1291" id="token-6-4" morph="none" pos="word" start_char="1287">hasta</TOKEN>
+<TOKEN end_char="1297" id="token-6-5" morph="none" pos="word" start_char="1293">ahora</TOKEN>
+<TOKEN end_char="1301" id="token-6-6" morph="none" pos="word" start_char="1299">con</TOKEN>
+<TOKEN end_char="1305" id="token-6-7" morph="none" pos="word" start_char="1303">más</TOKEN>
+<TOKEN end_char="1308" id="token-6-8" morph="none" pos="word" start_char="1307">de</TOKEN>
+<TOKEN end_char="1312" id="token-6-9" morph="none" pos="word" start_char="1310">100</TOKEN>
+<TOKEN end_char="1322" id="token-6-10" morph="none" pos="word" start_char="1314">pacientes</TOKEN>
+<TOKEN end_char="1326" id="token-6-11" morph="none" pos="word" start_char="1324">han</TOKEN>
+<TOKEN end_char="1337" id="token-6-12" morph="none" pos="word" start_char="1328">demostrado</TOKEN>
+<TOKEN end_char="1341" id="token-6-13" morph="none" pos="word" start_char="1339">que</TOKEN>
+<TOKEN end_char="1344" id="token-6-14" morph="none" pos="word" start_char="1343">el</TOKEN>
+<TOKEN end_char="1352" id="token-6-15" morph="none" pos="word" start_char="1346">fosfato</TOKEN>
+<TOKEN end_char="1355" id="token-6-16" morph="none" pos="word" start_char="1354">de</TOKEN>
+<TOKEN end_char="1366" id="token-6-17" morph="none" pos="word" start_char="1357">cloroquina</TOKEN>
+<TOKEN end_char="1369" id="token-6-18" morph="none" pos="word" start_char="1368">es</TOKEN>
+<TOKEN end_char="1373" id="token-6-19" morph="none" pos="word" start_char="1371">más</TOKEN>
+<TOKEN end_char="1380" id="token-6-20" morph="none" pos="word" start_char="1375">eficaz</TOKEN>
+<TOKEN end_char="1384" id="token-6-21" morph="none" pos="word" start_char="1382">que</TOKEN>
+<TOKEN end_char="1387" id="token-6-22" morph="none" pos="word" start_char="1386">el</TOKEN>
+<TOKEN end_char="1399" id="token-6-23" morph="none" pos="word" start_char="1389">tratamiento</TOKEN>
+<TOKEN end_char="1408" id="token-6-24" morph="none" pos="word" start_char="1401">recibido</TOKEN>
+<TOKEN end_char="1412" id="token-6-25" morph="none" pos="word" start_char="1410">por</TOKEN>
+<TOKEN end_char="1415" id="token-6-26" morph="none" pos="word" start_char="1414">el</TOKEN>
+<TOKEN end_char="1421" id="token-6-27" morph="none" pos="word" start_char="1417">grupo</TOKEN>
+<TOKEN end_char="1433" id="token-6-28" morph="none" pos="word" start_char="1423">comparativo</TOKEN>
+<TOKEN end_char="1438" id="token-6-29" morph="none" pos="word" start_char="1435">para</TOKEN>
+<TOKEN end_char="1447" id="token-6-30" morph="none" pos="word" start_char="1440">contener</TOKEN>
+<TOKEN end_char="1450" id="token-6-31" morph="none" pos="word" start_char="1449">la</TOKEN>
+<TOKEN end_char="1460" id="token-6-32" morph="none" pos="word" start_char="1452">evolución</TOKEN>
+<TOKEN end_char="1463" id="token-6-33" morph="none" pos="word" start_char="1462">de</TOKEN>
+<TOKEN end_char="1466" id="token-6-34" morph="none" pos="word" start_char="1465">la</TOKEN>
+<TOKEN end_char="1475" id="token-6-35" morph="none" pos="word" start_char="1468">neumonía</TOKEN>
+<TOKEN end_char="1476" id="token-6-36" morph="none" pos="punct" start_char="1476">,</TOKEN>
+<TOKEN end_char="1484" id="token-6-37" morph="none" pos="word" start_char="1478">mejorar</TOKEN>
+<TOKEN end_char="1487" id="token-6-38" morph="none" pos="word" start_char="1486">el</TOKEN>
+<TOKEN end_char="1494" id="token-6-39" morph="none" pos="word" start_char="1489">estado</TOKEN>
+<TOKEN end_char="1497" id="token-6-40" morph="none" pos="word" start_char="1496">de</TOKEN>
+<TOKEN end_char="1501" id="token-6-41" morph="none" pos="word" start_char="1499">los</TOKEN>
+<TOKEN end_char="1510" id="token-6-42" morph="none" pos="word" start_char="1503">pulmones</TOKEN>
+<TOKEN end_char="1511" id="token-6-43" morph="none" pos="punct" start_char="1511">,</TOKEN>
+<TOKEN end_char="1516" id="token-6-44" morph="none" pos="word" start_char="1513">para</TOKEN>
+<TOKEN end_char="1520" id="token-6-45" morph="none" pos="word" start_char="1518">que</TOKEN>
+<TOKEN end_char="1523" id="token-6-46" morph="none" pos="word" start_char="1522">el</TOKEN>
+<TOKEN end_char="1532" id="token-6-47" morph="none" pos="word" start_char="1525">paciente</TOKEN>
+<TOKEN end_char="1539" id="token-6-48" morph="none" pos="word" start_char="1534">vuelva</TOKEN>
+<TOKEN end_char="1541" id="token-6-49" morph="none" pos="word" start_char="1541">a</TOKEN>
+<TOKEN end_char="1545" id="token-6-50" morph="none" pos="word" start_char="1543">dar</TOKEN>
+<TOKEN end_char="1554" id="token-6-51" morph="none" pos="word" start_char="1547">negativo</TOKEN>
+<TOKEN end_char="1557" id="token-6-52" morph="none" pos="word" start_char="1556">al</TOKEN>
+<TOKEN end_char="1563" id="token-6-53" morph="none" pos="word" start_char="1559">virus</TOKEN>
+<TOKEN end_char="1565" id="token-6-54" morph="none" pos="word" start_char="1565">y</TOKEN>
+<TOKEN end_char="1573" id="token-6-55" morph="none" pos="word" start_char="1567">acortar</TOKEN>
+<TOKEN end_char="1576" id="token-6-56" morph="none" pos="word" start_char="1575">la</TOKEN>
+<TOKEN end_char="1585" id="token-6-57" morph="none" pos="word" start_char="1578">duración</TOKEN>
+<TOKEN end_char="1588" id="token-6-58" morph="none" pos="word" start_char="1587">de</TOKEN>
+<TOKEN end_char="1591" id="token-6-59" morph="none" pos="word" start_char="1590">la</TOKEN>
+<TOKEN end_char="1602" id="token-6-60" morph="none" pos="word" start_char="1593">enfermedad</TOKEN>
+<TOKEN end_char="1604" id="token-6-61" morph="none" pos="punct" start_char="1603">",</TOKEN>
+<TOKEN end_char="1613" id="token-6-62" morph="none" pos="word" start_char="1606">precisan</TOKEN>
+<TOKEN end_char="1617" id="token-6-63" morph="none" pos="word" start_char="1615">los</TOKEN>
+<TOKEN end_char="1632" id="token-6-64" morph="none" pos="word" start_char="1619">investigadores</TOKEN>
+<TOKEN end_char="1639" id="token-6-65" morph="none" pos="word" start_char="1634">chinos</TOKEN>
+<TOKEN end_char="1640" id="token-6-66" morph="none" pos="punct" start_char="1640">.</TOKEN>
+<TRANSLATED_TEXT>"The results obtained so far with more than 100 patients have shown that chloroquine phosphate is more effective than the treatment received by the comparative group to contain the evolution of pneumonia, improve the condition of the lungs, so that the patient returns negative to the virus and shorten the duration of the disease," Chinese researchers say.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1693" id="segment-7" start_char="1643">
+<ORIGINAL_TEXT>El estudio no cuantifica la diferencia de eficacia.</ORIGINAL_TEXT>
+<TOKEN end_char="1644" id="token-7-0" morph="none" pos="word" start_char="1643">El</TOKEN>
+<TOKEN end_char="1652" id="token-7-1" morph="none" pos="word" start_char="1646">estudio</TOKEN>
+<TOKEN end_char="1655" id="token-7-2" morph="none" pos="word" start_char="1654">no</TOKEN>
+<TOKEN end_char="1666" id="token-7-3" morph="none" pos="word" start_char="1657">cuantifica</TOKEN>
+<TOKEN end_char="1669" id="token-7-4" morph="none" pos="word" start_char="1668">la</TOKEN>
+<TOKEN end_char="1680" id="token-7-5" morph="none" pos="word" start_char="1671">diferencia</TOKEN>
+<TOKEN end_char="1683" id="token-7-6" morph="none" pos="word" start_char="1682">de</TOKEN>
+<TOKEN end_char="1692" id="token-7-7" morph="none" pos="word" start_char="1685">eficacia</TOKEN>
+<TOKEN end_char="1693" id="token-7-8" morph="none" pos="punct" start_char="1693">.</TOKEN>
+<TRANSLATED_TEXT>The study does not quantify the difference in effectiveness.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2025" id="segment-8" start_char="1696">
+<ORIGINAL_TEXT>"La capacidad antiviral y antiinflamatoria de la cloroquina podría tener una eficacia potencial para tratar pacientes afectados con neumonías provocadas por el COVID-19", prosigue el artículo sobre el estudio realizado por los profesores Jianjun Gao, Zhenxue Tian y Xu Yang, de la universidad de Qingdao y del hospital de Qingdao.</ORIGINAL_TEXT>
+<TOKEN end_char="1696" id="token-8-0" morph="none" pos="punct" start_char="1696">"</TOKEN>
+<TOKEN end_char="1698" id="token-8-1" morph="none" pos="word" start_char="1697">La</TOKEN>
+<TOKEN end_char="1708" id="token-8-2" morph="none" pos="word" start_char="1700">capacidad</TOKEN>
+<TOKEN end_char="1718" id="token-8-3" morph="none" pos="word" start_char="1710">antiviral</TOKEN>
+<TOKEN end_char="1720" id="token-8-4" morph="none" pos="word" start_char="1720">y</TOKEN>
+<TOKEN end_char="1737" id="token-8-5" morph="none" pos="word" start_char="1722">antiinflamatoria</TOKEN>
+<TOKEN end_char="1740" id="token-8-6" morph="none" pos="word" start_char="1739">de</TOKEN>
+<TOKEN end_char="1743" id="token-8-7" morph="none" pos="word" start_char="1742">la</TOKEN>
+<TOKEN end_char="1754" id="token-8-8" morph="none" pos="word" start_char="1745">cloroquina</TOKEN>
+<TOKEN end_char="1761" id="token-8-9" morph="none" pos="word" start_char="1756">podría</TOKEN>
+<TOKEN end_char="1767" id="token-8-10" morph="none" pos="word" start_char="1763">tener</TOKEN>
+<TOKEN end_char="1771" id="token-8-11" morph="none" pos="word" start_char="1769">una</TOKEN>
+<TOKEN end_char="1780" id="token-8-12" morph="none" pos="word" start_char="1773">eficacia</TOKEN>
+<TOKEN end_char="1790" id="token-8-13" morph="none" pos="word" start_char="1782">potencial</TOKEN>
+<TOKEN end_char="1795" id="token-8-14" morph="none" pos="word" start_char="1792">para</TOKEN>
+<TOKEN end_char="1802" id="token-8-15" morph="none" pos="word" start_char="1797">tratar</TOKEN>
+<TOKEN end_char="1812" id="token-8-16" morph="none" pos="word" start_char="1804">pacientes</TOKEN>
+<TOKEN end_char="1822" id="token-8-17" morph="none" pos="word" start_char="1814">afectados</TOKEN>
+<TOKEN end_char="1826" id="token-8-18" morph="none" pos="word" start_char="1824">con</TOKEN>
+<TOKEN end_char="1836" id="token-8-19" morph="none" pos="word" start_char="1828">neumonías</TOKEN>
+<TOKEN end_char="1847" id="token-8-20" morph="none" pos="word" start_char="1838">provocadas</TOKEN>
+<TOKEN end_char="1851" id="token-8-21" morph="none" pos="word" start_char="1849">por</TOKEN>
+<TOKEN end_char="1854" id="token-8-22" morph="none" pos="word" start_char="1853">el</TOKEN>
+<TOKEN end_char="1863" id="token-8-23" morph="none" pos="unknown" start_char="1856">COVID-19</TOKEN>
+<TOKEN end_char="1865" id="token-8-24" morph="none" pos="punct" start_char="1864">",</TOKEN>
+<TOKEN end_char="1874" id="token-8-25" morph="none" pos="word" start_char="1867">prosigue</TOKEN>
+<TOKEN end_char="1877" id="token-8-26" morph="none" pos="word" start_char="1876">el</TOKEN>
+<TOKEN end_char="1886" id="token-8-27" morph="none" pos="word" start_char="1879">artículo</TOKEN>
+<TOKEN end_char="1892" id="token-8-28" morph="none" pos="word" start_char="1888">sobre</TOKEN>
+<TOKEN end_char="1895" id="token-8-29" morph="none" pos="word" start_char="1894">el</TOKEN>
+<TOKEN end_char="1903" id="token-8-30" morph="none" pos="word" start_char="1897">estudio</TOKEN>
+<TOKEN end_char="1913" id="token-8-31" morph="none" pos="word" start_char="1905">realizado</TOKEN>
+<TOKEN end_char="1917" id="token-8-32" morph="none" pos="word" start_char="1915">por</TOKEN>
+<TOKEN end_char="1921" id="token-8-33" morph="none" pos="word" start_char="1919">los</TOKEN>
+<TOKEN end_char="1932" id="token-8-34" morph="none" pos="word" start_char="1923">profesores</TOKEN>
+<TOKEN end_char="1940" id="token-8-35" morph="none" pos="word" start_char="1934">Jianjun</TOKEN>
+<TOKEN end_char="1944" id="token-8-36" morph="none" pos="word" start_char="1942">Gao</TOKEN>
+<TOKEN end_char="1945" id="token-8-37" morph="none" pos="punct" start_char="1945">,</TOKEN>
+<TOKEN end_char="1953" id="token-8-38" morph="none" pos="word" start_char="1947">Zhenxue</TOKEN>
+<TOKEN end_char="1958" id="token-8-39" morph="none" pos="word" start_char="1955">Tian</TOKEN>
+<TOKEN end_char="1960" id="token-8-40" morph="none" pos="word" start_char="1960">y</TOKEN>
+<TOKEN end_char="1963" id="token-8-41" morph="none" pos="word" start_char="1962">Xu</TOKEN>
+<TOKEN end_char="1968" id="token-8-42" morph="none" pos="word" start_char="1965">Yang</TOKEN>
+<TOKEN end_char="1969" id="token-8-43" morph="none" pos="punct" start_char="1969">,</TOKEN>
+<TOKEN end_char="1972" id="token-8-44" morph="none" pos="word" start_char="1971">de</TOKEN>
+<TOKEN end_char="1975" id="token-8-45" morph="none" pos="word" start_char="1974">la</TOKEN>
+<TOKEN end_char="1987" id="token-8-46" morph="none" pos="word" start_char="1977">universidad</TOKEN>
+<TOKEN end_char="1990" id="token-8-47" morph="none" pos="word" start_char="1989">de</TOKEN>
+<TOKEN end_char="1998" id="token-8-48" morph="none" pos="word" start_char="1992">Qingdao</TOKEN>
+<TOKEN end_char="2000" id="token-8-49" morph="none" pos="word" start_char="2000">y</TOKEN>
+<TOKEN end_char="2004" id="token-8-50" morph="none" pos="word" start_char="2002">del</TOKEN>
+<TOKEN end_char="2013" id="token-8-51" morph="none" pos="word" start_char="2006">hospital</TOKEN>
+<TOKEN end_char="2016" id="token-8-52" morph="none" pos="word" start_char="2015">de</TOKEN>
+<TOKEN end_char="2024" id="token-8-53" morph="none" pos="word" start_char="2018">Qingdao</TOKEN>
+<TOKEN end_char="2025" id="token-8-54" morph="none" pos="punct" start_char="2025">.</TOKEN>
+<TRANSLATED_TEXT>"The antiviral and anti-inflammatory capacity of chloroquine could have a potential efficacy in treating patients affected by COVID-19 pneumonias," continues the article on the study by professors Jianjun Gao, Zhenxue Tian and Xu Yang, of Qingdao University and Qingdao Hospital.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2164" id="segment-9" start_char="2028">
+<ORIGINAL_TEXT>Además de su eficacia, la "cloroquina es un medicamento barato y sin peligro, utilizado desde hace más de 70 años", sostiene el artículo.</ORIGINAL_TEXT>
+<TOKEN end_char="2033" id="token-9-0" morph="none" pos="word" start_char="2028">Además</TOKEN>
+<TOKEN end_char="2036" id="token-9-1" morph="none" pos="word" start_char="2035">de</TOKEN>
+<TOKEN end_char="2039" id="token-9-2" morph="none" pos="word" start_char="2038">su</TOKEN>
+<TOKEN end_char="2048" id="token-9-3" morph="none" pos="word" start_char="2041">eficacia</TOKEN>
+<TOKEN end_char="2049" id="token-9-4" morph="none" pos="punct" start_char="2049">,</TOKEN>
+<TOKEN end_char="2052" id="token-9-5" morph="none" pos="word" start_char="2051">la</TOKEN>
+<TOKEN end_char="2054" id="token-9-6" morph="none" pos="punct" start_char="2054">"</TOKEN>
+<TOKEN end_char="2064" id="token-9-7" morph="none" pos="word" start_char="2055">cloroquina</TOKEN>
+<TOKEN end_char="2067" id="token-9-8" morph="none" pos="word" start_char="2066">es</TOKEN>
+<TOKEN end_char="2070" id="token-9-9" morph="none" pos="word" start_char="2069">un</TOKEN>
+<TOKEN end_char="2082" id="token-9-10" morph="none" pos="word" start_char="2072">medicamento</TOKEN>
+<TOKEN end_char="2089" id="token-9-11" morph="none" pos="word" start_char="2084">barato</TOKEN>
+<TOKEN end_char="2091" id="token-9-12" morph="none" pos="word" start_char="2091">y</TOKEN>
+<TOKEN end_char="2095" id="token-9-13" morph="none" pos="word" start_char="2093">sin</TOKEN>
+<TOKEN end_char="2103" id="token-9-14" morph="none" pos="word" start_char="2097">peligro</TOKEN>
+<TOKEN end_char="2104" id="token-9-15" morph="none" pos="punct" start_char="2104">,</TOKEN>
+<TOKEN end_char="2114" id="token-9-16" morph="none" pos="word" start_char="2106">utilizado</TOKEN>
+<TOKEN end_char="2120" id="token-9-17" morph="none" pos="word" start_char="2116">desde</TOKEN>
+<TOKEN end_char="2125" id="token-9-18" morph="none" pos="word" start_char="2122">hace</TOKEN>
+<TOKEN end_char="2129" id="token-9-19" morph="none" pos="word" start_char="2127">más</TOKEN>
+<TOKEN end_char="2132" id="token-9-20" morph="none" pos="word" start_char="2131">de</TOKEN>
+<TOKEN end_char="2135" id="token-9-21" morph="none" pos="word" start_char="2134">70</TOKEN>
+<TOKEN end_char="2140" id="token-9-22" morph="none" pos="word" start_char="2137">años</TOKEN>
+<TOKEN end_char="2142" id="token-9-23" morph="none" pos="punct" start_char="2141">",</TOKEN>
+<TOKEN end_char="2151" id="token-9-24" morph="none" pos="word" start_char="2144">sostiene</TOKEN>
+<TOKEN end_char="2154" id="token-9-25" morph="none" pos="word" start_char="2153">el</TOKEN>
+<TOKEN end_char="2163" id="token-9-26" morph="none" pos="word" start_char="2156">artículo</TOKEN>
+<TOKEN end_char="2164" id="token-9-27" morph="none" pos="punct" start_char="2164">.</TOKEN>
+<TRANSLATED_TEXT>In addition to its efficacy, "chloroquine is a cheap and safe drug, used for over 70 years," the article argues.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2281" id="segment-10" start_char="2167">
+<ORIGINAL_TEXT>Según los investigadores chinos, un tratamiento de 500 mg de cloroquina diarios durante diez días sería suficiente.</ORIGINAL_TEXT>
+<TOKEN end_char="2171" id="token-10-0" morph="none" pos="word" start_char="2167">Según</TOKEN>
+<TOKEN end_char="2175" id="token-10-1" morph="none" pos="word" start_char="2173">los</TOKEN>
+<TOKEN end_char="2190" id="token-10-2" morph="none" pos="word" start_char="2177">investigadores</TOKEN>
+<TOKEN end_char="2197" id="token-10-3" morph="none" pos="word" start_char="2192">chinos</TOKEN>
+<TOKEN end_char="2198" id="token-10-4" morph="none" pos="punct" start_char="2198">,</TOKEN>
+<TOKEN end_char="2201" id="token-10-5" morph="none" pos="word" start_char="2200">un</TOKEN>
+<TOKEN end_char="2213" id="token-10-6" morph="none" pos="word" start_char="2203">tratamiento</TOKEN>
+<TOKEN end_char="2216" id="token-10-7" morph="none" pos="word" start_char="2215">de</TOKEN>
+<TOKEN end_char="2220" id="token-10-8" morph="none" pos="word" start_char="2218">500</TOKEN>
+<TOKEN end_char="2223" id="token-10-9" morph="none" pos="word" start_char="2222">mg</TOKEN>
+<TOKEN end_char="2226" id="token-10-10" morph="none" pos="word" start_char="2225">de</TOKEN>
+<TOKEN end_char="2237" id="token-10-11" morph="none" pos="word" start_char="2228">cloroquina</TOKEN>
+<TOKEN end_char="2245" id="token-10-12" morph="none" pos="word" start_char="2239">diarios</TOKEN>
+<TOKEN end_char="2253" id="token-10-13" morph="none" pos="word" start_char="2247">durante</TOKEN>
+<TOKEN end_char="2258" id="token-10-14" morph="none" pos="word" start_char="2255">diez</TOKEN>
+<TOKEN end_char="2263" id="token-10-15" morph="none" pos="word" start_char="2260">días</TOKEN>
+<TOKEN end_char="2269" id="token-10-16" morph="none" pos="word" start_char="2265">sería</TOKEN>
+<TOKEN end_char="2280" id="token-10-17" morph="none" pos="word" start_char="2271">suficiente</TOKEN>
+<TOKEN end_char="2281" id="token-10-18" morph="none" pos="punct" start_char="2281">.</TOKEN>
+<TRANSLATED_TEXT>According to Chinese researchers, a 500 mg daily treatment of chloroquine for ten days would be sufficient.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2293" id="segment-11" start_char="2284">
+<ORIGINAL_TEXT>© 2020 AFP</ORIGINAL_TEXT>
+<TOKEN end_char="2284" id="token-11-0" morph="none" pos="unknown" start_char="2284">©</TOKEN>
+<TOKEN end_char="2289" id="token-11-1" morph="none" pos="word" start_char="2286">2020</TOKEN>
+<TOKEN end_char="2293" id="token-11-2" morph="none" pos="word" start_char="2291">AFP</TOKEN>
+<TRANSLATED_TEXT>(c) 2020 AFP</TRANSLATED_TEXT><DETECTED_LANGUAGE>tl</DETECTED_LANGUAGE></SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

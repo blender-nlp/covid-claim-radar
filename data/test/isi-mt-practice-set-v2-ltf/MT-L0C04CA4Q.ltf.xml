@@ -1,0 +1,264 @@
+<LCTL_TEXT lang="spa">
+<DOC grammar="none" id="L0C04CA4Q" lang="spa" raw_text_char_length="1270" raw_text_md5="39ac793b5d1b938e1be4dfa2fb989be1" tokenization="tokenization_parameters.v5.0">
+<TEXT>
+<SEG end_char="71" id="segment-0" start_char="1">
+<ORIGINAL_TEXT>Необходимость носить маски может сохраниться в Москве до середины осени</ORIGINAL_TEXT>
+<TOKEN end_char="13" id="token-0-0" morph="none" pos="word" start_char="1">Необходимость</TOKEN>
+<TOKEN end_char="20" id="token-0-1" morph="none" pos="word" start_char="15">носить</TOKEN>
+<TOKEN end_char="26" id="token-0-2" morph="none" pos="word" start_char="22">маски</TOKEN>
+<TOKEN end_char="32" id="token-0-3" morph="none" pos="word" start_char="28">может</TOKEN>
+<TOKEN end_char="44" id="token-0-4" morph="none" pos="word" start_char="34">сохраниться</TOKEN>
+<TOKEN end_char="46" id="token-0-5" morph="none" pos="word" start_char="46">в</TOKEN>
+<TOKEN end_char="53" id="token-0-6" morph="none" pos="word" start_char="48">Москве</TOKEN>
+<TOKEN end_char="56" id="token-0-7" morph="none" pos="word" start_char="55">до</TOKEN>
+<TOKEN end_char="65" id="token-0-8" morph="none" pos="word" start_char="58">середины</TOKEN>
+<TOKEN end_char="71" id="token-0-9" morph="none" pos="word" start_char="67">осени</TOKEN>
+<TRANSLATED_TEXT>The need to wear masks may remain in Moscow until mid-autumn</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="90" id="segment-1" start_char="76">
+<ORIGINAL_TEXT>МОСКВА, 4 июня.</ORIGINAL_TEXT>
+<TOKEN end_char="81" id="token-1-0" morph="none" pos="word" start_char="76">МОСКВА</TOKEN>
+<TOKEN end_char="82" id="token-1-1" morph="none" pos="punct" start_char="82">,</TOKEN>
+<TOKEN end_char="84" id="token-1-2" morph="none" pos="word" start_char="84">4</TOKEN>
+<TOKEN end_char="89" id="token-1-3" morph="none" pos="word" start_char="86">июня</TOKEN>
+<TOKEN end_char="90" id="token-1-4" morph="none" pos="punct" start_char="90">.</TOKEN>
+<TRANSLATED_TEXT>Moscow, 4 June.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="98" id="segment-2" start_char="92">
+<ORIGINAL_TEXT>/ТАСС/.</ORIGINAL_TEXT>
+<TOKEN end_char="92" id="token-2-0" morph="none" pos="punct" start_char="92">/</TOKEN>
+<TOKEN end_char="96" id="token-2-1" morph="none" pos="word" start_char="93">ТАСС</TOKEN>
+<TOKEN end_char="98" id="token-2-2" morph="none" pos="punct" start_char="97">/.</TOKEN>
+<TRANSLATED_TEXT>/ TASS /.</TRANSLATED_TEXT><DETECTED_LANGUAGE>bg</DETECTED_LANGUAGE></SEG>
+<SEG end_char="211" id="segment-3" start_char="100">
+<ORIGINAL_TEXT>Необходимость носить маски в Москве сохранится до тех пор, пока не начнется массовая вакцинация от коронавируса.</ORIGINAL_TEXT>
+<TOKEN end_char="112" id="token-3-0" morph="none" pos="word" start_char="100">Необходимость</TOKEN>
+<TOKEN end_char="119" id="token-3-1" morph="none" pos="word" start_char="114">носить</TOKEN>
+<TOKEN end_char="125" id="token-3-2" morph="none" pos="word" start_char="121">маски</TOKEN>
+<TOKEN end_char="127" id="token-3-3" morph="none" pos="word" start_char="127">в</TOKEN>
+<TOKEN end_char="134" id="token-3-4" morph="none" pos="word" start_char="129">Москве</TOKEN>
+<TOKEN end_char="145" id="token-3-5" morph="none" pos="word" start_char="136">сохранится</TOKEN>
+<TOKEN end_char="148" id="token-3-6" morph="none" pos="word" start_char="147">до</TOKEN>
+<TOKEN end_char="152" id="token-3-7" morph="none" pos="word" start_char="150">тех</TOKEN>
+<TOKEN end_char="156" id="token-3-8" morph="none" pos="word" start_char="154">пор</TOKEN>
+<TOKEN end_char="157" id="token-3-9" morph="none" pos="punct" start_char="157">,</TOKEN>
+<TOKEN end_char="162" id="token-3-10" morph="none" pos="word" start_char="159">пока</TOKEN>
+<TOKEN end_char="165" id="token-3-11" morph="none" pos="word" start_char="164">не</TOKEN>
+<TOKEN end_char="174" id="token-3-12" morph="none" pos="word" start_char="167">начнется</TOKEN>
+<TOKEN end_char="183" id="token-3-13" morph="none" pos="word" start_char="176">массовая</TOKEN>
+<TOKEN end_char="194" id="token-3-14" morph="none" pos="word" start_char="185">вакцинация</TOKEN>
+<TOKEN end_char="197" id="token-3-15" morph="none" pos="word" start_char="196">от</TOKEN>
+<TOKEN end_char="210" id="token-3-16" morph="none" pos="word" start_char="199">коронавируса</TOKEN>
+<TOKEN end_char="211" id="token-3-17" morph="none" pos="punct" start_char="211">.</TOKEN>
+<TRANSLATED_TEXT>The need to wear masks in Moscow will continue until mass vaccination against coronavirus begins.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="320" id="segment-4" start_char="213">
+<ORIGINAL_TEXT>Это может произойти в октябре текущего года или позднее, сообщил в интервью ТАСС мэр столицы Сергей Собянин.</ORIGINAL_TEXT>
+<TOKEN end_char="215" id="token-4-0" morph="none" pos="word" start_char="213">Это</TOKEN>
+<TOKEN end_char="221" id="token-4-1" morph="none" pos="word" start_char="217">может</TOKEN>
+<TOKEN end_char="231" id="token-4-2" morph="none" pos="word" start_char="223">произойти</TOKEN>
+<TOKEN end_char="233" id="token-4-3" morph="none" pos="word" start_char="233">в</TOKEN>
+<TOKEN end_char="241" id="token-4-4" morph="none" pos="word" start_char="235">октябре</TOKEN>
+<TOKEN end_char="250" id="token-4-5" morph="none" pos="word" start_char="243">текущего</TOKEN>
+<TOKEN end_char="255" id="token-4-6" morph="none" pos="word" start_char="252">года</TOKEN>
+<TOKEN end_char="259" id="token-4-7" morph="none" pos="word" start_char="257">или</TOKEN>
+<TOKEN end_char="267" id="token-4-8" morph="none" pos="word" start_char="261">позднее</TOKEN>
+<TOKEN end_char="268" id="token-4-9" morph="none" pos="punct" start_char="268">,</TOKEN>
+<TOKEN end_char="276" id="token-4-10" morph="none" pos="word" start_char="270">сообщил</TOKEN>
+<TOKEN end_char="278" id="token-4-11" morph="none" pos="word" start_char="278">в</TOKEN>
+<TOKEN end_char="287" id="token-4-12" morph="none" pos="word" start_char="280">интервью</TOKEN>
+<TOKEN end_char="292" id="token-4-13" morph="none" pos="word" start_char="289">ТАСС</TOKEN>
+<TOKEN end_char="296" id="token-4-14" morph="none" pos="word" start_char="294">мэр</TOKEN>
+<TOKEN end_char="304" id="token-4-15" morph="none" pos="word" start_char="298">столицы</TOKEN>
+<TOKEN end_char="311" id="token-4-16" morph="none" pos="word" start_char="306">Сергей</TOKEN>
+<TOKEN end_char="319" id="token-4-17" morph="none" pos="word" start_char="313">Собянин</TOKEN>
+<TOKEN end_char="320" id="token-4-18" morph="none" pos="punct" start_char="320">.</TOKEN>
+<TRANSLATED_TEXT>This could happen in October of this year or later, the mayor of the capital, Sergey Sobyanin, reported in an interview with TASS...........</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="415" id="segment-5" start_char="323">
+<ORIGINAL_TEXT>"Сколько нам ходить в масках - во многом будет зависеть от сроков появления массовой вакцины.</ORIGINAL_TEXT>
+<TOKEN end_char="323" id="token-5-0" morph="none" pos="punct" start_char="323">"</TOKEN>
+<TOKEN end_char="330" id="token-5-1" morph="none" pos="word" start_char="324">Сколько</TOKEN>
+<TOKEN end_char="334" id="token-5-2" morph="none" pos="word" start_char="332">нам</TOKEN>
+<TOKEN end_char="341" id="token-5-3" morph="none" pos="word" start_char="336">ходить</TOKEN>
+<TOKEN end_char="343" id="token-5-4" morph="none" pos="word" start_char="343">в</TOKEN>
+<TOKEN end_char="350" id="token-5-5" morph="none" pos="word" start_char="345">масках</TOKEN>
+<TOKEN end_char="352" id="token-5-6" morph="none" pos="punct" start_char="352">-</TOKEN>
+<TOKEN end_char="355" id="token-5-7" morph="none" pos="word" start_char="354">во</TOKEN>
+<TOKEN end_char="362" id="token-5-8" morph="none" pos="word" start_char="357">многом</TOKEN>
+<TOKEN end_char="368" id="token-5-9" morph="none" pos="word" start_char="364">будет</TOKEN>
+<TOKEN end_char="377" id="token-5-10" morph="none" pos="word" start_char="370">зависеть</TOKEN>
+<TOKEN end_char="380" id="token-5-11" morph="none" pos="word" start_char="379">от</TOKEN>
+<TOKEN end_char="387" id="token-5-12" morph="none" pos="word" start_char="382">сроков</TOKEN>
+<TOKEN end_char="397" id="token-5-13" morph="none" pos="word" start_char="389">появления</TOKEN>
+<TOKEN end_char="406" id="token-5-14" morph="none" pos="word" start_char="399">массовой</TOKEN>
+<TOKEN end_char="414" id="token-5-15" morph="none" pos="word" start_char="408">вакцины</TOKEN>
+<TOKEN end_char="415" id="token-5-16" morph="none" pos="punct" start_char="415">.</TOKEN>
+<TRANSLATED_TEXT>How much we wear masks will depend on the timing of the mass vaccine.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="474" id="segment-6" start_char="417">
+<ORIGINAL_TEXT>По разным оценкам - от октября до февраля следующего года.</ORIGINAL_TEXT>
+<TOKEN end_char="418" id="token-6-0" morph="none" pos="word" start_char="417">По</TOKEN>
+<TOKEN end_char="425" id="token-6-1" morph="none" pos="word" start_char="420">разным</TOKEN>
+<TOKEN end_char="433" id="token-6-2" morph="none" pos="word" start_char="427">оценкам</TOKEN>
+<TOKEN end_char="435" id="token-6-3" morph="none" pos="punct" start_char="435">-</TOKEN>
+<TOKEN end_char="438" id="token-6-4" morph="none" pos="word" start_char="437">от</TOKEN>
+<TOKEN end_char="446" id="token-6-5" morph="none" pos="word" start_char="440">октября</TOKEN>
+<TOKEN end_char="449" id="token-6-6" morph="none" pos="word" start_char="448">до</TOKEN>
+<TOKEN end_char="457" id="token-6-7" morph="none" pos="word" start_char="451">февраля</TOKEN>
+<TOKEN end_char="468" id="token-6-8" morph="none" pos="word" start_char="459">следующего</TOKEN>
+<TOKEN end_char="473" id="token-6-9" morph="none" pos="word" start_char="470">года</TOKEN>
+<TOKEN end_char="474" id="token-6-10" morph="none" pos="punct" start_char="474">.</TOKEN>
+<TRANSLATED_TEXT>Estimates vary from October to February of the following year.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="560" id="segment-7" start_char="476">
+<ORIGINAL_TEXT>Хочется верить, что в октябре мы получим первые большие партии вакцины", - сказал он.</ORIGINAL_TEXT>
+<TOKEN end_char="482" id="token-7-0" morph="none" pos="word" start_char="476">Хочется</TOKEN>
+<TOKEN end_char="489" id="token-7-1" morph="none" pos="word" start_char="484">верить</TOKEN>
+<TOKEN end_char="490" id="token-7-2" morph="none" pos="punct" start_char="490">,</TOKEN>
+<TOKEN end_char="494" id="token-7-3" morph="none" pos="word" start_char="492">что</TOKEN>
+<TOKEN end_char="496" id="token-7-4" morph="none" pos="word" start_char="496">в</TOKEN>
+<TOKEN end_char="504" id="token-7-5" morph="none" pos="word" start_char="498">октябре</TOKEN>
+<TOKEN end_char="507" id="token-7-6" morph="none" pos="word" start_char="506">мы</TOKEN>
+<TOKEN end_char="515" id="token-7-7" morph="none" pos="word" start_char="509">получим</TOKEN>
+<TOKEN end_char="522" id="token-7-8" morph="none" pos="word" start_char="517">первые</TOKEN>
+<TOKEN end_char="530" id="token-7-9" morph="none" pos="word" start_char="524">большие</TOKEN>
+<TOKEN end_char="537" id="token-7-10" morph="none" pos="word" start_char="532">партии</TOKEN>
+<TOKEN end_char="545" id="token-7-11" morph="none" pos="word" start_char="539">вакцины</TOKEN>
+<TOKEN end_char="547" id="token-7-12" morph="none" pos="punct" start_char="546">",</TOKEN>
+<TOKEN end_char="549" id="token-7-13" morph="none" pos="punct" start_char="549">-</TOKEN>
+<TOKEN end_char="556" id="token-7-14" morph="none" pos="word" start_char="551">сказал</TOKEN>
+<TOKEN end_char="559" id="token-7-15" morph="none" pos="word" start_char="558">он</TOKEN>
+<TOKEN end_char="560" id="token-7-16" morph="none" pos="punct" start_char="560">.</TOKEN>
+<TRANSLATED_TEXT>We want to believe that in October we will get the first large batches of vaccine, "he said.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="601" id="segment-8" start_char="564">
+<ORIGINAL_TEXT>"Человек очень быстро забывает плохое.</ORIGINAL_TEXT>
+<TOKEN end_char="564" id="token-8-0" morph="none" pos="punct" start_char="564">"</TOKEN>
+<TOKEN end_char="571" id="token-8-1" morph="none" pos="word" start_char="565">Человек</TOKEN>
+<TOKEN end_char="577" id="token-8-2" morph="none" pos="word" start_char="573">очень</TOKEN>
+<TOKEN end_char="584" id="token-8-3" morph="none" pos="word" start_char="579">быстро</TOKEN>
+<TOKEN end_char="593" id="token-8-4" morph="none" pos="word" start_char="586">забывает</TOKEN>
+<TOKEN end_char="600" id="token-8-5" morph="none" pos="word" start_char="595">плохое</TOKEN>
+<TOKEN end_char="601" id="token-8-6" morph="none" pos="punct" start_char="601">.</TOKEN>
+<TRANSLATED_TEXT>A man quickly forgets the bad.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="638" id="segment-9" start_char="603">
+<ORIGINAL_TEXT>Такова его психология, и слава богу.</ORIGINAL_TEXT>
+<TOKEN end_char="608" id="token-9-0" morph="none" pos="word" start_char="603">Такова</TOKEN>
+<TOKEN end_char="612" id="token-9-1" morph="none" pos="word" start_char="610">его</TOKEN>
+<TOKEN end_char="623" id="token-9-2" morph="none" pos="word" start_char="614">психология</TOKEN>
+<TOKEN end_char="624" id="token-9-3" morph="none" pos="punct" start_char="624">,</TOKEN>
+<TOKEN end_char="626" id="token-9-4" morph="none" pos="word" start_char="626">и</TOKEN>
+<TOKEN end_char="632" id="token-9-5" morph="none" pos="word" start_char="628">слава</TOKEN>
+<TOKEN end_char="637" id="token-9-6" morph="none" pos="word" start_char="634">богу</TOKEN>
+<TOKEN end_char="638" id="token-9-7" morph="none" pos="punct" start_char="638">.</TOKEN>
+<TRANSLATED_TEXT>That 's his psychology, and thank God.</TRANSLATED_TEXT><DETECTED_LANGUAGE>bg</DETECTED_LANGUAGE></SEG>
+<SEG end_char="718" id="segment-10" start_char="640">
+<ORIGINAL_TEXT>Думаю, через год мы полностью вернемся к прежнему образу жизни", - добавил мэр.</ORIGINAL_TEXT>
+<TOKEN end_char="644" id="token-10-0" morph="none" pos="word" start_char="640">Думаю</TOKEN>
+<TOKEN end_char="645" id="token-10-1" morph="none" pos="punct" start_char="645">,</TOKEN>
+<TOKEN end_char="651" id="token-10-2" morph="none" pos="word" start_char="647">через</TOKEN>
+<TOKEN end_char="655" id="token-10-3" morph="none" pos="word" start_char="653">год</TOKEN>
+<TOKEN end_char="658" id="token-10-4" morph="none" pos="word" start_char="657">мы</TOKEN>
+<TOKEN end_char="668" id="token-10-5" morph="none" pos="word" start_char="660">полностью</TOKEN>
+<TOKEN end_char="677" id="token-10-6" morph="none" pos="word" start_char="670">вернемся</TOKEN>
+<TOKEN end_char="679" id="token-10-7" morph="none" pos="word" start_char="679">к</TOKEN>
+<TOKEN end_char="688" id="token-10-8" morph="none" pos="word" start_char="681">прежнему</TOKEN>
+<TOKEN end_char="695" id="token-10-9" morph="none" pos="word" start_char="690">образу</TOKEN>
+<TOKEN end_char="701" id="token-10-10" morph="none" pos="word" start_char="697">жизни</TOKEN>
+<TOKEN end_char="703" id="token-10-11" morph="none" pos="punct" start_char="702">",</TOKEN>
+<TOKEN end_char="705" id="token-10-12" morph="none" pos="punct" start_char="705">-</TOKEN>
+<TOKEN end_char="713" id="token-10-13" morph="none" pos="word" start_char="707">добавил</TOKEN>
+<TOKEN end_char="717" id="token-10-14" morph="none" pos="word" start_char="715">мэр</TOKEN>
+<TOKEN end_char="718" id="token-10-15" morph="none" pos="punct" start_char="718">.</TOKEN>
+<TRANSLATED_TEXT>I think in a year we will be completely back to our old way of life, "the mayor added.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="927" id="segment-11" start_char="721">
+<ORIGINAL_TEXT>В Москве с 29 марта начал действовать режим самоизоляции из-за ситуации с коронавирусом, в результате чего были закрыты многие магазины, кафе, спортзалы и другие объекты, стали недоступны для прогулок парки.</ORIGINAL_TEXT>
+<TOKEN end_char="721" id="token-11-0" morph="none" pos="word" start_char="721">В</TOKEN>
+<TOKEN end_char="728" id="token-11-1" morph="none" pos="word" start_char="723">Москве</TOKEN>
+<TOKEN end_char="730" id="token-11-2" morph="none" pos="word" start_char="730">с</TOKEN>
+<TOKEN end_char="733" id="token-11-3" morph="none" pos="word" start_char="732">29</TOKEN>
+<TOKEN end_char="739" id="token-11-4" morph="none" pos="word" start_char="735">марта</TOKEN>
+<TOKEN end_char="745" id="token-11-5" morph="none" pos="word" start_char="741">начал</TOKEN>
+<TOKEN end_char="757" id="token-11-6" morph="none" pos="word" start_char="747">действовать</TOKEN>
+<TOKEN end_char="763" id="token-11-7" morph="none" pos="word" start_char="759">режим</TOKEN>
+<TOKEN end_char="776" id="token-11-8" morph="none" pos="word" start_char="765">самоизоляции</TOKEN>
+<TOKEN end_char="782" id="token-11-9" morph="none" pos="unknown" start_char="778">из-за</TOKEN>
+<TOKEN end_char="791" id="token-11-10" morph="none" pos="word" start_char="784">ситуации</TOKEN>
+<TOKEN end_char="793" id="token-11-11" morph="none" pos="word" start_char="793">с</TOKEN>
+<TOKEN end_char="807" id="token-11-12" morph="none" pos="word" start_char="795">коронавирусом</TOKEN>
+<TOKEN end_char="808" id="token-11-13" morph="none" pos="punct" start_char="808">,</TOKEN>
+<TOKEN end_char="810" id="token-11-14" morph="none" pos="word" start_char="810">в</TOKEN>
+<TOKEN end_char="821" id="token-11-15" morph="none" pos="word" start_char="812">результате</TOKEN>
+<TOKEN end_char="826" id="token-11-16" morph="none" pos="word" start_char="823">чего</TOKEN>
+<TOKEN end_char="831" id="token-11-17" morph="none" pos="word" start_char="828">были</TOKEN>
+<TOKEN end_char="839" id="token-11-18" morph="none" pos="word" start_char="833">закрыты</TOKEN>
+<TOKEN end_char="846" id="token-11-19" morph="none" pos="word" start_char="841">многие</TOKEN>
+<TOKEN end_char="855" id="token-11-20" morph="none" pos="word" start_char="848">магазины</TOKEN>
+<TOKEN end_char="856" id="token-11-21" morph="none" pos="punct" start_char="856">,</TOKEN>
+<TOKEN end_char="861" id="token-11-22" morph="none" pos="word" start_char="858">кафе</TOKEN>
+<TOKEN end_char="862" id="token-11-23" morph="none" pos="punct" start_char="862">,</TOKEN>
+<TOKEN end_char="872" id="token-11-24" morph="none" pos="word" start_char="864">спортзалы</TOKEN>
+<TOKEN end_char="874" id="token-11-25" morph="none" pos="word" start_char="874">и</TOKEN>
+<TOKEN end_char="881" id="token-11-26" morph="none" pos="word" start_char="876">другие</TOKEN>
+<TOKEN end_char="889" id="token-11-27" morph="none" pos="word" start_char="883">объекты</TOKEN>
+<TOKEN end_char="890" id="token-11-28" morph="none" pos="punct" start_char="890">,</TOKEN>
+<TOKEN end_char="896" id="token-11-29" morph="none" pos="word" start_char="892">стали</TOKEN>
+<TOKEN end_char="907" id="token-11-30" morph="none" pos="word" start_char="898">недоступны</TOKEN>
+<TOKEN end_char="911" id="token-11-31" morph="none" pos="word" start_char="909">для</TOKEN>
+<TOKEN end_char="920" id="token-11-32" morph="none" pos="word" start_char="913">прогулок</TOKEN>
+<TOKEN end_char="926" id="token-11-33" morph="none" pos="word" start_char="922">парки</TOKEN>
+<TOKEN end_char="927" id="token-11-34" morph="none" pos="punct" start_char="927">.</TOKEN>
+<TRANSLATED_TEXT>In Moscow, a self-isolation regime began on March 29 due to the situation of the coronavirus, as a result of which many shops, cafes, gymnasiums and other facilities were closed, and the parks were not accessible.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1050" id="segment-12" start_char="929">
+<ORIGINAL_TEXT>Однако в последнее время власти постепенно стали смягчать ограничения, поскольку эпидемическая ситуация начала улучшаться.</ORIGINAL_TEXT>
+<TOKEN end_char="934" id="token-12-0" morph="none" pos="word" start_char="929">Однако</TOKEN>
+<TOKEN end_char="936" id="token-12-1" morph="none" pos="word" start_char="936">в</TOKEN>
+<TOKEN end_char="946" id="token-12-2" morph="none" pos="word" start_char="938">последнее</TOKEN>
+<TOKEN end_char="952" id="token-12-3" morph="none" pos="word" start_char="948">время</TOKEN>
+<TOKEN end_char="959" id="token-12-4" morph="none" pos="word" start_char="954">власти</TOKEN>
+<TOKEN end_char="970" id="token-12-5" morph="none" pos="word" start_char="961">постепенно</TOKEN>
+<TOKEN end_char="976" id="token-12-6" morph="none" pos="word" start_char="972">стали</TOKEN>
+<TOKEN end_char="985" id="token-12-7" morph="none" pos="word" start_char="978">смягчать</TOKEN>
+<TOKEN end_char="997" id="token-12-8" morph="none" pos="word" start_char="987">ограничения</TOKEN>
+<TOKEN end_char="998" id="token-12-9" morph="none" pos="punct" start_char="998">,</TOKEN>
+<TOKEN end_char="1008" id="token-12-10" morph="none" pos="word" start_char="1000">поскольку</TOKEN>
+<TOKEN end_char="1022" id="token-12-11" morph="none" pos="word" start_char="1010">эпидемическая</TOKEN>
+<TOKEN end_char="1031" id="token-12-12" morph="none" pos="word" start_char="1024">ситуация</TOKEN>
+<TOKEN end_char="1038" id="token-12-13" morph="none" pos="word" start_char="1033">начала</TOKEN>
+<TOKEN end_char="1049" id="token-12-14" morph="none" pos="word" start_char="1040">улучшаться</TOKEN>
+<TOKEN end_char="1050" id="token-12-15" morph="none" pos="punct" start_char="1050">.</TOKEN>
+<TRANSLATED_TEXT>Recently, however, the authorities have gradually relaxed restrictions as the epidemic situation has begun to improve.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1266" id="segment-13" start_char="1052">
+<ORIGINAL_TEXT>Многие объекты сферы услуг и торговли, а также строительства вновь начали работать, но для жителей Москвы в общественных местах стало обязательным ношение масок и перчаток в целях борьбы с распространением инфекции.</ORIGINAL_TEXT>
+<TOKEN end_char="1057" id="token-13-0" morph="none" pos="word" start_char="1052">Многие</TOKEN>
+<TOKEN end_char="1065" id="token-13-1" morph="none" pos="word" start_char="1059">объекты</TOKEN>
+<TOKEN end_char="1071" id="token-13-2" morph="none" pos="word" start_char="1067">сферы</TOKEN>
+<TOKEN end_char="1077" id="token-13-3" morph="none" pos="word" start_char="1073">услуг</TOKEN>
+<TOKEN end_char="1079" id="token-13-4" morph="none" pos="word" start_char="1079">и</TOKEN>
+<TOKEN end_char="1088" id="token-13-5" morph="none" pos="word" start_char="1081">торговли</TOKEN>
+<TOKEN end_char="1089" id="token-13-6" morph="none" pos="punct" start_char="1089">,</TOKEN>
+<TOKEN end_char="1091" id="token-13-7" morph="none" pos="word" start_char="1091">а</TOKEN>
+<TOKEN end_char="1097" id="token-13-8" morph="none" pos="word" start_char="1093">также</TOKEN>
+<TOKEN end_char="1111" id="token-13-9" morph="none" pos="word" start_char="1099">строительства</TOKEN>
+<TOKEN end_char="1117" id="token-13-10" morph="none" pos="word" start_char="1113">вновь</TOKEN>
+<TOKEN end_char="1124" id="token-13-11" morph="none" pos="word" start_char="1119">начали</TOKEN>
+<TOKEN end_char="1133" id="token-13-12" morph="none" pos="word" start_char="1126">работать</TOKEN>
+<TOKEN end_char="1134" id="token-13-13" morph="none" pos="punct" start_char="1134">,</TOKEN>
+<TOKEN end_char="1137" id="token-13-14" morph="none" pos="word" start_char="1136">но</TOKEN>
+<TOKEN end_char="1141" id="token-13-15" morph="none" pos="word" start_char="1139">для</TOKEN>
+<TOKEN end_char="1149" id="token-13-16" morph="none" pos="word" start_char="1143">жителей</TOKEN>
+<TOKEN end_char="1156" id="token-13-17" morph="none" pos="word" start_char="1151">Москвы</TOKEN>
+<TOKEN end_char="1158" id="token-13-18" morph="none" pos="word" start_char="1158">в</TOKEN>
+<TOKEN end_char="1171" id="token-13-19" morph="none" pos="word" start_char="1160">общественных</TOKEN>
+<TOKEN end_char="1178" id="token-13-20" morph="none" pos="word" start_char="1173">местах</TOKEN>
+<TOKEN end_char="1184" id="token-13-21" morph="none" pos="word" start_char="1180">стало</TOKEN>
+<TOKEN end_char="1197" id="token-13-22" morph="none" pos="word" start_char="1186">обязательным</TOKEN>
+<TOKEN end_char="1205" id="token-13-23" morph="none" pos="word" start_char="1199">ношение</TOKEN>
+<TOKEN end_char="1211" id="token-13-24" morph="none" pos="word" start_char="1207">масок</TOKEN>
+<TOKEN end_char="1213" id="token-13-25" morph="none" pos="word" start_char="1213">и</TOKEN>
+<TOKEN end_char="1222" id="token-13-26" morph="none" pos="word" start_char="1215">перчаток</TOKEN>
+<TOKEN end_char="1224" id="token-13-27" morph="none" pos="word" start_char="1224">в</TOKEN>
+<TOKEN end_char="1230" id="token-13-28" morph="none" pos="word" start_char="1226">целях</TOKEN>
+<TOKEN end_char="1237" id="token-13-29" morph="none" pos="word" start_char="1232">борьбы</TOKEN>
+<TOKEN end_char="1239" id="token-13-30" morph="none" pos="word" start_char="1239">с</TOKEN>
+<TOKEN end_char="1256" id="token-13-31" morph="none" pos="word" start_char="1241">распространением</TOKEN>
+<TOKEN end_char="1265" id="token-13-32" morph="none" pos="word" start_char="1258">инфекции</TOKEN>
+<TOKEN end_char="1266" id="token-13-33" morph="none" pos="punct" start_char="1266">.</TOKEN>
+<TRANSLATED_TEXT>Many facilities in the service sector, trade and construction began to work again, but Moscow residents were forced to wear masks and gloves in public places in order to combat the spread of infection.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

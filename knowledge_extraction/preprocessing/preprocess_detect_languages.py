@@ -84,11 +84,19 @@ def detect_lang(rsd_input_folder, ltf_input_folder, output_folder, langs=['en', 
         candidate_language_id = candidate_language_id.replace('zh-cn', 'zh')
         if candidate_language_id not in langs:
             candidate_language_id = 'en'
-        language_folder_ltf = os.path.join(output_folder, candidate_language_id, 'ltf')
+
+        if candidate_language_id == 'en':
+            language_folder_ltf = os.path.join(output_folder, candidate_language_id, 'ltf')
+        else:
+            language_folder_ltf = os.path.join(output_folder, candidate_language_id, 'ltf_raw')
         if os.path.exists(language_folder_ltf) is False:
             os.makedirs(language_folder_ltf, exist_ok=True)
         shutil.copy(one_ltf_file_path, language_folder_ltf)
-        language_folder_rsd = os.path.join(output_folder, candidate_language_id, 'rsd')
+        
+        if candidate_language_id == 'en':
+            language_folder_rsd = os.path.join(output_folder, candidate_language_id, 'rsd')
+        else:
+            language_folder_rsd = os.path.join(output_folder, candidate_language_id, 'rsd_raw')
         if os.path.exists(language_folder_rsd) is False:
             os.makedirs(language_folder_rsd, exist_ok=True)
         shutil.copy(one_rsd_file_path, language_folder_rsd)

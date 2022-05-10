@@ -1,0 +1,591 @@
+<LCTL_TEXT lang="spa">
+<DOC grammar="none" id="L0C04CVJW" lang="spa" raw_text_char_length="3247" raw_text_md5="37e0253a511e8e5e71b15f1f11d8198d" tokenization="tokenization_parameters.v5.0">
+<TEXT>
+<SEG end_char="78" id="segment-0" start_char="1">
+<ORIGINAL_TEXT>El medicamento que reduce la mortalidad hasta un 71% en pacientes con COVID-19</ORIGINAL_TEXT>
+<TOKEN end_char="2" id="token-0-0" morph="none" pos="word" start_char="1">El</TOKEN>
+<TOKEN end_char="14" id="token-0-1" morph="none" pos="word" start_char="4">medicamento</TOKEN>
+<TOKEN end_char="18" id="token-0-2" morph="none" pos="word" start_char="16">que</TOKEN>
+<TOKEN end_char="25" id="token-0-3" morph="none" pos="word" start_char="20">reduce</TOKEN>
+<TOKEN end_char="28" id="token-0-4" morph="none" pos="word" start_char="27">la</TOKEN>
+<TOKEN end_char="39" id="token-0-5" morph="none" pos="word" start_char="30">mortalidad</TOKEN>
+<TOKEN end_char="45" id="token-0-6" morph="none" pos="word" start_char="41">hasta</TOKEN>
+<TOKEN end_char="48" id="token-0-7" morph="none" pos="word" start_char="47">un</TOKEN>
+<TOKEN end_char="51" id="token-0-8" morph="none" pos="word" start_char="50">71</TOKEN>
+<TOKEN end_char="52" id="token-0-9" morph="none" pos="punct" start_char="52">%</TOKEN>
+<TOKEN end_char="55" id="token-0-10" morph="none" pos="word" start_char="54">en</TOKEN>
+<TOKEN end_char="65" id="token-0-11" morph="none" pos="word" start_char="57">pacientes</TOKEN>
+<TOKEN end_char="69" id="token-0-12" morph="none" pos="word" start_char="67">con</TOKEN>
+<TOKEN end_char="78" id="token-0-13" morph="none" pos="unknown" start_char="71">COVID-19</TOKEN>
+<TRANSLATED_TEXT>The drug that reduces mortality to 71% in patients with COVID-19</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="88" id="segment-1" start_char="82">
+<ORIGINAL_TEXT>STR AFP</ORIGINAL_TEXT>
+<TOKEN end_char="84" id="token-1-0" morph="none" pos="word" start_char="82">STR</TOKEN>
+<TOKEN end_char="88" id="token-1-1" morph="none" pos="word" start_char="86">AFP</TOKEN>
+</SEG>
+<SEG end_char="566" id="segment-2" start_char="92">
+<ORIGINAL_TEXT>El fármaco baricitinib, identificado gracias a una investigación previa basada en la inteligencia artificial, para la artritis reumatoide puede bloquear la entrada viral y reducir la mortalidad en pacientes con COVID-19 cuyo estado va de moderado a grave, según una investigación traslacional de un equipo internacional coordinado por expertos del Karolinska Institutet en Suecia y en el que han participado investigadores del Complejo Hospitalario Universitario de Albacete.</ORIGINAL_TEXT>
+<TOKEN end_char="93" id="token-2-0" morph="none" pos="word" start_char="92">El</TOKEN>
+<TOKEN end_char="101" id="token-2-1" morph="none" pos="word" start_char="95">fármaco</TOKEN>
+<TOKEN end_char="113" id="token-2-2" morph="none" pos="word" start_char="103">baricitinib</TOKEN>
+<TOKEN end_char="114" id="token-2-3" morph="none" pos="punct" start_char="114">,</TOKEN>
+<TOKEN end_char="127" id="token-2-4" morph="none" pos="word" start_char="116">identificado</TOKEN>
+<TOKEN end_char="135" id="token-2-5" morph="none" pos="word" start_char="129">gracias</TOKEN>
+<TOKEN end_char="137" id="token-2-6" morph="none" pos="word" start_char="137">a</TOKEN>
+<TOKEN end_char="141" id="token-2-7" morph="none" pos="word" start_char="139">una</TOKEN>
+<TOKEN end_char="155" id="token-2-8" morph="none" pos="word" start_char="143">investigación</TOKEN>
+<TOKEN end_char="162" id="token-2-9" morph="none" pos="word" start_char="157">previa</TOKEN>
+<TOKEN end_char="169" id="token-2-10" morph="none" pos="word" start_char="164">basada</TOKEN>
+<TOKEN end_char="172" id="token-2-11" morph="none" pos="word" start_char="171">en</TOKEN>
+<TOKEN end_char="175" id="token-2-12" morph="none" pos="word" start_char="174">la</TOKEN>
+<TOKEN end_char="188" id="token-2-13" morph="none" pos="word" start_char="177">inteligencia</TOKEN>
+<TOKEN end_char="199" id="token-2-14" morph="none" pos="word" start_char="190">artificial</TOKEN>
+<TOKEN end_char="200" id="token-2-15" morph="none" pos="punct" start_char="200">,</TOKEN>
+<TOKEN end_char="205" id="token-2-16" morph="none" pos="word" start_char="202">para</TOKEN>
+<TOKEN end_char="208" id="token-2-17" morph="none" pos="word" start_char="207">la</TOKEN>
+<TOKEN end_char="217" id="token-2-18" morph="none" pos="word" start_char="210">artritis</TOKEN>
+<TOKEN end_char="228" id="token-2-19" morph="none" pos="word" start_char="219">reumatoide</TOKEN>
+<TOKEN end_char="234" id="token-2-20" morph="none" pos="word" start_char="230">puede</TOKEN>
+<TOKEN end_char="243" id="token-2-21" morph="none" pos="word" start_char="236">bloquear</TOKEN>
+<TOKEN end_char="246" id="token-2-22" morph="none" pos="word" start_char="245">la</TOKEN>
+<TOKEN end_char="254" id="token-2-23" morph="none" pos="word" start_char="248">entrada</TOKEN>
+<TOKEN end_char="260" id="token-2-24" morph="none" pos="word" start_char="256">viral</TOKEN>
+<TOKEN end_char="262" id="token-2-25" morph="none" pos="word" start_char="262">y</TOKEN>
+<TOKEN end_char="270" id="token-2-26" morph="none" pos="word" start_char="264">reducir</TOKEN>
+<TOKEN end_char="273" id="token-2-27" morph="none" pos="word" start_char="272">la</TOKEN>
+<TOKEN end_char="284" id="token-2-28" morph="none" pos="word" start_char="275">mortalidad</TOKEN>
+<TOKEN end_char="287" id="token-2-29" morph="none" pos="word" start_char="286">en</TOKEN>
+<TOKEN end_char="297" id="token-2-30" morph="none" pos="word" start_char="289">pacientes</TOKEN>
+<TOKEN end_char="301" id="token-2-31" morph="none" pos="word" start_char="299">con</TOKEN>
+<TOKEN end_char="310" id="token-2-32" morph="none" pos="unknown" start_char="303">COVID-19</TOKEN>
+<TOKEN end_char="315" id="token-2-33" morph="none" pos="word" start_char="312">cuyo</TOKEN>
+<TOKEN end_char="322" id="token-2-34" morph="none" pos="word" start_char="317">estado</TOKEN>
+<TOKEN end_char="325" id="token-2-35" morph="none" pos="word" start_char="324">va</TOKEN>
+<TOKEN end_char="328" id="token-2-36" morph="none" pos="word" start_char="327">de</TOKEN>
+<TOKEN end_char="337" id="token-2-37" morph="none" pos="word" start_char="330">moderado</TOKEN>
+<TOKEN end_char="339" id="token-2-38" morph="none" pos="word" start_char="339">a</TOKEN>
+<TOKEN end_char="345" id="token-2-39" morph="none" pos="word" start_char="341">grave</TOKEN>
+<TOKEN end_char="346" id="token-2-40" morph="none" pos="punct" start_char="346">,</TOKEN>
+<TOKEN end_char="352" id="token-2-41" morph="none" pos="word" start_char="348">según</TOKEN>
+<TOKEN end_char="356" id="token-2-42" morph="none" pos="word" start_char="354">una</TOKEN>
+<TOKEN end_char="370" id="token-2-43" morph="none" pos="word" start_char="358">investigación</TOKEN>
+<TOKEN end_char="383" id="token-2-44" morph="none" pos="word" start_char="372">traslacional</TOKEN>
+<TOKEN end_char="386" id="token-2-45" morph="none" pos="word" start_char="385">de</TOKEN>
+<TOKEN end_char="389" id="token-2-46" morph="none" pos="word" start_char="388">un</TOKEN>
+<TOKEN end_char="396" id="token-2-47" morph="none" pos="word" start_char="391">equipo</TOKEN>
+<TOKEN end_char="410" id="token-2-48" morph="none" pos="word" start_char="398">internacional</TOKEN>
+<TOKEN end_char="421" id="token-2-49" morph="none" pos="word" start_char="412">coordinado</TOKEN>
+<TOKEN end_char="425" id="token-2-50" morph="none" pos="word" start_char="423">por</TOKEN>
+<TOKEN end_char="434" id="token-2-51" morph="none" pos="word" start_char="427">expertos</TOKEN>
+<TOKEN end_char="438" id="token-2-52" morph="none" pos="word" start_char="436">del</TOKEN>
+<TOKEN end_char="449" id="token-2-53" morph="none" pos="word" start_char="440">Karolinska</TOKEN>
+<TOKEN end_char="460" id="token-2-54" morph="none" pos="word" start_char="451">Institutet</TOKEN>
+<TOKEN end_char="463" id="token-2-55" morph="none" pos="word" start_char="462">en</TOKEN>
+<TOKEN end_char="470" id="token-2-56" morph="none" pos="word" start_char="465">Suecia</TOKEN>
+<TOKEN end_char="472" id="token-2-57" morph="none" pos="word" start_char="472">y</TOKEN>
+<TOKEN end_char="475" id="token-2-58" morph="none" pos="word" start_char="474">en</TOKEN>
+<TOKEN end_char="478" id="token-2-59" morph="none" pos="word" start_char="477">el</TOKEN>
+<TOKEN end_char="482" id="token-2-60" morph="none" pos="word" start_char="480">que</TOKEN>
+<TOKEN end_char="486" id="token-2-61" morph="none" pos="word" start_char="484">han</TOKEN>
+<TOKEN end_char="498" id="token-2-62" morph="none" pos="word" start_char="488">participado</TOKEN>
+<TOKEN end_char="513" id="token-2-63" morph="none" pos="word" start_char="500">investigadores</TOKEN>
+<TOKEN end_char="517" id="token-2-64" morph="none" pos="word" start_char="515">del</TOKEN>
+<TOKEN end_char="526" id="token-2-65" morph="none" pos="word" start_char="519">Complejo</TOKEN>
+<TOKEN end_char="539" id="token-2-66" morph="none" pos="word" start_char="528">Hospitalario</TOKEN>
+<TOKEN end_char="553" id="token-2-67" morph="none" pos="word" start_char="541">Universitario</TOKEN>
+<TOKEN end_char="556" id="token-2-68" morph="none" pos="word" start_char="555">de</TOKEN>
+<TOKEN end_char="565" id="token-2-69" morph="none" pos="word" start_char="558">Albacete</TOKEN>
+<TOKEN end_char="566" id="token-2-70" morph="none" pos="punct" start_char="566">.</TOKEN>
+<TRANSLATED_TEXT>The drug baricitinib, identified through previous research based on artificial intelligence, for rheumatoid arthritis can block viral entry and reduce mortality in patients with COVID-19 whose condition ranges from moderate to severe, according to a translational research by an international team coordinated by experts from Karolinska Institutet in Sweden and in which researchers from the University Hospital Complex in Albacete have participated.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="708" id="segment-3" start_char="569">
+<ORIGINAL_TEXT>"Nos complace informar de una reducción del 71 por ciento en la mortalidad del grupo que recibió baricitinib además de la atención estándar.</ORIGINAL_TEXT>
+<TOKEN end_char="569" id="token-3-0" morph="none" pos="punct" start_char="569">"</TOKEN>
+<TOKEN end_char="572" id="token-3-1" morph="none" pos="word" start_char="570">Nos</TOKEN>
+<TOKEN end_char="581" id="token-3-2" morph="none" pos="word" start_char="574">complace</TOKEN>
+<TOKEN end_char="590" id="token-3-3" morph="none" pos="word" start_char="583">informar</TOKEN>
+<TOKEN end_char="593" id="token-3-4" morph="none" pos="word" start_char="592">de</TOKEN>
+<TOKEN end_char="597" id="token-3-5" morph="none" pos="word" start_char="595">una</TOKEN>
+<TOKEN end_char="607" id="token-3-6" morph="none" pos="word" start_char="599">reducción</TOKEN>
+<TOKEN end_char="611" id="token-3-7" morph="none" pos="word" start_char="609">del</TOKEN>
+<TOKEN end_char="614" id="token-3-8" morph="none" pos="word" start_char="613">71</TOKEN>
+<TOKEN end_char="618" id="token-3-9" morph="none" pos="word" start_char="616">por</TOKEN>
+<TOKEN end_char="625" id="token-3-10" morph="none" pos="word" start_char="620">ciento</TOKEN>
+<TOKEN end_char="628" id="token-3-11" morph="none" pos="word" start_char="627">en</TOKEN>
+<TOKEN end_char="631" id="token-3-12" morph="none" pos="word" start_char="630">la</TOKEN>
+<TOKEN end_char="642" id="token-3-13" morph="none" pos="word" start_char="633">mortalidad</TOKEN>
+<TOKEN end_char="646" id="token-3-14" morph="none" pos="word" start_char="644">del</TOKEN>
+<TOKEN end_char="652" id="token-3-15" morph="none" pos="word" start_char="648">grupo</TOKEN>
+<TOKEN end_char="656" id="token-3-16" morph="none" pos="word" start_char="654">que</TOKEN>
+<TOKEN end_char="664" id="token-3-17" morph="none" pos="word" start_char="658">recibió</TOKEN>
+<TOKEN end_char="676" id="token-3-18" morph="none" pos="word" start_char="666">baricitinib</TOKEN>
+<TOKEN end_char="683" id="token-3-19" morph="none" pos="word" start_char="678">además</TOKEN>
+<TOKEN end_char="686" id="token-3-20" morph="none" pos="word" start_char="685">de</TOKEN>
+<TOKEN end_char="689" id="token-3-21" morph="none" pos="word" start_char="688">la</TOKEN>
+<TOKEN end_char="698" id="token-3-22" morph="none" pos="word" start_char="691">atención</TOKEN>
+<TOKEN end_char="707" id="token-3-23" morph="none" pos="word" start_char="700">estándar</TOKEN>
+<TOKEN end_char="708" id="token-3-24" morph="none" pos="punct" start_char="708">.</TOKEN>
+<TRANSLATED_TEXT>We are pleased to report a 71% reduction in the mortality of the group that received baricitinib in addition to standard care.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1064" id="segment-4" start_char="710">
+<ORIGINAL_TEXT>Estos resultados son especialmente alentadores dado que el estudio incluyó una gran cohorte de pacientes ancianos, un grupo que a menudo se excluye en otros ensayos", explica Volker Lauschke, autor del trabajo y profesor asociado de medicina personalizada y desarrollo de fármacos en el Departamento de Fisiología y Farmacología del Karolinska Institutet.</ORIGINAL_TEXT>
+<TOKEN end_char="714" id="token-4-0" morph="none" pos="word" start_char="710">Estos</TOKEN>
+<TOKEN end_char="725" id="token-4-1" morph="none" pos="word" start_char="716">resultados</TOKEN>
+<TOKEN end_char="729" id="token-4-2" morph="none" pos="word" start_char="727">son</TOKEN>
+<TOKEN end_char="743" id="token-4-3" morph="none" pos="word" start_char="731">especialmente</TOKEN>
+<TOKEN end_char="755" id="token-4-4" morph="none" pos="word" start_char="745">alentadores</TOKEN>
+<TOKEN end_char="760" id="token-4-5" morph="none" pos="word" start_char="757">dado</TOKEN>
+<TOKEN end_char="764" id="token-4-6" morph="none" pos="word" start_char="762">que</TOKEN>
+<TOKEN end_char="767" id="token-4-7" morph="none" pos="word" start_char="766">el</TOKEN>
+<TOKEN end_char="775" id="token-4-8" morph="none" pos="word" start_char="769">estudio</TOKEN>
+<TOKEN end_char="783" id="token-4-9" morph="none" pos="word" start_char="777">incluyó</TOKEN>
+<TOKEN end_char="787" id="token-4-10" morph="none" pos="word" start_char="785">una</TOKEN>
+<TOKEN end_char="792" id="token-4-11" morph="none" pos="word" start_char="789">gran</TOKEN>
+<TOKEN end_char="800" id="token-4-12" morph="none" pos="word" start_char="794">cohorte</TOKEN>
+<TOKEN end_char="803" id="token-4-13" morph="none" pos="word" start_char="802">de</TOKEN>
+<TOKEN end_char="813" id="token-4-14" morph="none" pos="word" start_char="805">pacientes</TOKEN>
+<TOKEN end_char="822" id="token-4-15" morph="none" pos="word" start_char="815">ancianos</TOKEN>
+<TOKEN end_char="823" id="token-4-16" morph="none" pos="punct" start_char="823">,</TOKEN>
+<TOKEN end_char="826" id="token-4-17" morph="none" pos="word" start_char="825">un</TOKEN>
+<TOKEN end_char="832" id="token-4-18" morph="none" pos="word" start_char="828">grupo</TOKEN>
+<TOKEN end_char="836" id="token-4-19" morph="none" pos="word" start_char="834">que</TOKEN>
+<TOKEN end_char="838" id="token-4-20" morph="none" pos="word" start_char="838">a</TOKEN>
+<TOKEN end_char="845" id="token-4-21" morph="none" pos="word" start_char="840">menudo</TOKEN>
+<TOKEN end_char="848" id="token-4-22" morph="none" pos="word" start_char="847">se</TOKEN>
+<TOKEN end_char="856" id="token-4-23" morph="none" pos="word" start_char="850">excluye</TOKEN>
+<TOKEN end_char="859" id="token-4-24" morph="none" pos="word" start_char="858">en</TOKEN>
+<TOKEN end_char="865" id="token-4-25" morph="none" pos="word" start_char="861">otros</TOKEN>
+<TOKEN end_char="873" id="token-4-26" morph="none" pos="word" start_char="867">ensayos</TOKEN>
+<TOKEN end_char="875" id="token-4-27" morph="none" pos="punct" start_char="874">",</TOKEN>
+<TOKEN end_char="883" id="token-4-28" morph="none" pos="word" start_char="877">explica</TOKEN>
+<TOKEN end_char="890" id="token-4-29" morph="none" pos="word" start_char="885">Volker</TOKEN>
+<TOKEN end_char="899" id="token-4-30" morph="none" pos="word" start_char="892">Lauschke</TOKEN>
+<TOKEN end_char="900" id="token-4-31" morph="none" pos="punct" start_char="900">,</TOKEN>
+<TOKEN end_char="906" id="token-4-32" morph="none" pos="word" start_char="902">autor</TOKEN>
+<TOKEN end_char="910" id="token-4-33" morph="none" pos="word" start_char="908">del</TOKEN>
+<TOKEN end_char="918" id="token-4-34" morph="none" pos="word" start_char="912">trabajo</TOKEN>
+<TOKEN end_char="920" id="token-4-35" morph="none" pos="word" start_char="920">y</TOKEN>
+<TOKEN end_char="929" id="token-4-36" morph="none" pos="word" start_char="922">profesor</TOKEN>
+<TOKEN end_char="938" id="token-4-37" morph="none" pos="word" start_char="931">asociado</TOKEN>
+<TOKEN end_char="941" id="token-4-38" morph="none" pos="word" start_char="940">de</TOKEN>
+<TOKEN end_char="950" id="token-4-39" morph="none" pos="word" start_char="943">medicina</TOKEN>
+<TOKEN end_char="964" id="token-4-40" morph="none" pos="word" start_char="952">personalizada</TOKEN>
+<TOKEN end_char="966" id="token-4-41" morph="none" pos="word" start_char="966">y</TOKEN>
+<TOKEN end_char="977" id="token-4-42" morph="none" pos="word" start_char="968">desarrollo</TOKEN>
+<TOKEN end_char="980" id="token-4-43" morph="none" pos="word" start_char="979">de</TOKEN>
+<TOKEN end_char="989" id="token-4-44" morph="none" pos="word" start_char="982">fármacos</TOKEN>
+<TOKEN end_char="992" id="token-4-45" morph="none" pos="word" start_char="991">en</TOKEN>
+<TOKEN end_char="995" id="token-4-46" morph="none" pos="word" start_char="994">el</TOKEN>
+<TOKEN end_char="1008" id="token-4-47" morph="none" pos="word" start_char="997">Departamento</TOKEN>
+<TOKEN end_char="1011" id="token-4-48" morph="none" pos="word" start_char="1010">de</TOKEN>
+<TOKEN end_char="1022" id="token-4-49" morph="none" pos="word" start_char="1013">Fisiología</TOKEN>
+<TOKEN end_char="1024" id="token-4-50" morph="none" pos="word" start_char="1024">y</TOKEN>
+<TOKEN end_char="1037" id="token-4-51" morph="none" pos="word" start_char="1026">Farmacología</TOKEN>
+<TOKEN end_char="1041" id="token-4-52" morph="none" pos="word" start_char="1039">del</TOKEN>
+<TOKEN end_char="1052" id="token-4-53" morph="none" pos="word" start_char="1043">Karolinska</TOKEN>
+<TOKEN end_char="1063" id="token-4-54" morph="none" pos="word" start_char="1054">Institutet</TOKEN>
+<TOKEN end_char="1064" id="token-4-55" morph="none" pos="punct" start_char="1064">.</TOKEN>
+<TRANSLATED_TEXT>These results are especially encouraging as the study included a large cohort of elderly patients, a group that is often excluded in other trials, "explains Volker Lauschke, author of the work and associate professor of personalized medicine and drug development at the Department of Physiology and Pharmacology of the Karolinska Institute.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1230" id="segment-5" start_char="1067">
+<ORIGINAL_TEXT>En el estudio, 83 pacientes hospitalizados en Italia y España con neumonía provocada por la COVID-19 fueron tratados con baricitinib además de la atención estándar.</ORIGINAL_TEXT>
+<TOKEN end_char="1068" id="token-5-0" morph="none" pos="word" start_char="1067">En</TOKEN>
+<TOKEN end_char="1071" id="token-5-1" morph="none" pos="word" start_char="1070">el</TOKEN>
+<TOKEN end_char="1079" id="token-5-2" morph="none" pos="word" start_char="1073">estudio</TOKEN>
+<TOKEN end_char="1080" id="token-5-3" morph="none" pos="punct" start_char="1080">,</TOKEN>
+<TOKEN end_char="1083" id="token-5-4" morph="none" pos="word" start_char="1082">83</TOKEN>
+<TOKEN end_char="1093" id="token-5-5" morph="none" pos="word" start_char="1085">pacientes</TOKEN>
+<TOKEN end_char="1108" id="token-5-6" morph="none" pos="word" start_char="1095">hospitalizados</TOKEN>
+<TOKEN end_char="1111" id="token-5-7" morph="none" pos="word" start_char="1110">en</TOKEN>
+<TOKEN end_char="1118" id="token-5-8" morph="none" pos="word" start_char="1113">Italia</TOKEN>
+<TOKEN end_char="1120" id="token-5-9" morph="none" pos="word" start_char="1120">y</TOKEN>
+<TOKEN end_char="1127" id="token-5-10" morph="none" pos="word" start_char="1122">España</TOKEN>
+<TOKEN end_char="1131" id="token-5-11" morph="none" pos="word" start_char="1129">con</TOKEN>
+<TOKEN end_char="1140" id="token-5-12" morph="none" pos="word" start_char="1133">neumonía</TOKEN>
+<TOKEN end_char="1150" id="token-5-13" morph="none" pos="word" start_char="1142">provocada</TOKEN>
+<TOKEN end_char="1154" id="token-5-14" morph="none" pos="word" start_char="1152">por</TOKEN>
+<TOKEN end_char="1157" id="token-5-15" morph="none" pos="word" start_char="1156">la</TOKEN>
+<TOKEN end_char="1166" id="token-5-16" morph="none" pos="unknown" start_char="1159">COVID-19</TOKEN>
+<TOKEN end_char="1173" id="token-5-17" morph="none" pos="word" start_char="1168">fueron</TOKEN>
+<TOKEN end_char="1182" id="token-5-18" morph="none" pos="word" start_char="1175">tratados</TOKEN>
+<TOKEN end_char="1186" id="token-5-19" morph="none" pos="word" start_char="1184">con</TOKEN>
+<TOKEN end_char="1198" id="token-5-20" morph="none" pos="word" start_char="1188">baricitinib</TOKEN>
+<TOKEN end_char="1205" id="token-5-21" morph="none" pos="word" start_char="1200">además</TOKEN>
+<TOKEN end_char="1208" id="token-5-22" morph="none" pos="word" start_char="1207">de</TOKEN>
+<TOKEN end_char="1211" id="token-5-23" morph="none" pos="word" start_char="1210">la</TOKEN>
+<TOKEN end_char="1220" id="token-5-24" morph="none" pos="word" start_char="1213">atención</TOKEN>
+<TOKEN end_char="1229" id="token-5-25" morph="none" pos="word" start_char="1222">estándar</TOKEN>
+<TOKEN end_char="1230" id="token-5-26" morph="none" pos="punct" start_char="1230">.</TOKEN>
+<TRANSLATED_TEXT>In the study, 83 patients hospitalized in Italy and Spain with pneumonia caused by COVID-19 were treated with baricitinib in addition to standard care.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1343" id="segment-6" start_char="1232">
+<ORIGINAL_TEXT>De estos, el 17 por ciento sufrió un resultado adverso que resultó en la muerte o ventilación mecánica invasiva.</ORIGINAL_TEXT>
+<TOKEN end_char="1233" id="token-6-0" morph="none" pos="word" start_char="1232">De</TOKEN>
+<TOKEN end_char="1239" id="token-6-1" morph="none" pos="word" start_char="1235">estos</TOKEN>
+<TOKEN end_char="1240" id="token-6-2" morph="none" pos="punct" start_char="1240">,</TOKEN>
+<TOKEN end_char="1243" id="token-6-3" morph="none" pos="word" start_char="1242">el</TOKEN>
+<TOKEN end_char="1246" id="token-6-4" morph="none" pos="word" start_char="1245">17</TOKEN>
+<TOKEN end_char="1250" id="token-6-5" morph="none" pos="word" start_char="1248">por</TOKEN>
+<TOKEN end_char="1257" id="token-6-6" morph="none" pos="word" start_char="1252">ciento</TOKEN>
+<TOKEN end_char="1264" id="token-6-7" morph="none" pos="word" start_char="1259">sufrió</TOKEN>
+<TOKEN end_char="1267" id="token-6-8" morph="none" pos="word" start_char="1266">un</TOKEN>
+<TOKEN end_char="1277" id="token-6-9" morph="none" pos="word" start_char="1269">resultado</TOKEN>
+<TOKEN end_char="1285" id="token-6-10" morph="none" pos="word" start_char="1279">adverso</TOKEN>
+<TOKEN end_char="1289" id="token-6-11" morph="none" pos="word" start_char="1287">que</TOKEN>
+<TOKEN end_char="1297" id="token-6-12" morph="none" pos="word" start_char="1291">resultó</TOKEN>
+<TOKEN end_char="1300" id="token-6-13" morph="none" pos="word" start_char="1299">en</TOKEN>
+<TOKEN end_char="1303" id="token-6-14" morph="none" pos="word" start_char="1302">la</TOKEN>
+<TOKEN end_char="1310" id="token-6-15" morph="none" pos="word" start_char="1305">muerte</TOKEN>
+<TOKEN end_char="1312" id="token-6-16" morph="none" pos="word" start_char="1312">o</TOKEN>
+<TOKEN end_char="1324" id="token-6-17" morph="none" pos="word" start_char="1314">ventilación</TOKEN>
+<TOKEN end_char="1333" id="token-6-18" morph="none" pos="word" start_char="1326">mecánica</TOKEN>
+<TOKEN end_char="1342" id="token-6-19" morph="none" pos="word" start_char="1335">invasiva</TOKEN>
+<TOKEN end_char="1343" id="token-6-20" morph="none" pos="punct" start_char="1343">.</TOKEN>
+<TRANSLATED_TEXT>Of these, 17 percent suffered an adverse outcome that resulted in death or invasive mechanical ventilation.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1469" id="segment-7" start_char="1345">
+<ORIGINAL_TEXT>Esto se compara con el 35 por ciento en el grupo de control emparejado de 83 pacientes que solo recibieron atención estándar.</ORIGINAL_TEXT>
+<TOKEN end_char="1348" id="token-7-0" morph="none" pos="word" start_char="1345">Esto</TOKEN>
+<TOKEN end_char="1351" id="token-7-1" morph="none" pos="word" start_char="1350">se</TOKEN>
+<TOKEN end_char="1359" id="token-7-2" morph="none" pos="word" start_char="1353">compara</TOKEN>
+<TOKEN end_char="1363" id="token-7-3" morph="none" pos="word" start_char="1361">con</TOKEN>
+<TOKEN end_char="1366" id="token-7-4" morph="none" pos="word" start_char="1365">el</TOKEN>
+<TOKEN end_char="1369" id="token-7-5" morph="none" pos="word" start_char="1368">35</TOKEN>
+<TOKEN end_char="1373" id="token-7-6" morph="none" pos="word" start_char="1371">por</TOKEN>
+<TOKEN end_char="1380" id="token-7-7" morph="none" pos="word" start_char="1375">ciento</TOKEN>
+<TOKEN end_char="1383" id="token-7-8" morph="none" pos="word" start_char="1382">en</TOKEN>
+<TOKEN end_char="1386" id="token-7-9" morph="none" pos="word" start_char="1385">el</TOKEN>
+<TOKEN end_char="1392" id="token-7-10" morph="none" pos="word" start_char="1388">grupo</TOKEN>
+<TOKEN end_char="1395" id="token-7-11" morph="none" pos="word" start_char="1394">de</TOKEN>
+<TOKEN end_char="1403" id="token-7-12" morph="none" pos="word" start_char="1397">control</TOKEN>
+<TOKEN end_char="1414" id="token-7-13" morph="none" pos="word" start_char="1405">emparejado</TOKEN>
+<TOKEN end_char="1417" id="token-7-14" morph="none" pos="word" start_char="1416">de</TOKEN>
+<TOKEN end_char="1420" id="token-7-15" morph="none" pos="word" start_char="1419">83</TOKEN>
+<TOKEN end_char="1430" id="token-7-16" morph="none" pos="word" start_char="1422">pacientes</TOKEN>
+<TOKEN end_char="1434" id="token-7-17" morph="none" pos="word" start_char="1432">que</TOKEN>
+<TOKEN end_char="1439" id="token-7-18" morph="none" pos="word" start_char="1436">solo</TOKEN>
+<TOKEN end_char="1450" id="token-7-19" morph="none" pos="word" start_char="1441">recibieron</TOKEN>
+<TOKEN end_char="1459" id="token-7-20" morph="none" pos="word" start_char="1452">atención</TOKEN>
+<TOKEN end_char="1468" id="token-7-21" morph="none" pos="word" start_char="1461">estándar</TOKEN>
+<TOKEN end_char="1469" id="token-7-22" morph="none" pos="punct" start_char="1469">.</TOKEN>
+<TRANSLATED_TEXT>This compares to 35 percent in the matched control group of 83 patients who received only standard care.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1497" id="segment-8" start_char="1472">
+<ORIGINAL_TEXT>Datos sobre el baricitinib</ORIGINAL_TEXT>
+<TOKEN end_char="1476" id="token-8-0" morph="none" pos="word" start_char="1472">Datos</TOKEN>
+<TOKEN end_char="1482" id="token-8-1" morph="none" pos="word" start_char="1478">sobre</TOKEN>
+<TOKEN end_char="1485" id="token-8-2" morph="none" pos="word" start_char="1484">el</TOKEN>
+<TOKEN end_char="1497" id="token-8-3" morph="none" pos="word" start_char="1487">baricitinib</TOKEN>
+<TRANSLATED_TEXT>Data on baricitinib</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1656" id="segment-9" start_char="1502">
+<ORIGINAL_TEXT>El baricitinib es un fármaco oral que se toma una vez al día y se usa para el tratamiento de pacientes adultos con artritis reumatoide de moderada a grave.</ORIGINAL_TEXT>
+<TOKEN end_char="1503" id="token-9-0" morph="none" pos="word" start_char="1502">El</TOKEN>
+<TOKEN end_char="1515" id="token-9-1" morph="none" pos="word" start_char="1505">baricitinib</TOKEN>
+<TOKEN end_char="1518" id="token-9-2" morph="none" pos="word" start_char="1517">es</TOKEN>
+<TOKEN end_char="1521" id="token-9-3" morph="none" pos="word" start_char="1520">un</TOKEN>
+<TOKEN end_char="1529" id="token-9-4" morph="none" pos="word" start_char="1523">fármaco</TOKEN>
+<TOKEN end_char="1534" id="token-9-5" morph="none" pos="word" start_char="1531">oral</TOKEN>
+<TOKEN end_char="1538" id="token-9-6" morph="none" pos="word" start_char="1536">que</TOKEN>
+<TOKEN end_char="1541" id="token-9-7" morph="none" pos="word" start_char="1540">se</TOKEN>
+<TOKEN end_char="1546" id="token-9-8" morph="none" pos="word" start_char="1543">toma</TOKEN>
+<TOKEN end_char="1550" id="token-9-9" morph="none" pos="word" start_char="1548">una</TOKEN>
+<TOKEN end_char="1554" id="token-9-10" morph="none" pos="word" start_char="1552">vez</TOKEN>
+<TOKEN end_char="1557" id="token-9-11" morph="none" pos="word" start_char="1556">al</TOKEN>
+<TOKEN end_char="1561" id="token-9-12" morph="none" pos="word" start_char="1559">día</TOKEN>
+<TOKEN end_char="1563" id="token-9-13" morph="none" pos="word" start_char="1563">y</TOKEN>
+<TOKEN end_char="1566" id="token-9-14" morph="none" pos="word" start_char="1565">se</TOKEN>
+<TOKEN end_char="1570" id="token-9-15" morph="none" pos="word" start_char="1568">usa</TOKEN>
+<TOKEN end_char="1575" id="token-9-16" morph="none" pos="word" start_char="1572">para</TOKEN>
+<TOKEN end_char="1578" id="token-9-17" morph="none" pos="word" start_char="1577">el</TOKEN>
+<TOKEN end_char="1590" id="token-9-18" morph="none" pos="word" start_char="1580">tratamiento</TOKEN>
+<TOKEN end_char="1593" id="token-9-19" morph="none" pos="word" start_char="1592">de</TOKEN>
+<TOKEN end_char="1603" id="token-9-20" morph="none" pos="word" start_char="1595">pacientes</TOKEN>
+<TOKEN end_char="1611" id="token-9-21" morph="none" pos="word" start_char="1605">adultos</TOKEN>
+<TOKEN end_char="1615" id="token-9-22" morph="none" pos="word" start_char="1613">con</TOKEN>
+<TOKEN end_char="1624" id="token-9-23" morph="none" pos="word" start_char="1617">artritis</TOKEN>
+<TOKEN end_char="1635" id="token-9-24" morph="none" pos="word" start_char="1626">reumatoide</TOKEN>
+<TOKEN end_char="1638" id="token-9-25" morph="none" pos="word" start_char="1637">de</TOKEN>
+<TOKEN end_char="1647" id="token-9-26" morph="none" pos="word" start_char="1640">moderada</TOKEN>
+<TOKEN end_char="1649" id="token-9-27" morph="none" pos="word" start_char="1649">a</TOKEN>
+<TOKEN end_char="1655" id="token-9-28" morph="none" pos="word" start_char="1651">grave</TOKEN>
+<TOKEN end_char="1656" id="token-9-29" morph="none" pos="punct" start_char="1656">.</TOKEN>
+<TRANSLATED_TEXT>Baricitinib is an oral drug taken once a day and used to treat adult patients with moderate to severe rheumatoid arthritis.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1809" id="segment-10" start_char="1660">
+<ORIGINAL_TEXT>Actúa como un inhibidor de la janus quinasa, un tipo de enzima que actúa como un interruptor de ‘encendido’ o ‘apagado’ en muchas funciones celulares.</ORIGINAL_TEXT>
+<TOKEN end_char="1664" id="token-10-0" morph="none" pos="word" start_char="1660">Actúa</TOKEN>
+<TOKEN end_char="1669" id="token-10-1" morph="none" pos="word" start_char="1666">como</TOKEN>
+<TOKEN end_char="1672" id="token-10-2" morph="none" pos="word" start_char="1671">un</TOKEN>
+<TOKEN end_char="1682" id="token-10-3" morph="none" pos="word" start_char="1674">inhibidor</TOKEN>
+<TOKEN end_char="1685" id="token-10-4" morph="none" pos="word" start_char="1684">de</TOKEN>
+<TOKEN end_char="1688" id="token-10-5" morph="none" pos="word" start_char="1687">la</TOKEN>
+<TOKEN end_char="1694" id="token-10-6" morph="none" pos="word" start_char="1690">janus</TOKEN>
+<TOKEN end_char="1702" id="token-10-7" morph="none" pos="word" start_char="1696">quinasa</TOKEN>
+<TOKEN end_char="1703" id="token-10-8" morph="none" pos="punct" start_char="1703">,</TOKEN>
+<TOKEN end_char="1706" id="token-10-9" morph="none" pos="word" start_char="1705">un</TOKEN>
+<TOKEN end_char="1711" id="token-10-10" morph="none" pos="word" start_char="1708">tipo</TOKEN>
+<TOKEN end_char="1714" id="token-10-11" morph="none" pos="word" start_char="1713">de</TOKEN>
+<TOKEN end_char="1721" id="token-10-12" morph="none" pos="word" start_char="1716">enzima</TOKEN>
+<TOKEN end_char="1725" id="token-10-13" morph="none" pos="word" start_char="1723">que</TOKEN>
+<TOKEN end_char="1731" id="token-10-14" morph="none" pos="word" start_char="1727">actúa</TOKEN>
+<TOKEN end_char="1736" id="token-10-15" morph="none" pos="word" start_char="1733">como</TOKEN>
+<TOKEN end_char="1739" id="token-10-16" morph="none" pos="word" start_char="1738">un</TOKEN>
+<TOKEN end_char="1751" id="token-10-17" morph="none" pos="word" start_char="1741">interruptor</TOKEN>
+<TOKEN end_char="1754" id="token-10-18" morph="none" pos="word" start_char="1753">de</TOKEN>
+<TOKEN end_char="1756" id="token-10-19" morph="none" pos="punct" start_char="1756">‘</TOKEN>
+<TOKEN end_char="1765" id="token-10-20" morph="none" pos="word" start_char="1757">encendido</TOKEN>
+<TOKEN end_char="1766" id="token-10-21" morph="none" pos="punct" start_char="1766">’</TOKEN>
+<TOKEN end_char="1768" id="token-10-22" morph="none" pos="word" start_char="1768">o</TOKEN>
+<TOKEN end_char="1770" id="token-10-23" morph="none" pos="punct" start_char="1770">‘</TOKEN>
+<TOKEN end_char="1777" id="token-10-24" morph="none" pos="word" start_char="1771">apagado</TOKEN>
+<TOKEN end_char="1778" id="token-10-25" morph="none" pos="punct" start_char="1778">’</TOKEN>
+<TOKEN end_char="1781" id="token-10-26" morph="none" pos="word" start_char="1780">en</TOKEN>
+<TOKEN end_char="1788" id="token-10-27" morph="none" pos="word" start_char="1783">muchas</TOKEN>
+<TOKEN end_char="1798" id="token-10-28" morph="none" pos="word" start_char="1790">funciones</TOKEN>
+<TOKEN end_char="1808" id="token-10-29" morph="none" pos="word" start_char="1800">celulares</TOKEN>
+<TOKEN end_char="1809" id="token-10-30" morph="none" pos="punct" start_char="1809">.</TOKEN>
+<TRANSLATED_TEXT>It acts as an inhibitor of janus kinase, a type of enzyme that acts as an 'on' or 'off' switch in many cell functions.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1974" id="segment-11" start_char="1813">
+<ORIGINAL_TEXT>El fármaco tiene una función dual y actúa interfiriendo con los procesos inflamatorios del sistema inmunitario, así como inhibiendo directamente la entrada viral.</ORIGINAL_TEXT>
+<TOKEN end_char="1814" id="token-11-0" morph="none" pos="word" start_char="1813">El</TOKEN>
+<TOKEN end_char="1822" id="token-11-1" morph="none" pos="word" start_char="1816">fármaco</TOKEN>
+<TOKEN end_char="1828" id="token-11-2" morph="none" pos="word" start_char="1824">tiene</TOKEN>
+<TOKEN end_char="1832" id="token-11-3" morph="none" pos="word" start_char="1830">una</TOKEN>
+<TOKEN end_char="1840" id="token-11-4" morph="none" pos="word" start_char="1834">función</TOKEN>
+<TOKEN end_char="1845" id="token-11-5" morph="none" pos="word" start_char="1842">dual</TOKEN>
+<TOKEN end_char="1847" id="token-11-6" morph="none" pos="word" start_char="1847">y</TOKEN>
+<TOKEN end_char="1853" id="token-11-7" morph="none" pos="word" start_char="1849">actúa</TOKEN>
+<TOKEN end_char="1867" id="token-11-8" morph="none" pos="word" start_char="1855">interfiriendo</TOKEN>
+<TOKEN end_char="1871" id="token-11-9" morph="none" pos="word" start_char="1869">con</TOKEN>
+<TOKEN end_char="1875" id="token-11-10" morph="none" pos="word" start_char="1873">los</TOKEN>
+<TOKEN end_char="1884" id="token-11-11" morph="none" pos="word" start_char="1877">procesos</TOKEN>
+<TOKEN end_char="1898" id="token-11-12" morph="none" pos="word" start_char="1886">inflamatorios</TOKEN>
+<TOKEN end_char="1902" id="token-11-13" morph="none" pos="word" start_char="1900">del</TOKEN>
+<TOKEN end_char="1910" id="token-11-14" morph="none" pos="word" start_char="1904">sistema</TOKEN>
+<TOKEN end_char="1922" id="token-11-15" morph="none" pos="word" start_char="1912">inmunitario</TOKEN>
+<TOKEN end_char="1923" id="token-11-16" morph="none" pos="punct" start_char="1923">,</TOKEN>
+<TOKEN end_char="1927" id="token-11-17" morph="none" pos="word" start_char="1925">así</TOKEN>
+<TOKEN end_char="1932" id="token-11-18" morph="none" pos="word" start_char="1929">como</TOKEN>
+<TOKEN end_char="1943" id="token-11-19" morph="none" pos="word" start_char="1934">inhibiendo</TOKEN>
+<TOKEN end_char="1956" id="token-11-20" morph="none" pos="word" start_char="1945">directamente</TOKEN>
+<TOKEN end_char="1959" id="token-11-21" morph="none" pos="word" start_char="1958">la</TOKEN>
+<TOKEN end_char="1967" id="token-11-22" morph="none" pos="word" start_char="1961">entrada</TOKEN>
+<TOKEN end_char="1973" id="token-11-23" morph="none" pos="word" start_char="1969">viral</TOKEN>
+<TOKEN end_char="1974" id="token-11-24" morph="none" pos="punct" start_char="1974">.</TOKEN>
+<TRANSLATED_TEXT>The drug has a dual function and acts by interfering with the inflammatory processes of the immune system, as well as directly inhibiting viral entry.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2039" id="segment-12" start_char="1978">
+<ORIGINAL_TEXT>Se considera un posible candidato a tratamiento para COVID-19.</ORIGINAL_TEXT>
+<TOKEN end_char="1979" id="token-12-0" morph="none" pos="word" start_char="1978">Se</TOKEN>
+<TOKEN end_char="1989" id="token-12-1" morph="none" pos="word" start_char="1981">considera</TOKEN>
+<TOKEN end_char="1992" id="token-12-2" morph="none" pos="word" start_char="1991">un</TOKEN>
+<TOKEN end_char="2000" id="token-12-3" morph="none" pos="word" start_char="1994">posible</TOKEN>
+<TOKEN end_char="2010" id="token-12-4" morph="none" pos="word" start_char="2002">candidato</TOKEN>
+<TOKEN end_char="2012" id="token-12-5" morph="none" pos="word" start_char="2012">a</TOKEN>
+<TOKEN end_char="2024" id="token-12-6" morph="none" pos="word" start_char="2014">tratamiento</TOKEN>
+<TOKEN end_char="2029" id="token-12-7" morph="none" pos="word" start_char="2026">para</TOKEN>
+<TOKEN end_char="2038" id="token-12-8" morph="none" pos="unknown" start_char="2031">COVID-19</TOKEN>
+<TOKEN end_char="2039" id="token-12-9" morph="none" pos="punct" start_char="2039">.</TOKEN>
+<TRANSLATED_TEXT>It is considered a potential candidate for COVID-19 treatment.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2275" id="segment-13" start_char="2044">
+<ORIGINAL_TEXT>En la investigación, publicada en la revista ‘Science Advances’, los científicos cultivaron órganos humanos en miniatura en el laboratorio, llamados organoides, para investigar cómo exactamente el fármaco puede combatir el COVID-19.</ORIGINAL_TEXT>
+<TOKEN end_char="2045" id="token-13-0" morph="none" pos="word" start_char="2044">En</TOKEN>
+<TOKEN end_char="2048" id="token-13-1" morph="none" pos="word" start_char="2047">la</TOKEN>
+<TOKEN end_char="2062" id="token-13-2" morph="none" pos="word" start_char="2050">investigación</TOKEN>
+<TOKEN end_char="2063" id="token-13-3" morph="none" pos="punct" start_char="2063">,</TOKEN>
+<TOKEN end_char="2073" id="token-13-4" morph="none" pos="word" start_char="2065">publicada</TOKEN>
+<TOKEN end_char="2076" id="token-13-5" morph="none" pos="word" start_char="2075">en</TOKEN>
+<TOKEN end_char="2079" id="token-13-6" morph="none" pos="word" start_char="2078">la</TOKEN>
+<TOKEN end_char="2087" id="token-13-7" morph="none" pos="word" start_char="2081">revista</TOKEN>
+<TOKEN end_char="2089" id="token-13-8" morph="none" pos="punct" start_char="2089">‘</TOKEN>
+<TOKEN end_char="2096" id="token-13-9" morph="none" pos="word" start_char="2090">Science</TOKEN>
+<TOKEN end_char="2105" id="token-13-10" morph="none" pos="word" start_char="2098">Advances</TOKEN>
+<TOKEN end_char="2107" id="token-13-11" morph="none" pos="punct" start_char="2106">’,</TOKEN>
+<TOKEN end_char="2111" id="token-13-12" morph="none" pos="word" start_char="2109">los</TOKEN>
+<TOKEN end_char="2123" id="token-13-13" morph="none" pos="word" start_char="2113">científicos</TOKEN>
+<TOKEN end_char="2134" id="token-13-14" morph="none" pos="word" start_char="2125">cultivaron</TOKEN>
+<TOKEN end_char="2142" id="token-13-15" morph="none" pos="word" start_char="2136">órganos</TOKEN>
+<TOKEN end_char="2150" id="token-13-16" morph="none" pos="word" start_char="2144">humanos</TOKEN>
+<TOKEN end_char="2153" id="token-13-17" morph="none" pos="word" start_char="2152">en</TOKEN>
+<TOKEN end_char="2163" id="token-13-18" morph="none" pos="word" start_char="2155">miniatura</TOKEN>
+<TOKEN end_char="2166" id="token-13-19" morph="none" pos="word" start_char="2165">en</TOKEN>
+<TOKEN end_char="2169" id="token-13-20" morph="none" pos="word" start_char="2168">el</TOKEN>
+<TOKEN end_char="2181" id="token-13-21" morph="none" pos="word" start_char="2171">laboratorio</TOKEN>
+<TOKEN end_char="2182" id="token-13-22" morph="none" pos="punct" start_char="2182">,</TOKEN>
+<TOKEN end_char="2191" id="token-13-23" morph="none" pos="word" start_char="2184">llamados</TOKEN>
+<TOKEN end_char="2202" id="token-13-24" morph="none" pos="word" start_char="2193">organoides</TOKEN>
+<TOKEN end_char="2203" id="token-13-25" morph="none" pos="punct" start_char="2203">,</TOKEN>
+<TOKEN end_char="2208" id="token-13-26" morph="none" pos="word" start_char="2205">para</TOKEN>
+<TOKEN end_char="2219" id="token-13-27" morph="none" pos="word" start_char="2210">investigar</TOKEN>
+<TOKEN end_char="2224" id="token-13-28" morph="none" pos="word" start_char="2221">cómo</TOKEN>
+<TOKEN end_char="2236" id="token-13-29" morph="none" pos="word" start_char="2226">exactamente</TOKEN>
+<TOKEN end_char="2239" id="token-13-30" morph="none" pos="word" start_char="2238">el</TOKEN>
+<TOKEN end_char="2247" id="token-13-31" morph="none" pos="word" start_char="2241">fármaco</TOKEN>
+<TOKEN end_char="2253" id="token-13-32" morph="none" pos="word" start_char="2249">puede</TOKEN>
+<TOKEN end_char="2262" id="token-13-33" morph="none" pos="word" start_char="2255">combatir</TOKEN>
+<TOKEN end_char="2265" id="token-13-34" morph="none" pos="word" start_char="2264">el</TOKEN>
+<TOKEN end_char="2274" id="token-13-35" morph="none" pos="unknown" start_char="2267">COVID-19</TOKEN>
+<TOKEN end_char="2275" id="token-13-36" morph="none" pos="punct" start_char="2275">.</TOKEN>
+<TRANSLATED_TEXT>In the research, published in the journal 'Science Advances', scientists cultivated miniature human organs in the laboratory, called organoids, to investigate how exactly the drug can combat COVID-19.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2489" id="segment-14" start_char="2277">
+<ORIGINAL_TEXT>Los hallazgos revelaron que el medicamento en cuestión puede ayudar a trabajar de dos maneras: reduciendo el daño a los órganos causado por la inflamación, y bloqueando la entrada del virus en las células humanas.</ORIGINAL_TEXT>
+<TOKEN end_char="2279" id="token-14-0" morph="none" pos="word" start_char="2277">Los</TOKEN>
+<TOKEN end_char="2289" id="token-14-1" morph="none" pos="word" start_char="2281">hallazgos</TOKEN>
+<TOKEN end_char="2299" id="token-14-2" morph="none" pos="word" start_char="2291">revelaron</TOKEN>
+<TOKEN end_char="2303" id="token-14-3" morph="none" pos="word" start_char="2301">que</TOKEN>
+<TOKEN end_char="2306" id="token-14-4" morph="none" pos="word" start_char="2305">el</TOKEN>
+<TOKEN end_char="2318" id="token-14-5" morph="none" pos="word" start_char="2308">medicamento</TOKEN>
+<TOKEN end_char="2321" id="token-14-6" morph="none" pos="word" start_char="2320">en</TOKEN>
+<TOKEN end_char="2330" id="token-14-7" morph="none" pos="word" start_char="2323">cuestión</TOKEN>
+<TOKEN end_char="2336" id="token-14-8" morph="none" pos="word" start_char="2332">puede</TOKEN>
+<TOKEN end_char="2343" id="token-14-9" morph="none" pos="word" start_char="2338">ayudar</TOKEN>
+<TOKEN end_char="2345" id="token-14-10" morph="none" pos="word" start_char="2345">a</TOKEN>
+<TOKEN end_char="2354" id="token-14-11" morph="none" pos="word" start_char="2347">trabajar</TOKEN>
+<TOKEN end_char="2357" id="token-14-12" morph="none" pos="word" start_char="2356">de</TOKEN>
+<TOKEN end_char="2361" id="token-14-13" morph="none" pos="word" start_char="2359">dos</TOKEN>
+<TOKEN end_char="2369" id="token-14-14" morph="none" pos="word" start_char="2363">maneras</TOKEN>
+<TOKEN end_char="2370" id="token-14-15" morph="none" pos="punct" start_char="2370">:</TOKEN>
+<TOKEN end_char="2381" id="token-14-16" morph="none" pos="word" start_char="2372">reduciendo</TOKEN>
+<TOKEN end_char="2384" id="token-14-17" morph="none" pos="word" start_char="2383">el</TOKEN>
+<TOKEN end_char="2389" id="token-14-18" morph="none" pos="word" start_char="2386">daño</TOKEN>
+<TOKEN end_char="2391" id="token-14-19" morph="none" pos="word" start_char="2391">a</TOKEN>
+<TOKEN end_char="2395" id="token-14-20" morph="none" pos="word" start_char="2393">los</TOKEN>
+<TOKEN end_char="2403" id="token-14-21" morph="none" pos="word" start_char="2397">órganos</TOKEN>
+<TOKEN end_char="2411" id="token-14-22" morph="none" pos="word" start_char="2405">causado</TOKEN>
+<TOKEN end_char="2415" id="token-14-23" morph="none" pos="word" start_char="2413">por</TOKEN>
+<TOKEN end_char="2418" id="token-14-24" morph="none" pos="word" start_char="2417">la</TOKEN>
+<TOKEN end_char="2430" id="token-14-25" morph="none" pos="word" start_char="2420">inflamación</TOKEN>
+<TOKEN end_char="2431" id="token-14-26" morph="none" pos="punct" start_char="2431">,</TOKEN>
+<TOKEN end_char="2433" id="token-14-27" morph="none" pos="word" start_char="2433">y</TOKEN>
+<TOKEN end_char="2444" id="token-14-28" morph="none" pos="word" start_char="2435">bloqueando</TOKEN>
+<TOKEN end_char="2447" id="token-14-29" morph="none" pos="word" start_char="2446">la</TOKEN>
+<TOKEN end_char="2455" id="token-14-30" morph="none" pos="word" start_char="2449">entrada</TOKEN>
+<TOKEN end_char="2459" id="token-14-31" morph="none" pos="word" start_char="2457">del</TOKEN>
+<TOKEN end_char="2465" id="token-14-32" morph="none" pos="word" start_char="2461">virus</TOKEN>
+<TOKEN end_char="2468" id="token-14-33" morph="none" pos="word" start_char="2467">en</TOKEN>
+<TOKEN end_char="2472" id="token-14-34" morph="none" pos="word" start_char="2470">las</TOKEN>
+<TOKEN end_char="2480" id="token-14-35" morph="none" pos="word" start_char="2474">células</TOKEN>
+<TOKEN end_char="2488" id="token-14-36" morph="none" pos="word" start_char="2482">humanas</TOKEN>
+<TOKEN end_char="2489" id="token-14-37" morph="none" pos="punct" start_char="2489">.</TOKEN>
+<TRANSLATED_TEXT>The findings revealed that the drug in question can help work in two ways: reducing the damage to organs caused by inflammation, and blocking the virus's entry into human cells.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2787" id="segment-15" start_char="2492">
+<ORIGINAL_TEXT>"Nuestros hallazgos explican las acciones duales anti-citocinas y anti-virales del baricitinib y respaldan una evaluación adicional en ensayos de control aleatorios", añade Ali Mirazimi, profesor adjunto del Departamento de Medicina de Laboratorio del Karolinska Institutet y coautor del estudio.</ORIGINAL_TEXT>
+<TOKEN end_char="2492" id="token-15-0" morph="none" pos="punct" start_char="2492">"</TOKEN>
+<TOKEN end_char="2500" id="token-15-1" morph="none" pos="word" start_char="2493">Nuestros</TOKEN>
+<TOKEN end_char="2510" id="token-15-2" morph="none" pos="word" start_char="2502">hallazgos</TOKEN>
+<TOKEN end_char="2519" id="token-15-3" morph="none" pos="word" start_char="2512">explican</TOKEN>
+<TOKEN end_char="2523" id="token-15-4" morph="none" pos="word" start_char="2521">las</TOKEN>
+<TOKEN end_char="2532" id="token-15-5" morph="none" pos="word" start_char="2525">acciones</TOKEN>
+<TOKEN end_char="2539" id="token-15-6" morph="none" pos="word" start_char="2534">duales</TOKEN>
+<TOKEN end_char="2554" id="token-15-7" morph="none" pos="unknown" start_char="2541">anti-citocinas</TOKEN>
+<TOKEN end_char="2556" id="token-15-8" morph="none" pos="word" start_char="2556">y</TOKEN>
+<TOKEN end_char="2569" id="token-15-9" morph="none" pos="unknown" start_char="2558">anti-virales</TOKEN>
+<TOKEN end_char="2573" id="token-15-10" morph="none" pos="word" start_char="2571">del</TOKEN>
+<TOKEN end_char="2585" id="token-15-11" morph="none" pos="word" start_char="2575">baricitinib</TOKEN>
+<TOKEN end_char="2587" id="token-15-12" morph="none" pos="word" start_char="2587">y</TOKEN>
+<TOKEN end_char="2597" id="token-15-13" morph="none" pos="word" start_char="2589">respaldan</TOKEN>
+<TOKEN end_char="2601" id="token-15-14" morph="none" pos="word" start_char="2599">una</TOKEN>
+<TOKEN end_char="2612" id="token-15-15" morph="none" pos="word" start_char="2603">evaluación</TOKEN>
+<TOKEN end_char="2622" id="token-15-16" morph="none" pos="word" start_char="2614">adicional</TOKEN>
+<TOKEN end_char="2625" id="token-15-17" morph="none" pos="word" start_char="2624">en</TOKEN>
+<TOKEN end_char="2633" id="token-15-18" morph="none" pos="word" start_char="2627">ensayos</TOKEN>
+<TOKEN end_char="2636" id="token-15-19" morph="none" pos="word" start_char="2635">de</TOKEN>
+<TOKEN end_char="2644" id="token-15-20" morph="none" pos="word" start_char="2638">control</TOKEN>
+<TOKEN end_char="2655" id="token-15-21" morph="none" pos="word" start_char="2646">aleatorios</TOKEN>
+<TOKEN end_char="2657" id="token-15-22" morph="none" pos="punct" start_char="2656">",</TOKEN>
+<TOKEN end_char="2663" id="token-15-23" morph="none" pos="word" start_char="2659">añade</TOKEN>
+<TOKEN end_char="2667" id="token-15-24" morph="none" pos="word" start_char="2665">Ali</TOKEN>
+<TOKEN end_char="2676" id="token-15-25" morph="none" pos="word" start_char="2669">Mirazimi</TOKEN>
+<TOKEN end_char="2677" id="token-15-26" morph="none" pos="punct" start_char="2677">,</TOKEN>
+<TOKEN end_char="2686" id="token-15-27" morph="none" pos="word" start_char="2679">profesor</TOKEN>
+<TOKEN end_char="2694" id="token-15-28" morph="none" pos="word" start_char="2688">adjunto</TOKEN>
+<TOKEN end_char="2698" id="token-15-29" morph="none" pos="word" start_char="2696">del</TOKEN>
+<TOKEN end_char="2711" id="token-15-30" morph="none" pos="word" start_char="2700">Departamento</TOKEN>
+<TOKEN end_char="2714" id="token-15-31" morph="none" pos="word" start_char="2713">de</TOKEN>
+<TOKEN end_char="2723" id="token-15-32" morph="none" pos="word" start_char="2716">Medicina</TOKEN>
+<TOKEN end_char="2726" id="token-15-33" morph="none" pos="word" start_char="2725">de</TOKEN>
+<TOKEN end_char="2738" id="token-15-34" morph="none" pos="word" start_char="2728">Laboratorio</TOKEN>
+<TOKEN end_char="2742" id="token-15-35" morph="none" pos="word" start_char="2740">del</TOKEN>
+<TOKEN end_char="2753" id="token-15-36" morph="none" pos="word" start_char="2744">Karolinska</TOKEN>
+<TOKEN end_char="2764" id="token-15-37" morph="none" pos="word" start_char="2755">Institutet</TOKEN>
+<TOKEN end_char="2766" id="token-15-38" morph="none" pos="word" start_char="2766">y</TOKEN>
+<TOKEN end_char="2774" id="token-15-39" morph="none" pos="word" start_char="2768">coautor</TOKEN>
+<TOKEN end_char="2778" id="token-15-40" morph="none" pos="word" start_char="2776">del</TOKEN>
+<TOKEN end_char="2786" id="token-15-41" morph="none" pos="word" start_char="2780">estudio</TOKEN>
+<TOKEN end_char="2787" id="token-15-42" morph="none" pos="punct" start_char="2787">.</TOKEN>
+<TRANSLATED_TEXT>"Our findings explain the dual anti-cytokine and anti-viral actions of baricitinib and support additional evaluation in randomized control trials," adds Ali Mirazimi, assistant professor at the Karolinska Institute's Laboratory Medicine Department and co-author of the study.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2814" id="segment-16" start_char="2790">
+<ORIGINAL_TEXT>Medicamento bien tolerado</ORIGINAL_TEXT>
+<TOKEN end_char="2800" id="token-16-0" morph="none" pos="word" start_char="2790">Medicamento</TOKEN>
+<TOKEN end_char="2805" id="token-16-1" morph="none" pos="word" start_char="2802">bien</TOKEN>
+<TOKEN end_char="2814" id="token-16-2" morph="none" pos="word" start_char="2807">tolerado</TOKEN>
+<TRANSLATED_TEXT>Drug well tolerated</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2997" id="segment-17" start_char="2818">
+<ORIGINAL_TEXT>Los pacientes, que tenían una edad media de 81 años, toleraron bien el fármaco con una reducción de la inflamación desde los primeros días de tratamiento, según los investigadores.</ORIGINAL_TEXT>
+<TOKEN end_char="2820" id="token-17-0" morph="none" pos="word" start_char="2818">Los</TOKEN>
+<TOKEN end_char="2830" id="token-17-1" morph="none" pos="word" start_char="2822">pacientes</TOKEN>
+<TOKEN end_char="2831" id="token-17-2" morph="none" pos="punct" start_char="2831">,</TOKEN>
+<TOKEN end_char="2835" id="token-17-3" morph="none" pos="word" start_char="2833">que</TOKEN>
+<TOKEN end_char="2842" id="token-17-4" morph="none" pos="word" start_char="2837">tenían</TOKEN>
+<TOKEN end_char="2846" id="token-17-5" morph="none" pos="word" start_char="2844">una</TOKEN>
+<TOKEN end_char="2851" id="token-17-6" morph="none" pos="word" start_char="2848">edad</TOKEN>
+<TOKEN end_char="2857" id="token-17-7" morph="none" pos="word" start_char="2853">media</TOKEN>
+<TOKEN end_char="2860" id="token-17-8" morph="none" pos="word" start_char="2859">de</TOKEN>
+<TOKEN end_char="2863" id="token-17-9" morph="none" pos="word" start_char="2862">81</TOKEN>
+<TOKEN end_char="2868" id="token-17-10" morph="none" pos="word" start_char="2865">años</TOKEN>
+<TOKEN end_char="2869" id="token-17-11" morph="none" pos="punct" start_char="2869">,</TOKEN>
+<TOKEN end_char="2879" id="token-17-12" morph="none" pos="word" start_char="2871">toleraron</TOKEN>
+<TOKEN end_char="2884" id="token-17-13" morph="none" pos="word" start_char="2881">bien</TOKEN>
+<TOKEN end_char="2887" id="token-17-14" morph="none" pos="word" start_char="2886">el</TOKEN>
+<TOKEN end_char="2895" id="token-17-15" morph="none" pos="word" start_char="2889">fármaco</TOKEN>
+<TOKEN end_char="2899" id="token-17-16" morph="none" pos="word" start_char="2897">con</TOKEN>
+<TOKEN end_char="2903" id="token-17-17" morph="none" pos="word" start_char="2901">una</TOKEN>
+<TOKEN end_char="2913" id="token-17-18" morph="none" pos="word" start_char="2905">reducción</TOKEN>
+<TOKEN end_char="2916" id="token-17-19" morph="none" pos="word" start_char="2915">de</TOKEN>
+<TOKEN end_char="2919" id="token-17-20" morph="none" pos="word" start_char="2918">la</TOKEN>
+<TOKEN end_char="2931" id="token-17-21" morph="none" pos="word" start_char="2921">inflamación</TOKEN>
+<TOKEN end_char="2937" id="token-17-22" morph="none" pos="word" start_char="2933">desde</TOKEN>
+<TOKEN end_char="2941" id="token-17-23" morph="none" pos="word" start_char="2939">los</TOKEN>
+<TOKEN end_char="2950" id="token-17-24" morph="none" pos="word" start_char="2943">primeros</TOKEN>
+<TOKEN end_char="2955" id="token-17-25" morph="none" pos="word" start_char="2952">días</TOKEN>
+<TOKEN end_char="2958" id="token-17-26" morph="none" pos="word" start_char="2957">de</TOKEN>
+<TOKEN end_char="2970" id="token-17-27" morph="none" pos="word" start_char="2960">tratamiento</TOKEN>
+<TOKEN end_char="2971" id="token-17-28" morph="none" pos="punct" start_char="2971">,</TOKEN>
+<TOKEN end_char="2977" id="token-17-29" morph="none" pos="word" start_char="2973">según</TOKEN>
+<TOKEN end_char="2981" id="token-17-30" morph="none" pos="word" start_char="2979">los</TOKEN>
+<TOKEN end_char="2996" id="token-17-31" morph="none" pos="word" start_char="2983">investigadores</TOKEN>
+<TOKEN end_char="2997" id="token-17-32" morph="none" pos="punct" start_char="2997">.</TOKEN>
+<TRANSLATED_TEXT>Patients, who were 81 years of age on average, tolerated the drug well with a reduction in inflammation from the first days of treatment, according to researchers.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="3241" id="segment-18" start_char="2999">
+<ORIGINAL_TEXT>Los efectos secundarios del uso prolongado de baricitinib informados anteriormente, incluidas la coagulopatía y la trombosis, no fueron evidentes en ninguno de los pacientes, posiblemente debido al tratamiento con medicamentos anticoagulantes.</ORIGINAL_TEXT>
+<TOKEN end_char="3001" id="token-18-0" morph="none" pos="word" start_char="2999">Los</TOKEN>
+<TOKEN end_char="3009" id="token-18-1" morph="none" pos="word" start_char="3003">efectos</TOKEN>
+<TOKEN end_char="3021" id="token-18-2" morph="none" pos="word" start_char="3011">secundarios</TOKEN>
+<TOKEN end_char="3025" id="token-18-3" morph="none" pos="word" start_char="3023">del</TOKEN>
+<TOKEN end_char="3029" id="token-18-4" morph="none" pos="word" start_char="3027">uso</TOKEN>
+<TOKEN end_char="3040" id="token-18-5" morph="none" pos="word" start_char="3031">prolongado</TOKEN>
+<TOKEN end_char="3043" id="token-18-6" morph="none" pos="word" start_char="3042">de</TOKEN>
+<TOKEN end_char="3055" id="token-18-7" morph="none" pos="word" start_char="3045">baricitinib</TOKEN>
+<TOKEN end_char="3066" id="token-18-8" morph="none" pos="word" start_char="3057">informados</TOKEN>
+<TOKEN end_char="3080" id="token-18-9" morph="none" pos="word" start_char="3068">anteriormente</TOKEN>
+<TOKEN end_char="3081" id="token-18-10" morph="none" pos="punct" start_char="3081">,</TOKEN>
+<TOKEN end_char="3091" id="token-18-11" morph="none" pos="word" start_char="3083">incluidas</TOKEN>
+<TOKEN end_char="3094" id="token-18-12" morph="none" pos="word" start_char="3093">la</TOKEN>
+<TOKEN end_char="3107" id="token-18-13" morph="none" pos="word" start_char="3096">coagulopatía</TOKEN>
+<TOKEN end_char="3109" id="token-18-14" morph="none" pos="word" start_char="3109">y</TOKEN>
+<TOKEN end_char="3112" id="token-18-15" morph="none" pos="word" start_char="3111">la</TOKEN>
+<TOKEN end_char="3122" id="token-18-16" morph="none" pos="word" start_char="3114">trombosis</TOKEN>
+<TOKEN end_char="3123" id="token-18-17" morph="none" pos="punct" start_char="3123">,</TOKEN>
+<TOKEN end_char="3126" id="token-18-18" morph="none" pos="word" start_char="3125">no</TOKEN>
+<TOKEN end_char="3133" id="token-18-19" morph="none" pos="word" start_char="3128">fueron</TOKEN>
+<TOKEN end_char="3143" id="token-18-20" morph="none" pos="word" start_char="3135">evidentes</TOKEN>
+<TOKEN end_char="3146" id="token-18-21" morph="none" pos="word" start_char="3145">en</TOKEN>
+<TOKEN end_char="3154" id="token-18-22" morph="none" pos="word" start_char="3148">ninguno</TOKEN>
+<TOKEN end_char="3157" id="token-18-23" morph="none" pos="word" start_char="3156">de</TOKEN>
+<TOKEN end_char="3161" id="token-18-24" morph="none" pos="word" start_char="3159">los</TOKEN>
+<TOKEN end_char="3171" id="token-18-25" morph="none" pos="word" start_char="3163">pacientes</TOKEN>
+<TOKEN end_char="3172" id="token-18-26" morph="none" pos="punct" start_char="3172">,</TOKEN>
+<TOKEN end_char="3185" id="token-18-27" morph="none" pos="word" start_char="3174">posiblemente</TOKEN>
+<TOKEN end_char="3192" id="token-18-28" morph="none" pos="word" start_char="3187">debido</TOKEN>
+<TOKEN end_char="3195" id="token-18-29" morph="none" pos="word" start_char="3194">al</TOKEN>
+<TOKEN end_char="3207" id="token-18-30" morph="none" pos="word" start_char="3197">tratamiento</TOKEN>
+<TOKEN end_char="3211" id="token-18-31" morph="none" pos="word" start_char="3209">con</TOKEN>
+<TOKEN end_char="3224" id="token-18-32" morph="none" pos="word" start_char="3213">medicamentos</TOKEN>
+<TOKEN end_char="3240" id="token-18-33" morph="none" pos="word" start_char="3226">anticoagulantes</TOKEN>
+<TOKEN end_char="3241" id="token-18-34" morph="none" pos="punct" start_char="3241">.</TOKEN>
+<TRANSLATED_TEXT>Side effects of the previously reported prolonged use of baricitinib, including coagulopathy and thrombosis, were not evident in any of the patients, possibly due to treatment with anticoagulant drugs.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

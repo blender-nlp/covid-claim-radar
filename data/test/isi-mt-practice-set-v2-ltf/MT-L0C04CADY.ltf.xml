@@ -1,0 +1,695 @@
+<LCTL_TEXT lang="spa">
+<DOC grammar="none" id="L0C04CADY" lang="spa" raw_text_char_length="3539" raw_text_md5="99969ad1fd0164f10d7b3314608cf454" tokenization="tokenization_parameters.v5.0">
+<TEXT>
+<SEG end_char="103" id="segment-0" start_char="1">
+<ORIGINAL_TEXT>No, con el Decreto 497 de 2020 el gobierno no ordenó cuarentena obligatoria a partir del 1 de noviembre</ORIGINAL_TEXT>
+<TOKEN end_char="2" id="token-0-0" morph="none" pos="word" start_char="1">No</TOKEN>
+<TOKEN end_char="3" id="token-0-1" morph="none" pos="punct" start_char="3">,</TOKEN>
+<TOKEN end_char="7" id="token-0-2" morph="none" pos="word" start_char="5">con</TOKEN>
+<TOKEN end_char="10" id="token-0-3" morph="none" pos="word" start_char="9">el</TOKEN>
+<TOKEN end_char="18" id="token-0-4" morph="none" pos="word" start_char="12">Decreto</TOKEN>
+<TOKEN end_char="22" id="token-0-5" morph="none" pos="word" start_char="20">497</TOKEN>
+<TOKEN end_char="25" id="token-0-6" morph="none" pos="word" start_char="24">de</TOKEN>
+<TOKEN end_char="30" id="token-0-7" morph="none" pos="word" start_char="27">2020</TOKEN>
+<TOKEN end_char="33" id="token-0-8" morph="none" pos="word" start_char="32">el</TOKEN>
+<TOKEN end_char="42" id="token-0-9" morph="none" pos="word" start_char="35">gobierno</TOKEN>
+<TOKEN end_char="45" id="token-0-10" morph="none" pos="word" start_char="44">no</TOKEN>
+<TOKEN end_char="52" id="token-0-11" morph="none" pos="word" start_char="47">ordenó</TOKEN>
+<TOKEN end_char="63" id="token-0-12" morph="none" pos="word" start_char="54">cuarentena</TOKEN>
+<TOKEN end_char="75" id="token-0-13" morph="none" pos="word" start_char="65">obligatoria</TOKEN>
+<TOKEN end_char="77" id="token-0-14" morph="none" pos="word" start_char="77">a</TOKEN>
+<TOKEN end_char="84" id="token-0-15" morph="none" pos="word" start_char="79">partir</TOKEN>
+<TOKEN end_char="88" id="token-0-16" morph="none" pos="word" start_char="86">del</TOKEN>
+<TOKEN end_char="90" id="token-0-17" morph="none" pos="word" start_char="90">1</TOKEN>
+<TOKEN end_char="93" id="token-0-18" morph="none" pos="word" start_char="92">de</TOKEN>
+<TOKEN end_char="103" id="token-0-19" morph="none" pos="word" start_char="95">noviembre</TOKEN>
+<TRANSLATED_TEXT>No, with Decree 497 of 2020 the government did not order compulsory quarantine from 1 November</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="413" id="segment-1" start_char="108">
+<ORIGINAL_TEXT>Hace unos días se difunde, a través de cadenas de WhatsApp, el siguiente mensaje: "Vuelve y juega, por la indisciplina de la mayoría de los ciudadanos; vuelve la cuarentena obligatoria a partir del 1 de noviembre; en todo el territorio nacional ; según decreto 497 de la presidencia de la República (sic)".</ORIGINAL_TEXT>
+<TOKEN end_char="111" id="token-1-0" morph="none" pos="word" start_char="108">Hace</TOKEN>
+<TOKEN end_char="116" id="token-1-1" morph="none" pos="word" start_char="113">unos</TOKEN>
+<TOKEN end_char="121" id="token-1-2" morph="none" pos="word" start_char="118">días</TOKEN>
+<TOKEN end_char="124" id="token-1-3" morph="none" pos="word" start_char="123">se</TOKEN>
+<TOKEN end_char="132" id="token-1-4" morph="none" pos="word" start_char="126">difunde</TOKEN>
+<TOKEN end_char="133" id="token-1-5" morph="none" pos="punct" start_char="133">,</TOKEN>
+<TOKEN end_char="135" id="token-1-6" morph="none" pos="word" start_char="135">a</TOKEN>
+<TOKEN end_char="142" id="token-1-7" morph="none" pos="word" start_char="137">través</TOKEN>
+<TOKEN end_char="145" id="token-1-8" morph="none" pos="word" start_char="144">de</TOKEN>
+<TOKEN end_char="153" id="token-1-9" morph="none" pos="word" start_char="147">cadenas</TOKEN>
+<TOKEN end_char="156" id="token-1-10" morph="none" pos="word" start_char="155">de</TOKEN>
+<TOKEN end_char="165" id="token-1-11" morph="none" pos="word" start_char="158">WhatsApp</TOKEN>
+<TOKEN end_char="166" id="token-1-12" morph="none" pos="punct" start_char="166">,</TOKEN>
+<TOKEN end_char="169" id="token-1-13" morph="none" pos="word" start_char="168">el</TOKEN>
+<TOKEN end_char="179" id="token-1-14" morph="none" pos="word" start_char="171">siguiente</TOKEN>
+<TOKEN end_char="187" id="token-1-15" morph="none" pos="word" start_char="181">mensaje</TOKEN>
+<TOKEN end_char="188" id="token-1-16" morph="none" pos="punct" start_char="188">:</TOKEN>
+<TOKEN end_char="190" id="token-1-17" morph="none" pos="punct" start_char="190">"</TOKEN>
+<TOKEN end_char="196" id="token-1-18" morph="none" pos="word" start_char="191">Vuelve</TOKEN>
+<TOKEN end_char="198" id="token-1-19" morph="none" pos="word" start_char="198">y</TOKEN>
+<TOKEN end_char="204" id="token-1-20" morph="none" pos="word" start_char="200">juega</TOKEN>
+<TOKEN end_char="205" id="token-1-21" morph="none" pos="punct" start_char="205">,</TOKEN>
+<TOKEN end_char="209" id="token-1-22" morph="none" pos="word" start_char="207">por</TOKEN>
+<TOKEN end_char="212" id="token-1-23" morph="none" pos="word" start_char="211">la</TOKEN>
+<TOKEN end_char="225" id="token-1-24" morph="none" pos="word" start_char="214">indisciplina</TOKEN>
+<TOKEN end_char="228" id="token-1-25" morph="none" pos="word" start_char="227">de</TOKEN>
+<TOKEN end_char="231" id="token-1-26" morph="none" pos="word" start_char="230">la</TOKEN>
+<TOKEN end_char="239" id="token-1-27" morph="none" pos="word" start_char="233">mayoría</TOKEN>
+<TOKEN end_char="242" id="token-1-28" morph="none" pos="word" start_char="241">de</TOKEN>
+<TOKEN end_char="246" id="token-1-29" morph="none" pos="word" start_char="244">los</TOKEN>
+<TOKEN end_char="257" id="token-1-30" morph="none" pos="word" start_char="248">ciudadanos</TOKEN>
+<TOKEN end_char="258" id="token-1-31" morph="none" pos="punct" start_char="258">;</TOKEN>
+<TOKEN end_char="265" id="token-1-32" morph="none" pos="word" start_char="260">vuelve</TOKEN>
+<TOKEN end_char="268" id="token-1-33" morph="none" pos="word" start_char="267">la</TOKEN>
+<TOKEN end_char="279" id="token-1-34" morph="none" pos="word" start_char="270">cuarentena</TOKEN>
+<TOKEN end_char="291" id="token-1-35" morph="none" pos="word" start_char="281">obligatoria</TOKEN>
+<TOKEN end_char="293" id="token-1-36" morph="none" pos="word" start_char="293">a</TOKEN>
+<TOKEN end_char="300" id="token-1-37" morph="none" pos="word" start_char="295">partir</TOKEN>
+<TOKEN end_char="304" id="token-1-38" morph="none" pos="word" start_char="302">del</TOKEN>
+<TOKEN end_char="306" id="token-1-39" morph="none" pos="word" start_char="306">1</TOKEN>
+<TOKEN end_char="309" id="token-1-40" morph="none" pos="word" start_char="308">de</TOKEN>
+<TOKEN end_char="319" id="token-1-41" morph="none" pos="word" start_char="311">noviembre</TOKEN>
+<TOKEN end_char="320" id="token-1-42" morph="none" pos="punct" start_char="320">;</TOKEN>
+<TOKEN end_char="323" id="token-1-43" morph="none" pos="word" start_char="322">en</TOKEN>
+<TOKEN end_char="328" id="token-1-44" morph="none" pos="word" start_char="325">todo</TOKEN>
+<TOKEN end_char="331" id="token-1-45" morph="none" pos="word" start_char="330">el</TOKEN>
+<TOKEN end_char="342" id="token-1-46" morph="none" pos="word" start_char="333">territorio</TOKEN>
+<TOKEN end_char="351" id="token-1-47" morph="none" pos="word" start_char="344">nacional</TOKEN>
+<TOKEN end_char="353" id="token-1-48" morph="none" pos="punct" start_char="353">;</TOKEN>
+<TOKEN end_char="359" id="token-1-49" morph="none" pos="word" start_char="355">según</TOKEN>
+<TOKEN end_char="367" id="token-1-50" morph="none" pos="word" start_char="361">decreto</TOKEN>
+<TOKEN end_char="371" id="token-1-51" morph="none" pos="word" start_char="369">497</TOKEN>
+<TOKEN end_char="374" id="token-1-52" morph="none" pos="word" start_char="373">de</TOKEN>
+<TOKEN end_char="377" id="token-1-53" morph="none" pos="word" start_char="376">la</TOKEN>
+<TOKEN end_char="389" id="token-1-54" morph="none" pos="word" start_char="379">presidencia</TOKEN>
+<TOKEN end_char="392" id="token-1-55" morph="none" pos="word" start_char="391">de</TOKEN>
+<TOKEN end_char="395" id="token-1-56" morph="none" pos="word" start_char="394">la</TOKEN>
+<TOKEN end_char="405" id="token-1-57" morph="none" pos="word" start_char="397">República</TOKEN>
+<TOKEN end_char="407" id="token-1-58" morph="none" pos="punct" start_char="407">(</TOKEN>
+<TOKEN end_char="410" id="token-1-59" morph="none" pos="word" start_char="408">sic</TOKEN>
+<TOKEN end_char="413" id="token-1-60" morph="none" pos="punct" start_char="411">)".</TOKEN>
+<TRANSLATED_TEXT>A few days ago, the following message was broadcast through WhatsApp networks: "Return and play, for the indiscipline of most citizens; return mandatory quarantine from 1 November; throughout the national territory; according to decree 497 of the President of the Republic (sic)."</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="572" id="segment-2" start_char="416">
+<ORIGINAL_TEXT>La información también ha sido compartida en grupos de Facebook como ‘Colombianos en Panama’ (sic) y ‘Venezolanos en Medellín Anuncios’, y en algunos trinos.</ORIGINAL_TEXT>
+<TOKEN end_char="417" id="token-2-0" morph="none" pos="word" start_char="416">La</TOKEN>
+<TOKEN end_char="429" id="token-2-1" morph="none" pos="word" start_char="419">información</TOKEN>
+<TOKEN end_char="437" id="token-2-2" morph="none" pos="word" start_char="431">también</TOKEN>
+<TOKEN end_char="440" id="token-2-3" morph="none" pos="word" start_char="439">ha</TOKEN>
+<TOKEN end_char="445" id="token-2-4" morph="none" pos="word" start_char="442">sido</TOKEN>
+<TOKEN end_char="456" id="token-2-5" morph="none" pos="word" start_char="447">compartida</TOKEN>
+<TOKEN end_char="459" id="token-2-6" morph="none" pos="word" start_char="458">en</TOKEN>
+<TOKEN end_char="466" id="token-2-7" morph="none" pos="word" start_char="461">grupos</TOKEN>
+<TOKEN end_char="469" id="token-2-8" morph="none" pos="word" start_char="468">de</TOKEN>
+<TOKEN end_char="478" id="token-2-9" morph="none" pos="word" start_char="471">Facebook</TOKEN>
+<TOKEN end_char="483" id="token-2-10" morph="none" pos="word" start_char="480">como</TOKEN>
+<TOKEN end_char="485" id="token-2-11" morph="none" pos="punct" start_char="485">‘</TOKEN>
+<TOKEN end_char="496" id="token-2-12" morph="none" pos="word" start_char="486">Colombianos</TOKEN>
+<TOKEN end_char="499" id="token-2-13" morph="none" pos="word" start_char="498">en</TOKEN>
+<TOKEN end_char="506" id="token-2-14" morph="none" pos="word" start_char="501">Panama</TOKEN>
+<TOKEN end_char="507" id="token-2-15" morph="none" pos="punct" start_char="507">’</TOKEN>
+<TOKEN end_char="509" id="token-2-16" morph="none" pos="punct" start_char="509">(</TOKEN>
+<TOKEN end_char="512" id="token-2-17" morph="none" pos="word" start_char="510">sic</TOKEN>
+<TOKEN end_char="513" id="token-2-18" morph="none" pos="punct" start_char="513">)</TOKEN>
+<TOKEN end_char="515" id="token-2-19" morph="none" pos="word" start_char="515">y</TOKEN>
+<TOKEN end_char="517" id="token-2-20" morph="none" pos="punct" start_char="517">‘</TOKEN>
+<TOKEN end_char="528" id="token-2-21" morph="none" pos="word" start_char="518">Venezolanos</TOKEN>
+<TOKEN end_char="531" id="token-2-22" morph="none" pos="word" start_char="530">en</TOKEN>
+<TOKEN end_char="540" id="token-2-23" morph="none" pos="word" start_char="533">Medellín</TOKEN>
+<TOKEN end_char="549" id="token-2-24" morph="none" pos="word" start_char="542">Anuncios</TOKEN>
+<TOKEN end_char="551" id="token-2-25" morph="none" pos="punct" start_char="550">’,</TOKEN>
+<TOKEN end_char="553" id="token-2-26" morph="none" pos="word" start_char="553">y</TOKEN>
+<TOKEN end_char="556" id="token-2-27" morph="none" pos="word" start_char="555">en</TOKEN>
+<TOKEN end_char="564" id="token-2-28" morph="none" pos="word" start_char="558">algunos</TOKEN>
+<TOKEN end_char="571" id="token-2-29" morph="none" pos="word" start_char="566">trinos</TOKEN>
+<TOKEN end_char="572" id="token-2-30" morph="none" pos="punct" start_char="572">.</TOKEN>
+<TRANSLATED_TEXT>The information has also been shared in Facebook groups such as' Colombians in Panama '(sic) and' Venezuelans in Medellín Anuncios', and in some trinos.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="809" id="segment-3" start_char="575">
+<ORIGINAL_TEXT>En algunas versiones, los usuarios han agregado comentarios como: "algunos manifiestan que es una estrategia del gobierno para detener la protesta social por el descontento de los gremios nacionales el cual viene en crecimiento" (sic).</ORIGINAL_TEXT>
+<TOKEN end_char="576" id="token-3-0" morph="none" pos="word" start_char="575">En</TOKEN>
+<TOKEN end_char="584" id="token-3-1" morph="none" pos="word" start_char="578">algunas</TOKEN>
+<TOKEN end_char="594" id="token-3-2" morph="none" pos="word" start_char="586">versiones</TOKEN>
+<TOKEN end_char="595" id="token-3-3" morph="none" pos="punct" start_char="595">,</TOKEN>
+<TOKEN end_char="599" id="token-3-4" morph="none" pos="word" start_char="597">los</TOKEN>
+<TOKEN end_char="608" id="token-3-5" morph="none" pos="word" start_char="601">usuarios</TOKEN>
+<TOKEN end_char="612" id="token-3-6" morph="none" pos="word" start_char="610">han</TOKEN>
+<TOKEN end_char="621" id="token-3-7" morph="none" pos="word" start_char="614">agregado</TOKEN>
+<TOKEN end_char="633" id="token-3-8" morph="none" pos="word" start_char="623">comentarios</TOKEN>
+<TOKEN end_char="638" id="token-3-9" morph="none" pos="word" start_char="635">como</TOKEN>
+<TOKEN end_char="639" id="token-3-10" morph="none" pos="punct" start_char="639">:</TOKEN>
+<TOKEN end_char="641" id="token-3-11" morph="none" pos="punct" start_char="641">"</TOKEN>
+<TOKEN end_char="648" id="token-3-12" morph="none" pos="word" start_char="642">algunos</TOKEN>
+<TOKEN end_char="660" id="token-3-13" morph="none" pos="word" start_char="650">manifiestan</TOKEN>
+<TOKEN end_char="664" id="token-3-14" morph="none" pos="word" start_char="662">que</TOKEN>
+<TOKEN end_char="667" id="token-3-15" morph="none" pos="word" start_char="666">es</TOKEN>
+<TOKEN end_char="671" id="token-3-16" morph="none" pos="word" start_char="669">una</TOKEN>
+<TOKEN end_char="682" id="token-3-17" morph="none" pos="word" start_char="673">estrategia</TOKEN>
+<TOKEN end_char="686" id="token-3-18" morph="none" pos="word" start_char="684">del</TOKEN>
+<TOKEN end_char="695" id="token-3-19" morph="none" pos="word" start_char="688">gobierno</TOKEN>
+<TOKEN end_char="700" id="token-3-20" morph="none" pos="word" start_char="697">para</TOKEN>
+<TOKEN end_char="708" id="token-3-21" morph="none" pos="word" start_char="702">detener</TOKEN>
+<TOKEN end_char="711" id="token-3-22" morph="none" pos="word" start_char="710">la</TOKEN>
+<TOKEN end_char="720" id="token-3-23" morph="none" pos="word" start_char="713">protesta</TOKEN>
+<TOKEN end_char="727" id="token-3-24" morph="none" pos="word" start_char="722">social</TOKEN>
+<TOKEN end_char="731" id="token-3-25" morph="none" pos="word" start_char="729">por</TOKEN>
+<TOKEN end_char="734" id="token-3-26" morph="none" pos="word" start_char="733">el</TOKEN>
+<TOKEN end_char="746" id="token-3-27" morph="none" pos="word" start_char="736">descontento</TOKEN>
+<TOKEN end_char="749" id="token-3-28" morph="none" pos="word" start_char="748">de</TOKEN>
+<TOKEN end_char="753" id="token-3-29" morph="none" pos="word" start_char="751">los</TOKEN>
+<TOKEN end_char="761" id="token-3-30" morph="none" pos="word" start_char="755">gremios</TOKEN>
+<TOKEN end_char="772" id="token-3-31" morph="none" pos="word" start_char="763">nacionales</TOKEN>
+<TOKEN end_char="775" id="token-3-32" morph="none" pos="word" start_char="774">el</TOKEN>
+<TOKEN end_char="780" id="token-3-33" morph="none" pos="word" start_char="777">cual</TOKEN>
+<TOKEN end_char="786" id="token-3-34" morph="none" pos="word" start_char="782">viene</TOKEN>
+<TOKEN end_char="789" id="token-3-35" morph="none" pos="word" start_char="788">en</TOKEN>
+<TOKEN end_char="801" id="token-3-36" morph="none" pos="word" start_char="791">crecimiento</TOKEN>
+<TOKEN end_char="802" id="token-3-37" morph="none" pos="punct" start_char="802">"</TOKEN>
+<TOKEN end_char="804" id="token-3-38" morph="none" pos="punct" start_char="804">(</TOKEN>
+<TOKEN end_char="807" id="token-3-39" morph="none" pos="word" start_char="805">sic</TOKEN>
+<TOKEN end_char="809" id="token-3-40" morph="none" pos="punct" start_char="808">).</TOKEN>
+<TRANSLATED_TEXT>In some versions, users have added comments such as: "Some say it is a government strategy to stop social protest over the discontent of the national guilds which is growing."</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="914" id="segment-4" start_char="811">
+<ORIGINAL_TEXT>Y otros han difundido capturas de supuestos titulares del diario El Tiempo que sustentan la información.</ORIGINAL_TEXT>
+<TOKEN end_char="811" id="token-4-0" morph="none" pos="word" start_char="811">Y</TOKEN>
+<TOKEN end_char="817" id="token-4-1" morph="none" pos="word" start_char="813">otros</TOKEN>
+<TOKEN end_char="821" id="token-4-2" morph="none" pos="word" start_char="819">han</TOKEN>
+<TOKEN end_char="831" id="token-4-3" morph="none" pos="word" start_char="823">difundido</TOKEN>
+<TOKEN end_char="840" id="token-4-4" morph="none" pos="word" start_char="833">capturas</TOKEN>
+<TOKEN end_char="843" id="token-4-5" morph="none" pos="word" start_char="842">de</TOKEN>
+<TOKEN end_char="853" id="token-4-6" morph="none" pos="word" start_char="845">supuestos</TOKEN>
+<TOKEN end_char="863" id="token-4-7" morph="none" pos="word" start_char="855">titulares</TOKEN>
+<TOKEN end_char="867" id="token-4-8" morph="none" pos="word" start_char="865">del</TOKEN>
+<TOKEN end_char="874" id="token-4-9" morph="none" pos="word" start_char="869">diario</TOKEN>
+<TOKEN end_char="877" id="token-4-10" morph="none" pos="word" start_char="876">El</TOKEN>
+<TOKEN end_char="884" id="token-4-11" morph="none" pos="word" start_char="879">Tiempo</TOKEN>
+<TOKEN end_char="888" id="token-4-12" morph="none" pos="word" start_char="886">que</TOKEN>
+<TOKEN end_char="898" id="token-4-13" morph="none" pos="word" start_char="890">sustentan</TOKEN>
+<TOKEN end_char="901" id="token-4-14" morph="none" pos="word" start_char="900">la</TOKEN>
+<TOKEN end_char="913" id="token-4-15" morph="none" pos="word" start_char="903">información</TOKEN>
+<TOKEN end_char="914" id="token-4-16" morph="none" pos="punct" start_char="914">.</TOKEN>
+<TRANSLATED_TEXT>And others have circulated snapshots of alleged El Tiempo newspaper holders that support the information.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="936" id="segment-5" start_char="918">
+<ORIGINAL_TEXT>Pero todo es falso.</ORIGINAL_TEXT>
+<TOKEN end_char="921" id="token-5-0" morph="none" pos="word" start_char="918">Pero</TOKEN>
+<TOKEN end_char="926" id="token-5-1" morph="none" pos="word" start_char="923">todo</TOKEN>
+<TOKEN end_char="929" id="token-5-2" morph="none" pos="word" start_char="928">es</TOKEN>
+<TOKEN end_char="935" id="token-5-3" morph="none" pos="word" start_char="931">falso</TOKEN>
+<TOKEN end_char="936" id="token-5-4" morph="none" pos="punct" start_char="936">.</TOKEN>
+<TRANSLATED_TEXT>But everything is false.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1030" id="segment-6" start_char="938">
+<ORIGINAL_TEXT>Primero, la supuesta noticia fue desmentida por el Ministerio de Salud en sus redes sociales.</ORIGINAL_TEXT>
+<TOKEN end_char="944" id="token-6-0" morph="none" pos="word" start_char="938">Primero</TOKEN>
+<TOKEN end_char="945" id="token-6-1" morph="none" pos="punct" start_char="945">,</TOKEN>
+<TOKEN end_char="948" id="token-6-2" morph="none" pos="word" start_char="947">la</TOKEN>
+<TOKEN end_char="957" id="token-6-3" morph="none" pos="word" start_char="950">supuesta</TOKEN>
+<TOKEN end_char="965" id="token-6-4" morph="none" pos="word" start_char="959">noticia</TOKEN>
+<TOKEN end_char="969" id="token-6-5" morph="none" pos="word" start_char="967">fue</TOKEN>
+<TOKEN end_char="980" id="token-6-6" morph="none" pos="word" start_char="971">desmentida</TOKEN>
+<TOKEN end_char="984" id="token-6-7" morph="none" pos="word" start_char="982">por</TOKEN>
+<TOKEN end_char="987" id="token-6-8" morph="none" pos="word" start_char="986">el</TOKEN>
+<TOKEN end_char="998" id="token-6-9" morph="none" pos="word" start_char="989">Ministerio</TOKEN>
+<TOKEN end_char="1001" id="token-6-10" morph="none" pos="word" start_char="1000">de</TOKEN>
+<TOKEN end_char="1007" id="token-6-11" morph="none" pos="word" start_char="1003">Salud</TOKEN>
+<TOKEN end_char="1010" id="token-6-12" morph="none" pos="word" start_char="1009">en</TOKEN>
+<TOKEN end_char="1014" id="token-6-13" morph="none" pos="word" start_char="1012">sus</TOKEN>
+<TOKEN end_char="1020" id="token-6-14" morph="none" pos="word" start_char="1016">redes</TOKEN>
+<TOKEN end_char="1029" id="token-6-15" morph="none" pos="word" start_char="1022">sociales</TOKEN>
+<TOKEN end_char="1030" id="token-6-16" morph="none" pos="punct" start_char="1030">.</TOKEN>
+<TRANSLATED_TEXT>First, the alleged news was denied by the Ministry of Health on its social media.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1204" id="segment-7" start_char="1032">
+<ORIGINAL_TEXT>"No es cierto que el Gobierno haya decidido implementar nuevas cuarentenas en ninguna parte del territorio nacional", dice un trino publicado en la mañana del 26 de octubre.</ORIGINAL_TEXT>
+<TOKEN end_char="1032" id="token-7-0" morph="none" pos="punct" start_char="1032">"</TOKEN>
+<TOKEN end_char="1034" id="token-7-1" morph="none" pos="word" start_char="1033">No</TOKEN>
+<TOKEN end_char="1037" id="token-7-2" morph="none" pos="word" start_char="1036">es</TOKEN>
+<TOKEN end_char="1044" id="token-7-3" morph="none" pos="word" start_char="1039">cierto</TOKEN>
+<TOKEN end_char="1048" id="token-7-4" morph="none" pos="word" start_char="1046">que</TOKEN>
+<TOKEN end_char="1051" id="token-7-5" morph="none" pos="word" start_char="1050">el</TOKEN>
+<TOKEN end_char="1060" id="token-7-6" morph="none" pos="word" start_char="1053">Gobierno</TOKEN>
+<TOKEN end_char="1065" id="token-7-7" morph="none" pos="word" start_char="1062">haya</TOKEN>
+<TOKEN end_char="1074" id="token-7-8" morph="none" pos="word" start_char="1067">decidido</TOKEN>
+<TOKEN end_char="1086" id="token-7-9" morph="none" pos="word" start_char="1076">implementar</TOKEN>
+<TOKEN end_char="1093" id="token-7-10" morph="none" pos="word" start_char="1088">nuevas</TOKEN>
+<TOKEN end_char="1105" id="token-7-11" morph="none" pos="word" start_char="1095">cuarentenas</TOKEN>
+<TOKEN end_char="1108" id="token-7-12" morph="none" pos="word" start_char="1107">en</TOKEN>
+<TOKEN end_char="1116" id="token-7-13" morph="none" pos="word" start_char="1110">ninguna</TOKEN>
+<TOKEN end_char="1122" id="token-7-14" morph="none" pos="word" start_char="1118">parte</TOKEN>
+<TOKEN end_char="1126" id="token-7-15" morph="none" pos="word" start_char="1124">del</TOKEN>
+<TOKEN end_char="1137" id="token-7-16" morph="none" pos="word" start_char="1128">territorio</TOKEN>
+<TOKEN end_char="1146" id="token-7-17" morph="none" pos="word" start_char="1139">nacional</TOKEN>
+<TOKEN end_char="1148" id="token-7-18" morph="none" pos="punct" start_char="1147">",</TOKEN>
+<TOKEN end_char="1153" id="token-7-19" morph="none" pos="word" start_char="1150">dice</TOKEN>
+<TOKEN end_char="1156" id="token-7-20" morph="none" pos="word" start_char="1155">un</TOKEN>
+<TOKEN end_char="1162" id="token-7-21" morph="none" pos="word" start_char="1158">trino</TOKEN>
+<TOKEN end_char="1172" id="token-7-22" morph="none" pos="word" start_char="1164">publicado</TOKEN>
+<TOKEN end_char="1175" id="token-7-23" morph="none" pos="word" start_char="1174">en</TOKEN>
+<TOKEN end_char="1178" id="token-7-24" morph="none" pos="word" start_char="1177">la</TOKEN>
+<TOKEN end_char="1185" id="token-7-25" morph="none" pos="word" start_char="1180">mañana</TOKEN>
+<TOKEN end_char="1189" id="token-7-26" morph="none" pos="word" start_char="1187">del</TOKEN>
+<TOKEN end_char="1192" id="token-7-27" morph="none" pos="word" start_char="1191">26</TOKEN>
+<TOKEN end_char="1195" id="token-7-28" morph="none" pos="word" start_char="1194">de</TOKEN>
+<TOKEN end_char="1203" id="token-7-29" morph="none" pos="word" start_char="1197">octubre</TOKEN>
+<TOKEN end_char="1204" id="token-7-30" morph="none" pos="punct" start_char="1204">.</TOKEN>
+<TRANSLATED_TEXT>"It is not true that the Government has decided to implement new quarantine anywhere in the national territory," says a trino published on the morning of 26 October.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1237" id="segment-8" start_char="1208">
+<ORIGINAL_TEXT>¡No caigas en noticias falsas!</ORIGINAL_TEXT>
+<TOKEN end_char="1208" id="token-8-0" morph="none" pos="punct" start_char="1208">¡</TOKEN>
+<TOKEN end_char="1210" id="token-8-1" morph="none" pos="word" start_char="1209">No</TOKEN>
+<TOKEN end_char="1217" id="token-8-2" morph="none" pos="word" start_char="1212">caigas</TOKEN>
+<TOKEN end_char="1220" id="token-8-3" morph="none" pos="word" start_char="1219">en</TOKEN>
+<TOKEN end_char="1229" id="token-8-4" morph="none" pos="word" start_char="1222">noticias</TOKEN>
+<TOKEN end_char="1236" id="token-8-5" morph="none" pos="word" start_char="1231">falsas</TOKEN>
+<TOKEN end_char="1237" id="token-8-6" morph="none" pos="punct" start_char="1237">!</TOKEN>
+<TRANSLATED_TEXT>Don't fall for fake news!</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1353" id="segment-9" start_char="1239">
+<ORIGINAL_TEXT>No es cierto que el Gobierno haya decidido implementar nuevas cuarentenas en ninguna parte del territorio nacional.</ORIGINAL_TEXT>
+<TOKEN end_char="1240" id="token-9-0" morph="none" pos="word" start_char="1239">No</TOKEN>
+<TOKEN end_char="1243" id="token-9-1" morph="none" pos="word" start_char="1242">es</TOKEN>
+<TOKEN end_char="1250" id="token-9-2" morph="none" pos="word" start_char="1245">cierto</TOKEN>
+<TOKEN end_char="1254" id="token-9-3" morph="none" pos="word" start_char="1252">que</TOKEN>
+<TOKEN end_char="1257" id="token-9-4" morph="none" pos="word" start_char="1256">el</TOKEN>
+<TOKEN end_char="1266" id="token-9-5" morph="none" pos="word" start_char="1259">Gobierno</TOKEN>
+<TOKEN end_char="1271" id="token-9-6" morph="none" pos="word" start_char="1268">haya</TOKEN>
+<TOKEN end_char="1280" id="token-9-7" morph="none" pos="word" start_char="1273">decidido</TOKEN>
+<TOKEN end_char="1292" id="token-9-8" morph="none" pos="word" start_char="1282">implementar</TOKEN>
+<TOKEN end_char="1299" id="token-9-9" morph="none" pos="word" start_char="1294">nuevas</TOKEN>
+<TOKEN end_char="1311" id="token-9-10" morph="none" pos="word" start_char="1301">cuarentenas</TOKEN>
+<TOKEN end_char="1314" id="token-9-11" morph="none" pos="word" start_char="1313">en</TOKEN>
+<TOKEN end_char="1322" id="token-9-12" morph="none" pos="word" start_char="1316">ninguna</TOKEN>
+<TOKEN end_char="1328" id="token-9-13" morph="none" pos="word" start_char="1324">parte</TOKEN>
+<TOKEN end_char="1332" id="token-9-14" morph="none" pos="word" start_char="1330">del</TOKEN>
+<TOKEN end_char="1343" id="token-9-15" morph="none" pos="word" start_char="1334">territorio</TOKEN>
+<TOKEN end_char="1352" id="token-9-16" morph="none" pos="word" start_char="1345">nacional</TOKEN>
+<TOKEN end_char="1353" id="token-9-17" morph="none" pos="punct" start_char="1353">.</TOKEN>
+<TRANSLATED_TEXT>It is not true that the Government has decided to implement new quarantines anywhere in the national territory.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1555" id="segment-10" start_char="1355">
+<ORIGINAL_TEXT>Consulta siempre toda la información y las medidas adoptadas para enfrentar la COVID-19 en los canales oficiales de @MinSaludCol pic.twitter.com/2UbdJgjqlR — MinSaludCol (@MinSaludCol) October 26, 2020</ORIGINAL_TEXT>
+<TOKEN end_char="1362" id="token-10-0" morph="none" pos="word" start_char="1355">Consulta</TOKEN>
+<TOKEN end_char="1370" id="token-10-1" morph="none" pos="word" start_char="1364">siempre</TOKEN>
+<TOKEN end_char="1375" id="token-10-2" morph="none" pos="word" start_char="1372">toda</TOKEN>
+<TOKEN end_char="1378" id="token-10-3" morph="none" pos="word" start_char="1377">la</TOKEN>
+<TOKEN end_char="1390" id="token-10-4" morph="none" pos="word" start_char="1380">información</TOKEN>
+<TOKEN end_char="1392" id="token-10-5" morph="none" pos="word" start_char="1392">y</TOKEN>
+<TOKEN end_char="1396" id="token-10-6" morph="none" pos="word" start_char="1394">las</TOKEN>
+<TOKEN end_char="1404" id="token-10-7" morph="none" pos="word" start_char="1398">medidas</TOKEN>
+<TOKEN end_char="1414" id="token-10-8" morph="none" pos="word" start_char="1406">adoptadas</TOKEN>
+<TOKEN end_char="1419" id="token-10-9" morph="none" pos="word" start_char="1416">para</TOKEN>
+<TOKEN end_char="1429" id="token-10-10" morph="none" pos="word" start_char="1421">enfrentar</TOKEN>
+<TOKEN end_char="1432" id="token-10-11" morph="none" pos="word" start_char="1431">la</TOKEN>
+<TOKEN end_char="1441" id="token-10-12" morph="none" pos="unknown" start_char="1434">COVID-19</TOKEN>
+<TOKEN end_char="1444" id="token-10-13" morph="none" pos="word" start_char="1443">en</TOKEN>
+<TOKEN end_char="1448" id="token-10-14" morph="none" pos="word" start_char="1446">los</TOKEN>
+<TOKEN end_char="1456" id="token-10-15" morph="none" pos="word" start_char="1450">canales</TOKEN>
+<TOKEN end_char="1466" id="token-10-16" morph="none" pos="word" start_char="1458">oficiales</TOKEN>
+<TOKEN end_char="1469" id="token-10-17" morph="none" pos="word" start_char="1468">de</TOKEN>
+<TOKEN end_char="1482" id="token-10-18" morph="none" pos="tag" start_char="1471">@MinSaludCol</TOKEN>
+<TOKEN end_char="1509" id="token-10-19" morph="none" pos="unknown" start_char="1484">pic.twitter.com/2UbdJgjqlR</TOKEN>
+<TOKEN end_char="1511" id="token-10-20" morph="none" pos="punct" start_char="1511">—</TOKEN>
+<TOKEN end_char="1523" id="token-10-21" morph="none" pos="word" start_char="1513">MinSaludCol</TOKEN>
+<TOKEN end_char="1526" id="token-10-22" morph="none" pos="punct" start_char="1525">(@</TOKEN>
+<TOKEN end_char="1537" id="token-10-23" morph="none" pos="word" start_char="1527">MinSaludCol</TOKEN>
+<TOKEN end_char="1538" id="token-10-24" morph="none" pos="punct" start_char="1538">)</TOKEN>
+<TOKEN end_char="1546" id="token-10-25" morph="none" pos="word" start_char="1540">October</TOKEN>
+<TOKEN end_char="1549" id="token-10-26" morph="none" pos="word" start_char="1548">26</TOKEN>
+<TOKEN end_char="1550" id="token-10-27" morph="none" pos="punct" start_char="1550">,</TOKEN>
+<TOKEN end_char="1555" id="token-10-28" morph="none" pos="word" start_char="1552">2020</TOKEN>
+<TRANSLATED_TEXT>Always consult all information and measures taken to tackle COVID-19 on official @MinSaludCol channels pic.twitter.com / 2UbdJgjqlR - MinSaludCol (@MinSaludCol) October 26, 2020</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1608" id="segment-11" start_char="1559">
+<ORIGINAL_TEXT>Segundo, la desinformación incurre en dos errores.</ORIGINAL_TEXT>
+<TOKEN end_char="1565" id="token-11-0" morph="none" pos="word" start_char="1559">Segundo</TOKEN>
+<TOKEN end_char="1566" id="token-11-1" morph="none" pos="punct" start_char="1566">,</TOKEN>
+<TOKEN end_char="1569" id="token-11-2" morph="none" pos="word" start_char="1568">la</TOKEN>
+<TOKEN end_char="1584" id="token-11-3" morph="none" pos="word" start_char="1571">desinformación</TOKEN>
+<TOKEN end_char="1592" id="token-11-4" morph="none" pos="word" start_char="1586">incurre</TOKEN>
+<TOKEN end_char="1595" id="token-11-5" morph="none" pos="word" start_char="1594">en</TOKEN>
+<TOKEN end_char="1599" id="token-11-6" morph="none" pos="word" start_char="1597">dos</TOKEN>
+<TOKEN end_char="1607" id="token-11-7" morph="none" pos="word" start_char="1601">errores</TOKEN>
+<TOKEN end_char="1608" id="token-11-8" morph="none" pos="punct" start_char="1608">.</TOKEN>
+<TRANSLATED_TEXT>Second, misinformation leads to two mistakes.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1737" id="segment-12" start_char="1610">
+<ORIGINAL_TEXT>Por una parte, el Decreto 497 de 2020, que supuestamente dicta la cuarentena, en realidad no tiene nada que ver con la pandemia.</ORIGINAL_TEXT>
+<TOKEN end_char="1612" id="token-12-0" morph="none" pos="word" start_char="1610">Por</TOKEN>
+<TOKEN end_char="1616" id="token-12-1" morph="none" pos="word" start_char="1614">una</TOKEN>
+<TOKEN end_char="1622" id="token-12-2" morph="none" pos="word" start_char="1618">parte</TOKEN>
+<TOKEN end_char="1623" id="token-12-3" morph="none" pos="punct" start_char="1623">,</TOKEN>
+<TOKEN end_char="1626" id="token-12-4" morph="none" pos="word" start_char="1625">el</TOKEN>
+<TOKEN end_char="1634" id="token-12-5" morph="none" pos="word" start_char="1628">Decreto</TOKEN>
+<TOKEN end_char="1638" id="token-12-6" morph="none" pos="word" start_char="1636">497</TOKEN>
+<TOKEN end_char="1641" id="token-12-7" morph="none" pos="word" start_char="1640">de</TOKEN>
+<TOKEN end_char="1646" id="token-12-8" morph="none" pos="word" start_char="1643">2020</TOKEN>
+<TOKEN end_char="1647" id="token-12-9" morph="none" pos="punct" start_char="1647">,</TOKEN>
+<TOKEN end_char="1651" id="token-12-10" morph="none" pos="word" start_char="1649">que</TOKEN>
+<TOKEN end_char="1665" id="token-12-11" morph="none" pos="word" start_char="1653">supuestamente</TOKEN>
+<TOKEN end_char="1671" id="token-12-12" morph="none" pos="word" start_char="1667">dicta</TOKEN>
+<TOKEN end_char="1674" id="token-12-13" morph="none" pos="word" start_char="1673">la</TOKEN>
+<TOKEN end_char="1685" id="token-12-14" morph="none" pos="word" start_char="1676">cuarentena</TOKEN>
+<TOKEN end_char="1686" id="token-12-15" morph="none" pos="punct" start_char="1686">,</TOKEN>
+<TOKEN end_char="1689" id="token-12-16" morph="none" pos="word" start_char="1688">en</TOKEN>
+<TOKEN end_char="1698" id="token-12-17" morph="none" pos="word" start_char="1691">realidad</TOKEN>
+<TOKEN end_char="1701" id="token-12-18" morph="none" pos="word" start_char="1700">no</TOKEN>
+<TOKEN end_char="1707" id="token-12-19" morph="none" pos="word" start_char="1703">tiene</TOKEN>
+<TOKEN end_char="1712" id="token-12-20" morph="none" pos="word" start_char="1709">nada</TOKEN>
+<TOKEN end_char="1716" id="token-12-21" morph="none" pos="word" start_char="1714">que</TOKEN>
+<TOKEN end_char="1720" id="token-12-22" morph="none" pos="word" start_char="1718">ver</TOKEN>
+<TOKEN end_char="1724" id="token-12-23" morph="none" pos="word" start_char="1722">con</TOKEN>
+<TOKEN end_char="1727" id="token-12-24" morph="none" pos="word" start_char="1726">la</TOKEN>
+<TOKEN end_char="1736" id="token-12-25" morph="none" pos="word" start_char="1729">pandemia</TOKEN>
+<TOKEN end_char="1737" id="token-12-26" morph="none" pos="punct" start_char="1737">.</TOKEN>
+<TRANSLATED_TEXT>On the one hand, Decree 497 of 2020, which supposedly dictates quarantine, actually has nothing to do with the pandemic.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2099" id="segment-13" start_char="1739">
+<ORIGINAL_TEXT>Se firmó el pasado 30 de marzo para designar a Felipe Coral Duque como representante principal del presidente Duque en la Junta Directiva de Metroplús, la empresa que se encarga de la infraestructura y la operación del sistema integrado de transporte masivo de mediana capacidad en el Valle de Aburrá, y para aceptar la renuncia de dos representantes suplentes.</ORIGINAL_TEXT>
+<TOKEN end_char="1740" id="token-13-0" morph="none" pos="word" start_char="1739">Se</TOKEN>
+<TOKEN end_char="1746" id="token-13-1" morph="none" pos="word" start_char="1742">firmó</TOKEN>
+<TOKEN end_char="1749" id="token-13-2" morph="none" pos="word" start_char="1748">el</TOKEN>
+<TOKEN end_char="1756" id="token-13-3" morph="none" pos="word" start_char="1751">pasado</TOKEN>
+<TOKEN end_char="1759" id="token-13-4" morph="none" pos="word" start_char="1758">30</TOKEN>
+<TOKEN end_char="1762" id="token-13-5" morph="none" pos="word" start_char="1761">de</TOKEN>
+<TOKEN end_char="1768" id="token-13-6" morph="none" pos="word" start_char="1764">marzo</TOKEN>
+<TOKEN end_char="1773" id="token-13-7" morph="none" pos="word" start_char="1770">para</TOKEN>
+<TOKEN end_char="1782" id="token-13-8" morph="none" pos="word" start_char="1775">designar</TOKEN>
+<TOKEN end_char="1784" id="token-13-9" morph="none" pos="word" start_char="1784">a</TOKEN>
+<TOKEN end_char="1791" id="token-13-10" morph="none" pos="word" start_char="1786">Felipe</TOKEN>
+<TOKEN end_char="1797" id="token-13-11" morph="none" pos="word" start_char="1793">Coral</TOKEN>
+<TOKEN end_char="1803" id="token-13-12" morph="none" pos="word" start_char="1799">Duque</TOKEN>
+<TOKEN end_char="1808" id="token-13-13" morph="none" pos="word" start_char="1805">como</TOKEN>
+<TOKEN end_char="1822" id="token-13-14" morph="none" pos="word" start_char="1810">representante</TOKEN>
+<TOKEN end_char="1832" id="token-13-15" morph="none" pos="word" start_char="1824">principal</TOKEN>
+<TOKEN end_char="1836" id="token-13-16" morph="none" pos="word" start_char="1834">del</TOKEN>
+<TOKEN end_char="1847" id="token-13-17" morph="none" pos="word" start_char="1838">presidente</TOKEN>
+<TOKEN end_char="1853" id="token-13-18" morph="none" pos="word" start_char="1849">Duque</TOKEN>
+<TOKEN end_char="1856" id="token-13-19" morph="none" pos="word" start_char="1855">en</TOKEN>
+<TOKEN end_char="1859" id="token-13-20" morph="none" pos="word" start_char="1858">la</TOKEN>
+<TOKEN end_char="1865" id="token-13-21" morph="none" pos="word" start_char="1861">Junta</TOKEN>
+<TOKEN end_char="1875" id="token-13-22" morph="none" pos="word" start_char="1867">Directiva</TOKEN>
+<TOKEN end_char="1878" id="token-13-23" morph="none" pos="word" start_char="1877">de</TOKEN>
+<TOKEN end_char="1888" id="token-13-24" morph="none" pos="word" start_char="1880">Metroplús</TOKEN>
+<TOKEN end_char="1889" id="token-13-25" morph="none" pos="punct" start_char="1889">,</TOKEN>
+<TOKEN end_char="1892" id="token-13-26" morph="none" pos="word" start_char="1891">la</TOKEN>
+<TOKEN end_char="1900" id="token-13-27" morph="none" pos="word" start_char="1894">empresa</TOKEN>
+<TOKEN end_char="1904" id="token-13-28" morph="none" pos="word" start_char="1902">que</TOKEN>
+<TOKEN end_char="1907" id="token-13-29" morph="none" pos="word" start_char="1906">se</TOKEN>
+<TOKEN end_char="1915" id="token-13-30" morph="none" pos="word" start_char="1909">encarga</TOKEN>
+<TOKEN end_char="1918" id="token-13-31" morph="none" pos="word" start_char="1917">de</TOKEN>
+<TOKEN end_char="1921" id="token-13-32" morph="none" pos="word" start_char="1920">la</TOKEN>
+<TOKEN end_char="1937" id="token-13-33" morph="none" pos="word" start_char="1923">infraestructura</TOKEN>
+<TOKEN end_char="1939" id="token-13-34" morph="none" pos="word" start_char="1939">y</TOKEN>
+<TOKEN end_char="1942" id="token-13-35" morph="none" pos="word" start_char="1941">la</TOKEN>
+<TOKEN end_char="1952" id="token-13-36" morph="none" pos="word" start_char="1944">operación</TOKEN>
+<TOKEN end_char="1956" id="token-13-37" morph="none" pos="word" start_char="1954">del</TOKEN>
+<TOKEN end_char="1964" id="token-13-38" morph="none" pos="word" start_char="1958">sistema</TOKEN>
+<TOKEN end_char="1974" id="token-13-39" morph="none" pos="word" start_char="1966">integrado</TOKEN>
+<TOKEN end_char="1977" id="token-13-40" morph="none" pos="word" start_char="1976">de</TOKEN>
+<TOKEN end_char="1988" id="token-13-41" morph="none" pos="word" start_char="1979">transporte</TOKEN>
+<TOKEN end_char="1995" id="token-13-42" morph="none" pos="word" start_char="1990">masivo</TOKEN>
+<TOKEN end_char="1998" id="token-13-43" morph="none" pos="word" start_char="1997">de</TOKEN>
+<TOKEN end_char="2006" id="token-13-44" morph="none" pos="word" start_char="2000">mediana</TOKEN>
+<TOKEN end_char="2016" id="token-13-45" morph="none" pos="word" start_char="2008">capacidad</TOKEN>
+<TOKEN end_char="2019" id="token-13-46" morph="none" pos="word" start_char="2018">en</TOKEN>
+<TOKEN end_char="2022" id="token-13-47" morph="none" pos="word" start_char="2021">el</TOKEN>
+<TOKEN end_char="2028" id="token-13-48" morph="none" pos="word" start_char="2024">Valle</TOKEN>
+<TOKEN end_char="2031" id="token-13-49" morph="none" pos="word" start_char="2030">de</TOKEN>
+<TOKEN end_char="2038" id="token-13-50" morph="none" pos="word" start_char="2033">Aburrá</TOKEN>
+<TOKEN end_char="2039" id="token-13-51" morph="none" pos="punct" start_char="2039">,</TOKEN>
+<TOKEN end_char="2041" id="token-13-52" morph="none" pos="word" start_char="2041">y</TOKEN>
+<TOKEN end_char="2046" id="token-13-53" morph="none" pos="word" start_char="2043">para</TOKEN>
+<TOKEN end_char="2054" id="token-13-54" morph="none" pos="word" start_char="2048">aceptar</TOKEN>
+<TOKEN end_char="2057" id="token-13-55" morph="none" pos="word" start_char="2056">la</TOKEN>
+<TOKEN end_char="2066" id="token-13-56" morph="none" pos="word" start_char="2059">renuncia</TOKEN>
+<TOKEN end_char="2069" id="token-13-57" morph="none" pos="word" start_char="2068">de</TOKEN>
+<TOKEN end_char="2073" id="token-13-58" morph="none" pos="word" start_char="2071">dos</TOKEN>
+<TOKEN end_char="2088" id="token-13-59" morph="none" pos="word" start_char="2075">representantes</TOKEN>
+<TOKEN end_char="2098" id="token-13-60" morph="none" pos="word" start_char="2090">suplentes</TOKEN>
+<TOKEN end_char="2099" id="token-13-61" morph="none" pos="punct" start_char="2099">.</TOKEN>
+<TRANSLATED_TEXT>It was signed on March 30 to appoint Felipe Coral Duque as the principal representative of President Duque on the Board of Directors of Metropous, the company responsible for the infrastructure and operation of the integrated medium capacity mass transit system in the Aburá Valley, and to accept the resignation of two alternate representatives.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2382" id="segment-14" start_char="2102">
+<ORIGINAL_TEXT>Por la otra parte, la foto que se usa para señalar, además, que la nueva cuarentena obligatoria será "desde el 1 de noviembre hasta el 19 de noviembre", se usó inicialmente como imagen miniatura de un video sobre la primera cuarentena total decretada por Duque, a finales de marzo.</ORIGINAL_TEXT>
+<TOKEN end_char="2104" id="token-14-0" morph="none" pos="word" start_char="2102">Por</TOKEN>
+<TOKEN end_char="2107" id="token-14-1" morph="none" pos="word" start_char="2106">la</TOKEN>
+<TOKEN end_char="2112" id="token-14-2" morph="none" pos="word" start_char="2109">otra</TOKEN>
+<TOKEN end_char="2118" id="token-14-3" morph="none" pos="word" start_char="2114">parte</TOKEN>
+<TOKEN end_char="2119" id="token-14-4" morph="none" pos="punct" start_char="2119">,</TOKEN>
+<TOKEN end_char="2122" id="token-14-5" morph="none" pos="word" start_char="2121">la</TOKEN>
+<TOKEN end_char="2127" id="token-14-6" morph="none" pos="word" start_char="2124">foto</TOKEN>
+<TOKEN end_char="2131" id="token-14-7" morph="none" pos="word" start_char="2129">que</TOKEN>
+<TOKEN end_char="2134" id="token-14-8" morph="none" pos="word" start_char="2133">se</TOKEN>
+<TOKEN end_char="2138" id="token-14-9" morph="none" pos="word" start_char="2136">usa</TOKEN>
+<TOKEN end_char="2143" id="token-14-10" morph="none" pos="word" start_char="2140">para</TOKEN>
+<TOKEN end_char="2151" id="token-14-11" morph="none" pos="word" start_char="2145">señalar</TOKEN>
+<TOKEN end_char="2152" id="token-14-12" morph="none" pos="punct" start_char="2152">,</TOKEN>
+<TOKEN end_char="2159" id="token-14-13" morph="none" pos="word" start_char="2154">además</TOKEN>
+<TOKEN end_char="2160" id="token-14-14" morph="none" pos="punct" start_char="2160">,</TOKEN>
+<TOKEN end_char="2164" id="token-14-15" morph="none" pos="word" start_char="2162">que</TOKEN>
+<TOKEN end_char="2167" id="token-14-16" morph="none" pos="word" start_char="2166">la</TOKEN>
+<TOKEN end_char="2173" id="token-14-17" morph="none" pos="word" start_char="2169">nueva</TOKEN>
+<TOKEN end_char="2184" id="token-14-18" morph="none" pos="word" start_char="2175">cuarentena</TOKEN>
+<TOKEN end_char="2196" id="token-14-19" morph="none" pos="word" start_char="2186">obligatoria</TOKEN>
+<TOKEN end_char="2201" id="token-14-20" morph="none" pos="word" start_char="2198">será</TOKEN>
+<TOKEN end_char="2203" id="token-14-21" morph="none" pos="punct" start_char="2203">"</TOKEN>
+<TOKEN end_char="2208" id="token-14-22" morph="none" pos="word" start_char="2204">desde</TOKEN>
+<TOKEN end_char="2211" id="token-14-23" morph="none" pos="word" start_char="2210">el</TOKEN>
+<TOKEN end_char="2213" id="token-14-24" morph="none" pos="word" start_char="2213">1</TOKEN>
+<TOKEN end_char="2216" id="token-14-25" morph="none" pos="word" start_char="2215">de</TOKEN>
+<TOKEN end_char="2226" id="token-14-26" morph="none" pos="word" start_char="2218">noviembre</TOKEN>
+<TOKEN end_char="2232" id="token-14-27" morph="none" pos="word" start_char="2228">hasta</TOKEN>
+<TOKEN end_char="2235" id="token-14-28" morph="none" pos="word" start_char="2234">el</TOKEN>
+<TOKEN end_char="2238" id="token-14-29" morph="none" pos="word" start_char="2237">19</TOKEN>
+<TOKEN end_char="2241" id="token-14-30" morph="none" pos="word" start_char="2240">de</TOKEN>
+<TOKEN end_char="2251" id="token-14-31" morph="none" pos="word" start_char="2243">noviembre</TOKEN>
+<TOKEN end_char="2253" id="token-14-32" morph="none" pos="punct" start_char="2252">",</TOKEN>
+<TOKEN end_char="2256" id="token-14-33" morph="none" pos="word" start_char="2255">se</TOKEN>
+<TOKEN end_char="2260" id="token-14-34" morph="none" pos="word" start_char="2258">usó</TOKEN>
+<TOKEN end_char="2273" id="token-14-35" morph="none" pos="word" start_char="2262">inicialmente</TOKEN>
+<TOKEN end_char="2278" id="token-14-36" morph="none" pos="word" start_char="2275">como</TOKEN>
+<TOKEN end_char="2285" id="token-14-37" morph="none" pos="word" start_char="2280">imagen</TOKEN>
+<TOKEN end_char="2295" id="token-14-38" morph="none" pos="word" start_char="2287">miniatura</TOKEN>
+<TOKEN end_char="2298" id="token-14-39" morph="none" pos="word" start_char="2297">de</TOKEN>
+<TOKEN end_char="2301" id="token-14-40" morph="none" pos="word" start_char="2300">un</TOKEN>
+<TOKEN end_char="2307" id="token-14-41" morph="none" pos="word" start_char="2303">video</TOKEN>
+<TOKEN end_char="2313" id="token-14-42" morph="none" pos="word" start_char="2309">sobre</TOKEN>
+<TOKEN end_char="2316" id="token-14-43" morph="none" pos="word" start_char="2315">la</TOKEN>
+<TOKEN end_char="2324" id="token-14-44" morph="none" pos="word" start_char="2318">primera</TOKEN>
+<TOKEN end_char="2335" id="token-14-45" morph="none" pos="word" start_char="2326">cuarentena</TOKEN>
+<TOKEN end_char="2341" id="token-14-46" morph="none" pos="word" start_char="2337">total</TOKEN>
+<TOKEN end_char="2351" id="token-14-47" morph="none" pos="word" start_char="2343">decretada</TOKEN>
+<TOKEN end_char="2355" id="token-14-48" morph="none" pos="word" start_char="2353">por</TOKEN>
+<TOKEN end_char="2361" id="token-14-49" morph="none" pos="word" start_char="2357">Duque</TOKEN>
+<TOKEN end_char="2362" id="token-14-50" morph="none" pos="punct" start_char="2362">,</TOKEN>
+<TOKEN end_char="2364" id="token-14-51" morph="none" pos="word" start_char="2364">a</TOKEN>
+<TOKEN end_char="2372" id="token-14-52" morph="none" pos="word" start_char="2366">finales</TOKEN>
+<TOKEN end_char="2375" id="token-14-53" morph="none" pos="word" start_char="2374">de</TOKEN>
+<TOKEN end_char="2381" id="token-14-54" morph="none" pos="word" start_char="2377">marzo</TOKEN>
+<TOKEN end_char="2382" id="token-14-55" morph="none" pos="punct" start_char="2382">.</TOKEN>
+<TRANSLATED_TEXT>On the other hand, the photograph used to point out that the new compulsory quarantine will be "from 1 November to 19 November," was initially used as a miniature image of a video about the first total quarantine decreed by Duke, in late March.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2576" id="segment-15" start_char="2386">
+<ORIGINAL_TEXT>Entonces, calificamos como falsos los mensajes de WhatsApp y otras redes sociales en los que se señala que el Gobierno Nacional decretó una cuarentena obligatoria a partir del 1 de noviembre.</ORIGINAL_TEXT>
+<TOKEN end_char="2393" id="token-15-0" morph="none" pos="word" start_char="2386">Entonces</TOKEN>
+<TOKEN end_char="2394" id="token-15-1" morph="none" pos="punct" start_char="2394">,</TOKEN>
+<TOKEN end_char="2406" id="token-15-2" morph="none" pos="word" start_char="2396">calificamos</TOKEN>
+<TOKEN end_char="2411" id="token-15-3" morph="none" pos="word" start_char="2408">como</TOKEN>
+<TOKEN end_char="2418" id="token-15-4" morph="none" pos="word" start_char="2413">falsos</TOKEN>
+<TOKEN end_char="2422" id="token-15-5" morph="none" pos="word" start_char="2420">los</TOKEN>
+<TOKEN end_char="2431" id="token-15-6" morph="none" pos="word" start_char="2424">mensajes</TOKEN>
+<TOKEN end_char="2434" id="token-15-7" morph="none" pos="word" start_char="2433">de</TOKEN>
+<TOKEN end_char="2443" id="token-15-8" morph="none" pos="word" start_char="2436">WhatsApp</TOKEN>
+<TOKEN end_char="2445" id="token-15-9" morph="none" pos="word" start_char="2445">y</TOKEN>
+<TOKEN end_char="2451" id="token-15-10" morph="none" pos="word" start_char="2447">otras</TOKEN>
+<TOKEN end_char="2457" id="token-15-11" morph="none" pos="word" start_char="2453">redes</TOKEN>
+<TOKEN end_char="2466" id="token-15-12" morph="none" pos="word" start_char="2459">sociales</TOKEN>
+<TOKEN end_char="2469" id="token-15-13" morph="none" pos="word" start_char="2468">en</TOKEN>
+<TOKEN end_char="2473" id="token-15-14" morph="none" pos="word" start_char="2471">los</TOKEN>
+<TOKEN end_char="2477" id="token-15-15" morph="none" pos="word" start_char="2475">que</TOKEN>
+<TOKEN end_char="2480" id="token-15-16" morph="none" pos="word" start_char="2479">se</TOKEN>
+<TOKEN end_char="2487" id="token-15-17" morph="none" pos="word" start_char="2482">señala</TOKEN>
+<TOKEN end_char="2491" id="token-15-18" morph="none" pos="word" start_char="2489">que</TOKEN>
+<TOKEN end_char="2494" id="token-15-19" morph="none" pos="word" start_char="2493">el</TOKEN>
+<TOKEN end_char="2503" id="token-15-20" morph="none" pos="word" start_char="2496">Gobierno</TOKEN>
+<TOKEN end_char="2512" id="token-15-21" morph="none" pos="word" start_char="2505">Nacional</TOKEN>
+<TOKEN end_char="2520" id="token-15-22" morph="none" pos="word" start_char="2514">decretó</TOKEN>
+<TOKEN end_char="2524" id="token-15-23" morph="none" pos="word" start_char="2522">una</TOKEN>
+<TOKEN end_char="2535" id="token-15-24" morph="none" pos="word" start_char="2526">cuarentena</TOKEN>
+<TOKEN end_char="2547" id="token-15-25" morph="none" pos="word" start_char="2537">obligatoria</TOKEN>
+<TOKEN end_char="2549" id="token-15-26" morph="none" pos="word" start_char="2549">a</TOKEN>
+<TOKEN end_char="2556" id="token-15-27" morph="none" pos="word" start_char="2551">partir</TOKEN>
+<TOKEN end_char="2560" id="token-15-28" morph="none" pos="word" start_char="2558">del</TOKEN>
+<TOKEN end_char="2562" id="token-15-29" morph="none" pos="word" start_char="2562">1</TOKEN>
+<TOKEN end_char="2565" id="token-15-30" morph="none" pos="word" start_char="2564">de</TOKEN>
+<TOKEN end_char="2575" id="token-15-31" morph="none" pos="word" start_char="2567">noviembre</TOKEN>
+<TOKEN end_char="2576" id="token-15-32" morph="none" pos="punct" start_char="2576">.</TOKEN>
+<TRANSLATED_TEXT>So, we consider the messages from WhatsApp and other social media that state that the National Government has decreed a mandatory quarantine as of November 1 to be false.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2591" id="segment-16" start_char="2579">
+<ORIGINAL_TEXT>Actualización</ORIGINAL_TEXT>
+<TOKEN end_char="2591" id="token-16-0" morph="none" pos="word" start_char="2579">Actualización</TOKEN>
+<TRANSLATED_TEXT>Update</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2850" id="segment-17" start_char="2595">
+<ORIGINAL_TEXT>Después de la publicación de este artículo, el 28 de octubre, el presidente Duque anunció que la fase de aislamiento selectivo con distanciamiento individual responsable se extenderá hasta el 30 de noviembre, aunque inicialmente terminaba el 31 de octubre.</ORIGINAL_TEXT>
+<TOKEN end_char="2601" id="token-17-0" morph="none" pos="word" start_char="2595">Después</TOKEN>
+<TOKEN end_char="2604" id="token-17-1" morph="none" pos="word" start_char="2603">de</TOKEN>
+<TOKEN end_char="2607" id="token-17-2" morph="none" pos="word" start_char="2606">la</TOKEN>
+<TOKEN end_char="2619" id="token-17-3" morph="none" pos="word" start_char="2609">publicación</TOKEN>
+<TOKEN end_char="2622" id="token-17-4" morph="none" pos="word" start_char="2621">de</TOKEN>
+<TOKEN end_char="2627" id="token-17-5" morph="none" pos="word" start_char="2624">este</TOKEN>
+<TOKEN end_char="2636" id="token-17-6" morph="none" pos="word" start_char="2629">artículo</TOKEN>
+<TOKEN end_char="2637" id="token-17-7" morph="none" pos="punct" start_char="2637">,</TOKEN>
+<TOKEN end_char="2640" id="token-17-8" morph="none" pos="word" start_char="2639">el</TOKEN>
+<TOKEN end_char="2643" id="token-17-9" morph="none" pos="word" start_char="2642">28</TOKEN>
+<TOKEN end_char="2646" id="token-17-10" morph="none" pos="word" start_char="2645">de</TOKEN>
+<TOKEN end_char="2654" id="token-17-11" morph="none" pos="word" start_char="2648">octubre</TOKEN>
+<TOKEN end_char="2655" id="token-17-12" morph="none" pos="punct" start_char="2655">,</TOKEN>
+<TOKEN end_char="2658" id="token-17-13" morph="none" pos="word" start_char="2657">el</TOKEN>
+<TOKEN end_char="2669" id="token-17-14" morph="none" pos="word" start_char="2660">presidente</TOKEN>
+<TOKEN end_char="2675" id="token-17-15" morph="none" pos="word" start_char="2671">Duque</TOKEN>
+<TOKEN end_char="2683" id="token-17-16" morph="none" pos="word" start_char="2677">anunció</TOKEN>
+<TOKEN end_char="2687" id="token-17-17" morph="none" pos="word" start_char="2685">que</TOKEN>
+<TOKEN end_char="2690" id="token-17-18" morph="none" pos="word" start_char="2689">la</TOKEN>
+<TOKEN end_char="2695" id="token-17-19" morph="none" pos="word" start_char="2692">fase</TOKEN>
+<TOKEN end_char="2698" id="token-17-20" morph="none" pos="word" start_char="2697">de</TOKEN>
+<TOKEN end_char="2710" id="token-17-21" morph="none" pos="word" start_char="2700">aislamiento</TOKEN>
+<TOKEN end_char="2720" id="token-17-22" morph="none" pos="word" start_char="2712">selectivo</TOKEN>
+<TOKEN end_char="2724" id="token-17-23" morph="none" pos="word" start_char="2722">con</TOKEN>
+<TOKEN end_char="2740" id="token-17-24" morph="none" pos="word" start_char="2726">distanciamiento</TOKEN>
+<TOKEN end_char="2751" id="token-17-25" morph="none" pos="word" start_char="2742">individual</TOKEN>
+<TOKEN end_char="2763" id="token-17-26" morph="none" pos="word" start_char="2753">responsable</TOKEN>
+<TOKEN end_char="2766" id="token-17-27" morph="none" pos="word" start_char="2765">se</TOKEN>
+<TOKEN end_char="2776" id="token-17-28" morph="none" pos="word" start_char="2768">extenderá</TOKEN>
+<TOKEN end_char="2782" id="token-17-29" morph="none" pos="word" start_char="2778">hasta</TOKEN>
+<TOKEN end_char="2785" id="token-17-30" morph="none" pos="word" start_char="2784">el</TOKEN>
+<TOKEN end_char="2788" id="token-17-31" morph="none" pos="word" start_char="2787">30</TOKEN>
+<TOKEN end_char="2791" id="token-17-32" morph="none" pos="word" start_char="2790">de</TOKEN>
+<TOKEN end_char="2801" id="token-17-33" morph="none" pos="word" start_char="2793">noviembre</TOKEN>
+<TOKEN end_char="2802" id="token-17-34" morph="none" pos="punct" start_char="2802">,</TOKEN>
+<TOKEN end_char="2809" id="token-17-35" morph="none" pos="word" start_char="2804">aunque</TOKEN>
+<TOKEN end_char="2822" id="token-17-36" morph="none" pos="word" start_char="2811">inicialmente</TOKEN>
+<TOKEN end_char="2832" id="token-17-37" morph="none" pos="word" start_char="2824">terminaba</TOKEN>
+<TOKEN end_char="2835" id="token-17-38" morph="none" pos="word" start_char="2834">el</TOKEN>
+<TOKEN end_char="2838" id="token-17-39" morph="none" pos="word" start_char="2837">31</TOKEN>
+<TOKEN end_char="2841" id="token-17-40" morph="none" pos="word" start_char="2840">de</TOKEN>
+<TOKEN end_char="2849" id="token-17-41" morph="none" pos="word" start_char="2843">octubre</TOKEN>
+<TOKEN end_char="2850" id="token-17-42" morph="none" pos="punct" start_char="2850">.</TOKEN>
+<TRANSLATED_TEXT>After the publication of this article, on 28 October, President Duque announced that the phase of selective isolation with responsible individual distancing would extend until 30 November, although initially it ended on 31 October.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="3338" id="segment-18" start_char="2853">
+<ORIGINAL_TEXT>Hay que aclarar que esta disposición, ordenada a través del Decreto 1168 del 25 de agosto, no contempla una cuarentena obligaroria, sino medidas como el aislamiento selectivo en municipios de alta afectación [siempre y cuando el alcalde así lo decida y cuente con la autorización del Ministerio del Interior y de Salud], y la prohibición de actividades en "bares, discotecas y lugares de baile" y el "consumo de bebidas embriagantes en espacios públicos y establecimientos de comercio".</ORIGINAL_TEXT>
+<TOKEN end_char="2855" id="token-18-0" morph="none" pos="word" start_char="2853">Hay</TOKEN>
+<TOKEN end_char="2859" id="token-18-1" morph="none" pos="word" start_char="2857">que</TOKEN>
+<TOKEN end_char="2867" id="token-18-2" morph="none" pos="word" start_char="2861">aclarar</TOKEN>
+<TOKEN end_char="2871" id="token-18-3" morph="none" pos="word" start_char="2869">que</TOKEN>
+<TOKEN end_char="2876" id="token-18-4" morph="none" pos="word" start_char="2873">esta</TOKEN>
+<TOKEN end_char="2888" id="token-18-5" morph="none" pos="word" start_char="2878">disposición</TOKEN>
+<TOKEN end_char="2889" id="token-18-6" morph="none" pos="punct" start_char="2889">,</TOKEN>
+<TOKEN end_char="2898" id="token-18-7" morph="none" pos="word" start_char="2891">ordenada</TOKEN>
+<TOKEN end_char="2900" id="token-18-8" morph="none" pos="word" start_char="2900">a</TOKEN>
+<TOKEN end_char="2907" id="token-18-9" morph="none" pos="word" start_char="2902">través</TOKEN>
+<TOKEN end_char="2911" id="token-18-10" morph="none" pos="word" start_char="2909">del</TOKEN>
+<TOKEN end_char="2919" id="token-18-11" morph="none" pos="word" start_char="2913">Decreto</TOKEN>
+<TOKEN end_char="2924" id="token-18-12" morph="none" pos="word" start_char="2921">1168</TOKEN>
+<TOKEN end_char="2928" id="token-18-13" morph="none" pos="word" start_char="2926">del</TOKEN>
+<TOKEN end_char="2931" id="token-18-14" morph="none" pos="word" start_char="2930">25</TOKEN>
+<TOKEN end_char="2934" id="token-18-15" morph="none" pos="word" start_char="2933">de</TOKEN>
+<TOKEN end_char="2941" id="token-18-16" morph="none" pos="word" start_char="2936">agosto</TOKEN>
+<TOKEN end_char="2942" id="token-18-17" morph="none" pos="punct" start_char="2942">,</TOKEN>
+<TOKEN end_char="2945" id="token-18-18" morph="none" pos="word" start_char="2944">no</TOKEN>
+<TOKEN end_char="2955" id="token-18-19" morph="none" pos="word" start_char="2947">contempla</TOKEN>
+<TOKEN end_char="2959" id="token-18-20" morph="none" pos="word" start_char="2957">una</TOKEN>
+<TOKEN end_char="2970" id="token-18-21" morph="none" pos="word" start_char="2961">cuarentena</TOKEN>
+<TOKEN end_char="2982" id="token-18-22" morph="none" pos="word" start_char="2972">obligaroria</TOKEN>
+<TOKEN end_char="2983" id="token-18-23" morph="none" pos="punct" start_char="2983">,</TOKEN>
+<TOKEN end_char="2988" id="token-18-24" morph="none" pos="word" start_char="2985">sino</TOKEN>
+<TOKEN end_char="2996" id="token-18-25" morph="none" pos="word" start_char="2990">medidas</TOKEN>
+<TOKEN end_char="3001" id="token-18-26" morph="none" pos="word" start_char="2998">como</TOKEN>
+<TOKEN end_char="3004" id="token-18-27" morph="none" pos="word" start_char="3003">el</TOKEN>
+<TOKEN end_char="3016" id="token-18-28" morph="none" pos="word" start_char="3006">aislamiento</TOKEN>
+<TOKEN end_char="3026" id="token-18-29" morph="none" pos="word" start_char="3018">selectivo</TOKEN>
+<TOKEN end_char="3029" id="token-18-30" morph="none" pos="word" start_char="3028">en</TOKEN>
+<TOKEN end_char="3040" id="token-18-31" morph="none" pos="word" start_char="3031">municipios</TOKEN>
+<TOKEN end_char="3043" id="token-18-32" morph="none" pos="word" start_char="3042">de</TOKEN>
+<TOKEN end_char="3048" id="token-18-33" morph="none" pos="word" start_char="3045">alta</TOKEN>
+<TOKEN end_char="3059" id="token-18-34" morph="none" pos="word" start_char="3050">afectación</TOKEN>
+<TOKEN end_char="3061" id="token-18-35" morph="none" pos="punct" start_char="3061">[</TOKEN>
+<TOKEN end_char="3068" id="token-18-36" morph="none" pos="word" start_char="3062">siempre</TOKEN>
+<TOKEN end_char="3070" id="token-18-37" morph="none" pos="word" start_char="3070">y</TOKEN>
+<TOKEN end_char="3077" id="token-18-38" morph="none" pos="word" start_char="3072">cuando</TOKEN>
+<TOKEN end_char="3080" id="token-18-39" morph="none" pos="word" start_char="3079">el</TOKEN>
+<TOKEN end_char="3088" id="token-18-40" morph="none" pos="word" start_char="3082">alcalde</TOKEN>
+<TOKEN end_char="3092" id="token-18-41" morph="none" pos="word" start_char="3090">así</TOKEN>
+<TOKEN end_char="3095" id="token-18-42" morph="none" pos="word" start_char="3094">lo</TOKEN>
+<TOKEN end_char="3102" id="token-18-43" morph="none" pos="word" start_char="3097">decida</TOKEN>
+<TOKEN end_char="3104" id="token-18-44" morph="none" pos="word" start_char="3104">y</TOKEN>
+<TOKEN end_char="3111" id="token-18-45" morph="none" pos="word" start_char="3106">cuente</TOKEN>
+<TOKEN end_char="3115" id="token-18-46" morph="none" pos="word" start_char="3113">con</TOKEN>
+<TOKEN end_char="3118" id="token-18-47" morph="none" pos="word" start_char="3117">la</TOKEN>
+<TOKEN end_char="3131" id="token-18-48" morph="none" pos="word" start_char="3120">autorización</TOKEN>
+<TOKEN end_char="3135" id="token-18-49" morph="none" pos="word" start_char="3133">del</TOKEN>
+<TOKEN end_char="3146" id="token-18-50" morph="none" pos="word" start_char="3137">Ministerio</TOKEN>
+<TOKEN end_char="3150" id="token-18-51" morph="none" pos="word" start_char="3148">del</TOKEN>
+<TOKEN end_char="3159" id="token-18-52" morph="none" pos="word" start_char="3152">Interior</TOKEN>
+<TOKEN end_char="3161" id="token-18-53" morph="none" pos="word" start_char="3161">y</TOKEN>
+<TOKEN end_char="3164" id="token-18-54" morph="none" pos="word" start_char="3163">de</TOKEN>
+<TOKEN end_char="3170" id="token-18-55" morph="none" pos="word" start_char="3166">Salud</TOKEN>
+<TOKEN end_char="3172" id="token-18-56" morph="none" pos="punct" start_char="3171">],</TOKEN>
+<TOKEN end_char="3174" id="token-18-57" morph="none" pos="word" start_char="3174">y</TOKEN>
+<TOKEN end_char="3177" id="token-18-58" morph="none" pos="word" start_char="3176">la</TOKEN>
+<TOKEN end_char="3189" id="token-18-59" morph="none" pos="word" start_char="3179">prohibición</TOKEN>
+<TOKEN end_char="3192" id="token-18-60" morph="none" pos="word" start_char="3191">de</TOKEN>
+<TOKEN end_char="3204" id="token-18-61" morph="none" pos="word" start_char="3194">actividades</TOKEN>
+<TOKEN end_char="3207" id="token-18-62" morph="none" pos="word" start_char="3206">en</TOKEN>
+<TOKEN end_char="3209" id="token-18-63" morph="none" pos="punct" start_char="3209">"</TOKEN>
+<TOKEN end_char="3214" id="token-18-64" morph="none" pos="word" start_char="3210">bares</TOKEN>
+<TOKEN end_char="3215" id="token-18-65" morph="none" pos="punct" start_char="3215">,</TOKEN>
+<TOKEN end_char="3226" id="token-18-66" morph="none" pos="word" start_char="3217">discotecas</TOKEN>
+<TOKEN end_char="3228" id="token-18-67" morph="none" pos="word" start_char="3228">y</TOKEN>
+<TOKEN end_char="3236" id="token-18-68" morph="none" pos="word" start_char="3230">lugares</TOKEN>
+<TOKEN end_char="3239" id="token-18-69" morph="none" pos="word" start_char="3238">de</TOKEN>
+<TOKEN end_char="3245" id="token-18-70" morph="none" pos="word" start_char="3241">baile</TOKEN>
+<TOKEN end_char="3246" id="token-18-71" morph="none" pos="punct" start_char="3246">"</TOKEN>
+<TOKEN end_char="3248" id="token-18-72" morph="none" pos="word" start_char="3248">y</TOKEN>
+<TOKEN end_char="3251" id="token-18-73" morph="none" pos="word" start_char="3250">el</TOKEN>
+<TOKEN end_char="3253" id="token-18-74" morph="none" pos="punct" start_char="3253">"</TOKEN>
+<TOKEN end_char="3260" id="token-18-75" morph="none" pos="word" start_char="3254">consumo</TOKEN>
+<TOKEN end_char="3263" id="token-18-76" morph="none" pos="word" start_char="3262">de</TOKEN>
+<TOKEN end_char="3271" id="token-18-77" morph="none" pos="word" start_char="3265">bebidas</TOKEN>
+<TOKEN end_char="3284" id="token-18-78" morph="none" pos="word" start_char="3273">embriagantes</TOKEN>
+<TOKEN end_char="3287" id="token-18-79" morph="none" pos="word" start_char="3286">en</TOKEN>
+<TOKEN end_char="3296" id="token-18-80" morph="none" pos="word" start_char="3289">espacios</TOKEN>
+<TOKEN end_char="3305" id="token-18-81" morph="none" pos="word" start_char="3298">públicos</TOKEN>
+<TOKEN end_char="3307" id="token-18-82" morph="none" pos="word" start_char="3307">y</TOKEN>
+<TOKEN end_char="3324" id="token-18-83" morph="none" pos="word" start_char="3309">establecimientos</TOKEN>
+<TOKEN end_char="3327" id="token-18-84" morph="none" pos="word" start_char="3326">de</TOKEN>
+<TOKEN end_char="3336" id="token-18-85" morph="none" pos="word" start_char="3329">comercio</TOKEN>
+<TOKEN end_char="3338" id="token-18-86" morph="none" pos="punct" start_char="3337">".</TOKEN>
+<TRANSLATED_TEXT>It should be clarified that this provision, ordered by Decree 1168 of August 25, does not provide for compulsory quarantine, but for measures such as selective isolation in municipalities of high concern (provided the mayor so decides and with the authorization of the Ministry of the Interior and Health), and the prohibition of activities in "bars, discotheques and dance places" and "consumption of intoxicating drinks in public spaces and commercial establishments."</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="3513" id="segment-19" start_char="3341">
+<ORIGINAL_TEXT>Esta decisión del Gobierno Nacional no tiene ningún efecto en la califcación de las desinformaciones que anuncian lasupuesta orden de cuarentena obligatoria en todo el país.</ORIGINAL_TEXT>
+<TOKEN end_char="3344" id="token-19-0" morph="none" pos="word" start_char="3341">Esta</TOKEN>
+<TOKEN end_char="3353" id="token-19-1" morph="none" pos="word" start_char="3346">decisión</TOKEN>
+<TOKEN end_char="3357" id="token-19-2" morph="none" pos="word" start_char="3355">del</TOKEN>
+<TOKEN end_char="3366" id="token-19-3" morph="none" pos="word" start_char="3359">Gobierno</TOKEN>
+<TOKEN end_char="3375" id="token-19-4" morph="none" pos="word" start_char="3368">Nacional</TOKEN>
+<TOKEN end_char="3378" id="token-19-5" morph="none" pos="word" start_char="3377">no</TOKEN>
+<TOKEN end_char="3384" id="token-19-6" morph="none" pos="word" start_char="3380">tiene</TOKEN>
+<TOKEN end_char="3391" id="token-19-7" morph="none" pos="word" start_char="3386">ningún</TOKEN>
+<TOKEN end_char="3398" id="token-19-8" morph="none" pos="word" start_char="3393">efecto</TOKEN>
+<TOKEN end_char="3401" id="token-19-9" morph="none" pos="word" start_char="3400">en</TOKEN>
+<TOKEN end_char="3404" id="token-19-10" morph="none" pos="word" start_char="3403">la</TOKEN>
+<TOKEN end_char="3416" id="token-19-11" morph="none" pos="word" start_char="3406">califcación</TOKEN>
+<TOKEN end_char="3419" id="token-19-12" morph="none" pos="word" start_char="3418">de</TOKEN>
+<TOKEN end_char="3423" id="token-19-13" morph="none" pos="word" start_char="3421">las</TOKEN>
+<TOKEN end_char="3440" id="token-19-14" morph="none" pos="word" start_char="3425">desinformaciones</TOKEN>
+<TOKEN end_char="3444" id="token-19-15" morph="none" pos="word" start_char="3442">que</TOKEN>
+<TOKEN end_char="3453" id="token-19-16" morph="none" pos="word" start_char="3446">anuncian</TOKEN>
+<TOKEN end_char="3464" id="token-19-17" morph="none" pos="word" start_char="3455">lasupuesta</TOKEN>
+<TOKEN end_char="3470" id="token-19-18" morph="none" pos="word" start_char="3466">orden</TOKEN>
+<TOKEN end_char="3473" id="token-19-19" morph="none" pos="word" start_char="3472">de</TOKEN>
+<TOKEN end_char="3484" id="token-19-20" morph="none" pos="word" start_char="3475">cuarentena</TOKEN>
+<TOKEN end_char="3496" id="token-19-21" morph="none" pos="word" start_char="3486">obligatoria</TOKEN>
+<TOKEN end_char="3499" id="token-19-22" morph="none" pos="word" start_char="3498">en</TOKEN>
+<TOKEN end_char="3504" id="token-19-23" morph="none" pos="word" start_char="3501">todo</TOKEN>
+<TOKEN end_char="3507" id="token-19-24" morph="none" pos="word" start_char="3506">el</TOKEN>
+<TOKEN end_char="3512" id="token-19-25" morph="none" pos="word" start_char="3509">país</TOKEN>
+<TOKEN end_char="3513" id="token-19-26" morph="none" pos="punct" start_char="3513">.</TOKEN>
+<TRANSLATED_TEXT>This decision of the National Government has no effect on the dissemination of misinformation announcing this mandatory quarantine order throughout the country.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="3535" id="segment-20" start_char="3515">
+<ORIGINAL_TEXT>Siguen siendo falsas.</ORIGINAL_TEXT>
+<TOKEN end_char="3520" id="token-20-0" morph="none" pos="word" start_char="3515">Siguen</TOKEN>
+<TOKEN end_char="3527" id="token-20-1" morph="none" pos="word" start_char="3522">siendo</TOKEN>
+<TOKEN end_char="3534" id="token-20-2" morph="none" pos="word" start_char="3529">falsas</TOKEN>
+<TOKEN end_char="3535" id="token-20-3" morph="none" pos="punct" start_char="3535">.</TOKEN>
+<TRANSLATED_TEXT>They're still fake.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

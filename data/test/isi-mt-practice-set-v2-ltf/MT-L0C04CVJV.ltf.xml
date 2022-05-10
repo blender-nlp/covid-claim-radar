@@ -1,0 +1,778 @@
+<LCTL_TEXT lang="spa">
+<DOC grammar="none" id="L0C04CVJV" lang="spa" raw_text_char_length="3752" raw_text_md5="a899b548f95dd1d6ffcc62b5b23681ca" tokenization="tokenization_parameters.v5.0">
+<TEXT>
+<SEG end_char="35" id="segment-0" start_char="1">
+<ORIGINAL_TEXT>Frente científico, buenas noticias.</ORIGINAL_TEXT>
+<TOKEN end_char="6" id="token-0-0" morph="none" pos="word" start_char="1">Frente</TOKEN>
+<TOKEN end_char="17" id="token-0-1" morph="none" pos="word" start_char="8">científico</TOKEN>
+<TOKEN end_char="18" id="token-0-2" morph="none" pos="punct" start_char="18">,</TOKEN>
+<TOKEN end_char="25" id="token-0-3" morph="none" pos="word" start_char="20">buenas</TOKEN>
+<TOKEN end_char="34" id="token-0-4" morph="none" pos="word" start_char="27">noticias</TOKEN>
+<TOKEN end_char="35" id="token-0-5" morph="none" pos="punct" start_char="35">.</TOKEN>
+<TRANSLATED_TEXT>Scientific front, good news.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="92" id="segment-1" start_char="37">
+<ORIGINAL_TEXT>La invermectina reduciría sustancialmente la mortalidad.</ORIGINAL_TEXT>
+<TOKEN end_char="38" id="token-1-0" morph="none" pos="word" start_char="37">La</TOKEN>
+<TOKEN end_char="51" id="token-1-1" morph="none" pos="word" start_char="40">invermectina</TOKEN>
+<TOKEN end_char="61" id="token-1-2" morph="none" pos="word" start_char="53">reduciría</TOKEN>
+<TOKEN end_char="77" id="token-1-3" morph="none" pos="word" start_char="63">sustancialmente</TOKEN>
+<TOKEN end_char="80" id="token-1-4" morph="none" pos="word" start_char="79">la</TOKEN>
+<TOKEN end_char="91" id="token-1-5" morph="none" pos="word" start_char="82">mortalidad</TOKEN>
+<TOKEN end_char="92" id="token-1-6" morph="none" pos="punct" start_char="92">.</TOKEN>
+<TRANSLATED_TEXT>Invermectin would substantially reduce mortality.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="170" id="segment-2" start_char="96">
+<ORIGINAL_TEXT>Coronavirus: la invermectina reduce la mortalidad en pacientes con Covid-19</ORIGINAL_TEXT>
+<TOKEN end_char="106" id="token-2-0" morph="none" pos="word" start_char="96">Coronavirus</TOKEN>
+<TOKEN end_char="107" id="token-2-1" morph="none" pos="punct" start_char="107">:</TOKEN>
+<TOKEN end_char="110" id="token-2-2" morph="none" pos="word" start_char="109">la</TOKEN>
+<TOKEN end_char="123" id="token-2-3" morph="none" pos="word" start_char="112">invermectina</TOKEN>
+<TOKEN end_char="130" id="token-2-4" morph="none" pos="word" start_char="125">reduce</TOKEN>
+<TOKEN end_char="133" id="token-2-5" morph="none" pos="word" start_char="132">la</TOKEN>
+<TOKEN end_char="144" id="token-2-6" morph="none" pos="word" start_char="135">mortalidad</TOKEN>
+<TOKEN end_char="147" id="token-2-7" morph="none" pos="word" start_char="146">en</TOKEN>
+<TOKEN end_char="157" id="token-2-8" morph="none" pos="word" start_char="149">pacientes</TOKEN>
+<TOKEN end_char="161" id="token-2-9" morph="none" pos="word" start_char="159">con</TOKEN>
+<TOKEN end_char="170" id="token-2-10" morph="none" pos="unknown" start_char="163">Covid-19</TOKEN>
+<TRANSLATED_TEXT>Coronavirus: Invermectin reduces mortality in patients with Covid-19</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="305" id="segment-3" start_char="173">
+<ORIGINAL_TEXT>La administración de invermectina a pacientes con Covid-19 se asocia con una menor mortalidad y duración de la estancia hospitalaria.</ORIGINAL_TEXT>
+<TOKEN end_char="174" id="token-3-0" morph="none" pos="word" start_char="173">La</TOKEN>
+<TOKEN end_char="189" id="token-3-1" morph="none" pos="word" start_char="176">administración</TOKEN>
+<TOKEN end_char="192" id="token-3-2" morph="none" pos="word" start_char="191">de</TOKEN>
+<TOKEN end_char="205" id="token-3-3" morph="none" pos="word" start_char="194">invermectina</TOKEN>
+<TOKEN end_char="207" id="token-3-4" morph="none" pos="word" start_char="207">a</TOKEN>
+<TOKEN end_char="217" id="token-3-5" morph="none" pos="word" start_char="209">pacientes</TOKEN>
+<TOKEN end_char="221" id="token-3-6" morph="none" pos="word" start_char="219">con</TOKEN>
+<TOKEN end_char="230" id="token-3-7" morph="none" pos="unknown" start_char="223">Covid-19</TOKEN>
+<TOKEN end_char="233" id="token-3-8" morph="none" pos="word" start_char="232">se</TOKEN>
+<TOKEN end_char="240" id="token-3-9" morph="none" pos="word" start_char="235">asocia</TOKEN>
+<TOKEN end_char="244" id="token-3-10" morph="none" pos="word" start_char="242">con</TOKEN>
+<TOKEN end_char="248" id="token-3-11" morph="none" pos="word" start_char="246">una</TOKEN>
+<TOKEN end_char="254" id="token-3-12" morph="none" pos="word" start_char="250">menor</TOKEN>
+<TOKEN end_char="265" id="token-3-13" morph="none" pos="word" start_char="256">mortalidad</TOKEN>
+<TOKEN end_char="267" id="token-3-14" morph="none" pos="word" start_char="267">y</TOKEN>
+<TOKEN end_char="276" id="token-3-15" morph="none" pos="word" start_char="269">duración</TOKEN>
+<TOKEN end_char="279" id="token-3-16" morph="none" pos="word" start_char="278">de</TOKEN>
+<TOKEN end_char="282" id="token-3-17" morph="none" pos="word" start_char="281">la</TOKEN>
+<TOKEN end_char="291" id="token-3-18" morph="none" pos="word" start_char="284">estancia</TOKEN>
+<TOKEN end_char="304" id="token-3-19" morph="none" pos="word" start_char="293">hospitalaria</TOKEN>
+<TOKEN end_char="305" id="token-3-20" morph="none" pos="punct" start_char="305">.</TOKEN>
+<TRANSLATED_TEXT>Invermectin administration to patients with Covid-19 is associated with lower mortality and duration of hospital stay.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="410" id="segment-4" start_char="307">
+<ORIGINAL_TEXT>Este es el principal resultado de un estudio realizado en 169 hospitales de tres continentes diferentes.</ORIGINAL_TEXT>
+<TOKEN end_char="310" id="token-4-0" morph="none" pos="word" start_char="307">Este</TOKEN>
+<TOKEN end_char="313" id="token-4-1" morph="none" pos="word" start_char="312">es</TOKEN>
+<TOKEN end_char="316" id="token-4-2" morph="none" pos="word" start_char="315">el</TOKEN>
+<TOKEN end_char="326" id="token-4-3" morph="none" pos="word" start_char="318">principal</TOKEN>
+<TOKEN end_char="336" id="token-4-4" morph="none" pos="word" start_char="328">resultado</TOKEN>
+<TOKEN end_char="339" id="token-4-5" morph="none" pos="word" start_char="338">de</TOKEN>
+<TOKEN end_char="342" id="token-4-6" morph="none" pos="word" start_char="341">un</TOKEN>
+<TOKEN end_char="350" id="token-4-7" morph="none" pos="word" start_char="344">estudio</TOKEN>
+<TOKEN end_char="360" id="token-4-8" morph="none" pos="word" start_char="352">realizado</TOKEN>
+<TOKEN end_char="363" id="token-4-9" morph="none" pos="word" start_char="362">en</TOKEN>
+<TOKEN end_char="367" id="token-4-10" morph="none" pos="word" start_char="365">169</TOKEN>
+<TOKEN end_char="378" id="token-4-11" morph="none" pos="word" start_char="369">hospitales</TOKEN>
+<TOKEN end_char="381" id="token-4-12" morph="none" pos="word" start_char="380">de</TOKEN>
+<TOKEN end_char="386" id="token-4-13" morph="none" pos="word" start_char="383">tres</TOKEN>
+<TOKEN end_char="398" id="token-4-14" morph="none" pos="word" start_char="388">continentes</TOKEN>
+<TOKEN end_char="409" id="token-4-15" morph="none" pos="word" start_char="400">diferentes</TOKEN>
+<TOKEN end_char="410" id="token-4-16" morph="none" pos="punct" start_char="410">.</TOKEN>
+<TRANSLATED_TEXT>This is the main result of a study conducted in 169 hospitals on three different continents.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="475" id="segment-5" start_char="413">
+<ORIGINAL_TEXT>DIRECTO | Coronavirus España: últimas noticias, última hora hoy</ORIGINAL_TEXT>
+<TOKEN end_char="419" id="token-5-0" morph="none" pos="word" start_char="413">DIRECTO</TOKEN>
+<TOKEN end_char="421" id="token-5-1" morph="none" pos="unknown" start_char="421">|</TOKEN>
+<TOKEN end_char="433" id="token-5-2" morph="none" pos="word" start_char="423">Coronavirus</TOKEN>
+<TOKEN end_char="440" id="token-5-3" morph="none" pos="word" start_char="435">España</TOKEN>
+<TOKEN end_char="441" id="token-5-4" morph="none" pos="punct" start_char="441">:</TOKEN>
+<TOKEN end_char="449" id="token-5-5" morph="none" pos="word" start_char="443">últimas</TOKEN>
+<TOKEN end_char="458" id="token-5-6" morph="none" pos="word" start_char="451">noticias</TOKEN>
+<TOKEN end_char="459" id="token-5-7" morph="none" pos="punct" start_char="459">,</TOKEN>
+<TOKEN end_char="466" id="token-5-8" morph="none" pos="word" start_char="461">última</TOKEN>
+<TOKEN end_char="471" id="token-5-9" morph="none" pos="word" start_char="468">hora</TOKEN>
+<TOKEN end_char="475" id="token-5-10" morph="none" pos="word" start_char="473">hoy</TOKEN>
+<TRANSLATED_TEXT>DIRECTTO | Coronavirus Spain: latest news, last minute today</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="678" id="segment-6" start_char="478">
+<ORIGINAL_TEXT>Se registró una mortalidad de 7,3 por ciento en el grupo de pacientes que requirieron ventilación y fueron tratados con este medicamento, mientras que un 21,3 d por ciento el grupo de control falleció.</ORIGINAL_TEXT>
+<TOKEN end_char="479" id="token-6-0" morph="none" pos="word" start_char="478">Se</TOKEN>
+<TOKEN end_char="488" id="token-6-1" morph="none" pos="word" start_char="481">registró</TOKEN>
+<TOKEN end_char="492" id="token-6-2" morph="none" pos="word" start_char="490">una</TOKEN>
+<TOKEN end_char="503" id="token-6-3" morph="none" pos="word" start_char="494">mortalidad</TOKEN>
+<TOKEN end_char="506" id="token-6-4" morph="none" pos="word" start_char="505">de</TOKEN>
+<TOKEN end_char="510" id="token-6-5" morph="none" pos="unknown" start_char="508">7,3</TOKEN>
+<TOKEN end_char="514" id="token-6-6" morph="none" pos="word" start_char="512">por</TOKEN>
+<TOKEN end_char="521" id="token-6-7" morph="none" pos="word" start_char="516">ciento</TOKEN>
+<TOKEN end_char="524" id="token-6-8" morph="none" pos="word" start_char="523">en</TOKEN>
+<TOKEN end_char="527" id="token-6-9" morph="none" pos="word" start_char="526">el</TOKEN>
+<TOKEN end_char="533" id="token-6-10" morph="none" pos="word" start_char="529">grupo</TOKEN>
+<TOKEN end_char="536" id="token-6-11" morph="none" pos="word" start_char="535">de</TOKEN>
+<TOKEN end_char="546" id="token-6-12" morph="none" pos="word" start_char="538">pacientes</TOKEN>
+<TOKEN end_char="550" id="token-6-13" morph="none" pos="word" start_char="548">que</TOKEN>
+<TOKEN end_char="562" id="token-6-14" morph="none" pos="word" start_char="552">requirieron</TOKEN>
+<TOKEN end_char="574" id="token-6-15" morph="none" pos="word" start_char="564">ventilación</TOKEN>
+<TOKEN end_char="576" id="token-6-16" morph="none" pos="word" start_char="576">y</TOKEN>
+<TOKEN end_char="583" id="token-6-17" morph="none" pos="word" start_char="578">fueron</TOKEN>
+<TOKEN end_char="592" id="token-6-18" morph="none" pos="word" start_char="585">tratados</TOKEN>
+<TOKEN end_char="596" id="token-6-19" morph="none" pos="word" start_char="594">con</TOKEN>
+<TOKEN end_char="601" id="token-6-20" morph="none" pos="word" start_char="598">este</TOKEN>
+<TOKEN end_char="613" id="token-6-21" morph="none" pos="word" start_char="603">medicamento</TOKEN>
+<TOKEN end_char="614" id="token-6-22" morph="none" pos="punct" start_char="614">,</TOKEN>
+<TOKEN end_char="623" id="token-6-23" morph="none" pos="word" start_char="616">mientras</TOKEN>
+<TOKEN end_char="627" id="token-6-24" morph="none" pos="word" start_char="625">que</TOKEN>
+<TOKEN end_char="630" id="token-6-25" morph="none" pos="word" start_char="629">un</TOKEN>
+<TOKEN end_char="635" id="token-6-26" morph="none" pos="unknown" start_char="632">21,3</TOKEN>
+<TOKEN end_char="637" id="token-6-27" morph="none" pos="word" start_char="637">d</TOKEN>
+<TOKEN end_char="641" id="token-6-28" morph="none" pos="word" start_char="639">por</TOKEN>
+<TOKEN end_char="648" id="token-6-29" morph="none" pos="word" start_char="643">ciento</TOKEN>
+<TOKEN end_char="651" id="token-6-30" morph="none" pos="word" start_char="650">el</TOKEN>
+<TOKEN end_char="657" id="token-6-31" morph="none" pos="word" start_char="653">grupo</TOKEN>
+<TOKEN end_char="660" id="token-6-32" morph="none" pos="word" start_char="659">de</TOKEN>
+<TOKEN end_char="668" id="token-6-33" morph="none" pos="word" start_char="662">control</TOKEN>
+<TOKEN end_char="677" id="token-6-34" morph="none" pos="word" start_char="670">falleció</TOKEN>
+<TOKEN end_char="678" id="token-6-35" morph="none" pos="punct" start_char="678">.</TOKEN>
+<TRANSLATED_TEXT>Mortality was 7.3% in the group of patients who required ventilation and were treated with this drug, while 21.3% in the control group died.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="800" id="segment-7" start_char="680">
+<ORIGINAL_TEXT>En cuanto a las tasas de mortalidad generales, fueron más bajas en pacientes con invermectina: 1,4 por ciento versus 8,5.</ORIGINAL_TEXT>
+<TOKEN end_char="681" id="token-7-0" morph="none" pos="word" start_char="680">En</TOKEN>
+<TOKEN end_char="688" id="token-7-1" morph="none" pos="word" start_char="683">cuanto</TOKEN>
+<TOKEN end_char="690" id="token-7-2" morph="none" pos="word" start_char="690">a</TOKEN>
+<TOKEN end_char="694" id="token-7-3" morph="none" pos="word" start_char="692">las</TOKEN>
+<TOKEN end_char="700" id="token-7-4" morph="none" pos="word" start_char="696">tasas</TOKEN>
+<TOKEN end_char="703" id="token-7-5" morph="none" pos="word" start_char="702">de</TOKEN>
+<TOKEN end_char="714" id="token-7-6" morph="none" pos="word" start_char="705">mortalidad</TOKEN>
+<TOKEN end_char="724" id="token-7-7" morph="none" pos="word" start_char="716">generales</TOKEN>
+<TOKEN end_char="725" id="token-7-8" morph="none" pos="punct" start_char="725">,</TOKEN>
+<TOKEN end_char="732" id="token-7-9" morph="none" pos="word" start_char="727">fueron</TOKEN>
+<TOKEN end_char="736" id="token-7-10" morph="none" pos="word" start_char="734">más</TOKEN>
+<TOKEN end_char="742" id="token-7-11" morph="none" pos="word" start_char="738">bajas</TOKEN>
+<TOKEN end_char="745" id="token-7-12" morph="none" pos="word" start_char="744">en</TOKEN>
+<TOKEN end_char="755" id="token-7-13" morph="none" pos="word" start_char="747">pacientes</TOKEN>
+<TOKEN end_char="759" id="token-7-14" morph="none" pos="word" start_char="757">con</TOKEN>
+<TOKEN end_char="772" id="token-7-15" morph="none" pos="word" start_char="761">invermectina</TOKEN>
+<TOKEN end_char="773" id="token-7-16" morph="none" pos="punct" start_char="773">:</TOKEN>
+<TOKEN end_char="777" id="token-7-17" morph="none" pos="unknown" start_char="775">1,4</TOKEN>
+<TOKEN end_char="781" id="token-7-18" morph="none" pos="word" start_char="779">por</TOKEN>
+<TOKEN end_char="788" id="token-7-19" morph="none" pos="word" start_char="783">ciento</TOKEN>
+<TOKEN end_char="795" id="token-7-20" morph="none" pos="word" start_char="790">versus</TOKEN>
+<TOKEN end_char="799" id="token-7-21" morph="none" pos="unknown" start_char="797">8,5</TOKEN>
+<TOKEN end_char="800" id="token-7-22" morph="none" pos="punct" start_char="800">.</TOKEN>
+<TRANSLATED_TEXT>Overall mortality rates were lower in patients with Invermectin: 1.4 percent versus 8.5 percent.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="890" id="segment-8" start_char="803">
+<ORIGINAL_TEXT>La cohorte de estudio incluyó a 704 pacientes tratados con invermectina y 704 controles.</ORIGINAL_TEXT>
+<TOKEN end_char="804" id="token-8-0" morph="none" pos="word" start_char="803">La</TOKEN>
+<TOKEN end_char="812" id="token-8-1" morph="none" pos="word" start_char="806">cohorte</TOKEN>
+<TOKEN end_char="815" id="token-8-2" morph="none" pos="word" start_char="814">de</TOKEN>
+<TOKEN end_char="823" id="token-8-3" morph="none" pos="word" start_char="817">estudio</TOKEN>
+<TOKEN end_char="831" id="token-8-4" morph="none" pos="word" start_char="825">incluyó</TOKEN>
+<TOKEN end_char="833" id="token-8-5" morph="none" pos="word" start_char="833">a</TOKEN>
+<TOKEN end_char="837" id="token-8-6" morph="none" pos="word" start_char="835">704</TOKEN>
+<TOKEN end_char="847" id="token-8-7" morph="none" pos="word" start_char="839">pacientes</TOKEN>
+<TOKEN end_char="856" id="token-8-8" morph="none" pos="word" start_char="849">tratados</TOKEN>
+<TOKEN end_char="860" id="token-8-9" morph="none" pos="word" start_char="858">con</TOKEN>
+<TOKEN end_char="873" id="token-8-10" morph="none" pos="word" start_char="862">invermectina</TOKEN>
+<TOKEN end_char="875" id="token-8-11" morph="none" pos="word" start_char="875">y</TOKEN>
+<TOKEN end_char="879" id="token-8-12" morph="none" pos="word" start_char="877">704</TOKEN>
+<TOKEN end_char="889" id="token-8-13" morph="none" pos="word" start_char="881">controles</TOKEN>
+<TOKEN end_char="890" id="token-8-14" morph="none" pos="punct" start_char="890">.</TOKEN>
+<TRANSLATED_TEXT>The study cohort included 704 patients treated with Invermectin and 704 controls.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1023" id="segment-9" start_char="892">
+<ORIGINAL_TEXT>El objetivo de la investigación fue evaluar la asociación de la administración de este medicamento con la supervivencia al Covid-19.</ORIGINAL_TEXT>
+<TOKEN end_char="893" id="token-9-0" morph="none" pos="word" start_char="892">El</TOKEN>
+<TOKEN end_char="902" id="token-9-1" morph="none" pos="word" start_char="895">objetivo</TOKEN>
+<TOKEN end_char="905" id="token-9-2" morph="none" pos="word" start_char="904">de</TOKEN>
+<TOKEN end_char="908" id="token-9-3" morph="none" pos="word" start_char="907">la</TOKEN>
+<TOKEN end_char="922" id="token-9-4" morph="none" pos="word" start_char="910">investigación</TOKEN>
+<TOKEN end_char="926" id="token-9-5" morph="none" pos="word" start_char="924">fue</TOKEN>
+<TOKEN end_char="934" id="token-9-6" morph="none" pos="word" start_char="928">evaluar</TOKEN>
+<TOKEN end_char="937" id="token-9-7" morph="none" pos="word" start_char="936">la</TOKEN>
+<TOKEN end_char="948" id="token-9-8" morph="none" pos="word" start_char="939">asociación</TOKEN>
+<TOKEN end_char="951" id="token-9-9" morph="none" pos="word" start_char="950">de</TOKEN>
+<TOKEN end_char="954" id="token-9-10" morph="none" pos="word" start_char="953">la</TOKEN>
+<TOKEN end_char="969" id="token-9-11" morph="none" pos="word" start_char="956">administración</TOKEN>
+<TOKEN end_char="972" id="token-9-12" morph="none" pos="word" start_char="971">de</TOKEN>
+<TOKEN end_char="977" id="token-9-13" morph="none" pos="word" start_char="974">este</TOKEN>
+<TOKEN end_char="989" id="token-9-14" morph="none" pos="word" start_char="979">medicamento</TOKEN>
+<TOKEN end_char="993" id="token-9-15" morph="none" pos="word" start_char="991">con</TOKEN>
+<TOKEN end_char="996" id="token-9-16" morph="none" pos="word" start_char="995">la</TOKEN>
+<TOKEN end_char="1010" id="token-9-17" morph="none" pos="word" start_char="998">supervivencia</TOKEN>
+<TOKEN end_char="1013" id="token-9-18" morph="none" pos="word" start_char="1012">al</TOKEN>
+<TOKEN end_char="1022" id="token-9-19" morph="none" pos="unknown" start_char="1015">Covid-19</TOKEN>
+<TOKEN end_char="1023" id="token-9-20" morph="none" pos="punct" start_char="1023">.</TOKEN>
+<TRANSLATED_TEXT>The objective of the research was to evaluate the association of the administration of this drug with Covid-19 survival.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1231" id="segment-10" start_char="1026">
+<ORIGINAL_TEXT>Según los investigadores, el uso de ivermectina "se asocia con una mayor probabilidad de supervivencia durante la enfermedad Covid-19, independientemente del uso con o en presencia de ventilación mecánica".</ORIGINAL_TEXT>
+<TOKEN end_char="1030" id="token-10-0" morph="none" pos="word" start_char="1026">Según</TOKEN>
+<TOKEN end_char="1034" id="token-10-1" morph="none" pos="word" start_char="1032">los</TOKEN>
+<TOKEN end_char="1049" id="token-10-2" morph="none" pos="word" start_char="1036">investigadores</TOKEN>
+<TOKEN end_char="1050" id="token-10-3" morph="none" pos="punct" start_char="1050">,</TOKEN>
+<TOKEN end_char="1053" id="token-10-4" morph="none" pos="word" start_char="1052">el</TOKEN>
+<TOKEN end_char="1057" id="token-10-5" morph="none" pos="word" start_char="1055">uso</TOKEN>
+<TOKEN end_char="1060" id="token-10-6" morph="none" pos="word" start_char="1059">de</TOKEN>
+<TOKEN end_char="1072" id="token-10-7" morph="none" pos="word" start_char="1062">ivermectina</TOKEN>
+<TOKEN end_char="1074" id="token-10-8" morph="none" pos="punct" start_char="1074">"</TOKEN>
+<TOKEN end_char="1076" id="token-10-9" morph="none" pos="word" start_char="1075">se</TOKEN>
+<TOKEN end_char="1083" id="token-10-10" morph="none" pos="word" start_char="1078">asocia</TOKEN>
+<TOKEN end_char="1087" id="token-10-11" morph="none" pos="word" start_char="1085">con</TOKEN>
+<TOKEN end_char="1091" id="token-10-12" morph="none" pos="word" start_char="1089">una</TOKEN>
+<TOKEN end_char="1097" id="token-10-13" morph="none" pos="word" start_char="1093">mayor</TOKEN>
+<TOKEN end_char="1110" id="token-10-14" morph="none" pos="word" start_char="1099">probabilidad</TOKEN>
+<TOKEN end_char="1113" id="token-10-15" morph="none" pos="word" start_char="1112">de</TOKEN>
+<TOKEN end_char="1127" id="token-10-16" morph="none" pos="word" start_char="1115">supervivencia</TOKEN>
+<TOKEN end_char="1135" id="token-10-17" morph="none" pos="word" start_char="1129">durante</TOKEN>
+<TOKEN end_char="1138" id="token-10-18" morph="none" pos="word" start_char="1137">la</TOKEN>
+<TOKEN end_char="1149" id="token-10-19" morph="none" pos="word" start_char="1140">enfermedad</TOKEN>
+<TOKEN end_char="1158" id="token-10-20" morph="none" pos="unknown" start_char="1151">Covid-19</TOKEN>
+<TOKEN end_char="1159" id="token-10-21" morph="none" pos="punct" start_char="1159">,</TOKEN>
+<TOKEN end_char="1178" id="token-10-22" morph="none" pos="word" start_char="1161">independientemente</TOKEN>
+<TOKEN end_char="1182" id="token-10-23" morph="none" pos="word" start_char="1180">del</TOKEN>
+<TOKEN end_char="1186" id="token-10-24" morph="none" pos="word" start_char="1184">uso</TOKEN>
+<TOKEN end_char="1190" id="token-10-25" morph="none" pos="word" start_char="1188">con</TOKEN>
+<TOKEN end_char="1192" id="token-10-26" morph="none" pos="word" start_char="1192">o</TOKEN>
+<TOKEN end_char="1195" id="token-10-27" morph="none" pos="word" start_char="1194">en</TOKEN>
+<TOKEN end_char="1205" id="token-10-28" morph="none" pos="word" start_char="1197">presencia</TOKEN>
+<TOKEN end_char="1208" id="token-10-29" morph="none" pos="word" start_char="1207">de</TOKEN>
+<TOKEN end_char="1220" id="token-10-30" morph="none" pos="word" start_char="1210">ventilación</TOKEN>
+<TOKEN end_char="1229" id="token-10-31" morph="none" pos="word" start_char="1222">mecánica</TOKEN>
+<TOKEN end_char="1231" id="token-10-32" morph="none" pos="punct" start_char="1230">".</TOKEN>
+<TRANSLATED_TEXT>According to researchers, the use of ivermectin "is associated with a higher probability of survival during Covid-19 disease, regardless of use with or in the presence of mechanical ventilation."</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1379" id="segment-11" start_char="1234">
+<ORIGINAL_TEXT>Con estos resultados, los expertos ha manifestado que "ahora se puede añadir invermectina a la lista de tratamientos candidatos para el Covid-19".</ORIGINAL_TEXT>
+<TOKEN end_char="1236" id="token-11-0" morph="none" pos="word" start_char="1234">Con</TOKEN>
+<TOKEN end_char="1242" id="token-11-1" morph="none" pos="word" start_char="1238">estos</TOKEN>
+<TOKEN end_char="1253" id="token-11-2" morph="none" pos="word" start_char="1244">resultados</TOKEN>
+<TOKEN end_char="1254" id="token-11-3" morph="none" pos="punct" start_char="1254">,</TOKEN>
+<TOKEN end_char="1258" id="token-11-4" morph="none" pos="word" start_char="1256">los</TOKEN>
+<TOKEN end_char="1267" id="token-11-5" morph="none" pos="word" start_char="1260">expertos</TOKEN>
+<TOKEN end_char="1270" id="token-11-6" morph="none" pos="word" start_char="1269">ha</TOKEN>
+<TOKEN end_char="1282" id="token-11-7" morph="none" pos="word" start_char="1272">manifestado</TOKEN>
+<TOKEN end_char="1286" id="token-11-8" morph="none" pos="word" start_char="1284">que</TOKEN>
+<TOKEN end_char="1288" id="token-11-9" morph="none" pos="punct" start_char="1288">"</TOKEN>
+<TOKEN end_char="1293" id="token-11-10" morph="none" pos="word" start_char="1289">ahora</TOKEN>
+<TOKEN end_char="1296" id="token-11-11" morph="none" pos="word" start_char="1295">se</TOKEN>
+<TOKEN end_char="1302" id="token-11-12" morph="none" pos="word" start_char="1298">puede</TOKEN>
+<TOKEN end_char="1309" id="token-11-13" morph="none" pos="word" start_char="1304">añadir</TOKEN>
+<TOKEN end_char="1322" id="token-11-14" morph="none" pos="word" start_char="1311">invermectina</TOKEN>
+<TOKEN end_char="1324" id="token-11-15" morph="none" pos="word" start_char="1324">a</TOKEN>
+<TOKEN end_char="1327" id="token-11-16" morph="none" pos="word" start_char="1326">la</TOKEN>
+<TOKEN end_char="1333" id="token-11-17" morph="none" pos="word" start_char="1329">lista</TOKEN>
+<TOKEN end_char="1336" id="token-11-18" morph="none" pos="word" start_char="1335">de</TOKEN>
+<TOKEN end_char="1349" id="token-11-19" morph="none" pos="word" start_char="1338">tratamientos</TOKEN>
+<TOKEN end_char="1360" id="token-11-20" morph="none" pos="word" start_char="1351">candidatos</TOKEN>
+<TOKEN end_char="1365" id="token-11-21" morph="none" pos="word" start_char="1362">para</TOKEN>
+<TOKEN end_char="1368" id="token-11-22" morph="none" pos="word" start_char="1367">el</TOKEN>
+<TOKEN end_char="1377" id="token-11-23" morph="none" pos="unknown" start_char="1370">Covid-19</TOKEN>
+<TOKEN end_char="1379" id="token-11-24" morph="none" pos="punct" start_char="1378">".</TOKEN>
+<TRANSLATED_TEXT>With these results, experts have stated that "Invermectin can now be added to the list of candidate treatments for Covid-19."</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1534" id="segment-12" start_char="1381">
+<ORIGINAL_TEXT>Se trata de un fármaco inicialmente sintetizado y utilizado como antihelmíntico, "del que se ha observado que tiene propiedades terapéuticas más amplias".</ORIGINAL_TEXT>
+<TOKEN end_char="1382" id="token-12-0" morph="none" pos="word" start_char="1381">Se</TOKEN>
+<TOKEN end_char="1388" id="token-12-1" morph="none" pos="word" start_char="1384">trata</TOKEN>
+<TOKEN end_char="1391" id="token-12-2" morph="none" pos="word" start_char="1390">de</TOKEN>
+<TOKEN end_char="1394" id="token-12-3" morph="none" pos="word" start_char="1393">un</TOKEN>
+<TOKEN end_char="1402" id="token-12-4" morph="none" pos="word" start_char="1396">fármaco</TOKEN>
+<TOKEN end_char="1415" id="token-12-5" morph="none" pos="word" start_char="1404">inicialmente</TOKEN>
+<TOKEN end_char="1427" id="token-12-6" morph="none" pos="word" start_char="1417">sintetizado</TOKEN>
+<TOKEN end_char="1429" id="token-12-7" morph="none" pos="word" start_char="1429">y</TOKEN>
+<TOKEN end_char="1439" id="token-12-8" morph="none" pos="word" start_char="1431">utilizado</TOKEN>
+<TOKEN end_char="1444" id="token-12-9" morph="none" pos="word" start_char="1441">como</TOKEN>
+<TOKEN end_char="1459" id="token-12-10" morph="none" pos="word" start_char="1446">antihelmíntico</TOKEN>
+<TOKEN end_char="1460" id="token-12-11" morph="none" pos="punct" start_char="1460">,</TOKEN>
+<TOKEN end_char="1462" id="token-12-12" morph="none" pos="punct" start_char="1462">"</TOKEN>
+<TOKEN end_char="1465" id="token-12-13" morph="none" pos="word" start_char="1463">del</TOKEN>
+<TOKEN end_char="1469" id="token-12-14" morph="none" pos="word" start_char="1467">que</TOKEN>
+<TOKEN end_char="1472" id="token-12-15" morph="none" pos="word" start_char="1471">se</TOKEN>
+<TOKEN end_char="1475" id="token-12-16" morph="none" pos="word" start_char="1474">ha</TOKEN>
+<TOKEN end_char="1485" id="token-12-17" morph="none" pos="word" start_char="1477">observado</TOKEN>
+<TOKEN end_char="1489" id="token-12-18" morph="none" pos="word" start_char="1487">que</TOKEN>
+<TOKEN end_char="1495" id="token-12-19" morph="none" pos="word" start_char="1491">tiene</TOKEN>
+<TOKEN end_char="1507" id="token-12-20" morph="none" pos="word" start_char="1497">propiedades</TOKEN>
+<TOKEN end_char="1520" id="token-12-21" morph="none" pos="word" start_char="1509">terapéuticas</TOKEN>
+<TOKEN end_char="1524" id="token-12-22" morph="none" pos="word" start_char="1522">más</TOKEN>
+<TOKEN end_char="1532" id="token-12-23" morph="none" pos="word" start_char="1526">amplias</TOKEN>
+<TOKEN end_char="1534" id="token-12-24" morph="none" pos="punct" start_char="1533">".</TOKEN>
+<TRANSLATED_TEXT>It is a drug initially synthesized and used as an antihelminthic, "of which it has been observed to have broader therapeutic properties."</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1720" id="segment-13" start_char="1538">
+<ORIGINAL_TEXT>Magnifica noticia, es un medicamento muy probado y tiene pocos efectos secundarios, si no recuerdo mal lo descubrió un científico japonés y ganó el premio Nobel por su descubrimiento.</ORIGINAL_TEXT>
+<TOKEN end_char="1546" id="token-13-0" morph="none" pos="word" start_char="1538">Magnifica</TOKEN>
+<TOKEN end_char="1554" id="token-13-1" morph="none" pos="word" start_char="1548">noticia</TOKEN>
+<TOKEN end_char="1555" id="token-13-2" morph="none" pos="punct" start_char="1555">,</TOKEN>
+<TOKEN end_char="1558" id="token-13-3" morph="none" pos="word" start_char="1557">es</TOKEN>
+<TOKEN end_char="1561" id="token-13-4" morph="none" pos="word" start_char="1560">un</TOKEN>
+<TOKEN end_char="1573" id="token-13-5" morph="none" pos="word" start_char="1563">medicamento</TOKEN>
+<TOKEN end_char="1577" id="token-13-6" morph="none" pos="word" start_char="1575">muy</TOKEN>
+<TOKEN end_char="1585" id="token-13-7" morph="none" pos="word" start_char="1579">probado</TOKEN>
+<TOKEN end_char="1587" id="token-13-8" morph="none" pos="word" start_char="1587">y</TOKEN>
+<TOKEN end_char="1593" id="token-13-9" morph="none" pos="word" start_char="1589">tiene</TOKEN>
+<TOKEN end_char="1599" id="token-13-10" morph="none" pos="word" start_char="1595">pocos</TOKEN>
+<TOKEN end_char="1607" id="token-13-11" morph="none" pos="word" start_char="1601">efectos</TOKEN>
+<TOKEN end_char="1619" id="token-13-12" morph="none" pos="word" start_char="1609">secundarios</TOKEN>
+<TOKEN end_char="1620" id="token-13-13" morph="none" pos="punct" start_char="1620">,</TOKEN>
+<TOKEN end_char="1623" id="token-13-14" morph="none" pos="word" start_char="1622">si</TOKEN>
+<TOKEN end_char="1626" id="token-13-15" morph="none" pos="word" start_char="1625">no</TOKEN>
+<TOKEN end_char="1635" id="token-13-16" morph="none" pos="word" start_char="1628">recuerdo</TOKEN>
+<TOKEN end_char="1639" id="token-13-17" morph="none" pos="word" start_char="1637">mal</TOKEN>
+<TOKEN end_char="1642" id="token-13-18" morph="none" pos="word" start_char="1641">lo</TOKEN>
+<TOKEN end_char="1652" id="token-13-19" morph="none" pos="word" start_char="1644">descubrió</TOKEN>
+<TOKEN end_char="1655" id="token-13-20" morph="none" pos="word" start_char="1654">un</TOKEN>
+<TOKEN end_char="1666" id="token-13-21" morph="none" pos="word" start_char="1657">científico</TOKEN>
+<TOKEN end_char="1674" id="token-13-22" morph="none" pos="word" start_char="1668">japonés</TOKEN>
+<TOKEN end_char="1676" id="token-13-23" morph="none" pos="word" start_char="1676">y</TOKEN>
+<TOKEN end_char="1681" id="token-13-24" morph="none" pos="word" start_char="1678">ganó</TOKEN>
+<TOKEN end_char="1684" id="token-13-25" morph="none" pos="word" start_char="1683">el</TOKEN>
+<TOKEN end_char="1691" id="token-13-26" morph="none" pos="word" start_char="1686">premio</TOKEN>
+<TOKEN end_char="1697" id="token-13-27" morph="none" pos="word" start_char="1693">Nobel</TOKEN>
+<TOKEN end_char="1701" id="token-13-28" morph="none" pos="word" start_char="1699">por</TOKEN>
+<TOKEN end_char="1704" id="token-13-29" morph="none" pos="word" start_char="1703">su</TOKEN>
+<TOKEN end_char="1719" id="token-13-30" morph="none" pos="word" start_char="1706">descubrimiento</TOKEN>
+<TOKEN end_char="1720" id="token-13-31" morph="none" pos="punct" start_char="1720">.</TOKEN>
+<TRANSLATED_TEXT>Magnificent news, it is a very proven drug and has few side effects, if I don't remember badly discovered by a Japanese scientist and won the Nobel Prize for its discovery.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1819" id="segment-14" start_char="1724">
+<ORIGINAL_TEXT>Apuesto a que cuando ajusten mejor los protocolos de dosis y tal, mejorarán aún más esas cifras.</ORIGINAL_TEXT>
+<TOKEN end_char="1730" id="token-14-0" morph="none" pos="word" start_char="1724">Apuesto</TOKEN>
+<TOKEN end_char="1732" id="token-14-1" morph="none" pos="word" start_char="1732">a</TOKEN>
+<TOKEN end_char="1736" id="token-14-2" morph="none" pos="word" start_char="1734">que</TOKEN>
+<TOKEN end_char="1743" id="token-14-3" morph="none" pos="word" start_char="1738">cuando</TOKEN>
+<TOKEN end_char="1751" id="token-14-4" morph="none" pos="word" start_char="1745">ajusten</TOKEN>
+<TOKEN end_char="1757" id="token-14-5" morph="none" pos="word" start_char="1753">mejor</TOKEN>
+<TOKEN end_char="1761" id="token-14-6" morph="none" pos="word" start_char="1759">los</TOKEN>
+<TOKEN end_char="1772" id="token-14-7" morph="none" pos="word" start_char="1763">protocolos</TOKEN>
+<TOKEN end_char="1775" id="token-14-8" morph="none" pos="word" start_char="1774">de</TOKEN>
+<TOKEN end_char="1781" id="token-14-9" morph="none" pos="word" start_char="1777">dosis</TOKEN>
+<TOKEN end_char="1783" id="token-14-10" morph="none" pos="word" start_char="1783">y</TOKEN>
+<TOKEN end_char="1787" id="token-14-11" morph="none" pos="word" start_char="1785">tal</TOKEN>
+<TOKEN end_char="1788" id="token-14-12" morph="none" pos="punct" start_char="1788">,</TOKEN>
+<TOKEN end_char="1798" id="token-14-13" morph="none" pos="word" start_char="1790">mejorarán</TOKEN>
+<TOKEN end_char="1802" id="token-14-14" morph="none" pos="word" start_char="1800">aún</TOKEN>
+<TOKEN end_char="1806" id="token-14-15" morph="none" pos="word" start_char="1804">más</TOKEN>
+<TOKEN end_char="1811" id="token-14-16" morph="none" pos="word" start_char="1808">esas</TOKEN>
+<TOKEN end_char="1818" id="token-14-17" morph="none" pos="word" start_char="1813">cifras</TOKEN>
+<TOKEN end_char="1819" id="token-14-18" morph="none" pos="punct" start_char="1819">.</TOKEN>
+<TRANSLATED_TEXT>I bet that when dose protocols and so on are better adjusted, these figures will be further improved.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2011" id="segment-15" start_char="1823">
+<ORIGINAL_TEXT>Lo subo, es una noticia muy importante en mi opinión, con una sola dosis el número de virus baja muchísimo... Y es un medicamento con muchos menos efectos secundarios que las cloroquinas...</ORIGINAL_TEXT>
+<TOKEN end_char="1824" id="token-15-0" morph="none" pos="word" start_char="1823">Lo</TOKEN>
+<TOKEN end_char="1829" id="token-15-1" morph="none" pos="word" start_char="1826">subo</TOKEN>
+<TOKEN end_char="1830" id="token-15-2" morph="none" pos="punct" start_char="1830">,</TOKEN>
+<TOKEN end_char="1833" id="token-15-3" morph="none" pos="word" start_char="1832">es</TOKEN>
+<TOKEN end_char="1837" id="token-15-4" morph="none" pos="word" start_char="1835">una</TOKEN>
+<TOKEN end_char="1845" id="token-15-5" morph="none" pos="word" start_char="1839">noticia</TOKEN>
+<TOKEN end_char="1849" id="token-15-6" morph="none" pos="word" start_char="1847">muy</TOKEN>
+<TOKEN end_char="1860" id="token-15-7" morph="none" pos="word" start_char="1851">importante</TOKEN>
+<TOKEN end_char="1863" id="token-15-8" morph="none" pos="word" start_char="1862">en</TOKEN>
+<TOKEN end_char="1866" id="token-15-9" morph="none" pos="word" start_char="1865">mi</TOKEN>
+<TOKEN end_char="1874" id="token-15-10" morph="none" pos="word" start_char="1868">opinión</TOKEN>
+<TOKEN end_char="1875" id="token-15-11" morph="none" pos="punct" start_char="1875">,</TOKEN>
+<TOKEN end_char="1879" id="token-15-12" morph="none" pos="word" start_char="1877">con</TOKEN>
+<TOKEN end_char="1883" id="token-15-13" morph="none" pos="word" start_char="1881">una</TOKEN>
+<TOKEN end_char="1888" id="token-15-14" morph="none" pos="word" start_char="1885">sola</TOKEN>
+<TOKEN end_char="1894" id="token-15-15" morph="none" pos="word" start_char="1890">dosis</TOKEN>
+<TOKEN end_char="1897" id="token-15-16" morph="none" pos="word" start_char="1896">el</TOKEN>
+<TOKEN end_char="1904" id="token-15-17" morph="none" pos="word" start_char="1899">número</TOKEN>
+<TOKEN end_char="1907" id="token-15-18" morph="none" pos="word" start_char="1906">de</TOKEN>
+<TOKEN end_char="1913" id="token-15-19" morph="none" pos="word" start_char="1909">virus</TOKEN>
+<TOKEN end_char="1918" id="token-15-20" morph="none" pos="word" start_char="1915">baja</TOKEN>
+<TOKEN end_char="1928" id="token-15-21" morph="none" pos="word" start_char="1920">muchísimo</TOKEN>
+<TOKEN end_char="1931" id="token-15-22" morph="none" pos="punct" start_char="1929">...</TOKEN>
+<TOKEN end_char="1933" id="token-15-23" morph="none" pos="word" start_char="1933">Y</TOKEN>
+<TOKEN end_char="1936" id="token-15-24" morph="none" pos="word" start_char="1935">es</TOKEN>
+<TOKEN end_char="1939" id="token-15-25" morph="none" pos="word" start_char="1938">un</TOKEN>
+<TOKEN end_char="1951" id="token-15-26" morph="none" pos="word" start_char="1941">medicamento</TOKEN>
+<TOKEN end_char="1955" id="token-15-27" morph="none" pos="word" start_char="1953">con</TOKEN>
+<TOKEN end_char="1962" id="token-15-28" morph="none" pos="word" start_char="1957">muchos</TOKEN>
+<TOKEN end_char="1968" id="token-15-29" morph="none" pos="word" start_char="1964">menos</TOKEN>
+<TOKEN end_char="1976" id="token-15-30" morph="none" pos="word" start_char="1970">efectos</TOKEN>
+<TOKEN end_char="1988" id="token-15-31" morph="none" pos="word" start_char="1978">secundarios</TOKEN>
+<TOKEN end_char="1992" id="token-15-32" morph="none" pos="word" start_char="1990">que</TOKEN>
+<TOKEN end_char="1996" id="token-15-33" morph="none" pos="word" start_char="1994">las</TOKEN>
+<TOKEN end_char="2008" id="token-15-34" morph="none" pos="word" start_char="1998">cloroquinas</TOKEN>
+<TOKEN end_char="2011" id="token-15-35" morph="none" pos="punct" start_char="2009">...</TOKEN>
+<TRANSLATED_TEXT>I submit, it is very important news in my opinion, with a single dose the number of viruses is very low... And it is a drug with far fewer side effects than chloroquines...</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2071" id="segment-16" start_char="2015">
+<ORIGINAL_TEXT>¿Con eso caerían las cifras por debajo de la gripe común?</ORIGINAL_TEXT>
+<TOKEN end_char="2015" id="token-16-0" morph="none" pos="punct" start_char="2015">¿</TOKEN>
+<TOKEN end_char="2018" id="token-16-1" morph="none" pos="word" start_char="2016">Con</TOKEN>
+<TOKEN end_char="2022" id="token-16-2" morph="none" pos="word" start_char="2020">eso</TOKEN>
+<TOKEN end_char="2030" id="token-16-3" morph="none" pos="word" start_char="2024">caerían</TOKEN>
+<TOKEN end_char="2034" id="token-16-4" morph="none" pos="word" start_char="2032">las</TOKEN>
+<TOKEN end_char="2041" id="token-16-5" morph="none" pos="word" start_char="2036">cifras</TOKEN>
+<TOKEN end_char="2045" id="token-16-6" morph="none" pos="word" start_char="2043">por</TOKEN>
+<TOKEN end_char="2052" id="token-16-7" morph="none" pos="word" start_char="2047">debajo</TOKEN>
+<TOKEN end_char="2055" id="token-16-8" morph="none" pos="word" start_char="2054">de</TOKEN>
+<TOKEN end_char="2058" id="token-16-9" morph="none" pos="word" start_char="2057">la</TOKEN>
+<TOKEN end_char="2064" id="token-16-10" morph="none" pos="word" start_char="2060">gripe</TOKEN>
+<TOKEN end_char="2070" id="token-16-11" morph="none" pos="word" start_char="2066">común</TOKEN>
+<TOKEN end_char="2071" id="token-16-12" morph="none" pos="punct" start_char="2071">?</TOKEN>
+<TRANSLATED_TEXT>Would that put the numbers below the common flu?</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2246" id="segment-17" start_char="2074">
+<ORIGINAL_TEXT>Bueno para abuelos por encima y para jóvenes por debajo, salvo que uses mascarilla que puedes morir como los niños chinos que la usaban mientras corrían en Educación Física.</ORIGINAL_TEXT>
+<TOKEN end_char="2078" id="token-17-0" morph="none" pos="word" start_char="2074">Bueno</TOKEN>
+<TOKEN end_char="2083" id="token-17-1" morph="none" pos="word" start_char="2080">para</TOKEN>
+<TOKEN end_char="2091" id="token-17-2" morph="none" pos="word" start_char="2085">abuelos</TOKEN>
+<TOKEN end_char="2095" id="token-17-3" morph="none" pos="word" start_char="2093">por</TOKEN>
+<TOKEN end_char="2102" id="token-17-4" morph="none" pos="word" start_char="2097">encima</TOKEN>
+<TOKEN end_char="2104" id="token-17-5" morph="none" pos="word" start_char="2104">y</TOKEN>
+<TOKEN end_char="2109" id="token-17-6" morph="none" pos="word" start_char="2106">para</TOKEN>
+<TOKEN end_char="2117" id="token-17-7" morph="none" pos="word" start_char="2111">jóvenes</TOKEN>
+<TOKEN end_char="2121" id="token-17-8" morph="none" pos="word" start_char="2119">por</TOKEN>
+<TOKEN end_char="2128" id="token-17-9" morph="none" pos="word" start_char="2123">debajo</TOKEN>
+<TOKEN end_char="2129" id="token-17-10" morph="none" pos="punct" start_char="2129">,</TOKEN>
+<TOKEN end_char="2135" id="token-17-11" morph="none" pos="word" start_char="2131">salvo</TOKEN>
+<TOKEN end_char="2139" id="token-17-12" morph="none" pos="word" start_char="2137">que</TOKEN>
+<TOKEN end_char="2144" id="token-17-13" morph="none" pos="word" start_char="2141">uses</TOKEN>
+<TOKEN end_char="2155" id="token-17-14" morph="none" pos="word" start_char="2146">mascarilla</TOKEN>
+<TOKEN end_char="2159" id="token-17-15" morph="none" pos="word" start_char="2157">que</TOKEN>
+<TOKEN end_char="2166" id="token-17-16" morph="none" pos="word" start_char="2161">puedes</TOKEN>
+<TOKEN end_char="2172" id="token-17-17" morph="none" pos="word" start_char="2168">morir</TOKEN>
+<TOKEN end_char="2177" id="token-17-18" morph="none" pos="word" start_char="2174">como</TOKEN>
+<TOKEN end_char="2181" id="token-17-19" morph="none" pos="word" start_char="2179">los</TOKEN>
+<TOKEN end_char="2187" id="token-17-20" morph="none" pos="word" start_char="2183">niños</TOKEN>
+<TOKEN end_char="2194" id="token-17-21" morph="none" pos="word" start_char="2189">chinos</TOKEN>
+<TOKEN end_char="2198" id="token-17-22" morph="none" pos="word" start_char="2196">que</TOKEN>
+<TOKEN end_char="2201" id="token-17-23" morph="none" pos="word" start_char="2200">la</TOKEN>
+<TOKEN end_char="2208" id="token-17-24" morph="none" pos="word" start_char="2203">usaban</TOKEN>
+<TOKEN end_char="2217" id="token-17-25" morph="none" pos="word" start_char="2210">mientras</TOKEN>
+<TOKEN end_char="2225" id="token-17-26" morph="none" pos="word" start_char="2219">corrían</TOKEN>
+<TOKEN end_char="2228" id="token-17-27" morph="none" pos="word" start_char="2227">en</TOKEN>
+<TOKEN end_char="2238" id="token-17-28" morph="none" pos="word" start_char="2230">Educación</TOKEN>
+<TOKEN end_char="2245" id="token-17-29" morph="none" pos="word" start_char="2240">Física</TOKEN>
+<TOKEN end_char="2246" id="token-17-30" morph="none" pos="punct" start_char="2246">.</TOKEN>
+<TRANSLATED_TEXT>Good for grandparents above and young people below, except you use a mask that you can die like the Chinese kids who used it while they were running in Physical Education.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2284" id="segment-18" start_char="2250">
+<ORIGINAL_TEXT>Tiene buena pinta, ojalá sea verdad</ORIGINAL_TEXT>
+<TOKEN end_char="2254" id="token-18-0" morph="none" pos="word" start_char="2250">Tiene</TOKEN>
+<TOKEN end_char="2260" id="token-18-1" morph="none" pos="word" start_char="2256">buena</TOKEN>
+<TOKEN end_char="2266" id="token-18-2" morph="none" pos="word" start_char="2262">pinta</TOKEN>
+<TOKEN end_char="2267" id="token-18-3" morph="none" pos="punct" start_char="2267">,</TOKEN>
+<TOKEN end_char="2273" id="token-18-4" morph="none" pos="word" start_char="2269">ojalá</TOKEN>
+<TOKEN end_char="2277" id="token-18-5" morph="none" pos="word" start_char="2275">sea</TOKEN>
+<TOKEN end_char="2284" id="token-18-6" morph="none" pos="word" start_char="2279">verdad</TOKEN>
+<TRANSLATED_TEXT>It looks good, I hope it's true.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2388" id="segment-19" start_char="2288">
+<ORIGINAL_TEXT>Joder estaban diciendo que esta enfermedad es parasitaria, y sabéis para que se usa la invermectina ?</ORIGINAL_TEXT>
+<TOKEN end_char="2292" id="token-19-0" morph="none" pos="word" start_char="2288">Joder</TOKEN>
+<TOKEN end_char="2300" id="token-19-1" morph="none" pos="word" start_char="2294">estaban</TOKEN>
+<TOKEN end_char="2309" id="token-19-2" morph="none" pos="word" start_char="2302">diciendo</TOKEN>
+<TOKEN end_char="2313" id="token-19-3" morph="none" pos="word" start_char="2311">que</TOKEN>
+<TOKEN end_char="2318" id="token-19-4" morph="none" pos="word" start_char="2315">esta</TOKEN>
+<TOKEN end_char="2329" id="token-19-5" morph="none" pos="word" start_char="2320">enfermedad</TOKEN>
+<TOKEN end_char="2332" id="token-19-6" morph="none" pos="word" start_char="2331">es</TOKEN>
+<TOKEN end_char="2344" id="token-19-7" morph="none" pos="word" start_char="2334">parasitaria</TOKEN>
+<TOKEN end_char="2345" id="token-19-8" morph="none" pos="punct" start_char="2345">,</TOKEN>
+<TOKEN end_char="2347" id="token-19-9" morph="none" pos="word" start_char="2347">y</TOKEN>
+<TOKEN end_char="2354" id="token-19-10" morph="none" pos="word" start_char="2349">sabéis</TOKEN>
+<TOKEN end_char="2359" id="token-19-11" morph="none" pos="word" start_char="2356">para</TOKEN>
+<TOKEN end_char="2363" id="token-19-12" morph="none" pos="word" start_char="2361">que</TOKEN>
+<TOKEN end_char="2366" id="token-19-13" morph="none" pos="word" start_char="2365">se</TOKEN>
+<TOKEN end_char="2370" id="token-19-14" morph="none" pos="word" start_char="2368">usa</TOKEN>
+<TOKEN end_char="2373" id="token-19-15" morph="none" pos="word" start_char="2372">la</TOKEN>
+<TOKEN end_char="2386" id="token-19-16" morph="none" pos="word" start_char="2375">invermectina</TOKEN>
+<TOKEN end_char="2388" id="token-19-17" morph="none" pos="punct" start_char="2388">?</TOKEN>
+<TRANSLATED_TEXT>They were fucking saying this disease is parasitic, and you know how to use Invermectin?</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2431" id="segment-20" start_char="2390">
+<ORIGINAL_TEXT>Es un antiparasitario para los animales!!!</ORIGINAL_TEXT>
+<TOKEN end_char="2391" id="token-20-0" morph="none" pos="word" start_char="2390">Es</TOKEN>
+<TOKEN end_char="2394" id="token-20-1" morph="none" pos="word" start_char="2393">un</TOKEN>
+<TOKEN end_char="2410" id="token-20-2" morph="none" pos="word" start_char="2396">antiparasitario</TOKEN>
+<TOKEN end_char="2415" id="token-20-3" morph="none" pos="word" start_char="2412">para</TOKEN>
+<TOKEN end_char="2419" id="token-20-4" morph="none" pos="word" start_char="2417">los</TOKEN>
+<TOKEN end_char="2428" id="token-20-5" morph="none" pos="word" start_char="2421">animales</TOKEN>
+<TOKEN end_char="2431" id="token-20-6" morph="none" pos="punct" start_char="2429">!!!</TOKEN>
+<TRANSLATED_TEXT>It is an antiparasitic for animals!!!</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2539" id="segment-21" start_char="2435">
+<ORIGINAL_TEXT>En Japón la universidad del premio nobel que descubrió la invermectina está a punto de lanzar un estudio.</ORIGINAL_TEXT>
+<TOKEN end_char="2436" id="token-21-0" morph="none" pos="word" start_char="2435">En</TOKEN>
+<TOKEN end_char="2442" id="token-21-1" morph="none" pos="word" start_char="2438">Japón</TOKEN>
+<TOKEN end_char="2445" id="token-21-2" morph="none" pos="word" start_char="2444">la</TOKEN>
+<TOKEN end_char="2457" id="token-21-3" morph="none" pos="word" start_char="2447">universidad</TOKEN>
+<TOKEN end_char="2461" id="token-21-4" morph="none" pos="word" start_char="2459">del</TOKEN>
+<TOKEN end_char="2468" id="token-21-5" morph="none" pos="word" start_char="2463">premio</TOKEN>
+<TOKEN end_char="2474" id="token-21-6" morph="none" pos="word" start_char="2470">nobel</TOKEN>
+<TOKEN end_char="2478" id="token-21-7" morph="none" pos="word" start_char="2476">que</TOKEN>
+<TOKEN end_char="2488" id="token-21-8" morph="none" pos="word" start_char="2480">descubrió</TOKEN>
+<TOKEN end_char="2491" id="token-21-9" morph="none" pos="word" start_char="2490">la</TOKEN>
+<TOKEN end_char="2504" id="token-21-10" morph="none" pos="word" start_char="2493">invermectina</TOKEN>
+<TOKEN end_char="2509" id="token-21-11" morph="none" pos="word" start_char="2506">está</TOKEN>
+<TOKEN end_char="2511" id="token-21-12" morph="none" pos="word" start_char="2511">a</TOKEN>
+<TOKEN end_char="2517" id="token-21-13" morph="none" pos="word" start_char="2513">punto</TOKEN>
+<TOKEN end_char="2520" id="token-21-14" morph="none" pos="word" start_char="2519">de</TOKEN>
+<TOKEN end_char="2527" id="token-21-15" morph="none" pos="word" start_char="2522">lanzar</TOKEN>
+<TOKEN end_char="2530" id="token-21-16" morph="none" pos="word" start_char="2529">un</TOKEN>
+<TOKEN end_char="2538" id="token-21-17" morph="none" pos="word" start_char="2532">estudio</TOKEN>
+<TOKEN end_char="2539" id="token-21-18" morph="none" pos="punct" start_char="2539">.</TOKEN>
+<TRANSLATED_TEXT>In Japan, the Nobel Prize-winning university that discovered invermectin is about to launch a study.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2586" id="segment-22" start_char="2541">
+<ORIGINAL_TEXT>Otra universidad inglesa va a hacer lo propio.</ORIGINAL_TEXT>
+<TOKEN end_char="2544" id="token-22-0" morph="none" pos="word" start_char="2541">Otra</TOKEN>
+<TOKEN end_char="2556" id="token-22-1" morph="none" pos="word" start_char="2546">universidad</TOKEN>
+<TOKEN end_char="2564" id="token-22-2" morph="none" pos="word" start_char="2558">inglesa</TOKEN>
+<TOKEN end_char="2567" id="token-22-3" morph="none" pos="word" start_char="2566">va</TOKEN>
+<TOKEN end_char="2569" id="token-22-4" morph="none" pos="word" start_char="2569">a</TOKEN>
+<TOKEN end_char="2575" id="token-22-5" morph="none" pos="word" start_char="2571">hacer</TOKEN>
+<TOKEN end_char="2578" id="token-22-6" morph="none" pos="word" start_char="2577">lo</TOKEN>
+<TOKEN end_char="2585" id="token-22-7" morph="none" pos="word" start_char="2580">propio</TOKEN>
+<TOKEN end_char="2586" id="token-22-8" morph="none" pos="punct" start_char="2586">.</TOKEN>
+<TRANSLATED_TEXT>Another English university is going to do the same.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2661" id="segment-23" start_char="2589">
+<ORIGINAL_TEXT>Con dos o tres estudios que confirmen esto se va a empezar a usar a saco.</ORIGINAL_TEXT>
+<TOKEN end_char="2591" id="token-23-0" morph="none" pos="word" start_char="2589">Con</TOKEN>
+<TOKEN end_char="2595" id="token-23-1" morph="none" pos="word" start_char="2593">dos</TOKEN>
+<TOKEN end_char="2597" id="token-23-2" morph="none" pos="word" start_char="2597">o</TOKEN>
+<TOKEN end_char="2602" id="token-23-3" morph="none" pos="word" start_char="2599">tres</TOKEN>
+<TOKEN end_char="2611" id="token-23-4" morph="none" pos="word" start_char="2604">estudios</TOKEN>
+<TOKEN end_char="2615" id="token-23-5" morph="none" pos="word" start_char="2613">que</TOKEN>
+<TOKEN end_char="2625" id="token-23-6" morph="none" pos="word" start_char="2617">confirmen</TOKEN>
+<TOKEN end_char="2630" id="token-23-7" morph="none" pos="word" start_char="2627">esto</TOKEN>
+<TOKEN end_char="2633" id="token-23-8" morph="none" pos="word" start_char="2632">se</TOKEN>
+<TOKEN end_char="2636" id="token-23-9" morph="none" pos="word" start_char="2635">va</TOKEN>
+<TOKEN end_char="2638" id="token-23-10" morph="none" pos="word" start_char="2638">a</TOKEN>
+<TOKEN end_char="2646" id="token-23-11" morph="none" pos="word" start_char="2640">empezar</TOKEN>
+<TOKEN end_char="2648" id="token-23-12" morph="none" pos="word" start_char="2648">a</TOKEN>
+<TOKEN end_char="2653" id="token-23-13" morph="none" pos="word" start_char="2650">usar</TOKEN>
+<TOKEN end_char="2655" id="token-23-14" morph="none" pos="word" start_char="2655">a</TOKEN>
+<TOKEN end_char="2660" id="token-23-15" morph="none" pos="word" start_char="2657">saco</TOKEN>
+<TOKEN end_char="2661" id="token-23-16" morph="none" pos="punct" start_char="2661">.</TOKEN>
+<TRANSLATED_TEXT>With two or three studies confirming this, the bag will start to be used.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2730" id="segment-24" start_char="2663">
+<ORIGINAL_TEXT>Tiene que haber suertecilla, no podemos echar las campanas al vuelo.</ORIGINAL_TEXT>
+<TOKEN end_char="2667" id="token-24-0" morph="none" pos="word" start_char="2663">Tiene</TOKEN>
+<TOKEN end_char="2671" id="token-24-1" morph="none" pos="word" start_char="2669">que</TOKEN>
+<TOKEN end_char="2677" id="token-24-2" morph="none" pos="word" start_char="2673">haber</TOKEN>
+<TOKEN end_char="2689" id="token-24-3" morph="none" pos="word" start_char="2679">suertecilla</TOKEN>
+<TOKEN end_char="2690" id="token-24-4" morph="none" pos="punct" start_char="2690">,</TOKEN>
+<TOKEN end_char="2693" id="token-24-5" morph="none" pos="word" start_char="2692">no</TOKEN>
+<TOKEN end_char="2701" id="token-24-6" morph="none" pos="word" start_char="2695">podemos</TOKEN>
+<TOKEN end_char="2707" id="token-24-7" morph="none" pos="word" start_char="2703">echar</TOKEN>
+<TOKEN end_char="2711" id="token-24-8" morph="none" pos="word" start_char="2709">las</TOKEN>
+<TOKEN end_char="2720" id="token-24-9" morph="none" pos="word" start_char="2713">campanas</TOKEN>
+<TOKEN end_char="2723" id="token-24-10" morph="none" pos="word" start_char="2722">al</TOKEN>
+<TOKEN end_char="2729" id="token-24-11" morph="none" pos="word" start_char="2725">vuelo</TOKEN>
+<TOKEN end_char="2730" id="token-24-12" morph="none" pos="punct" start_char="2730">.</TOKEN>
+<TRANSLATED_TEXT>There's got to be a bell. We can't put the bells on the flight.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2816" id="segment-25" start_char="2732">
+<ORIGINAL_TEXT>Habría que ver que stock del producto hay disponible y cuanto se tarda en fabricarlo.</ORIGINAL_TEXT>
+<TOKEN end_char="2737" id="token-25-0" morph="none" pos="word" start_char="2732">Habría</TOKEN>
+<TOKEN end_char="2741" id="token-25-1" morph="none" pos="word" start_char="2739">que</TOKEN>
+<TOKEN end_char="2745" id="token-25-2" morph="none" pos="word" start_char="2743">ver</TOKEN>
+<TOKEN end_char="2749" id="token-25-3" morph="none" pos="word" start_char="2747">que</TOKEN>
+<TOKEN end_char="2755" id="token-25-4" morph="none" pos="word" start_char="2751">stock</TOKEN>
+<TOKEN end_char="2759" id="token-25-5" morph="none" pos="word" start_char="2757">del</TOKEN>
+<TOKEN end_char="2768" id="token-25-6" morph="none" pos="word" start_char="2761">producto</TOKEN>
+<TOKEN end_char="2772" id="token-25-7" morph="none" pos="word" start_char="2770">hay</TOKEN>
+<TOKEN end_char="2783" id="token-25-8" morph="none" pos="word" start_char="2774">disponible</TOKEN>
+<TOKEN end_char="2785" id="token-25-9" morph="none" pos="word" start_char="2785">y</TOKEN>
+<TOKEN end_char="2792" id="token-25-10" morph="none" pos="word" start_char="2787">cuanto</TOKEN>
+<TOKEN end_char="2795" id="token-25-11" morph="none" pos="word" start_char="2794">se</TOKEN>
+<TOKEN end_char="2801" id="token-25-12" morph="none" pos="word" start_char="2797">tarda</TOKEN>
+<TOKEN end_char="2804" id="token-25-13" morph="none" pos="word" start_char="2803">en</TOKEN>
+<TOKEN end_char="2815" id="token-25-14" morph="none" pos="word" start_char="2806">fabricarlo</TOKEN>
+<TOKEN end_char="2816" id="token-25-15" morph="none" pos="punct" start_char="2816">.</TOKEN>
+<TRANSLATED_TEXT>We would have to see what stock of the product is available and how long it takes to make it.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2869" id="segment-26" start_char="2818">
+<ORIGINAL_TEXT>En Agosto podríamos estar en la playa tan ricamente.</ORIGINAL_TEXT>
+<TOKEN end_char="2819" id="token-26-0" morph="none" pos="word" start_char="2818">En</TOKEN>
+<TOKEN end_char="2826" id="token-26-1" morph="none" pos="word" start_char="2821">Agosto</TOKEN>
+<TOKEN end_char="2836" id="token-26-2" morph="none" pos="word" start_char="2828">podríamos</TOKEN>
+<TOKEN end_char="2842" id="token-26-3" morph="none" pos="word" start_char="2838">estar</TOKEN>
+<TOKEN end_char="2845" id="token-26-4" morph="none" pos="word" start_char="2844">en</TOKEN>
+<TOKEN end_char="2848" id="token-26-5" morph="none" pos="word" start_char="2847">la</TOKEN>
+<TOKEN end_char="2854" id="token-26-6" morph="none" pos="word" start_char="2850">playa</TOKEN>
+<TOKEN end_char="2858" id="token-26-7" morph="none" pos="word" start_char="2856">tan</TOKEN>
+<TOKEN end_char="2868" id="token-26-8" morph="none" pos="word" start_char="2860">ricamente</TOKEN>
+<TOKEN end_char="2869" id="token-26-9" morph="none" pos="punct" start_char="2869">.</TOKEN>
+<TRANSLATED_TEXT>In August we could be on the beach so richly.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2929" id="segment-27" start_char="2873">
+<ORIGINAL_TEXT>¿La invermectina qué es, meter pasta en bolsa y palmarla?</ORIGINAL_TEXT>
+<TOKEN end_char="2873" id="token-27-0" morph="none" pos="punct" start_char="2873">¿</TOKEN>
+<TOKEN end_char="2875" id="token-27-1" morph="none" pos="word" start_char="2874">La</TOKEN>
+<TOKEN end_char="2888" id="token-27-2" morph="none" pos="word" start_char="2877">invermectina</TOKEN>
+<TOKEN end_char="2892" id="token-27-3" morph="none" pos="word" start_char="2890">qué</TOKEN>
+<TOKEN end_char="2895" id="token-27-4" morph="none" pos="word" start_char="2894">es</TOKEN>
+<TOKEN end_char="2896" id="token-27-5" morph="none" pos="punct" start_char="2896">,</TOKEN>
+<TOKEN end_char="2902" id="token-27-6" morph="none" pos="word" start_char="2898">meter</TOKEN>
+<TOKEN end_char="2908" id="token-27-7" morph="none" pos="word" start_char="2904">pasta</TOKEN>
+<TOKEN end_char="2911" id="token-27-8" morph="none" pos="word" start_char="2910">en</TOKEN>
+<TOKEN end_char="2917" id="token-27-9" morph="none" pos="word" start_char="2913">bolsa</TOKEN>
+<TOKEN end_char="2919" id="token-27-10" morph="none" pos="word" start_char="2919">y</TOKEN>
+<TOKEN end_char="2928" id="token-27-11" morph="none" pos="word" start_char="2921">palmarla</TOKEN>
+<TOKEN end_char="2929" id="token-27-12" morph="none" pos="punct" start_char="2929">?</TOKEN>
+<TRANSLATED_TEXT>What is the inverse, putting pasta in a bag and palmar it?</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="3112" id="segment-28" start_char="2933">
+<ORIGINAL_TEXT>Estamos perdiendo el tiempo con el remdesivir, un medicamento experimental, carísimo, y con inciertos efectos secundarios que solo logra unos beneficios marginales en los enfermos.</ORIGINAL_TEXT>
+<TOKEN end_char="2939" id="token-28-0" morph="none" pos="word" start_char="2933">Estamos</TOKEN>
+<TOKEN end_char="2949" id="token-28-1" morph="none" pos="word" start_char="2941">perdiendo</TOKEN>
+<TOKEN end_char="2952" id="token-28-2" morph="none" pos="word" start_char="2951">el</TOKEN>
+<TOKEN end_char="2959" id="token-28-3" morph="none" pos="word" start_char="2954">tiempo</TOKEN>
+<TOKEN end_char="2963" id="token-28-4" morph="none" pos="word" start_char="2961">con</TOKEN>
+<TOKEN end_char="2966" id="token-28-5" morph="none" pos="word" start_char="2965">el</TOKEN>
+<TOKEN end_char="2977" id="token-28-6" morph="none" pos="word" start_char="2968">remdesivir</TOKEN>
+<TOKEN end_char="2978" id="token-28-7" morph="none" pos="punct" start_char="2978">,</TOKEN>
+<TOKEN end_char="2981" id="token-28-8" morph="none" pos="word" start_char="2980">un</TOKEN>
+<TOKEN end_char="2993" id="token-28-9" morph="none" pos="word" start_char="2983">medicamento</TOKEN>
+<TOKEN end_char="3006" id="token-28-10" morph="none" pos="word" start_char="2995">experimental</TOKEN>
+<TOKEN end_char="3007" id="token-28-11" morph="none" pos="punct" start_char="3007">,</TOKEN>
+<TOKEN end_char="3016" id="token-28-12" morph="none" pos="word" start_char="3009">carísimo</TOKEN>
+<TOKEN end_char="3017" id="token-28-13" morph="none" pos="punct" start_char="3017">,</TOKEN>
+<TOKEN end_char="3019" id="token-28-14" morph="none" pos="word" start_char="3019">y</TOKEN>
+<TOKEN end_char="3023" id="token-28-15" morph="none" pos="word" start_char="3021">con</TOKEN>
+<TOKEN end_char="3033" id="token-28-16" morph="none" pos="word" start_char="3025">inciertos</TOKEN>
+<TOKEN end_char="3041" id="token-28-17" morph="none" pos="word" start_char="3035">efectos</TOKEN>
+<TOKEN end_char="3053" id="token-28-18" morph="none" pos="word" start_char="3043">secundarios</TOKEN>
+<TOKEN end_char="3057" id="token-28-19" morph="none" pos="word" start_char="3055">que</TOKEN>
+<TOKEN end_char="3062" id="token-28-20" morph="none" pos="word" start_char="3059">solo</TOKEN>
+<TOKEN end_char="3068" id="token-28-21" morph="none" pos="word" start_char="3064">logra</TOKEN>
+<TOKEN end_char="3073" id="token-28-22" morph="none" pos="word" start_char="3070">unos</TOKEN>
+<TOKEN end_char="3084" id="token-28-23" morph="none" pos="word" start_char="3075">beneficios</TOKEN>
+<TOKEN end_char="3095" id="token-28-24" morph="none" pos="word" start_char="3086">marginales</TOKEN>
+<TOKEN end_char="3098" id="token-28-25" morph="none" pos="word" start_char="3097">en</TOKEN>
+<TOKEN end_char="3102" id="token-28-26" morph="none" pos="word" start_char="3100">los</TOKEN>
+<TOKEN end_char="3111" id="token-28-27" morph="none" pos="word" start_char="3104">enfermos</TOKEN>
+<TOKEN end_char="3112" id="token-28-28" morph="none" pos="punct" start_char="3112">.</TOKEN>
+<TRANSLATED_TEXT>We 're wasting time with remdesivir, a highly expensive experimental drug with uncertain side effects that only achieves marginal benefits for the sick.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="3159" id="segment-29" start_char="3114">
+<ORIGINAL_TEXT>Los de la FDA son unos vendidos a la farmafia.</ORIGINAL_TEXT>
+<TOKEN end_char="3116" id="token-29-0" morph="none" pos="word" start_char="3114">Los</TOKEN>
+<TOKEN end_char="3119" id="token-29-1" morph="none" pos="word" start_char="3118">de</TOKEN>
+<TOKEN end_char="3122" id="token-29-2" morph="none" pos="word" start_char="3121">la</TOKEN>
+<TOKEN end_char="3126" id="token-29-3" morph="none" pos="word" start_char="3124">FDA</TOKEN>
+<TOKEN end_char="3130" id="token-29-4" morph="none" pos="word" start_char="3128">son</TOKEN>
+<TOKEN end_char="3135" id="token-29-5" morph="none" pos="word" start_char="3132">unos</TOKEN>
+<TOKEN end_char="3144" id="token-29-6" morph="none" pos="word" start_char="3137">vendidos</TOKEN>
+<TOKEN end_char="3146" id="token-29-7" morph="none" pos="word" start_char="3146">a</TOKEN>
+<TOKEN end_char="3149" id="token-29-8" morph="none" pos="word" start_char="3148">la</TOKEN>
+<TOKEN end_char="3158" id="token-29-9" morph="none" pos="word" start_char="3151">farmafia</TOKEN>
+<TOKEN end_char="3159" id="token-29-10" morph="none" pos="punct" start_char="3159">.</TOKEN>
+<TRANSLATED_TEXT>The FDA's are sold to the pharmacy.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="3203" id="segment-30" start_char="3163">
+<ORIGINAL_TEXT>Es una gran noticia, a ver si hay suerte.</ORIGINAL_TEXT>
+<TOKEN end_char="3164" id="token-30-0" morph="none" pos="word" start_char="3163">Es</TOKEN>
+<TOKEN end_char="3168" id="token-30-1" morph="none" pos="word" start_char="3166">una</TOKEN>
+<TOKEN end_char="3173" id="token-30-2" morph="none" pos="word" start_char="3170">gran</TOKEN>
+<TOKEN end_char="3181" id="token-30-3" morph="none" pos="word" start_char="3175">noticia</TOKEN>
+<TOKEN end_char="3182" id="token-30-4" morph="none" pos="punct" start_char="3182">,</TOKEN>
+<TOKEN end_char="3184" id="token-30-5" morph="none" pos="word" start_char="3184">a</TOKEN>
+<TOKEN end_char="3188" id="token-30-6" morph="none" pos="word" start_char="3186">ver</TOKEN>
+<TOKEN end_char="3191" id="token-30-7" morph="none" pos="word" start_char="3190">si</TOKEN>
+<TOKEN end_char="3195" id="token-30-8" morph="none" pos="word" start_char="3193">hay</TOKEN>
+<TOKEN end_char="3202" id="token-30-9" morph="none" pos="word" start_char="3197">suerte</TOKEN>
+<TOKEN end_char="3203" id="token-30-10" morph="none" pos="punct" start_char="3203">.</TOKEN>
+<TRANSLATED_TEXT>That's great news, to see if there's any luck.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="3360" id="segment-31" start_char="3207">
+<ORIGINAL_TEXT>Ya estoy viendo a Trumposo recomendar chupitos de Abamectina, prima hermana de la Invermectina, usada en agricultura como acaricicd y tirada de precio....</ORIGINAL_TEXT>
+<TOKEN end_char="3208" id="token-31-0" morph="none" pos="word" start_char="3207">Ya</TOKEN>
+<TOKEN end_char="3214" id="token-31-1" morph="none" pos="word" start_char="3210">estoy</TOKEN>
+<TOKEN end_char="3221" id="token-31-2" morph="none" pos="word" start_char="3216">viendo</TOKEN>
+<TOKEN end_char="3223" id="token-31-3" morph="none" pos="word" start_char="3223">a</TOKEN>
+<TOKEN end_char="3232" id="token-31-4" morph="none" pos="word" start_char="3225">Trumposo</TOKEN>
+<TOKEN end_char="3243" id="token-31-5" morph="none" pos="word" start_char="3234">recomendar</TOKEN>
+<TOKEN end_char="3252" id="token-31-6" morph="none" pos="word" start_char="3245">chupitos</TOKEN>
+<TOKEN end_char="3255" id="token-31-7" morph="none" pos="word" start_char="3254">de</TOKEN>
+<TOKEN end_char="3266" id="token-31-8" morph="none" pos="word" start_char="3257">Abamectina</TOKEN>
+<TOKEN end_char="3267" id="token-31-9" morph="none" pos="punct" start_char="3267">,</TOKEN>
+<TOKEN end_char="3273" id="token-31-10" morph="none" pos="word" start_char="3269">prima</TOKEN>
+<TOKEN end_char="3281" id="token-31-11" morph="none" pos="word" start_char="3275">hermana</TOKEN>
+<TOKEN end_char="3284" id="token-31-12" morph="none" pos="word" start_char="3283">de</TOKEN>
+<TOKEN end_char="3287" id="token-31-13" morph="none" pos="word" start_char="3286">la</TOKEN>
+<TOKEN end_char="3300" id="token-31-14" morph="none" pos="word" start_char="3289">Invermectina</TOKEN>
+<TOKEN end_char="3301" id="token-31-15" morph="none" pos="punct" start_char="3301">,</TOKEN>
+<TOKEN end_char="3307" id="token-31-16" morph="none" pos="word" start_char="3303">usada</TOKEN>
+<TOKEN end_char="3310" id="token-31-17" morph="none" pos="word" start_char="3309">en</TOKEN>
+<TOKEN end_char="3322" id="token-31-18" morph="none" pos="word" start_char="3312">agricultura</TOKEN>
+<TOKEN end_char="3327" id="token-31-19" morph="none" pos="word" start_char="3324">como</TOKEN>
+<TOKEN end_char="3337" id="token-31-20" morph="none" pos="word" start_char="3329">acaricicd</TOKEN>
+<TOKEN end_char="3339" id="token-31-21" morph="none" pos="word" start_char="3339">y</TOKEN>
+<TOKEN end_char="3346" id="token-31-22" morph="none" pos="word" start_char="3341">tirada</TOKEN>
+<TOKEN end_char="3349" id="token-31-23" morph="none" pos="word" start_char="3348">de</TOKEN>
+<TOKEN end_char="3356" id="token-31-24" morph="none" pos="word" start_char="3351">precio</TOKEN>
+<TOKEN end_char="3360" id="token-31-25" morph="none" pos="punct" start_char="3357">....</TOKEN>
+<TRANSLATED_TEXT>I am already seeing Trumposo recommend suck-ups of Abamectin, cousin of Inveramectin, used in agriculture as a caressiccd and price push....</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="3513" id="segment-32" start_char="3364">
+<ORIGINAL_TEXT>Lo bueno es que al ser un fármaco probado y con efectos secundarios conocidos no habrá que esperar interminables trámites burocráticos para ser usado.</ORIGINAL_TEXT>
+<TOKEN end_char="3365" id="token-32-0" morph="none" pos="word" start_char="3364">Lo</TOKEN>
+<TOKEN end_char="3371" id="token-32-1" morph="none" pos="word" start_char="3367">bueno</TOKEN>
+<TOKEN end_char="3374" id="token-32-2" morph="none" pos="word" start_char="3373">es</TOKEN>
+<TOKEN end_char="3378" id="token-32-3" morph="none" pos="word" start_char="3376">que</TOKEN>
+<TOKEN end_char="3381" id="token-32-4" morph="none" pos="word" start_char="3380">al</TOKEN>
+<TOKEN end_char="3385" id="token-32-5" morph="none" pos="word" start_char="3383">ser</TOKEN>
+<TOKEN end_char="3388" id="token-32-6" morph="none" pos="word" start_char="3387">un</TOKEN>
+<TOKEN end_char="3396" id="token-32-7" morph="none" pos="word" start_char="3390">fármaco</TOKEN>
+<TOKEN end_char="3404" id="token-32-8" morph="none" pos="word" start_char="3398">probado</TOKEN>
+<TOKEN end_char="3406" id="token-32-9" morph="none" pos="word" start_char="3406">y</TOKEN>
+<TOKEN end_char="3410" id="token-32-10" morph="none" pos="word" start_char="3408">con</TOKEN>
+<TOKEN end_char="3418" id="token-32-11" morph="none" pos="word" start_char="3412">efectos</TOKEN>
+<TOKEN end_char="3430" id="token-32-12" morph="none" pos="word" start_char="3420">secundarios</TOKEN>
+<TOKEN end_char="3440" id="token-32-13" morph="none" pos="word" start_char="3432">conocidos</TOKEN>
+<TOKEN end_char="3443" id="token-32-14" morph="none" pos="word" start_char="3442">no</TOKEN>
+<TOKEN end_char="3449" id="token-32-15" morph="none" pos="word" start_char="3445">habrá</TOKEN>
+<TOKEN end_char="3453" id="token-32-16" morph="none" pos="word" start_char="3451">que</TOKEN>
+<TOKEN end_char="3461" id="token-32-17" morph="none" pos="word" start_char="3455">esperar</TOKEN>
+<TOKEN end_char="3475" id="token-32-18" morph="none" pos="word" start_char="3463">interminables</TOKEN>
+<TOKEN end_char="3484" id="token-32-19" morph="none" pos="word" start_char="3477">trámites</TOKEN>
+<TOKEN end_char="3497" id="token-32-20" morph="none" pos="word" start_char="3486">burocráticos</TOKEN>
+<TOKEN end_char="3502" id="token-32-21" morph="none" pos="word" start_char="3499">para</TOKEN>
+<TOKEN end_char="3506" id="token-32-22" morph="none" pos="word" start_char="3504">ser</TOKEN>
+<TOKEN end_char="3512" id="token-32-23" morph="none" pos="word" start_char="3508">usado</TOKEN>
+<TOKEN end_char="3513" id="token-32-24" morph="none" pos="punct" start_char="3513">.</TOKEN>
+<TRANSLATED_TEXT>The good thing is that being a proven drug with known side effects does not have to wait for endless bureaucratic procedures to be used.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="3585" id="segment-33" start_char="3517">
+<ORIGINAL_TEXT>Por cierto, creo que sobra la primera n en el nombre de la sustancia.</ORIGINAL_TEXT>
+<TOKEN end_char="3519" id="token-33-0" morph="none" pos="word" start_char="3517">Por</TOKEN>
+<TOKEN end_char="3526" id="token-33-1" morph="none" pos="word" start_char="3521">cierto</TOKEN>
+<TOKEN end_char="3527" id="token-33-2" morph="none" pos="punct" start_char="3527">,</TOKEN>
+<TOKEN end_char="3532" id="token-33-3" morph="none" pos="word" start_char="3529">creo</TOKEN>
+<TOKEN end_char="3536" id="token-33-4" morph="none" pos="word" start_char="3534">que</TOKEN>
+<TOKEN end_char="3542" id="token-33-5" morph="none" pos="word" start_char="3538">sobra</TOKEN>
+<TOKEN end_char="3545" id="token-33-6" morph="none" pos="word" start_char="3544">la</TOKEN>
+<TOKEN end_char="3553" id="token-33-7" morph="none" pos="word" start_char="3547">primera</TOKEN>
+<TOKEN end_char="3555" id="token-33-8" morph="none" pos="word" start_char="3555">n</TOKEN>
+<TOKEN end_char="3558" id="token-33-9" morph="none" pos="word" start_char="3557">en</TOKEN>
+<TOKEN end_char="3561" id="token-33-10" morph="none" pos="word" start_char="3560">el</TOKEN>
+<TOKEN end_char="3568" id="token-33-11" morph="none" pos="word" start_char="3563">nombre</TOKEN>
+<TOKEN end_char="3571" id="token-33-12" morph="none" pos="word" start_char="3570">de</TOKEN>
+<TOKEN end_char="3574" id="token-33-13" morph="none" pos="word" start_char="3573">la</TOKEN>
+<TOKEN end_char="3584" id="token-33-14" morph="none" pos="word" start_char="3576">sustancia</TOKEN>
+<TOKEN end_char="3585" id="token-33-15" morph="none" pos="punct" start_char="3585">.</TOKEN>
+<TRANSLATED_TEXT>By the way, I think there remains the first n in the name of the substance.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="3635" id="segment-34" start_char="3587">
+<ORIGINAL_TEXT>El caso es que en "redacción médica" viene con n.</ORIGINAL_TEXT>
+<TOKEN end_char="3588" id="token-34-0" morph="none" pos="word" start_char="3587">El</TOKEN>
+<TOKEN end_char="3593" id="token-34-1" morph="none" pos="word" start_char="3590">caso</TOKEN>
+<TOKEN end_char="3596" id="token-34-2" morph="none" pos="word" start_char="3595">es</TOKEN>
+<TOKEN end_char="3600" id="token-34-3" morph="none" pos="word" start_char="3598">que</TOKEN>
+<TOKEN end_char="3603" id="token-34-4" morph="none" pos="word" start_char="3602">en</TOKEN>
+<TOKEN end_char="3605" id="token-34-5" morph="none" pos="punct" start_char="3605">"</TOKEN>
+<TOKEN end_char="3614" id="token-34-6" morph="none" pos="word" start_char="3606">redacción</TOKEN>
+<TOKEN end_char="3621" id="token-34-7" morph="none" pos="word" start_char="3616">médica</TOKEN>
+<TOKEN end_char="3622" id="token-34-8" morph="none" pos="punct" start_char="3622">"</TOKEN>
+<TOKEN end_char="3628" id="token-34-9" morph="none" pos="word" start_char="3624">viene</TOKEN>
+<TOKEN end_char="3632" id="token-34-10" morph="none" pos="word" start_char="3630">con</TOKEN>
+<TOKEN end_char="3634" id="token-34-11" morph="none" pos="word" start_char="3634">n</TOKEN>
+<TOKEN end_char="3635" id="token-34-12" morph="none" pos="punct" start_char="3635">.</TOKEN>
+<TRANSLATED_TEXT>The case is that in "medical writing" comes with n.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="3706" id="segment-35" start_char="3639">
+<ORIGINAL_TEXT>Search of: Ivermectin | COVID-19 - List Results - ClinicalTrials.gov</ORIGINAL_TEXT>
+<TOKEN end_char="3644" id="token-35-0" morph="none" pos="word" start_char="3639">Search</TOKEN>
+<TOKEN end_char="3647" id="token-35-1" morph="none" pos="word" start_char="3646">of</TOKEN>
+<TOKEN end_char="3648" id="token-35-2" morph="none" pos="punct" start_char="3648">:</TOKEN>
+<TOKEN end_char="3659" id="token-35-3" morph="none" pos="word" start_char="3650">Ivermectin</TOKEN>
+<TOKEN end_char="3661" id="token-35-4" morph="none" pos="unknown" start_char="3661">|</TOKEN>
+<TOKEN end_char="3670" id="token-35-5" morph="none" pos="unknown" start_char="3663">COVID-19</TOKEN>
+<TOKEN end_char="3672" id="token-35-6" morph="none" pos="punct" start_char="3672">-</TOKEN>
+<TOKEN end_char="3677" id="token-35-7" morph="none" pos="word" start_char="3674">List</TOKEN>
+<TOKEN end_char="3685" id="token-35-8" morph="none" pos="word" start_char="3679">Results</TOKEN>
+<TOKEN end_char="3687" id="token-35-9" morph="none" pos="punct" start_char="3687">-</TOKEN>
+<TOKEN end_char="3706" id="token-35-10" morph="none" pos="unknown" start_char="3689">ClinicalTrials.gov</TOKEN>
+</SEG>
+<SEG end_char="3748" id="segment-36" start_char="3709">
+<ORIGINAL_TEXT>Y vienen más estudios con este producto.</ORIGINAL_TEXT>
+<TOKEN end_char="3709" id="token-36-0" morph="none" pos="word" start_char="3709">Y</TOKEN>
+<TOKEN end_char="3716" id="token-36-1" morph="none" pos="word" start_char="3711">vienen</TOKEN>
+<TOKEN end_char="3720" id="token-36-2" morph="none" pos="word" start_char="3718">más</TOKEN>
+<TOKEN end_char="3729" id="token-36-3" morph="none" pos="word" start_char="3722">estudios</TOKEN>
+<TOKEN end_char="3733" id="token-36-4" morph="none" pos="word" start_char="3731">con</TOKEN>
+<TOKEN end_char="3738" id="token-36-5" morph="none" pos="word" start_char="3735">este</TOKEN>
+<TOKEN end_char="3747" id="token-36-6" morph="none" pos="word" start_char="3740">producto</TOKEN>
+<TOKEN end_char="3748" id="token-36-7" morph="none" pos="punct" start_char="3748">.</TOKEN>
+<TRANSLATED_TEXT>And more studies come with this product.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

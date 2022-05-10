@@ -1,0 +1,631 @@
+<LCTL_TEXT lang="rus">
+<DOC grammar="none" id="L0C049DYD" lang="rus" raw_text_char_length="3549" raw_text_md5="a4f5510f6c1ea4d4a78d587551bffd8d" tokenization="tokenization_parameters.v5.0">
+<TEXT>
+<SEG end_char="58" id="segment-0" start_char="1">
+<ORIGINAL_TEXT>Действительно ли посадят Фаучи и Билла Гейтса за прививки?</ORIGINAL_TEXT>
+<TOKEN end_char="13" id="token-0-0" morph="none" pos="word" start_char="1">Действительно</TOKEN>
+<TOKEN end_char="16" id="token-0-1" morph="none" pos="word" start_char="15">ли</TOKEN>
+<TOKEN end_char="24" id="token-0-2" morph="none" pos="word" start_char="18">посадят</TOKEN>
+<TOKEN end_char="30" id="token-0-3" morph="none" pos="word" start_char="26">Фаучи</TOKEN>
+<TOKEN end_char="32" id="token-0-4" morph="none" pos="word" start_char="32">и</TOKEN>
+<TOKEN end_char="38" id="token-0-5" morph="none" pos="word" start_char="34">Билла</TOKEN>
+<TOKEN end_char="45" id="token-0-6" morph="none" pos="word" start_char="40">Гейтса</TOKEN>
+<TOKEN end_char="48" id="token-0-7" morph="none" pos="word" start_char="47">за</TOKEN>
+<TOKEN end_char="57" id="token-0-8" morph="none" pos="word" start_char="50">прививки</TOKEN>
+<TOKEN end_char="58" id="token-0-9" morph="none" pos="punct" start_char="58">?</TOKEN>
+<TRANSLATED_TEXT>Will they really put Fawcett and Bill Gates in for inoculations?</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="240" id="segment-1" start_char="63">
+<ORIGINAL_TEXT>22 июля News Front опубликовал статью под названием «Против Фаучи и Гейтса начались процессы, наряду с Фондом Обама, в связи с искусственным созданием и распространением вируса».</ORIGINAL_TEXT>
+<TOKEN end_char="64" id="token-1-0" morph="none" pos="word" start_char="63">22</TOKEN>
+<TOKEN end_char="69" id="token-1-1" morph="none" pos="word" start_char="66">июля</TOKEN>
+<TOKEN end_char="74" id="token-1-2" morph="none" pos="word" start_char="71">News</TOKEN>
+<TOKEN end_char="80" id="token-1-3" morph="none" pos="word" start_char="76">Front</TOKEN>
+<TOKEN end_char="92" id="token-1-4" morph="none" pos="word" start_char="82">опубликовал</TOKEN>
+<TOKEN end_char="99" id="token-1-5" morph="none" pos="word" start_char="94">статью</TOKEN>
+<TOKEN end_char="103" id="token-1-6" morph="none" pos="word" start_char="101">под</TOKEN>
+<TOKEN end_char="113" id="token-1-7" morph="none" pos="word" start_char="105">названием</TOKEN>
+<TOKEN end_char="115" id="token-1-8" morph="none" pos="punct" start_char="115">«</TOKEN>
+<TOKEN end_char="121" id="token-1-9" morph="none" pos="word" start_char="116">Против</TOKEN>
+<TOKEN end_char="127" id="token-1-10" morph="none" pos="word" start_char="123">Фаучи</TOKEN>
+<TOKEN end_char="129" id="token-1-11" morph="none" pos="word" start_char="129">и</TOKEN>
+<TOKEN end_char="136" id="token-1-12" morph="none" pos="word" start_char="131">Гейтса</TOKEN>
+<TOKEN end_char="145" id="token-1-13" morph="none" pos="word" start_char="138">начались</TOKEN>
+<TOKEN end_char="154" id="token-1-14" morph="none" pos="word" start_char="147">процессы</TOKEN>
+<TOKEN end_char="155" id="token-1-15" morph="none" pos="punct" start_char="155">,</TOKEN>
+<TOKEN end_char="162" id="token-1-16" morph="none" pos="word" start_char="157">наряду</TOKEN>
+<TOKEN end_char="164" id="token-1-17" morph="none" pos="word" start_char="164">с</TOKEN>
+<TOKEN end_char="171" id="token-1-18" morph="none" pos="word" start_char="166">Фондом</TOKEN>
+<TOKEN end_char="177" id="token-1-19" morph="none" pos="word" start_char="173">Обама</TOKEN>
+<TOKEN end_char="178" id="token-1-20" morph="none" pos="punct" start_char="178">,</TOKEN>
+<TOKEN end_char="180" id="token-1-21" morph="none" pos="word" start_char="180">в</TOKEN>
+<TOKEN end_char="186" id="token-1-22" morph="none" pos="word" start_char="182">связи</TOKEN>
+<TOKEN end_char="188" id="token-1-23" morph="none" pos="word" start_char="188">с</TOKEN>
+<TOKEN end_char="202" id="token-1-24" morph="none" pos="word" start_char="190">искусственным</TOKEN>
+<TOKEN end_char="212" id="token-1-25" morph="none" pos="word" start_char="204">созданием</TOKEN>
+<TOKEN end_char="214" id="token-1-26" morph="none" pos="word" start_char="214">и</TOKEN>
+<TOKEN end_char="231" id="token-1-27" morph="none" pos="word" start_char="216">распространением</TOKEN>
+<TOKEN end_char="238" id="token-1-28" morph="none" pos="word" start_char="233">вируса</TOKEN>
+<TOKEN end_char="240" id="token-1-29" morph="none" pos="punct" start_char="239">».</TOKEN>
+<TRANSLATED_TEXT>On July 22, the News Front published an article titled "Trials began against Fawcett and Gates, along with the Obama Foundation, in connection with the artificial creation and spread of the virus."</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="422" id="segment-2" start_char="242">
+<ORIGINAL_TEXT>В статье говорится, что против директора Национального института аллергии и инфекционных заболеваний США Энтони Фаучи и Билла Гейтса, а также Фонда Обама начались судебные процессы.</ORIGINAL_TEXT>
+<TOKEN end_char="242" id="token-2-0" morph="none" pos="word" start_char="242">В</TOKEN>
+<TOKEN end_char="249" id="token-2-1" morph="none" pos="word" start_char="244">статье</TOKEN>
+<TOKEN end_char="259" id="token-2-2" morph="none" pos="word" start_char="251">говорится</TOKEN>
+<TOKEN end_char="260" id="token-2-3" morph="none" pos="punct" start_char="260">,</TOKEN>
+<TOKEN end_char="264" id="token-2-4" morph="none" pos="word" start_char="262">что</TOKEN>
+<TOKEN end_char="271" id="token-2-5" morph="none" pos="word" start_char="266">против</TOKEN>
+<TOKEN end_char="281" id="token-2-6" morph="none" pos="word" start_char="273">директора</TOKEN>
+<TOKEN end_char="295" id="token-2-7" morph="none" pos="word" start_char="283">Национального</TOKEN>
+<TOKEN end_char="305" id="token-2-8" morph="none" pos="word" start_char="297">института</TOKEN>
+<TOKEN end_char="314" id="token-2-9" morph="none" pos="word" start_char="307">аллергии</TOKEN>
+<TOKEN end_char="316" id="token-2-10" morph="none" pos="word" start_char="316">и</TOKEN>
+<TOKEN end_char="329" id="token-2-11" morph="none" pos="word" start_char="318">инфекционных</TOKEN>
+<TOKEN end_char="341" id="token-2-12" morph="none" pos="word" start_char="331">заболеваний</TOKEN>
+<TOKEN end_char="345" id="token-2-13" morph="none" pos="word" start_char="343">США</TOKEN>
+<TOKEN end_char="352" id="token-2-14" morph="none" pos="word" start_char="347">Энтони</TOKEN>
+<TOKEN end_char="358" id="token-2-15" morph="none" pos="word" start_char="354">Фаучи</TOKEN>
+<TOKEN end_char="360" id="token-2-16" morph="none" pos="word" start_char="360">и</TOKEN>
+<TOKEN end_char="366" id="token-2-17" morph="none" pos="word" start_char="362">Билла</TOKEN>
+<TOKEN end_char="373" id="token-2-18" morph="none" pos="word" start_char="368">Гейтса</TOKEN>
+<TOKEN end_char="374" id="token-2-19" morph="none" pos="punct" start_char="374">,</TOKEN>
+<TOKEN end_char="376" id="token-2-20" morph="none" pos="word" start_char="376">а</TOKEN>
+<TOKEN end_char="382" id="token-2-21" morph="none" pos="word" start_char="378">также</TOKEN>
+<TOKEN end_char="388" id="token-2-22" morph="none" pos="word" start_char="384">Фонда</TOKEN>
+<TOKEN end_char="394" id="token-2-23" morph="none" pos="word" start_char="390">Обама</TOKEN>
+<TOKEN end_char="403" id="token-2-24" morph="none" pos="word" start_char="396">начались</TOKEN>
+<TOKEN end_char="412" id="token-2-25" morph="none" pos="word" start_char="405">судебные</TOKEN>
+<TOKEN end_char="421" id="token-2-26" morph="none" pos="word" start_char="414">процессы</TOKEN>
+<TOKEN end_char="422" id="token-2-27" morph="none" pos="punct" start_char="422">.</TOKEN>
+<TRANSLATED_TEXT>The article stated that lawsuits had begun against Anthony Fawcett and Bill Gates, the directors of the National Institute of Allergy and Infectious Diseases, and the Obama Foundation.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="535" id="segment-3" start_char="424">
+<ORIGINAL_TEXT>Энтони Фаучи является ведущим членом Специальной группы по коронавирусу в Соединенных Штатах с января 2020 года.</ORIGINAL_TEXT>
+<TOKEN end_char="429" id="token-3-0" morph="none" pos="word" start_char="424">Энтони</TOKEN>
+<TOKEN end_char="435" id="token-3-1" morph="none" pos="word" start_char="431">Фаучи</TOKEN>
+<TOKEN end_char="444" id="token-3-2" morph="none" pos="word" start_char="437">является</TOKEN>
+<TOKEN end_char="452" id="token-3-3" morph="none" pos="word" start_char="446">ведущим</TOKEN>
+<TOKEN end_char="459" id="token-3-4" morph="none" pos="word" start_char="454">членом</TOKEN>
+<TOKEN end_char="471" id="token-3-5" morph="none" pos="word" start_char="461">Специальной</TOKEN>
+<TOKEN end_char="478" id="token-3-6" morph="none" pos="word" start_char="473">группы</TOKEN>
+<TOKEN end_char="481" id="token-3-7" morph="none" pos="word" start_char="480">по</TOKEN>
+<TOKEN end_char="494" id="token-3-8" morph="none" pos="word" start_char="483">коронавирусу</TOKEN>
+<TOKEN end_char="496" id="token-3-9" morph="none" pos="word" start_char="496">в</TOKEN>
+<TOKEN end_char="508" id="token-3-10" morph="none" pos="word" start_char="498">Соединенных</TOKEN>
+<TOKEN end_char="515" id="token-3-11" morph="none" pos="word" start_char="510">Штатах</TOKEN>
+<TOKEN end_char="517" id="token-3-12" morph="none" pos="word" start_char="517">с</TOKEN>
+<TOKEN end_char="524" id="token-3-13" morph="none" pos="word" start_char="519">января</TOKEN>
+<TOKEN end_char="529" id="token-3-14" morph="none" pos="word" start_char="526">2020</TOKEN>
+<TOKEN end_char="534" id="token-3-15" morph="none" pos="word" start_char="531">года</TOKEN>
+<TOKEN end_char="535" id="token-3-16" morph="none" pos="punct" start_char="535">.</TOKEN>
+<TRANSLATED_TEXT>Anthony Fauci has been a leading member of the United States Coronavirus Task Force since January 2020.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="738" id="segment-4" start_char="537">
+<ORIGINAL_TEXT>По утверждению News Front, против них будут выдвинуты обвинения в наступлении инвалидности и убийстве сотен тысяч детей посредством вакцинации, а также в искусственном создании и распространении вируса.</ORIGINAL_TEXT>
+<TOKEN end_char="538" id="token-4-0" morph="none" pos="word" start_char="537">По</TOKEN>
+<TOKEN end_char="550" id="token-4-1" morph="none" pos="word" start_char="540">утверждению</TOKEN>
+<TOKEN end_char="555" id="token-4-2" morph="none" pos="word" start_char="552">News</TOKEN>
+<TOKEN end_char="561" id="token-4-3" morph="none" pos="word" start_char="557">Front</TOKEN>
+<TOKEN end_char="562" id="token-4-4" morph="none" pos="punct" start_char="562">,</TOKEN>
+<TOKEN end_char="569" id="token-4-5" morph="none" pos="word" start_char="564">против</TOKEN>
+<TOKEN end_char="573" id="token-4-6" morph="none" pos="word" start_char="571">них</TOKEN>
+<TOKEN end_char="579" id="token-4-7" morph="none" pos="word" start_char="575">будут</TOKEN>
+<TOKEN end_char="589" id="token-4-8" morph="none" pos="word" start_char="581">выдвинуты</TOKEN>
+<TOKEN end_char="599" id="token-4-9" morph="none" pos="word" start_char="591">обвинения</TOKEN>
+<TOKEN end_char="601" id="token-4-10" morph="none" pos="word" start_char="601">в</TOKEN>
+<TOKEN end_char="613" id="token-4-11" morph="none" pos="word" start_char="603">наступлении</TOKEN>
+<TOKEN end_char="626" id="token-4-12" morph="none" pos="word" start_char="615">инвалидности</TOKEN>
+<TOKEN end_char="628" id="token-4-13" morph="none" pos="word" start_char="628">и</TOKEN>
+<TOKEN end_char="637" id="token-4-14" morph="none" pos="word" start_char="630">убийстве</TOKEN>
+<TOKEN end_char="643" id="token-4-15" morph="none" pos="word" start_char="639">сотен</TOKEN>
+<TOKEN end_char="649" id="token-4-16" morph="none" pos="word" start_char="645">тысяч</TOKEN>
+<TOKEN end_char="655" id="token-4-17" morph="none" pos="word" start_char="651">детей</TOKEN>
+<TOKEN end_char="667" id="token-4-18" morph="none" pos="word" start_char="657">посредством</TOKEN>
+<TOKEN end_char="678" id="token-4-19" morph="none" pos="word" start_char="669">вакцинации</TOKEN>
+<TOKEN end_char="679" id="token-4-20" morph="none" pos="punct" start_char="679">,</TOKEN>
+<TOKEN end_char="681" id="token-4-21" morph="none" pos="word" start_char="681">а</TOKEN>
+<TOKEN end_char="687" id="token-4-22" morph="none" pos="word" start_char="683">также</TOKEN>
+<TOKEN end_char="689" id="token-4-23" morph="none" pos="word" start_char="689">в</TOKEN>
+<TOKEN end_char="703" id="token-4-24" morph="none" pos="word" start_char="691">искусственном</TOKEN>
+<TOKEN end_char="712" id="token-4-25" morph="none" pos="word" start_char="705">создании</TOKEN>
+<TOKEN end_char="714" id="token-4-26" morph="none" pos="word" start_char="714">и</TOKEN>
+<TOKEN end_char="730" id="token-4-27" morph="none" pos="word" start_char="716">распространении</TOKEN>
+<TOKEN end_char="737" id="token-4-28" morph="none" pos="word" start_char="732">вируса</TOKEN>
+<TOKEN end_char="738" id="token-4-29" morph="none" pos="punct" start_char="738">.</TOKEN>
+<TRANSLATED_TEXT>According to the News Front, they will be charged with the onset of disability and the killing of hundreds of thousands of children through vaccination, as well as the artificial creation and spread of the virus.................</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="836" id="segment-5" start_char="740">
+<ORIGINAL_TEXT>А Обама будут судить за финансирование Уханьской лаборатории в размере 3,7 миллиона долларов США.</ORIGINAL_TEXT>
+<TOKEN end_char="740" id="token-5-0" morph="none" pos="word" start_char="740">А</TOKEN>
+<TOKEN end_char="746" id="token-5-1" morph="none" pos="word" start_char="742">Обама</TOKEN>
+<TOKEN end_char="752" id="token-5-2" morph="none" pos="word" start_char="748">будут</TOKEN>
+<TOKEN end_char="759" id="token-5-3" morph="none" pos="word" start_char="754">судить</TOKEN>
+<TOKEN end_char="762" id="token-5-4" morph="none" pos="word" start_char="761">за</TOKEN>
+<TOKEN end_char="777" id="token-5-5" morph="none" pos="word" start_char="764">финансирование</TOKEN>
+<TOKEN end_char="787" id="token-5-6" morph="none" pos="word" start_char="779">Уханьской</TOKEN>
+<TOKEN end_char="799" id="token-5-7" morph="none" pos="word" start_char="789">лаборатории</TOKEN>
+<TOKEN end_char="801" id="token-5-8" morph="none" pos="word" start_char="801">в</TOKEN>
+<TOKEN end_char="809" id="token-5-9" morph="none" pos="word" start_char="803">размере</TOKEN>
+<TOKEN end_char="813" id="token-5-10" morph="none" pos="unknown" start_char="811">3,7</TOKEN>
+<TOKEN end_char="822" id="token-5-11" morph="none" pos="word" start_char="815">миллиона</TOKEN>
+<TOKEN end_char="831" id="token-5-12" morph="none" pos="word" start_char="824">долларов</TOKEN>
+<TOKEN end_char="835" id="token-5-13" morph="none" pos="word" start_char="833">США</TOKEN>
+<TOKEN end_char="836" id="token-5-14" morph="none" pos="punct" start_char="836">.</TOKEN>
+<TRANSLATED_TEXT>And Obama will be judged for funding the Wuhan Laboratory for $3.7 million.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1053" id="segment-6" start_char="839">
+<ORIGINAL_TEXT>Текст сопровождается фотографией и ссылкой на YouTube под заголовком: EXCLUSIVE Drs Buttar, Shiva Mikovits BLAST Gates, Call to ARREST Fauci as Crisis CRUSHES Economy, но при переходе на ссылку видео не загружается.</ORIGINAL_TEXT>
+<TOKEN end_char="843" id="token-6-0" morph="none" pos="word" start_char="839">Текст</TOKEN>
+<TOKEN end_char="858" id="token-6-1" morph="none" pos="word" start_char="845">сопровождается</TOKEN>
+<TOKEN end_char="870" id="token-6-2" morph="none" pos="word" start_char="860">фотографией</TOKEN>
+<TOKEN end_char="872" id="token-6-3" morph="none" pos="word" start_char="872">и</TOKEN>
+<TOKEN end_char="880" id="token-6-4" morph="none" pos="word" start_char="874">ссылкой</TOKEN>
+<TOKEN end_char="883" id="token-6-5" morph="none" pos="word" start_char="882">на</TOKEN>
+<TOKEN end_char="891" id="token-6-6" morph="none" pos="word" start_char="885">YouTube</TOKEN>
+<TOKEN end_char="895" id="token-6-7" morph="none" pos="word" start_char="893">под</TOKEN>
+<TOKEN end_char="906" id="token-6-8" morph="none" pos="word" start_char="897">заголовком</TOKEN>
+<TOKEN end_char="907" id="token-6-9" morph="none" pos="punct" start_char="907">:</TOKEN>
+<TOKEN end_char="917" id="token-6-10" morph="none" pos="word" start_char="909">EXCLUSIVE</TOKEN>
+<TOKEN end_char="921" id="token-6-11" morph="none" pos="word" start_char="919">Drs</TOKEN>
+<TOKEN end_char="928" id="token-6-12" morph="none" pos="word" start_char="923">Buttar</TOKEN>
+<TOKEN end_char="929" id="token-6-13" morph="none" pos="punct" start_char="929">,</TOKEN>
+<TOKEN end_char="935" id="token-6-14" morph="none" pos="word" start_char="931">Shiva</TOKEN>
+<TOKEN end_char="944" id="token-6-15" morph="none" pos="word" start_char="937">Mikovits</TOKEN>
+<TOKEN end_char="950" id="token-6-16" morph="none" pos="word" start_char="946">BLAST</TOKEN>
+<TOKEN end_char="956" id="token-6-17" morph="none" pos="word" start_char="952">Gates</TOKEN>
+<TOKEN end_char="957" id="token-6-18" morph="none" pos="punct" start_char="957">,</TOKEN>
+<TOKEN end_char="962" id="token-6-19" morph="none" pos="word" start_char="959">Call</TOKEN>
+<TOKEN end_char="965" id="token-6-20" morph="none" pos="word" start_char="964">to</TOKEN>
+<TOKEN end_char="972" id="token-6-21" morph="none" pos="word" start_char="967">ARREST</TOKEN>
+<TOKEN end_char="978" id="token-6-22" morph="none" pos="word" start_char="974">Fauci</TOKEN>
+<TOKEN end_char="981" id="token-6-23" morph="none" pos="word" start_char="980">as</TOKEN>
+<TOKEN end_char="988" id="token-6-24" morph="none" pos="word" start_char="983">Crisis</TOKEN>
+<TOKEN end_char="996" id="token-6-25" morph="none" pos="word" start_char="990">CRUSHES</TOKEN>
+<TOKEN end_char="1004" id="token-6-26" morph="none" pos="word" start_char="998">Economy</TOKEN>
+<TOKEN end_char="1005" id="token-6-27" morph="none" pos="punct" start_char="1005">,</TOKEN>
+<TOKEN end_char="1008" id="token-6-28" morph="none" pos="word" start_char="1007">но</TOKEN>
+<TOKEN end_char="1012" id="token-6-29" morph="none" pos="word" start_char="1010">при</TOKEN>
+<TOKEN end_char="1021" id="token-6-30" morph="none" pos="word" start_char="1014">переходе</TOKEN>
+<TOKEN end_char="1024" id="token-6-31" morph="none" pos="word" start_char="1023">на</TOKEN>
+<TOKEN end_char="1031" id="token-6-32" morph="none" pos="word" start_char="1026">ссылку</TOKEN>
+<TOKEN end_char="1037" id="token-6-33" morph="none" pos="word" start_char="1033">видео</TOKEN>
+<TOKEN end_char="1040" id="token-6-34" morph="none" pos="word" start_char="1039">не</TOKEN>
+<TOKEN end_char="1052" id="token-6-35" morph="none" pos="word" start_char="1042">загружается</TOKEN>
+<TOKEN end_char="1053" id="token-6-36" morph="none" pos="punct" start_char="1053">.</TOKEN>
+<TRANSLATED_TEXT>The text is accompanied by a photo and a YouTube link under the heading: EXCLUSIVE Drs Buttar, Shiva Mikovits BLAST Gates, Call to ARREST Fauci as Crisis CRUSHES Economy, but the video.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1098" id="segment-7" start_char="1056">
+<ORIGINAL_TEXT>Указанная статья News Front является ложью.</ORIGINAL_TEXT>
+<TOKEN end_char="1064" id="token-7-0" morph="none" pos="word" start_char="1056">Указанная</TOKEN>
+<TOKEN end_char="1071" id="token-7-1" morph="none" pos="word" start_char="1066">статья</TOKEN>
+<TOKEN end_char="1076" id="token-7-2" morph="none" pos="word" start_char="1073">News</TOKEN>
+<TOKEN end_char="1082" id="token-7-3" morph="none" pos="word" start_char="1078">Front</TOKEN>
+<TOKEN end_char="1091" id="token-7-4" morph="none" pos="word" start_char="1084">является</TOKEN>
+<TOKEN end_char="1097" id="token-7-5" morph="none" pos="word" start_char="1093">ложью</TOKEN>
+<TOKEN end_char="1098" id="token-7-6" morph="none" pos="punct" start_char="1098">.</TOKEN>
+<TRANSLATED_TEXT>This News Front article is a lie.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1175" id="segment-8" start_char="1100">
+<ORIGINAL_TEXT>В Америке никаких процессов не начинали против доктора Фаучи и Билла Гейтса.</ORIGINAL_TEXT>
+<TOKEN end_char="1100" id="token-8-0" morph="none" pos="word" start_char="1100">В</TOKEN>
+<TOKEN end_char="1108" id="token-8-1" morph="none" pos="word" start_char="1102">Америке</TOKEN>
+<TOKEN end_char="1116" id="token-8-2" morph="none" pos="word" start_char="1110">никаких</TOKEN>
+<TOKEN end_char="1126" id="token-8-3" morph="none" pos="word" start_char="1118">процессов</TOKEN>
+<TOKEN end_char="1129" id="token-8-4" morph="none" pos="word" start_char="1128">не</TOKEN>
+<TOKEN end_char="1138" id="token-8-5" morph="none" pos="word" start_char="1131">начинали</TOKEN>
+<TOKEN end_char="1145" id="token-8-6" morph="none" pos="word" start_char="1140">против</TOKEN>
+<TOKEN end_char="1153" id="token-8-7" morph="none" pos="word" start_char="1147">доктора</TOKEN>
+<TOKEN end_char="1159" id="token-8-8" morph="none" pos="word" start_char="1155">Фаучи</TOKEN>
+<TOKEN end_char="1161" id="token-8-9" morph="none" pos="word" start_char="1161">и</TOKEN>
+<TOKEN end_char="1167" id="token-8-10" morph="none" pos="word" start_char="1163">Билла</TOKEN>
+<TOKEN end_char="1174" id="token-8-11" morph="none" pos="word" start_char="1169">Гейтса</TOKEN>
+<TOKEN end_char="1175" id="token-8-12" morph="none" pos="punct" start_char="1175">.</TOKEN>
+<TRANSLATED_TEXT>In the United States, no trials were started against Dr. Fawcett and Bill Gates.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1569" id="segment-9" start_char="1178">
+<ORIGINAL_TEXT>Реально, эта статья News Front основана на сюжете Special Report на The Next News Network, в которой три представителя медицинских и научных кругов, Рашид Бутар, Шива Аядурай и Джуди Майковиц требовали ареста Фаучи за то, что кризис наносит существенный вред экономике США, а Билла Гейтса обвиняли в планировании использования вакцинации для чипизации и попытке установить тотальный контроль.</ORIGINAL_TEXT>
+<TOKEN end_char="1184" id="token-9-0" morph="none" pos="word" start_char="1178">Реально</TOKEN>
+<TOKEN end_char="1185" id="token-9-1" morph="none" pos="punct" start_char="1185">,</TOKEN>
+<TOKEN end_char="1189" id="token-9-2" morph="none" pos="word" start_char="1187">эта</TOKEN>
+<TOKEN end_char="1196" id="token-9-3" morph="none" pos="word" start_char="1191">статья</TOKEN>
+<TOKEN end_char="1201" id="token-9-4" morph="none" pos="word" start_char="1198">News</TOKEN>
+<TOKEN end_char="1207" id="token-9-5" morph="none" pos="word" start_char="1203">Front</TOKEN>
+<TOKEN end_char="1216" id="token-9-6" morph="none" pos="word" start_char="1209">основана</TOKEN>
+<TOKEN end_char="1219" id="token-9-7" morph="none" pos="word" start_char="1218">на</TOKEN>
+<TOKEN end_char="1226" id="token-9-8" morph="none" pos="word" start_char="1221">сюжете</TOKEN>
+<TOKEN end_char="1234" id="token-9-9" morph="none" pos="word" start_char="1228">Special</TOKEN>
+<TOKEN end_char="1241" id="token-9-10" morph="none" pos="word" start_char="1236">Report</TOKEN>
+<TOKEN end_char="1244" id="token-9-11" morph="none" pos="word" start_char="1243">на</TOKEN>
+<TOKEN end_char="1248" id="token-9-12" morph="none" pos="word" start_char="1246">The</TOKEN>
+<TOKEN end_char="1253" id="token-9-13" morph="none" pos="word" start_char="1250">Next</TOKEN>
+<TOKEN end_char="1258" id="token-9-14" morph="none" pos="word" start_char="1255">News</TOKEN>
+<TOKEN end_char="1266" id="token-9-15" morph="none" pos="word" start_char="1260">Network</TOKEN>
+<TOKEN end_char="1267" id="token-9-16" morph="none" pos="punct" start_char="1267">,</TOKEN>
+<TOKEN end_char="1269" id="token-9-17" morph="none" pos="word" start_char="1269">в</TOKEN>
+<TOKEN end_char="1277" id="token-9-18" morph="none" pos="word" start_char="1271">которой</TOKEN>
+<TOKEN end_char="1281" id="token-9-19" morph="none" pos="word" start_char="1279">три</TOKEN>
+<TOKEN end_char="1295" id="token-9-20" morph="none" pos="word" start_char="1283">представителя</TOKEN>
+<TOKEN end_char="1307" id="token-9-21" morph="none" pos="word" start_char="1297">медицинских</TOKEN>
+<TOKEN end_char="1309" id="token-9-22" morph="none" pos="word" start_char="1309">и</TOKEN>
+<TOKEN end_char="1317" id="token-9-23" morph="none" pos="word" start_char="1311">научных</TOKEN>
+<TOKEN end_char="1324" id="token-9-24" morph="none" pos="word" start_char="1319">кругов</TOKEN>
+<TOKEN end_char="1325" id="token-9-25" morph="none" pos="punct" start_char="1325">,</TOKEN>
+<TOKEN end_char="1331" id="token-9-26" morph="none" pos="word" start_char="1327">Рашид</TOKEN>
+<TOKEN end_char="1337" id="token-9-27" morph="none" pos="word" start_char="1333">Бутар</TOKEN>
+<TOKEN end_char="1338" id="token-9-28" morph="none" pos="punct" start_char="1338">,</TOKEN>
+<TOKEN end_char="1343" id="token-9-29" morph="none" pos="word" start_char="1340">Шива</TOKEN>
+<TOKEN end_char="1351" id="token-9-30" morph="none" pos="word" start_char="1345">Аядурай</TOKEN>
+<TOKEN end_char="1353" id="token-9-31" morph="none" pos="word" start_char="1353">и</TOKEN>
+<TOKEN end_char="1359" id="token-9-32" morph="none" pos="word" start_char="1355">Джуди</TOKEN>
+<TOKEN end_char="1368" id="token-9-33" morph="none" pos="word" start_char="1361">Майковиц</TOKEN>
+<TOKEN end_char="1378" id="token-9-34" morph="none" pos="word" start_char="1370">требовали</TOKEN>
+<TOKEN end_char="1385" id="token-9-35" morph="none" pos="word" start_char="1380">ареста</TOKEN>
+<TOKEN end_char="1391" id="token-9-36" morph="none" pos="word" start_char="1387">Фаучи</TOKEN>
+<TOKEN end_char="1394" id="token-9-37" morph="none" pos="word" start_char="1393">за</TOKEN>
+<TOKEN end_char="1397" id="token-9-38" morph="none" pos="word" start_char="1396">то</TOKEN>
+<TOKEN end_char="1398" id="token-9-39" morph="none" pos="punct" start_char="1398">,</TOKEN>
+<TOKEN end_char="1402" id="token-9-40" morph="none" pos="word" start_char="1400">что</TOKEN>
+<TOKEN end_char="1409" id="token-9-41" morph="none" pos="word" start_char="1404">кризис</TOKEN>
+<TOKEN end_char="1417" id="token-9-42" morph="none" pos="word" start_char="1411">наносит</TOKEN>
+<TOKEN end_char="1430" id="token-9-43" morph="none" pos="word" start_char="1419">существенный</TOKEN>
+<TOKEN end_char="1435" id="token-9-44" morph="none" pos="word" start_char="1432">вред</TOKEN>
+<TOKEN end_char="1445" id="token-9-45" morph="none" pos="word" start_char="1437">экономике</TOKEN>
+<TOKEN end_char="1449" id="token-9-46" morph="none" pos="word" start_char="1447">США</TOKEN>
+<TOKEN end_char="1450" id="token-9-47" morph="none" pos="punct" start_char="1450">,</TOKEN>
+<TOKEN end_char="1452" id="token-9-48" morph="none" pos="word" start_char="1452">а</TOKEN>
+<TOKEN end_char="1458" id="token-9-49" morph="none" pos="word" start_char="1454">Билла</TOKEN>
+<TOKEN end_char="1465" id="token-9-50" morph="none" pos="word" start_char="1460">Гейтса</TOKEN>
+<TOKEN end_char="1474" id="token-9-51" morph="none" pos="word" start_char="1467">обвиняли</TOKEN>
+<TOKEN end_char="1476" id="token-9-52" morph="none" pos="word" start_char="1476">в</TOKEN>
+<TOKEN end_char="1489" id="token-9-53" morph="none" pos="word" start_char="1478">планировании</TOKEN>
+<TOKEN end_char="1503" id="token-9-54" morph="none" pos="word" start_char="1491">использования</TOKEN>
+<TOKEN end_char="1514" id="token-9-55" morph="none" pos="word" start_char="1505">вакцинации</TOKEN>
+<TOKEN end_char="1518" id="token-9-56" morph="none" pos="word" start_char="1516">для</TOKEN>
+<TOKEN end_char="1528" id="token-9-57" morph="none" pos="word" start_char="1520">чипизации</TOKEN>
+<TOKEN end_char="1530" id="token-9-58" morph="none" pos="word" start_char="1530">и</TOKEN>
+<TOKEN end_char="1538" id="token-9-59" morph="none" pos="word" start_char="1532">попытке</TOKEN>
+<TOKEN end_char="1549" id="token-9-60" morph="none" pos="word" start_char="1540">установить</TOKEN>
+<TOKEN end_char="1559" id="token-9-61" morph="none" pos="word" start_char="1551">тотальный</TOKEN>
+<TOKEN end_char="1568" id="token-9-62" morph="none" pos="word" start_char="1561">контроль</TOKEN>
+<TOKEN end_char="1569" id="token-9-63" morph="none" pos="punct" start_char="1569">.</TOKEN>
+<TRANSLATED_TEXT>In fact, the News Front article is based on the story of the Special Report on The Next News Network, in which three medical and scientific representatives, Rasheed Butar, Shiva Ayadurai and Judy Maikovitz, demanded the arrest of Fawcett for causing significant damage to the US economy, and accused Bill Gates of planning to use vaccines for the vaccination and attempting to establish total control.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1678" id="segment-10" start_char="1571">
+<ORIGINAL_TEXT>Следует отметить, что этот сюжет официальном канале Special Report на The Next News Network уже не доступен.</ORIGINAL_TEXT>
+<TOKEN end_char="1577" id="token-10-0" morph="none" pos="word" start_char="1571">Следует</TOKEN>
+<TOKEN end_char="1586" id="token-10-1" morph="none" pos="word" start_char="1579">отметить</TOKEN>
+<TOKEN end_char="1587" id="token-10-2" morph="none" pos="punct" start_char="1587">,</TOKEN>
+<TOKEN end_char="1591" id="token-10-3" morph="none" pos="word" start_char="1589">что</TOKEN>
+<TOKEN end_char="1596" id="token-10-4" morph="none" pos="word" start_char="1593">этот</TOKEN>
+<TOKEN end_char="1602" id="token-10-5" morph="none" pos="word" start_char="1598">сюжет</TOKEN>
+<TOKEN end_char="1614" id="token-10-6" morph="none" pos="word" start_char="1604">официальном</TOKEN>
+<TOKEN end_char="1621" id="token-10-7" morph="none" pos="word" start_char="1616">канале</TOKEN>
+<TOKEN end_char="1629" id="token-10-8" morph="none" pos="word" start_char="1623">Special</TOKEN>
+<TOKEN end_char="1636" id="token-10-9" morph="none" pos="word" start_char="1631">Report</TOKEN>
+<TOKEN end_char="1639" id="token-10-10" morph="none" pos="word" start_char="1638">на</TOKEN>
+<TOKEN end_char="1643" id="token-10-11" morph="none" pos="word" start_char="1641">The</TOKEN>
+<TOKEN end_char="1648" id="token-10-12" morph="none" pos="word" start_char="1645">Next</TOKEN>
+<TOKEN end_char="1653" id="token-10-13" morph="none" pos="word" start_char="1650">News</TOKEN>
+<TOKEN end_char="1661" id="token-10-14" morph="none" pos="word" start_char="1655">Network</TOKEN>
+<TOKEN end_char="1665" id="token-10-15" morph="none" pos="word" start_char="1663">уже</TOKEN>
+<TOKEN end_char="1668" id="token-10-16" morph="none" pos="word" start_char="1667">не</TOKEN>
+<TOKEN end_char="1677" id="token-10-17" morph="none" pos="word" start_char="1670">доступен</TOKEN>
+<TOKEN end_char="1678" id="token-10-18" morph="none" pos="punct" start_char="1678">.</TOKEN>
+<TRANSLATED_TEXT>It should be noted that this story is no longer available on the official Special Report channel of The Next News Network.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1762" id="segment-11" start_char="1680">
+<ORIGINAL_TEXT>Видео загружено только отдельными пользователями и датировано 30 апреля, 1 и 2 мая.</ORIGINAL_TEXT>
+<TOKEN end_char="1684" id="token-11-0" morph="none" pos="word" start_char="1680">Видео</TOKEN>
+<TOKEN end_char="1694" id="token-11-1" morph="none" pos="word" start_char="1686">загружено</TOKEN>
+<TOKEN end_char="1701" id="token-11-2" morph="none" pos="word" start_char="1696">только</TOKEN>
+<TOKEN end_char="1712" id="token-11-3" morph="none" pos="word" start_char="1703">отдельными</TOKEN>
+<TOKEN end_char="1727" id="token-11-4" morph="none" pos="word" start_char="1714">пользователями</TOKEN>
+<TOKEN end_char="1729" id="token-11-5" morph="none" pos="word" start_char="1729">и</TOKEN>
+<TOKEN end_char="1740" id="token-11-6" morph="none" pos="word" start_char="1731">датировано</TOKEN>
+<TOKEN end_char="1743" id="token-11-7" morph="none" pos="word" start_char="1742">30</TOKEN>
+<TOKEN end_char="1750" id="token-11-8" morph="none" pos="word" start_char="1745">апреля</TOKEN>
+<TOKEN end_char="1751" id="token-11-9" morph="none" pos="punct" start_char="1751">,</TOKEN>
+<TOKEN end_char="1753" id="token-11-10" morph="none" pos="word" start_char="1753">1</TOKEN>
+<TOKEN end_char="1755" id="token-11-11" morph="none" pos="word" start_char="1755">и</TOKEN>
+<TOKEN end_char="1757" id="token-11-12" morph="none" pos="word" start_char="1757">2</TOKEN>
+<TOKEN end_char="1761" id="token-11-13" morph="none" pos="word" start_char="1759">мая</TOKEN>
+<TOKEN end_char="1762" id="token-11-14" morph="none" pos="punct" start_char="1762">.</TOKEN>
+<TRANSLATED_TEXT>The video is only uploaded by individual users and is dated April 30, May 1 and May 2.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1891" id="segment-12" start_char="1766">
+<ORIGINAL_TEXT>Обвинения против Билла Гейтса о чипизации и проведении опытов на детей не являются новыми и не соответствуют действительности.</ORIGINAL_TEXT>
+<TOKEN end_char="1774" id="token-12-0" morph="none" pos="word" start_char="1766">Обвинения</TOKEN>
+<TOKEN end_char="1781" id="token-12-1" morph="none" pos="word" start_char="1776">против</TOKEN>
+<TOKEN end_char="1787" id="token-12-2" morph="none" pos="word" start_char="1783">Билла</TOKEN>
+<TOKEN end_char="1794" id="token-12-3" morph="none" pos="word" start_char="1789">Гейтса</TOKEN>
+<TOKEN end_char="1796" id="token-12-4" morph="none" pos="word" start_char="1796">о</TOKEN>
+<TOKEN end_char="1806" id="token-12-5" morph="none" pos="word" start_char="1798">чипизации</TOKEN>
+<TOKEN end_char="1808" id="token-12-6" morph="none" pos="word" start_char="1808">и</TOKEN>
+<TOKEN end_char="1819" id="token-12-7" morph="none" pos="word" start_char="1810">проведении</TOKEN>
+<TOKEN end_char="1826" id="token-12-8" morph="none" pos="word" start_char="1821">опытов</TOKEN>
+<TOKEN end_char="1829" id="token-12-9" morph="none" pos="word" start_char="1828">на</TOKEN>
+<TOKEN end_char="1835" id="token-12-10" morph="none" pos="word" start_char="1831">детей</TOKEN>
+<TOKEN end_char="1838" id="token-12-11" morph="none" pos="word" start_char="1837">не</TOKEN>
+<TOKEN end_char="1847" id="token-12-12" morph="none" pos="word" start_char="1840">являются</TOKEN>
+<TOKEN end_char="1854" id="token-12-13" morph="none" pos="word" start_char="1849">новыми</TOKEN>
+<TOKEN end_char="1856" id="token-12-14" morph="none" pos="word" start_char="1856">и</TOKEN>
+<TOKEN end_char="1859" id="token-12-15" morph="none" pos="word" start_char="1858">не</TOKEN>
+<TOKEN end_char="1873" id="token-12-16" morph="none" pos="word" start_char="1861">соответствуют</TOKEN>
+<TOKEN end_char="1890" id="token-12-17" morph="none" pos="word" start_char="1875">действительности</TOKEN>
+<TOKEN end_char="1891" id="token-12-18" morph="none" pos="punct" start_char="1891">.</TOKEN>
+<TRANSLATED_TEXT>The charges against Bill Gates for chipping and testing children are not new and are not true.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1947" id="segment-13" start_char="1893">
+<ORIGINAL_TEXT>«Детектор мифов» также подготавливал материалы об этом.</ORIGINAL_TEXT>
+<TOKEN end_char="1893" id="token-13-0" morph="none" pos="punct" start_char="1893">«</TOKEN>
+<TOKEN end_char="1901" id="token-13-1" morph="none" pos="word" start_char="1894">Детектор</TOKEN>
+<TOKEN end_char="1907" id="token-13-2" morph="none" pos="word" start_char="1903">мифов</TOKEN>
+<TOKEN end_char="1908" id="token-13-3" morph="none" pos="punct" start_char="1908">»</TOKEN>
+<TOKEN end_char="1914" id="token-13-4" morph="none" pos="word" start_char="1910">также</TOKEN>
+<TOKEN end_char="1928" id="token-13-5" morph="none" pos="word" start_char="1916">подготавливал</TOKEN>
+<TOKEN end_char="1938" id="token-13-6" morph="none" pos="word" start_char="1930">материалы</TOKEN>
+<TOKEN end_char="1941" id="token-13-7" morph="none" pos="word" start_char="1940">об</TOKEN>
+<TOKEN end_char="1946" id="token-13-8" morph="none" pos="word" start_char="1943">этом</TOKEN>
+<TOKEN end_char="1947" id="token-13-9" morph="none" pos="punct" start_char="1947">.</TOKEN>
+<TRANSLATED_TEXT>The "Myths Detector" has also produced material on this.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2134" id="segment-14" start_char="1949">
+<ORIGINAL_TEXT>Довольно распространена конспирационная теория о том, что Билл Гейтс намеревается использовать вакцинацию против коронавируса для ввода микрочипов людям, что нацелено на полный контроль.</ORIGINAL_TEXT>
+<TOKEN end_char="1956" id="token-14-0" morph="none" pos="word" start_char="1949">Довольно</TOKEN>
+<TOKEN end_char="1971" id="token-14-1" morph="none" pos="word" start_char="1958">распространена</TOKEN>
+<TOKEN end_char="1987" id="token-14-2" morph="none" pos="word" start_char="1973">конспирационная</TOKEN>
+<TOKEN end_char="1994" id="token-14-3" morph="none" pos="word" start_char="1989">теория</TOKEN>
+<TOKEN end_char="1996" id="token-14-4" morph="none" pos="word" start_char="1996">о</TOKEN>
+<TOKEN end_char="2000" id="token-14-5" morph="none" pos="word" start_char="1998">том</TOKEN>
+<TOKEN end_char="2001" id="token-14-6" morph="none" pos="punct" start_char="2001">,</TOKEN>
+<TOKEN end_char="2005" id="token-14-7" morph="none" pos="word" start_char="2003">что</TOKEN>
+<TOKEN end_char="2010" id="token-14-8" morph="none" pos="word" start_char="2007">Билл</TOKEN>
+<TOKEN end_char="2016" id="token-14-9" morph="none" pos="word" start_char="2012">Гейтс</TOKEN>
+<TOKEN end_char="2029" id="token-14-10" morph="none" pos="word" start_char="2018">намеревается</TOKEN>
+<TOKEN end_char="2042" id="token-14-11" morph="none" pos="word" start_char="2031">использовать</TOKEN>
+<TOKEN end_char="2053" id="token-14-12" morph="none" pos="word" start_char="2044">вакцинацию</TOKEN>
+<TOKEN end_char="2060" id="token-14-13" morph="none" pos="word" start_char="2055">против</TOKEN>
+<TOKEN end_char="2073" id="token-14-14" morph="none" pos="word" start_char="2062">коронавируса</TOKEN>
+<TOKEN end_char="2077" id="token-14-15" morph="none" pos="word" start_char="2075">для</TOKEN>
+<TOKEN end_char="2083" id="token-14-16" morph="none" pos="word" start_char="2079">ввода</TOKEN>
+<TOKEN end_char="2094" id="token-14-17" morph="none" pos="word" start_char="2085">микрочипов</TOKEN>
+<TOKEN end_char="2100" id="token-14-18" morph="none" pos="word" start_char="2096">людям</TOKEN>
+<TOKEN end_char="2101" id="token-14-19" morph="none" pos="punct" start_char="2101">,</TOKEN>
+<TOKEN end_char="2105" id="token-14-20" morph="none" pos="word" start_char="2103">что</TOKEN>
+<TOKEN end_char="2114" id="token-14-21" morph="none" pos="word" start_char="2107">нацелено</TOKEN>
+<TOKEN end_char="2117" id="token-14-22" morph="none" pos="word" start_char="2116">на</TOKEN>
+<TOKEN end_char="2124" id="token-14-23" morph="none" pos="word" start_char="2119">полный</TOKEN>
+<TOKEN end_char="2133" id="token-14-24" morph="none" pos="word" start_char="2126">контроль</TOKEN>
+<TOKEN end_char="2134" id="token-14-25" morph="none" pos="punct" start_char="2134">.</TOKEN>
+<TRANSLATED_TEXT>There is a conspiracy theory that Bill Gates intends to use coronavirus vaccination to inject microchips into people, which is aimed at full control.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2180" id="segment-15" start_char="2136">
+<ORIGINAL_TEXT>Однако это не соответствует действительности.</ORIGINAL_TEXT>
+<TOKEN end_char="2141" id="token-15-0" morph="none" pos="word" start_char="2136">Однако</TOKEN>
+<TOKEN end_char="2145" id="token-15-1" morph="none" pos="word" start_char="2143">это</TOKEN>
+<TOKEN end_char="2148" id="token-15-2" morph="none" pos="word" start_char="2147">не</TOKEN>
+<TOKEN end_char="2162" id="token-15-3" morph="none" pos="word" start_char="2150">соответствует</TOKEN>
+<TOKEN end_char="2179" id="token-15-4" morph="none" pos="word" start_char="2164">действительности</TOKEN>
+<TOKEN end_char="2180" id="token-15-5" morph="none" pos="punct" start_char="2180">.</TOKEN>
+<TRANSLATED_TEXT>However, this is not true.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2462" id="segment-16" start_char="2182">
+<ORIGINAL_TEXT>Эта конспирационная теория сформировалась после того, как Билл Гейтс, в итоге, предсказал существование «цифровых сертификатов», что, как сказал Reuters Фонд Билла и Мелинды Гейтс, предполагает наличие открытой платформы, которая ставит своей целью расширенный доступ к информации.</ORIGINAL_TEXT>
+<TOKEN end_char="2184" id="token-16-0" morph="none" pos="word" start_char="2182">Эта</TOKEN>
+<TOKEN end_char="2200" id="token-16-1" morph="none" pos="word" start_char="2186">конспирационная</TOKEN>
+<TOKEN end_char="2207" id="token-16-2" morph="none" pos="word" start_char="2202">теория</TOKEN>
+<TOKEN end_char="2222" id="token-16-3" morph="none" pos="word" start_char="2209">сформировалась</TOKEN>
+<TOKEN end_char="2228" id="token-16-4" morph="none" pos="word" start_char="2224">после</TOKEN>
+<TOKEN end_char="2233" id="token-16-5" morph="none" pos="word" start_char="2230">того</TOKEN>
+<TOKEN end_char="2234" id="token-16-6" morph="none" pos="punct" start_char="2234">,</TOKEN>
+<TOKEN end_char="2238" id="token-16-7" morph="none" pos="word" start_char="2236">как</TOKEN>
+<TOKEN end_char="2243" id="token-16-8" morph="none" pos="word" start_char="2240">Билл</TOKEN>
+<TOKEN end_char="2249" id="token-16-9" morph="none" pos="word" start_char="2245">Гейтс</TOKEN>
+<TOKEN end_char="2250" id="token-16-10" morph="none" pos="punct" start_char="2250">,</TOKEN>
+<TOKEN end_char="2252" id="token-16-11" morph="none" pos="word" start_char="2252">в</TOKEN>
+<TOKEN end_char="2258" id="token-16-12" morph="none" pos="word" start_char="2254">итоге</TOKEN>
+<TOKEN end_char="2259" id="token-16-13" morph="none" pos="punct" start_char="2259">,</TOKEN>
+<TOKEN end_char="2270" id="token-16-14" morph="none" pos="word" start_char="2261">предсказал</TOKEN>
+<TOKEN end_char="2284" id="token-16-15" morph="none" pos="word" start_char="2272">существование</TOKEN>
+<TOKEN end_char="2286" id="token-16-16" morph="none" pos="punct" start_char="2286">«</TOKEN>
+<TOKEN end_char="2294" id="token-16-17" morph="none" pos="word" start_char="2287">цифровых</TOKEN>
+<TOKEN end_char="2307" id="token-16-18" morph="none" pos="word" start_char="2296">сертификатов</TOKEN>
+<TOKEN end_char="2309" id="token-16-19" morph="none" pos="punct" start_char="2308">»,</TOKEN>
+<TOKEN end_char="2313" id="token-16-20" morph="none" pos="word" start_char="2311">что</TOKEN>
+<TOKEN end_char="2314" id="token-16-21" morph="none" pos="punct" start_char="2314">,</TOKEN>
+<TOKEN end_char="2318" id="token-16-22" morph="none" pos="word" start_char="2316">как</TOKEN>
+<TOKEN end_char="2325" id="token-16-23" morph="none" pos="word" start_char="2320">сказал</TOKEN>
+<TOKEN end_char="2333" id="token-16-24" morph="none" pos="word" start_char="2327">Reuters</TOKEN>
+<TOKEN end_char="2338" id="token-16-25" morph="none" pos="word" start_char="2335">Фонд</TOKEN>
+<TOKEN end_char="2344" id="token-16-26" morph="none" pos="word" start_char="2340">Билла</TOKEN>
+<TOKEN end_char="2346" id="token-16-27" morph="none" pos="word" start_char="2346">и</TOKEN>
+<TOKEN end_char="2354" id="token-16-28" morph="none" pos="word" start_char="2348">Мелинды</TOKEN>
+<TOKEN end_char="2360" id="token-16-29" morph="none" pos="word" start_char="2356">Гейтс</TOKEN>
+<TOKEN end_char="2361" id="token-16-30" morph="none" pos="punct" start_char="2361">,</TOKEN>
+<TOKEN end_char="2374" id="token-16-31" morph="none" pos="word" start_char="2363">предполагает</TOKEN>
+<TOKEN end_char="2382" id="token-16-32" morph="none" pos="word" start_char="2376">наличие</TOKEN>
+<TOKEN end_char="2391" id="token-16-33" morph="none" pos="word" start_char="2384">открытой</TOKEN>
+<TOKEN end_char="2401" id="token-16-34" morph="none" pos="word" start_char="2393">платформы</TOKEN>
+<TOKEN end_char="2402" id="token-16-35" morph="none" pos="punct" start_char="2402">,</TOKEN>
+<TOKEN end_char="2410" id="token-16-36" morph="none" pos="word" start_char="2404">которая</TOKEN>
+<TOKEN end_char="2417" id="token-16-37" morph="none" pos="word" start_char="2412">ставит</TOKEN>
+<TOKEN end_char="2423" id="token-16-38" morph="none" pos="word" start_char="2419">своей</TOKEN>
+<TOKEN end_char="2429" id="token-16-39" morph="none" pos="word" start_char="2425">целью</TOKEN>
+<TOKEN end_char="2441" id="token-16-40" morph="none" pos="word" start_char="2431">расширенный</TOKEN>
+<TOKEN end_char="2448" id="token-16-41" morph="none" pos="word" start_char="2443">доступ</TOKEN>
+<TOKEN end_char="2450" id="token-16-42" morph="none" pos="word" start_char="2450">к</TOKEN>
+<TOKEN end_char="2461" id="token-16-43" morph="none" pos="word" start_char="2452">информации</TOKEN>
+<TOKEN end_char="2462" id="token-16-44" morph="none" pos="punct" start_char="2462">.</TOKEN>
+<TRANSLATED_TEXT>This conspiracy theory arose after Bill Gates eventually predicted the existence of "digital certificates," which, according to Reuters, the Bill and Melinda Gates Foundation suggests an open platform that aims to expand access to information.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2515" id="segment-17" start_char="2464">
+<ORIGINAL_TEXT>Билл Гейтс не упоминал имплантацию микрочипов людям.</ORIGINAL_TEXT>
+<TOKEN end_char="2467" id="token-17-0" morph="none" pos="word" start_char="2464">Билл</TOKEN>
+<TOKEN end_char="2473" id="token-17-1" morph="none" pos="word" start_char="2469">Гейтс</TOKEN>
+<TOKEN end_char="2476" id="token-17-2" morph="none" pos="word" start_char="2475">не</TOKEN>
+<TOKEN end_char="2485" id="token-17-3" morph="none" pos="word" start_char="2478">упоминал</TOKEN>
+<TOKEN end_char="2497" id="token-17-4" morph="none" pos="word" start_char="2487">имплантацию</TOKEN>
+<TOKEN end_char="2508" id="token-17-5" morph="none" pos="word" start_char="2499">микрочипов</TOKEN>
+<TOKEN end_char="2514" id="token-17-6" morph="none" pos="word" start_char="2510">людям</TOKEN>
+<TOKEN end_char="2515" id="token-17-7" morph="none" pos="punct" start_char="2515">.</TOKEN>
+<TRANSLATED_TEXT>Bill Gates didn 't mention microchip implants to people.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2631" id="segment-18" start_char="2517">
+<ORIGINAL_TEXT>Также ложно утверждение, что Билла Гейтса судят за проведенные над детьми опыты и преступления против человечности.</ORIGINAL_TEXT>
+<TOKEN end_char="2521" id="token-18-0" morph="none" pos="word" start_char="2517">Также</TOKEN>
+<TOKEN end_char="2527" id="token-18-1" morph="none" pos="word" start_char="2523">ложно</TOKEN>
+<TOKEN end_char="2539" id="token-18-2" morph="none" pos="word" start_char="2529">утверждение</TOKEN>
+<TOKEN end_char="2540" id="token-18-3" morph="none" pos="punct" start_char="2540">,</TOKEN>
+<TOKEN end_char="2544" id="token-18-4" morph="none" pos="word" start_char="2542">что</TOKEN>
+<TOKEN end_char="2550" id="token-18-5" morph="none" pos="word" start_char="2546">Билла</TOKEN>
+<TOKEN end_char="2557" id="token-18-6" morph="none" pos="word" start_char="2552">Гейтса</TOKEN>
+<TOKEN end_char="2563" id="token-18-7" morph="none" pos="word" start_char="2559">судят</TOKEN>
+<TOKEN end_char="2566" id="token-18-8" morph="none" pos="word" start_char="2565">за</TOKEN>
+<TOKEN end_char="2578" id="token-18-9" morph="none" pos="word" start_char="2568">проведенные</TOKEN>
+<TOKEN end_char="2582" id="token-18-10" morph="none" pos="word" start_char="2580">над</TOKEN>
+<TOKEN end_char="2589" id="token-18-11" morph="none" pos="word" start_char="2584">детьми</TOKEN>
+<TOKEN end_char="2595" id="token-18-12" morph="none" pos="word" start_char="2591">опыты</TOKEN>
+<TOKEN end_char="2597" id="token-18-13" morph="none" pos="word" start_char="2597">и</TOKEN>
+<TOKEN end_char="2610" id="token-18-14" morph="none" pos="word" start_char="2599">преступления</TOKEN>
+<TOKEN end_char="2617" id="token-18-15" morph="none" pos="word" start_char="2612">против</TOKEN>
+<TOKEN end_char="2630" id="token-18-16" morph="none" pos="word" start_char="2619">человечности</TOKEN>
+<TOKEN end_char="2631" id="token-18-17" morph="none" pos="punct" start_char="2631">.</TOKEN>
+<TRANSLATED_TEXT>It is also false to say that Bill Gates is being tried for child trials and crimes against humanity.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2761" id="segment-19" start_char="2636">
+<ORIGINAL_TEXT>Группа по проверке фактов Reuters также написала о том, что такие обвинения против Энтони Фаучи и Билла Гейтса являются ложью.</ORIGINAL_TEXT>
+<TOKEN end_char="2641" id="token-19-0" morph="none" pos="word" start_char="2636">Группа</TOKEN>
+<TOKEN end_char="2644" id="token-19-1" morph="none" pos="word" start_char="2643">по</TOKEN>
+<TOKEN end_char="2653" id="token-19-2" morph="none" pos="word" start_char="2646">проверке</TOKEN>
+<TOKEN end_char="2660" id="token-19-3" morph="none" pos="word" start_char="2655">фактов</TOKEN>
+<TOKEN end_char="2668" id="token-19-4" morph="none" pos="word" start_char="2662">Reuters</TOKEN>
+<TOKEN end_char="2674" id="token-19-5" morph="none" pos="word" start_char="2670">также</TOKEN>
+<TOKEN end_char="2683" id="token-19-6" morph="none" pos="word" start_char="2676">написала</TOKEN>
+<TOKEN end_char="2685" id="token-19-7" morph="none" pos="word" start_char="2685">о</TOKEN>
+<TOKEN end_char="2689" id="token-19-8" morph="none" pos="word" start_char="2687">том</TOKEN>
+<TOKEN end_char="2690" id="token-19-9" morph="none" pos="punct" start_char="2690">,</TOKEN>
+<TOKEN end_char="2694" id="token-19-10" morph="none" pos="word" start_char="2692">что</TOKEN>
+<TOKEN end_char="2700" id="token-19-11" morph="none" pos="word" start_char="2696">такие</TOKEN>
+<TOKEN end_char="2710" id="token-19-12" morph="none" pos="word" start_char="2702">обвинения</TOKEN>
+<TOKEN end_char="2717" id="token-19-13" morph="none" pos="word" start_char="2712">против</TOKEN>
+<TOKEN end_char="2724" id="token-19-14" morph="none" pos="word" start_char="2719">Энтони</TOKEN>
+<TOKEN end_char="2730" id="token-19-15" morph="none" pos="word" start_char="2726">Фаучи</TOKEN>
+<TOKEN end_char="2732" id="token-19-16" morph="none" pos="word" start_char="2732">и</TOKEN>
+<TOKEN end_char="2738" id="token-19-17" morph="none" pos="word" start_char="2734">Билла</TOKEN>
+<TOKEN end_char="2745" id="token-19-18" morph="none" pos="word" start_char="2740">Гейтса</TOKEN>
+<TOKEN end_char="2754" id="token-19-19" morph="none" pos="word" start_char="2747">являются</TOKEN>
+<TOKEN end_char="2760" id="token-19-20" morph="none" pos="word" start_char="2756">ложью</TOKEN>
+<TOKEN end_char="2761" id="token-19-21" morph="none" pos="punct" start_char="2761">.</TOKEN>
+<TRANSLATED_TEXT>The Reuters fact-finding team also wrote that such charges against Anthony Fawcett and Bill Gates were false.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2965" id="segment-20" start_char="2764">
+<ORIGINAL_TEXT>Что касается финансирования в размере 3,7 миллиона долларов, предоставленного Администрацией Обама Уханьской лаборатории, то в статье платформы по проверке фактов Snopes говорится, что это отчасти ложь.</ORIGINAL_TEXT>
+<TOKEN end_char="2766" id="token-20-0" morph="none" pos="word" start_char="2764">Что</TOKEN>
+<TOKEN end_char="2775" id="token-20-1" morph="none" pos="word" start_char="2768">касается</TOKEN>
+<TOKEN end_char="2790" id="token-20-2" morph="none" pos="word" start_char="2777">финансирования</TOKEN>
+<TOKEN end_char="2792" id="token-20-3" morph="none" pos="word" start_char="2792">в</TOKEN>
+<TOKEN end_char="2800" id="token-20-4" morph="none" pos="word" start_char="2794">размере</TOKEN>
+<TOKEN end_char="2804" id="token-20-5" morph="none" pos="unknown" start_char="2802">3,7</TOKEN>
+<TOKEN end_char="2813" id="token-20-6" morph="none" pos="word" start_char="2806">миллиона</TOKEN>
+<TOKEN end_char="2822" id="token-20-7" morph="none" pos="word" start_char="2815">долларов</TOKEN>
+<TOKEN end_char="2823" id="token-20-8" morph="none" pos="punct" start_char="2823">,</TOKEN>
+<TOKEN end_char="2840" id="token-20-9" morph="none" pos="word" start_char="2825">предоставленного</TOKEN>
+<TOKEN end_char="2855" id="token-20-10" morph="none" pos="word" start_char="2842">Администрацией</TOKEN>
+<TOKEN end_char="2861" id="token-20-11" morph="none" pos="word" start_char="2857">Обама</TOKEN>
+<TOKEN end_char="2871" id="token-20-12" morph="none" pos="word" start_char="2863">Уханьской</TOKEN>
+<TOKEN end_char="2883" id="token-20-13" morph="none" pos="word" start_char="2873">лаборатории</TOKEN>
+<TOKEN end_char="2884" id="token-20-14" morph="none" pos="punct" start_char="2884">,</TOKEN>
+<TOKEN end_char="2887" id="token-20-15" morph="none" pos="word" start_char="2886">то</TOKEN>
+<TOKEN end_char="2889" id="token-20-16" morph="none" pos="word" start_char="2889">в</TOKEN>
+<TOKEN end_char="2896" id="token-20-17" morph="none" pos="word" start_char="2891">статье</TOKEN>
+<TOKEN end_char="2906" id="token-20-18" morph="none" pos="word" start_char="2898">платформы</TOKEN>
+<TOKEN end_char="2909" id="token-20-19" morph="none" pos="word" start_char="2908">по</TOKEN>
+<TOKEN end_char="2918" id="token-20-20" morph="none" pos="word" start_char="2911">проверке</TOKEN>
+<TOKEN end_char="2925" id="token-20-21" morph="none" pos="word" start_char="2920">фактов</TOKEN>
+<TOKEN end_char="2932" id="token-20-22" morph="none" pos="word" start_char="2927">Snopes</TOKEN>
+<TOKEN end_char="2942" id="token-20-23" morph="none" pos="word" start_char="2934">говорится</TOKEN>
+<TOKEN end_char="2943" id="token-20-24" morph="none" pos="punct" start_char="2943">,</TOKEN>
+<TOKEN end_char="2947" id="token-20-25" morph="none" pos="word" start_char="2945">что</TOKEN>
+<TOKEN end_char="2951" id="token-20-26" morph="none" pos="word" start_char="2949">это</TOKEN>
+<TOKEN end_char="2959" id="token-20-27" morph="none" pos="word" start_char="2953">отчасти</TOKEN>
+<TOKEN end_char="2964" id="token-20-28" morph="none" pos="word" start_char="2961">ложь</TOKEN>
+<TOKEN end_char="2965" id="token-20-29" morph="none" pos="punct" start_char="2965">.</TOKEN>
+<TRANSLATED_TEXT>With regard to the $3.7 million funding provided by the Obama Administration to the Wuhan Laboratory, the Snopes fact-checking platform article states that this is partly a lie.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="3254" id="segment-21" start_char="2967">
+<ORIGINAL_TEXT>В частности, верно, что часть из 3,7 млн долларов США в 2014–2019 годах была переведена из Национального института здравоохранения в Eco Health Alliance, глобальной некоммерческой организацию по охране окружающей среды, которая финансировала исследования Уханьского института вирусологии.</ORIGINAL_TEXT>
+<TOKEN end_char="2967" id="token-21-0" morph="none" pos="word" start_char="2967">В</TOKEN>
+<TOKEN end_char="2977" id="token-21-1" morph="none" pos="word" start_char="2969">частности</TOKEN>
+<TOKEN end_char="2978" id="token-21-2" morph="none" pos="punct" start_char="2978">,</TOKEN>
+<TOKEN end_char="2984" id="token-21-3" morph="none" pos="word" start_char="2980">верно</TOKEN>
+<TOKEN end_char="2985" id="token-21-4" morph="none" pos="punct" start_char="2985">,</TOKEN>
+<TOKEN end_char="2989" id="token-21-5" morph="none" pos="word" start_char="2987">что</TOKEN>
+<TOKEN end_char="2995" id="token-21-6" morph="none" pos="word" start_char="2991">часть</TOKEN>
+<TOKEN end_char="2998" id="token-21-7" morph="none" pos="word" start_char="2997">из</TOKEN>
+<TOKEN end_char="3002" id="token-21-8" morph="none" pos="unknown" start_char="3000">3,7</TOKEN>
+<TOKEN end_char="3006" id="token-21-9" morph="none" pos="word" start_char="3004">млн</TOKEN>
+<TOKEN end_char="3015" id="token-21-10" morph="none" pos="word" start_char="3008">долларов</TOKEN>
+<TOKEN end_char="3019" id="token-21-11" morph="none" pos="word" start_char="3017">США</TOKEN>
+<TOKEN end_char="3021" id="token-21-12" morph="none" pos="word" start_char="3021">в</TOKEN>
+<TOKEN end_char="3031" id="token-21-13" morph="none" pos="unknown" start_char="3023">2014–2019</TOKEN>
+<TOKEN end_char="3037" id="token-21-14" morph="none" pos="word" start_char="3033">годах</TOKEN>
+<TOKEN end_char="3042" id="token-21-15" morph="none" pos="word" start_char="3039">была</TOKEN>
+<TOKEN end_char="3053" id="token-21-16" morph="none" pos="word" start_char="3044">переведена</TOKEN>
+<TOKEN end_char="3056" id="token-21-17" morph="none" pos="word" start_char="3055">из</TOKEN>
+<TOKEN end_char="3070" id="token-21-18" morph="none" pos="word" start_char="3058">Национального</TOKEN>
+<TOKEN end_char="3080" id="token-21-19" morph="none" pos="word" start_char="3072">института</TOKEN>
+<TOKEN end_char="3096" id="token-21-20" morph="none" pos="word" start_char="3082">здравоохранения</TOKEN>
+<TOKEN end_char="3098" id="token-21-21" morph="none" pos="word" start_char="3098">в</TOKEN>
+<TOKEN end_char="3102" id="token-21-22" morph="none" pos="word" start_char="3100">Eco</TOKEN>
+<TOKEN end_char="3109" id="token-21-23" morph="none" pos="word" start_char="3104">Health</TOKEN>
+<TOKEN end_char="3118" id="token-21-24" morph="none" pos="word" start_char="3111">Alliance</TOKEN>
+<TOKEN end_char="3119" id="token-21-25" morph="none" pos="punct" start_char="3119">,</TOKEN>
+<TOKEN end_char="3130" id="token-21-26" morph="none" pos="word" start_char="3121">глобальной</TOKEN>
+<TOKEN end_char="3145" id="token-21-27" morph="none" pos="word" start_char="3132">некоммерческой</TOKEN>
+<TOKEN end_char="3157" id="token-21-28" morph="none" pos="word" start_char="3147">организацию</TOKEN>
+<TOKEN end_char="3160" id="token-21-29" morph="none" pos="word" start_char="3159">по</TOKEN>
+<TOKEN end_char="3167" id="token-21-30" morph="none" pos="word" start_char="3162">охране</TOKEN>
+<TOKEN end_char="3178" id="token-21-31" morph="none" pos="word" start_char="3169">окружающей</TOKEN>
+<TOKEN end_char="3184" id="token-21-32" morph="none" pos="word" start_char="3180">среды</TOKEN>
+<TOKEN end_char="3185" id="token-21-33" morph="none" pos="punct" start_char="3185">,</TOKEN>
+<TOKEN end_char="3193" id="token-21-34" morph="none" pos="word" start_char="3187">которая</TOKEN>
+<TOKEN end_char="3207" id="token-21-35" morph="none" pos="word" start_char="3195">финансировала</TOKEN>
+<TOKEN end_char="3220" id="token-21-36" morph="none" pos="word" start_char="3209">исследования</TOKEN>
+<TOKEN end_char="3231" id="token-21-37" morph="none" pos="word" start_char="3222">Уханьского</TOKEN>
+<TOKEN end_char="3241" id="token-21-38" morph="none" pos="word" start_char="3233">института</TOKEN>
+<TOKEN end_char="3253" id="token-21-39" morph="none" pos="word" start_char="3243">вирусологии</TOKEN>
+<TOKEN end_char="3254" id="token-21-40" morph="none" pos="punct" start_char="3254">.</TOKEN>
+<TRANSLATED_TEXT>In particular, it is true that part of US $3.7 million in 2014-2019 was transferred from the National Institute of Health to the Eco Health Alliance, a global non-profit environmental organization that funded research by the Wuhan Institute of Virology.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="3430" id="segment-22" start_char="3256">
+<ORIGINAL_TEXT>Однако ошибочно то, что 3,7 млн долларов США были полностью потрачены на финансирование Уханьской лаборатории, а также Администрации Обама не выделяла этих финансов полностью.</ORIGINAL_TEXT>
+<TOKEN end_char="3261" id="token-22-0" morph="none" pos="word" start_char="3256">Однако</TOKEN>
+<TOKEN end_char="3270" id="token-22-1" morph="none" pos="word" start_char="3263">ошибочно</TOKEN>
+<TOKEN end_char="3273" id="token-22-2" morph="none" pos="word" start_char="3272">то</TOKEN>
+<TOKEN end_char="3274" id="token-22-3" morph="none" pos="punct" start_char="3274">,</TOKEN>
+<TOKEN end_char="3278" id="token-22-4" morph="none" pos="word" start_char="3276">что</TOKEN>
+<TOKEN end_char="3282" id="token-22-5" morph="none" pos="unknown" start_char="3280">3,7</TOKEN>
+<TOKEN end_char="3286" id="token-22-6" morph="none" pos="word" start_char="3284">млн</TOKEN>
+<TOKEN end_char="3295" id="token-22-7" morph="none" pos="word" start_char="3288">долларов</TOKEN>
+<TOKEN end_char="3299" id="token-22-8" morph="none" pos="word" start_char="3297">США</TOKEN>
+<TOKEN end_char="3304" id="token-22-9" morph="none" pos="word" start_char="3301">были</TOKEN>
+<TOKEN end_char="3314" id="token-22-10" morph="none" pos="word" start_char="3306">полностью</TOKEN>
+<TOKEN end_char="3324" id="token-22-11" morph="none" pos="word" start_char="3316">потрачены</TOKEN>
+<TOKEN end_char="3327" id="token-22-12" morph="none" pos="word" start_char="3326">на</TOKEN>
+<TOKEN end_char="3342" id="token-22-13" morph="none" pos="word" start_char="3329">финансирование</TOKEN>
+<TOKEN end_char="3352" id="token-22-14" morph="none" pos="word" start_char="3344">Уханьской</TOKEN>
+<TOKEN end_char="3364" id="token-22-15" morph="none" pos="word" start_char="3354">лаборатории</TOKEN>
+<TOKEN end_char="3365" id="token-22-16" morph="none" pos="punct" start_char="3365">,</TOKEN>
+<TOKEN end_char="3367" id="token-22-17" morph="none" pos="word" start_char="3367">а</TOKEN>
+<TOKEN end_char="3373" id="token-22-18" morph="none" pos="word" start_char="3369">также</TOKEN>
+<TOKEN end_char="3387" id="token-22-19" morph="none" pos="word" start_char="3375">Администрации</TOKEN>
+<TOKEN end_char="3393" id="token-22-20" morph="none" pos="word" start_char="3389">Обама</TOKEN>
+<TOKEN end_char="3396" id="token-22-21" morph="none" pos="word" start_char="3395">не</TOKEN>
+<TOKEN end_char="3405" id="token-22-22" morph="none" pos="word" start_char="3398">выделяла</TOKEN>
+<TOKEN end_char="3410" id="token-22-23" morph="none" pos="word" start_char="3407">этих</TOKEN>
+<TOKEN end_char="3419" id="token-22-24" morph="none" pos="word" start_char="3412">финансов</TOKEN>
+<TOKEN end_char="3429" id="token-22-25" morph="none" pos="word" start_char="3421">полностью</TOKEN>
+<TOKEN end_char="3430" id="token-22-26" morph="none" pos="punct" start_char="3430">.</TOKEN>
+<TRANSLATED_TEXT>But it is a mistake that US $3.7 million was spent entirely on the Wuhan Laboratory, and that the Obama Administration did not fully fund it.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="3544" id="segment-23" start_char="3432">
+<ORIGINAL_TEXT>Приблизительно 700 000 долларов из этих 3,7 миллионов долларов были утверждены при Администрации Дональда Трампа.</ORIGINAL_TEXT>
+<TOKEN end_char="3445" id="token-23-0" morph="none" pos="word" start_char="3432">Приблизительно</TOKEN>
+<TOKEN end_char="3449" id="token-23-1" morph="none" pos="word" start_char="3447">700</TOKEN>
+<TOKEN end_char="3453" id="token-23-2" morph="none" pos="word" start_char="3451">000</TOKEN>
+<TOKEN end_char="3462" id="token-23-3" morph="none" pos="word" start_char="3455">долларов</TOKEN>
+<TOKEN end_char="3465" id="token-23-4" morph="none" pos="word" start_char="3464">из</TOKEN>
+<TOKEN end_char="3470" id="token-23-5" morph="none" pos="word" start_char="3467">этих</TOKEN>
+<TOKEN end_char="3474" id="token-23-6" morph="none" pos="unknown" start_char="3472">3,7</TOKEN>
+<TOKEN end_char="3484" id="token-23-7" morph="none" pos="word" start_char="3476">миллионов</TOKEN>
+<TOKEN end_char="3493" id="token-23-8" morph="none" pos="word" start_char="3486">долларов</TOKEN>
+<TOKEN end_char="3498" id="token-23-9" morph="none" pos="word" start_char="3495">были</TOKEN>
+<TOKEN end_char="3509" id="token-23-10" morph="none" pos="word" start_char="3500">утверждены</TOKEN>
+<TOKEN end_char="3513" id="token-23-11" morph="none" pos="word" start_char="3511">при</TOKEN>
+<TOKEN end_char="3527" id="token-23-12" morph="none" pos="word" start_char="3515">Администрации</TOKEN>
+<TOKEN end_char="3536" id="token-23-13" morph="none" pos="word" start_char="3529">Дональда</TOKEN>
+<TOKEN end_char="3543" id="token-23-14" morph="none" pos="word" start_char="3538">Трампа</TOKEN>
+<TOKEN end_char="3544" id="token-23-15" morph="none" pos="punct" start_char="3544">.</TOKEN>
+<TRANSLATED_TEXT>Approximately $700,000 of this $3.7 million was approved under the Donald Trump administration.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

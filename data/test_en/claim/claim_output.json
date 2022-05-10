@@ -1,0 +1,3096 @@
+{
+    "L0C04958D": [
+        {
+            "segment_id": "segment-3",
+            "start_char": 237,
+            "end_char": 428,
+            "sentence": "A previously unknown variant of coronavirus that appeared in the Chinese city of Wuhan in December 2019 has already infected thousands of people, with cases confirmed in at least 20 countries.",
+            "claimbuster_score": 0.8680806933,
+            "topic_scores": {
+                "Who can contract the virus": {
+                    "score": 0.21894222497940063,
+                    "start": 125,
+                    "end": 144,
+                    "answer": "thousands of people",
+                    "sub_topic": "Who can contract COVID-19"
+                },
+                "Wearing masks has what negative effect": {
+                    "score": 2.8825972719914716e-08,
+                    "start": 116,
+                    "end": 144,
+                    "answer": "infected thousands of people",
+                    "sub_topic": "Harmful effects of wearing masks"
+                },
+                "Does wearing a mask harm your health?": {
+                    "score": 2.1793198357045185e-09,
+                    "start": 191,
+                    "end": 192,
+                    "answer": ".",
+                    "sub_topic": "Harmful effects of wearing masks"
+                },
+                "Wearing masks is required in what location": {
+                    "score": 9.153263924588373e-09,
+                    "start": 65,
+                    "end": 86,
+                    "answer": "Chinese city of Wuhan",
+                    "sub_topic": "Places where there are regulations for wearing masks to prevent the spread of COVID-19"
+                },
+                "What are CDC's recommendations for wearing face masks during the the virus pandemic?": {
+                    "score": 2.9758622233089227e-08,
+                    "start": 13,
+                    "end": 20,
+                    "answer": "unknown",
+                    "sub_topic": "Places where wearing masks is recommended to prevent the spread of COVID-19"
+                },
+                "Wearing masks is recommended in what location": {
+                    "score": 1.407971295108723e-09,
+                    "start": 81,
+                    "end": 86,
+                    "answer": "Wuhan",
+                    "sub_topic": "Places where wearing masks is recommended to prevent the spread of COVID-19"
+                },
+                "Wearing masks is necessary in what location": {
+                    "score": 7.099802523669041e-09,
+                    "start": 65,
+                    "end": 86,
+                    "answer": "Chinese city of Wuhan",
+                    "sub_topic": "Places where wearing masks is necessary to prevent the spread of COVID-19"
+                },
+                "Is it helpful to wear a mask during the the virus pandemic?": {
+                    "score": 0.00015318869554903358,
+                    "start": 2,
+                    "end": 20,
+                    "answer": "previously unknown",
+                    "sub_topic": "Places where wearing masks is necessary to prevent the spread of COVID-19"
+                },
+                "Where the first case of the virus occurred": {
+                    "score": 0.14832061529159546,
+                    "start": 61,
+                    "end": 86,
+                    "answer": "the Chinese city of Wuhan",
+                    "sub_topic": "Where the first case of COVID-19 occurred"
+                },
+                "what animal is associated/involved with the origin of the virus": {
+                    "score": 0.0019138595089316368,
+                    "start": 2,
+                    "end": 20,
+                    "answer": "previously unknown",
+                    "sub_topic": "Animals associated with the origin of COVID-19"
+                },
+                "What is the origin of the virus that causes the virus?": {
+                    "score": 0.42978063225746155,
+                    "start": 2,
+                    "end": 20,
+                    "answer": "previously unknown",
+                    "sub_topic": "Animals associated with the origin of COVID-19"
+                },
+                "What transmits the virus": {
+                    "score": 0.046385541558265686,
+                    "start": 0,
+                    "end": 43,
+                    "answer": "A previously unknown variant of coronavirus",
+                    "sub_topic": "What transmits COVID-19"
+                }
+            },
+            "topic": "Origin of the Virus",
+            "sub_topic": "Animals associated with the origin of COVID-19",
+            "template": "Animal-X is associated/involved with the origin of COVID-19",
+            "final_claim_score": 0.42978063225746155,
+            "subtopic_question": "What is the origin of the virus that causes the virus?",
+            "x_variable": "previously unknown variant of coronavirus",
+            "x_variable_start": 2,
+            "x_variable_end": 43,
+            "claim_span_start": 0,
+            "claim_span_end": 43,
+            "claim_span_text": "A previously unknown variant of coronavirus",
+            "claimer_debug": {
+                "score": 9.486291673965752e-05,
+                "start": 39,
+                "end": 57,
+                "answer": "pro-Kremlin actors"
+            },
+            "claimer_text": "<AUTHOR>",
+            "claimer_start": -1,
+            "claimer_end": -1,
+            "claimer_score": 9.486291673965752e-05
+        },
+        {
+            "segment_id": "segment-8",
+            "start_char": 890,
+            "end_char": 1144,
+            "sentence": "Known as Operation Infektion, the campaign began in 1983 when a little-known Indian newspaper \u2014 later exposed to be financed by the Soviet leadership \u2014 published an anonymous letter with the headline, \"AIDS May Invade India: Mystery Disease Caused by U.S.",
+            "claimbuster_score": 0.7683665043,
+            "topic_scores": {
+                "Who can contract the virus": {
+                    "score": 0.0007784382323734462,
+                    "start": 202,
+                    "end": 223,
+                    "answer": "AIDS May Invade India",
+                    "sub_topic": "Who can contract COVID-19"
+                },
+                "Wearing masks has what negative effect": {
+                    "score": 2.495316948625259e-07,
+                    "start": 202,
+                    "end": 223,
+                    "answer": "AIDS May Invade India",
+                    "sub_topic": "Harmful effects of wearing masks"
+                },
+                "Does wearing a mask harm your health?": {
+                    "score": 1.4576967259927187e-06,
+                    "start": 202,
+                    "end": 223,
+                    "answer": "AIDS May Invade India",
+                    "sub_topic": "Harmful effects of wearing masks"
+                },
+                "Wearing masks is required in what location": {
+                    "score": 6.07570456168105e-08,
+                    "start": 9,
+                    "end": 28,
+                    "answer": "Operation Infektion",
+                    "sub_topic": "Places where there are regulations for wearing masks to prevent the spread of COVID-19"
+                },
+                "What are CDC's recommendations for wearing face masks during the the virus pandemic?": {
+                    "score": 5.045617399446201e-07,
+                    "start": 202,
+                    "end": 206,
+                    "answer": "AIDS",
+                    "sub_topic": "Places where wearing masks is recommended to prevent the spread of COVID-19"
+                },
+                "Wearing masks is recommended in what location": {
+                    "score": 1.7400971330516768e-07,
+                    "start": 9,
+                    "end": 28,
+                    "answer": "Operation Infektion",
+                    "sub_topic": "Places where wearing masks is recommended to prevent the spread of COVID-19"
+                },
+                "Wearing masks is necessary in what location": {
+                    "score": 2.1144108686144136e-08,
+                    "start": 9,
+                    "end": 28,
+                    "answer": "Operation Infektion",
+                    "sub_topic": "Places where wearing masks is necessary to prevent the spread of COVID-19"
+                },
+                "Is it helpful to wear a mask during the the virus pandemic?": {
+                    "score": 0.0002403903054073453,
+                    "start": 202,
+                    "end": 255,
+                    "answer": "AIDS May Invade India: Mystery Disease Caused by U.S.",
+                    "sub_topic": "Places where wearing masks is necessary to prevent the spread of COVID-19"
+                },
+                "Where the first case of the virus occurred": {
+                    "score": 0.004811873659491539,
+                    "start": 30,
+                    "end": 56,
+                    "answer": "the campaign began in 1983",
+                    "sub_topic": "Where the first case of COVID-19 occurred"
+                },
+                "what animal is associated/involved with the origin of the virus": {
+                    "score": 0.00032751605613157153,
+                    "start": 251,
+                    "end": 254,
+                    "answer": "U.S",
+                    "sub_topic": "Animals associated with the origin of COVID-19"
+                },
+                "What is the origin of the virus that causes the virus?": {
+                    "score": 0.7603232264518738,
+                    "start": 251,
+                    "end": 254,
+                    "answer": "U.S",
+                    "sub_topic": "Animals associated with the origin of COVID-19"
+                },
+                "What transmits the virus": {
+                    "score": 3.0442013667197898e-05,
+                    "start": 202,
+                    "end": 255,
+                    "answer": "AIDS May Invade India: Mystery Disease Caused by U.S.",
+                    "sub_topic": "What transmits COVID-19"
+                }
+            },
+            "topic": "Origin of the Virus",
+            "sub_topic": "Animals associated with the origin of COVID-19",
+            "template": "Animal-X is associated/involved with the origin of COVID-19",
+            "final_claim_score": 0.7603232264518738,
+            "subtopic_question": "What is the origin of the virus that causes the virus?",
+            "x_variable": "AIDS",
+            "x_variable_start": 202,
+            "x_variable_end": 206,
+            "claim_span_start": 23,
+            "claim_span_end": 26,
+            "claim_span_text": "kti",
+            "claimer_debug": {
+                "score": 0.00014378124615177512,
+                "start": 952,
+                "end": 983,
+                "answer": "a little-known Indian newspaper"
+            },
+            "claimer_text": "<AUTHOR>",
+            "claimer_start": -1,
+            "claimer_end": -1,
+            "claimer_score": 0.00014378124615177512
+        },
+        {
+            "segment_id": "segment-30",
+            "start_char": 3412,
+            "end_char": 3503,
+            "sentence": "Pro-Kremlin outlets claimed the United States was behind the spread of coronavirus in China.",
+            "claimbuster_score": 0.8445282944,
+            "topic_scores": {
+                "Who can contract the virus": {
+                    "score": 0.0015071551315486431,
+                    "start": 28,
+                    "end": 92,
+                    "answer": "the United States was behind the spread of coronavirus in China.",
+                    "sub_topic": "Who can contract COVID-19"
+                },
+                "Wearing masks has what negative effect": {
+                    "score": 9.774935705308962e-08,
+                    "start": 61,
+                    "end": 92,
+                    "answer": "spread of coronavirus in China.",
+                    "sub_topic": "Harmful effects of wearing masks"
+                },
+                "Does wearing a mask harm your health?": {
+                    "score": 2.8208816615915566e-07,
+                    "start": 20,
+                    "end": 92,
+                    "answer": "claimed the United States was behind the spread of coronavirus in China.",
+                    "sub_topic": "Harmful effects of wearing masks"
+                },
+                "Wearing masks is required in what location": {
+                    "score": 1.1561898105583168e-08,
+                    "start": 86,
+                    "end": 92,
+                    "answer": "China.",
+                    "sub_topic": "Places where there are regulations for wearing masks to prevent the spread of COVID-19"
+                },
+                "What are CDC's recommendations for wearing face masks during the the virus pandemic?": {
+                    "score": 4.2673042877083844e-09,
+                    "start": 91,
+                    "end": 92,
+                    "answer": ".",
+                    "sub_topic": "Places where wearing masks is recommended to prevent the spread of COVID-19"
+                },
+                "Wearing masks is recommended in what location": {
+                    "score": 4.4660608544688785e-09,
+                    "start": 86,
+                    "end": 92,
+                    "answer": "China.",
+                    "sub_topic": "Places where wearing masks is recommended to prevent the spread of COVID-19"
+                },
+                "Wearing masks is necessary in what location": {
+                    "score": 1.1302180524808136e-08,
+                    "start": 86,
+                    "end": 92,
+                    "answer": "China.",
+                    "sub_topic": "Places where wearing masks is necessary to prevent the spread of COVID-19"
+                },
+                "Is it helpful to wear a mask during the the virus pandemic?": {
+                    "score": 5.974458417767892e-06,
+                    "start": 20,
+                    "end": 92,
+                    "answer": "claimed the United States was behind the spread of coronavirus in China.",
+                    "sub_topic": "Places where wearing masks is necessary to prevent the spread of COVID-19"
+                },
+                "Where the first case of the virus occurred": {
+                    "score": 0.08400297164916992,
+                    "start": 86,
+                    "end": 91,
+                    "answer": "China",
+                    "sub_topic": "Where the first case of COVID-19 occurred"
+                },
+                "what animal is associated/involved with the origin of the virus": {
+                    "score": 0.11022961884737015,
+                    "start": 28,
+                    "end": 45,
+                    "answer": "the United States",
+                    "sub_topic": "Animals associated with the origin of COVID-19"
+                },
+                "What is the origin of the virus that causes the virus?": {
+                    "score": 0.46453362703323364,
+                    "start": 28,
+                    "end": 45,
+                    "answer": "the United States",
+                    "sub_topic": "Animals associated with the origin of COVID-19"
+                },
+                "What transmits the virus": {
+                    "score": 0.07157763838768005,
+                    "start": 28,
+                    "end": 92,
+                    "answer": "the United States was behind the spread of coronavirus in China.",
+                    "sub_topic": "What transmits COVID-19"
+                }
+            },
+            "topic": "Origin of the Virus",
+            "sub_topic": "Animals associated with the origin of COVID-19",
+            "template": "Animal-X is associated/involved with the origin of COVID-19",
+            "final_claim_score": 0.46453362703323364,
+            "subtopic_question": "What is the origin of the virus that causes the virus?",
+            "x_variable": "United States",
+            "x_variable_start": 32,
+            "x_variable_end": 45,
+            "claim_span_start": 28,
+            "claim_span_end": 91,
+            "claim_span_text": "the United States was behind the spread of coronavirus in China",
+            "claimer_debug": {
+                "score": 0.4752582013607025,
+                "start": 3412,
+                "end": 3431,
+                "answer": "Pro-Kremlin outlets",
+                "extracted_from": "full document"
+            },
+            "claimer_text": "Pro-Kremlin outlets",
+            "claimer_start": 3412,
+            "claimer_end": 3431,
+            "claimer_score": 0.4752582013607025
+        },
+        {
+            "segment_id": "segment-40",
+            "start_char": 4618,
+            "end_char": 4826,
+            "sentence": "In one case he claimed the virus appeared in China because U.S. pharmaceutical companies want to cash in on the vaccine, while in the other he said the U.S. has allegedly used biological weapons against China.",
+            "claimbuster_score": 0.8194826668,
+            "topic_scores": {
+                "Who can contract the virus": {
+                    "score": 0.04457773640751839,
+                    "start": 59,
+                    "end": 88,
+                    "answer": "U.S. pharmaceutical companies",
+                    "sub_topic": "Who can contract COVID-19"
+                },
+                "Wearing masks has what negative effect": {
+                    "score": 2.2296548195299692e-05,
+                    "start": 171,
+                    "end": 208,
+                    "answer": "used biological weapons against China",
+                    "sub_topic": "Harmful effects of wearing masks"
+                },
+                "Does wearing a mask harm your health?": {
+                    "score": 5.252724477600168e-08,
+                    "start": 148,
+                    "end": 209,
+                    "answer": "the U.S. has allegedly used biological weapons against China.",
+                    "sub_topic": "Harmful effects of wearing masks"
+                },
+                "Wearing masks is required in what location": {
+                    "score": 2.073180098705052e-07,
+                    "start": 45,
+                    "end": 50,
+                    "answer": "China",
+                    "sub_topic": "Places where there are regulations for wearing masks to prevent the spread of COVID-19"
+                },
+                "What are CDC's recommendations for wearing face masks during the the virus pandemic?": {
+                    "score": 6.464237145564766e-08,
+                    "start": 112,
+                    "end": 119,
+                    "answer": "vaccine",
+                    "sub_topic": "Places where wearing masks is recommended to prevent the spread of COVID-19"
+                },
+                "Wearing masks is recommended in what location": {
+                    "score": 1.4980154006138946e-08,
+                    "start": 45,
+                    "end": 50,
+                    "answer": "China",
+                    "sub_topic": "Places where wearing masks is recommended to prevent the spread of COVID-19"
+                },
+                "Wearing masks is necessary in what location": {
+                    "score": 1.2168707996806916e-07,
+                    "start": 45,
+                    "end": 50,
+                    "answer": "China",
+                    "sub_topic": "Places where wearing masks is necessary to prevent the spread of COVID-19"
+                },
+                "Is it helpful to wear a mask during the the virus pandemic?": {
+                    "score": 2.8018745069857687e-05,
+                    "start": 112,
+                    "end": 119,
+                    "answer": "vaccine",
+                    "sub_topic": "Places where wearing masks is necessary to prevent the spread of COVID-19"
+                },
+                "Where the first case of the virus occurred": {
+                    "score": 0.6474363207817078,
+                    "start": 45,
+                    "end": 50,
+                    "answer": "China",
+                    "sub_topic": "Where the first case of COVID-19 occurred"
+                },
+                "what animal is associated/involved with the origin of the virus": {
+                    "score": 0.002584340050816536,
+                    "start": 45,
+                    "end": 50,
+                    "answer": "China",
+                    "sub_topic": "Animals associated with the origin of COVID-19"
+                },
+                "What is the origin of the virus that causes the virus?": {
+                    "score": 0.7791748642921448,
+                    "start": 45,
+                    "end": 50,
+                    "answer": "China",
+                    "sub_topic": "Animals associated with the origin of COVID-19"
+                },
+                "What transmits the virus": {
+                    "score": 0.0047414544969797134,
+                    "start": 148,
+                    "end": 208,
+                    "answer": "the U.S. has allegedly used biological weapons against China",
+                    "sub_topic": "What transmits COVID-19"
+                }
+            },
+            "topic": "Origin of the Virus",
+            "sub_topic": "Animals associated with the origin of COVID-19",
+            "template": "Animal-X is associated/involved with the origin of COVID-19",
+            "final_claim_score": 0.7791748642921448,
+            "subtopic_question": "What is the origin of the virus that causes the virus?",
+            "x_variable": "China",
+            "x_variable_start": 45,
+            "x_variable_end": 50,
+            "claim_span_start": 148,
+            "claim_span_end": 208,
+            "claim_span_text": "the U.S. has allegedly used biological weapons against China",
+            "claimer_debug": {
+                "score": 0.8356049060821533,
+                "start": 4470,
+                "end": 4490,
+                "answer": "Vladimir Zhirinovsky",
+                "extracted_from": "full document"
+            },
+            "claimer_text": "Vladimir Zhirinovsky",
+            "claimer_start": 4470,
+            "claimer_end": 4490,
+            "claimer_score": 0.8356049060821533
+        },
+        {
+            "segment_id": "segment-45",
+            "start_char": 5227,
+            "end_char": 5474,
+            "sentence": "In addition to news outlets, small Russian YouTube channels are beginning to share videos which narrators discuss the coronavirus outbreak and link its appearance in China to the U.S. Central Intelligence Agency as well as U.S. bioweapons research.",
+            "claimbuster_score": 0.7758480189,
+            "topic_scores": {
+                "Who can contract the virus": {
+                    "score": 0.0003764013235922903,
+                    "start": 15,
+                    "end": 27,
+                    "answer": "news outlets",
+                    "sub_topic": "Who can contract COVID-19"
+                },
+                "Wearing masks has what negative effect": {
+                    "score": 8.95157867830676e-08,
+                    "start": 228,
+                    "end": 247,
+                    "answer": "bioweapons research",
+                    "sub_topic": "Harmful effects of wearing masks"
+                },
+                "Does wearing a mask harm your health?": {
+                    "score": 2.3340399835092285e-08,
+                    "start": 228,
+                    "end": 248,
+                    "answer": "bioweapons research.",
+                    "sub_topic": "Harmful effects of wearing masks"
+                },
+                "Wearing masks is required in what location": {
+                    "score": 1.0833621999495335e-08,
+                    "start": 166,
+                    "end": 171,
+                    "answer": "China",
+                    "sub_topic": "Places where there are regulations for wearing masks to prevent the spread of COVID-19"
+                },
+                "What are CDC's recommendations for wearing face masks during the the virus pandemic?": {
+                    "score": 1.4744202525562855e-09,
+                    "start": 228,
+                    "end": 248,
+                    "answer": "bioweapons research.",
+                    "sub_topic": "Places where wearing masks is recommended to prevent the spread of COVID-19"
+                },
+                "Wearing masks is recommended in what location": {
+                    "score": 1.0848871134783167e-08,
+                    "start": 166,
+                    "end": 171,
+                    "answer": "China",
+                    "sub_topic": "Places where wearing masks is recommended to prevent the spread of COVID-19"
+                },
+                "Wearing masks is necessary in what location": {
+                    "score": 7.932875689675711e-09,
+                    "start": 166,
+                    "end": 171,
+                    "answer": "China",
+                    "sub_topic": "Places where wearing masks is necessary to prevent the spread of COVID-19"
+                },
+                "Is it helpful to wear a mask during the the virus pandemic?": {
+                    "score": 4.407476808410138e-06,
+                    "start": 143,
+                    "end": 211,
+                    "answer": "link its appearance in China to the U.S. Central Intelligence Agency",
+                    "sub_topic": "Places where wearing masks is necessary to prevent the spread of COVID-19"
+                },
+                "Where the first case of the virus occurred": {
+                    "score": 0.7198169827461243,
+                    "start": 166,
+                    "end": 171,
+                    "answer": "China",
+                    "sub_topic": "Where the first case of COVID-19 occurred"
+                },
+                "what animal is associated/involved with the origin of the virus": {
+                    "score": 0.15788577497005463,
+                    "start": 143,
+                    "end": 211,
+                    "answer": "link its appearance in China to the U.S. Central Intelligence Agency",
+                    "sub_topic": "Animals associated with the origin of COVID-19"
+                },
+                "What is the origin of the virus that causes the virus?": {
+                    "score": 0.09517792612314224,
+                    "start": 166,
+                    "end": 171,
+                    "answer": "China",
+                    "sub_topic": "Animals associated with the origin of COVID-19"
+                },
+                "What transmits the virus": {
+                    "score": 0.00021809141617268324,
+                    "start": 228,
+                    "end": 247,
+                    "answer": "bioweapons research",
+                    "sub_topic": "What transmits COVID-19"
+                }
+            },
+            "topic": "Origin of the Virus",
+            "sub_topic": "Where the first case of COVID-19 occurred",
+            "template": "The first case of COVID-19 occurred in location-X",
+            "final_claim_score": 0.7198169827461243,
+            "subtopic_question": "Where the first case of the virus occurred",
+            "x_variable": "China",
+            "x_variable_start": 166,
+            "x_variable_end": 171,
+            "claim_span_start": 124,
+            "claim_span_end": 130,
+            "claim_span_text": "virus ",
+            "claimer_debug": {
+                "score": 0.00020426168339326978,
+                "start": 4953,
+                "end": 4973,
+                "answer": "Vladimir Zhirinovsky"
+            },
+            "claimer_text": "<AUTHOR>",
+            "claimer_start": -1,
+            "claimer_end": -1,
+            "claimer_score": 0.00020426168339326978
+        },
+        {
+            "segment_id": "segment-47",
+            "start_char": 5595,
+            "end_char": 5715,
+            "sentence": "Screenshots of YouTube videos claiming the CIA is behind the coronavirus and that it is a bioweapon of the United States.",
+            "claimbuster_score": 0.718803165,
+            "topic_scores": {
+                "Who can contract the virus": {
+                    "score": 0.0002739311312325299,
+                    "start": 90,
+                    "end": 120,
+                    "answer": "bioweapon of the United States",
+                    "sub_topic": "Who can contract COVID-19"
+                },
+                "Wearing masks has what negative effect": {
+                    "score": 2.392674787188298e-07,
+                    "start": 90,
+                    "end": 99,
+                    "answer": "bioweapon",
+                    "sub_topic": "Harmful effects of wearing masks"
+                },
+                "Does wearing a mask harm your health?": {
+                    "score": 3.0156896979605108e-09,
+                    "start": 90,
+                    "end": 121,
+                    "answer": "bioweapon of the United States.",
+                    "sub_topic": "Harmful effects of wearing masks"
+                },
+                "Wearing masks is required in what location": {
+                    "score": 1.1600105320752618e-09,
+                    "start": 61,
+                    "end": 72,
+                    "answer": "coronavirus",
+                    "sub_topic": "Places where there are regulations for wearing masks to prevent the spread of COVID-19"
+                },
+                "What are CDC's recommendations for wearing face masks during the the virus pandemic?": {
+                    "score": 9.88588322314854e-10,
+                    "start": 120,
+                    "end": 121,
+                    "answer": ".",
+                    "sub_topic": "Places where wearing masks is recommended to prevent the spread of COVID-19"
+                },
+                "Wearing masks is recommended in what location": {
+                    "score": 2.7475571817703326e-10,
+                    "start": 61,
+                    "end": 72,
+                    "answer": "coronavirus",
+                    "sub_topic": "Places where wearing masks is recommended to prevent the spread of COVID-19"
+                },
+                "Wearing masks is necessary in what location": {
+                    "score": 1.3571574974946543e-09,
+                    "start": 61,
+                    "end": 72,
+                    "answer": "coronavirus",
+                    "sub_topic": "Places where wearing masks is necessary to prevent the spread of COVID-19"
+                },
+                "Is it helpful to wear a mask during the the virus pandemic?": {
+                    "score": 1.229847157446784e-06,
+                    "start": 43,
+                    "end": 46,
+                    "answer": "CIA",
+                    "sub_topic": "Places where wearing masks is necessary to prevent the spread of COVID-19"
+                },
+                "Where the first case of the virus occurred": {
+                    "score": 2.4479465992044425e-06,
+                    "start": 0,
+                    "end": 22,
+                    "answer": "Screenshots of YouTube",
+                    "sub_topic": "Where the first case of COVID-19 occurred"
+                },
+                "what animal is associated/involved with the origin of the virus": {
+                    "score": 0.42460477352142334,
+                    "start": 39,
+                    "end": 46,
+                    "answer": "the CIA",
+                    "sub_topic": "Animals associated with the origin of COVID-19"
+                },
+                "What is the origin of the virus that causes the virus?": {
+                    "score": 0.7205247282981873,
+                    "start": 39,
+                    "end": 46,
+                    "answer": "the CIA",
+                    "sub_topic": "Animals associated with the origin of COVID-19"
+                },
+                "What transmits the virus": {
+                    "score": 0.001148140407167375,
+                    "start": 90,
+                    "end": 120,
+                    "answer": "bioweapon of the United States",
+                    "sub_topic": "What transmits COVID-19"
+                }
+            },
+            "topic": "Origin of the Virus",
+            "sub_topic": "Animals associated with the origin of COVID-19",
+            "template": "Animal-X is associated/involved with the origin of COVID-19",
+            "final_claim_score": 0.7205247282981873,
+            "subtopic_question": "What is the origin of the virus that causes the virus?",
+            "x_variable": "the CIA",
+            "x_variable_start": 39,
+            "x_variable_end": 46,
+            "claim_span_start": 88,
+            "claim_span_end": 120,
+            "claim_span_text": "a bioweapon of the United States",
+            "claimer_debug": {
+                "score": 0.1030433177947998,
+                "start": 2770,
+                "end": 2787,
+                "answer": "The fringe outlet",
+                "extracted_from": "full document"
+            },
+            "claimer_text": "The fringe outlet",
+            "claimer_start": 2770,
+            "claimer_end": 2787,
+            "claimer_score": 0.1030433177947998
+        },
+        {
+            "segment_id": "segment-50",
+            "start_char": 6023,
+            "end_char": 6140,
+            "sentence": "Accounts on the Russian social network VK spread the same narrative of the United States being behind the coronavirus.",
+            "claimbuster_score": 0.6743207348,
+            "topic_scores": {
+                "Who can contract the virus": {
+                    "score": 0.001267880667001009,
+                    "start": 71,
+                    "end": 88,
+                    "answer": "the United States",
+                    "sub_topic": "Who can contract COVID-19"
+                },
+                "Wearing masks has what negative effect": {
+                    "score": 2.903389599850925e-07,
+                    "start": 42,
+                    "end": 117,
+                    "answer": "spread the same narrative of the United States being behind the coronavirus",
+                    "sub_topic": "Harmful effects of wearing masks"
+                },
+                "Does wearing a mask harm your health?": {
+                    "score": 4.065226022476054e-08,
+                    "start": 106,
+                    "end": 118,
+                    "answer": "coronavirus.",
+                    "sub_topic": "Harmful effects of wearing masks"
+                },
+                "Wearing masks is required in what location": {
+                    "score": 7.015353631345533e-09,
+                    "start": 16,
+                    "end": 23,
+                    "answer": "Russian",
+                    "sub_topic": "Places where there are regulations for wearing masks to prevent the spread of COVID-19"
+                },
+                "What are CDC's recommendations for wearing face masks during the the virus pandemic?": {
+                    "score": 2.361094653124951e-09,
+                    "start": 117,
+                    "end": 118,
+                    "answer": ".",
+                    "sub_topic": "Places where wearing masks is recommended to prevent the spread of COVID-19"
+                },
+                "Wearing masks is recommended in what location": {
+                    "score": 3.5050804481073783e-09,
+                    "start": 16,
+                    "end": 23,
+                    "answer": "Russian",
+                    "sub_topic": "Places where wearing masks is recommended to prevent the spread of COVID-19"
+                },
+                "Wearing masks is necessary in what location": {
+                    "score": 1.864662557693464e-08,
+                    "start": 16,
+                    "end": 23,
+                    "answer": "Russian",
+                    "sub_topic": "Places where wearing masks is necessary to prevent the spread of COVID-19"
+                },
+                "Is it helpful to wear a mask during the the virus pandemic?": {
+                    "score": 2.4535397642466705e-06,
+                    "start": 71,
+                    "end": 118,
+                    "answer": "the United States being behind the coronavirus.",
+                    "sub_topic": "Places where wearing masks is necessary to prevent the spread of COVID-19"
+                },
+                "Where the first case of the virus occurred": {
+                    "score": 0.0002164877951145172,
+                    "start": 71,
+                    "end": 88,
+                    "answer": "the United States",
+                    "sub_topic": "Where the first case of COVID-19 occurred"
+                },
+                "what animal is associated/involved with the origin of the virus": {
+                    "score": 0.04247666895389557,
+                    "start": 71,
+                    "end": 88,
+                    "answer": "the United States",
+                    "sub_topic": "Animals associated with the origin of COVID-19"
+                },
+                "What is the origin of the virus that causes the virus?": {
+                    "score": 0.3859630823135376,
+                    "start": 75,
+                    "end": 88,
+                    "answer": "United States",
+                    "sub_topic": "Animals associated with the origin of COVID-19"
+                },
+                "What transmits the virus": {
+                    "score": 0.03221006691455841,
+                    "start": 71,
+                    "end": 88,
+                    "answer": "the United States",
+                    "sub_topic": "What transmits COVID-19"
+                }
+            },
+            "topic": "Origin of the Virus",
+            "sub_topic": "Animals associated with the origin of COVID-19",
+            "template": "Animal-X is associated/involved with the origin of COVID-19",
+            "final_claim_score": 0.3859630823135376,
+            "subtopic_question": "What is the origin of the virus that causes the virus?",
+            "x_variable": "the United States",
+            "x_variable_start": 71,
+            "x_variable_end": 88,
+            "claim_span_start": 0,
+            "claim_span_end": 117,
+            "claim_span_text": "Accounts on the Russian social network VK spread the same narrative of the United States being behind the coronavirus",
+            "claimer_debug": {
+                "score": 0.0005787740228697658,
+                "start": 4953,
+                "end": 4973,
+                "answer": "Vladimir Zhirinovsky"
+            },
+            "claimer_text": "<AUTHOR>",
+            "claimer_start": -1,
+            "claimer_end": -1,
+            "claimer_score": 0.0005787740228697658
+        }
+    ],
+    "L0C04958F": [
+        {
+            "segment_id": "segment-8",
+            "start_char": 839,
+            "end_char": 994,
+            "sentence": "NO, the Institut Pasteur did not create the SARS-CoV-2 virus and release it in the city of Wuhan to cause the pandemic and implicate the Chinese authorities",
+            "claimbuster_score": 0.7446069156,
+            "topic_scores": {
+                "Who can contract the virus": {
+                    "score": 7.842056220397353e-05,
+                    "start": 137,
+                    "end": 156,
+                    "answer": "Chinese authorities",
+                    "sub_topic": "Who can contract COVID-19"
+                },
+                "Wearing masks has what negative effect": {
+                    "score": 9.324085112893954e-06,
+                    "start": 100,
+                    "end": 118,
+                    "answer": "cause the pandemic",
+                    "sub_topic": "Harmful effects of wearing masks"
+                },
+                "Does wearing a mask harm your health?": {
+                    "score": 0.01855006255209446,
+                    "start": 0,
+                    "end": 2,
+                    "answer": "NO",
+                    "sub_topic": "Harmful effects of wearing masks"
+                },
+                "Wearing masks is required in what location": {
+                    "score": 5.173338379904635e-08,
+                    "start": 91,
+                    "end": 96,
+                    "answer": "Wuhan",
+                    "sub_topic": "Places where there are regulations for wearing masks to prevent the spread of COVID-19"
+                },
+                "What are CDC's recommendations for wearing face masks during the the virus pandemic?": {
+                    "score": 1.3510489225154743e-05,
+                    "start": 0,
+                    "end": 2,
+                    "answer": "NO",
+                    "sub_topic": "Places where wearing masks is recommended to prevent the spread of COVID-19"
+                },
+                "Wearing masks is recommended in what location": {
+                    "score": 9.117595567431636e-09,
+                    "start": 91,
+                    "end": 96,
+                    "answer": "Wuhan",
+                    "sub_topic": "Places where wearing masks is recommended to prevent the spread of COVID-19"
+                },
+                "Wearing masks is necessary in what location": {
+                    "score": 4.3704673657884996e-08,
+                    "start": 91,
+                    "end": 96,
+                    "answer": "Wuhan",
+                    "sub_topic": "Places where wearing masks is necessary to prevent the spread of COVID-19"
+                },
+                "Is it helpful to wear a mask during the the virus pandemic?": {
+                    "score": 0.5603620409965515,
+                    "start": 0,
+                    "end": 2,
+                    "answer": "NO",
+                    "sub_topic": "Places where wearing masks is necessary to prevent the spread of COVID-19"
+                },
+                "Where the first case of the virus occurred": {
+                    "score": 0.026519156992435455,
+                    "start": 91,
+                    "end": 96,
+                    "answer": "Wuhan",
+                    "sub_topic": "Where the first case of COVID-19 occurred"
+                },
+                "what animal is associated/involved with the origin of the virus": {
+                    "score": 8.316327875945717e-05,
+                    "start": 0,
+                    "end": 24,
+                    "answer": "NO, the Institut Pasteur",
+                    "sub_topic": "Animals associated with the origin of COVID-19"
+                },
+                "What is the origin of the virus that causes the virus?": {
+                    "score": 0.15321746468544006,
+                    "start": 4,
+                    "end": 24,
+                    "answer": "the Institut Pasteur",
+                    "sub_topic": "Animals associated with the origin of COVID-19"
+                },
+                "What transmits the virus": {
+                    "score": 0.0036699865013360977,
+                    "start": 65,
+                    "end": 118,
+                    "answer": "release it in the city of Wuhan to cause the pandemic",
+                    "sub_topic": "What transmits COVID-19"
+                }
+            },
+            "topic": "Non-Pharmaceutical Interventions (NPIs): Masks",
+            "sub_topic": "Places where wearing masks is necessary to prevent the spread of COVID-19",
+            "template": "Wearing masks is necessary in location/GPE/facility-x",
+            "final_claim_score": 0.5603620409965515,
+            "subtopic_question": "Is it helpful to wear a mask during the the virus pandemic?",
+            "x_variable": "NO",
+            "x_variable_start": 0,
+            "x_variable_end": 2,
+            "claim_span_start": 8,
+            "claim_span_end": 60,
+            "claim_span_text": "Institut Pasteur did not create the SARS-CoV-2 virus",
+            "claimer_debug": {
+                "score": 0.04757669195532799,
+                "start": 9173,
+                "end": 9194,
+                "answer": "Etienne Simon-Lori\u00e8re",
+                "extracted_from": "full document"
+            },
+            "claimer_text": "Etienne Simon-Lori\u00e8re",
+            "claimer_start": 9173,
+            "claimer_end": 9194,
+            "claimer_score": 0.04757669195532799
+        },
+        {
+            "segment_id": "segment-21",
+            "start_char": 2039,
+            "end_char": 2170,
+            "sentence": "A scientific paper published on March 17, 2020 refutes the theory that a creation by a laboratory may be behind this emerging virus.",
+            "claimbuster_score": 0.660123771,
+            "topic_scores": {
+                "Who can contract the virus": {
+                    "score": 0.0003683196264319122,
+                    "start": 71,
+                    "end": 97,
+                    "answer": "a creation by a laboratory",
+                    "sub_topic": "Who can contract COVID-19"
+                },
+                "Wearing masks has what negative effect": {
+                    "score": 3.4410318221489433e-06,
+                    "start": 126,
+                    "end": 131,
+                    "answer": "virus",
+                    "sub_topic": "Harmful effects of wearing masks"
+                },
+                "Does wearing a mask harm your health?": {
+                    "score": 6.918989470250381e-08,
+                    "start": 42,
+                    "end": 54,
+                    "answer": "2020 refutes",
+                    "sub_topic": "Harmful effects of wearing masks"
+                },
+                "Wearing masks is required in what location": {
+                    "score": 3.6305636275102415e-09,
+                    "start": 126,
+                    "end": 132,
+                    "answer": "virus.",
+                    "sub_topic": "Places where there are regulations for wearing masks to prevent the spread of COVID-19"
+                },
+                "What are CDC's recommendations for wearing face masks during the the virus pandemic?": {
+                    "score": 2.64738758914973e-07,
+                    "start": 126,
+                    "end": 132,
+                    "answer": "virus.",
+                    "sub_topic": "Places where wearing masks is recommended to prevent the spread of COVID-19"
+                },
+                "Wearing masks is recommended in what location": {
+                    "score": 1.365487278803812e-09,
+                    "start": 131,
+                    "end": 132,
+                    "answer": ".",
+                    "sub_topic": "Places where wearing masks is recommended to prevent the spread of COVID-19"
+                },
+                "Wearing masks is necessary in what location": {
+                    "score": 6.423803267097128e-09,
+                    "start": 126,
+                    "end": 132,
+                    "answer": "virus.",
+                    "sub_topic": "Places where wearing masks is necessary to prevent the spread of COVID-19"
+                },
+                "Is it helpful to wear a mask during the the virus pandemic?": {
+                    "score": 0.0022154285106807947,
+                    "start": 47,
+                    "end": 54,
+                    "answer": "refutes",
+                    "sub_topic": "Places where wearing masks is necessary to prevent the spread of COVID-19"
+                },
+                "Where the first case of the virus occurred": {
+                    "score": 0.0034793659579008818,
+                    "start": 0,
+                    "end": 46,
+                    "answer": "A scientific paper published on March 17, 2020",
+                    "sub_topic": "Where the first case of COVID-19 occurred"
+                },
+                "what animal is associated/involved with the origin of the virus": {
+                    "score": 0.04697854816913605,
+                    "start": 71,
+                    "end": 97,
+                    "answer": "a creation by a laboratory",
+                    "sub_topic": "Animals associated with the origin of COVID-19"
+                },
+                "What is the origin of the virus that causes the virus?": {
+                    "score": 0.4683551788330078,
+                    "start": 71,
+                    "end": 97,
+                    "answer": "a creation by a laboratory",
+                    "sub_topic": "Animals associated with the origin of COVID-19"
+                },
+                "What transmits the virus": {
+                    "score": 0.02731451392173767,
+                    "start": 71,
+                    "end": 97,
+                    "answer": "a creation by a laboratory",
+                    "sub_topic": "What transmits COVID-19"
+                }
+            },
+            "topic": "Origin of the Virus",
+            "sub_topic": "Animals associated with the origin of COVID-19",
+            "template": "Animal-X is associated/involved with the origin of COVID-19",
+            "final_claim_score": 0.4683551788330078,
+            "subtopic_question": "What is the origin of the virus that causes the virus?",
+            "x_variable": "a creation by a laboratory",
+            "x_variable_start": 71,
+            "x_variable_end": 97,
+            "claim_span_start": 66,
+            "claim_span_end": 131,
+            "claim_span_text": "that a creation by a laboratory may be behind this emerging virus",
+            "claimer_debug": {
+                "score": 0.0017452484462410212,
+                "start": 8020,
+                "end": 8052,
+                "answer": "an Indian scientific publication"
+            },
+            "claimer_text": "<AUTHOR>",
+            "claimer_start": -1,
+            "claimer_end": -1,
+            "claimer_score": 0.0017452484462410212
+        },
+        {
+            "segment_id": "segment-28",
+            "start_char": 3088,
+            "end_char": 3345,
+            "sentence": "This vaccine candidate for SARS-CoV-1 was the subject of a patent application filed in 2004, which mentions a particular strain of the SARS-CoV-1 virus, which was itself discovered and described in March 2003, i.e. several months before the patent was filed.",
+            "claimbuster_score": 0.7851727041,
+            "topic_scores": {
+                "Who can contract the virus": {
+                    "score": 4.2455753828107845e-06,
+                    "start": 27,
+                    "end": 37,
+                    "answer": "SARS-CoV-1",
+                    "sub_topic": "Who can contract COVID-19"
+                },
+                "Wearing masks has what negative effect": {
+                    "score": 5.004127334728992e-09,
+                    "start": 5,
+                    "end": 12,
+                    "answer": "vaccine",
+                    "sub_topic": "Harmful effects of wearing masks"
+                },
+                "Does wearing a mask harm your health?": {
+                    "score": 6.709603095345074e-09,
+                    "start": 204,
+                    "end": 208,
+                    "answer": "2003",
+                    "sub_topic": "Harmful effects of wearing masks"
+                },
+                "Wearing masks is required in what location": {
+                    "score": 1.094217494390648e-09,
+                    "start": 27,
+                    "end": 37,
+                    "answer": "SARS-CoV-1",
+                    "sub_topic": "Places where there are regulations for wearing masks to prevent the spread of COVID-19"
+                },
+                "What are CDC's recommendations for wearing face masks during the the virus pandemic?": {
+                    "score": 7.498002219108457e-10,
+                    "start": 198,
+                    "end": 258,
+                    "answer": "March 2003, i.e. several months before the patent was filed.",
+                    "sub_topic": "Places where wearing masks is recommended to prevent the spread of COVID-19"
+                },
+                "Wearing masks is recommended in what location": {
+                    "score": 9.499177000549253e-10,
+                    "start": 27,
+                    "end": 37,
+                    "answer": "SARS-CoV-1",
+                    "sub_topic": "Places where wearing masks is recommended to prevent the spread of COVID-19"
+                },
+                "Wearing masks is necessary in what location": {
+                    "score": 4.3749044387197955e-09,
+                    "start": 27,
+                    "end": 37,
+                    "answer": "SARS-CoV-1",
+                    "sub_topic": "Places where wearing masks is necessary to prevent the spread of COVID-19"
+                },
+                "Is it helpful to wear a mask during the the virus pandemic?": {
+                    "score": 1.119511466640688e-06,
+                    "start": 59,
+                    "end": 65,
+                    "answer": "patent",
+                    "sub_topic": "Places where wearing masks is necessary to prevent the spread of COVID-19"
+                },
+                "Where the first case of the virus occurred": {
+                    "score": 0.4156372845172882,
+                    "start": 198,
+                    "end": 208,
+                    "answer": "March 2003",
+                    "sub_topic": "Where the first case of COVID-19 occurred"
+                },
+                "what animal is associated/involved with the origin of the virus": {
+                    "score": 2.3736998628010042e-05,
+                    "start": 27,
+                    "end": 37,
+                    "answer": "SARS-CoV-1",
+                    "sub_topic": "Animals associated with the origin of COVID-19"
+                },
+                "What is the origin of the virus that causes the virus?": {
+                    "score": 0.0012386334128677845,
+                    "start": 170,
+                    "end": 208,
+                    "answer": "discovered and described in March 2003",
+                    "sub_topic": "Animals associated with the origin of COVID-19"
+                },
+                "What transmits the virus": {
+                    "score": 7.513676246162504e-05,
+                    "start": 108,
+                    "end": 151,
+                    "answer": "a particular strain of the SARS-CoV-1 virus",
+                    "sub_topic": "What transmits COVID-19"
+                }
+            },
+            "topic": "Origin of the Virus",
+            "sub_topic": "Where the first case of COVID-19 occurred",
+            "template": "The first case of COVID-19 occurred in location-X",
+            "final_claim_score": 0.4156372845172882,
+            "subtopic_question": "Where the first case of the virus occurred",
+            "x_variable": "March 2003",
+            "x_variable_start": 198,
+            "x_variable_end": 208,
+            "claim_span_start": 5,
+            "claim_span_end": 37,
+            "claim_span_text": "vaccine candidate for SARS-CoV-1",
+            "claimer_debug": {
+                "score": 0.31659024953842163,
+                "start": 2805,
+                "end": 2825,
+                "answer": "The Institut Pasteur",
+                "extracted_from": "full document"
+            },
+            "claimer_text": "The Institut Pasteur",
+            "claimer_start": 2805,
+            "claimer_end": 2825,
+            "claimer_score": 0.31659024953842163
+        },
+        {
+            "segment_id": "segment-39",
+            "start_char": 5012,
+            "end_char": 5156,
+            "sentence": "Its mission is to help prevent and treat diseases, mainly those of infectious origin, through research, education, and public health initiatives.",
+            "claimbuster_score": 0.5024659024,
+            "topic_scores": {
+                "Who can contract the virus": {
+                    "score": 7.135428313631564e-05,
+                    "start": 67,
+                    "end": 84,
+                    "answer": "infectious origin",
+                    "sub_topic": "Who can contract COVID-19"
+                },
+                "Wearing masks has what negative effect": {
+                    "score": 1.6336004193817644e-07,
+                    "start": 23,
+                    "end": 49,
+                    "answer": "prevent and treat diseases",
+                    "sub_topic": "Harmful effects of wearing masks"
+                },
+                "Does wearing a mask harm your health?": {
+                    "score": 6.764043064322323e-05,
+                    "start": 41,
+                    "end": 49,
+                    "answer": "diseases",
+                    "sub_topic": "Harmful effects of wearing masks"
+                },
+                "Wearing masks is required in what location": {
+                    "score": 2.1309802533675537e-10,
+                    "start": 0,
+                    "end": 84,
+                    "answer": "Its mission is to help prevent and treat diseases, mainly those of infectious origin",
+                    "sub_topic": "Places where there are regulations for wearing masks to prevent the spread of COVID-19"
+                },
+                "What are CDC's recommendations for wearing face masks during the the virus pandemic?": {
+                    "score": 1.6481966667925008e-05,
+                    "start": 94,
+                    "end": 144,
+                    "answer": "research, education, and public health initiatives",
+                    "sub_topic": "Places where wearing masks is recommended to prevent the spread of COVID-19"
+                },
+                "Wearing masks is recommended in what location": {
+                    "score": 1.7976235777705796e-10,
+                    "start": 0,
+                    "end": 49,
+                    "answer": "Its mission is to help prevent and treat diseases",
+                    "sub_topic": "Places where wearing masks is recommended to prevent the spread of COVID-19"
+                },
+                "Wearing masks is necessary in what location": {
+                    "score": 9.039860526804944e-10,
+                    "start": 67,
+                    "end": 145,
+                    "answer": "infectious origin, through research, education, and public health initiatives.",
+                    "sub_topic": "Places where wearing masks is necessary to prevent the spread of COVID-19"
+                },
+                "Is it helpful to wear a mask during the the virus pandemic?": {
+                    "score": 7.464214286301285e-05,
+                    "start": 23,
+                    "end": 30,
+                    "answer": "prevent",
+                    "sub_topic": "Places where wearing masks is necessary to prevent the spread of COVID-19"
+                },
+                "Where the first case of the virus occurred": {
+                    "score": 3.4265532633526163e-08,
+                    "start": 67,
+                    "end": 145,
+                    "answer": "infectious origin, through research, education, and public health initiatives.",
+                    "sub_topic": "Where the first case of COVID-19 occurred"
+                },
+                "what animal is associated/involved with the origin of the virus": {
+                    "score": 0.008952231146395206,
+                    "start": 67,
+                    "end": 84,
+                    "answer": "infectious origin",
+                    "sub_topic": "Animals associated with the origin of COVID-19"
+                },
+                "What is the origin of the virus that causes the virus?": {
+                    "score": 0.5885232090950012,
+                    "start": 67,
+                    "end": 77,
+                    "answer": "infectious",
+                    "sub_topic": "Animals associated with the origin of COVID-19"
+                },
+                "What transmits the virus": {
+                    "score": 1.118017371481983e-05,
+                    "start": 67,
+                    "end": 84,
+                    "answer": "infectious origin",
+                    "sub_topic": "What transmits COVID-19"
+                }
+            },
+            "topic": "Origin of the Virus",
+            "sub_topic": "Animals associated with the origin of COVID-19",
+            "template": "Animal-X is associated/involved with the origin of COVID-19",
+            "final_claim_score": 0.5885232090950012,
+            "subtopic_question": "What is the origin of the virus that causes the virus?",
+            "x_variable": "infectious origin",
+            "x_variable_start": 67,
+            "x_variable_end": 84,
+            "claim_span_start": 23,
+            "claim_span_end": 49,
+            "claim_span_text": "prevent and treat diseases",
+            "claimer_debug": {
+                "score": 4.4718388380715623e-05,
+                "start": 4963,
+                "end": 4983,
+                "answer": "The Institut Pasteur"
+            },
+            "claimer_text": "<AUTHOR>",
+            "claimer_start": -1,
+            "claimer_end": -1,
+            "claimer_score": 4.4718388380715623e-05
+        },
+        {
+            "segment_id": "segment-40",
+            "start_char": 5159,
+            "end_char": 5430,
+            "sentence": "The Institut Pasteur carries out research \u2013 including in vaccinology \u2013 in a bid to improve understanding of the processes that induce immune responses and interactions between microbes and their hosts in a certain number of diseases (dengue, AIDS, yellow fever, Zika, etc.",
+            "claimbuster_score": 0.6047132151,
+            "topic_scores": {
+                "Who can contract the virus": {
+                    "score": 0.16183270514011383,
+                    "start": 262,
+                    "end": 266,
+                    "answer": "Zika",
+                    "sub_topic": "Who can contract COVID-19"
+                },
+                "Wearing masks has what negative effect": {
+                    "score": 2.2933606942387996e-06,
+                    "start": 224,
+                    "end": 232,
+                    "answer": "diseases",
+                    "sub_topic": "Harmful effects of wearing masks"
+                },
+                "Does wearing a mask harm your health?": {
+                    "score": 0.00020657762070186436,
+                    "start": 224,
+                    "end": 232,
+                    "answer": "diseases",
+                    "sub_topic": "Harmful effects of wearing masks"
+                },
+                "Wearing masks is required in what location": {
+                    "score": 5.218962684239159e-08,
+                    "start": 0,
+                    "end": 20,
+                    "answer": "The Institut Pasteur",
+                    "sub_topic": "Places where there are regulations for wearing masks to prevent the spread of COVID-19"
+                },
+                "What are CDC's recommendations for wearing face masks during the the virus pandemic?": {
+                    "score": 3.596287712070989e-08,
+                    "start": 262,
+                    "end": 266,
+                    "answer": "Zika",
+                    "sub_topic": "Places where wearing masks is recommended to prevent the spread of COVID-19"
+                },
+                "Wearing masks is recommended in what location": {
+                    "score": 2.907724194756156e-07,
+                    "start": 0,
+                    "end": 20,
+                    "answer": "The Institut Pasteur",
+                    "sub_topic": "Places where wearing masks is recommended to prevent the spread of COVID-19"
+                },
+                "Wearing masks is necessary in what location": {
+                    "score": 1.0045026499483356e-07,
+                    "start": 0,
+                    "end": 20,
+                    "answer": "The Institut Pasteur",
+                    "sub_topic": "Places where wearing masks is necessary to prevent the spread of COVID-19"
+                },
+                "Is it helpful to wear a mask during the the virus pandemic?": {
+                    "score": 6.878292333567515e-05,
+                    "start": 0,
+                    "end": 41,
+                    "answer": "The Institut Pasteur carries out research",
+                    "sub_topic": "Places where wearing masks is necessary to prevent the spread of COVID-19"
+                },
+                "Where the first case of the virus occurred": {
+                    "score": 0.0016676358645781875,
+                    "start": 262,
+                    "end": 266,
+                    "answer": "Zika",
+                    "sub_topic": "Where the first case of COVID-19 occurred"
+                },
+                "what animal is associated/involved with the origin of the virus": {
+                    "score": 0.567817211151123,
+                    "start": 176,
+                    "end": 184,
+                    "answer": "microbes",
+                    "sub_topic": "Animals associated with the origin of COVID-19"
+                },
+                "What is the origin of the virus that causes the virus?": {
+                    "score": 0.15782131254673004,
+                    "start": 176,
+                    "end": 184,
+                    "answer": "microbes",
+                    "sub_topic": "Animals associated with the origin of COVID-19"
+                },
+                "What transmits the virus": {
+                    "score": 0.03110746294260025,
+                    "start": 262,
+                    "end": 266,
+                    "answer": "Zika",
+                    "sub_topic": "What transmits COVID-19"
+                }
+            },
+            "topic": "Origin of the Virus",
+            "sub_topic": "Animals associated with the origin of COVID-19",
+            "template": "Animal-X is associated/involved with the origin of COVID-19",
+            "final_claim_score": 0.567817211151123,
+            "subtopic_question": "what animal is associated/involved with the origin of the virus",
+            "x_variable": "microbes",
+            "x_variable_start": 176,
+            "x_variable_end": 184,
+            "claim_span_start": 134,
+            "claim_span_end": 200,
+            "claim_span_text": "immune responses and interactions between microbes and their hosts",
+            "claimer_debug": {
+                "score": 8.273174898931757e-05,
+                "start": 5159,
+                "end": 5179,
+                "answer": "The Institut Pasteur"
+            },
+            "claimer_text": "<AUTHOR>",
+            "claimer_start": -1,
+            "claimer_end": -1,
+            "claimer_score": 8.273174898931757e-05
+        },
+        {
+            "segment_id": "segment-55",
+            "start_char": 7495,
+            "end_char": 7549,
+            "sentence": "NO, SARS-CoV-2 wasn't created from HIV in a laboratory!",
+            "claimbuster_score": 0.6221516764,
+            "topic_scores": {
+                "Who can contract the virus": {
+                    "score": 1.935814850639872e-07,
+                    "start": 0,
+                    "end": 38,
+                    "answer": "NO, SARS-CoV-2 wasn't created from HIV",
+                    "sub_topic": "Who can contract COVID-19"
+                },
+                "Wearing masks has what negative effect": {
+                    "score": 8.827035630210034e-11,
+                    "start": 0,
+                    "end": 38,
+                    "answer": "NO, SARS-CoV-2 wasn't created from HIV",
+                    "sub_topic": "Harmful effects of wearing masks"
+                },
+                "Does wearing a mask harm your health?": {
+                    "score": 0.0002759573108050972,
+                    "start": 0,
+                    "end": 2,
+                    "answer": "NO",
+                    "sub_topic": "Harmful effects of wearing masks"
+                },
+                "Wearing masks is required in what location": {
+                    "score": 5.8531220759050484e-08,
+                    "start": 44,
+                    "end": 54,
+                    "answer": "laboratory",
+                    "sub_topic": "Places where there are regulations for wearing masks to prevent the spread of COVID-19"
+                },
+                "What are CDC's recommendations for wearing face masks during the the virus pandemic?": {
+                    "score": 3.9639948568037653e-07,
+                    "start": 0,
+                    "end": 2,
+                    "answer": "NO",
+                    "sub_topic": "Places where wearing masks is recommended to prevent the spread of COVID-19"
+                },
+                "Wearing masks is recommended in what location": {
+                    "score": 3.893247058073257e-09,
+                    "start": 44,
+                    "end": 54,
+                    "answer": "laboratory",
+                    "sub_topic": "Places where wearing masks is recommended to prevent the spread of COVID-19"
+                },
+                "Wearing masks is necessary in what location": {
+                    "score": 6.567908883425844e-09,
+                    "start": 44,
+                    "end": 54,
+                    "answer": "laboratory",
+                    "sub_topic": "Places where wearing masks is necessary to prevent the spread of COVID-19"
+                },
+                "Is it helpful to wear a mask during the the virus pandemic?": {
+                    "score": 0.027582745999097824,
+                    "start": 0,
+                    "end": 2,
+                    "answer": "NO",
+                    "sub_topic": "Places where wearing masks is necessary to prevent the spread of COVID-19"
+                },
+                "Where the first case of the virus occurred": {
+                    "score": 0.000165464254678227,
+                    "start": 39,
+                    "end": 54,
+                    "answer": "in a laboratory",
+                    "sub_topic": "Where the first case of COVID-19 occurred"
+                },
+                "what animal is associated/involved with the origin of the virus": {
+                    "score": 3.1861861771176336e-06,
+                    "start": 35,
+                    "end": 54,
+                    "answer": "HIV in a laboratory",
+                    "sub_topic": "Animals associated with the origin of COVID-19"
+                },
+                "What is the origin of the virus that causes the virus?": {
+                    "score": 0.7949224710464478,
+                    "start": 35,
+                    "end": 38,
+                    "answer": "HIV",
+                    "sub_topic": "Animals associated with the origin of COVID-19"
+                },
+                "What transmits the virus": {
+                    "score": 0.02526923269033432,
+                    "start": 35,
+                    "end": 38,
+                    "answer": "HIV",
+                    "sub_topic": "What transmits COVID-19"
+                }
+            },
+            "topic": "Origin of the Virus",
+            "sub_topic": "Animals associated with the origin of COVID-19",
+            "template": "Animal-X is associated/involved with the origin of COVID-19",
+            "final_claim_score": 0.7949224710464478,
+            "subtopic_question": "What is the origin of the virus that causes the virus?",
+            "x_variable": "HIV",
+            "x_variable_start": 35,
+            "x_variable_end": 38,
+            "claim_span_start": 15,
+            "claim_span_end": 54,
+            "claim_span_text": "wasn't created from HIV in a laboratory",
+            "claimer_debug": {
+                "score": 0.0027640541084110737,
+                "start": 2805,
+                "end": 2825,
+                "answer": "The Institut Pasteur"
+            },
+            "claimer_text": "<AUTHOR>",
+            "claimer_start": -1,
+            "claimer_end": -1,
+            "claimer_score": 0.0027640541084110737
+        },
+        {
+            "segment_id": "segment-58",
+            "start_char": 7604,
+            "end_char": 7726,
+            "sentence": "A new controversy has emerged following claims that SARS-CoV-2 is the result of human error in a BSL-4 laboratory in Wuhan.",
+            "claimbuster_score": 0.7454850241,
+            "topic_scores": {
+                "Who can contract the virus": {
+                    "score": 1.997756044147536e-05,
+                    "start": 80,
+                    "end": 123,
+                    "answer": "human error in a BSL-4 laboratory in Wuhan.",
+                    "sub_topic": "Who can contract COVID-19"
+                },
+                "Wearing masks has what negative effect": {
+                    "score": 3.6038085227119154e-07,
+                    "start": 6,
+                    "end": 17,
+                    "answer": "controversy",
+                    "sub_topic": "Harmful effects of wearing masks"
+                },
+                "Does wearing a mask harm your health?": {
+                    "score": 2.2763951790238934e-07,
+                    "start": 6,
+                    "end": 17,
+                    "answer": "controversy",
+                    "sub_topic": "Harmful effects of wearing masks"
+                },
+                "Wearing masks is required in what location": {
+                    "score": 1.7559315779180906e-08,
+                    "start": 117,
+                    "end": 122,
+                    "answer": "Wuhan",
+                    "sub_topic": "Places where there are regulations for wearing masks to prevent the spread of COVID-19"
+                },
+                "What are CDC's recommendations for wearing face masks during the the virus pandemic?": {
+                    "score": 2.1905535163568857e-09,
+                    "start": 122,
+                    "end": 123,
+                    "answer": ".",
+                    "sub_topic": "Places where wearing masks is recommended to prevent the spread of COVID-19"
+                },
+                "Wearing masks is recommended in what location": {
+                    "score": 1.3120181607817472e-09,
+                    "start": 117,
+                    "end": 122,
+                    "answer": "Wuhan",
+                    "sub_topic": "Places where wearing masks is recommended to prevent the spread of COVID-19"
+                },
+                "Wearing masks is necessary in what location": {
+                    "score": 1.0790777160707421e-08,
+                    "start": 117,
+                    "end": 122,
+                    "answer": "Wuhan",
+                    "sub_topic": "Places where wearing masks is necessary to prevent the spread of COVID-19"
+                },
+                "Is it helpful to wear a mask during the the virus pandemic?": {
+                    "score": 0.00047926296247169375,
+                    "start": 6,
+                    "end": 17,
+                    "answer": "controversy",
+                    "sub_topic": "Places where wearing masks is necessary to prevent the spread of COVID-19"
+                },
+                "Where the first case of the virus occurred": {
+                    "score": 0.0034588405396789312,
+                    "start": 117,
+                    "end": 122,
+                    "answer": "Wuhan",
+                    "sub_topic": "Where the first case of COVID-19 occurred"
+                },
+                "what animal is associated/involved with the origin of the virus": {
+                    "score": 0.030387934297323227,
+                    "start": 40,
+                    "end": 91,
+                    "answer": "claims that SARS-CoV-2 is the result of human error",
+                    "sub_topic": "Animals associated with the origin of COVID-19"
+                },
+                "What is the origin of the virus that causes the virus?": {
+                    "score": 0.8449320793151855,
+                    "start": 80,
+                    "end": 91,
+                    "answer": "human error",
+                    "sub_topic": "Animals associated with the origin of COVID-19"
+                },
+                "What transmits the virus": {
+                    "score": 0.08095189183950424,
+                    "start": 80,
+                    "end": 91,
+                    "answer": "human error",
+                    "sub_topic": "What transmits COVID-19"
+                }
+            },
+            "topic": "Origin of the Virus",
+            "sub_topic": "Animals associated with the origin of COVID-19",
+            "template": "Animal-X is associated/involved with the origin of COVID-19",
+            "final_claim_score": 0.8449320793151855,
+            "subtopic_question": "What is the origin of the virus that causes the virus?",
+            "x_variable": "human error in a BSL-4 laboratory in Wuhan",
+            "x_variable_start": 80,
+            "x_variable_end": 122,
+            "claim_span_start": 47,
+            "claim_span_end": 91,
+            "claim_span_text": "that SARS-CoV-2 is the result of human error",
+            "claimer_debug": {
+                "score": 0.00064637023024261,
+                "start": 8023,
+                "end": 8052,
+                "answer": "Indian scientific publication"
+            },
+            "claimer_text": "<AUTHOR>",
+            "claimer_start": -1,
+            "claimer_end": -1,
+            "claimer_score": 0.00064637023024261
+        },
+        {
+            "segment_id": "segment-60",
+            "start_char": 7843,
+            "end_char": 8052,
+            "sentence": "One piece of evidence held up to support the theory is that the SARS-CoV-2 genome contains sequences that correspond to HIV, a hypothesis that is said to have been validated by an Indian scientific publication.",
+            "claimbuster_score": 0.4362267508,
+            "topic_scores": {
+                "Who can contract the virus": {
+                    "score": 0.03883335739374161,
+                    "start": 120,
+                    "end": 123,
+                    "answer": "HIV",
+                    "sub_topic": "Who can contract COVID-19"
+                },
+                "Wearing masks has what negative effect": {
+                    "score": 4.524274643813442e-08,
+                    "start": 120,
+                    "end": 123,
+                    "answer": "HIV",
+                    "sub_topic": "Harmful effects of wearing masks"
+                },
+                "Does wearing a mask harm your health?": {
+                    "score": 7.684720912948251e-07,
+                    "start": 120,
+                    "end": 123,
+                    "answer": "HIV",
+                    "sub_topic": "Harmful effects of wearing masks"
+                },
+                "Wearing masks is required in what location": {
+                    "score": 7.422484848973454e-09,
+                    "start": 60,
+                    "end": 68,
+                    "answer": "the SARS",
+                    "sub_topic": "Places where there are regulations for wearing masks to prevent the spread of COVID-19"
+                },
+                "What are CDC's recommendations for wearing face masks during the the virus pandemic?": {
+                    "score": 1.1059607452068576e-08,
+                    "start": 209,
+                    "end": 210,
+                    "answer": ".",
+                    "sub_topic": "Places where wearing masks is recommended to prevent the spread of COVID-19"
+                },
+                "Wearing masks is recommended in what location": {
+                    "score": 2.8765347881432035e-09,
+                    "start": 60,
+                    "end": 68,
+                    "answer": "the SARS",
+                    "sub_topic": "Places where wearing masks is recommended to prevent the spread of COVID-19"
+                },
+                "Wearing masks is necessary in what location": {
+                    "score": 1.114202330398939e-08,
+                    "start": 60,
+                    "end": 68,
+                    "answer": "the SARS",
+                    "sub_topic": "Places where wearing masks is necessary to prevent the spread of COVID-19"
+                },
+                "Is it helpful to wear a mask during the the virus pandemic?": {
+                    "score": 5.3147818107390776e-05,
+                    "start": 45,
+                    "end": 51,
+                    "answer": "theory",
+                    "sub_topic": "Places where wearing masks is necessary to prevent the spread of COVID-19"
+                },
+                "Where the first case of the virus occurred": {
+                    "score": 0.00011985599849140272,
+                    "start": 60,
+                    "end": 74,
+                    "answer": "the SARS-CoV-2",
+                    "sub_topic": "Where the first case of COVID-19 occurred"
+                },
+                "what animal is associated/involved with the origin of the virus": {
+                    "score": 0.021507948637008667,
+                    "start": 60,
+                    "end": 123,
+                    "answer": "the SARS-CoV-2 genome contains sequences that correspond to HIV",
+                    "sub_topic": "Animals associated with the origin of COVID-19"
+                },
+                "What is the origin of the virus that causes the virus?": {
+                    "score": 0.5182998180389404,
+                    "start": 120,
+                    "end": 123,
+                    "answer": "HIV",
+                    "sub_topic": "Animals associated with the origin of COVID-19"
+                },
+                "What transmits the virus": {
+                    "score": 0.312264084815979,
+                    "start": 60,
+                    "end": 123,
+                    "answer": "the SARS-CoV-2 genome contains sequences that correspond to HIV",
+                    "sub_topic": "What transmits COVID-19"
+                }
+            },
+            "topic": "Origin of the Virus",
+            "sub_topic": "Animals associated with the origin of COVID-19",
+            "template": "Animal-X is associated/involved with the origin of COVID-19",
+            "final_claim_score": 0.5182998180389404,
+            "subtopic_question": "What is the origin of the virus that causes the virus?",
+            "x_variable": "HIV",
+            "x_variable_start": 120,
+            "x_variable_end": 123,
+            "claim_span_start": 60,
+            "claim_span_end": 123,
+            "claim_span_text": "the SARS-CoV-2 genome contains sequences that correspond to HIV",
+            "claimer_debug": {
+                "score": 0.25206655263900757,
+                "start": 8020,
+                "end": 8052,
+                "answer": "an Indian scientific publication",
+                "extracted_from": "full document"
+            },
+            "claimer_text": "an Indian scientific publication",
+            "claimer_start": 8020,
+            "claimer_end": 8052,
+            "claimer_score": 0.25206655263900757
+        },
+        {
+            "segment_id": "segment-75",
+            "start_char": 9467,
+            "end_char": 9625,
+            "sentence": "The theory that SARS-CoV-2 derives from HIV is based on an incorrect analysis of an article published by Indian scientists on the open science website bioRxiv.",
+            "claimbuster_score": 0.6389917223,
+            "topic_scores": {
+                "Who can contract the virus": {
+                    "score": 0.00019416410941630602,
+                    "start": 16,
+                    "end": 26,
+                    "answer": "SARS-CoV-2",
+                    "sub_topic": "Who can contract COVID-19"
+                },
+                "Wearing masks has what negative effect": {
+                    "score": 5.212493103812221e-09,
+                    "start": 40,
+                    "end": 43,
+                    "answer": "HIV",
+                    "sub_topic": "Harmful effects of wearing masks"
+                },
+                "Does wearing a mask harm your health?": {
+                    "score": 3.354611521899642e-07,
+                    "start": 40,
+                    "end": 43,
+                    "answer": "HIV",
+                    "sub_topic": "Harmful effects of wearing masks"
+                },
+                "Wearing masks is required in what location": {
+                    "score": 1.6315472306516199e-09,
+                    "start": 40,
+                    "end": 43,
+                    "answer": "HIV",
+                    "sub_topic": "Places where there are regulations for wearing masks to prevent the spread of COVID-19"
+                },
+                "What are CDC's recommendations for wearing face masks during the the virus pandemic?": {
+                    "score": 2.5661848201963267e-09,
+                    "start": 158,
+                    "end": 159,
+                    "answer": ".",
+                    "sub_topic": "Places where wearing masks is recommended to prevent the spread of COVID-19"
+                },
+                "Wearing masks is recommended in what location": {
+                    "score": 4.964883504321449e-10,
+                    "start": 130,
+                    "end": 159,
+                    "answer": "open science website bioRxiv.",
+                    "sub_topic": "Places where wearing masks is recommended to prevent the spread of COVID-19"
+                },
+                "Wearing masks is necessary in what location": {
+                    "score": 5.041220774160138e-09,
+                    "start": 40,
+                    "end": 43,
+                    "answer": "HIV",
+                    "sub_topic": "Places where wearing masks is necessary to prevent the spread of COVID-19"
+                },
+                "Is it helpful to wear a mask during the the virus pandemic?": {
+                    "score": 0.00047921252553351223,
+                    "start": 59,
+                    "end": 68,
+                    "answer": "incorrect",
+                    "sub_topic": "Places where wearing masks is necessary to prevent the spread of COVID-19"
+                },
+                "Where the first case of the virus occurred": {
+                    "score": 2.347942972846795e-05,
+                    "start": 105,
+                    "end": 158,
+                    "answer": "Indian scientists on the open science website bioRxiv",
+                    "sub_topic": "Where the first case of COVID-19 occurred"
+                },
+                "what animal is associated/involved with the origin of the virus": {
+                    "score": 0.08949867635965347,
+                    "start": 40,
+                    "end": 43,
+                    "answer": "HIV",
+                    "sub_topic": "Animals associated with the origin of COVID-19"
+                },
+                "What is the origin of the virus that causes the virus?": {
+                    "score": 0.9125854969024658,
+                    "start": 40,
+                    "end": 43,
+                    "answer": "HIV",
+                    "sub_topic": "Animals associated with the origin of COVID-19"
+                },
+                "What transmits the virus": {
+                    "score": 0.5361059904098511,
+                    "start": 40,
+                    "end": 43,
+                    "answer": "HIV",
+                    "sub_topic": "What transmits COVID-19"
+                }
+            },
+            "topic": "Origin of the Virus",
+            "sub_topic": "Animals associated with the origin of COVID-19",
+            "template": "Animal-X is associated/involved with the origin of COVID-19",
+            "final_claim_score": 0.9125854969024658,
+            "subtopic_question": "What is the origin of the virus that causes the virus?",
+            "x_variable": "HIV",
+            "x_variable_start": 40,
+            "x_variable_end": 43,
+            "claim_span_start": 11,
+            "claim_span_end": 43,
+            "claim_span_text": "that SARS-CoV-2 derives from HIV",
+            "claimer_debug": {
+                "score": 0.20824258029460907,
+                "start": 9572,
+                "end": 9625,
+                "answer": "Indian scientists on the open science website bioRxiv",
+                "extracted_from": "full document"
+            },
+            "claimer_text": "Indian scientists on the open science website bioRxiv",
+            "claimer_start": 9572,
+            "claimer_end": 9625,
+            "claimer_score": 0.20824258029460907
+        },
+        {
+            "segment_id": "segment-84",
+            "start_char": 10546,
+            "end_char": 10732,
+            "sentence": "A scientific article dated March 17, 2020 refutes the idea of a laboratory-created virus (The proximal origin of SARS-CoV-2, Kristian G. Andersen, Andrew Rambaut, W. Ian Lipkin, Edward C.",
+            "claimbuster_score": 0.6228459773,
+            "topic_scores": {
+                "Who can contract the virus": {
+                    "score": 3.580227348720655e-05,
+                    "start": 125,
+                    "end": 161,
+                    "answer": "Kristian G. Andersen, Andrew Rambaut",
+                    "sub_topic": "Who can contract COVID-19"
+                },
+                "Wearing masks has what negative effect": {
+                    "score": 8.869952239365375e-08,
+                    "start": 42,
+                    "end": 88,
+                    "answer": "refutes the idea of a laboratory-created virus",
+                    "sub_topic": "Harmful effects of wearing masks"
+                },
+                "Does wearing a mask harm your health?": {
+                    "score": 1.4765106470804312e-06,
+                    "start": 37,
+                    "end": 88,
+                    "answer": "2020 refutes the idea of a laboratory-created virus",
+                    "sub_topic": "Harmful effects of wearing masks"
+                },
+                "Wearing masks is required in what location": {
+                    "score": 4.5025505546192335e-10,
+                    "start": 113,
+                    "end": 123,
+                    "answer": "SARS-CoV-2",
+                    "sub_topic": "Places where there are regulations for wearing masks to prevent the spread of COVID-19"
+                },
+                "What are CDC's recommendations for wearing face masks during the the virus pandemic?": {
+                    "score": 7.399501811278242e-08,
+                    "start": 42,
+                    "end": 88,
+                    "answer": "refutes the idea of a laboratory-created virus",
+                    "sub_topic": "Places where wearing masks is recommended to prevent the spread of COVID-19"
+                },
+                "Wearing masks is recommended in what location": {
+                    "score": 1.4698803285639883e-10,
+                    "start": 37,
+                    "end": 41,
+                    "answer": "2020",
+                    "sub_topic": "Places where wearing masks is recommended to prevent the spread of COVID-19"
+                },
+                "Wearing masks is necessary in what location": {
+                    "score": 6.909855465586645e-10,
+                    "start": 64,
+                    "end": 74,
+                    "answer": "laboratory",
+                    "sub_topic": "Places where wearing masks is necessary to prevent the spread of COVID-19"
+                },
+                "Is it helpful to wear a mask during the the virus pandemic?": {
+                    "score": 0.0005962133291177452,
+                    "start": 42,
+                    "end": 88,
+                    "answer": "refutes the idea of a laboratory-created virus",
+                    "sub_topic": "Places where wearing masks is necessary to prevent the spread of COVID-19"
+                },
+                "Where the first case of the virus occurred": {
+                    "score": 0.07392523437738419,
+                    "start": 90,
+                    "end": 123,
+                    "answer": "The proximal origin of SARS-CoV-2",
+                    "sub_topic": "Where the first case of COVID-19 occurred"
+                },
+                "what animal is associated/involved with the origin of the virus": {
+                    "score": 0.0016770968213677406,
+                    "start": 90,
+                    "end": 109,
+                    "answer": "The proximal origin",
+                    "sub_topic": "Animals associated with the origin of COVID-19"
+                },
+                "What is the origin of the virus that causes the virus?": {
+                    "score": 0.4375833570957184,
+                    "start": 90,
+                    "end": 109,
+                    "answer": "The proximal origin",
+                    "sub_topic": "Animals associated with the origin of COVID-19"
+                },
+                "What transmits the virus": {
+                    "score": 0.009822394698858261,
+                    "start": 90,
+                    "end": 123,
+                    "answer": "The proximal origin of SARS-CoV-2",
+                    "sub_topic": "What transmits COVID-19"
+                }
+            },
+            "topic": "Origin of the Virus",
+            "sub_topic": "Animals associated with the origin of COVID-19",
+            "template": "Animal-X is associated/involved with the origin of COVID-19",
+            "final_claim_score": 0.4375833570957184,
+            "subtopic_question": "What is the origin of the virus that causes the virus?",
+            "x_variable": "The proximal origin of SARS-CoV-2",
+            "x_variable_start": 90,
+            "x_variable_end": 123,
+            "claim_span_start": 62,
+            "claim_span_end": 88,
+            "claim_span_text": "a laboratory-created virus",
+            "claimer_debug": {
+                "score": 0.00014386203838512301,
+                "start": 12005,
+                "end": 12053,
+                "answer": "A scientific article published on March 17, 2020"
+            },
+            "claimer_text": "<AUTHOR>",
+            "claimer_start": -1,
+            "claimer_end": -1,
+            "claimer_score": 0.00014386203838512301
+        },
+        {
+            "segment_id": "segment-93",
+            "start_char": 11018,
+            "end_char": 11200,
+            "sentence": "A recurring suspicion about the SARS-CoV-2 virus, held by conspiracy groups, is that it is linked to the presence of a P4 laboratory in Wuhan, the city where the virus first appeared.",
+            "claimbuster_score": 0.6376190612,
+            "topic_scores": {
+                "Who can contract the virus": {
+                    "score": 4.049207404932531e-07,
+                    "start": 58,
+                    "end": 75,
+                    "answer": "conspiracy groups",
+                    "sub_topic": "Who can contract COVID-19"
+                },
+                "Wearing masks has what negative effect": {
+                    "score": 5.541635417216639e-08,
+                    "start": 12,
+                    "end": 48,
+                    "answer": "suspicion about the SARS-CoV-2 virus",
+                    "sub_topic": "Harmful effects of wearing masks"
+                },
+                "Does wearing a mask harm your health?": {
+                    "score": 5.862176299942234e-10,
+                    "start": 182,
+                    "end": 183,
+                    "answer": ".",
+                    "sub_topic": "Harmful effects of wearing masks"
+                },
+                "Wearing masks is required in what location": {
+                    "score": 5.291817206654059e-09,
+                    "start": 136,
+                    "end": 141,
+                    "answer": "Wuhan",
+                    "sub_topic": "Places where there are regulations for wearing masks to prevent the spread of COVID-19"
+                },
+                "What are CDC's recommendations for wearing face masks during the the virus pandemic?": {
+                    "score": 5.810641967585184e-10,
+                    "start": 182,
+                    "end": 183,
+                    "answer": ".",
+                    "sub_topic": "Places where wearing masks is recommended to prevent the spread of COVID-19"
+                },
+                "Wearing masks is recommended in what location": {
+                    "score": 2.5590560781552085e-09,
+                    "start": 136,
+                    "end": 141,
+                    "answer": "Wuhan",
+                    "sub_topic": "Places where wearing masks is recommended to prevent the spread of COVID-19"
+                },
+                "Wearing masks is necessary in what location": {
+                    "score": 4.859148639013711e-09,
+                    "start": 136,
+                    "end": 141,
+                    "answer": "Wuhan",
+                    "sub_topic": "Places where wearing masks is necessary to prevent the spread of COVID-19"
+                },
+                "Is it helpful to wear a mask during the the virus pandemic?": {
+                    "score": 1.8899742144640186e-06,
+                    "start": 12,
+                    "end": 21,
+                    "answer": "suspicion",
+                    "sub_topic": "Places where wearing masks is necessary to prevent the spread of COVID-19"
+                },
+                "Where the first case of the virus occurred": {
+                    "score": 0.8490710854530334,
+                    "start": 136,
+                    "end": 141,
+                    "answer": "Wuhan",
+                    "sub_topic": "Where the first case of COVID-19 occurred"
+                },
+                "what animal is associated/involved with the origin of the virus": {
+                    "score": 0.01469232328236103,
+                    "start": 117,
+                    "end": 132,
+                    "answer": "a P4 laboratory",
+                    "sub_topic": "Animals associated with the origin of COVID-19"
+                },
+                "What is the origin of the virus that causes the virus?": {
+                    "score": 0.23090074956417084,
+                    "start": 119,
+                    "end": 141,
+                    "answer": "P4 laboratory in Wuhan",
+                    "sub_topic": "Animals associated with the origin of COVID-19"
+                },
+                "What transmits the virus": {
+                    "score": 0.00027152220718562603,
+                    "start": 101,
+                    "end": 141,
+                    "answer": "the presence of a P4 laboratory in Wuhan",
+                    "sub_topic": "What transmits COVID-19"
+                }
+            },
+            "topic": "Origin of the Virus",
+            "sub_topic": "Where the first case of COVID-19 occurred",
+            "template": "The first case of COVID-19 occurred in location-X",
+            "final_claim_score": 0.8490710854530334,
+            "subtopic_question": "Where the first case of the virus occurred",
+            "x_variable": "Wuhan",
+            "x_variable_start": 136,
+            "x_variable_end": 141,
+            "claim_span_start": 91,
+            "claim_span_end": 141,
+            "claim_span_text": "linked to the presence of a P4 laboratory in Wuhan",
+            "claimer_debug": {
+                "score": 0.013478407636284828,
+                "start": 11076,
+                "end": 11093,
+                "answer": "conspiracy groups",
+                "extracted_from": "full document"
+            },
+            "claimer_text": "conspiracy groups",
+            "claimer_start": 11076,
+            "claimer_end": 11093,
+            "claimer_score": 0.013478407636284828
+        },
+        {
+            "segment_id": "segment-94",
+            "start_char": 11202,
+            "end_char": 11355,
+            "sentence": "According to conspiracy groups, SARS-CoV-2 was spread when a bat, on which tests had been performed, escaped, and the Institut Pasteur was linked to this.",
+            "claimbuster_score": 0.7655223616,
+            "topic_scores": {
+                "Who can contract the virus": {
+                    "score": 0.3867650330066681,
+                    "start": 59,
+                    "end": 64,
+                    "answer": "a bat",
+                    "sub_topic": "Who can contract COVID-19"
+                },
+                "Wearing masks has what negative effect": {
+                    "score": 5.456880458609703e-08,
+                    "start": 32,
+                    "end": 53,
+                    "answer": "SARS-CoV-2 was spread",
+                    "sub_topic": "Harmful effects of wearing masks"
+                },
+                "Does wearing a mask harm your health?": {
+                    "score": 9.554221414020958e-09,
+                    "start": 0,
+                    "end": 30,
+                    "answer": "According to conspiracy groups",
+                    "sub_topic": "Harmful effects of wearing masks"
+                },
+                "Wearing masks is required in what location": {
+                    "score": 2.8370545024358762e-08,
+                    "start": 118,
+                    "end": 134,
+                    "answer": "Institut Pasteur",
+                    "sub_topic": "Places where there are regulations for wearing masks to prevent the spread of COVID-19"
+                },
+                "What are CDC's recommendations for wearing face masks during the the virus pandemic?": {
+                    "score": 2.785133901284098e-09,
+                    "start": 153,
+                    "end": 154,
+                    "answer": ".",
+                    "sub_topic": "Places where wearing masks is recommended to prevent the spread of COVID-19"
+                },
+                "Wearing masks is recommended in what location": {
+                    "score": 6.604856217506949e-09,
+                    "start": 118,
+                    "end": 134,
+                    "answer": "Institut Pasteur",
+                    "sub_topic": "Places where wearing masks is recommended to prevent the spread of COVID-19"
+                },
+                "Wearing masks is necessary in what location": {
+                    "score": 8.580568255922572e-09,
+                    "start": 118,
+                    "end": 134,
+                    "answer": "Institut Pasteur",
+                    "sub_topic": "Places where wearing masks is necessary to prevent the spread of COVID-19"
+                },
+                "Is it helpful to wear a mask during the the virus pandemic?": {
+                    "score": 6.171578570501879e-05,
+                    "start": 13,
+                    "end": 30,
+                    "answer": "conspiracy groups",
+                    "sub_topic": "Places where wearing masks is necessary to prevent the spread of COVID-19"
+                },
+                "Where the first case of the virus occurred": {
+                    "score": 0.10633925348520279,
+                    "start": 59,
+                    "end": 108,
+                    "answer": "a bat, on which tests had been performed, escaped",
+                    "sub_topic": "Where the first case of COVID-19 occurred"
+                },
+                "what animal is associated/involved with the origin of the virus": {
+                    "score": 0.28022459149360657,
+                    "start": 61,
+                    "end": 64,
+                    "answer": "bat",
+                    "sub_topic": "Animals associated with the origin of COVID-19"
+                },
+                "What is the origin of the virus that causes the virus?": {
+                    "score": 0.4548700451850891,
+                    "start": 59,
+                    "end": 64,
+                    "answer": "a bat",
+                    "sub_topic": "Animals associated with the origin of COVID-19"
+                },
+                "What transmits the virus": {
+                    "score": 0.37777939438819885,
+                    "start": 59,
+                    "end": 64,
+                    "answer": "a bat",
+                    "sub_topic": "What transmits COVID-19"
+                }
+            },
+            "topic": "Origin of the Virus",
+            "sub_topic": "Animals associated with the origin of COVID-19",
+            "template": "Animal-X is associated/involved with the origin of COVID-19",
+            "final_claim_score": 0.4548700451850891,
+            "subtopic_question": "What is the origin of the virus that causes the virus?",
+            "x_variable": "a bat",
+            "x_variable_start": 59,
+            "x_variable_end": 64,
+            "claim_span_start": 0,
+            "claim_span_end": 0,
+            "claim_span_text": "",
+            "claimer_debug": {
+                "score": 0.0007861093617975712,
+                "start": 16362,
+                "end": 16382,
+                "answer": "the Institut Pasteur"
+            },
+            "claimer_text": "<AUTHOR>",
+            "claimer_start": -1,
+            "claimer_end": -1,
+            "claimer_score": 0.0007861093617975712
+        },
+        {
+            "segment_id": "segment-98",
+            "start_char": 11496,
+            "end_char": 11640,
+            "sentence": "The P4 laboratory in the city of Wuhan, where the virus SARS-CoV-2 first appeared, has nothing to do with the Institut Pasteur of Shanghai (IPS).",
+            "claimbuster_score": 0.7104687197,
+            "topic_scores": {
+                "Who can contract the virus": {
+                    "score": 5.428576696431264e-05,
+                    "start": 33,
+                    "end": 38,
+                    "answer": "Wuhan",
+                    "sub_topic": "Who can contract COVID-19"
+                },
+                "Wearing masks has what negative effect": {
+                    "score": 5.112382073235722e-09,
+                    "start": 50,
+                    "end": 55,
+                    "answer": "virus",
+                    "sub_topic": "Harmful effects of wearing masks"
+                },
+                "Does wearing a mask harm your health?": {
+                    "score": 6.003066488347031e-08,
+                    "start": 87,
+                    "end": 138,
+                    "answer": "nothing to do with the Institut Pasteur of Shanghai",
+                    "sub_topic": "Harmful effects of wearing masks"
+                },
+                "Wearing masks is required in what location": {
+                    "score": 2.3424290702678263e-06,
+                    "start": 0,
+                    "end": 38,
+                    "answer": "The P4 laboratory in the city of Wuhan",
+                    "sub_topic": "Places where there are regulations for wearing masks to prevent the spread of COVID-19"
+                },
+                "What are CDC's recommendations for wearing face masks during the the virus pandemic?": {
+                    "score": 2.634201190510055e-10,
+                    "start": 110,
+                    "end": 138,
+                    "answer": "Institut Pasteur of Shanghai",
+                    "sub_topic": "Places where wearing masks is recommended to prevent the spread of COVID-19"
+                },
+                "Wearing masks is recommended in what location": {
+                    "score": 2.173442226194311e-06,
+                    "start": 0,
+                    "end": 38,
+                    "answer": "The P4 laboratory in the city of Wuhan",
+                    "sub_topic": "Places where wearing masks is recommended to prevent the spread of COVID-19"
+                },
+                "Wearing masks is necessary in what location": {
+                    "score": 6.002599661769636e-07,
+                    "start": 0,
+                    "end": 38,
+                    "answer": "The P4 laboratory in the city of Wuhan",
+                    "sub_topic": "Places where wearing masks is necessary to prevent the spread of COVID-19"
+                },
+                "Is it helpful to wear a mask during the the virus pandemic?": {
+                    "score": 0.00013019845937378705,
+                    "start": 87,
+                    "end": 138,
+                    "answer": "nothing to do with the Institut Pasteur of Shanghai",
+                    "sub_topic": "Places where wearing masks is necessary to prevent the spread of COVID-19"
+                },
+                "Where the first case of the virus occurred": {
+                    "score": 0.8415606021881104,
+                    "start": 33,
+                    "end": 38,
+                    "answer": "Wuhan",
+                    "sub_topic": "Where the first case of COVID-19 occurred"
+                },
+                "what animal is associated/involved with the origin of the virus": {
+                    "score": 0.014491302892565727,
+                    "start": 83,
+                    "end": 138,
+                    "answer": "has nothing to do with the Institut Pasteur of Shanghai",
+                    "sub_topic": "Animals associated with the origin of COVID-19"
+                },
+                "What is the origin of the virus that causes the virus?": {
+                    "score": 0.07025253772735596,
+                    "start": 110,
+                    "end": 138,
+                    "answer": "Institut Pasteur of Shanghai",
+                    "sub_topic": "Animals associated with the origin of COVID-19"
+                },
+                "What transmits the virus": {
+                    "score": 0.00016715985839255154,
+                    "start": 0,
+                    "end": 17,
+                    "answer": "The P4 laboratory",
+                    "sub_topic": "What transmits COVID-19"
+                }
+            },
+            "topic": "Origin of the Virus",
+            "sub_topic": "Where the first case of COVID-19 occurred",
+            "template": "The first case of COVID-19 occurred in location-X",
+            "final_claim_score": 0.8415606021881104,
+            "subtopic_question": "Where the first case of the virus occurred",
+            "x_variable": "Wuhan",
+            "x_variable_start": 33,
+            "x_variable_end": 38,
+            "claim_span_start": 5,
+            "claim_span_end": 83,
+            "claim_span_text": "4 laboratory in the city of Wuhan, where the virus SARS-CoV-2 first appeared, ",
+            "claimer_debug": {
+                "score": 0.00024824374122545123,
+                "start": 16362,
+                "end": 16382,
+                "answer": "the Institut Pasteur"
+            },
+            "claimer_text": "<AUTHOR>",
+            "claimer_start": -1,
+            "claimer_end": -1,
+            "claimer_score": 0.00024824374122545123
+        },
+        {
+            "segment_id": "segment-99",
+            "start_char": 11646,
+            "end_char": 11792,
+            "sentence": "This hearsay has no link with the previous work of the Institut Pasteur (Paris) on SARS-CoV-1, the coronavirus that appeared in China in 2002-2003.",
+            "claimbuster_score": 0.7085142834,
+            "topic_scores": {
+                "Who can contract the virus": {
+                    "score": 0.0032249668147414923,
+                    "start": 128,
+                    "end": 133,
+                    "answer": "China",
+                    "sub_topic": "Who can contract COVID-19"
+                },
+                "Wearing masks has what negative effect": {
+                    "score": 4.346067328242498e-08,
+                    "start": 83,
+                    "end": 93,
+                    "answer": "SARS-CoV-1",
+                    "sub_topic": "Harmful effects of wearing masks"
+                },
+                "Does wearing a mask harm your health?": {
+                    "score": 1.9605147826950997e-05,
+                    "start": 17,
+                    "end": 19,
+                    "answer": "no",
+                    "sub_topic": "Harmful effects of wearing masks"
+                },
+                "Wearing masks is required in what location": {
+                    "score": 7.302161009192787e-08,
+                    "start": 128,
+                    "end": 133,
+                    "answer": "China",
+                    "sub_topic": "Places where there are regulations for wearing masks to prevent the spread of COVID-19"
+                },
+                "What are CDC's recommendations for wearing face masks during the the virus pandemic?": {
+                    "score": 1.3653590258400072e-06,
+                    "start": 5,
+                    "end": 12,
+                    "answer": "hearsay",
+                    "sub_topic": "Places where wearing masks is recommended to prevent the spread of COVID-19"
+                },
+                "Wearing masks is recommended in what location": {
+                    "score": 4.479111481714426e-08,
+                    "start": 128,
+                    "end": 133,
+                    "answer": "China",
+                    "sub_topic": "Places where wearing masks is recommended to prevent the spread of COVID-19"
+                },
+                "Wearing masks is necessary in what location": {
+                    "score": 6.643387706617432e-08,
+                    "start": 128,
+                    "end": 133,
+                    "answer": "China",
+                    "sub_topic": "Places where wearing masks is necessary to prevent the spread of COVID-19"
+                },
+                "Is it helpful to wear a mask during the the virus pandemic?": {
+                    "score": 0.01694842427968979,
+                    "start": 17,
+                    "end": 47,
+                    "answer": "no link with the previous work",
+                    "sub_topic": "Places where wearing masks is necessary to prevent the spread of COVID-19"
+                },
+                "Where the first case of the virus occurred": {
+                    "score": 0.6320580244064331,
+                    "start": 128,
+                    "end": 133,
+                    "answer": "China",
+                    "sub_topic": "Where the first case of COVID-19 occurred"
+                },
+                "what animal is associated/involved with the origin of the virus": {
+                    "score": 0.0020782644860446453,
+                    "start": 0,
+                    "end": 12,
+                    "answer": "This hearsay",
+                    "sub_topic": "Animals associated with the origin of COVID-19"
+                },
+                "What is the origin of the virus that causes the virus?": {
+                    "score": 0.8942309617996216,
+                    "start": 128,
+                    "end": 133,
+                    "answer": "China",
+                    "sub_topic": "Animals associated with the origin of COVID-19"
+                },
+                "What transmits the virus": {
+                    "score": 0.05827413499355316,
+                    "start": 95,
+                    "end": 146,
+                    "answer": "the coronavirus that appeared in China in 2002-2003",
+                    "sub_topic": "What transmits COVID-19"
+                }
+            },
+            "topic": "Origin of the Virus",
+            "sub_topic": "Animals associated with the origin of COVID-19",
+            "template": "Animal-X is associated/involved with the origin of COVID-19",
+            "final_claim_score": 0.8942309617996216,
+            "subtopic_question": "What is the origin of the virus that causes the virus?",
+            "x_variable": "China",
+            "x_variable_start": 128,
+            "x_variable_end": 133,
+            "claim_span_start": 10,
+            "claim_span_end": 93,
+            "claim_span_text": "ay has no link with the previous work of the Institut Pasteur (Paris) on SARS-CoV-1",
+            "claimer_debug": {
+                "score": 0.0009473272366449237,
+                "start": 15895,
+                "end": 15923,
+                "answer": "The Institut Pasteur (Paris)"
+            },
+            "claimer_text": "<AUTHOR>",
+            "claimer_start": -1,
+            "claimer_end": -1,
+            "claimer_score": 0.0009473272366449237
+        },
+        {
+            "segment_id": "segment-103",
+            "start_char": 12005,
+            "end_char": 12124,
+            "sentence": "A scientific article published on March 17, 2020 disproved the idea that this virus resulted from a laboratory creation.",
+            "claimbuster_score": 0.7018137987,
+            "topic_scores": {
+                "Who can contract the virus": {
+                    "score": 2.7493908305586956e-07,
+                    "start": 78,
+                    "end": 120,
+                    "answer": "virus resulted from a laboratory creation.",
+                    "sub_topic": "Who can contract COVID-19"
+                },
+                "Wearing masks has what negative effect": {
+                    "score": 1.8256334897159832e-06,
+                    "start": 49,
+                    "end": 119,
+                    "answer": "disproved the idea that this virus resulted from a laboratory creation",
+                    "sub_topic": "Harmful effects of wearing masks"
+                },
+                "Does wearing a mask harm your health?": {
+                    "score": 4.2906030728318e-08,
+                    "start": 44,
+                    "end": 120,
+                    "answer": "2020 disproved the idea that this virus resulted from a laboratory creation.",
+                    "sub_topic": "Harmful effects of wearing masks"
+                },
+                "Wearing masks is required in what location": {
+                    "score": 1.1020614421042296e-09,
+                    "start": 119,
+                    "end": 120,
+                    "answer": ".",
+                    "sub_topic": "Places where there are regulations for wearing masks to prevent the spread of COVID-19"
+                },
+                "What are CDC's recommendations for wearing face masks during the the virus pandemic?": {
+                    "score": 6.193529600295733e-08,
+                    "start": 49,
+                    "end": 120,
+                    "answer": "disproved the idea that this virus resulted from a laboratory creation.",
+                    "sub_topic": "Places where wearing masks is recommended to prevent the spread of COVID-19"
+                },
+                "Wearing masks is recommended in what location": {
+                    "score": 3.628370937036607e-10,
+                    "start": 119,
+                    "end": 120,
+                    "answer": ".",
+                    "sub_topic": "Places where wearing masks is recommended to prevent the spread of COVID-19"
+                },
+                "Wearing masks is necessary in what location": {
+                    "score": 1.1747124384342555e-09,
+                    "start": 119,
+                    "end": 120,
+                    "answer": ".",
+                    "sub_topic": "Places where wearing masks is necessary to prevent the spread of COVID-19"
+                },
+                "Is it helpful to wear a mask during the the virus pandemic?": {
+                    "score": 0.00018031711806543171,
+                    "start": 49,
+                    "end": 120,
+                    "answer": "disproved the idea that this virus resulted from a laboratory creation.",
+                    "sub_topic": "Places where wearing masks is necessary to prevent the spread of COVID-19"
+                },
+                "Where the first case of the virus occurred": {
+                    "score": 0.009523198939859867,
+                    "start": 0,
+                    "end": 48,
+                    "answer": "A scientific article published on March 17, 2020",
+                    "sub_topic": "Where the first case of COVID-19 occurred"
+                },
+                "what animal is associated/involved with the origin of the virus": {
+                    "score": 0.00019646882719825953,
+                    "start": 98,
+                    "end": 119,
+                    "answer": "a laboratory creation",
+                    "sub_topic": "Animals associated with the origin of COVID-19"
+                },
+                "What is the origin of the virus that causes the virus?": {
+                    "score": 0.5550529956817627,
+                    "start": 98,
+                    "end": 119,
+                    "answer": "a laboratory creation",
+                    "sub_topic": "Animals associated with the origin of COVID-19"
+                },
+                "What transmits the virus": {
+                    "score": 0.029724007472395897,
+                    "start": 98,
+                    "end": 119,
+                    "answer": "a laboratory creation",
+                    "sub_topic": "What transmits COVID-19"
+                }
+            },
+            "topic": "Origin of the Virus",
+            "sub_topic": "Animals associated with the origin of COVID-19",
+            "template": "Animal-X is associated/involved with the origin of COVID-19",
+            "final_claim_score": 0.5550529956817627,
+            "subtopic_question": "What is the origin of the virus that causes the virus?",
+            "x_variable": "a laboratory creation",
+            "x_variable_start": 98,
+            "x_variable_end": 119,
+            "claim_span_start": 68,
+            "claim_span_end": 119,
+            "claim_span_text": "that this virus resulted from a laboratory creation",
+            "claimer_debug": {
+                "score": 0.0021826617885380983,
+                "start": 12655,
+                "end": 12677,
+                "answer": "Prof.\nOlivier Schwartz"
+            },
+            "claimer_text": "<AUTHOR>",
+            "claimer_start": -1,
+            "claimer_end": -1,
+            "claimer_score": 0.0021826617885380983
+        },
+        {
+            "segment_id": "segment-123",
+            "start_char": 14781,
+            "end_char": 15033,
+            "sentence": "Since the emergence of the nouvel coronavirus in Wuhan, the Institut Pasteur of Shanghai (IPS), in line with its mandate, fulfilled its role as a cooperative Franco-Chinese platform, facilitating a better understanding of the evolution of the new virus.",
+            "claimbuster_score": 0.2454904961,
+            "topic_scores": {
+                "Who can contract the virus": {
+                    "score": 1.3018840036238544e-05,
+                    "start": 158,
+                    "end": 172,
+                    "answer": "Franco-Chinese",
+                    "sub_topic": "Who can contract COVID-19"
+                },
+                "Wearing masks has what negative effect": {
+                    "score": 1.5574562084452737e-08,
+                    "start": 183,
+                    "end": 252,
+                    "answer": "facilitating a better understanding of the evolution of the new virus",
+                    "sub_topic": "Harmful effects of wearing masks"
+                },
+                "Does wearing a mask harm your health?": {
+                    "score": 1.7036317245811006e-08,
+                    "start": 183,
+                    "end": 252,
+                    "answer": "facilitating a better understanding of the evolution of the new virus",
+                    "sub_topic": "Harmful effects of wearing masks"
+                },
+                "Wearing masks is required in what location": {
+                    "score": 2.0537760292427265e-07,
+                    "start": 49,
+                    "end": 54,
+                    "answer": "Wuhan",
+                    "sub_topic": "Places where there are regulations for wearing masks to prevent the spread of COVID-19"
+                },
+                "What are CDC's recommendations for wearing face masks during the the virus pandemic?": {
+                    "score": 6.940500441032782e-08,
+                    "start": 96,
+                    "end": 120,
+                    "answer": "in line with its mandate",
+                    "sub_topic": "Places where wearing masks is recommended to prevent the spread of COVID-19"
+                },
+                "Wearing masks is recommended in what location": {
+                    "score": 1.1723978587951933e-07,
+                    "start": 49,
+                    "end": 88,
+                    "answer": "Wuhan, the Institut Pasteur of Shanghai",
+                    "sub_topic": "Places where wearing masks is recommended to prevent the spread of COVID-19"
+                },
+                "Wearing masks is necessary in what location": {
+                    "score": 2.2787895659348578e-07,
+                    "start": 49,
+                    "end": 54,
+                    "answer": "Wuhan",
+                    "sub_topic": "Places where wearing masks is necessary to prevent the spread of COVID-19"
+                },
+                "Is it helpful to wear a mask during the the virus pandemic?": {
+                    "score": 0.0009376514353789389,
+                    "start": 183,
+                    "end": 252,
+                    "answer": "facilitating a better understanding of the evolution of the new virus",
+                    "sub_topic": "Places where wearing masks is necessary to prevent the spread of COVID-19"
+                },
+                "Where the first case of the virus occurred": {
+                    "score": 0.8146858215332031,
+                    "start": 49,
+                    "end": 54,
+                    "answer": "Wuhan",
+                    "sub_topic": "Where the first case of COVID-19 occurred"
+                },
+                "what animal is associated/involved with the origin of the virus": {
+                    "score": 0.0008089878247119486,
+                    "start": 56,
+                    "end": 88,
+                    "answer": "the Institut Pasteur of Shanghai",
+                    "sub_topic": "Animals associated with the origin of COVID-19"
+                },
+                "What is the origin of the virus that causes the virus?": {
+                    "score": 0.197803795337677,
+                    "start": 27,
+                    "end": 54,
+                    "answer": "nouvel coronavirus in Wuhan",
+                    "sub_topic": "Animals associated with the origin of COVID-19"
+                },
+                "What transmits the virus": {
+                    "score": 0.0003522208135109395,
+                    "start": 27,
+                    "end": 45,
+                    "answer": "nouvel coronavirus",
+                    "sub_topic": "What transmits COVID-19"
+                }
+            },
+            "topic": "Origin of the Virus",
+            "sub_topic": "Where the first case of COVID-19 occurred",
+            "template": "The first case of COVID-19 occurred in location-X",
+            "final_claim_score": 0.8146858215332031,
+            "subtopic_question": "Where the first case of the virus occurred",
+            "x_variable": "Wuhan",
+            "x_variable_start": 49,
+            "x_variable_end": 54,
+            "claim_span_start": 29,
+            "claim_span_end": 46,
+            "claim_span_text": "uvel coronavirus ",
+            "claimer_debug": {
+                "score": 0.00018633708532433957,
+                "start": 6416,
+                "end": 6436,
+                "answer": "the Institut Pasteur"
+            },
+            "claimer_text": "<AUTHOR>",
+            "claimer_start": -1,
+            "claimer_end": -1,
+            "claimer_score": 0.00018633708532433957
+        },
+        {
+            "segment_id": "segment-132",
+            "start_char": 16358,
+            "end_char": 16450,
+            "sentence": "NO, the Institut Pasteur did not invent Covid-19 or the virus responsible for it, SARS-CoV-2!",
+            "claimbuster_score": 0.7223095592,
+            "topic_scores": {
+                "Who can contract the virus": {
+                    "score": 0.0006749833119101822,
+                    "start": 82,
+                    "end": 92,
+                    "answer": "SARS-CoV-2",
+                    "sub_topic": "Who can contract COVID-19"
+                },
+                "Wearing masks has what negative effect": {
+                    "score": 1.1813993117115729e-09,
+                    "start": 0,
+                    "end": 48,
+                    "answer": "NO, the Institut Pasteur did not invent Covid-19",
+                    "sub_topic": "Harmful effects of wearing masks"
+                },
+                "Does wearing a mask harm your health?": {
+                    "score": 0.008942306973040104,
+                    "start": 0,
+                    "end": 2,
+                    "answer": "NO",
+                    "sub_topic": "Harmful effects of wearing masks"
+                },
+                "Wearing masks is required in what location": {
+                    "score": 2.5919623780623624e-08,
+                    "start": 8,
+                    "end": 24,
+                    "answer": "Institut Pasteur",
+                    "sub_topic": "Places where there are regulations for wearing masks to prevent the spread of COVID-19"
+                },
+                "What are CDC's recommendations for wearing face masks during the the virus pandemic?": {
+                    "score": 1.2729052286886144e-05,
+                    "start": 0,
+                    "end": 2,
+                    "answer": "NO",
+                    "sub_topic": "Places where wearing masks is recommended to prevent the spread of COVID-19"
+                },
+                "Wearing masks is recommended in what location": {
+                    "score": 1.1350677731059022e-08,
+                    "start": 8,
+                    "end": 24,
+                    "answer": "Institut Pasteur",
+                    "sub_topic": "Places where wearing masks is recommended to prevent the spread of COVID-19"
+                },
+                "Wearing masks is necessary in what location": {
+                    "score": 2.038006385873814e-08,
+                    "start": 8,
+                    "end": 24,
+                    "answer": "Institut Pasteur",
+                    "sub_topic": "Places where wearing masks is necessary to prevent the spread of COVID-19"
+                },
+                "Is it helpful to wear a mask during the the virus pandemic?": {
+                    "score": 0.13961437344551086,
+                    "start": 0,
+                    "end": 2,
+                    "answer": "NO",
+                    "sub_topic": "Places where wearing masks is necessary to prevent the spread of COVID-19"
+                },
+                "Where the first case of the virus occurred": {
+                    "score": 0.00013549676805268973,
+                    "start": 4,
+                    "end": 24,
+                    "answer": "the Institut Pasteur",
+                    "sub_topic": "Where the first case of COVID-19 occurred"
+                },
+                "what animal is associated/involved with the origin of the virus": {
+                    "score": 0.009827886708080769,
+                    "start": 82,
+                    "end": 92,
+                    "answer": "SARS-CoV-2",
+                    "sub_topic": "Animals associated with the origin of COVID-19"
+                },
+                "What is the origin of the virus that causes the virus?": {
+                    "score": 0.6841027140617371,
+                    "start": 82,
+                    "end": 92,
+                    "answer": "SARS-CoV-2",
+                    "sub_topic": "Animals associated with the origin of COVID-19"
+                },
+                "What transmits the virus": {
+                    "score": 0.002737275091931224,
+                    "start": 82,
+                    "end": 92,
+                    "answer": "SARS-CoV-2",
+                    "sub_topic": "What transmits COVID-19"
+                }
+            },
+            "topic": "Origin of the Virus",
+            "sub_topic": "Animals associated with the origin of COVID-19",
+            "template": "Animal-X is associated/involved with the origin of COVID-19",
+            "final_claim_score": 0.6841027140617371,
+            "subtopic_question": "What is the origin of the virus that causes the virus?",
+            "x_variable": "SARS-CoV-2",
+            "x_variable_start": 82,
+            "x_variable_end": 92,
+            "claim_span_start": 4,
+            "claim_span_end": 48,
+            "claim_span_text": "the Institut Pasteur did not invent Covid-19",
+            "claimer_debug": {
+                "score": 0.004360496066510677,
+                "start": 16332,
+                "end": 16355,
+                "answer": "conspiracy theory video"
+            },
+            "claimer_text": "<AUTHOR>",
+            "claimer_start": -1,
+            "claimer_end": -1,
+            "claimer_score": 0.004360496066510677
+        },
+        {
+            "segment_id": "segment-143",
+            "start_char": 17195,
+            "end_char": 17318,
+            "sentence": "In 2002, a first coronavirus, SARS-CoV-1, emerged in China, causing an outbreak of severe acute respiratory syndrome (SARS).",
+            "claimbuster_score": 0.6959620066,
+            "topic_scores": {
+                "Who can contract the virus": {
+                    "score": 8.488239836879075e-05,
+                    "start": 83,
+                    "end": 116,
+                    "answer": "severe acute respiratory syndrome",
+                    "sub_topic": "Who can contract COVID-19"
+                },
+                "Wearing masks has what negative effect": {
+                    "score": 8.729379175065333e-08,
+                    "start": 83,
+                    "end": 116,
+                    "answer": "severe acute respiratory syndrome",
+                    "sub_topic": "Harmful effects of wearing masks"
+                },
+                "Does wearing a mask harm your health?": {
+                    "score": 1.8171716575920982e-08,
+                    "start": 83,
+                    "end": 116,
+                    "answer": "severe acute respiratory syndrome",
+                    "sub_topic": "Harmful effects of wearing masks"
+                },
+                "Wearing masks is required in what location": {
+                    "score": 1.1729749394007172e-09,
+                    "start": 53,
+                    "end": 58,
+                    "answer": "China",
+                    "sub_topic": "Places where there are regulations for wearing masks to prevent the spread of COVID-19"
+                },
+                "What are CDC's recommendations for wearing face masks during the the virus pandemic?": {
+                    "score": 3.3991445769210316e-10,
+                    "start": 3,
+                    "end": 28,
+                    "answer": "2002, a first coronavirus",
+                    "sub_topic": "Places where wearing masks is recommended to prevent the spread of COVID-19"
+                },
+                "Wearing masks is recommended in what location": {
+                    "score": 3.887661581547519e-10,
+                    "start": 53,
+                    "end": 58,
+                    "answer": "China",
+                    "sub_topic": "Places where wearing masks is recommended to prevent the spread of COVID-19"
+                },
+                "Wearing masks is necessary in what location": {
+                    "score": 1.1816349010373983e-09,
+                    "start": 53,
+                    "end": 58,
+                    "answer": "China",
+                    "sub_topic": "Places where wearing masks is necessary to prevent the spread of COVID-19"
+                },
+                "Is it helpful to wear a mask during the the virus pandemic?": {
+                    "score": 3.778837651680078e-07,
+                    "start": 71,
+                    "end": 116,
+                    "answer": "outbreak of severe acute respiratory syndrome",
+                    "sub_topic": "Places where wearing masks is necessary to prevent the spread of COVID-19"
+                },
+                "Where the first case of the virus occurred": {
+                    "score": 0.7897663712501526,
+                    "start": 53,
+                    "end": 58,
+                    "answer": "China",
+                    "sub_topic": "Where the first case of COVID-19 occurred"
+                },
+                "what animal is associated/involved with the origin of the virus": {
+                    "score": 5.413435815171397e-07,
+                    "start": 53,
+                    "end": 58,
+                    "answer": "China",
+                    "sub_topic": "Animals associated with the origin of COVID-19"
+                },
+                "What is the origin of the virus that causes the virus?": {
+                    "score": 0.026160338893532753,
+                    "start": 53,
+                    "end": 58,
+                    "answer": "China",
+                    "sub_topic": "Animals associated with the origin of COVID-19"
+                },
+                "What transmits the virus": {
+                    "score": 4.902442015009001e-05,
+                    "start": 9,
+                    "end": 28,
+                    "answer": "a first coronavirus",
+                    "sub_topic": "What transmits COVID-19"
+                }
+            },
+            "topic": "Origin of the Virus",
+            "sub_topic": "Where the first case of COVID-19 occurred",
+            "template": "The first case of COVID-19 occurred in location-X",
+            "final_claim_score": 0.7897663712501526,
+            "subtopic_question": "Where the first case of the virus occurred",
+            "x_variable": "China",
+            "x_variable_start": 53,
+            "x_variable_end": 58,
+            "claim_span_start": 0,
+            "claim_span_end": 0,
+            "claim_span_text": "",
+            "claimer_debug": {
+                "score": 0.0015544523485004902,
+                "start": 6416,
+                "end": 6436,
+                "answer": "the Institut Pasteur"
+            },
+            "claimer_text": "<AUTHOR>",
+            "claimer_start": -1,
+            "claimer_end": -1,
+            "claimer_score": 0.0015544523485004902
+        }
+    ],
+    "L0C04D4MS": [
+        {
+            "segment_id": "segment-18",
+            "start_char": 2543,
+            "end_char": 2623,
+            "sentence": "They must not be used without a prescription and without supervision by a doctor.",
+            "claimbuster_score": 0.3862385569,
+            "topic_scores": {
+                "Who can contract the virus": {
+                    "score": 8.309017175633926e-06,
+                    "start": 0,
+                    "end": 80,
+                    "answer": "They must not be used without a prescription and without supervision by a doctor",
+                    "sub_topic": "Who can contract COVID-19"
+                },
+                "Wearing masks has what negative effect": {
+                    "score": 5.170990789338248e-06,
+                    "start": 0,
+                    "end": 80,
+                    "answer": "They must not be used without a prescription and without supervision by a doctor",
+                    "sub_topic": "Harmful effects of wearing masks"
+                },
+                "Does wearing a mask harm your health?": {
+                    "score": 8.181583689292893e-05,
+                    "start": 74,
+                    "end": 80,
+                    "answer": "doctor",
+                    "sub_topic": "Harmful effects of wearing masks"
+                },
+                "Wearing masks is required in what location": {
+                    "score": 8.181078737834468e-05,
+                    "start": 0,
+                    "end": 80,
+                    "answer": "They must not be used without a prescription and without supervision by a doctor",
+                    "sub_topic": "Places where there are regulations for wearing masks to prevent the spread of COVID-19"
+                },
+                "What are CDC's recommendations for wearing face masks during the the virus pandemic?": {
+                    "score": 0.5777136087417603,
+                    "start": 0,
+                    "end": 80,
+                    "answer": "They must not be used without a prescription and without supervision by a doctor",
+                    "sub_topic": "Places where wearing masks is recommended to prevent the spread of COVID-19"
+                },
+                "Wearing masks is recommended in what location": {
+                    "score": 1.0017938620876521e-05,
+                    "start": 0,
+                    "end": 80,
+                    "answer": "They must not be used without a prescription and without supervision by a doctor",
+                    "sub_topic": "Places where wearing masks is recommended to prevent the spread of COVID-19"
+                },
+                "Wearing masks is necessary in what location": {
+                    "score": 7.927963451948017e-05,
+                    "start": 0,
+                    "end": 80,
+                    "answer": "They must not be used without a prescription and without supervision by a doctor",
+                    "sub_topic": "Places where wearing masks is necessary to prevent the spread of COVID-19"
+                },
+                "Is it helpful to wear a mask during the the virus pandemic?": {
+                    "score": 0.12685143947601318,
+                    "start": 0,
+                    "end": 80,
+                    "answer": "They must not be used without a prescription and without supervision by a doctor",
+                    "sub_topic": "Places where wearing masks is necessary to prevent the spread of COVID-19"
+                },
+                "Where the first case of the virus occurred": {
+                    "score": 2.883269587528048e-07,
+                    "start": 0,
+                    "end": 80,
+                    "answer": "They must not be used without a prescription and without supervision by a doctor",
+                    "sub_topic": "Where the first case of COVID-19 occurred"
+                },
+                "what animal is associated/involved with the origin of the virus": {
+                    "score": 2.04263960768003e-05,
+                    "start": 0,
+                    "end": 80,
+                    "answer": "They must not be used without a prescription and without supervision by a doctor",
+                    "sub_topic": "Animals associated with the origin of COVID-19"
+                },
+                "What is the origin of the virus that causes the virus?": {
+                    "score": 0.0006060507148504257,
+                    "start": 32,
+                    "end": 44,
+                    "answer": "prescription",
+                    "sub_topic": "Animals associated with the origin of COVID-19"
+                },
+                "What transmits the virus": {
+                    "score": 2.109773049596697e-07,
+                    "start": 0,
+                    "end": 44,
+                    "answer": "They must not be used without a prescription",
+                    "sub_topic": "What transmits COVID-19"
+                }
+            },
+            "topic": "Non-Pharmaceutical Interventions (NPIs): Masks",
+            "sub_topic": "Places where wearing masks is recommended to prevent the spread of COVID-19",
+            "template": "Wearing masks is recommended in location/GPE/facility-x",
+            "final_claim_score": 0.5777136087417603,
+            "subtopic_question": "What are CDC's recommendations for wearing face masks during the the virus pandemic?",
+            "x_variable": "They must not be used without a prescription and without supervision by a doctor",
+            "x_variable_start": 0,
+            "x_variable_end": 80,
+            "claim_span_start": 0,
+            "claim_span_end": 80,
+            "claim_span_text": "They must not be used without a prescription and without supervision by a doctor",
+            "claimer_debug": {
+                "score": 6.474526162492111e-05,
+                "start": 2899,
+                "end": 2907,
+                "answer": "COVID-19"
+            },
+            "claimer_text": "<AUTHOR>",
+            "claimer_start": -1,
+            "claimer_end": -1,
+            "claimer_score": 6.474526162492111e-05
+        }
+    ],
+    "L0C04D4NL": [
+        {
+            "segment_id": "segment-65",
+            "start_char": 7059,
+            "end_char": 7322,
+            "sentence": "In Mumbai, health authorities initially prescribed the drug to children, contrary to the ICMR\u2019s advice, and considered a plan to give the drug to people under 55 years old in COVID-19 hotspots, such as Mumbai\u2019s Dharavi \u2014 one of Asia\u2019s most densely populated slums.",
+            "claimbuster_score": 0.8297189129,
+            "topic_scores": {
+                "Who can contract the virus": {
+                    "score": 0.06287021934986115,
+                    "start": 146,
+                    "end": 171,
+                    "answer": "people under 55 years old",
+                    "sub_topic": "Who can contract COVID-19"
+                },
+                "Wearing masks has what negative effect": {
+                    "score": 0.0018380070105195045,
+                    "start": 138,
+                    "end": 142,
+                    "answer": "drug",
+                    "sub_topic": "Harmful effects of wearing masks"
+                },
+                "Does wearing a mask harm your health?": {
+                    "score": 0.01526240911334753,
+                    "start": 73,
+                    "end": 102,
+                    "answer": "contrary to the ICMR\u2019s advice",
+                    "sub_topic": "Harmful effects of wearing masks"
+                },
+                "Wearing masks is required in what location": {
+                    "score": 2.0223191313561983e-05,
+                    "start": 202,
+                    "end": 218,
+                    "answer": "Mumbai\u2019s Dharavi",
+                    "sub_topic": "Places where there are regulations for wearing masks to prevent the spread of COVID-19"
+                },
+                "What are CDC's recommendations for wearing face masks during the the virus pandemic?": {
+                    "score": 8.038830856094137e-05,
+                    "start": 89,
+                    "end": 102,
+                    "answer": "ICMR\u2019s advice",
+                    "sub_topic": "Places where wearing masks is recommended to prevent the spread of COVID-19"
+                },
+                "Wearing masks is recommended in what location": {
+                    "score": 4.0464146877638996e-05,
+                    "start": 175,
+                    "end": 192,
+                    "answer": "COVID-19 hotspots",
+                    "sub_topic": "Places where wearing masks is recommended to prevent the spread of COVID-19"
+                },
+                "Wearing masks is necessary in what location": {
+                    "score": 6.408549234038219e-05,
+                    "start": 175,
+                    "end": 192,
+                    "answer": "COVID-19 hotspots",
+                    "sub_topic": "Places where wearing masks is necessary to prevent the spread of COVID-19"
+                },
+                "Is it helpful to wear a mask during the the virus pandemic?": {
+                    "score": 0.008929215371608734,
+                    "start": 55,
+                    "end": 102,
+                    "answer": "drug to children, contrary to the ICMR\u2019s advice",
+                    "sub_topic": "Places where wearing masks is necessary to prevent the spread of COVID-19"
+                },
+                "Where the first case of the virus occurred": {
+                    "score": 0.225041925907135,
+                    "start": 0,
+                    "end": 9,
+                    "answer": "In Mumbai",
+                    "sub_topic": "Where the first case of COVID-19 occurred"
+                },
+                "what animal is associated/involved with the origin of the virus": {
+                    "score": 1.74212982528843e-05,
+                    "start": 55,
+                    "end": 59,
+                    "answer": "drug",
+                    "sub_topic": "Animals associated with the origin of COVID-19"
+                },
+                "What is the origin of the virus that causes the virus?": {
+                    "score": 0.4018923342227936,
+                    "start": 55,
+                    "end": 59,
+                    "answer": "drug",
+                    "sub_topic": "Animals associated with the origin of COVID-19"
+                },
+                "What transmits the virus": {
+                    "score": 0.009851605631411076,
+                    "start": 55,
+                    "end": 59,
+                    "answer": "drug",
+                    "sub_topic": "What transmits COVID-19"
+                }
+            },
+            "topic": "Origin of the Virus",
+            "sub_topic": "Animals associated with the origin of COVID-19",
+            "template": "Animal-X is associated/involved with the origin of COVID-19",
+            "final_claim_score": 0.4018923342227936,
+            "subtopic_question": "What is the origin of the virus that causes the virus?",
+            "x_variable": "Mumbai",
+            "x_variable_start": 3,
+            "x_variable_end": 9,
+            "claim_span_start": 248,
+            "claim_span_end": 263,
+            "claim_span_text": "populated slums",
+            "claimer_debug": {
+                "score": 1.2200646779092494e-05,
+                "start": 4345,
+                "end": 4360,
+                "answer": "Joseph Cheriyan"
+            },
+            "claimer_text": "<AUTHOR>",
+            "claimer_start": -1,
+            "claimer_end": -1,
+            "claimer_score": 1.2200646779092494e-05
+        }
+    ]
+}

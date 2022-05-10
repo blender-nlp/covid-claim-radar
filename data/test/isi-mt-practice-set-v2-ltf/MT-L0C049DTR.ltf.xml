@@ -1,0 +1,965 @@
+<LCTL_TEXT lang="spa">
+<DOC grammar="none" id="L0C049DTR" lang="spa" raw_text_char_length="4332" raw_text_md5="232159453cbff4db4062aab2fc0abf40" tokenization="tokenization_parameters.v5.0">
+<TEXT>
+<SEG end_char="77" id="segment-0" start_char="1">
+<ORIGINAL_TEXT>¿Es posible que el Coronavirus haya salido del laboratorio de virus de Wuhan?</ORIGINAL_TEXT>
+<TOKEN end_char="1" id="token-0-0" morph="none" pos="punct" start_char="1">¿</TOKEN>
+<TOKEN end_char="3" id="token-0-1" morph="none" pos="word" start_char="2">Es</TOKEN>
+<TOKEN end_char="11" id="token-0-2" morph="none" pos="word" start_char="5">posible</TOKEN>
+<TOKEN end_char="15" id="token-0-3" morph="none" pos="word" start_char="13">que</TOKEN>
+<TOKEN end_char="18" id="token-0-4" morph="none" pos="word" start_char="17">el</TOKEN>
+<TOKEN end_char="30" id="token-0-5" morph="none" pos="word" start_char="20">Coronavirus</TOKEN>
+<TOKEN end_char="35" id="token-0-6" morph="none" pos="word" start_char="32">haya</TOKEN>
+<TOKEN end_char="42" id="token-0-7" morph="none" pos="word" start_char="37">salido</TOKEN>
+<TOKEN end_char="46" id="token-0-8" morph="none" pos="word" start_char="44">del</TOKEN>
+<TOKEN end_char="58" id="token-0-9" morph="none" pos="word" start_char="48">laboratorio</TOKEN>
+<TOKEN end_char="61" id="token-0-10" morph="none" pos="word" start_char="60">de</TOKEN>
+<TOKEN end_char="67" id="token-0-11" morph="none" pos="word" start_char="63">virus</TOKEN>
+<TOKEN end_char="70" id="token-0-12" morph="none" pos="word" start_char="69">de</TOKEN>
+<TOKEN end_char="76" id="token-0-13" morph="none" pos="word" start_char="72">Wuhan</TOKEN>
+<TOKEN end_char="77" id="token-0-14" morph="none" pos="punct" start_char="77">?</TOKEN>
+<TRANSLATED_TEXT>Is it possible that the Coronavirus has left the Wuhan virus lab?</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="92" id="segment-1" start_char="81">
+<ORIGINAL_TEXT>Interesante.</ORIGINAL_TEXT>
+<TOKEN end_char="91" id="token-1-0" morph="none" pos="word" start_char="81">Interesante</TOKEN>
+<TOKEN end_char="92" id="token-1-1" morph="none" pos="punct" start_char="92">.</TOKEN>
+<TRANSLATED_TEXT>Interesting.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="208" id="segment-2" start_char="95">
+<ORIGINAL_TEXT>Lo primero que debe hacer, si no lo ha hecho ya, es leer la respuesta de Guillermo García Alcaine a esta pregunta.</ORIGINAL_TEXT>
+<TOKEN end_char="96" id="token-2-0" morph="none" pos="word" start_char="95">Lo</TOKEN>
+<TOKEN end_char="104" id="token-2-1" morph="none" pos="word" start_char="98">primero</TOKEN>
+<TOKEN end_char="108" id="token-2-2" morph="none" pos="word" start_char="106">que</TOKEN>
+<TOKEN end_char="113" id="token-2-3" morph="none" pos="word" start_char="110">debe</TOKEN>
+<TOKEN end_char="119" id="token-2-4" morph="none" pos="word" start_char="115">hacer</TOKEN>
+<TOKEN end_char="120" id="token-2-5" morph="none" pos="punct" start_char="120">,</TOKEN>
+<TOKEN end_char="123" id="token-2-6" morph="none" pos="word" start_char="122">si</TOKEN>
+<TOKEN end_char="126" id="token-2-7" morph="none" pos="word" start_char="125">no</TOKEN>
+<TOKEN end_char="129" id="token-2-8" morph="none" pos="word" start_char="128">lo</TOKEN>
+<TOKEN end_char="132" id="token-2-9" morph="none" pos="word" start_char="131">ha</TOKEN>
+<TOKEN end_char="138" id="token-2-10" morph="none" pos="word" start_char="134">hecho</TOKEN>
+<TOKEN end_char="141" id="token-2-11" morph="none" pos="word" start_char="140">ya</TOKEN>
+<TOKEN end_char="142" id="token-2-12" morph="none" pos="punct" start_char="142">,</TOKEN>
+<TOKEN end_char="145" id="token-2-13" morph="none" pos="word" start_char="144">es</TOKEN>
+<TOKEN end_char="150" id="token-2-14" morph="none" pos="word" start_char="147">leer</TOKEN>
+<TOKEN end_char="153" id="token-2-15" morph="none" pos="word" start_char="152">la</TOKEN>
+<TOKEN end_char="163" id="token-2-16" morph="none" pos="word" start_char="155">respuesta</TOKEN>
+<TOKEN end_char="166" id="token-2-17" morph="none" pos="word" start_char="165">de</TOKEN>
+<TOKEN end_char="176" id="token-2-18" morph="none" pos="word" start_char="168">Guillermo</TOKEN>
+<TOKEN end_char="183" id="token-2-19" morph="none" pos="word" start_char="178">García</TOKEN>
+<TOKEN end_char="191" id="token-2-20" morph="none" pos="word" start_char="185">Alcaine</TOKEN>
+<TOKEN end_char="193" id="token-2-21" morph="none" pos="word" start_char="193">a</TOKEN>
+<TOKEN end_char="198" id="token-2-22" morph="none" pos="word" start_char="195">esta</TOKEN>
+<TOKEN end_char="207" id="token-2-23" morph="none" pos="word" start_char="200">pregunta</TOKEN>
+<TOKEN end_char="208" id="token-2-24" morph="none" pos="punct" start_char="208">.</TOKEN>
+<TRANSLATED_TEXT>The first thing you should do, if you have not already done so, is to read Guillermo García Alcaine's answer to this question.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="257" id="segment-3" start_char="210">
+<ORIGINAL_TEXT>Resume en pocas palabras lo que hay al respecto.</ORIGINAL_TEXT>
+<TOKEN end_char="215" id="token-3-0" morph="none" pos="word" start_char="210">Resume</TOKEN>
+<TOKEN end_char="218" id="token-3-1" morph="none" pos="word" start_char="217">en</TOKEN>
+<TOKEN end_char="224" id="token-3-2" morph="none" pos="word" start_char="220">pocas</TOKEN>
+<TOKEN end_char="233" id="token-3-3" morph="none" pos="word" start_char="226">palabras</TOKEN>
+<TOKEN end_char="236" id="token-3-4" morph="none" pos="word" start_char="235">lo</TOKEN>
+<TOKEN end_char="240" id="token-3-5" morph="none" pos="word" start_char="238">que</TOKEN>
+<TOKEN end_char="244" id="token-3-6" morph="none" pos="word" start_char="242">hay</TOKEN>
+<TOKEN end_char="247" id="token-3-7" morph="none" pos="word" start_char="246">al</TOKEN>
+<TOKEN end_char="256" id="token-3-8" morph="none" pos="word" start_char="249">respecto</TOKEN>
+<TOKEN end_char="257" id="token-3-9" morph="none" pos="punct" start_char="257">.</TOKEN>
+<TRANSLATED_TEXT>Briefly summarize what is on the subject.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="494" id="segment-4" start_char="260">
+<ORIGINAL_TEXT>Hay que entender que en circunstancias de esta naturaleza, la desinformación es un mecanismo que se pone en marcha de inmediato, y en cuya cadena participan diplomáticos, políticos, periodistas, científicos, expertos de todo tipo, etc.</ORIGINAL_TEXT>
+<TOKEN end_char="262" id="token-4-0" morph="none" pos="word" start_char="260">Hay</TOKEN>
+<TOKEN end_char="266" id="token-4-1" morph="none" pos="word" start_char="264">que</TOKEN>
+<TOKEN end_char="275" id="token-4-2" morph="none" pos="word" start_char="268">entender</TOKEN>
+<TOKEN end_char="279" id="token-4-3" morph="none" pos="word" start_char="277">que</TOKEN>
+<TOKEN end_char="282" id="token-4-4" morph="none" pos="word" start_char="281">en</TOKEN>
+<TOKEN end_char="297" id="token-4-5" morph="none" pos="word" start_char="284">circunstancias</TOKEN>
+<TOKEN end_char="300" id="token-4-6" morph="none" pos="word" start_char="299">de</TOKEN>
+<TOKEN end_char="305" id="token-4-7" morph="none" pos="word" start_char="302">esta</TOKEN>
+<TOKEN end_char="316" id="token-4-8" morph="none" pos="word" start_char="307">naturaleza</TOKEN>
+<TOKEN end_char="317" id="token-4-9" morph="none" pos="punct" start_char="317">,</TOKEN>
+<TOKEN end_char="320" id="token-4-10" morph="none" pos="word" start_char="319">la</TOKEN>
+<TOKEN end_char="335" id="token-4-11" morph="none" pos="word" start_char="322">desinformación</TOKEN>
+<TOKEN end_char="338" id="token-4-12" morph="none" pos="word" start_char="337">es</TOKEN>
+<TOKEN end_char="341" id="token-4-13" morph="none" pos="word" start_char="340">un</TOKEN>
+<TOKEN end_char="351" id="token-4-14" morph="none" pos="word" start_char="343">mecanismo</TOKEN>
+<TOKEN end_char="355" id="token-4-15" morph="none" pos="word" start_char="353">que</TOKEN>
+<TOKEN end_char="358" id="token-4-16" morph="none" pos="word" start_char="357">se</TOKEN>
+<TOKEN end_char="363" id="token-4-17" morph="none" pos="word" start_char="360">pone</TOKEN>
+<TOKEN end_char="366" id="token-4-18" morph="none" pos="word" start_char="365">en</TOKEN>
+<TOKEN end_char="373" id="token-4-19" morph="none" pos="word" start_char="368">marcha</TOKEN>
+<TOKEN end_char="376" id="token-4-20" morph="none" pos="word" start_char="375">de</TOKEN>
+<TOKEN end_char="386" id="token-4-21" morph="none" pos="word" start_char="378">inmediato</TOKEN>
+<TOKEN end_char="387" id="token-4-22" morph="none" pos="punct" start_char="387">,</TOKEN>
+<TOKEN end_char="389" id="token-4-23" morph="none" pos="word" start_char="389">y</TOKEN>
+<TOKEN end_char="392" id="token-4-24" morph="none" pos="word" start_char="391">en</TOKEN>
+<TOKEN end_char="397" id="token-4-25" morph="none" pos="word" start_char="394">cuya</TOKEN>
+<TOKEN end_char="404" id="token-4-26" morph="none" pos="word" start_char="399">cadena</TOKEN>
+<TOKEN end_char="415" id="token-4-27" morph="none" pos="word" start_char="406">participan</TOKEN>
+<TOKEN end_char="428" id="token-4-28" morph="none" pos="word" start_char="417">diplomáticos</TOKEN>
+<TOKEN end_char="429" id="token-4-29" morph="none" pos="punct" start_char="429">,</TOKEN>
+<TOKEN end_char="439" id="token-4-30" morph="none" pos="word" start_char="431">políticos</TOKEN>
+<TOKEN end_char="440" id="token-4-31" morph="none" pos="punct" start_char="440">,</TOKEN>
+<TOKEN end_char="452" id="token-4-32" morph="none" pos="word" start_char="442">periodistas</TOKEN>
+<TOKEN end_char="453" id="token-4-33" morph="none" pos="punct" start_char="453">,</TOKEN>
+<TOKEN end_char="465" id="token-4-34" morph="none" pos="word" start_char="455">científicos</TOKEN>
+<TOKEN end_char="466" id="token-4-35" morph="none" pos="punct" start_char="466">,</TOKEN>
+<TOKEN end_char="475" id="token-4-36" morph="none" pos="word" start_char="468">expertos</TOKEN>
+<TOKEN end_char="478" id="token-4-37" morph="none" pos="word" start_char="477">de</TOKEN>
+<TOKEN end_char="483" id="token-4-38" morph="none" pos="word" start_char="480">todo</TOKEN>
+<TOKEN end_char="488" id="token-4-39" morph="none" pos="word" start_char="485">tipo</TOKEN>
+<TOKEN end_char="489" id="token-4-40" morph="none" pos="punct" start_char="489">,</TOKEN>
+<TOKEN end_char="493" id="token-4-41" morph="none" pos="word" start_char="491">etc</TOKEN>
+<TOKEN end_char="494" id="token-4-42" morph="none" pos="punct" start_char="494">.</TOKEN>
+<TRANSLATED_TEXT>It should be understood that, in circumstances of this nature, disinformation is a mechanism that is set in motion immediately, with the participation of diplomats, politicians, journalists, scientists, experts of all kinds, and so on.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="624" id="segment-5" start_char="496">
+<ORIGINAL_TEXT>Por tanto, la respuesta anticipada a su pregunta es que no sabemos de dónde salió el virus, y no lo sabremos probablemente nunca.</ORIGINAL_TEXT>
+<TOKEN end_char="498" id="token-5-0" morph="none" pos="word" start_char="496">Por</TOKEN>
+<TOKEN end_char="504" id="token-5-1" morph="none" pos="word" start_char="500">tanto</TOKEN>
+<TOKEN end_char="505" id="token-5-2" morph="none" pos="punct" start_char="505">,</TOKEN>
+<TOKEN end_char="508" id="token-5-3" morph="none" pos="word" start_char="507">la</TOKEN>
+<TOKEN end_char="518" id="token-5-4" morph="none" pos="word" start_char="510">respuesta</TOKEN>
+<TOKEN end_char="529" id="token-5-5" morph="none" pos="word" start_char="520">anticipada</TOKEN>
+<TOKEN end_char="531" id="token-5-6" morph="none" pos="word" start_char="531">a</TOKEN>
+<TOKEN end_char="534" id="token-5-7" morph="none" pos="word" start_char="533">su</TOKEN>
+<TOKEN end_char="543" id="token-5-8" morph="none" pos="word" start_char="536">pregunta</TOKEN>
+<TOKEN end_char="546" id="token-5-9" morph="none" pos="word" start_char="545">es</TOKEN>
+<TOKEN end_char="550" id="token-5-10" morph="none" pos="word" start_char="548">que</TOKEN>
+<TOKEN end_char="553" id="token-5-11" morph="none" pos="word" start_char="552">no</TOKEN>
+<TOKEN end_char="561" id="token-5-12" morph="none" pos="word" start_char="555">sabemos</TOKEN>
+<TOKEN end_char="564" id="token-5-13" morph="none" pos="word" start_char="563">de</TOKEN>
+<TOKEN end_char="570" id="token-5-14" morph="none" pos="word" start_char="566">dónde</TOKEN>
+<TOKEN end_char="576" id="token-5-15" morph="none" pos="word" start_char="572">salió</TOKEN>
+<TOKEN end_char="579" id="token-5-16" morph="none" pos="word" start_char="578">el</TOKEN>
+<TOKEN end_char="585" id="token-5-17" morph="none" pos="word" start_char="581">virus</TOKEN>
+<TOKEN end_char="586" id="token-5-18" morph="none" pos="punct" start_char="586">,</TOKEN>
+<TOKEN end_char="588" id="token-5-19" morph="none" pos="word" start_char="588">y</TOKEN>
+<TOKEN end_char="591" id="token-5-20" morph="none" pos="word" start_char="590">no</TOKEN>
+<TOKEN end_char="594" id="token-5-21" morph="none" pos="word" start_char="593">lo</TOKEN>
+<TOKEN end_char="603" id="token-5-22" morph="none" pos="word" start_char="596">sabremos</TOKEN>
+<TOKEN end_char="617" id="token-5-23" morph="none" pos="word" start_char="605">probablemente</TOKEN>
+<TOKEN end_char="623" id="token-5-24" morph="none" pos="word" start_char="619">nunca</TOKEN>
+<TOKEN end_char="624" id="token-5-25" morph="none" pos="punct" start_char="624">.</TOKEN>
+<TRANSLATED_TEXT>So the early answer to your question is that we don 't know where the virus came from, and we probably never will.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="684" id="segment-6" start_char="626">
+<ORIGINAL_TEXT>Ni siquiera lo sabremos con certeza absoluta si dentro de d</ORIGINAL_TEXT>
+<TOKEN end_char="627" id="token-6-0" morph="none" pos="word" start_char="626">Ni</TOKEN>
+<TOKEN end_char="636" id="token-6-1" morph="none" pos="word" start_char="629">siquiera</TOKEN>
+<TOKEN end_char="639" id="token-6-2" morph="none" pos="word" start_char="638">lo</TOKEN>
+<TOKEN end_char="648" id="token-6-3" morph="none" pos="word" start_char="641">sabremos</TOKEN>
+<TOKEN end_char="652" id="token-6-4" morph="none" pos="word" start_char="650">con</TOKEN>
+<TOKEN end_char="660" id="token-6-5" morph="none" pos="word" start_char="654">certeza</TOKEN>
+<TOKEN end_char="669" id="token-6-6" morph="none" pos="word" start_char="662">absoluta</TOKEN>
+<TOKEN end_char="672" id="token-6-7" morph="none" pos="word" start_char="671">si</TOKEN>
+<TOKEN end_char="679" id="token-6-8" morph="none" pos="word" start_char="674">dentro</TOKEN>
+<TOKEN end_char="682" id="token-6-9" morph="none" pos="word" start_char="681">de</TOKEN>
+<TOKEN end_char="684" id="token-6-10" morph="none" pos="word" start_char="684">d</TOKEN>
+<TRANSLATED_TEXT>We will not even know with absolute certainty if within d</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="986" id="segment-7" start_char="688">
+<ORIGINAL_TEXT>Veamos, el SARS-CoV2 es el segundo, como su propio nombre indica, es decir, es un virus que ha evolucionado o mutado, pero esta es una propiedad de la inmensa mayoría de los virus, ya que al no ser seres celulares necesitan de células anfitrionas que les hospeden y ese es el motivo de su infección.</ORIGINAL_TEXT>
+<TOKEN end_char="693" id="token-7-0" morph="none" pos="word" start_char="688">Veamos</TOKEN>
+<TOKEN end_char="694" id="token-7-1" morph="none" pos="punct" start_char="694">,</TOKEN>
+<TOKEN end_char="697" id="token-7-2" morph="none" pos="word" start_char="696">el</TOKEN>
+<TOKEN end_char="707" id="token-7-3" morph="none" pos="unknown" start_char="699">SARS-CoV2</TOKEN>
+<TOKEN end_char="710" id="token-7-4" morph="none" pos="word" start_char="709">es</TOKEN>
+<TOKEN end_char="713" id="token-7-5" morph="none" pos="word" start_char="712">el</TOKEN>
+<TOKEN end_char="721" id="token-7-6" morph="none" pos="word" start_char="715">segundo</TOKEN>
+<TOKEN end_char="722" id="token-7-7" morph="none" pos="punct" start_char="722">,</TOKEN>
+<TOKEN end_char="727" id="token-7-8" morph="none" pos="word" start_char="724">como</TOKEN>
+<TOKEN end_char="730" id="token-7-9" morph="none" pos="word" start_char="729">su</TOKEN>
+<TOKEN end_char="737" id="token-7-10" morph="none" pos="word" start_char="732">propio</TOKEN>
+<TOKEN end_char="744" id="token-7-11" morph="none" pos="word" start_char="739">nombre</TOKEN>
+<TOKEN end_char="751" id="token-7-12" morph="none" pos="word" start_char="746">indica</TOKEN>
+<TOKEN end_char="752" id="token-7-13" morph="none" pos="punct" start_char="752">,</TOKEN>
+<TOKEN end_char="755" id="token-7-14" morph="none" pos="word" start_char="754">es</TOKEN>
+<TOKEN end_char="761" id="token-7-15" morph="none" pos="word" start_char="757">decir</TOKEN>
+<TOKEN end_char="762" id="token-7-16" morph="none" pos="punct" start_char="762">,</TOKEN>
+<TOKEN end_char="765" id="token-7-17" morph="none" pos="word" start_char="764">es</TOKEN>
+<TOKEN end_char="768" id="token-7-18" morph="none" pos="word" start_char="767">un</TOKEN>
+<TOKEN end_char="774" id="token-7-19" morph="none" pos="word" start_char="770">virus</TOKEN>
+<TOKEN end_char="778" id="token-7-20" morph="none" pos="word" start_char="776">que</TOKEN>
+<TOKEN end_char="781" id="token-7-21" morph="none" pos="word" start_char="780">ha</TOKEN>
+<TOKEN end_char="794" id="token-7-22" morph="none" pos="word" start_char="783">evolucionado</TOKEN>
+<TOKEN end_char="796" id="token-7-23" morph="none" pos="word" start_char="796">o</TOKEN>
+<TOKEN end_char="803" id="token-7-24" morph="none" pos="word" start_char="798">mutado</TOKEN>
+<TOKEN end_char="804" id="token-7-25" morph="none" pos="punct" start_char="804">,</TOKEN>
+<TOKEN end_char="809" id="token-7-26" morph="none" pos="word" start_char="806">pero</TOKEN>
+<TOKEN end_char="814" id="token-7-27" morph="none" pos="word" start_char="811">esta</TOKEN>
+<TOKEN end_char="817" id="token-7-28" morph="none" pos="word" start_char="816">es</TOKEN>
+<TOKEN end_char="821" id="token-7-29" morph="none" pos="word" start_char="819">una</TOKEN>
+<TOKEN end_char="831" id="token-7-30" morph="none" pos="word" start_char="823">propiedad</TOKEN>
+<TOKEN end_char="834" id="token-7-31" morph="none" pos="word" start_char="833">de</TOKEN>
+<TOKEN end_char="837" id="token-7-32" morph="none" pos="word" start_char="836">la</TOKEN>
+<TOKEN end_char="845" id="token-7-33" morph="none" pos="word" start_char="839">inmensa</TOKEN>
+<TOKEN end_char="853" id="token-7-34" morph="none" pos="word" start_char="847">mayoría</TOKEN>
+<TOKEN end_char="856" id="token-7-35" morph="none" pos="word" start_char="855">de</TOKEN>
+<TOKEN end_char="860" id="token-7-36" morph="none" pos="word" start_char="858">los</TOKEN>
+<TOKEN end_char="866" id="token-7-37" morph="none" pos="word" start_char="862">virus</TOKEN>
+<TOKEN end_char="867" id="token-7-38" morph="none" pos="punct" start_char="867">,</TOKEN>
+<TOKEN end_char="870" id="token-7-39" morph="none" pos="word" start_char="869">ya</TOKEN>
+<TOKEN end_char="874" id="token-7-40" morph="none" pos="word" start_char="872">que</TOKEN>
+<TOKEN end_char="877" id="token-7-41" morph="none" pos="word" start_char="876">al</TOKEN>
+<TOKEN end_char="880" id="token-7-42" morph="none" pos="word" start_char="879">no</TOKEN>
+<TOKEN end_char="884" id="token-7-43" morph="none" pos="word" start_char="882">ser</TOKEN>
+<TOKEN end_char="890" id="token-7-44" morph="none" pos="word" start_char="886">seres</TOKEN>
+<TOKEN end_char="900" id="token-7-45" morph="none" pos="word" start_char="892">celulares</TOKEN>
+<TOKEN end_char="910" id="token-7-46" morph="none" pos="word" start_char="902">necesitan</TOKEN>
+<TOKEN end_char="913" id="token-7-47" morph="none" pos="word" start_char="912">de</TOKEN>
+<TOKEN end_char="921" id="token-7-48" morph="none" pos="word" start_char="915">células</TOKEN>
+<TOKEN end_char="933" id="token-7-49" morph="none" pos="word" start_char="923">anfitrionas</TOKEN>
+<TOKEN end_char="937" id="token-7-50" morph="none" pos="word" start_char="935">que</TOKEN>
+<TOKEN end_char="941" id="token-7-51" morph="none" pos="word" start_char="939">les</TOKEN>
+<TOKEN end_char="950" id="token-7-52" morph="none" pos="word" start_char="943">hospeden</TOKEN>
+<TOKEN end_char="952" id="token-7-53" morph="none" pos="word" start_char="952">y</TOKEN>
+<TOKEN end_char="956" id="token-7-54" morph="none" pos="word" start_char="954">ese</TOKEN>
+<TOKEN end_char="959" id="token-7-55" morph="none" pos="word" start_char="958">es</TOKEN>
+<TOKEN end_char="962" id="token-7-56" morph="none" pos="word" start_char="961">el</TOKEN>
+<TOKEN end_char="969" id="token-7-57" morph="none" pos="word" start_char="964">motivo</TOKEN>
+<TOKEN end_char="972" id="token-7-58" morph="none" pos="word" start_char="971">de</TOKEN>
+<TOKEN end_char="975" id="token-7-59" morph="none" pos="word" start_char="974">su</TOKEN>
+<TOKEN end_char="985" id="token-7-60" morph="none" pos="word" start_char="977">infección</TOKEN>
+<TOKEN end_char="986" id="token-7-61" morph="none" pos="punct" start_char="986">.</TOKEN>
+<TRANSLATED_TEXT>Let 's see, SARS-CoV2 is the second, as its own name indicates, that is, it' s a virus that has evolved or mutated, but this is a property of the vast majority of viruses, because not being cellular beings, they need host cells to host them, and that 's the reason for their infection.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1108" id="segment-8" start_char="989">
+<ORIGINAL_TEXT>Pero, hablar de manipulación, guerra biológica, intencionalidad de la pandemia, etc… me parece como mínimo muy atrevido.</ORIGINAL_TEXT>
+<TOKEN end_char="992" id="token-8-0" morph="none" pos="word" start_char="989">Pero</TOKEN>
+<TOKEN end_char="993" id="token-8-1" morph="none" pos="punct" start_char="993">,</TOKEN>
+<TOKEN end_char="1000" id="token-8-2" morph="none" pos="word" start_char="995">hablar</TOKEN>
+<TOKEN end_char="1003" id="token-8-3" morph="none" pos="word" start_char="1002">de</TOKEN>
+<TOKEN end_char="1016" id="token-8-4" morph="none" pos="word" start_char="1005">manipulación</TOKEN>
+<TOKEN end_char="1017" id="token-8-5" morph="none" pos="punct" start_char="1017">,</TOKEN>
+<TOKEN end_char="1024" id="token-8-6" morph="none" pos="word" start_char="1019">guerra</TOKEN>
+<TOKEN end_char="1034" id="token-8-7" morph="none" pos="word" start_char="1026">biológica</TOKEN>
+<TOKEN end_char="1035" id="token-8-8" morph="none" pos="punct" start_char="1035">,</TOKEN>
+<TOKEN end_char="1051" id="token-8-9" morph="none" pos="word" start_char="1037">intencionalidad</TOKEN>
+<TOKEN end_char="1054" id="token-8-10" morph="none" pos="word" start_char="1053">de</TOKEN>
+<TOKEN end_char="1057" id="token-8-11" morph="none" pos="word" start_char="1056">la</TOKEN>
+<TOKEN end_char="1066" id="token-8-12" morph="none" pos="word" start_char="1059">pandemia</TOKEN>
+<TOKEN end_char="1067" id="token-8-13" morph="none" pos="punct" start_char="1067">,</TOKEN>
+<TOKEN end_char="1071" id="token-8-14" morph="none" pos="word" start_char="1069">etc</TOKEN>
+<TOKEN end_char="1072" id="token-8-15" morph="none" pos="punct" start_char="1072">…</TOKEN>
+<TOKEN end_char="1075" id="token-8-16" morph="none" pos="word" start_char="1074">me</TOKEN>
+<TOKEN end_char="1082" id="token-8-17" morph="none" pos="word" start_char="1077">parece</TOKEN>
+<TOKEN end_char="1087" id="token-8-18" morph="none" pos="word" start_char="1084">como</TOKEN>
+<TOKEN end_char="1094" id="token-8-19" morph="none" pos="word" start_char="1089">mínimo</TOKEN>
+<TOKEN end_char="1098" id="token-8-20" morph="none" pos="word" start_char="1096">muy</TOKEN>
+<TOKEN end_char="1107" id="token-8-21" morph="none" pos="word" start_char="1100">atrevido</TOKEN>
+<TOKEN end_char="1108" id="token-8-22" morph="none" pos="punct" start_char="1108">.</TOKEN>
+<TRANSLATED_TEXT>But talking about manipulation, biological warfare, the intentionality of the pandemic, etc... seems to me at least very bold.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1290" id="segment-9" start_char="1111">
+<ORIGINAL_TEXT>Veo que esto les ha venido muy bien a muchos, sobre todo a los gobiernos del Mundo mundial, en manos de ineptos, que por su ineficacia nos llevaban a la ruina, y ahora ya tienen la</ORIGINAL_TEXT>
+<TOKEN end_char="1113" id="token-9-0" morph="none" pos="word" start_char="1111">Veo</TOKEN>
+<TOKEN end_char="1117" id="token-9-1" morph="none" pos="word" start_char="1115">que</TOKEN>
+<TOKEN end_char="1122" id="token-9-2" morph="none" pos="word" start_char="1119">esto</TOKEN>
+<TOKEN end_char="1126" id="token-9-3" morph="none" pos="word" start_char="1124">les</TOKEN>
+<TOKEN end_char="1129" id="token-9-4" morph="none" pos="word" start_char="1128">ha</TOKEN>
+<TOKEN end_char="1136" id="token-9-5" morph="none" pos="word" start_char="1131">venido</TOKEN>
+<TOKEN end_char="1140" id="token-9-6" morph="none" pos="word" start_char="1138">muy</TOKEN>
+<TOKEN end_char="1145" id="token-9-7" morph="none" pos="word" start_char="1142">bien</TOKEN>
+<TOKEN end_char="1147" id="token-9-8" morph="none" pos="word" start_char="1147">a</TOKEN>
+<TOKEN end_char="1154" id="token-9-9" morph="none" pos="word" start_char="1149">muchos</TOKEN>
+<TOKEN end_char="1155" id="token-9-10" morph="none" pos="punct" start_char="1155">,</TOKEN>
+<TOKEN end_char="1161" id="token-9-11" morph="none" pos="word" start_char="1157">sobre</TOKEN>
+<TOKEN end_char="1166" id="token-9-12" morph="none" pos="word" start_char="1163">todo</TOKEN>
+<TOKEN end_char="1168" id="token-9-13" morph="none" pos="word" start_char="1168">a</TOKEN>
+<TOKEN end_char="1172" id="token-9-14" morph="none" pos="word" start_char="1170">los</TOKEN>
+<TOKEN end_char="1182" id="token-9-15" morph="none" pos="word" start_char="1174">gobiernos</TOKEN>
+<TOKEN end_char="1186" id="token-9-16" morph="none" pos="word" start_char="1184">del</TOKEN>
+<TOKEN end_char="1192" id="token-9-17" morph="none" pos="word" start_char="1188">Mundo</TOKEN>
+<TOKEN end_char="1200" id="token-9-18" morph="none" pos="word" start_char="1194">mundial</TOKEN>
+<TOKEN end_char="1201" id="token-9-19" morph="none" pos="punct" start_char="1201">,</TOKEN>
+<TOKEN end_char="1204" id="token-9-20" morph="none" pos="word" start_char="1203">en</TOKEN>
+<TOKEN end_char="1210" id="token-9-21" morph="none" pos="word" start_char="1206">manos</TOKEN>
+<TOKEN end_char="1213" id="token-9-22" morph="none" pos="word" start_char="1212">de</TOKEN>
+<TOKEN end_char="1221" id="token-9-23" morph="none" pos="word" start_char="1215">ineptos</TOKEN>
+<TOKEN end_char="1222" id="token-9-24" morph="none" pos="punct" start_char="1222">,</TOKEN>
+<TOKEN end_char="1226" id="token-9-25" morph="none" pos="word" start_char="1224">que</TOKEN>
+<TOKEN end_char="1230" id="token-9-26" morph="none" pos="word" start_char="1228">por</TOKEN>
+<TOKEN end_char="1233" id="token-9-27" morph="none" pos="word" start_char="1232">su</TOKEN>
+<TOKEN end_char="1244" id="token-9-28" morph="none" pos="word" start_char="1235">ineficacia</TOKEN>
+<TOKEN end_char="1248" id="token-9-29" morph="none" pos="word" start_char="1246">nos</TOKEN>
+<TOKEN end_char="1257" id="token-9-30" morph="none" pos="word" start_char="1250">llevaban</TOKEN>
+<TOKEN end_char="1259" id="token-9-31" morph="none" pos="word" start_char="1259">a</TOKEN>
+<TOKEN end_char="1262" id="token-9-32" morph="none" pos="word" start_char="1261">la</TOKEN>
+<TOKEN end_char="1268" id="token-9-33" morph="none" pos="word" start_char="1264">ruina</TOKEN>
+<TOKEN end_char="1269" id="token-9-34" morph="none" pos="punct" start_char="1269">,</TOKEN>
+<TOKEN end_char="1271" id="token-9-35" morph="none" pos="word" start_char="1271">y</TOKEN>
+<TOKEN end_char="1277" id="token-9-36" morph="none" pos="word" start_char="1273">ahora</TOKEN>
+<TOKEN end_char="1280" id="token-9-37" morph="none" pos="word" start_char="1279">ya</TOKEN>
+<TOKEN end_char="1287" id="token-9-38" morph="none" pos="word" start_char="1282">tienen</TOKEN>
+<TOKEN end_char="1290" id="token-9-39" morph="none" pos="word" start_char="1289">la</TOKEN>
+<TRANSLATED_TEXT>I see that this has come very well to many, especially to the governments of the world, in the hands of the ineffectual, who, because of their ineffectiveness, led us to ruin, and now they already have the</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1401" id="segment-10" start_char="1294">
+<ORIGINAL_TEXT>En el sentido científico tengo que decir que si es posible pero en el sentido practico altamente improbable.</ORIGINAL_TEXT>
+<TOKEN end_char="1295" id="token-10-0" morph="none" pos="word" start_char="1294">En</TOKEN>
+<TOKEN end_char="1298" id="token-10-1" morph="none" pos="word" start_char="1297">el</TOKEN>
+<TOKEN end_char="1306" id="token-10-2" morph="none" pos="word" start_char="1300">sentido</TOKEN>
+<TOKEN end_char="1317" id="token-10-3" morph="none" pos="word" start_char="1308">científico</TOKEN>
+<TOKEN end_char="1323" id="token-10-4" morph="none" pos="word" start_char="1319">tengo</TOKEN>
+<TOKEN end_char="1327" id="token-10-5" morph="none" pos="word" start_char="1325">que</TOKEN>
+<TOKEN end_char="1333" id="token-10-6" morph="none" pos="word" start_char="1329">decir</TOKEN>
+<TOKEN end_char="1337" id="token-10-7" morph="none" pos="word" start_char="1335">que</TOKEN>
+<TOKEN end_char="1340" id="token-10-8" morph="none" pos="word" start_char="1339">si</TOKEN>
+<TOKEN end_char="1343" id="token-10-9" morph="none" pos="word" start_char="1342">es</TOKEN>
+<TOKEN end_char="1351" id="token-10-10" morph="none" pos="word" start_char="1345">posible</TOKEN>
+<TOKEN end_char="1356" id="token-10-11" morph="none" pos="word" start_char="1353">pero</TOKEN>
+<TOKEN end_char="1359" id="token-10-12" morph="none" pos="word" start_char="1358">en</TOKEN>
+<TOKEN end_char="1362" id="token-10-13" morph="none" pos="word" start_char="1361">el</TOKEN>
+<TOKEN end_char="1370" id="token-10-14" morph="none" pos="word" start_char="1364">sentido</TOKEN>
+<TOKEN end_char="1379" id="token-10-15" morph="none" pos="word" start_char="1372">practico</TOKEN>
+<TOKEN end_char="1389" id="token-10-16" morph="none" pos="word" start_char="1381">altamente</TOKEN>
+<TOKEN end_char="1400" id="token-10-17" morph="none" pos="word" start_char="1391">improbable</TOKEN>
+<TOKEN end_char="1401" id="token-10-18" morph="none" pos="punct" start_char="1401">.</TOKEN>
+<TRANSLATED_TEXT>In the scientific sense I have to say that if possible but in the practical sense highly unlikely.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1467" id="segment-11" start_char="1403">
+<ORIGINAL_TEXT>Accidente de tratar de manipular la genética de otro coronavirus?</ORIGINAL_TEXT>
+<TOKEN end_char="1411" id="token-11-0" morph="none" pos="word" start_char="1403">Accidente</TOKEN>
+<TOKEN end_char="1414" id="token-11-1" morph="none" pos="word" start_char="1413">de</TOKEN>
+<TOKEN end_char="1421" id="token-11-2" morph="none" pos="word" start_char="1416">tratar</TOKEN>
+<TOKEN end_char="1424" id="token-11-3" morph="none" pos="word" start_char="1423">de</TOKEN>
+<TOKEN end_char="1434" id="token-11-4" morph="none" pos="word" start_char="1426">manipular</TOKEN>
+<TOKEN end_char="1437" id="token-11-5" morph="none" pos="word" start_char="1436">la</TOKEN>
+<TOKEN end_char="1446" id="token-11-6" morph="none" pos="word" start_char="1439">genética</TOKEN>
+<TOKEN end_char="1449" id="token-11-7" morph="none" pos="word" start_char="1448">de</TOKEN>
+<TOKEN end_char="1454" id="token-11-8" morph="none" pos="word" start_char="1451">otro</TOKEN>
+<TOKEN end_char="1466" id="token-11-9" morph="none" pos="word" start_char="1456">coronavirus</TOKEN>
+<TOKEN end_char="1467" id="token-11-10" morph="none" pos="punct" start_char="1467">?</TOKEN>
+<TRANSLATED_TEXT>Accident of trying to manipulate the genetics of another coronavirus?</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1583" id="segment-12" start_char="1469">
+<ORIGINAL_TEXT>Parte de su código genético es similar al del virus de SARS (SARS-CoV) pero este es un virus diferente (SARS-CoV2).</ORIGINAL_TEXT>
+<TOKEN end_char="1473" id="token-12-0" morph="none" pos="word" start_char="1469">Parte</TOKEN>
+<TOKEN end_char="1476" id="token-12-1" morph="none" pos="word" start_char="1475">de</TOKEN>
+<TOKEN end_char="1479" id="token-12-2" morph="none" pos="word" start_char="1478">su</TOKEN>
+<TOKEN end_char="1486" id="token-12-3" morph="none" pos="word" start_char="1481">código</TOKEN>
+<TOKEN end_char="1495" id="token-12-4" morph="none" pos="word" start_char="1488">genético</TOKEN>
+<TOKEN end_char="1498" id="token-12-5" morph="none" pos="word" start_char="1497">es</TOKEN>
+<TOKEN end_char="1506" id="token-12-6" morph="none" pos="word" start_char="1500">similar</TOKEN>
+<TOKEN end_char="1509" id="token-12-7" morph="none" pos="word" start_char="1508">al</TOKEN>
+<TOKEN end_char="1513" id="token-12-8" morph="none" pos="word" start_char="1511">del</TOKEN>
+<TOKEN end_char="1519" id="token-12-9" morph="none" pos="word" start_char="1515">virus</TOKEN>
+<TOKEN end_char="1522" id="token-12-10" morph="none" pos="word" start_char="1521">de</TOKEN>
+<TOKEN end_char="1527" id="token-12-11" morph="none" pos="word" start_char="1524">SARS</TOKEN>
+<TOKEN end_char="1529" id="token-12-12" morph="none" pos="punct" start_char="1529">(</TOKEN>
+<TOKEN end_char="1537" id="token-12-13" morph="none" pos="unknown" start_char="1530">SARS-CoV</TOKEN>
+<TOKEN end_char="1538" id="token-12-14" morph="none" pos="punct" start_char="1538">)</TOKEN>
+<TOKEN end_char="1543" id="token-12-15" morph="none" pos="word" start_char="1540">pero</TOKEN>
+<TOKEN end_char="1548" id="token-12-16" morph="none" pos="word" start_char="1545">este</TOKEN>
+<TOKEN end_char="1551" id="token-12-17" morph="none" pos="word" start_char="1550">es</TOKEN>
+<TOKEN end_char="1554" id="token-12-18" morph="none" pos="word" start_char="1553">un</TOKEN>
+<TOKEN end_char="1560" id="token-12-19" morph="none" pos="word" start_char="1556">virus</TOKEN>
+<TOKEN end_char="1570" id="token-12-20" morph="none" pos="word" start_char="1562">diferente</TOKEN>
+<TOKEN end_char="1572" id="token-12-21" morph="none" pos="punct" start_char="1572">(</TOKEN>
+<TOKEN end_char="1581" id="token-12-22" morph="none" pos="unknown" start_char="1573">SARS-CoV2</TOKEN>
+<TOKEN end_char="1583" id="token-12-23" morph="none" pos="punct" start_char="1582">).</TOKEN>
+<TRANSLATED_TEXT>Some of its genetic code is similar to that of the SARS virus (SARS-CoV) but this is a different virus (SARS-CoV).</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1885" id="segment-13" start_char="1585">
+<ORIGINAL_TEXT>Si el ser humano pudiera poseer tanto conocimiento como para crear un virus con propiedades de forma intencional ya tendríamos la cura del cáncer y de las infecciones bacterianas (las bacterias también pueden ser afectadas por un virus y posiblemente esto sea el futuro de la medicina -bacteriófagos).</ORIGINAL_TEXT>
+<TOKEN end_char="1586" id="token-13-0" morph="none" pos="word" start_char="1585">Si</TOKEN>
+<TOKEN end_char="1589" id="token-13-1" morph="none" pos="word" start_char="1588">el</TOKEN>
+<TOKEN end_char="1593" id="token-13-2" morph="none" pos="word" start_char="1591">ser</TOKEN>
+<TOKEN end_char="1600" id="token-13-3" morph="none" pos="word" start_char="1595">humano</TOKEN>
+<TOKEN end_char="1608" id="token-13-4" morph="none" pos="word" start_char="1602">pudiera</TOKEN>
+<TOKEN end_char="1615" id="token-13-5" morph="none" pos="word" start_char="1610">poseer</TOKEN>
+<TOKEN end_char="1621" id="token-13-6" morph="none" pos="word" start_char="1617">tanto</TOKEN>
+<TOKEN end_char="1634" id="token-13-7" morph="none" pos="word" start_char="1623">conocimiento</TOKEN>
+<TOKEN end_char="1639" id="token-13-8" morph="none" pos="word" start_char="1636">como</TOKEN>
+<TOKEN end_char="1644" id="token-13-9" morph="none" pos="word" start_char="1641">para</TOKEN>
+<TOKEN end_char="1650" id="token-13-10" morph="none" pos="word" start_char="1646">crear</TOKEN>
+<TOKEN end_char="1653" id="token-13-11" morph="none" pos="word" start_char="1652">un</TOKEN>
+<TOKEN end_char="1659" id="token-13-12" morph="none" pos="word" start_char="1655">virus</TOKEN>
+<TOKEN end_char="1663" id="token-13-13" morph="none" pos="word" start_char="1661">con</TOKEN>
+<TOKEN end_char="1675" id="token-13-14" morph="none" pos="word" start_char="1665">propiedades</TOKEN>
+<TOKEN end_char="1678" id="token-13-15" morph="none" pos="word" start_char="1677">de</TOKEN>
+<TOKEN end_char="1684" id="token-13-16" morph="none" pos="word" start_char="1680">forma</TOKEN>
+<TOKEN end_char="1696" id="token-13-17" morph="none" pos="word" start_char="1686">intencional</TOKEN>
+<TOKEN end_char="1699" id="token-13-18" morph="none" pos="word" start_char="1698">ya</TOKEN>
+<TOKEN end_char="1710" id="token-13-19" morph="none" pos="word" start_char="1701">tendríamos</TOKEN>
+<TOKEN end_char="1713" id="token-13-20" morph="none" pos="word" start_char="1712">la</TOKEN>
+<TOKEN end_char="1718" id="token-13-21" morph="none" pos="word" start_char="1715">cura</TOKEN>
+<TOKEN end_char="1722" id="token-13-22" morph="none" pos="word" start_char="1720">del</TOKEN>
+<TOKEN end_char="1729" id="token-13-23" morph="none" pos="word" start_char="1724">cáncer</TOKEN>
+<TOKEN end_char="1731" id="token-13-24" morph="none" pos="word" start_char="1731">y</TOKEN>
+<TOKEN end_char="1734" id="token-13-25" morph="none" pos="word" start_char="1733">de</TOKEN>
+<TOKEN end_char="1738" id="token-13-26" morph="none" pos="word" start_char="1736">las</TOKEN>
+<TOKEN end_char="1750" id="token-13-27" morph="none" pos="word" start_char="1740">infecciones</TOKEN>
+<TOKEN end_char="1762" id="token-13-28" morph="none" pos="word" start_char="1752">bacterianas</TOKEN>
+<TOKEN end_char="1764" id="token-13-29" morph="none" pos="punct" start_char="1764">(</TOKEN>
+<TOKEN end_char="1767" id="token-13-30" morph="none" pos="word" start_char="1765">las</TOKEN>
+<TOKEN end_char="1777" id="token-13-31" morph="none" pos="word" start_char="1769">bacterias</TOKEN>
+<TOKEN end_char="1785" id="token-13-32" morph="none" pos="word" start_char="1779">también</TOKEN>
+<TOKEN end_char="1792" id="token-13-33" morph="none" pos="word" start_char="1787">pueden</TOKEN>
+<TOKEN end_char="1796" id="token-13-34" morph="none" pos="word" start_char="1794">ser</TOKEN>
+<TOKEN end_char="1806" id="token-13-35" morph="none" pos="word" start_char="1798">afectadas</TOKEN>
+<TOKEN end_char="1810" id="token-13-36" morph="none" pos="word" start_char="1808">por</TOKEN>
+<TOKEN end_char="1813" id="token-13-37" morph="none" pos="word" start_char="1812">un</TOKEN>
+<TOKEN end_char="1819" id="token-13-38" morph="none" pos="word" start_char="1815">virus</TOKEN>
+<TOKEN end_char="1821" id="token-13-39" morph="none" pos="word" start_char="1821">y</TOKEN>
+<TOKEN end_char="1834" id="token-13-40" morph="none" pos="word" start_char="1823">posiblemente</TOKEN>
+<TOKEN end_char="1839" id="token-13-41" morph="none" pos="word" start_char="1836">esto</TOKEN>
+<TOKEN end_char="1843" id="token-13-42" morph="none" pos="word" start_char="1841">sea</TOKEN>
+<TOKEN end_char="1846" id="token-13-43" morph="none" pos="word" start_char="1845">el</TOKEN>
+<TOKEN end_char="1853" id="token-13-44" morph="none" pos="word" start_char="1848">futuro</TOKEN>
+<TOKEN end_char="1856" id="token-13-45" morph="none" pos="word" start_char="1855">de</TOKEN>
+<TOKEN end_char="1859" id="token-13-46" morph="none" pos="word" start_char="1858">la</TOKEN>
+<TOKEN end_char="1868" id="token-13-47" morph="none" pos="word" start_char="1861">medicina</TOKEN>
+<TOKEN end_char="1870" id="token-13-48" morph="none" pos="punct" start_char="1870">-</TOKEN>
+<TOKEN end_char="1883" id="token-13-49" morph="none" pos="word" start_char="1871">bacteriófagos</TOKEN>
+<TOKEN end_char="1885" id="token-13-50" morph="none" pos="punct" start_char="1884">).</TOKEN>
+<TRANSLATED_TEXT>If the human being could possess both knowledge and to create a virus with properties intentionally we would already have the cure for cancer and bacterial infections (bacteria can also be affected by a virus and possibly this is the future of medicine - bacteriophages).</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2069" id="segment-14" start_char="1889">
+<ORIGINAL_TEXT>No es posible pues no hay pruebas de que haya ocurrido, ya que cuando se fabrica un virus en un laboratorio los científicos saben por la forma de hacerlo si ha sido artificial o no.</ORIGINAL_TEXT>
+<TOKEN end_char="1890" id="token-14-0" morph="none" pos="word" start_char="1889">No</TOKEN>
+<TOKEN end_char="1893" id="token-14-1" morph="none" pos="word" start_char="1892">es</TOKEN>
+<TOKEN end_char="1901" id="token-14-2" morph="none" pos="word" start_char="1895">posible</TOKEN>
+<TOKEN end_char="1906" id="token-14-3" morph="none" pos="word" start_char="1903">pues</TOKEN>
+<TOKEN end_char="1909" id="token-14-4" morph="none" pos="word" start_char="1908">no</TOKEN>
+<TOKEN end_char="1913" id="token-14-5" morph="none" pos="word" start_char="1911">hay</TOKEN>
+<TOKEN end_char="1921" id="token-14-6" morph="none" pos="word" start_char="1915">pruebas</TOKEN>
+<TOKEN end_char="1924" id="token-14-7" morph="none" pos="word" start_char="1923">de</TOKEN>
+<TOKEN end_char="1928" id="token-14-8" morph="none" pos="word" start_char="1926">que</TOKEN>
+<TOKEN end_char="1933" id="token-14-9" morph="none" pos="word" start_char="1930">haya</TOKEN>
+<TOKEN end_char="1942" id="token-14-10" morph="none" pos="word" start_char="1935">ocurrido</TOKEN>
+<TOKEN end_char="1943" id="token-14-11" morph="none" pos="punct" start_char="1943">,</TOKEN>
+<TOKEN end_char="1946" id="token-14-12" morph="none" pos="word" start_char="1945">ya</TOKEN>
+<TOKEN end_char="1950" id="token-14-13" morph="none" pos="word" start_char="1948">que</TOKEN>
+<TOKEN end_char="1957" id="token-14-14" morph="none" pos="word" start_char="1952">cuando</TOKEN>
+<TOKEN end_char="1960" id="token-14-15" morph="none" pos="word" start_char="1959">se</TOKEN>
+<TOKEN end_char="1968" id="token-14-16" morph="none" pos="word" start_char="1962">fabrica</TOKEN>
+<TOKEN end_char="1971" id="token-14-17" morph="none" pos="word" start_char="1970">un</TOKEN>
+<TOKEN end_char="1977" id="token-14-18" morph="none" pos="word" start_char="1973">virus</TOKEN>
+<TOKEN end_char="1980" id="token-14-19" morph="none" pos="word" start_char="1979">en</TOKEN>
+<TOKEN end_char="1983" id="token-14-20" morph="none" pos="word" start_char="1982">un</TOKEN>
+<TOKEN end_char="1995" id="token-14-21" morph="none" pos="word" start_char="1985">laboratorio</TOKEN>
+<TOKEN end_char="1999" id="token-14-22" morph="none" pos="word" start_char="1997">los</TOKEN>
+<TOKEN end_char="2011" id="token-14-23" morph="none" pos="word" start_char="2001">científicos</TOKEN>
+<TOKEN end_char="2017" id="token-14-24" morph="none" pos="word" start_char="2013">saben</TOKEN>
+<TOKEN end_char="2021" id="token-14-25" morph="none" pos="word" start_char="2019">por</TOKEN>
+<TOKEN end_char="2024" id="token-14-26" morph="none" pos="word" start_char="2023">la</TOKEN>
+<TOKEN end_char="2030" id="token-14-27" morph="none" pos="word" start_char="2026">forma</TOKEN>
+<TOKEN end_char="2033" id="token-14-28" morph="none" pos="word" start_char="2032">de</TOKEN>
+<TOKEN end_char="2041" id="token-14-29" morph="none" pos="word" start_char="2035">hacerlo</TOKEN>
+<TOKEN end_char="2044" id="token-14-30" morph="none" pos="word" start_char="2043">si</TOKEN>
+<TOKEN end_char="2047" id="token-14-31" morph="none" pos="word" start_char="2046">ha</TOKEN>
+<TOKEN end_char="2052" id="token-14-32" morph="none" pos="word" start_char="2049">sido</TOKEN>
+<TOKEN end_char="2063" id="token-14-33" morph="none" pos="word" start_char="2054">artificial</TOKEN>
+<TOKEN end_char="2065" id="token-14-34" morph="none" pos="word" start_char="2065">o</TOKEN>
+<TOKEN end_char="2068" id="token-14-35" morph="none" pos="word" start_char="2067">no</TOKEN>
+<TOKEN end_char="2069" id="token-14-36" morph="none" pos="punct" start_char="2069">.</TOKEN>
+<TRANSLATED_TEXT>It is not possible because there is no evidence that it happened, because when a virus is manufactured in a laboratory, scientists know how to do it, whether it was artificial or not.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2204" id="segment-15" start_char="2071">
+<ORIGINAL_TEXT>Hace poco salió una investigadora china por televisión diciendo que estaba fabricado por un laboratorio chino, pero no aportó pruebas.</ORIGINAL_TEXT>
+<TOKEN end_char="2074" id="token-15-0" morph="none" pos="word" start_char="2071">Hace</TOKEN>
+<TOKEN end_char="2079" id="token-15-1" morph="none" pos="word" start_char="2076">poco</TOKEN>
+<TOKEN end_char="2085" id="token-15-2" morph="none" pos="word" start_char="2081">salió</TOKEN>
+<TOKEN end_char="2089" id="token-15-3" morph="none" pos="word" start_char="2087">una</TOKEN>
+<TOKEN end_char="2103" id="token-15-4" morph="none" pos="word" start_char="2091">investigadora</TOKEN>
+<TOKEN end_char="2109" id="token-15-5" morph="none" pos="word" start_char="2105">china</TOKEN>
+<TOKEN end_char="2113" id="token-15-6" morph="none" pos="word" start_char="2111">por</TOKEN>
+<TOKEN end_char="2124" id="token-15-7" morph="none" pos="word" start_char="2115">televisión</TOKEN>
+<TOKEN end_char="2133" id="token-15-8" morph="none" pos="word" start_char="2126">diciendo</TOKEN>
+<TOKEN end_char="2137" id="token-15-9" morph="none" pos="word" start_char="2135">que</TOKEN>
+<TOKEN end_char="2144" id="token-15-10" morph="none" pos="word" start_char="2139">estaba</TOKEN>
+<TOKEN end_char="2154" id="token-15-11" morph="none" pos="word" start_char="2146">fabricado</TOKEN>
+<TOKEN end_char="2158" id="token-15-12" morph="none" pos="word" start_char="2156">por</TOKEN>
+<TOKEN end_char="2161" id="token-15-13" morph="none" pos="word" start_char="2160">un</TOKEN>
+<TOKEN end_char="2173" id="token-15-14" morph="none" pos="word" start_char="2163">laboratorio</TOKEN>
+<TOKEN end_char="2179" id="token-15-15" morph="none" pos="word" start_char="2175">chino</TOKEN>
+<TOKEN end_char="2180" id="token-15-16" morph="none" pos="punct" start_char="2180">,</TOKEN>
+<TOKEN end_char="2185" id="token-15-17" morph="none" pos="word" start_char="2182">pero</TOKEN>
+<TOKEN end_char="2188" id="token-15-18" morph="none" pos="word" start_char="2187">no</TOKEN>
+<TOKEN end_char="2195" id="token-15-19" morph="none" pos="word" start_char="2190">aportó</TOKEN>
+<TOKEN end_char="2203" id="token-15-20" morph="none" pos="word" start_char="2197">pruebas</TOKEN>
+<TOKEN end_char="2204" id="token-15-21" morph="none" pos="punct" start_char="2204">.</TOKEN>
+<TRANSLATED_TEXT>A Chinese television researcher recently came out saying it was made by a Chinese laboratory, but she did not provide any evidence.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2224" id="segment-16" start_char="2208">
+<ORIGINAL_TEXT>Imposible, no es.</ORIGINAL_TEXT>
+<TOKEN end_char="2216" id="token-16-0" morph="none" pos="word" start_char="2208">Imposible</TOKEN>
+<TOKEN end_char="2217" id="token-16-1" morph="none" pos="punct" start_char="2217">,</TOKEN>
+<TOKEN end_char="2220" id="token-16-2" morph="none" pos="word" start_char="2219">no</TOKEN>
+<TOKEN end_char="2223" id="token-16-3" morph="none" pos="word" start_char="2222">es</TOKEN>
+<TOKEN end_char="2224" id="token-16-4" morph="none" pos="punct" start_char="2224">.</TOKEN>
+<TRANSLATED_TEXT>Impossible, it's not.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2308" id="segment-17" start_char="2226">
+<ORIGINAL_TEXT>Pero eso no quiere decir que sea probable ni, muchos menos, que se pueda demostrar.</ORIGINAL_TEXT>
+<TOKEN end_char="2229" id="token-17-0" morph="none" pos="word" start_char="2226">Pero</TOKEN>
+<TOKEN end_char="2233" id="token-17-1" morph="none" pos="word" start_char="2231">eso</TOKEN>
+<TOKEN end_char="2236" id="token-17-2" morph="none" pos="word" start_char="2235">no</TOKEN>
+<TOKEN end_char="2243" id="token-17-3" morph="none" pos="word" start_char="2238">quiere</TOKEN>
+<TOKEN end_char="2249" id="token-17-4" morph="none" pos="word" start_char="2245">decir</TOKEN>
+<TOKEN end_char="2253" id="token-17-5" morph="none" pos="word" start_char="2251">que</TOKEN>
+<TOKEN end_char="2257" id="token-17-6" morph="none" pos="word" start_char="2255">sea</TOKEN>
+<TOKEN end_char="2266" id="token-17-7" morph="none" pos="word" start_char="2259">probable</TOKEN>
+<TOKEN end_char="2269" id="token-17-8" morph="none" pos="word" start_char="2268">ni</TOKEN>
+<TOKEN end_char="2270" id="token-17-9" morph="none" pos="punct" start_char="2270">,</TOKEN>
+<TOKEN end_char="2277" id="token-17-10" morph="none" pos="word" start_char="2272">muchos</TOKEN>
+<TOKEN end_char="2283" id="token-17-11" morph="none" pos="word" start_char="2279">menos</TOKEN>
+<TOKEN end_char="2284" id="token-17-12" morph="none" pos="punct" start_char="2284">,</TOKEN>
+<TOKEN end_char="2288" id="token-17-13" morph="none" pos="word" start_char="2286">que</TOKEN>
+<TOKEN end_char="2291" id="token-17-14" morph="none" pos="word" start_char="2290">se</TOKEN>
+<TOKEN end_char="2297" id="token-17-15" morph="none" pos="word" start_char="2293">pueda</TOKEN>
+<TOKEN end_char="2307" id="token-17-16" morph="none" pos="word" start_char="2299">demostrar</TOKEN>
+<TOKEN end_char="2308" id="token-17-17" morph="none" pos="punct" start_char="2308">.</TOKEN>
+<TRANSLATED_TEXT>But that does not mean that it is likely or, much less, that it can be demonstrated.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2528" id="segment-18" start_char="2311">
+<ORIGINAL_TEXT>De todos modos, el (des)manejo que hicieron China en primer lugar y la OMS después, de la epidemia que luego mutó en pandemia, sobra para calificarlos como los principales responsables de la situación actual del mundo.</ORIGINAL_TEXT>
+<TOKEN end_char="2312" id="token-18-0" morph="none" pos="word" start_char="2311">De</TOKEN>
+<TOKEN end_char="2318" id="token-18-1" morph="none" pos="word" start_char="2314">todos</TOKEN>
+<TOKEN end_char="2324" id="token-18-2" morph="none" pos="word" start_char="2320">modos</TOKEN>
+<TOKEN end_char="2325" id="token-18-3" morph="none" pos="punct" start_char="2325">,</TOKEN>
+<TOKEN end_char="2328" id="token-18-4" morph="none" pos="word" start_char="2327">el</TOKEN>
+<TOKEN end_char="2330" id="token-18-5" morph="none" pos="punct" start_char="2330">(</TOKEN>
+<TOKEN end_char="2340" id="token-18-6" morph="none" pos="unknown" start_char="2331">des)manejo</TOKEN>
+<TOKEN end_char="2344" id="token-18-7" morph="none" pos="word" start_char="2342">que</TOKEN>
+<TOKEN end_char="2353" id="token-18-8" morph="none" pos="word" start_char="2346">hicieron</TOKEN>
+<TOKEN end_char="2359" id="token-18-9" morph="none" pos="word" start_char="2355">China</TOKEN>
+<TOKEN end_char="2362" id="token-18-10" morph="none" pos="word" start_char="2361">en</TOKEN>
+<TOKEN end_char="2369" id="token-18-11" morph="none" pos="word" start_char="2364">primer</TOKEN>
+<TOKEN end_char="2375" id="token-18-12" morph="none" pos="word" start_char="2371">lugar</TOKEN>
+<TOKEN end_char="2377" id="token-18-13" morph="none" pos="word" start_char="2377">y</TOKEN>
+<TOKEN end_char="2380" id="token-18-14" morph="none" pos="word" start_char="2379">la</TOKEN>
+<TOKEN end_char="2384" id="token-18-15" morph="none" pos="word" start_char="2382">OMS</TOKEN>
+<TOKEN end_char="2392" id="token-18-16" morph="none" pos="word" start_char="2386">después</TOKEN>
+<TOKEN end_char="2393" id="token-18-17" morph="none" pos="punct" start_char="2393">,</TOKEN>
+<TOKEN end_char="2396" id="token-18-18" morph="none" pos="word" start_char="2395">de</TOKEN>
+<TOKEN end_char="2399" id="token-18-19" morph="none" pos="word" start_char="2398">la</TOKEN>
+<TOKEN end_char="2408" id="token-18-20" morph="none" pos="word" start_char="2401">epidemia</TOKEN>
+<TOKEN end_char="2412" id="token-18-21" morph="none" pos="word" start_char="2410">que</TOKEN>
+<TOKEN end_char="2418" id="token-18-22" morph="none" pos="word" start_char="2414">luego</TOKEN>
+<TOKEN end_char="2423" id="token-18-23" morph="none" pos="word" start_char="2420">mutó</TOKEN>
+<TOKEN end_char="2426" id="token-18-24" morph="none" pos="word" start_char="2425">en</TOKEN>
+<TOKEN end_char="2435" id="token-18-25" morph="none" pos="word" start_char="2428">pandemia</TOKEN>
+<TOKEN end_char="2436" id="token-18-26" morph="none" pos="punct" start_char="2436">,</TOKEN>
+<TOKEN end_char="2442" id="token-18-27" morph="none" pos="word" start_char="2438">sobra</TOKEN>
+<TOKEN end_char="2447" id="token-18-28" morph="none" pos="word" start_char="2444">para</TOKEN>
+<TOKEN end_char="2460" id="token-18-29" morph="none" pos="word" start_char="2449">calificarlos</TOKEN>
+<TOKEN end_char="2465" id="token-18-30" morph="none" pos="word" start_char="2462">como</TOKEN>
+<TOKEN end_char="2469" id="token-18-31" morph="none" pos="word" start_char="2467">los</TOKEN>
+<TOKEN end_char="2481" id="token-18-32" morph="none" pos="word" start_char="2471">principales</TOKEN>
+<TOKEN end_char="2494" id="token-18-33" morph="none" pos="word" start_char="2483">responsables</TOKEN>
+<TOKEN end_char="2497" id="token-18-34" morph="none" pos="word" start_char="2496">de</TOKEN>
+<TOKEN end_char="2500" id="token-18-35" morph="none" pos="word" start_char="2499">la</TOKEN>
+<TOKEN end_char="2510" id="token-18-36" morph="none" pos="word" start_char="2502">situación</TOKEN>
+<TOKEN end_char="2517" id="token-18-37" morph="none" pos="word" start_char="2512">actual</TOKEN>
+<TOKEN end_char="2521" id="token-18-38" morph="none" pos="word" start_char="2519">del</TOKEN>
+<TOKEN end_char="2527" id="token-18-39" morph="none" pos="word" start_char="2523">mundo</TOKEN>
+<TOKEN end_char="2528" id="token-18-40" morph="none" pos="punct" start_char="2528">.</TOKEN>
+<TRANSLATED_TEXT>Nevertheless, the (de) management that China did first and the WHO did after, of the epidemic that then mutated into a pandemic, is too much to rank them as the main perpetrators of the world's current situation.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2645" id="segment-19" start_char="2532">
+<ORIGINAL_TEXT>Hace Mucho tiempo salió de china la gripe agriat y otras enfermedades .quizás ya que uno otras enfermedades quizás</ORIGINAL_TEXT>
+<TOKEN end_char="2535" id="token-19-0" morph="none" pos="word" start_char="2532">Hace</TOKEN>
+<TOKEN end_char="2541" id="token-19-1" morph="none" pos="word" start_char="2537">Mucho</TOKEN>
+<TOKEN end_char="2548" id="token-19-2" morph="none" pos="word" start_char="2543">tiempo</TOKEN>
+<TOKEN end_char="2554" id="token-19-3" morph="none" pos="word" start_char="2550">salió</TOKEN>
+<TOKEN end_char="2557" id="token-19-4" morph="none" pos="word" start_char="2556">de</TOKEN>
+<TOKEN end_char="2563" id="token-19-5" morph="none" pos="word" start_char="2559">china</TOKEN>
+<TOKEN end_char="2566" id="token-19-6" morph="none" pos="word" start_char="2565">la</TOKEN>
+<TOKEN end_char="2572" id="token-19-7" morph="none" pos="word" start_char="2568">gripe</TOKEN>
+<TOKEN end_char="2579" id="token-19-8" morph="none" pos="word" start_char="2574">agriat</TOKEN>
+<TOKEN end_char="2581" id="token-19-9" morph="none" pos="word" start_char="2581">y</TOKEN>
+<TOKEN end_char="2587" id="token-19-10" morph="none" pos="word" start_char="2583">otras</TOKEN>
+<TOKEN end_char="2600" id="token-19-11" morph="none" pos="word" start_char="2589">enfermedades</TOKEN>
+<TOKEN end_char="2602" id="token-19-12" morph="none" pos="punct" start_char="2602">.</TOKEN>
+<TOKEN end_char="2608" id="token-19-13" morph="none" pos="word" start_char="2603">quizás</TOKEN>
+<TOKEN end_char="2611" id="token-19-14" morph="none" pos="word" start_char="2610">ya</TOKEN>
+<TOKEN end_char="2615" id="token-19-15" morph="none" pos="word" start_char="2613">que</TOKEN>
+<TOKEN end_char="2619" id="token-19-16" morph="none" pos="word" start_char="2617">uno</TOKEN>
+<TOKEN end_char="2625" id="token-19-17" morph="none" pos="word" start_char="2621">otras</TOKEN>
+<TOKEN end_char="2638" id="token-19-18" morph="none" pos="word" start_char="2627">enfermedades</TOKEN>
+<TOKEN end_char="2645" id="token-19-19" morph="none" pos="word" start_char="2640">quizás</TOKEN>
+<TRANSLATED_TEXT>A long time ago the flu and other diseases came out of China.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2765" id="segment-20" start_char="2649">
+<ORIGINAL_TEXT>Lei una noticia de un cientifico japones que trabajó 5 años en el laboratorio de Wuhan que lo afirma categóricamente.</ORIGINAL_TEXT>
+<TOKEN end_char="2651" id="token-20-0" morph="none" pos="word" start_char="2649">Lei</TOKEN>
+<TOKEN end_char="2655" id="token-20-1" morph="none" pos="word" start_char="2653">una</TOKEN>
+<TOKEN end_char="2663" id="token-20-2" morph="none" pos="word" start_char="2657">noticia</TOKEN>
+<TOKEN end_char="2666" id="token-20-3" morph="none" pos="word" start_char="2665">de</TOKEN>
+<TOKEN end_char="2669" id="token-20-4" morph="none" pos="word" start_char="2668">un</TOKEN>
+<TOKEN end_char="2680" id="token-20-5" morph="none" pos="word" start_char="2671">cientifico</TOKEN>
+<TOKEN end_char="2688" id="token-20-6" morph="none" pos="word" start_char="2682">japones</TOKEN>
+<TOKEN end_char="2692" id="token-20-7" morph="none" pos="word" start_char="2690">que</TOKEN>
+<TOKEN end_char="2700" id="token-20-8" morph="none" pos="word" start_char="2694">trabajó</TOKEN>
+<TOKEN end_char="2702" id="token-20-9" morph="none" pos="word" start_char="2702">5</TOKEN>
+<TOKEN end_char="2707" id="token-20-10" morph="none" pos="word" start_char="2704">años</TOKEN>
+<TOKEN end_char="2710" id="token-20-11" morph="none" pos="word" start_char="2709">en</TOKEN>
+<TOKEN end_char="2713" id="token-20-12" morph="none" pos="word" start_char="2712">el</TOKEN>
+<TOKEN end_char="2725" id="token-20-13" morph="none" pos="word" start_char="2715">laboratorio</TOKEN>
+<TOKEN end_char="2728" id="token-20-14" morph="none" pos="word" start_char="2727">de</TOKEN>
+<TOKEN end_char="2734" id="token-20-15" morph="none" pos="word" start_char="2730">Wuhan</TOKEN>
+<TOKEN end_char="2738" id="token-20-16" morph="none" pos="word" start_char="2736">que</TOKEN>
+<TOKEN end_char="2741" id="token-20-17" morph="none" pos="word" start_char="2740">lo</TOKEN>
+<TOKEN end_char="2748" id="token-20-18" morph="none" pos="word" start_char="2743">afirma</TOKEN>
+<TOKEN end_char="2764" id="token-20-19" morph="none" pos="word" start_char="2750">categóricamente</TOKEN>
+<TOKEN end_char="2765" id="token-20-20" morph="none" pos="punct" start_char="2765">.</TOKEN>
+<TRANSLATED_TEXT>He read a story from a Japanese scientist who worked for five years in Wuhan's lab that categorically states this.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2824" id="segment-21" start_char="2767">
+<ORIGINAL_TEXT>Ahora que se pueda demostrar será "harina de otro costal".</ORIGINAL_TEXT>
+<TOKEN end_char="2771" id="token-21-0" morph="none" pos="word" start_char="2767">Ahora</TOKEN>
+<TOKEN end_char="2775" id="token-21-1" morph="none" pos="word" start_char="2773">que</TOKEN>
+<TOKEN end_char="2778" id="token-21-2" morph="none" pos="word" start_char="2777">se</TOKEN>
+<TOKEN end_char="2784" id="token-21-3" morph="none" pos="word" start_char="2780">pueda</TOKEN>
+<TOKEN end_char="2794" id="token-21-4" morph="none" pos="word" start_char="2786">demostrar</TOKEN>
+<TOKEN end_char="2799" id="token-21-5" morph="none" pos="word" start_char="2796">será</TOKEN>
+<TOKEN end_char="2801" id="token-21-6" morph="none" pos="punct" start_char="2801">"</TOKEN>
+<TOKEN end_char="2807" id="token-21-7" morph="none" pos="word" start_char="2802">harina</TOKEN>
+<TOKEN end_char="2810" id="token-21-8" morph="none" pos="word" start_char="2809">de</TOKEN>
+<TOKEN end_char="2815" id="token-21-9" morph="none" pos="word" start_char="2812">otro</TOKEN>
+<TOKEN end_char="2822" id="token-21-10" morph="none" pos="word" start_char="2817">costal</TOKEN>
+<TOKEN end_char="2824" id="token-21-11" morph="none" pos="punct" start_char="2823">".</TOKEN>
+<TRANSLATED_TEXT>Now that you can prove it will be "another rib flour."</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2837" id="segment-22" start_char="2828">
+<ORIGINAL_TEXT>Yo si creo</ORIGINAL_TEXT>
+<TOKEN end_char="2829" id="token-22-0" morph="none" pos="word" start_char="2828">Yo</TOKEN>
+<TOKEN end_char="2832" id="token-22-1" morph="none" pos="word" start_char="2831">si</TOKEN>
+<TOKEN end_char="2837" id="token-22-2" morph="none" pos="word" start_char="2834">creo</TOKEN>
+<TRANSLATED_TEXT>I think</TRANSLATED_TEXT><DETECTED_LANGUAGE>it</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2949" id="segment-23" start_char="2840">
+<ORIGINAL_TEXT>En muchos diarios y noticieros se habla de esta posibilidad como una respuesta de dónde surgió el Coronavirus.</ORIGINAL_TEXT>
+<TOKEN end_char="2841" id="token-23-0" morph="none" pos="word" start_char="2840">En</TOKEN>
+<TOKEN end_char="2848" id="token-23-1" morph="none" pos="word" start_char="2843">muchos</TOKEN>
+<TOKEN end_char="2856" id="token-23-2" morph="none" pos="word" start_char="2850">diarios</TOKEN>
+<TOKEN end_char="2858" id="token-23-3" morph="none" pos="word" start_char="2858">y</TOKEN>
+<TOKEN end_char="2869" id="token-23-4" morph="none" pos="word" start_char="2860">noticieros</TOKEN>
+<TOKEN end_char="2872" id="token-23-5" morph="none" pos="word" start_char="2871">se</TOKEN>
+<TOKEN end_char="2878" id="token-23-6" morph="none" pos="word" start_char="2874">habla</TOKEN>
+<TOKEN end_char="2881" id="token-23-7" morph="none" pos="word" start_char="2880">de</TOKEN>
+<TOKEN end_char="2886" id="token-23-8" morph="none" pos="word" start_char="2883">esta</TOKEN>
+<TOKEN end_char="2898" id="token-23-9" morph="none" pos="word" start_char="2888">posibilidad</TOKEN>
+<TOKEN end_char="2903" id="token-23-10" morph="none" pos="word" start_char="2900">como</TOKEN>
+<TOKEN end_char="2907" id="token-23-11" morph="none" pos="word" start_char="2905">una</TOKEN>
+<TOKEN end_char="2917" id="token-23-12" morph="none" pos="word" start_char="2909">respuesta</TOKEN>
+<TOKEN end_char="2920" id="token-23-13" morph="none" pos="word" start_char="2919">de</TOKEN>
+<TOKEN end_char="2926" id="token-23-14" morph="none" pos="word" start_char="2922">dónde</TOKEN>
+<TOKEN end_char="2933" id="token-23-15" morph="none" pos="word" start_char="2928">surgió</TOKEN>
+<TOKEN end_char="2936" id="token-23-16" morph="none" pos="word" start_char="2935">el</TOKEN>
+<TOKEN end_char="2948" id="token-23-17" morph="none" pos="word" start_char="2938">Coronavirus</TOKEN>
+<TOKEN end_char="2949" id="token-23-18" morph="none" pos="punct" start_char="2949">.</TOKEN>
+<TRANSLATED_TEXT>Many newspapers and news outlets speak of this possibility as a response to where Coronavirus originated.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="3043" id="segment-24" start_char="2952">
+<ORIGINAL_TEXT>Ahora sí fue para iniciar una guerra, si fue un accidente, si fue por error eso sí no lo se.</ORIGINAL_TEXT>
+<TOKEN end_char="2956" id="token-24-0" morph="none" pos="word" start_char="2952">Ahora</TOKEN>
+<TOKEN end_char="2959" id="token-24-1" morph="none" pos="word" start_char="2958">sí</TOKEN>
+<TOKEN end_char="2963" id="token-24-2" morph="none" pos="word" start_char="2961">fue</TOKEN>
+<TOKEN end_char="2968" id="token-24-3" morph="none" pos="word" start_char="2965">para</TOKEN>
+<TOKEN end_char="2976" id="token-24-4" morph="none" pos="word" start_char="2970">iniciar</TOKEN>
+<TOKEN end_char="2980" id="token-24-5" morph="none" pos="word" start_char="2978">una</TOKEN>
+<TOKEN end_char="2987" id="token-24-6" morph="none" pos="word" start_char="2982">guerra</TOKEN>
+<TOKEN end_char="2988" id="token-24-7" morph="none" pos="punct" start_char="2988">,</TOKEN>
+<TOKEN end_char="2991" id="token-24-8" morph="none" pos="word" start_char="2990">si</TOKEN>
+<TOKEN end_char="2995" id="token-24-9" morph="none" pos="word" start_char="2993">fue</TOKEN>
+<TOKEN end_char="2998" id="token-24-10" morph="none" pos="word" start_char="2997">un</TOKEN>
+<TOKEN end_char="3008" id="token-24-11" morph="none" pos="word" start_char="3000">accidente</TOKEN>
+<TOKEN end_char="3009" id="token-24-12" morph="none" pos="punct" start_char="3009">,</TOKEN>
+<TOKEN end_char="3012" id="token-24-13" morph="none" pos="word" start_char="3011">si</TOKEN>
+<TOKEN end_char="3016" id="token-24-14" morph="none" pos="word" start_char="3014">fue</TOKEN>
+<TOKEN end_char="3020" id="token-24-15" morph="none" pos="word" start_char="3018">por</TOKEN>
+<TOKEN end_char="3026" id="token-24-16" morph="none" pos="word" start_char="3022">error</TOKEN>
+<TOKEN end_char="3030" id="token-24-17" morph="none" pos="word" start_char="3028">eso</TOKEN>
+<TOKEN end_char="3033" id="token-24-18" morph="none" pos="word" start_char="3032">sí</TOKEN>
+<TOKEN end_char="3036" id="token-24-19" morph="none" pos="word" start_char="3035">no</TOKEN>
+<TOKEN end_char="3039" id="token-24-20" morph="none" pos="word" start_char="3038">lo</TOKEN>
+<TOKEN end_char="3042" id="token-24-21" morph="none" pos="word" start_char="3041">se</TOKEN>
+<TOKEN end_char="3043" id="token-24-22" morph="none" pos="punct" start_char="3043">.</TOKEN>
+<TRANSLATED_TEXT>Now it was to start a war, if it was an accident, if it was by mistake that is not known.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="3110" id="segment-25" start_char="3047">
+<ORIGINAL_TEXT>· El autor tiene 119 respuestas y 9,9 K visitas a sus respuestas</ORIGINAL_TEXT>
+<TOKEN end_char="3047" id="token-25-0" morph="none" pos="punct" start_char="3047">·</TOKEN>
+<TOKEN end_char="3050" id="token-25-1" morph="none" pos="word" start_char="3049">El</TOKEN>
+<TOKEN end_char="3056" id="token-25-2" morph="none" pos="word" start_char="3052">autor</TOKEN>
+<TOKEN end_char="3062" id="token-25-3" morph="none" pos="word" start_char="3058">tiene</TOKEN>
+<TOKEN end_char="3066" id="token-25-4" morph="none" pos="word" start_char="3064">119</TOKEN>
+<TOKEN end_char="3077" id="token-25-5" morph="none" pos="word" start_char="3068">respuestas</TOKEN>
+<TOKEN end_char="3079" id="token-25-6" morph="none" pos="word" start_char="3079">y</TOKEN>
+<TOKEN end_char="3083" id="token-25-7" morph="none" pos="unknown" start_char="3081">9,9</TOKEN>
+<TOKEN end_char="3085" id="token-25-8" morph="none" pos="word" start_char="3085">K</TOKEN>
+<TOKEN end_char="3093" id="token-25-9" morph="none" pos="word" start_char="3087">visitas</TOKEN>
+<TOKEN end_char="3095" id="token-25-10" morph="none" pos="word" start_char="3095">a</TOKEN>
+<TOKEN end_char="3099" id="token-25-11" morph="none" pos="word" start_char="3097">sus</TOKEN>
+<TOKEN end_char="3110" id="token-25-12" morph="none" pos="word" start_char="3101">respuestas</TOKEN>
+<TRANSLATED_TEXT>· The author has 119 responses and 9.9 K visits to his responses</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="3148" id="segment-26" start_char="3114">
+<ORIGINAL_TEXT>Primeramente definiré terminología.</ORIGINAL_TEXT>
+<TOKEN end_char="3125" id="token-26-0" morph="none" pos="word" start_char="3114">Primeramente</TOKEN>
+<TOKEN end_char="3134" id="token-26-1" morph="none" pos="word" start_char="3127">definiré</TOKEN>
+<TOKEN end_char="3147" id="token-26-2" morph="none" pos="word" start_char="3136">terminología</TOKEN>
+<TOKEN end_char="3148" id="token-26-3" morph="none" pos="punct" start_char="3148">.</TOKEN>
+<TRANSLATED_TEXT>First, I will define terminology.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="3191" id="segment-27" start_char="3150">
+<ORIGINAL_TEXT>Tenemos 3 o más variables en esta materia.</ORIGINAL_TEXT>
+<TOKEN end_char="3156" id="token-27-0" morph="none" pos="word" start_char="3150">Tenemos</TOKEN>
+<TOKEN end_char="3158" id="token-27-1" morph="none" pos="word" start_char="3158">3</TOKEN>
+<TOKEN end_char="3160" id="token-27-2" morph="none" pos="word" start_char="3160">o</TOKEN>
+<TOKEN end_char="3164" id="token-27-3" morph="none" pos="word" start_char="3162">más</TOKEN>
+<TOKEN end_char="3174" id="token-27-4" morph="none" pos="word" start_char="3166">variables</TOKEN>
+<TOKEN end_char="3177" id="token-27-5" morph="none" pos="word" start_char="3176">en</TOKEN>
+<TOKEN end_char="3182" id="token-27-6" morph="none" pos="word" start_char="3179">esta</TOKEN>
+<TOKEN end_char="3190" id="token-27-7" morph="none" pos="word" start_char="3184">materia</TOKEN>
+<TOKEN end_char="3191" id="token-27-8" morph="none" pos="punct" start_char="3191">.</TOKEN>
+<TRANSLATED_TEXT>We have three or more variables in this matter.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="3231" id="segment-28" start_char="3193">
+<ORIGINAL_TEXT>Gracias a Maria Gomez por sugerir esto.</ORIGINAL_TEXT>
+<TOKEN end_char="3199" id="token-28-0" morph="none" pos="word" start_char="3193">Gracias</TOKEN>
+<TOKEN end_char="3201" id="token-28-1" morph="none" pos="word" start_char="3201">a</TOKEN>
+<TOKEN end_char="3207" id="token-28-2" morph="none" pos="word" start_char="3203">Maria</TOKEN>
+<TOKEN end_char="3213" id="token-28-3" morph="none" pos="word" start_char="3209">Gomez</TOKEN>
+<TOKEN end_char="3217" id="token-28-4" morph="none" pos="word" start_char="3215">por</TOKEN>
+<TOKEN end_char="3225" id="token-28-5" morph="none" pos="word" start_char="3219">sugerir</TOKEN>
+<TOKEN end_char="3230" id="token-28-6" morph="none" pos="word" start_char="3227">esto</TOKEN>
+<TOKEN end_char="3231" id="token-28-7" morph="none" pos="punct" start_char="3231">.</TOKEN>
+<TRANSLATED_TEXT>Thanks to Maria Gomez for suggesting this.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="3275" id="segment-29" start_char="3234">
+<ORIGINAL_TEXT>La pandemia llamada ‘Pandemia de Covid19’.</ORIGINAL_TEXT>
+<TOKEN end_char="3235" id="token-29-0" morph="none" pos="word" start_char="3234">La</TOKEN>
+<TOKEN end_char="3244" id="token-29-1" morph="none" pos="word" start_char="3237">pandemia</TOKEN>
+<TOKEN end_char="3252" id="token-29-2" morph="none" pos="word" start_char="3246">llamada</TOKEN>
+<TOKEN end_char="3254" id="token-29-3" morph="none" pos="punct" start_char="3254">‘</TOKEN>
+<TOKEN end_char="3262" id="token-29-4" morph="none" pos="word" start_char="3255">Pandemia</TOKEN>
+<TOKEN end_char="3265" id="token-29-5" morph="none" pos="word" start_char="3264">de</TOKEN>
+<TOKEN end_char="3273" id="token-29-6" morph="none" pos="word" start_char="3267">Covid19</TOKEN>
+<TOKEN end_char="3275" id="token-29-7" morph="none" pos="punct" start_char="3274">’.</TOKEN>
+<TRANSLATED_TEXT>The pandemic called the Covid19 pandemic.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="3333" id="segment-30" start_char="3278">
+<ORIGINAL_TEXT>La enfermedad llamada ‘Covid-19’ o erróneamente ‘Covid’.</ORIGINAL_TEXT>
+<TOKEN end_char="3279" id="token-30-0" morph="none" pos="word" start_char="3278">La</TOKEN>
+<TOKEN end_char="3290" id="token-30-1" morph="none" pos="word" start_char="3281">enfermedad</TOKEN>
+<TOKEN end_char="3298" id="token-30-2" morph="none" pos="word" start_char="3292">llamada</TOKEN>
+<TOKEN end_char="3300" id="token-30-3" morph="none" pos="punct" start_char="3300">‘</TOKEN>
+<TOKEN end_char="3308" id="token-30-4" morph="none" pos="unknown" start_char="3301">Covid-19</TOKEN>
+<TOKEN end_char="3309" id="token-30-5" morph="none" pos="punct" start_char="3309">’</TOKEN>
+<TOKEN end_char="3311" id="token-30-6" morph="none" pos="word" start_char="3311">o</TOKEN>
+<TOKEN end_char="3324" id="token-30-7" morph="none" pos="word" start_char="3313">erróneamente</TOKEN>
+<TOKEN end_char="3326" id="token-30-8" morph="none" pos="punct" start_char="3326">‘</TOKEN>
+<TOKEN end_char="3331" id="token-30-9" morph="none" pos="word" start_char="3327">Covid</TOKEN>
+<TOKEN end_char="3333" id="token-30-10" morph="none" pos="punct" start_char="3332">’.</TOKEN>
+<TRANSLATED_TEXT>The disease is called 'Covid-19' or erroneously 'Covid'.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="3376" id="segment-31" start_char="3336">
+<ORIGINAL_TEXT>El virus que causa la enfermedad, llamado</ORIGINAL_TEXT>
+<TOKEN end_char="3337" id="token-31-0" morph="none" pos="word" start_char="3336">El</TOKEN>
+<TOKEN end_char="3343" id="token-31-1" morph="none" pos="word" start_char="3339">virus</TOKEN>
+<TOKEN end_char="3347" id="token-31-2" morph="none" pos="word" start_char="3345">que</TOKEN>
+<TOKEN end_char="3353" id="token-31-3" morph="none" pos="word" start_char="3349">causa</TOKEN>
+<TOKEN end_char="3356" id="token-31-4" morph="none" pos="word" start_char="3355">la</TOKEN>
+<TOKEN end_char="3367" id="token-31-5" morph="none" pos="word" start_char="3358">enfermedad</TOKEN>
+<TOKEN end_char="3368" id="token-31-6" morph="none" pos="punct" start_char="3368">,</TOKEN>
+<TOKEN end_char="3376" id="token-31-7" morph="none" pos="word" start_char="3370">llamado</TOKEN>
+<TRANSLATED_TEXT>The virus that causes the disease, called</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="3424" id="segment-32" start_char="3379">
+<ORIGINAL_TEXT>Formalmente ‘SARS-CoV-2’ o ‘virus SARS-CoV-2’.</ORIGINAL_TEXT>
+<TOKEN end_char="3389" id="token-32-0" morph="none" pos="word" start_char="3379">Formalmente</TOKEN>
+<TOKEN end_char="3391" id="token-32-1" morph="none" pos="punct" start_char="3391">‘</TOKEN>
+<TOKEN end_char="3401" id="token-32-2" morph="none" pos="unknown" start_char="3392">SARS-CoV-2</TOKEN>
+<TOKEN end_char="3402" id="token-32-3" morph="none" pos="punct" start_char="3402">’</TOKEN>
+<TOKEN end_char="3404" id="token-32-4" morph="none" pos="word" start_char="3404">o</TOKEN>
+<TOKEN end_char="3406" id="token-32-5" morph="none" pos="punct" start_char="3406">‘</TOKEN>
+<TOKEN end_char="3411" id="token-32-6" morph="none" pos="word" start_char="3407">virus</TOKEN>
+<TOKEN end_char="3422" id="token-32-7" morph="none" pos="unknown" start_char="3413">SARS-CoV-2</TOKEN>
+<TOKEN end_char="3424" id="token-32-8" morph="none" pos="punct" start_char="3423">’.</TOKEN>
+<TRANSLATED_TEXT>Formally 'SARS-CoV-2' or 'SARS-CoV-2' virus.</TRANSLATED_TEXT><DETECTED_LANGUAGE>pt</DETECTED_LANGUAGE></SEG>
+<SEG end_char="3500" id="segment-33" start_char="3427">
+<ORIGINAL_TEXT>Común, erróneamente y sin adjetivos ‘coronavirus’, ‘corona’, ‘virus’, etc.</ORIGINAL_TEXT>
+<TOKEN end_char="3431" id="token-33-0" morph="none" pos="word" start_char="3427">Común</TOKEN>
+<TOKEN end_char="3432" id="token-33-1" morph="none" pos="punct" start_char="3432">,</TOKEN>
+<TOKEN end_char="3445" id="token-33-2" morph="none" pos="word" start_char="3434">erróneamente</TOKEN>
+<TOKEN end_char="3447" id="token-33-3" morph="none" pos="word" start_char="3447">y</TOKEN>
+<TOKEN end_char="3451" id="token-33-4" morph="none" pos="word" start_char="3449">sin</TOKEN>
+<TOKEN end_char="3461" id="token-33-5" morph="none" pos="word" start_char="3453">adjetivos</TOKEN>
+<TOKEN end_char="3463" id="token-33-6" morph="none" pos="punct" start_char="3463">‘</TOKEN>
+<TOKEN end_char="3474" id="token-33-7" morph="none" pos="word" start_char="3464">coronavirus</TOKEN>
+<TOKEN end_char="3476" id="token-33-8" morph="none" pos="punct" start_char="3475">’,</TOKEN>
+<TOKEN end_char="3478" id="token-33-9" morph="none" pos="punct" start_char="3478">‘</TOKEN>
+<TOKEN end_char="3484" id="token-33-10" morph="none" pos="word" start_char="3479">corona</TOKEN>
+<TOKEN end_char="3486" id="token-33-11" morph="none" pos="punct" start_char="3485">’,</TOKEN>
+<TOKEN end_char="3488" id="token-33-12" morph="none" pos="punct" start_char="3488">‘</TOKEN>
+<TOKEN end_char="3493" id="token-33-13" morph="none" pos="word" start_char="3489">virus</TOKEN>
+<TOKEN end_char="3495" id="token-33-14" morph="none" pos="punct" start_char="3494">’,</TOKEN>
+<TOKEN end_char="3499" id="token-33-15" morph="none" pos="word" start_char="3497">etc</TOKEN>
+<TOKEN end_char="3500" id="token-33-16" morph="none" pos="punct" start_char="3500">.</TOKEN>
+<TRANSLATED_TEXT>Common, wrongly and without adjectives' coronavirus', 'corona', 'virus', etc.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="3704" id="segment-34" start_char="3504">
+<ORIGINAL_TEXT>Todas las enfermedades contagiosas tienen etapas de desarrollo, tan pronto como el vector de infección, digamos un virus, entra al organismo, el sistema inmunológico empieza a destruirlo si lo detecta.</ORIGINAL_TEXT>
+<TOKEN end_char="3508" id="token-34-0" morph="none" pos="word" start_char="3504">Todas</TOKEN>
+<TOKEN end_char="3512" id="token-34-1" morph="none" pos="word" start_char="3510">las</TOKEN>
+<TOKEN end_char="3525" id="token-34-2" morph="none" pos="word" start_char="3514">enfermedades</TOKEN>
+<TOKEN end_char="3537" id="token-34-3" morph="none" pos="word" start_char="3527">contagiosas</TOKEN>
+<TOKEN end_char="3544" id="token-34-4" morph="none" pos="word" start_char="3539">tienen</TOKEN>
+<TOKEN end_char="3551" id="token-34-5" morph="none" pos="word" start_char="3546">etapas</TOKEN>
+<TOKEN end_char="3554" id="token-34-6" morph="none" pos="word" start_char="3553">de</TOKEN>
+<TOKEN end_char="3565" id="token-34-7" morph="none" pos="word" start_char="3556">desarrollo</TOKEN>
+<TOKEN end_char="3566" id="token-34-8" morph="none" pos="punct" start_char="3566">,</TOKEN>
+<TOKEN end_char="3570" id="token-34-9" morph="none" pos="word" start_char="3568">tan</TOKEN>
+<TOKEN end_char="3577" id="token-34-10" morph="none" pos="word" start_char="3572">pronto</TOKEN>
+<TOKEN end_char="3582" id="token-34-11" morph="none" pos="word" start_char="3579">como</TOKEN>
+<TOKEN end_char="3585" id="token-34-12" morph="none" pos="word" start_char="3584">el</TOKEN>
+<TOKEN end_char="3592" id="token-34-13" morph="none" pos="word" start_char="3587">vector</TOKEN>
+<TOKEN end_char="3595" id="token-34-14" morph="none" pos="word" start_char="3594">de</TOKEN>
+<TOKEN end_char="3605" id="token-34-15" morph="none" pos="word" start_char="3597">infección</TOKEN>
+<TOKEN end_char="3606" id="token-34-16" morph="none" pos="punct" start_char="3606">,</TOKEN>
+<TOKEN end_char="3614" id="token-34-17" morph="none" pos="word" start_char="3608">digamos</TOKEN>
+<TOKEN end_char="3617" id="token-34-18" morph="none" pos="word" start_char="3616">un</TOKEN>
+<TOKEN end_char="3623" id="token-34-19" morph="none" pos="word" start_char="3619">virus</TOKEN>
+<TOKEN end_char="3624" id="token-34-20" morph="none" pos="punct" start_char="3624">,</TOKEN>
+<TOKEN end_char="3630" id="token-34-21" morph="none" pos="word" start_char="3626">entra</TOKEN>
+<TOKEN end_char="3633" id="token-34-22" morph="none" pos="word" start_char="3632">al</TOKEN>
+<TOKEN end_char="3643" id="token-34-23" morph="none" pos="word" start_char="3635">organismo</TOKEN>
+<TOKEN end_char="3644" id="token-34-24" morph="none" pos="punct" start_char="3644">,</TOKEN>
+<TOKEN end_char="3647" id="token-34-25" morph="none" pos="word" start_char="3646">el</TOKEN>
+<TOKEN end_char="3655" id="token-34-26" morph="none" pos="word" start_char="3649">sistema</TOKEN>
+<TOKEN end_char="3668" id="token-34-27" morph="none" pos="word" start_char="3657">inmunológico</TOKEN>
+<TOKEN end_char="3676" id="token-34-28" morph="none" pos="word" start_char="3670">empieza</TOKEN>
+<TOKEN end_char="3678" id="token-34-29" morph="none" pos="word" start_char="3678">a</TOKEN>
+<TOKEN end_char="3689" id="token-34-30" morph="none" pos="word" start_char="3680">destruirlo</TOKEN>
+<TOKEN end_char="3692" id="token-34-31" morph="none" pos="word" start_char="3691">si</TOKEN>
+<TOKEN end_char="3695" id="token-34-32" morph="none" pos="word" start_char="3694">lo</TOKEN>
+<TOKEN end_char="3703" id="token-34-33" morph="none" pos="word" start_char="3697">detecta</TOKEN>
+<TOKEN end_char="3704" id="token-34-34" morph="none" pos="punct" start_char="3704">.</TOKEN>
+<TRANSLATED_TEXT>All infectious diseases have stages of development, and as soon as the vector of infection, say a virus, enters the organism, the immune system starts to destroy it if it detects it.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="3726" id="segment-35" start_char="3706">
+<ORIGINAL_TEXT>Si no hay inmunidad p</ORIGINAL_TEXT>
+<TOKEN end_char="3707" id="token-35-0" morph="none" pos="word" start_char="3706">Si</TOKEN>
+<TOKEN end_char="3710" id="token-35-1" morph="none" pos="word" start_char="3709">no</TOKEN>
+<TOKEN end_char="3714" id="token-35-2" morph="none" pos="word" start_char="3712">hay</TOKEN>
+<TOKEN end_char="3724" id="token-35-3" morph="none" pos="word" start_char="3716">inmunidad</TOKEN>
+<TOKEN end_char="3726" id="token-35-4" morph="none" pos="word" start_char="3726">p</TOKEN>
+<TRANSLATED_TEXT>If there is no immunity p</TRANSLATED_TEXT><DETECTED_LANGUAGE>tl</DETECTED_LANGUAGE></SEG>
+<SEG end_char="3809" id="segment-36" start_char="3730">
+<ORIGINAL_TEXT>De ninguna manera, y esto ya está demostrado por lo ocurrido en Italia y España.</ORIGINAL_TEXT>
+<TOKEN end_char="3731" id="token-36-0" morph="none" pos="word" start_char="3730">De</TOKEN>
+<TOKEN end_char="3739" id="token-36-1" morph="none" pos="word" start_char="3733">ninguna</TOKEN>
+<TOKEN end_char="3746" id="token-36-2" morph="none" pos="word" start_char="3741">manera</TOKEN>
+<TOKEN end_char="3747" id="token-36-3" morph="none" pos="punct" start_char="3747">,</TOKEN>
+<TOKEN end_char="3749" id="token-36-4" morph="none" pos="word" start_char="3749">y</TOKEN>
+<TOKEN end_char="3754" id="token-36-5" morph="none" pos="word" start_char="3751">esto</TOKEN>
+<TOKEN end_char="3757" id="token-36-6" morph="none" pos="word" start_char="3756">ya</TOKEN>
+<TOKEN end_char="3762" id="token-36-7" morph="none" pos="word" start_char="3759">está</TOKEN>
+<TOKEN end_char="3773" id="token-36-8" morph="none" pos="word" start_char="3764">demostrado</TOKEN>
+<TOKEN end_char="3777" id="token-36-9" morph="none" pos="word" start_char="3775">por</TOKEN>
+<TOKEN end_char="3780" id="token-36-10" morph="none" pos="word" start_char="3779">lo</TOKEN>
+<TOKEN end_char="3789" id="token-36-11" morph="none" pos="word" start_char="3782">ocurrido</TOKEN>
+<TOKEN end_char="3792" id="token-36-12" morph="none" pos="word" start_char="3791">en</TOKEN>
+<TOKEN end_char="3799" id="token-36-13" morph="none" pos="word" start_char="3794">Italia</TOKEN>
+<TOKEN end_char="3801" id="token-36-14" morph="none" pos="word" start_char="3801">y</TOKEN>
+<TOKEN end_char="3808" id="token-36-15" morph="none" pos="word" start_char="3803">España</TOKEN>
+<TOKEN end_char="3809" id="token-36-16" morph="none" pos="punct" start_char="3809">.</TOKEN>
+<TRANSLATED_TEXT>By no means, and this is already demonstrated by what has happened in Italy and Spain.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="3901" id="segment-37" start_char="3811">
+<ORIGINAL_TEXT>Al ser un virus nuevo, todas las personas del planeta son susceptibles a enfermarse por el.</ORIGINAL_TEXT>
+<TOKEN end_char="3812" id="token-37-0" morph="none" pos="word" start_char="3811">Al</TOKEN>
+<TOKEN end_char="3816" id="token-37-1" morph="none" pos="word" start_char="3814">ser</TOKEN>
+<TOKEN end_char="3819" id="token-37-2" morph="none" pos="word" start_char="3818">un</TOKEN>
+<TOKEN end_char="3825" id="token-37-3" morph="none" pos="word" start_char="3821">virus</TOKEN>
+<TOKEN end_char="3831" id="token-37-4" morph="none" pos="word" start_char="3827">nuevo</TOKEN>
+<TOKEN end_char="3832" id="token-37-5" morph="none" pos="punct" start_char="3832">,</TOKEN>
+<TOKEN end_char="3838" id="token-37-6" morph="none" pos="word" start_char="3834">todas</TOKEN>
+<TOKEN end_char="3842" id="token-37-7" morph="none" pos="word" start_char="3840">las</TOKEN>
+<TOKEN end_char="3851" id="token-37-8" morph="none" pos="word" start_char="3844">personas</TOKEN>
+<TOKEN end_char="3855" id="token-37-9" morph="none" pos="word" start_char="3853">del</TOKEN>
+<TOKEN end_char="3863" id="token-37-10" morph="none" pos="word" start_char="3857">planeta</TOKEN>
+<TOKEN end_char="3867" id="token-37-11" morph="none" pos="word" start_char="3865">son</TOKEN>
+<TOKEN end_char="3880" id="token-37-12" morph="none" pos="word" start_char="3869">susceptibles</TOKEN>
+<TOKEN end_char="3882" id="token-37-13" morph="none" pos="word" start_char="3882">a</TOKEN>
+<TOKEN end_char="3893" id="token-37-14" morph="none" pos="word" start_char="3884">enfermarse</TOKEN>
+<TOKEN end_char="3897" id="token-37-15" morph="none" pos="word" start_char="3895">por</TOKEN>
+<TOKEN end_char="3900" id="token-37-16" morph="none" pos="word" start_char="3899">el</TOKEN>
+<TOKEN end_char="3901" id="token-37-17" morph="none" pos="punct" start_char="3901">.</TOKEN>
+<TRANSLATED_TEXT>As a new virus, all people on the planet are susceptible to getting sick from it.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="4171" id="segment-38" start_char="3903">
+<ORIGINAL_TEXT>Si bien la letalidad podría no ser tan alta (tal vez al final quede al rededor del 1% de los que se enfermen), ya hay estimados que la ponen unas 4 o 5 veces mayor a la letalidad del virus de la gripe (influenza), que mata al rededor de medio millón de personas al año.</ORIGINAL_TEXT>
+<TOKEN end_char="3904" id="token-38-0" morph="none" pos="word" start_char="3903">Si</TOKEN>
+<TOKEN end_char="3909" id="token-38-1" morph="none" pos="word" start_char="3906">bien</TOKEN>
+<TOKEN end_char="3912" id="token-38-2" morph="none" pos="word" start_char="3911">la</TOKEN>
+<TOKEN end_char="3922" id="token-38-3" morph="none" pos="word" start_char="3914">letalidad</TOKEN>
+<TOKEN end_char="3929" id="token-38-4" morph="none" pos="word" start_char="3924">podría</TOKEN>
+<TOKEN end_char="3932" id="token-38-5" morph="none" pos="word" start_char="3931">no</TOKEN>
+<TOKEN end_char="3936" id="token-38-6" morph="none" pos="word" start_char="3934">ser</TOKEN>
+<TOKEN end_char="3940" id="token-38-7" morph="none" pos="word" start_char="3938">tan</TOKEN>
+<TOKEN end_char="3945" id="token-38-8" morph="none" pos="word" start_char="3942">alta</TOKEN>
+<TOKEN end_char="3947" id="token-38-9" morph="none" pos="punct" start_char="3947">(</TOKEN>
+<TOKEN end_char="3950" id="token-38-10" morph="none" pos="word" start_char="3948">tal</TOKEN>
+<TOKEN end_char="3954" id="token-38-11" morph="none" pos="word" start_char="3952">vez</TOKEN>
+<TOKEN end_char="3957" id="token-38-12" morph="none" pos="word" start_char="3956">al</TOKEN>
+<TOKEN end_char="3963" id="token-38-13" morph="none" pos="word" start_char="3959">final</TOKEN>
+<TOKEN end_char="3969" id="token-38-14" morph="none" pos="word" start_char="3965">quede</TOKEN>
+<TOKEN end_char="3972" id="token-38-15" morph="none" pos="word" start_char="3971">al</TOKEN>
+<TOKEN end_char="3980" id="token-38-16" morph="none" pos="word" start_char="3974">rededor</TOKEN>
+<TOKEN end_char="3984" id="token-38-17" morph="none" pos="word" start_char="3982">del</TOKEN>
+<TOKEN end_char="3986" id="token-38-18" morph="none" pos="word" start_char="3986">1</TOKEN>
+<TOKEN end_char="3987" id="token-38-19" morph="none" pos="punct" start_char="3987">%</TOKEN>
+<TOKEN end_char="3990" id="token-38-20" morph="none" pos="word" start_char="3989">de</TOKEN>
+<TOKEN end_char="3994" id="token-38-21" morph="none" pos="word" start_char="3992">los</TOKEN>
+<TOKEN end_char="3998" id="token-38-22" morph="none" pos="word" start_char="3996">que</TOKEN>
+<TOKEN end_char="4001" id="token-38-23" morph="none" pos="word" start_char="4000">se</TOKEN>
+<TOKEN end_char="4010" id="token-38-24" morph="none" pos="word" start_char="4003">enfermen</TOKEN>
+<TOKEN end_char="4012" id="token-38-25" morph="none" pos="punct" start_char="4011">),</TOKEN>
+<TOKEN end_char="4015" id="token-38-26" morph="none" pos="word" start_char="4014">ya</TOKEN>
+<TOKEN end_char="4019" id="token-38-27" morph="none" pos="word" start_char="4017">hay</TOKEN>
+<TOKEN end_char="4029" id="token-38-28" morph="none" pos="word" start_char="4021">estimados</TOKEN>
+<TOKEN end_char="4033" id="token-38-29" morph="none" pos="word" start_char="4031">que</TOKEN>
+<TOKEN end_char="4036" id="token-38-30" morph="none" pos="word" start_char="4035">la</TOKEN>
+<TOKEN end_char="4042" id="token-38-31" morph="none" pos="word" start_char="4038">ponen</TOKEN>
+<TOKEN end_char="4047" id="token-38-32" morph="none" pos="word" start_char="4044">unas</TOKEN>
+<TOKEN end_char="4049" id="token-38-33" morph="none" pos="word" start_char="4049">4</TOKEN>
+<TOKEN end_char="4051" id="token-38-34" morph="none" pos="word" start_char="4051">o</TOKEN>
+<TOKEN end_char="4053" id="token-38-35" morph="none" pos="word" start_char="4053">5</TOKEN>
+<TOKEN end_char="4059" id="token-38-36" morph="none" pos="word" start_char="4055">veces</TOKEN>
+<TOKEN end_char="4065" id="token-38-37" morph="none" pos="word" start_char="4061">mayor</TOKEN>
+<TOKEN end_char="4067" id="token-38-38" morph="none" pos="word" start_char="4067">a</TOKEN>
+<TOKEN end_char="4070" id="token-38-39" morph="none" pos="word" start_char="4069">la</TOKEN>
+<TOKEN end_char="4080" id="token-38-40" morph="none" pos="word" start_char="4072">letalidad</TOKEN>
+<TOKEN end_char="4084" id="token-38-41" morph="none" pos="word" start_char="4082">del</TOKEN>
+<TOKEN end_char="4090" id="token-38-42" morph="none" pos="word" start_char="4086">virus</TOKEN>
+<TOKEN end_char="4093" id="token-38-43" morph="none" pos="word" start_char="4092">de</TOKEN>
+<TOKEN end_char="4096" id="token-38-44" morph="none" pos="word" start_char="4095">la</TOKEN>
+<TOKEN end_char="4102" id="token-38-45" morph="none" pos="word" start_char="4098">gripe</TOKEN>
+<TOKEN end_char="4104" id="token-38-46" morph="none" pos="punct" start_char="4104">(</TOKEN>
+<TOKEN end_char="4113" id="token-38-47" morph="none" pos="word" start_char="4105">influenza</TOKEN>
+<TOKEN end_char="4115" id="token-38-48" morph="none" pos="punct" start_char="4114">),</TOKEN>
+<TOKEN end_char="4119" id="token-38-49" morph="none" pos="word" start_char="4117">que</TOKEN>
+<TOKEN end_char="4124" id="token-38-50" morph="none" pos="word" start_char="4121">mata</TOKEN>
+<TOKEN end_char="4127" id="token-38-51" morph="none" pos="word" start_char="4126">al</TOKEN>
+<TOKEN end_char="4135" id="token-38-52" morph="none" pos="word" start_char="4129">rededor</TOKEN>
+<TOKEN end_char="4138" id="token-38-53" morph="none" pos="word" start_char="4137">de</TOKEN>
+<TOKEN end_char="4144" id="token-38-54" morph="none" pos="word" start_char="4140">medio</TOKEN>
+<TOKEN end_char="4151" id="token-38-55" morph="none" pos="word" start_char="4146">millón</TOKEN>
+<TOKEN end_char="4154" id="token-38-56" morph="none" pos="word" start_char="4153">de</TOKEN>
+<TOKEN end_char="4163" id="token-38-57" morph="none" pos="word" start_char="4156">personas</TOKEN>
+<TOKEN end_char="4166" id="token-38-58" morph="none" pos="word" start_char="4165">al</TOKEN>
+<TOKEN end_char="4170" id="token-38-59" morph="none" pos="word" start_char="4168">año</TOKEN>
+<TOKEN end_char="4171" id="token-38-60" morph="none" pos="punct" start_char="4171">.</TOKEN>
+<TRANSLATED_TEXT>While the lethality may not be as high (perhaps as close as 1% of those who get sick in the end), it is already estimated to be about 4 or 5 times the lethality of the flu virus, which kills around half a million people a year.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="4328" id="segment-39" start_char="4173">
+<ORIGINAL_TEXT>Si añades a eso que este virus es entre 2 a 3 veces más contagioso, sin vacunas o personas con inmunidad, sin medidas de aislamiento, el número de gente que</ORIGINAL_TEXT>
+<TOKEN end_char="4174" id="token-39-0" morph="none" pos="word" start_char="4173">Si</TOKEN>
+<TOKEN end_char="4181" id="token-39-1" morph="none" pos="word" start_char="4176">añades</TOKEN>
+<TOKEN end_char="4183" id="token-39-2" morph="none" pos="word" start_char="4183">a</TOKEN>
+<TOKEN end_char="4187" id="token-39-3" morph="none" pos="word" start_char="4185">eso</TOKEN>
+<TOKEN end_char="4191" id="token-39-4" morph="none" pos="word" start_char="4189">que</TOKEN>
+<TOKEN end_char="4196" id="token-39-5" morph="none" pos="word" start_char="4193">este</TOKEN>
+<TOKEN end_char="4202" id="token-39-6" morph="none" pos="word" start_char="4198">virus</TOKEN>
+<TOKEN end_char="4205" id="token-39-7" morph="none" pos="word" start_char="4204">es</TOKEN>
+<TOKEN end_char="4211" id="token-39-8" morph="none" pos="word" start_char="4207">entre</TOKEN>
+<TOKEN end_char="4213" id="token-39-9" morph="none" pos="word" start_char="4213">2</TOKEN>
+<TOKEN end_char="4215" id="token-39-10" morph="none" pos="word" start_char="4215">a</TOKEN>
+<TOKEN end_char="4217" id="token-39-11" morph="none" pos="word" start_char="4217">3</TOKEN>
+<TOKEN end_char="4223" id="token-39-12" morph="none" pos="word" start_char="4219">veces</TOKEN>
+<TOKEN end_char="4227" id="token-39-13" morph="none" pos="word" start_char="4225">más</TOKEN>
+<TOKEN end_char="4238" id="token-39-14" morph="none" pos="word" start_char="4229">contagioso</TOKEN>
+<TOKEN end_char="4239" id="token-39-15" morph="none" pos="punct" start_char="4239">,</TOKEN>
+<TOKEN end_char="4243" id="token-39-16" morph="none" pos="word" start_char="4241">sin</TOKEN>
+<TOKEN end_char="4251" id="token-39-17" morph="none" pos="word" start_char="4245">vacunas</TOKEN>
+<TOKEN end_char="4253" id="token-39-18" morph="none" pos="word" start_char="4253">o</TOKEN>
+<TOKEN end_char="4262" id="token-39-19" morph="none" pos="word" start_char="4255">personas</TOKEN>
+<TOKEN end_char="4266" id="token-39-20" morph="none" pos="word" start_char="4264">con</TOKEN>
+<TOKEN end_char="4276" id="token-39-21" morph="none" pos="word" start_char="4268">inmunidad</TOKEN>
+<TOKEN end_char="4277" id="token-39-22" morph="none" pos="punct" start_char="4277">,</TOKEN>
+<TOKEN end_char="4281" id="token-39-23" morph="none" pos="word" start_char="4279">sin</TOKEN>
+<TOKEN end_char="4289" id="token-39-24" morph="none" pos="word" start_char="4283">medidas</TOKEN>
+<TOKEN end_char="4292" id="token-39-25" morph="none" pos="word" start_char="4291">de</TOKEN>
+<TOKEN end_char="4304" id="token-39-26" morph="none" pos="word" start_char="4294">aislamiento</TOKEN>
+<TOKEN end_char="4305" id="token-39-27" morph="none" pos="punct" start_char="4305">,</TOKEN>
+<TOKEN end_char="4308" id="token-39-28" morph="none" pos="word" start_char="4307">el</TOKEN>
+<TOKEN end_char="4315" id="token-39-29" morph="none" pos="word" start_char="4310">número</TOKEN>
+<TOKEN end_char="4318" id="token-39-30" morph="none" pos="word" start_char="4317">de</TOKEN>
+<TOKEN end_char="4324" id="token-39-31" morph="none" pos="word" start_char="4320">gente</TOKEN>
+<TOKEN end_char="4328" id="token-39-32" morph="none" pos="word" start_char="4326">que</TOKEN>
+<TRANSLATED_TEXT>If you add to that that this virus is 2 to 3 times more contagious, without vaccines or people with immunity, without isolation measures, the number of people who</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

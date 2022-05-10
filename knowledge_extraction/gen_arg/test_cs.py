@@ -155,3 +155,10 @@ if __name__ == "__main__":
     logging.debug("Training/evaluation parameters %s", args)
 
     run_model(args)
+
+# /opt/conda/envs/genie/bin/python genie/convert_gen_to_cs.py \
+#     --ontology_file=/gen_arg/event_role_AIDA_P2.json \
+#     --gen_file=/shared/nas/data/m1/manling2/aida_docker_test/uiuc_ie_pipeline_fine_grained/output/output_LDC2021E11/ru/gen_arg/ckpt/predictions.jsonl \
+#     --input_dir=/shared/nas/data/m1/manling2/aida_docker_test/uiuc_ie_pipeline_fine_grained/output/output_LDC2021E11/ru/pengfei \
+#     --merged_file=/shared/nas/data/m1/manling2/aida_docker_test/uiuc_ie_pipeline_fine_grained/output/output_LDC2021E11/ru/gen_arg/ckpt/merged.jsonl \
+#     --diff_file=/shared/nas/data/m1/manling2/aida_docker_test/uiuc_ie_pipeline_fine_grained/output/output_LDC2021E11/ru/gen_arg/ckpt/diff.json

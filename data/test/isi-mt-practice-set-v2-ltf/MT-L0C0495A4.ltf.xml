@@ -1,0 +1,1422 @@
+<LCTL_TEXT lang="spa">
+<DOC grammar="none" id="L0C0495A4" lang="spa" raw_text_char_length="7719" raw_text_md5="1f90f26b2cd662fbe7b3db1d112dd79e" tokenization="tokenization_parameters.v5.0">
+<TEXT>
+<SEG end_char="19" id="segment-0" start_char="1">
+<ORIGINAL_TEXT>"Терапия отчаяния".</ORIGINAL_TEXT>
+<TOKEN end_char="1" id="token-0-0" morph="none" pos="punct" start_char="1">"</TOKEN>
+<TOKEN end_char="8" id="token-0-1" morph="none" pos="word" start_char="2">Терапия</TOKEN>
+<TOKEN end_char="17" id="token-0-2" morph="none" pos="word" start_char="10">отчаяния</TOKEN>
+<TOKEN end_char="19" id="token-0-3" morph="none" pos="punct" start_char="18">".</TOKEN>
+<TRANSLATED_TEXT>Therapy of Despair.</TRANSLATED_TEXT><DETECTED_LANGUAGE>bg</DETECTED_LANGUAGE></SEG>
+<SEG end_char="87" id="segment-1" start_char="21">
+<ORIGINAL_TEXT>Поможет ли плазма крови излечившихся от коронавируса тяжелобольным?</ORIGINAL_TEXT>
+<TOKEN end_char="27" id="token-1-0" morph="none" pos="word" start_char="21">Поможет</TOKEN>
+<TOKEN end_char="30" id="token-1-1" morph="none" pos="word" start_char="29">ли</TOKEN>
+<TOKEN end_char="37" id="token-1-2" morph="none" pos="word" start_char="32">плазма</TOKEN>
+<TOKEN end_char="43" id="token-1-3" morph="none" pos="word" start_char="39">крови</TOKEN>
+<TOKEN end_char="56" id="token-1-4" morph="none" pos="word" start_char="45">излечившихся</TOKEN>
+<TOKEN end_char="59" id="token-1-5" morph="none" pos="word" start_char="58">от</TOKEN>
+<TOKEN end_char="72" id="token-1-6" morph="none" pos="word" start_char="61">коронавируса</TOKEN>
+<TOKEN end_char="86" id="token-1-7" morph="none" pos="word" start_char="74">тяжелобольным</TOKEN>
+<TOKEN end_char="87" id="token-1-8" morph="none" pos="punct" start_char="87">?</TOKEN>
+<TRANSLATED_TEXT>Does the blood plasma of those treated with coronavirus help the seriously ill?</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="298" id="segment-2" start_char="91">
+<ORIGINAL_TEXT>За неполные четыре месяца с начала эпидемии число подтвержденных случаев Covid-19 уже перевалило за 2,5 млн - а ни вакцины, ни лекарства от коронавирусной инфекции пока нет и в ближайшее время не предвидится.</ORIGINAL_TEXT>
+<TOKEN end_char="92" id="token-2-0" morph="none" pos="word" start_char="91">За</TOKEN>
+<TOKEN end_char="101" id="token-2-1" morph="none" pos="word" start_char="94">неполные</TOKEN>
+<TOKEN end_char="108" id="token-2-2" morph="none" pos="word" start_char="103">четыре</TOKEN>
+<TOKEN end_char="115" id="token-2-3" morph="none" pos="word" start_char="110">месяца</TOKEN>
+<TOKEN end_char="117" id="token-2-4" morph="none" pos="word" start_char="117">с</TOKEN>
+<TOKEN end_char="124" id="token-2-5" morph="none" pos="word" start_char="119">начала</TOKEN>
+<TOKEN end_char="133" id="token-2-6" morph="none" pos="word" start_char="126">эпидемии</TOKEN>
+<TOKEN end_char="139" id="token-2-7" morph="none" pos="word" start_char="135">число</TOKEN>
+<TOKEN end_char="154" id="token-2-8" morph="none" pos="word" start_char="141">подтвержденных</TOKEN>
+<TOKEN end_char="162" id="token-2-9" morph="none" pos="word" start_char="156">случаев</TOKEN>
+<TOKEN end_char="171" id="token-2-10" morph="none" pos="unknown" start_char="164">Covid-19</TOKEN>
+<TOKEN end_char="175" id="token-2-11" morph="none" pos="word" start_char="173">уже</TOKEN>
+<TOKEN end_char="186" id="token-2-12" morph="none" pos="word" start_char="177">перевалило</TOKEN>
+<TOKEN end_char="189" id="token-2-13" morph="none" pos="word" start_char="188">за</TOKEN>
+<TOKEN end_char="193" id="token-2-14" morph="none" pos="unknown" start_char="191">2,5</TOKEN>
+<TOKEN end_char="197" id="token-2-15" morph="none" pos="word" start_char="195">млн</TOKEN>
+<TOKEN end_char="199" id="token-2-16" morph="none" pos="punct" start_char="199">-</TOKEN>
+<TOKEN end_char="201" id="token-2-17" morph="none" pos="word" start_char="201">а</TOKEN>
+<TOKEN end_char="204" id="token-2-18" morph="none" pos="word" start_char="203">ни</TOKEN>
+<TOKEN end_char="212" id="token-2-19" morph="none" pos="word" start_char="206">вакцины</TOKEN>
+<TOKEN end_char="213" id="token-2-20" morph="none" pos="punct" start_char="213">,</TOKEN>
+<TOKEN end_char="216" id="token-2-21" morph="none" pos="word" start_char="215">ни</TOKEN>
+<TOKEN end_char="226" id="token-2-22" morph="none" pos="word" start_char="218">лекарства</TOKEN>
+<TOKEN end_char="229" id="token-2-23" morph="none" pos="word" start_char="228">от</TOKEN>
+<TOKEN end_char="244" id="token-2-24" morph="none" pos="word" start_char="231">коронавирусной</TOKEN>
+<TOKEN end_char="253" id="token-2-25" morph="none" pos="word" start_char="246">инфекции</TOKEN>
+<TOKEN end_char="258" id="token-2-26" morph="none" pos="word" start_char="255">пока</TOKEN>
+<TOKEN end_char="262" id="token-2-27" morph="none" pos="word" start_char="260">нет</TOKEN>
+<TOKEN end_char="264" id="token-2-28" morph="none" pos="word" start_char="264">и</TOKEN>
+<TOKEN end_char="266" id="token-2-29" morph="none" pos="word" start_char="266">в</TOKEN>
+<TOKEN end_char="276" id="token-2-30" morph="none" pos="word" start_char="268">ближайшее</TOKEN>
+<TOKEN end_char="282" id="token-2-31" morph="none" pos="word" start_char="278">время</TOKEN>
+<TOKEN end_char="285" id="token-2-32" morph="none" pos="word" start_char="284">не</TOKEN>
+<TOKEN end_char="297" id="token-2-33" morph="none" pos="word" start_char="287">предвидится</TOKEN>
+<TOKEN end_char="298" id="token-2-34" morph="none" pos="punct" start_char="298">.</TOKEN>
+<TRANSLATED_TEXT>In less than four months since the outbreak, the number of confirmed cases of Covid-19 has already exceeded 2.5 million, and neither vaccines nor medicines for coronavirus infection are available and are not expected in the near future.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="465" id="segment-3" start_char="301">
+<ORIGINAL_TEXT>В отсутствие эффективной терапии врачи по всему миру, в том числе и в России, пытаются спасти тяжелобольных, переливая им плазму крови от уже переболевших пациентов.</ORIGINAL_TEXT>
+<TOKEN end_char="301" id="token-3-0" morph="none" pos="word" start_char="301">В</TOKEN>
+<TOKEN end_char="312" id="token-3-1" morph="none" pos="word" start_char="303">отсутствие</TOKEN>
+<TOKEN end_char="324" id="token-3-2" morph="none" pos="word" start_char="314">эффективной</TOKEN>
+<TOKEN end_char="332" id="token-3-3" morph="none" pos="word" start_char="326">терапии</TOKEN>
+<TOKEN end_char="338" id="token-3-4" morph="none" pos="word" start_char="334">врачи</TOKEN>
+<TOKEN end_char="341" id="token-3-5" morph="none" pos="word" start_char="340">по</TOKEN>
+<TOKEN end_char="347" id="token-3-6" morph="none" pos="word" start_char="343">всему</TOKEN>
+<TOKEN end_char="352" id="token-3-7" morph="none" pos="word" start_char="349">миру</TOKEN>
+<TOKEN end_char="353" id="token-3-8" morph="none" pos="punct" start_char="353">,</TOKEN>
+<TOKEN end_char="355" id="token-3-9" morph="none" pos="word" start_char="355">в</TOKEN>
+<TOKEN end_char="359" id="token-3-10" morph="none" pos="word" start_char="357">том</TOKEN>
+<TOKEN end_char="365" id="token-3-11" morph="none" pos="word" start_char="361">числе</TOKEN>
+<TOKEN end_char="367" id="token-3-12" morph="none" pos="word" start_char="367">и</TOKEN>
+<TOKEN end_char="369" id="token-3-13" morph="none" pos="word" start_char="369">в</TOKEN>
+<TOKEN end_char="376" id="token-3-14" morph="none" pos="word" start_char="371">России</TOKEN>
+<TOKEN end_char="377" id="token-3-15" morph="none" pos="punct" start_char="377">,</TOKEN>
+<TOKEN end_char="386" id="token-3-16" morph="none" pos="word" start_char="379">пытаются</TOKEN>
+<TOKEN end_char="393" id="token-3-17" morph="none" pos="word" start_char="388">спасти</TOKEN>
+<TOKEN end_char="407" id="token-3-18" morph="none" pos="word" start_char="395">тяжелобольных</TOKEN>
+<TOKEN end_char="408" id="token-3-19" morph="none" pos="punct" start_char="408">,</TOKEN>
+<TOKEN end_char="418" id="token-3-20" morph="none" pos="word" start_char="410">переливая</TOKEN>
+<TOKEN end_char="421" id="token-3-21" morph="none" pos="word" start_char="420">им</TOKEN>
+<TOKEN end_char="428" id="token-3-22" morph="none" pos="word" start_char="423">плазму</TOKEN>
+<TOKEN end_char="434" id="token-3-23" morph="none" pos="word" start_char="430">крови</TOKEN>
+<TOKEN end_char="437" id="token-3-24" morph="none" pos="word" start_char="436">от</TOKEN>
+<TOKEN end_char="441" id="token-3-25" morph="none" pos="word" start_char="439">уже</TOKEN>
+<TOKEN end_char="454" id="token-3-26" morph="none" pos="word" start_char="443">переболевших</TOKEN>
+<TOKEN end_char="464" id="token-3-27" morph="none" pos="word" start_char="456">пациентов</TOKEN>
+<TOKEN end_char="465" id="token-3-28" morph="none" pos="punct" start_char="465">.</TOKEN>
+<TRANSLATED_TEXT>In the absence of effective therapy, doctors around the world, including in Russia, are trying to save the seriously ill by transfusing blood plasma from patients who are already sick.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="527" id="segment-4" start_char="467">
+<ORIGINAL_TEXT>В Москве для таких доноров даже ввели дополнительные выплаты.</ORIGINAL_TEXT>
+<TOKEN end_char="467" id="token-4-0" morph="none" pos="word" start_char="467">В</TOKEN>
+<TOKEN end_char="474" id="token-4-1" morph="none" pos="word" start_char="469">Москве</TOKEN>
+<TOKEN end_char="478" id="token-4-2" morph="none" pos="word" start_char="476">для</TOKEN>
+<TOKEN end_char="484" id="token-4-3" morph="none" pos="word" start_char="480">таких</TOKEN>
+<TOKEN end_char="492" id="token-4-4" morph="none" pos="word" start_char="486">доноров</TOKEN>
+<TOKEN end_char="497" id="token-4-5" morph="none" pos="word" start_char="494">даже</TOKEN>
+<TOKEN end_char="503" id="token-4-6" morph="none" pos="word" start_char="499">ввели</TOKEN>
+<TOKEN end_char="518" id="token-4-7" morph="none" pos="word" start_char="505">дополнительные</TOKEN>
+<TOKEN end_char="526" id="token-4-8" morph="none" pos="word" start_char="520">выплаты</TOKEN>
+<TOKEN end_char="527" id="token-4-9" morph="none" pos="punct" start_char="527">.</TOKEN>
+<TRANSLATED_TEXT>In Moscow, additional payments were even introduced for such donors.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="722" id="segment-5" start_char="530">
+<ORIGINAL_TEXT>При этом эффективность такого лечения не доказана, клинические испытания терапии только начались, а эксперты-медики дают иногда напрямую противоречащие друг другу рекомендации по ее применению.</ORIGINAL_TEXT>
+<TOKEN end_char="532" id="token-5-0" morph="none" pos="word" start_char="530">При</TOKEN>
+<TOKEN end_char="537" id="token-5-1" morph="none" pos="word" start_char="534">этом</TOKEN>
+<TOKEN end_char="551" id="token-5-2" morph="none" pos="word" start_char="539">эффективность</TOKEN>
+<TOKEN end_char="558" id="token-5-3" morph="none" pos="word" start_char="553">такого</TOKEN>
+<TOKEN end_char="566" id="token-5-4" morph="none" pos="word" start_char="560">лечения</TOKEN>
+<TOKEN end_char="569" id="token-5-5" morph="none" pos="word" start_char="568">не</TOKEN>
+<TOKEN end_char="578" id="token-5-6" morph="none" pos="word" start_char="571">доказана</TOKEN>
+<TOKEN end_char="579" id="token-5-7" morph="none" pos="punct" start_char="579">,</TOKEN>
+<TOKEN end_char="591" id="token-5-8" morph="none" pos="word" start_char="581">клинические</TOKEN>
+<TOKEN end_char="601" id="token-5-9" morph="none" pos="word" start_char="593">испытания</TOKEN>
+<TOKEN end_char="609" id="token-5-10" morph="none" pos="word" start_char="603">терапии</TOKEN>
+<TOKEN end_char="616" id="token-5-11" morph="none" pos="word" start_char="611">только</TOKEN>
+<TOKEN end_char="625" id="token-5-12" morph="none" pos="word" start_char="618">начались</TOKEN>
+<TOKEN end_char="626" id="token-5-13" morph="none" pos="punct" start_char="626">,</TOKEN>
+<TOKEN end_char="628" id="token-5-14" morph="none" pos="word" start_char="628">а</TOKEN>
+<TOKEN end_char="644" id="token-5-15" morph="none" pos="unknown" start_char="630">эксперты-медики</TOKEN>
+<TOKEN end_char="649" id="token-5-16" morph="none" pos="word" start_char="646">дают</TOKEN>
+<TOKEN end_char="656" id="token-5-17" morph="none" pos="word" start_char="651">иногда</TOKEN>
+<TOKEN end_char="665" id="token-5-18" morph="none" pos="word" start_char="658">напрямую</TOKEN>
+<TOKEN end_char="680" id="token-5-19" morph="none" pos="word" start_char="667">противоречащие</TOKEN>
+<TOKEN end_char="685" id="token-5-20" morph="none" pos="word" start_char="682">друг</TOKEN>
+<TOKEN end_char="691" id="token-5-21" morph="none" pos="word" start_char="687">другу</TOKEN>
+<TOKEN end_char="704" id="token-5-22" morph="none" pos="word" start_char="693">рекомендации</TOKEN>
+<TOKEN end_char="707" id="token-5-23" morph="none" pos="word" start_char="706">по</TOKEN>
+<TOKEN end_char="710" id="token-5-24" morph="none" pos="word" start_char="709">ее</TOKEN>
+<TOKEN end_char="721" id="token-5-25" morph="none" pos="word" start_char="712">применению</TOKEN>
+<TOKEN end_char="722" id="token-5-26" morph="none" pos="punct" start_char="722">.</TOKEN>
+<TRANSLATED_TEXT>However, the efficacy of this treatment has not been proven, clinical trials of the therapy have only just begun, and medical experts sometimes make conflicting recommendations for its application.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="922" id="segment-6" start_char="725">
+<ORIGINAL_TEXT>Русская служба Би-би-си разбирается, почему врачи идут на риск, прибегая к экспериментальной терапии, насколько оправданы такие эксперименты и может ли переливание крови помочь в борьбе с пандемией.</ORIGINAL_TEXT>
+<TOKEN end_char="731" id="token-6-0" morph="none" pos="word" start_char="725">Русская</TOKEN>
+<TOKEN end_char="738" id="token-6-1" morph="none" pos="word" start_char="733">служба</TOKEN>
+<TOKEN end_char="747" id="token-6-2" morph="none" pos="unknown" start_char="740">Би-би-си</TOKEN>
+<TOKEN end_char="759" id="token-6-3" morph="none" pos="word" start_char="749">разбирается</TOKEN>
+<TOKEN end_char="760" id="token-6-4" morph="none" pos="punct" start_char="760">,</TOKEN>
+<TOKEN end_char="767" id="token-6-5" morph="none" pos="word" start_char="762">почему</TOKEN>
+<TOKEN end_char="773" id="token-6-6" morph="none" pos="word" start_char="769">врачи</TOKEN>
+<TOKEN end_char="778" id="token-6-7" morph="none" pos="word" start_char="775">идут</TOKEN>
+<TOKEN end_char="781" id="token-6-8" morph="none" pos="word" start_char="780">на</TOKEN>
+<TOKEN end_char="786" id="token-6-9" morph="none" pos="word" start_char="783">риск</TOKEN>
+<TOKEN end_char="787" id="token-6-10" morph="none" pos="punct" start_char="787">,</TOKEN>
+<TOKEN end_char="796" id="token-6-11" morph="none" pos="word" start_char="789">прибегая</TOKEN>
+<TOKEN end_char="798" id="token-6-12" morph="none" pos="word" start_char="798">к</TOKEN>
+<TOKEN end_char="816" id="token-6-13" morph="none" pos="word" start_char="800">экспериментальной</TOKEN>
+<TOKEN end_char="824" id="token-6-14" morph="none" pos="word" start_char="818">терапии</TOKEN>
+<TOKEN end_char="825" id="token-6-15" morph="none" pos="punct" start_char="825">,</TOKEN>
+<TOKEN end_char="835" id="token-6-16" morph="none" pos="word" start_char="827">насколько</TOKEN>
+<TOKEN end_char="845" id="token-6-17" morph="none" pos="word" start_char="837">оправданы</TOKEN>
+<TOKEN end_char="851" id="token-6-18" morph="none" pos="word" start_char="847">такие</TOKEN>
+<TOKEN end_char="864" id="token-6-19" morph="none" pos="word" start_char="853">эксперименты</TOKEN>
+<TOKEN end_char="866" id="token-6-20" morph="none" pos="word" start_char="866">и</TOKEN>
+<TOKEN end_char="872" id="token-6-21" morph="none" pos="word" start_char="868">может</TOKEN>
+<TOKEN end_char="875" id="token-6-22" morph="none" pos="word" start_char="874">ли</TOKEN>
+<TOKEN end_char="887" id="token-6-23" morph="none" pos="word" start_char="877">переливание</TOKEN>
+<TOKEN end_char="893" id="token-6-24" morph="none" pos="word" start_char="889">крови</TOKEN>
+<TOKEN end_char="900" id="token-6-25" morph="none" pos="word" start_char="895">помочь</TOKEN>
+<TOKEN end_char="902" id="token-6-26" morph="none" pos="word" start_char="902">в</TOKEN>
+<TOKEN end_char="909" id="token-6-27" morph="none" pos="word" start_char="904">борьбе</TOKEN>
+<TOKEN end_char="911" id="token-6-28" morph="none" pos="word" start_char="911">с</TOKEN>
+<TOKEN end_char="921" id="token-6-29" morph="none" pos="word" start_char="913">пандемией</TOKEN>
+<TOKEN end_char="922" id="token-6-30" morph="none" pos="punct" start_char="922">.</TOKEN>
+<TRANSLATED_TEXT>The BBC's Russian service examines why doctors take risks by resorting to experimental drugs, how justified such experiments are, and whether blood transfusion can help combat the pandemic.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="975" id="segment-7" start_char="925">
+<ORIGINAL_TEXT>В теории лечение плазмой выглядит просто и логично.</ORIGINAL_TEXT>
+<TOKEN end_char="925" id="token-7-0" morph="none" pos="word" start_char="925">В</TOKEN>
+<TOKEN end_char="932" id="token-7-1" morph="none" pos="word" start_char="927">теории</TOKEN>
+<TOKEN end_char="940" id="token-7-2" morph="none" pos="word" start_char="934">лечение</TOKEN>
+<TOKEN end_char="948" id="token-7-3" morph="none" pos="word" start_char="942">плазмой</TOKEN>
+<TOKEN end_char="957" id="token-7-4" morph="none" pos="word" start_char="950">выглядит</TOKEN>
+<TOKEN end_char="964" id="token-7-5" morph="none" pos="word" start_char="959">просто</TOKEN>
+<TOKEN end_char="966" id="token-7-6" morph="none" pos="word" start_char="966">и</TOKEN>
+<TOKEN end_char="974" id="token-7-7" morph="none" pos="word" start_char="968">логично</TOKEN>
+<TOKEN end_char="975" id="token-7-8" morph="none" pos="punct" start_char="975">.</TOKEN>
+<TRANSLATED_TEXT>In theory, plasma treatment seems simple and logical.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1147" id="segment-8" start_char="977">
+<ORIGINAL_TEXT>Излечившиеся пациенты победили болезнь именно потому, что их иммунная система научилась бороться с инфекцией, выработав антитела - специальные белки, нейтрализующие вирус.</ORIGINAL_TEXT>
+<TOKEN end_char="988" id="token-8-0" morph="none" pos="word" start_char="977">Излечившиеся</TOKEN>
+<TOKEN end_char="997" id="token-8-1" morph="none" pos="word" start_char="990">пациенты</TOKEN>
+<TOKEN end_char="1006" id="token-8-2" morph="none" pos="word" start_char="999">победили</TOKEN>
+<TOKEN end_char="1014" id="token-8-3" morph="none" pos="word" start_char="1008">болезнь</TOKEN>
+<TOKEN end_char="1021" id="token-8-4" morph="none" pos="word" start_char="1016">именно</TOKEN>
+<TOKEN end_char="1028" id="token-8-5" morph="none" pos="word" start_char="1023">потому</TOKEN>
+<TOKEN end_char="1029" id="token-8-6" morph="none" pos="punct" start_char="1029">,</TOKEN>
+<TOKEN end_char="1033" id="token-8-7" morph="none" pos="word" start_char="1031">что</TOKEN>
+<TOKEN end_char="1036" id="token-8-8" morph="none" pos="word" start_char="1035">их</TOKEN>
+<TOKEN end_char="1045" id="token-8-9" morph="none" pos="word" start_char="1038">иммунная</TOKEN>
+<TOKEN end_char="1053" id="token-8-10" morph="none" pos="word" start_char="1047">система</TOKEN>
+<TOKEN end_char="1063" id="token-8-11" morph="none" pos="word" start_char="1055">научилась</TOKEN>
+<TOKEN end_char="1072" id="token-8-12" morph="none" pos="word" start_char="1065">бороться</TOKEN>
+<TOKEN end_char="1074" id="token-8-13" morph="none" pos="word" start_char="1074">с</TOKEN>
+<TOKEN end_char="1084" id="token-8-14" morph="none" pos="word" start_char="1076">инфекцией</TOKEN>
+<TOKEN end_char="1085" id="token-8-15" morph="none" pos="punct" start_char="1085">,</TOKEN>
+<TOKEN end_char="1095" id="token-8-16" morph="none" pos="word" start_char="1087">выработав</TOKEN>
+<TOKEN end_char="1104" id="token-8-17" morph="none" pos="word" start_char="1097">антитела</TOKEN>
+<TOKEN end_char="1106" id="token-8-18" morph="none" pos="punct" start_char="1106">-</TOKEN>
+<TOKEN end_char="1118" id="token-8-19" morph="none" pos="word" start_char="1108">специальные</TOKEN>
+<TOKEN end_char="1124" id="token-8-20" morph="none" pos="word" start_char="1120">белки</TOKEN>
+<TOKEN end_char="1125" id="token-8-21" morph="none" pos="punct" start_char="1125">,</TOKEN>
+<TOKEN end_char="1140" id="token-8-22" morph="none" pos="word" start_char="1127">нейтрализующие</TOKEN>
+<TOKEN end_char="1146" id="token-8-23" morph="none" pos="word" start_char="1142">вирус</TOKEN>
+<TOKEN end_char="1147" id="token-8-24" morph="none" pos="punct" start_char="1147">.</TOKEN>
+<TRANSLATED_TEXT>The cured patients won the disease precisely because their immune system learned to fight infection by developing antibodies - special proteins that neutralize the virus.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1244" id="segment-9" start_char="1150">
+<ORIGINAL_TEXT>Эти белки (иммуноглобулины) находятся в крови, а точнее, растворены в ее жидкой части - плазме.</ORIGINAL_TEXT>
+<TOKEN end_char="1152" id="token-9-0" morph="none" pos="word" start_char="1150">Эти</TOKEN>
+<TOKEN end_char="1158" id="token-9-1" morph="none" pos="word" start_char="1154">белки</TOKEN>
+<TOKEN end_char="1160" id="token-9-2" morph="none" pos="punct" start_char="1160">(</TOKEN>
+<TOKEN end_char="1175" id="token-9-3" morph="none" pos="word" start_char="1161">иммуноглобулины</TOKEN>
+<TOKEN end_char="1176" id="token-9-4" morph="none" pos="punct" start_char="1176">)</TOKEN>
+<TOKEN end_char="1186" id="token-9-5" morph="none" pos="word" start_char="1178">находятся</TOKEN>
+<TOKEN end_char="1188" id="token-9-6" morph="none" pos="word" start_char="1188">в</TOKEN>
+<TOKEN end_char="1194" id="token-9-7" morph="none" pos="word" start_char="1190">крови</TOKEN>
+<TOKEN end_char="1195" id="token-9-8" morph="none" pos="punct" start_char="1195">,</TOKEN>
+<TOKEN end_char="1197" id="token-9-9" morph="none" pos="word" start_char="1197">а</TOKEN>
+<TOKEN end_char="1204" id="token-9-10" morph="none" pos="word" start_char="1199">точнее</TOKEN>
+<TOKEN end_char="1205" id="token-9-11" morph="none" pos="punct" start_char="1205">,</TOKEN>
+<TOKEN end_char="1216" id="token-9-12" morph="none" pos="word" start_char="1207">растворены</TOKEN>
+<TOKEN end_char="1218" id="token-9-13" morph="none" pos="word" start_char="1218">в</TOKEN>
+<TOKEN end_char="1221" id="token-9-14" morph="none" pos="word" start_char="1220">ее</TOKEN>
+<TOKEN end_char="1228" id="token-9-15" morph="none" pos="word" start_char="1223">жидкой</TOKEN>
+<TOKEN end_char="1234" id="token-9-16" morph="none" pos="word" start_char="1230">части</TOKEN>
+<TOKEN end_char="1236" id="token-9-17" morph="none" pos="punct" start_char="1236">-</TOKEN>
+<TOKEN end_char="1243" id="token-9-18" morph="none" pos="word" start_char="1238">плазме</TOKEN>
+<TOKEN end_char="1244" id="token-9-19" morph="none" pos="punct" start_char="1244">.</TOKEN>
+<TRANSLATED_TEXT>These proteins (immunoglobulins) are found in the blood, more precisely, dissolved in its liquid part - plasma.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1390" id="segment-10" start_char="1246">
+<ORIGINAL_TEXT>И в теории, если забрать их у здорового донора и ввести больному пациенту, они должны точно так же бороться с вирусом в организме нового хозяина.</ORIGINAL_TEXT>
+<TOKEN end_char="1246" id="token-10-0" morph="none" pos="word" start_char="1246">И</TOKEN>
+<TOKEN end_char="1248" id="token-10-1" morph="none" pos="word" start_char="1248">в</TOKEN>
+<TOKEN end_char="1255" id="token-10-2" morph="none" pos="word" start_char="1250">теории</TOKEN>
+<TOKEN end_char="1256" id="token-10-3" morph="none" pos="punct" start_char="1256">,</TOKEN>
+<TOKEN end_char="1261" id="token-10-4" morph="none" pos="word" start_char="1258">если</TOKEN>
+<TOKEN end_char="1269" id="token-10-5" morph="none" pos="word" start_char="1263">забрать</TOKEN>
+<TOKEN end_char="1272" id="token-10-6" morph="none" pos="word" start_char="1271">их</TOKEN>
+<TOKEN end_char="1274" id="token-10-7" morph="none" pos="word" start_char="1274">у</TOKEN>
+<TOKEN end_char="1284" id="token-10-8" morph="none" pos="word" start_char="1276">здорового</TOKEN>
+<TOKEN end_char="1291" id="token-10-9" morph="none" pos="word" start_char="1286">донора</TOKEN>
+<TOKEN end_char="1293" id="token-10-10" morph="none" pos="word" start_char="1293">и</TOKEN>
+<TOKEN end_char="1300" id="token-10-11" morph="none" pos="word" start_char="1295">ввести</TOKEN>
+<TOKEN end_char="1309" id="token-10-12" morph="none" pos="word" start_char="1302">больному</TOKEN>
+<TOKEN end_char="1318" id="token-10-13" morph="none" pos="word" start_char="1311">пациенту</TOKEN>
+<TOKEN end_char="1319" id="token-10-14" morph="none" pos="punct" start_char="1319">,</TOKEN>
+<TOKEN end_char="1323" id="token-10-15" morph="none" pos="word" start_char="1321">они</TOKEN>
+<TOKEN end_char="1330" id="token-10-16" morph="none" pos="word" start_char="1325">должны</TOKEN>
+<TOKEN end_char="1336" id="token-10-17" morph="none" pos="word" start_char="1332">точно</TOKEN>
+<TOKEN end_char="1340" id="token-10-18" morph="none" pos="word" start_char="1338">так</TOKEN>
+<TOKEN end_char="1343" id="token-10-19" morph="none" pos="word" start_char="1342">же</TOKEN>
+<TOKEN end_char="1352" id="token-10-20" morph="none" pos="word" start_char="1345">бороться</TOKEN>
+<TOKEN end_char="1354" id="token-10-21" morph="none" pos="word" start_char="1354">с</TOKEN>
+<TOKEN end_char="1362" id="token-10-22" morph="none" pos="word" start_char="1356">вирусом</TOKEN>
+<TOKEN end_char="1364" id="token-10-23" morph="none" pos="word" start_char="1364">в</TOKEN>
+<TOKEN end_char="1374" id="token-10-24" morph="none" pos="word" start_char="1366">организме</TOKEN>
+<TOKEN end_char="1381" id="token-10-25" morph="none" pos="word" start_char="1376">нового</TOKEN>
+<TOKEN end_char="1389" id="token-10-26" morph="none" pos="word" start_char="1383">хозяина</TOKEN>
+<TOKEN end_char="1390" id="token-10-27" morph="none" pos="punct" start_char="1390">.</TOKEN>
+<TRANSLATED_TEXT>And in theory, if you take them from a healthy donor and you introduce them to a sick patient, they have to fight the virus in the new host in the same way.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1477" id="segment-11" start_char="1393">
+<ORIGINAL_TEXT>Метод этот давно и широко используются в медицине для профилактики вирусных инфекций.</ORIGINAL_TEXT>
+<TOKEN end_char="1397" id="token-11-0" morph="none" pos="word" start_char="1393">Метод</TOKEN>
+<TOKEN end_char="1402" id="token-11-1" morph="none" pos="word" start_char="1399">этот</TOKEN>
+<TOKEN end_char="1408" id="token-11-2" morph="none" pos="word" start_char="1404">давно</TOKEN>
+<TOKEN end_char="1410" id="token-11-3" morph="none" pos="word" start_char="1410">и</TOKEN>
+<TOKEN end_char="1417" id="token-11-4" morph="none" pos="word" start_char="1412">широко</TOKEN>
+<TOKEN end_char="1430" id="token-11-5" morph="none" pos="word" start_char="1419">используются</TOKEN>
+<TOKEN end_char="1432" id="token-11-6" morph="none" pos="word" start_char="1432">в</TOKEN>
+<TOKEN end_char="1441" id="token-11-7" morph="none" pos="word" start_char="1434">медицине</TOKEN>
+<TOKEN end_char="1445" id="token-11-8" morph="none" pos="word" start_char="1443">для</TOKEN>
+<TOKEN end_char="1458" id="token-11-9" morph="none" pos="word" start_char="1447">профилактики</TOKEN>
+<TOKEN end_char="1467" id="token-11-10" morph="none" pos="word" start_char="1460">вирусных</TOKEN>
+<TOKEN end_char="1476" id="token-11-11" morph="none" pos="word" start_char="1469">инфекций</TOKEN>
+<TOKEN end_char="1477" id="token-11-12" morph="none" pos="punct" start_char="1477">.</TOKEN>
+<TRANSLATED_TEXT>This method has long been widely used in medicine to prevent viral infections.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1575" id="segment-12" start_char="1479">
+<ORIGINAL_TEXT>Пожалуй, самый известный пример - прививки от бешенства, которые делают при укусе диких животных.</ORIGINAL_TEXT>
+<TOKEN end_char="1485" id="token-12-0" morph="none" pos="word" start_char="1479">Пожалуй</TOKEN>
+<TOKEN end_char="1486" id="token-12-1" morph="none" pos="punct" start_char="1486">,</TOKEN>
+<TOKEN end_char="1492" id="token-12-2" morph="none" pos="word" start_char="1488">самый</TOKEN>
+<TOKEN end_char="1502" id="token-12-3" morph="none" pos="word" start_char="1494">известный</TOKEN>
+<TOKEN end_char="1509" id="token-12-4" morph="none" pos="word" start_char="1504">пример</TOKEN>
+<TOKEN end_char="1511" id="token-12-5" morph="none" pos="punct" start_char="1511">-</TOKEN>
+<TOKEN end_char="1520" id="token-12-6" morph="none" pos="word" start_char="1513">прививки</TOKEN>
+<TOKEN end_char="1523" id="token-12-7" morph="none" pos="word" start_char="1522">от</TOKEN>
+<TOKEN end_char="1533" id="token-12-8" morph="none" pos="word" start_char="1525">бешенства</TOKEN>
+<TOKEN end_char="1534" id="token-12-9" morph="none" pos="punct" start_char="1534">,</TOKEN>
+<TOKEN end_char="1542" id="token-12-10" morph="none" pos="word" start_char="1536">которые</TOKEN>
+<TOKEN end_char="1549" id="token-12-11" morph="none" pos="word" start_char="1544">делают</TOKEN>
+<TOKEN end_char="1553" id="token-12-12" morph="none" pos="word" start_char="1551">при</TOKEN>
+<TOKEN end_char="1559" id="token-12-13" morph="none" pos="word" start_char="1555">укусе</TOKEN>
+<TOKEN end_char="1565" id="token-12-14" morph="none" pos="word" start_char="1561">диких</TOKEN>
+<TOKEN end_char="1574" id="token-12-15" morph="none" pos="word" start_char="1567">животных</TOKEN>
+<TOKEN end_char="1575" id="token-12-16" morph="none" pos="punct" start_char="1575">.</TOKEN>
+<TRANSLATED_TEXT>Perhaps the best-known example is the rabies vaccine that is used to kill wild animals.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1772" id="segment-13" start_char="1577">
+<ORIGINAL_TEXT>Укушенному вводят иммунную сыворотку крови лошади, антитела которой нейтрализуют вирус и не позволяют развиться смертельной болезни (вероятность летального исхода в случае заражения - почти 100%).</ORIGINAL_TEXT>
+<TOKEN end_char="1586" id="token-13-0" morph="none" pos="word" start_char="1577">Укушенному</TOKEN>
+<TOKEN end_char="1593" id="token-13-1" morph="none" pos="word" start_char="1588">вводят</TOKEN>
+<TOKEN end_char="1602" id="token-13-2" morph="none" pos="word" start_char="1595">иммунную</TOKEN>
+<TOKEN end_char="1612" id="token-13-3" morph="none" pos="word" start_char="1604">сыворотку</TOKEN>
+<TOKEN end_char="1618" id="token-13-4" morph="none" pos="word" start_char="1614">крови</TOKEN>
+<TOKEN end_char="1625" id="token-13-5" morph="none" pos="word" start_char="1620">лошади</TOKEN>
+<TOKEN end_char="1626" id="token-13-6" morph="none" pos="punct" start_char="1626">,</TOKEN>
+<TOKEN end_char="1635" id="token-13-7" morph="none" pos="word" start_char="1628">антитела</TOKEN>
+<TOKEN end_char="1643" id="token-13-8" morph="none" pos="word" start_char="1637">которой</TOKEN>
+<TOKEN end_char="1656" id="token-13-9" morph="none" pos="word" start_char="1645">нейтрализуют</TOKEN>
+<TOKEN end_char="1662" id="token-13-10" morph="none" pos="word" start_char="1658">вирус</TOKEN>
+<TOKEN end_char="1664" id="token-13-11" morph="none" pos="word" start_char="1664">и</TOKEN>
+<TOKEN end_char="1667" id="token-13-12" morph="none" pos="word" start_char="1666">не</TOKEN>
+<TOKEN end_char="1677" id="token-13-13" morph="none" pos="word" start_char="1669">позволяют</TOKEN>
+<TOKEN end_char="1687" id="token-13-14" morph="none" pos="word" start_char="1679">развиться</TOKEN>
+<TOKEN end_char="1699" id="token-13-15" morph="none" pos="word" start_char="1689">смертельной</TOKEN>
+<TOKEN end_char="1707" id="token-13-16" morph="none" pos="word" start_char="1701">болезни</TOKEN>
+<TOKEN end_char="1709" id="token-13-17" morph="none" pos="punct" start_char="1709">(</TOKEN>
+<TOKEN end_char="1720" id="token-13-18" morph="none" pos="word" start_char="1710">вероятность</TOKEN>
+<TOKEN end_char="1731" id="token-13-19" morph="none" pos="word" start_char="1722">летального</TOKEN>
+<TOKEN end_char="1738" id="token-13-20" morph="none" pos="word" start_char="1733">исхода</TOKEN>
+<TOKEN end_char="1740" id="token-13-21" morph="none" pos="word" start_char="1740">в</TOKEN>
+<TOKEN end_char="1747" id="token-13-22" morph="none" pos="word" start_char="1742">случае</TOKEN>
+<TOKEN end_char="1757" id="token-13-23" morph="none" pos="word" start_char="1749">заражения</TOKEN>
+<TOKEN end_char="1759" id="token-13-24" morph="none" pos="punct" start_char="1759">-</TOKEN>
+<TOKEN end_char="1765" id="token-13-25" morph="none" pos="word" start_char="1761">почти</TOKEN>
+<TOKEN end_char="1769" id="token-13-26" morph="none" pos="word" start_char="1767">100</TOKEN>
+<TOKEN end_char="1772" id="token-13-27" morph="none" pos="punct" start_char="1770">%).</TOKEN>
+<TRANSLATED_TEXT>The virus is neutralized by antibodies to the horse's blood, which prevent the development of a fatal disease (almost 100% chance of death if infected).</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1860" id="segment-14" start_char="1775">
+<ORIGINAL_TEXT>Перспектива столь же успешного лечения коронавирусной инфекции звучит очень заманчиво.</ORIGINAL_TEXT>
+<TOKEN end_char="1785" id="token-14-0" morph="none" pos="word" start_char="1775">Перспектива</TOKEN>
+<TOKEN end_char="1791" id="token-14-1" morph="none" pos="word" start_char="1787">столь</TOKEN>
+<TOKEN end_char="1794" id="token-14-2" morph="none" pos="word" start_char="1793">же</TOKEN>
+<TOKEN end_char="1804" id="token-14-3" morph="none" pos="word" start_char="1796">успешного</TOKEN>
+<TOKEN end_char="1812" id="token-14-4" morph="none" pos="word" start_char="1806">лечения</TOKEN>
+<TOKEN end_char="1827" id="token-14-5" morph="none" pos="word" start_char="1814">коронавирусной</TOKEN>
+<TOKEN end_char="1836" id="token-14-6" morph="none" pos="word" start_char="1829">инфекции</TOKEN>
+<TOKEN end_char="1843" id="token-14-7" morph="none" pos="word" start_char="1838">звучит</TOKEN>
+<TOKEN end_char="1849" id="token-14-8" morph="none" pos="word" start_char="1845">очень</TOKEN>
+<TOKEN end_char="1859" id="token-14-9" morph="none" pos="word" start_char="1851">заманчиво</TOKEN>
+<TOKEN end_char="1860" id="token-14-10" morph="none" pos="punct" start_char="1860">.</TOKEN>
+<TRANSLATED_TEXT>The prospect of equally successful treatment of coronavirus infection sounds very tempting.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2085" id="segment-15" start_char="1862">
+<ORIGINAL_TEXT>Способ это относительно недорогой, да и в донорах недостатка в теории быть не должно: из больниц по всему миру выписали уже в общей сложности почти 700 тысяч человек, достоверно переболевших Covid-19 (в России - около 4000).</ORIGINAL_TEXT>
+<TOKEN end_char="1867" id="token-15-0" morph="none" pos="word" start_char="1862">Способ</TOKEN>
+<TOKEN end_char="1871" id="token-15-1" morph="none" pos="word" start_char="1869">это</TOKEN>
+<TOKEN end_char="1884" id="token-15-2" morph="none" pos="word" start_char="1873">относительно</TOKEN>
+<TOKEN end_char="1894" id="token-15-3" morph="none" pos="word" start_char="1886">недорогой</TOKEN>
+<TOKEN end_char="1895" id="token-15-4" morph="none" pos="punct" start_char="1895">,</TOKEN>
+<TOKEN end_char="1898" id="token-15-5" morph="none" pos="word" start_char="1897">да</TOKEN>
+<TOKEN end_char="1900" id="token-15-6" morph="none" pos="word" start_char="1900">и</TOKEN>
+<TOKEN end_char="1902" id="token-15-7" morph="none" pos="word" start_char="1902">в</TOKEN>
+<TOKEN end_char="1910" id="token-15-8" morph="none" pos="word" start_char="1904">донорах</TOKEN>
+<TOKEN end_char="1921" id="token-15-9" morph="none" pos="word" start_char="1912">недостатка</TOKEN>
+<TOKEN end_char="1923" id="token-15-10" morph="none" pos="word" start_char="1923">в</TOKEN>
+<TOKEN end_char="1930" id="token-15-11" morph="none" pos="word" start_char="1925">теории</TOKEN>
+<TOKEN end_char="1935" id="token-15-12" morph="none" pos="word" start_char="1932">быть</TOKEN>
+<TOKEN end_char="1938" id="token-15-13" morph="none" pos="word" start_char="1937">не</TOKEN>
+<TOKEN end_char="1945" id="token-15-14" morph="none" pos="word" start_char="1940">должно</TOKEN>
+<TOKEN end_char="1946" id="token-15-15" morph="none" pos="punct" start_char="1946">:</TOKEN>
+<TOKEN end_char="1949" id="token-15-16" morph="none" pos="word" start_char="1948">из</TOKEN>
+<TOKEN end_char="1957" id="token-15-17" morph="none" pos="word" start_char="1951">больниц</TOKEN>
+<TOKEN end_char="1960" id="token-15-18" morph="none" pos="word" start_char="1959">по</TOKEN>
+<TOKEN end_char="1966" id="token-15-19" morph="none" pos="word" start_char="1962">всему</TOKEN>
+<TOKEN end_char="1971" id="token-15-20" morph="none" pos="word" start_char="1968">миру</TOKEN>
+<TOKEN end_char="1980" id="token-15-21" morph="none" pos="word" start_char="1973">выписали</TOKEN>
+<TOKEN end_char="1984" id="token-15-22" morph="none" pos="word" start_char="1982">уже</TOKEN>
+<TOKEN end_char="1986" id="token-15-23" morph="none" pos="word" start_char="1986">в</TOKEN>
+<TOKEN end_char="1992" id="token-15-24" morph="none" pos="word" start_char="1988">общей</TOKEN>
+<TOKEN end_char="2002" id="token-15-25" morph="none" pos="word" start_char="1994">сложности</TOKEN>
+<TOKEN end_char="2008" id="token-15-26" morph="none" pos="word" start_char="2004">почти</TOKEN>
+<TOKEN end_char="2012" id="token-15-27" morph="none" pos="word" start_char="2010">700</TOKEN>
+<TOKEN end_char="2018" id="token-15-28" morph="none" pos="word" start_char="2014">тысяч</TOKEN>
+<TOKEN end_char="2026" id="token-15-29" morph="none" pos="word" start_char="2020">человек</TOKEN>
+<TOKEN end_char="2027" id="token-15-30" morph="none" pos="punct" start_char="2027">,</TOKEN>
+<TOKEN end_char="2038" id="token-15-31" morph="none" pos="word" start_char="2029">достоверно</TOKEN>
+<TOKEN end_char="2051" id="token-15-32" morph="none" pos="word" start_char="2040">переболевших</TOKEN>
+<TOKEN end_char="2060" id="token-15-33" morph="none" pos="unknown" start_char="2053">Covid-19</TOKEN>
+<TOKEN end_char="2062" id="token-15-34" morph="none" pos="punct" start_char="2062">(</TOKEN>
+<TOKEN end_char="2063" id="token-15-35" morph="none" pos="word" start_char="2063">в</TOKEN>
+<TOKEN end_char="2070" id="token-15-36" morph="none" pos="word" start_char="2065">России</TOKEN>
+<TOKEN end_char="2072" id="token-15-37" morph="none" pos="punct" start_char="2072">-</TOKEN>
+<TOKEN end_char="2078" id="token-15-38" morph="none" pos="word" start_char="2074">около</TOKEN>
+<TOKEN end_char="2083" id="token-15-39" morph="none" pos="word" start_char="2080">4000</TOKEN>
+<TOKEN end_char="2085" id="token-15-40" morph="none" pos="punct" start_char="2084">).</TOKEN>
+<TRANSLATED_TEXT>This method is relatively inexpensive, and there should be no shortage in the theory of donors: almost 700,000 people have been discharged from hospitals worldwide, which are believed to be infected with Covid-19 (about 4,000 in Russia).</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2350" id="segment-16" start_char="2088">
+<ORIGINAL_TEXT>"На сегодняшний день это единственный способ, которым мы можем воздействовать на коронавирус, непосредственно блокируя его", - заявил Би-би-си доктор медицинских наук, завкафедрой фармакологии, клинической фармакологии и доказательной медицины НГМУ Павел Мадонов.</ORIGINAL_TEXT>
+<TOKEN end_char="2088" id="token-16-0" morph="none" pos="punct" start_char="2088">"</TOKEN>
+<TOKEN end_char="2090" id="token-16-1" morph="none" pos="word" start_char="2089">На</TOKEN>
+<TOKEN end_char="2102" id="token-16-2" morph="none" pos="word" start_char="2092">сегодняшний</TOKEN>
+<TOKEN end_char="2107" id="token-16-3" morph="none" pos="word" start_char="2104">день</TOKEN>
+<TOKEN end_char="2111" id="token-16-4" morph="none" pos="word" start_char="2109">это</TOKEN>
+<TOKEN end_char="2124" id="token-16-5" morph="none" pos="word" start_char="2113">единственный</TOKEN>
+<TOKEN end_char="2131" id="token-16-6" morph="none" pos="word" start_char="2126">способ</TOKEN>
+<TOKEN end_char="2132" id="token-16-7" morph="none" pos="punct" start_char="2132">,</TOKEN>
+<TOKEN end_char="2140" id="token-16-8" morph="none" pos="word" start_char="2134">которым</TOKEN>
+<TOKEN end_char="2143" id="token-16-9" morph="none" pos="word" start_char="2142">мы</TOKEN>
+<TOKEN end_char="2149" id="token-16-10" morph="none" pos="word" start_char="2145">можем</TOKEN>
+<TOKEN end_char="2164" id="token-16-11" morph="none" pos="word" start_char="2151">воздействовать</TOKEN>
+<TOKEN end_char="2167" id="token-16-12" morph="none" pos="word" start_char="2166">на</TOKEN>
+<TOKEN end_char="2179" id="token-16-13" morph="none" pos="word" start_char="2169">коронавирус</TOKEN>
+<TOKEN end_char="2180" id="token-16-14" morph="none" pos="punct" start_char="2180">,</TOKEN>
+<TOKEN end_char="2196" id="token-16-15" morph="none" pos="word" start_char="2182">непосредственно</TOKEN>
+<TOKEN end_char="2205" id="token-16-16" morph="none" pos="word" start_char="2198">блокируя</TOKEN>
+<TOKEN end_char="2209" id="token-16-17" morph="none" pos="word" start_char="2207">его</TOKEN>
+<TOKEN end_char="2211" id="token-16-18" morph="none" pos="punct" start_char="2210">",</TOKEN>
+<TOKEN end_char="2213" id="token-16-19" morph="none" pos="punct" start_char="2213">-</TOKEN>
+<TOKEN end_char="2220" id="token-16-20" morph="none" pos="word" start_char="2215">заявил</TOKEN>
+<TOKEN end_char="2229" id="token-16-21" morph="none" pos="unknown" start_char="2222">Би-би-си</TOKEN>
+<TOKEN end_char="2236" id="token-16-22" morph="none" pos="word" start_char="2231">доктор</TOKEN>
+<TOKEN end_char="2248" id="token-16-23" morph="none" pos="word" start_char="2238">медицинских</TOKEN>
+<TOKEN end_char="2253" id="token-16-24" morph="none" pos="word" start_char="2250">наук</TOKEN>
+<TOKEN end_char="2254" id="token-16-25" morph="none" pos="punct" start_char="2254">,</TOKEN>
+<TOKEN end_char="2266" id="token-16-26" morph="none" pos="word" start_char="2256">завкафедрой</TOKEN>
+<TOKEN end_char="2279" id="token-16-27" morph="none" pos="word" start_char="2268">фармакологии</TOKEN>
+<TOKEN end_char="2280" id="token-16-28" morph="none" pos="punct" start_char="2280">,</TOKEN>
+<TOKEN end_char="2292" id="token-16-29" morph="none" pos="word" start_char="2282">клинической</TOKEN>
+<TOKEN end_char="2305" id="token-16-30" morph="none" pos="word" start_char="2294">фармакологии</TOKEN>
+<TOKEN end_char="2307" id="token-16-31" morph="none" pos="word" start_char="2307">и</TOKEN>
+<TOKEN end_char="2321" id="token-16-32" morph="none" pos="word" start_char="2309">доказательной</TOKEN>
+<TOKEN end_char="2330" id="token-16-33" morph="none" pos="word" start_char="2323">медицины</TOKEN>
+<TOKEN end_char="2335" id="token-16-34" morph="none" pos="word" start_char="2332">НГМУ</TOKEN>
+<TOKEN end_char="2341" id="token-16-35" morph="none" pos="word" start_char="2337">Павел</TOKEN>
+<TOKEN end_char="2349" id="token-16-36" morph="none" pos="word" start_char="2343">Мадонов</TOKEN>
+<TOKEN end_char="2350" id="token-16-37" morph="none" pos="punct" start_char="2350">.</TOKEN>
+<TRANSLATED_TEXT>"To date, this is the only way we can act on coronavirus by directly blocking it," said BBC Doctor of Medical Sciences, Head of Department of Pharmacology, Clinical Pharmacology and Evidence Medicine.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2460" id="segment-17" start_char="2353">
+<ORIGINAL_TEXT>В то же время он подчеркнул, что в случае с Covid-19 к переливанию плазмы нужно относиться крайне осторожно.</ORIGINAL_TEXT>
+<TOKEN end_char="2353" id="token-17-0" morph="none" pos="word" start_char="2353">В</TOKEN>
+<TOKEN end_char="2356" id="token-17-1" morph="none" pos="word" start_char="2355">то</TOKEN>
+<TOKEN end_char="2359" id="token-17-2" morph="none" pos="word" start_char="2358">же</TOKEN>
+<TOKEN end_char="2365" id="token-17-3" morph="none" pos="word" start_char="2361">время</TOKEN>
+<TOKEN end_char="2368" id="token-17-4" morph="none" pos="word" start_char="2367">он</TOKEN>
+<TOKEN end_char="2379" id="token-17-5" morph="none" pos="word" start_char="2370">подчеркнул</TOKEN>
+<TOKEN end_char="2380" id="token-17-6" morph="none" pos="punct" start_char="2380">,</TOKEN>
+<TOKEN end_char="2384" id="token-17-7" morph="none" pos="word" start_char="2382">что</TOKEN>
+<TOKEN end_char="2386" id="token-17-8" morph="none" pos="word" start_char="2386">в</TOKEN>
+<TOKEN end_char="2393" id="token-17-9" morph="none" pos="word" start_char="2388">случае</TOKEN>
+<TOKEN end_char="2395" id="token-17-10" morph="none" pos="word" start_char="2395">с</TOKEN>
+<TOKEN end_char="2404" id="token-17-11" morph="none" pos="unknown" start_char="2397">Covid-19</TOKEN>
+<TOKEN end_char="2406" id="token-17-12" morph="none" pos="word" start_char="2406">к</TOKEN>
+<TOKEN end_char="2418" id="token-17-13" morph="none" pos="word" start_char="2408">переливанию</TOKEN>
+<TOKEN end_char="2425" id="token-17-14" morph="none" pos="word" start_char="2420">плазмы</TOKEN>
+<TOKEN end_char="2431" id="token-17-15" morph="none" pos="word" start_char="2427">нужно</TOKEN>
+<TOKEN end_char="2442" id="token-17-16" morph="none" pos="word" start_char="2433">относиться</TOKEN>
+<TOKEN end_char="2449" id="token-17-17" morph="none" pos="word" start_char="2444">крайне</TOKEN>
+<TOKEN end_char="2459" id="token-17-18" morph="none" pos="word" start_char="2451">осторожно</TOKEN>
+<TOKEN end_char="2460" id="token-17-19" morph="none" pos="punct" start_char="2460">.</TOKEN>
+<TRANSLATED_TEXT>At the same time, he stressed that in the case of Covid-19, plasma transfer should be treated with extreme caution.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2640" id="segment-18" start_char="2463">
+<ORIGINAL_TEXT>В Москве после переливания плазмы ранее переболевших доноров от Covid-19 уже выздоровели трое пациентов, сообщила во вторник заместитель мэра российской столицы Анастасия Ракова.</ORIGINAL_TEXT>
+<TOKEN end_char="2463" id="token-18-0" morph="none" pos="word" start_char="2463">В</TOKEN>
+<TOKEN end_char="2470" id="token-18-1" morph="none" pos="word" start_char="2465">Москве</TOKEN>
+<TOKEN end_char="2476" id="token-18-2" morph="none" pos="word" start_char="2472">после</TOKEN>
+<TOKEN end_char="2488" id="token-18-3" morph="none" pos="word" start_char="2478">переливания</TOKEN>
+<TOKEN end_char="2495" id="token-18-4" morph="none" pos="word" start_char="2490">плазмы</TOKEN>
+<TOKEN end_char="2501" id="token-18-5" morph="none" pos="word" start_char="2497">ранее</TOKEN>
+<TOKEN end_char="2514" id="token-18-6" morph="none" pos="word" start_char="2503">переболевших</TOKEN>
+<TOKEN end_char="2522" id="token-18-7" morph="none" pos="word" start_char="2516">доноров</TOKEN>
+<TOKEN end_char="2525" id="token-18-8" morph="none" pos="word" start_char="2524">от</TOKEN>
+<TOKEN end_char="2534" id="token-18-9" morph="none" pos="unknown" start_char="2527">Covid-19</TOKEN>
+<TOKEN end_char="2538" id="token-18-10" morph="none" pos="word" start_char="2536">уже</TOKEN>
+<TOKEN end_char="2550" id="token-18-11" morph="none" pos="word" start_char="2540">выздоровели</TOKEN>
+<TOKEN end_char="2555" id="token-18-12" morph="none" pos="word" start_char="2552">трое</TOKEN>
+<TOKEN end_char="2565" id="token-18-13" morph="none" pos="word" start_char="2557">пациентов</TOKEN>
+<TOKEN end_char="2566" id="token-18-14" morph="none" pos="punct" start_char="2566">,</TOKEN>
+<TOKEN end_char="2575" id="token-18-15" morph="none" pos="word" start_char="2568">сообщила</TOKEN>
+<TOKEN end_char="2578" id="token-18-16" morph="none" pos="word" start_char="2577">во</TOKEN>
+<TOKEN end_char="2586" id="token-18-17" morph="none" pos="word" start_char="2580">вторник</TOKEN>
+<TOKEN end_char="2598" id="token-18-18" morph="none" pos="word" start_char="2588">заместитель</TOKEN>
+<TOKEN end_char="2603" id="token-18-19" morph="none" pos="word" start_char="2600">мэра</TOKEN>
+<TOKEN end_char="2614" id="token-18-20" morph="none" pos="word" start_char="2605">российской</TOKEN>
+<TOKEN end_char="2622" id="token-18-21" morph="none" pos="word" start_char="2616">столицы</TOKEN>
+<TOKEN end_char="2632" id="token-18-22" morph="none" pos="word" start_char="2624">Анастасия</TOKEN>
+<TOKEN end_char="2639" id="token-18-23" morph="none" pos="word" start_char="2634">Ракова</TOKEN>
+<TOKEN end_char="2640" id="token-18-24" morph="none" pos="punct" start_char="2640">.</TOKEN>
+<TRANSLATED_TEXT>In Moscow, three patients have already recovered after plasma transfusion of previously infected donors from Covid-19, Deputy Mayor of Russian capital Anastasia Rakova reported on Tuesday.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2762" id="segment-19" start_char="2643">
+<ORIGINAL_TEXT>По ее словам, двое из них были выписаны из больницы через 10 дней после проведения процедуры, третий - через две недели.</ORIGINAL_TEXT>
+<TOKEN end_char="2644" id="token-19-0" morph="none" pos="word" start_char="2643">По</TOKEN>
+<TOKEN end_char="2647" id="token-19-1" morph="none" pos="word" start_char="2646">ее</TOKEN>
+<TOKEN end_char="2654" id="token-19-2" morph="none" pos="word" start_char="2649">словам</TOKEN>
+<TOKEN end_char="2655" id="token-19-3" morph="none" pos="punct" start_char="2655">,</TOKEN>
+<TOKEN end_char="2660" id="token-19-4" morph="none" pos="word" start_char="2657">двое</TOKEN>
+<TOKEN end_char="2663" id="token-19-5" morph="none" pos="word" start_char="2662">из</TOKEN>
+<TOKEN end_char="2667" id="token-19-6" morph="none" pos="word" start_char="2665">них</TOKEN>
+<TOKEN end_char="2672" id="token-19-7" morph="none" pos="word" start_char="2669">были</TOKEN>
+<TOKEN end_char="2681" id="token-19-8" morph="none" pos="word" start_char="2674">выписаны</TOKEN>
+<TOKEN end_char="2684" id="token-19-9" morph="none" pos="word" start_char="2683">из</TOKEN>
+<TOKEN end_char="2693" id="token-19-10" morph="none" pos="word" start_char="2686">больницы</TOKEN>
+<TOKEN end_char="2699" id="token-19-11" morph="none" pos="word" start_char="2695">через</TOKEN>
+<TOKEN end_char="2702" id="token-19-12" morph="none" pos="word" start_char="2701">10</TOKEN>
+<TOKEN end_char="2707" id="token-19-13" morph="none" pos="word" start_char="2704">дней</TOKEN>
+<TOKEN end_char="2713" id="token-19-14" morph="none" pos="word" start_char="2709">после</TOKEN>
+<TOKEN end_char="2724" id="token-19-15" morph="none" pos="word" start_char="2715">проведения</TOKEN>
+<TOKEN end_char="2734" id="token-19-16" morph="none" pos="word" start_char="2726">процедуры</TOKEN>
+<TOKEN end_char="2735" id="token-19-17" morph="none" pos="punct" start_char="2735">,</TOKEN>
+<TOKEN end_char="2742" id="token-19-18" morph="none" pos="word" start_char="2737">третий</TOKEN>
+<TOKEN end_char="2744" id="token-19-19" morph="none" pos="punct" start_char="2744">-</TOKEN>
+<TOKEN end_char="2750" id="token-19-20" morph="none" pos="word" start_char="2746">через</TOKEN>
+<TOKEN end_char="2754" id="token-19-21" morph="none" pos="word" start_char="2752">две</TOKEN>
+<TOKEN end_char="2761" id="token-19-22" morph="none" pos="word" start_char="2756">недели</TOKEN>
+<TOKEN end_char="2762" id="token-19-23" morph="none" pos="punct" start_char="2762">.</TOKEN>
+<TRANSLATED_TEXT>According to her, two of them were discharged from the hospital 10 days after the procedure and the third two weeks later.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2810" id="segment-20" start_char="2765">
+<ORIGINAL_TEXT>"Все они сейчас находятся в хорошем состоянии.</ORIGINAL_TEXT>
+<TOKEN end_char="2765" id="token-20-0" morph="none" pos="punct" start_char="2765">"</TOKEN>
+<TOKEN end_char="2768" id="token-20-1" morph="none" pos="word" start_char="2766">Все</TOKEN>
+<TOKEN end_char="2772" id="token-20-2" morph="none" pos="word" start_char="2770">они</TOKEN>
+<TOKEN end_char="2779" id="token-20-3" morph="none" pos="word" start_char="2774">сейчас</TOKEN>
+<TOKEN end_char="2789" id="token-20-4" morph="none" pos="word" start_char="2781">находятся</TOKEN>
+<TOKEN end_char="2791" id="token-20-5" morph="none" pos="word" start_char="2791">в</TOKEN>
+<TOKEN end_char="2799" id="token-20-6" morph="none" pos="word" start_char="2793">хорошем</TOKEN>
+<TOKEN end_char="2809" id="token-20-7" morph="none" pos="word" start_char="2801">состоянии</TOKEN>
+<TOKEN end_char="2810" id="token-20-8" morph="none" pos="punct" start_char="2810">.</TOKEN>
+<TRANSLATED_TEXT>All of them are in good condition now.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2960" id="segment-21" start_char="2812">
+<ORIGINAL_TEXT>Мы надеемся, что количество таких выздоровевших будет расти, и этот метод лечения поможет нам справиться с пандемией коронавируса", - сказала Ракова.</ORIGINAL_TEXT>
+<TOKEN end_char="2813" id="token-21-0" morph="none" pos="word" start_char="2812">Мы</TOKEN>
+<TOKEN end_char="2822" id="token-21-1" morph="none" pos="word" start_char="2815">надеемся</TOKEN>
+<TOKEN end_char="2823" id="token-21-2" morph="none" pos="punct" start_char="2823">,</TOKEN>
+<TOKEN end_char="2827" id="token-21-3" morph="none" pos="word" start_char="2825">что</TOKEN>
+<TOKEN end_char="2838" id="token-21-4" morph="none" pos="word" start_char="2829">количество</TOKEN>
+<TOKEN end_char="2844" id="token-21-5" morph="none" pos="word" start_char="2840">таких</TOKEN>
+<TOKEN end_char="2858" id="token-21-6" morph="none" pos="word" start_char="2846">выздоровевших</TOKEN>
+<TOKEN end_char="2864" id="token-21-7" morph="none" pos="word" start_char="2860">будет</TOKEN>
+<TOKEN end_char="2870" id="token-21-8" morph="none" pos="word" start_char="2866">расти</TOKEN>
+<TOKEN end_char="2871" id="token-21-9" morph="none" pos="punct" start_char="2871">,</TOKEN>
+<TOKEN end_char="2873" id="token-21-10" morph="none" pos="word" start_char="2873">и</TOKEN>
+<TOKEN end_char="2878" id="token-21-11" morph="none" pos="word" start_char="2875">этот</TOKEN>
+<TOKEN end_char="2884" id="token-21-12" morph="none" pos="word" start_char="2880">метод</TOKEN>
+<TOKEN end_char="2892" id="token-21-13" morph="none" pos="word" start_char="2886">лечения</TOKEN>
+<TOKEN end_char="2900" id="token-21-14" morph="none" pos="word" start_char="2894">поможет</TOKEN>
+<TOKEN end_char="2904" id="token-21-15" morph="none" pos="word" start_char="2902">нам</TOKEN>
+<TOKEN end_char="2915" id="token-21-16" morph="none" pos="word" start_char="2906">справиться</TOKEN>
+<TOKEN end_char="2917" id="token-21-17" morph="none" pos="word" start_char="2917">с</TOKEN>
+<TOKEN end_char="2927" id="token-21-18" morph="none" pos="word" start_char="2919">пандемией</TOKEN>
+<TOKEN end_char="2940" id="token-21-19" morph="none" pos="word" start_char="2929">коронавируса</TOKEN>
+<TOKEN end_char="2942" id="token-21-20" morph="none" pos="punct" start_char="2941">",</TOKEN>
+<TOKEN end_char="2944" id="token-21-21" morph="none" pos="punct" start_char="2944">-</TOKEN>
+<TOKEN end_char="2952" id="token-21-22" morph="none" pos="word" start_char="2946">сказала</TOKEN>
+<TOKEN end_char="2959" id="token-21-23" morph="none" pos="word" start_char="2954">Ракова</TOKEN>
+<TOKEN end_char="2960" id="token-21-24" morph="none" pos="punct" start_char="2960">.</TOKEN>
+<TRANSLATED_TEXT>We hope that the number of those who have recovered will increase, and this method of treatment will help us cope with the coronavirus pandemic, "Rakova said.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="3032" id="segment-22" start_char="2963">
+<ORIGINAL_TEXT>Изучают вопрос использования плазмы переболевших и в Санкт-Петербурге.</ORIGINAL_TEXT>
+<TOKEN end_char="2969" id="token-22-0" morph="none" pos="word" start_char="2963">Изучают</TOKEN>
+<TOKEN end_char="2976" id="token-22-1" morph="none" pos="word" start_char="2971">вопрос</TOKEN>
+<TOKEN end_char="2990" id="token-22-2" morph="none" pos="word" start_char="2978">использования</TOKEN>
+<TOKEN end_char="2997" id="token-22-3" morph="none" pos="word" start_char="2992">плазмы</TOKEN>
+<TOKEN end_char="3010" id="token-22-4" morph="none" pos="word" start_char="2999">переболевших</TOKEN>
+<TOKEN end_char="3012" id="token-22-5" morph="none" pos="word" start_char="3012">и</TOKEN>
+<TOKEN end_char="3014" id="token-22-6" morph="none" pos="word" start_char="3014">в</TOKEN>
+<TOKEN end_char="3031" id="token-22-7" morph="none" pos="unknown" start_char="3016">Санкт-Петербурге</TOKEN>
+<TOKEN end_char="3032" id="token-22-8" morph="none" pos="punct" start_char="3032">.</TOKEN>
+<TRANSLATED_TEXT>The use of plasma in patients with epilepsy is also being studied in Saint Petersburg.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="3087" id="segment-23" start_char="3034">
+<ORIGINAL_TEXT>Есть ли такие планы в остальных регионах - неизвестно.</ORIGINAL_TEXT>
+<TOKEN end_char="3037" id="token-23-0" morph="none" pos="word" start_char="3034">Есть</TOKEN>
+<TOKEN end_char="3040" id="token-23-1" morph="none" pos="word" start_char="3039">ли</TOKEN>
+<TOKEN end_char="3046" id="token-23-2" morph="none" pos="word" start_char="3042">такие</TOKEN>
+<TOKEN end_char="3052" id="token-23-3" morph="none" pos="word" start_char="3048">планы</TOKEN>
+<TOKEN end_char="3054" id="token-23-4" morph="none" pos="word" start_char="3054">в</TOKEN>
+<TOKEN end_char="3064" id="token-23-5" morph="none" pos="word" start_char="3056">остальных</TOKEN>
+<TOKEN end_char="3073" id="token-23-6" morph="none" pos="word" start_char="3066">регионах</TOKEN>
+<TOKEN end_char="3075" id="token-23-7" morph="none" pos="punct" start_char="3075">-</TOKEN>
+<TOKEN end_char="3086" id="token-23-8" morph="none" pos="word" start_char="3077">неизвестно</TOKEN>
+<TOKEN end_char="3087" id="token-23-9" morph="none" pos="punct" start_char="3087">.</TOKEN>
+<TRANSLATED_TEXT>Whether such plans exist in other regions is unknown.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="3169" id="segment-24" start_char="3090">
+<ORIGINAL_TEXT>В Москве плазму для переливания принимают в двух местах: в НИИ скорой помощи им.</ORIGINAL_TEXT>
+<TOKEN end_char="3090" id="token-24-0" morph="none" pos="word" start_char="3090">В</TOKEN>
+<TOKEN end_char="3097" id="token-24-1" morph="none" pos="word" start_char="3092">Москве</TOKEN>
+<TOKEN end_char="3104" id="token-24-2" morph="none" pos="word" start_char="3099">плазму</TOKEN>
+<TOKEN end_char="3108" id="token-24-3" morph="none" pos="word" start_char="3106">для</TOKEN>
+<TOKEN end_char="3120" id="token-24-4" morph="none" pos="word" start_char="3110">переливания</TOKEN>
+<TOKEN end_char="3130" id="token-24-5" morph="none" pos="word" start_char="3122">принимают</TOKEN>
+<TOKEN end_char="3132" id="token-24-6" morph="none" pos="word" start_char="3132">в</TOKEN>
+<TOKEN end_char="3137" id="token-24-7" morph="none" pos="word" start_char="3134">двух</TOKEN>
+<TOKEN end_char="3144" id="token-24-8" morph="none" pos="word" start_char="3139">местах</TOKEN>
+<TOKEN end_char="3145" id="token-24-9" morph="none" pos="punct" start_char="3145">:</TOKEN>
+<TOKEN end_char="3147" id="token-24-10" morph="none" pos="word" start_char="3147">в</TOKEN>
+<TOKEN end_char="3151" id="token-24-11" morph="none" pos="word" start_char="3149">НИИ</TOKEN>
+<TOKEN end_char="3158" id="token-24-12" morph="none" pos="word" start_char="3153">скорой</TOKEN>
+<TOKEN end_char="3165" id="token-24-13" morph="none" pos="word" start_char="3160">помощи</TOKEN>
+<TOKEN end_char="3168" id="token-24-14" morph="none" pos="word" start_char="3167">им</TOKEN>
+<TOKEN end_char="3169" id="token-24-15" morph="none" pos="punct" start_char="3169">.</TOKEN>
+<TRANSLATED_TEXT>In Moscow plasma for transfusion is accepted in two places: in the Research Institute of Emergency Medicine.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="3346" id="segment-25" start_char="3171">
+<ORIGINAL_TEXT>Н.В. Склифосовского и городской клинической больнице №52, где Би-би-си подтвердили, что в нескольких случаях лечили больных Covid-19 при помощи переливания плазмы переболевших.</ORIGINAL_TEXT>
+<TOKEN end_char="3173" id="token-25-0" morph="none" pos="unknown" start_char="3171">Н.В</TOKEN>
+<TOKEN end_char="3174" id="token-25-1" morph="none" pos="punct" start_char="3174">.</TOKEN>
+<TOKEN end_char="3189" id="token-25-2" morph="none" pos="word" start_char="3176">Склифосовского</TOKEN>
+<TOKEN end_char="3191" id="token-25-3" morph="none" pos="word" start_char="3191">и</TOKEN>
+<TOKEN end_char="3201" id="token-25-4" morph="none" pos="word" start_char="3193">городской</TOKEN>
+<TOKEN end_char="3213" id="token-25-5" morph="none" pos="word" start_char="3203">клинической</TOKEN>
+<TOKEN end_char="3222" id="token-25-6" morph="none" pos="word" start_char="3215">больнице</TOKEN>
+<TOKEN end_char="3227" id="token-25-7" morph="none" pos="unknown" start_char="3224">№52,</TOKEN>
+<TOKEN end_char="3231" id="token-25-8" morph="none" pos="word" start_char="3229">где</TOKEN>
+<TOKEN end_char="3240" id="token-25-9" morph="none" pos="unknown" start_char="3233">Би-би-си</TOKEN>
+<TOKEN end_char="3252" id="token-25-10" morph="none" pos="word" start_char="3242">подтвердили</TOKEN>
+<TOKEN end_char="3253" id="token-25-11" morph="none" pos="punct" start_char="3253">,</TOKEN>
+<TOKEN end_char="3257" id="token-25-12" morph="none" pos="word" start_char="3255">что</TOKEN>
+<TOKEN end_char="3259" id="token-25-13" morph="none" pos="word" start_char="3259">в</TOKEN>
+<TOKEN end_char="3270" id="token-25-14" morph="none" pos="word" start_char="3261">нескольких</TOKEN>
+<TOKEN end_char="3278" id="token-25-15" morph="none" pos="word" start_char="3272">случаях</TOKEN>
+<TOKEN end_char="3285" id="token-25-16" morph="none" pos="word" start_char="3280">лечили</TOKEN>
+<TOKEN end_char="3293" id="token-25-17" morph="none" pos="word" start_char="3287">больных</TOKEN>
+<TOKEN end_char="3302" id="token-25-18" morph="none" pos="unknown" start_char="3295">Covid-19</TOKEN>
+<TOKEN end_char="3306" id="token-25-19" morph="none" pos="word" start_char="3304">при</TOKEN>
+<TOKEN end_char="3313" id="token-25-20" morph="none" pos="word" start_char="3308">помощи</TOKEN>
+<TOKEN end_char="3325" id="token-25-21" morph="none" pos="word" start_char="3315">переливания</TOKEN>
+<TOKEN end_char="3332" id="token-25-22" morph="none" pos="word" start_char="3327">плазмы</TOKEN>
+<TOKEN end_char="3345" id="token-25-23" morph="none" pos="word" start_char="3334">переболевших</TOKEN>
+<TOKEN end_char="3346" id="token-25-24" morph="none" pos="punct" start_char="3346">.</TOKEN>
+<TRANSLATED_TEXT>N.V. Skifsov and City Clinical Hospital No. 52, where the BBC confirmed that Covid-19 patients had been treated on several occasions by means of plasma transfusion of the patients.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="3520" id="segment-26" start_char="3349">
+<ORIGINAL_TEXT>Правительство Москвы издало постановление, согласно которому доноры крови с антителами к Covid-19 будут получать по 1250 рублей (около 16 долларов) за каждые 150 мл плазмы.</ORIGINAL_TEXT>
+<TOKEN end_char="3361" id="token-26-0" morph="none" pos="word" start_char="3349">Правительство</TOKEN>
+<TOKEN end_char="3368" id="token-26-1" morph="none" pos="word" start_char="3363">Москвы</TOKEN>
+<TOKEN end_char="3375" id="token-26-2" morph="none" pos="word" start_char="3370">издало</TOKEN>
+<TOKEN end_char="3389" id="token-26-3" morph="none" pos="word" start_char="3377">постановление</TOKEN>
+<TOKEN end_char="3390" id="token-26-4" morph="none" pos="punct" start_char="3390">,</TOKEN>
+<TOKEN end_char="3399" id="token-26-5" morph="none" pos="word" start_char="3392">согласно</TOKEN>
+<TOKEN end_char="3408" id="token-26-6" morph="none" pos="word" start_char="3401">которому</TOKEN>
+<TOKEN end_char="3415" id="token-26-7" morph="none" pos="word" start_char="3410">доноры</TOKEN>
+<TOKEN end_char="3421" id="token-26-8" morph="none" pos="word" start_char="3417">крови</TOKEN>
+<TOKEN end_char="3423" id="token-26-9" morph="none" pos="word" start_char="3423">с</TOKEN>
+<TOKEN end_char="3434" id="token-26-10" morph="none" pos="word" start_char="3425">антителами</TOKEN>
+<TOKEN end_char="3436" id="token-26-11" morph="none" pos="word" start_char="3436">к</TOKEN>
+<TOKEN end_char="3445" id="token-26-12" morph="none" pos="unknown" start_char="3438">Covid-19</TOKEN>
+<TOKEN end_char="3451" id="token-26-13" morph="none" pos="word" start_char="3447">будут</TOKEN>
+<TOKEN end_char="3460" id="token-26-14" morph="none" pos="word" start_char="3453">получать</TOKEN>
+<TOKEN end_char="3463" id="token-26-15" morph="none" pos="word" start_char="3462">по</TOKEN>
+<TOKEN end_char="3468" id="token-26-16" morph="none" pos="word" start_char="3465">1250</TOKEN>
+<TOKEN end_char="3475" id="token-26-17" morph="none" pos="word" start_char="3470">рублей</TOKEN>
+<TOKEN end_char="3477" id="token-26-18" morph="none" pos="punct" start_char="3477">(</TOKEN>
+<TOKEN end_char="3482" id="token-26-19" morph="none" pos="word" start_char="3478">около</TOKEN>
+<TOKEN end_char="3485" id="token-26-20" morph="none" pos="word" start_char="3484">16</TOKEN>
+<TOKEN end_char="3494" id="token-26-21" morph="none" pos="word" start_char="3487">долларов</TOKEN>
+<TOKEN end_char="3495" id="token-26-22" morph="none" pos="punct" start_char="3495">)</TOKEN>
+<TOKEN end_char="3498" id="token-26-23" morph="none" pos="word" start_char="3497">за</TOKEN>
+<TOKEN end_char="3505" id="token-26-24" morph="none" pos="word" start_char="3500">каждые</TOKEN>
+<TOKEN end_char="3509" id="token-26-25" morph="none" pos="word" start_char="3507">150</TOKEN>
+<TOKEN end_char="3512" id="token-26-26" morph="none" pos="word" start_char="3511">мл</TOKEN>
+<TOKEN end_char="3519" id="token-26-27" morph="none" pos="word" start_char="3514">плазмы</TOKEN>
+<TOKEN end_char="3520" id="token-26-28" morph="none" pos="punct" start_char="3520">.</TOKEN>
+<TRANSLATED_TEXT>The government of Moscow issued a decree that blood donors with antibodies to Covid-19 would receive 1,250 roubles (about $16) for every 150 ml plasma.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="3557" id="segment-27" start_char="3522">
+<ORIGINAL_TEXT>За раз можно сдать от 300 до 600 мл.</ORIGINAL_TEXT>
+<TOKEN end_char="3523" id="token-27-0" morph="none" pos="word" start_char="3522">За</TOKEN>
+<TOKEN end_char="3527" id="token-27-1" morph="none" pos="word" start_char="3525">раз</TOKEN>
+<TOKEN end_char="3533" id="token-27-2" morph="none" pos="word" start_char="3529">можно</TOKEN>
+<TOKEN end_char="3539" id="token-27-3" morph="none" pos="word" start_char="3535">сдать</TOKEN>
+<TOKEN end_char="3542" id="token-27-4" morph="none" pos="word" start_char="3541">от</TOKEN>
+<TOKEN end_char="3546" id="token-27-5" morph="none" pos="word" start_char="3544">300</TOKEN>
+<TOKEN end_char="3549" id="token-27-6" morph="none" pos="word" start_char="3548">до</TOKEN>
+<TOKEN end_char="3553" id="token-27-7" morph="none" pos="word" start_char="3551">600</TOKEN>
+<TOKEN end_char="3556" id="token-27-8" morph="none" pos="word" start_char="3555">мл</TOKEN>
+<TOKEN end_char="3557" id="token-27-9" morph="none" pos="punct" start_char="3557">.</TOKEN>
+<TRANSLATED_TEXT>It can be delivered from 300 to 600 ml at a time.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="3677" id="segment-28" start_char="3560">
+<ORIGINAL_TEXT>Прежде чем стать донором, бывшие пациенты должны предоставить медицинское заключение о перенесенной инфекции Covid-19.</ORIGINAL_TEXT>
+<TOKEN end_char="3565" id="token-28-0" morph="none" pos="word" start_char="3560">Прежде</TOKEN>
+<TOKEN end_char="3569" id="token-28-1" morph="none" pos="word" start_char="3567">чем</TOKEN>
+<TOKEN end_char="3575" id="token-28-2" morph="none" pos="word" start_char="3571">стать</TOKEN>
+<TOKEN end_char="3583" id="token-28-3" morph="none" pos="word" start_char="3577">донором</TOKEN>
+<TOKEN end_char="3584" id="token-28-4" morph="none" pos="punct" start_char="3584">,</TOKEN>
+<TOKEN end_char="3591" id="token-28-5" morph="none" pos="word" start_char="3586">бывшие</TOKEN>
+<TOKEN end_char="3600" id="token-28-6" morph="none" pos="word" start_char="3593">пациенты</TOKEN>
+<TOKEN end_char="3607" id="token-28-7" morph="none" pos="word" start_char="3602">должны</TOKEN>
+<TOKEN end_char="3620" id="token-28-8" morph="none" pos="word" start_char="3609">предоставить</TOKEN>
+<TOKEN end_char="3632" id="token-28-9" morph="none" pos="word" start_char="3622">медицинское</TOKEN>
+<TOKEN end_char="3643" id="token-28-10" morph="none" pos="word" start_char="3634">заключение</TOKEN>
+<TOKEN end_char="3645" id="token-28-11" morph="none" pos="word" start_char="3645">о</TOKEN>
+<TOKEN end_char="3658" id="token-28-12" morph="none" pos="word" start_char="3647">перенесенной</TOKEN>
+<TOKEN end_char="3667" id="token-28-13" morph="none" pos="word" start_char="3660">инфекции</TOKEN>
+<TOKEN end_char="3676" id="token-28-14" morph="none" pos="unknown" start_char="3669">Covid-19</TOKEN>
+<TOKEN end_char="3677" id="token-28-15" morph="none" pos="punct" start_char="3677">.</TOKEN>
+<TRANSLATED_TEXT>Prior to becoming a donor, former patients must provide a medical report on the contracted Covid-19 infection.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="3871" id="segment-29" start_char="3679">
+<ORIGINAL_TEXT>Также у доноров должны быть отрицательные анализы на ВИЧ, гепатиты В и С, гемограмма, данные о биохимических исследованиях крови, исследованиях на содержание специфических антител к SARS-CoV-2.</ORIGINAL_TEXT>
+<TOKEN end_char="3683" id="token-29-0" morph="none" pos="word" start_char="3679">Также</TOKEN>
+<TOKEN end_char="3685" id="token-29-1" morph="none" pos="word" start_char="3685">у</TOKEN>
+<TOKEN end_char="3693" id="token-29-2" morph="none" pos="word" start_char="3687">доноров</TOKEN>
+<TOKEN end_char="3700" id="token-29-3" morph="none" pos="word" start_char="3695">должны</TOKEN>
+<TOKEN end_char="3705" id="token-29-4" morph="none" pos="word" start_char="3702">быть</TOKEN>
+<TOKEN end_char="3719" id="token-29-5" morph="none" pos="word" start_char="3707">отрицательные</TOKEN>
+<TOKEN end_char="3727" id="token-29-6" morph="none" pos="word" start_char="3721">анализы</TOKEN>
+<TOKEN end_char="3730" id="token-29-7" morph="none" pos="word" start_char="3729">на</TOKEN>
+<TOKEN end_char="3734" id="token-29-8" morph="none" pos="word" start_char="3732">ВИЧ</TOKEN>
+<TOKEN end_char="3735" id="token-29-9" morph="none" pos="punct" start_char="3735">,</TOKEN>
+<TOKEN end_char="3744" id="token-29-10" morph="none" pos="word" start_char="3737">гепатиты</TOKEN>
+<TOKEN end_char="3746" id="token-29-11" morph="none" pos="word" start_char="3746">В</TOKEN>
+<TOKEN end_char="3748" id="token-29-12" morph="none" pos="word" start_char="3748">и</TOKEN>
+<TOKEN end_char="3750" id="token-29-13" morph="none" pos="word" start_char="3750">С</TOKEN>
+<TOKEN end_char="3751" id="token-29-14" morph="none" pos="punct" start_char="3751">,</TOKEN>
+<TOKEN end_char="3762" id="token-29-15" morph="none" pos="word" start_char="3753">гемограмма</TOKEN>
+<TOKEN end_char="3763" id="token-29-16" morph="none" pos="punct" start_char="3763">,</TOKEN>
+<TOKEN end_char="3770" id="token-29-17" morph="none" pos="word" start_char="3765">данные</TOKEN>
+<TOKEN end_char="3772" id="token-29-18" morph="none" pos="word" start_char="3772">о</TOKEN>
+<TOKEN end_char="3786" id="token-29-19" morph="none" pos="word" start_char="3774">биохимических</TOKEN>
+<TOKEN end_char="3800" id="token-29-20" morph="none" pos="word" start_char="3788">исследованиях</TOKEN>
+<TOKEN end_char="3806" id="token-29-21" morph="none" pos="word" start_char="3802">крови</TOKEN>
+<TOKEN end_char="3807" id="token-29-22" morph="none" pos="punct" start_char="3807">,</TOKEN>
+<TOKEN end_char="3821" id="token-29-23" morph="none" pos="word" start_char="3809">исследованиях</TOKEN>
+<TOKEN end_char="3824" id="token-29-24" morph="none" pos="word" start_char="3823">на</TOKEN>
+<TOKEN end_char="3835" id="token-29-25" morph="none" pos="word" start_char="3826">содержание</TOKEN>
+<TOKEN end_char="3849" id="token-29-26" morph="none" pos="word" start_char="3837">специфических</TOKEN>
+<TOKEN end_char="3857" id="token-29-27" morph="none" pos="word" start_char="3851">антител</TOKEN>
+<TOKEN end_char="3859" id="token-29-28" morph="none" pos="word" start_char="3859">к</TOKEN>
+<TOKEN end_char="3870" id="token-29-29" morph="none" pos="unknown" start_char="3861">SARS-CoV-2</TOKEN>
+<TOKEN end_char="3871" id="token-29-30" morph="none" pos="punct" start_char="3871">.</TOKEN>
+<TRANSLATED_TEXT>Donors should also have negative HIV, hepatitis B and C tests, haemograms, blood biochemistry data, and antibody studies specific to SARS-CoV-2.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="4026" id="segment-30" start_char="3874">
+<ORIGINAL_TEXT>На сайте московской мэрии говорится, что переливание донорской плазмы - "один из наиболее эффективных методов лечения коронавируса в отсутствие вакцины".</ORIGINAL_TEXT>
+<TOKEN end_char="3875" id="token-30-0" morph="none" pos="word" start_char="3874">На</TOKEN>
+<TOKEN end_char="3881" id="token-30-1" morph="none" pos="word" start_char="3877">сайте</TOKEN>
+<TOKEN end_char="3892" id="token-30-2" morph="none" pos="word" start_char="3883">московской</TOKEN>
+<TOKEN end_char="3898" id="token-30-3" morph="none" pos="word" start_char="3894">мэрии</TOKEN>
+<TOKEN end_char="3908" id="token-30-4" morph="none" pos="word" start_char="3900">говорится</TOKEN>
+<TOKEN end_char="3909" id="token-30-5" morph="none" pos="punct" start_char="3909">,</TOKEN>
+<TOKEN end_char="3913" id="token-30-6" morph="none" pos="word" start_char="3911">что</TOKEN>
+<TOKEN end_char="3925" id="token-30-7" morph="none" pos="word" start_char="3915">переливание</TOKEN>
+<TOKEN end_char="3935" id="token-30-8" morph="none" pos="word" start_char="3927">донорской</TOKEN>
+<TOKEN end_char="3942" id="token-30-9" morph="none" pos="word" start_char="3937">плазмы</TOKEN>
+<TOKEN end_char="3944" id="token-30-10" morph="none" pos="punct" start_char="3944">-</TOKEN>
+<TOKEN end_char="3946" id="token-30-11" morph="none" pos="punct" start_char="3946">"</TOKEN>
+<TOKEN end_char="3950" id="token-30-12" morph="none" pos="word" start_char="3947">один</TOKEN>
+<TOKEN end_char="3953" id="token-30-13" morph="none" pos="word" start_char="3952">из</TOKEN>
+<TOKEN end_char="3962" id="token-30-14" morph="none" pos="word" start_char="3955">наиболее</TOKEN>
+<TOKEN end_char="3974" id="token-30-15" morph="none" pos="word" start_char="3964">эффективных</TOKEN>
+<TOKEN end_char="3982" id="token-30-16" morph="none" pos="word" start_char="3976">методов</TOKEN>
+<TOKEN end_char="3990" id="token-30-17" morph="none" pos="word" start_char="3984">лечения</TOKEN>
+<TOKEN end_char="4003" id="token-30-18" morph="none" pos="word" start_char="3992">коронавируса</TOKEN>
+<TOKEN end_char="4005" id="token-30-19" morph="none" pos="word" start_char="4005">в</TOKEN>
+<TOKEN end_char="4016" id="token-30-20" morph="none" pos="word" start_char="4007">отсутствие</TOKEN>
+<TOKEN end_char="4024" id="token-30-21" morph="none" pos="word" start_char="4018">вакцины</TOKEN>
+<TOKEN end_char="4026" id="token-30-22" morph="none" pos="punct" start_char="4025">".</TOKEN>
+<TRANSLATED_TEXT>The Moscow City Council website states that transfusing donor plasma is "one of the most effective treatments for coronavirus in the absence of a vaccine."</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="4128" id="segment-31" start_char="4028">
+<ORIGINAL_TEXT>После процедуры пациенты с коронавирусом чувствуют себя лучше, а побочных эффектов у них не отмечено.</ORIGINAL_TEXT>
+<TOKEN end_char="4032" id="token-31-0" morph="none" pos="word" start_char="4028">После</TOKEN>
+<TOKEN end_char="4042" id="token-31-1" morph="none" pos="word" start_char="4034">процедуры</TOKEN>
+<TOKEN end_char="4051" id="token-31-2" morph="none" pos="word" start_char="4044">пациенты</TOKEN>
+<TOKEN end_char="4053" id="token-31-3" morph="none" pos="word" start_char="4053">с</TOKEN>
+<TOKEN end_char="4067" id="token-31-4" morph="none" pos="word" start_char="4055">коронавирусом</TOKEN>
+<TOKEN end_char="4077" id="token-31-5" morph="none" pos="word" start_char="4069">чувствуют</TOKEN>
+<TOKEN end_char="4082" id="token-31-6" morph="none" pos="word" start_char="4079">себя</TOKEN>
+<TOKEN end_char="4088" id="token-31-7" morph="none" pos="word" start_char="4084">лучше</TOKEN>
+<TOKEN end_char="4089" id="token-31-8" morph="none" pos="punct" start_char="4089">,</TOKEN>
+<TOKEN end_char="4091" id="token-31-9" morph="none" pos="word" start_char="4091">а</TOKEN>
+<TOKEN end_char="4100" id="token-31-10" morph="none" pos="word" start_char="4093">побочных</TOKEN>
+<TOKEN end_char="4109" id="token-31-11" morph="none" pos="word" start_char="4102">эффектов</TOKEN>
+<TOKEN end_char="4111" id="token-31-12" morph="none" pos="word" start_char="4111">у</TOKEN>
+<TOKEN end_char="4115" id="token-31-13" morph="none" pos="word" start_char="4113">них</TOKEN>
+<TOKEN end_char="4118" id="token-31-14" morph="none" pos="word" start_char="4117">не</TOKEN>
+<TOKEN end_char="4127" id="token-31-15" morph="none" pos="word" start_char="4120">отмечено</TOKEN>
+<TOKEN end_char="4128" id="token-31-16" morph="none" pos="punct" start_char="4128">.</TOKEN>
+<TRANSLATED_TEXT>After the procedure, patients with coronavirus feel better and have no side effects.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="4417" id="segment-32" start_char="4131">
+<ORIGINAL_TEXT>"При всей кажущейся эффективности и относительной простоте, на мой взгляд, лечебный эффект от этого препарата может быть несколько преувеличен", - заявил Би-би-си доктор медицинских наук, в недавнем прошлом завотделением переливания крови Научного центра сердечно-сосудистой хирургии им.</ORIGINAL_TEXT>
+<TOKEN end_char="4131" id="token-32-0" morph="none" pos="punct" start_char="4131">"</TOKEN>
+<TOKEN end_char="4134" id="token-32-1" morph="none" pos="word" start_char="4132">При</TOKEN>
+<TOKEN end_char="4139" id="token-32-2" morph="none" pos="word" start_char="4136">всей</TOKEN>
+<TOKEN end_char="4149" id="token-32-3" morph="none" pos="word" start_char="4141">кажущейся</TOKEN>
+<TOKEN end_char="4163" id="token-32-4" morph="none" pos="word" start_char="4151">эффективности</TOKEN>
+<TOKEN end_char="4165" id="token-32-5" morph="none" pos="word" start_char="4165">и</TOKEN>
+<TOKEN end_char="4179" id="token-32-6" morph="none" pos="word" start_char="4167">относительной</TOKEN>
+<TOKEN end_char="4188" id="token-32-7" morph="none" pos="word" start_char="4181">простоте</TOKEN>
+<TOKEN end_char="4189" id="token-32-8" morph="none" pos="punct" start_char="4189">,</TOKEN>
+<TOKEN end_char="4192" id="token-32-9" morph="none" pos="word" start_char="4191">на</TOKEN>
+<TOKEN end_char="4196" id="token-32-10" morph="none" pos="word" start_char="4194">мой</TOKEN>
+<TOKEN end_char="4203" id="token-32-11" morph="none" pos="word" start_char="4198">взгляд</TOKEN>
+<TOKEN end_char="4204" id="token-32-12" morph="none" pos="punct" start_char="4204">,</TOKEN>
+<TOKEN end_char="4213" id="token-32-13" morph="none" pos="word" start_char="4206">лечебный</TOKEN>
+<TOKEN end_char="4220" id="token-32-14" morph="none" pos="word" start_char="4215">эффект</TOKEN>
+<TOKEN end_char="4223" id="token-32-15" morph="none" pos="word" start_char="4222">от</TOKEN>
+<TOKEN end_char="4229" id="token-32-16" morph="none" pos="word" start_char="4225">этого</TOKEN>
+<TOKEN end_char="4239" id="token-32-17" morph="none" pos="word" start_char="4231">препарата</TOKEN>
+<TOKEN end_char="4245" id="token-32-18" morph="none" pos="word" start_char="4241">может</TOKEN>
+<TOKEN end_char="4250" id="token-32-19" morph="none" pos="word" start_char="4247">быть</TOKEN>
+<TOKEN end_char="4260" id="token-32-20" morph="none" pos="word" start_char="4252">несколько</TOKEN>
+<TOKEN end_char="4272" id="token-32-21" morph="none" pos="word" start_char="4262">преувеличен</TOKEN>
+<TOKEN end_char="4274" id="token-32-22" morph="none" pos="punct" start_char="4273">",</TOKEN>
+<TOKEN end_char="4276" id="token-32-23" morph="none" pos="punct" start_char="4276">-</TOKEN>
+<TOKEN end_char="4283" id="token-32-24" morph="none" pos="word" start_char="4278">заявил</TOKEN>
+<TOKEN end_char="4292" id="token-32-25" morph="none" pos="unknown" start_char="4285">Би-би-си</TOKEN>
+<TOKEN end_char="4299" id="token-32-26" morph="none" pos="word" start_char="4294">доктор</TOKEN>
+<TOKEN end_char="4311" id="token-32-27" morph="none" pos="word" start_char="4301">медицинских</TOKEN>
+<TOKEN end_char="4316" id="token-32-28" morph="none" pos="word" start_char="4313">наук</TOKEN>
+<TOKEN end_char="4317" id="token-32-29" morph="none" pos="punct" start_char="4317">,</TOKEN>
+<TOKEN end_char="4319" id="token-32-30" morph="none" pos="word" start_char="4319">в</TOKEN>
+<TOKEN end_char="4328" id="token-32-31" morph="none" pos="word" start_char="4321">недавнем</TOKEN>
+<TOKEN end_char="4336" id="token-32-32" morph="none" pos="word" start_char="4330">прошлом</TOKEN>
+<TOKEN end_char="4350" id="token-32-33" morph="none" pos="word" start_char="4338">завотделением</TOKEN>
+<TOKEN end_char="4362" id="token-32-34" morph="none" pos="word" start_char="4352">переливания</TOKEN>
+<TOKEN end_char="4368" id="token-32-35" morph="none" pos="word" start_char="4364">крови</TOKEN>
+<TOKEN end_char="4377" id="token-32-36" morph="none" pos="word" start_char="4370">Научного</TOKEN>
+<TOKEN end_char="4384" id="token-32-37" morph="none" pos="word" start_char="4379">центра</TOKEN>
+<TOKEN end_char="4404" id="token-32-38" morph="none" pos="unknown" start_char="4386">сердечно-сосудистой</TOKEN>
+<TOKEN end_char="4413" id="token-32-39" morph="none" pos="word" start_char="4406">хирургии</TOKEN>
+<TOKEN end_char="4416" id="token-32-40" morph="none" pos="word" start_char="4415">им</TOKEN>
+<TOKEN end_char="4417" id="token-32-41" morph="none" pos="punct" start_char="4417">.</TOKEN>
+<TRANSLATED_TEXT>"Despite its apparent efficacy and relative simplicity, the therapeutic effect of this drug can, in my view, be somewhat exaggerated," said the BBC Doctor of Medical Sciences, in the recent past having been the recipient of blood transfusions from the Scientific Center for Cardiovascular Surgery.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="4444" id="segment-33" start_char="4419">
+<ORIGINAL_TEXT>Бакулева Рачик Григорьянц.</ORIGINAL_TEXT>
+<TOKEN end_char="4426" id="token-33-0" morph="none" pos="word" start_char="4419">Бакулева</TOKEN>
+<TOKEN end_char="4432" id="token-33-1" morph="none" pos="word" start_char="4428">Рачик</TOKEN>
+<TOKEN end_char="4443" id="token-33-2" morph="none" pos="word" start_char="4434">Григорьянц</TOKEN>
+<TOKEN end_char="4444" id="token-33-3" morph="none" pos="punct" start_char="4444">.</TOKEN>
+<TRANSLATED_TEXT>Bakuleva Rachik Grigoryantz.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="4621" id="segment-34" start_char="4447">
+<ORIGINAL_TEXT>Эффективность и безопасность конкретного препарата или процедуры должны быть доказаны соответствующими клиническими испытаниями - а их в случае с новым коронавирусом пока нет.</ORIGINAL_TEXT>
+<TOKEN end_char="4459" id="token-34-0" morph="none" pos="word" start_char="4447">Эффективность</TOKEN>
+<TOKEN end_char="4461" id="token-34-1" morph="none" pos="word" start_char="4461">и</TOKEN>
+<TOKEN end_char="4474" id="token-34-2" morph="none" pos="word" start_char="4463">безопасность</TOKEN>
+<TOKEN end_char="4486" id="token-34-3" morph="none" pos="word" start_char="4476">конкретного</TOKEN>
+<TOKEN end_char="4496" id="token-34-4" morph="none" pos="word" start_char="4488">препарата</TOKEN>
+<TOKEN end_char="4500" id="token-34-5" morph="none" pos="word" start_char="4498">или</TOKEN>
+<TOKEN end_char="4510" id="token-34-6" morph="none" pos="word" start_char="4502">процедуры</TOKEN>
+<TOKEN end_char="4517" id="token-34-7" morph="none" pos="word" start_char="4512">должны</TOKEN>
+<TOKEN end_char="4522" id="token-34-8" morph="none" pos="word" start_char="4519">быть</TOKEN>
+<TOKEN end_char="4531" id="token-34-9" morph="none" pos="word" start_char="4524">доказаны</TOKEN>
+<TOKEN end_char="4548" id="token-34-10" morph="none" pos="word" start_char="4533">соответствующими</TOKEN>
+<TOKEN end_char="4561" id="token-34-11" morph="none" pos="word" start_char="4550">клиническими</TOKEN>
+<TOKEN end_char="4573" id="token-34-12" morph="none" pos="word" start_char="4563">испытаниями</TOKEN>
+<TOKEN end_char="4575" id="token-34-13" morph="none" pos="punct" start_char="4575">-</TOKEN>
+<TOKEN end_char="4577" id="token-34-14" morph="none" pos="word" start_char="4577">а</TOKEN>
+<TOKEN end_char="4580" id="token-34-15" morph="none" pos="word" start_char="4579">их</TOKEN>
+<TOKEN end_char="4582" id="token-34-16" morph="none" pos="word" start_char="4582">в</TOKEN>
+<TOKEN end_char="4589" id="token-34-17" morph="none" pos="word" start_char="4584">случае</TOKEN>
+<TOKEN end_char="4591" id="token-34-18" morph="none" pos="word" start_char="4591">с</TOKEN>
+<TOKEN end_char="4597" id="token-34-19" morph="none" pos="word" start_char="4593">новым</TOKEN>
+<TOKEN end_char="4611" id="token-34-20" morph="none" pos="word" start_char="4599">коронавирусом</TOKEN>
+<TOKEN end_char="4616" id="token-34-21" morph="none" pos="word" start_char="4613">пока</TOKEN>
+<TOKEN end_char="4620" id="token-34-22" morph="none" pos="word" start_char="4618">нет</TOKEN>
+<TOKEN end_char="4621" id="token-34-23" morph="none" pos="punct" start_char="4621">.</TOKEN>
+<TRANSLATED_TEXT>The efficacy and safety of a particular drug or procedure must be proven by appropriate clinical trials - and not yet in the case of new coronavirus.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="4754" id="segment-35" start_char="4623">
+<ORIGINAL_TEXT>Все публикации на эту тему в научных журналах - не более чем попытка врачей поделиться опытом лечения буквально пары-тройки больных.</ORIGINAL_TEXT>
+<TOKEN end_char="4625" id="token-35-0" morph="none" pos="word" start_char="4623">Все</TOKEN>
+<TOKEN end_char="4636" id="token-35-1" morph="none" pos="word" start_char="4627">публикации</TOKEN>
+<TOKEN end_char="4639" id="token-35-2" morph="none" pos="word" start_char="4638">на</TOKEN>
+<TOKEN end_char="4643" id="token-35-3" morph="none" pos="word" start_char="4641">эту</TOKEN>
+<TOKEN end_char="4648" id="token-35-4" morph="none" pos="word" start_char="4645">тему</TOKEN>
+<TOKEN end_char="4650" id="token-35-5" morph="none" pos="word" start_char="4650">в</TOKEN>
+<TOKEN end_char="4658" id="token-35-6" morph="none" pos="word" start_char="4652">научных</TOKEN>
+<TOKEN end_char="4667" id="token-35-7" morph="none" pos="word" start_char="4660">журналах</TOKEN>
+<TOKEN end_char="4669" id="token-35-8" morph="none" pos="punct" start_char="4669">-</TOKEN>
+<TOKEN end_char="4672" id="token-35-9" morph="none" pos="word" start_char="4671">не</TOKEN>
+<TOKEN end_char="4678" id="token-35-10" morph="none" pos="word" start_char="4674">более</TOKEN>
+<TOKEN end_char="4682" id="token-35-11" morph="none" pos="word" start_char="4680">чем</TOKEN>
+<TOKEN end_char="4690" id="token-35-12" morph="none" pos="word" start_char="4684">попытка</TOKEN>
+<TOKEN end_char="4697" id="token-35-13" morph="none" pos="word" start_char="4692">врачей</TOKEN>
+<TOKEN end_char="4708" id="token-35-14" morph="none" pos="word" start_char="4699">поделиться</TOKEN>
+<TOKEN end_char="4715" id="token-35-15" morph="none" pos="word" start_char="4710">опытом</TOKEN>
+<TOKEN end_char="4723" id="token-35-16" morph="none" pos="word" start_char="4717">лечения</TOKEN>
+<TOKEN end_char="4733" id="token-35-17" morph="none" pos="word" start_char="4725">буквально</TOKEN>
+<TOKEN end_char="4745" id="token-35-18" morph="none" pos="unknown" start_char="4735">пары-тройки</TOKEN>
+<TOKEN end_char="4753" id="token-35-19" morph="none" pos="word" start_char="4747">больных</TOKEN>
+<TOKEN end_char="4754" id="token-35-20" morph="none" pos="punct" start_char="4754">.</TOKEN>
+<TRANSLATED_TEXT>All the publications on this subject in scientific journals are nothing more than an attempt by doctors to share the experience of treating literally a couple of three patients.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="5028" id="segment-36" start_char="4757">
+<ORIGINAL_TEXT>Чтобы соблюсти все необходимые формальности, нужно набрать достаточно большое количество тяжелых пациентов с Covid-19, уже подключенных к аппарату ИВЛ, в случайном порядке разбить их на две группы и одной перелить донорскую плазму с антителами, а другой - раствор плацебо.</ORIGINAL_TEXT>
+<TOKEN end_char="4761" id="token-36-0" morph="none" pos="word" start_char="4757">Чтобы</TOKEN>
+<TOKEN end_char="4770" id="token-36-1" morph="none" pos="word" start_char="4763">соблюсти</TOKEN>
+<TOKEN end_char="4774" id="token-36-2" morph="none" pos="word" start_char="4772">все</TOKEN>
+<TOKEN end_char="4786" id="token-36-3" morph="none" pos="word" start_char="4776">необходимые</TOKEN>
+<TOKEN end_char="4799" id="token-36-4" morph="none" pos="word" start_char="4788">формальности</TOKEN>
+<TOKEN end_char="4800" id="token-36-5" morph="none" pos="punct" start_char="4800">,</TOKEN>
+<TOKEN end_char="4806" id="token-36-6" morph="none" pos="word" start_char="4802">нужно</TOKEN>
+<TOKEN end_char="4814" id="token-36-7" morph="none" pos="word" start_char="4808">набрать</TOKEN>
+<TOKEN end_char="4825" id="token-36-8" morph="none" pos="word" start_char="4816">достаточно</TOKEN>
+<TOKEN end_char="4833" id="token-36-9" morph="none" pos="word" start_char="4827">большое</TOKEN>
+<TOKEN end_char="4844" id="token-36-10" morph="none" pos="word" start_char="4835">количество</TOKEN>
+<TOKEN end_char="4852" id="token-36-11" morph="none" pos="word" start_char="4846">тяжелых</TOKEN>
+<TOKEN end_char="4862" id="token-36-12" morph="none" pos="word" start_char="4854">пациентов</TOKEN>
+<TOKEN end_char="4864" id="token-36-13" morph="none" pos="word" start_char="4864">с</TOKEN>
+<TOKEN end_char="4873" id="token-36-14" morph="none" pos="unknown" start_char="4866">Covid-19</TOKEN>
+<TOKEN end_char="4874" id="token-36-15" morph="none" pos="punct" start_char="4874">,</TOKEN>
+<TOKEN end_char="4878" id="token-36-16" morph="none" pos="word" start_char="4876">уже</TOKEN>
+<TOKEN end_char="4891" id="token-36-17" morph="none" pos="word" start_char="4880">подключенных</TOKEN>
+<TOKEN end_char="4893" id="token-36-18" morph="none" pos="word" start_char="4893">к</TOKEN>
+<TOKEN end_char="4902" id="token-36-19" morph="none" pos="word" start_char="4895">аппарату</TOKEN>
+<TOKEN end_char="4906" id="token-36-20" morph="none" pos="word" start_char="4904">ИВЛ</TOKEN>
+<TOKEN end_char="4907" id="token-36-21" morph="none" pos="punct" start_char="4907">,</TOKEN>
+<TOKEN end_char="4909" id="token-36-22" morph="none" pos="word" start_char="4909">в</TOKEN>
+<TOKEN end_char="4919" id="token-36-23" morph="none" pos="word" start_char="4911">случайном</TOKEN>
+<TOKEN end_char="4927" id="token-36-24" morph="none" pos="word" start_char="4921">порядке</TOKEN>
+<TOKEN end_char="4935" id="token-36-25" morph="none" pos="word" start_char="4929">разбить</TOKEN>
+<TOKEN end_char="4938" id="token-36-26" morph="none" pos="word" start_char="4937">их</TOKEN>
+<TOKEN end_char="4941" id="token-36-27" morph="none" pos="word" start_char="4940">на</TOKEN>
+<TOKEN end_char="4945" id="token-36-28" morph="none" pos="word" start_char="4943">две</TOKEN>
+<TOKEN end_char="4952" id="token-36-29" morph="none" pos="word" start_char="4947">группы</TOKEN>
+<TOKEN end_char="4954" id="token-36-30" morph="none" pos="word" start_char="4954">и</TOKEN>
+<TOKEN end_char="4960" id="token-36-31" morph="none" pos="word" start_char="4956">одной</TOKEN>
+<TOKEN end_char="4969" id="token-36-32" morph="none" pos="word" start_char="4962">перелить</TOKEN>
+<TOKEN end_char="4979" id="token-36-33" morph="none" pos="word" start_char="4971">донорскую</TOKEN>
+<TOKEN end_char="4986" id="token-36-34" morph="none" pos="word" start_char="4981">плазму</TOKEN>
+<TOKEN end_char="4988" id="token-36-35" morph="none" pos="word" start_char="4988">с</TOKEN>
+<TOKEN end_char="4999" id="token-36-36" morph="none" pos="word" start_char="4990">антителами</TOKEN>
+<TOKEN end_char="5000" id="token-36-37" morph="none" pos="punct" start_char="5000">,</TOKEN>
+<TOKEN end_char="5002" id="token-36-38" morph="none" pos="word" start_char="5002">а</TOKEN>
+<TOKEN end_char="5009" id="token-36-39" morph="none" pos="word" start_char="5004">другой</TOKEN>
+<TOKEN end_char="5011" id="token-36-40" morph="none" pos="punct" start_char="5011">-</TOKEN>
+<TOKEN end_char="5019" id="token-36-41" morph="none" pos="word" start_char="5013">раствор</TOKEN>
+<TOKEN end_char="5027" id="token-36-42" morph="none" pos="word" start_char="5021">плацебо</TOKEN>
+<TOKEN end_char="5028" id="token-36-43" morph="none" pos="punct" start_char="5028">.</TOKEN>
+<TRANSLATED_TEXT>In order to comply with all the necessary formalities, a sufficient number of heavy Covid-19 patients already connected to the IVL should be collected, randomly split into two groups, one to transfuse donor plasma with antibodies and the other to a placebo solution.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="5160" id="segment-37" start_char="5031">
+<ORIGINAL_TEXT>Только сравнив исход лечения обеих групп, можно будет сделать научный вывод о том, насколько эффективно и безопасно такое лечение.</ORIGINAL_TEXT>
+<TOKEN end_char="5036" id="token-37-0" morph="none" pos="word" start_char="5031">Только</TOKEN>
+<TOKEN end_char="5044" id="token-37-1" morph="none" pos="word" start_char="5038">сравнив</TOKEN>
+<TOKEN end_char="5050" id="token-37-2" morph="none" pos="word" start_char="5046">исход</TOKEN>
+<TOKEN end_char="5058" id="token-37-3" morph="none" pos="word" start_char="5052">лечения</TOKEN>
+<TOKEN end_char="5064" id="token-37-4" morph="none" pos="word" start_char="5060">обеих</TOKEN>
+<TOKEN end_char="5070" id="token-37-5" morph="none" pos="word" start_char="5066">групп</TOKEN>
+<TOKEN end_char="5071" id="token-37-6" morph="none" pos="punct" start_char="5071">,</TOKEN>
+<TOKEN end_char="5077" id="token-37-7" morph="none" pos="word" start_char="5073">можно</TOKEN>
+<TOKEN end_char="5083" id="token-37-8" morph="none" pos="word" start_char="5079">будет</TOKEN>
+<TOKEN end_char="5091" id="token-37-9" morph="none" pos="word" start_char="5085">сделать</TOKEN>
+<TOKEN end_char="5099" id="token-37-10" morph="none" pos="word" start_char="5093">научный</TOKEN>
+<TOKEN end_char="5105" id="token-37-11" morph="none" pos="word" start_char="5101">вывод</TOKEN>
+<TOKEN end_char="5107" id="token-37-12" morph="none" pos="word" start_char="5107">о</TOKEN>
+<TOKEN end_char="5111" id="token-37-13" morph="none" pos="word" start_char="5109">том</TOKEN>
+<TOKEN end_char="5112" id="token-37-14" morph="none" pos="punct" start_char="5112">,</TOKEN>
+<TOKEN end_char="5122" id="token-37-15" morph="none" pos="word" start_char="5114">насколько</TOKEN>
+<TOKEN end_char="5133" id="token-37-16" morph="none" pos="word" start_char="5124">эффективно</TOKEN>
+<TOKEN end_char="5135" id="token-37-17" morph="none" pos="word" start_char="5135">и</TOKEN>
+<TOKEN end_char="5145" id="token-37-18" morph="none" pos="word" start_char="5137">безопасно</TOKEN>
+<TOKEN end_char="5151" id="token-37-19" morph="none" pos="word" start_char="5147">такое</TOKEN>
+<TOKEN end_char="5159" id="token-37-20" morph="none" pos="word" start_char="5153">лечение</TOKEN>
+<TOKEN end_char="5160" id="token-37-21" morph="none" pos="punct" start_char="5160">.</TOKEN>
+<TRANSLATED_TEXT>It is only by comparing the outcomes of treatment for both groups that the scientific conclusion can be drawn as to how effective and safe such treatment is.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="5196" id="segment-38" start_char="5162">
+<ORIGINAL_TEXT>Это единственный признанный способ.</ORIGINAL_TEXT>
+<TOKEN end_char="5164" id="token-38-0" morph="none" pos="word" start_char="5162">Это</TOKEN>
+<TOKEN end_char="5177" id="token-38-1" morph="none" pos="word" start_char="5166">единственный</TOKEN>
+<TOKEN end_char="5188" id="token-38-2" morph="none" pos="word" start_char="5179">признанный</TOKEN>
+<TOKEN end_char="5195" id="token-38-3" morph="none" pos="word" start_char="5190">способ</TOKEN>
+<TOKEN end_char="5196" id="token-38-4" morph="none" pos="punct" start_char="5196">.</TOKEN>
+<TRANSLATED_TEXT>This is the only recognized way.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="5272" id="segment-39" start_char="5199">
+<ORIGINAL_TEXT>Однако в условиях пандемии нового вируса подобные эксперименты невозможны.</ORIGINAL_TEXT>
+<TOKEN end_char="5204" id="token-39-0" morph="none" pos="word" start_char="5199">Однако</TOKEN>
+<TOKEN end_char="5206" id="token-39-1" morph="none" pos="word" start_char="5206">в</TOKEN>
+<TOKEN end_char="5215" id="token-39-2" morph="none" pos="word" start_char="5208">условиях</TOKEN>
+<TOKEN end_char="5224" id="token-39-3" morph="none" pos="word" start_char="5217">пандемии</TOKEN>
+<TOKEN end_char="5231" id="token-39-4" morph="none" pos="word" start_char="5226">нового</TOKEN>
+<TOKEN end_char="5238" id="token-39-5" morph="none" pos="word" start_char="5233">вируса</TOKEN>
+<TOKEN end_char="5247" id="token-39-6" morph="none" pos="word" start_char="5240">подобные</TOKEN>
+<TOKEN end_char="5260" id="token-39-7" morph="none" pos="word" start_char="5249">эксперименты</TOKEN>
+<TOKEN end_char="5271" id="token-39-8" morph="none" pos="word" start_char="5262">невозможны</TOKEN>
+<TOKEN end_char="5272" id="token-39-9" morph="none" pos="punct" start_char="5272">.</TOKEN>
+<TRANSLATED_TEXT>However, with the new virus pandemic, such experiments are not possible.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="5413" id="segment-40" start_char="5274">
+<ORIGINAL_TEXT>Влить контрольной группе тяжелобольных пациентов вместо настоящей плазмы плацебо - возможно, лишить их единственного шанса на выздоровление.</ORIGINAL_TEXT>
+<TOKEN end_char="5278" id="token-40-0" morph="none" pos="word" start_char="5274">Влить</TOKEN>
+<TOKEN end_char="5290" id="token-40-1" morph="none" pos="word" start_char="5280">контрольной</TOKEN>
+<TOKEN end_char="5297" id="token-40-2" morph="none" pos="word" start_char="5292">группе</TOKEN>
+<TOKEN end_char="5311" id="token-40-3" morph="none" pos="word" start_char="5299">тяжелобольных</TOKEN>
+<TOKEN end_char="5321" id="token-40-4" morph="none" pos="word" start_char="5313">пациентов</TOKEN>
+<TOKEN end_char="5328" id="token-40-5" morph="none" pos="word" start_char="5323">вместо</TOKEN>
+<TOKEN end_char="5338" id="token-40-6" morph="none" pos="word" start_char="5330">настоящей</TOKEN>
+<TOKEN end_char="5345" id="token-40-7" morph="none" pos="word" start_char="5340">плазмы</TOKEN>
+<TOKEN end_char="5353" id="token-40-8" morph="none" pos="word" start_char="5347">плацебо</TOKEN>
+<TOKEN end_char="5355" id="token-40-9" morph="none" pos="punct" start_char="5355">-</TOKEN>
+<TOKEN end_char="5364" id="token-40-10" morph="none" pos="word" start_char="5357">возможно</TOKEN>
+<TOKEN end_char="5365" id="token-40-11" morph="none" pos="punct" start_char="5365">,</TOKEN>
+<TOKEN end_char="5372" id="token-40-12" morph="none" pos="word" start_char="5367">лишить</TOKEN>
+<TOKEN end_char="5375" id="token-40-13" morph="none" pos="word" start_char="5374">их</TOKEN>
+<TOKEN end_char="5389" id="token-40-14" morph="none" pos="word" start_char="5377">единственного</TOKEN>
+<TOKEN end_char="5395" id="token-40-15" morph="none" pos="word" start_char="5391">шанса</TOKEN>
+<TOKEN end_char="5398" id="token-40-16" morph="none" pos="word" start_char="5397">на</TOKEN>
+<TOKEN end_char="5412" id="token-40-17" morph="none" pos="word" start_char="5400">выздоровление</TOKEN>
+<TOKEN end_char="5413" id="token-40-18" morph="none" pos="punct" start_char="5413">.</TOKEN>
+<TRANSLATED_TEXT>Injecting a control group of severely ill patients instead of a real placebo plasma may deprive them of their only chance of recovery.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="5530" id="segment-41" start_char="5416">
+<ORIGINAL_TEXT>Единственный допустимый вариант - когда пациент уже находится в реанимации, но его состояние продолжает ухудшаться.</ORIGINAL_TEXT>
+<TOKEN end_char="5427" id="token-41-0" morph="none" pos="word" start_char="5416">Единственный</TOKEN>
+<TOKEN end_char="5438" id="token-41-1" morph="none" pos="word" start_char="5429">допустимый</TOKEN>
+<TOKEN end_char="5446" id="token-41-2" morph="none" pos="word" start_char="5440">вариант</TOKEN>
+<TOKEN end_char="5448" id="token-41-3" morph="none" pos="punct" start_char="5448">-</TOKEN>
+<TOKEN end_char="5454" id="token-41-4" morph="none" pos="word" start_char="5450">когда</TOKEN>
+<TOKEN end_char="5462" id="token-41-5" morph="none" pos="word" start_char="5456">пациент</TOKEN>
+<TOKEN end_char="5466" id="token-41-6" morph="none" pos="word" start_char="5464">уже</TOKEN>
+<TOKEN end_char="5476" id="token-41-7" morph="none" pos="word" start_char="5468">находится</TOKEN>
+<TOKEN end_char="5478" id="token-41-8" morph="none" pos="word" start_char="5478">в</TOKEN>
+<TOKEN end_char="5489" id="token-41-9" morph="none" pos="word" start_char="5480">реанимации</TOKEN>
+<TOKEN end_char="5490" id="token-41-10" morph="none" pos="punct" start_char="5490">,</TOKEN>
+<TOKEN end_char="5493" id="token-41-11" morph="none" pos="word" start_char="5492">но</TOKEN>
+<TOKEN end_char="5497" id="token-41-12" morph="none" pos="word" start_char="5495">его</TOKEN>
+<TOKEN end_char="5507" id="token-41-13" morph="none" pos="word" start_char="5499">состояние</TOKEN>
+<TOKEN end_char="5518" id="token-41-14" morph="none" pos="word" start_char="5509">продолжает</TOKEN>
+<TOKEN end_char="5529" id="token-41-15" morph="none" pos="word" start_char="5520">ухудшаться</TOKEN>
+<TOKEN end_char="5530" id="token-41-16" morph="none" pos="punct" start_char="5530">.</TOKEN>
+<TRANSLATED_TEXT>The only acceptable option is when the patient is already in intensive care, but his condition continues to deteriorate.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="5649" id="segment-42" start_char="5532">
+<ORIGINAL_TEXT>Тогда можно попробовать спасти безнадежного больного и экспериментальным способом, который не рекомендован официально.</ORIGINAL_TEXT>
+<TOKEN end_char="5536" id="token-42-0" morph="none" pos="word" start_char="5532">Тогда</TOKEN>
+<TOKEN end_char="5542" id="token-42-1" morph="none" pos="word" start_char="5538">можно</TOKEN>
+<TOKEN end_char="5554" id="token-42-2" morph="none" pos="word" start_char="5544">попробовать</TOKEN>
+<TOKEN end_char="5561" id="token-42-3" morph="none" pos="word" start_char="5556">спасти</TOKEN>
+<TOKEN end_char="5574" id="token-42-4" morph="none" pos="word" start_char="5563">безнадежного</TOKEN>
+<TOKEN end_char="5583" id="token-42-5" morph="none" pos="word" start_char="5576">больного</TOKEN>
+<TOKEN end_char="5585" id="token-42-6" morph="none" pos="word" start_char="5585">и</TOKEN>
+<TOKEN end_char="5603" id="token-42-7" morph="none" pos="word" start_char="5587">экспериментальным</TOKEN>
+<TOKEN end_char="5612" id="token-42-8" morph="none" pos="word" start_char="5605">способом</TOKEN>
+<TOKEN end_char="5613" id="token-42-9" morph="none" pos="punct" start_char="5613">,</TOKEN>
+<TOKEN end_char="5621" id="token-42-10" morph="none" pos="word" start_char="5615">который</TOKEN>
+<TOKEN end_char="5624" id="token-42-11" morph="none" pos="word" start_char="5623">не</TOKEN>
+<TOKEN end_char="5637" id="token-42-12" morph="none" pos="word" start_char="5626">рекомендован</TOKEN>
+<TOKEN end_char="5648" id="token-42-13" morph="none" pos="word" start_char="5639">официально</TOKEN>
+<TOKEN end_char="5649" id="token-42-14" morph="none" pos="punct" start_char="5649">.</TOKEN>
+<TRANSLATED_TEXT>Then you can try to save the unreliable patient in an experimental way that is not officially recommended.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="5944" id="segment-43" start_char="5652">
+<ORIGINAL_TEXT>По словам Григорьянца, переливать плазму имеет смысл именно на последнем, критическом этапе болезни, когда "эффект от переливания просто плазмы - со всеми ее плюсами, которые она несет в себе фундаментально, - намного превалирует над эффектом экспериментального антивирусного лечения больных".</ORIGINAL_TEXT>
+<TOKEN end_char="5653" id="token-43-0" morph="none" pos="word" start_char="5652">По</TOKEN>
+<TOKEN end_char="5660" id="token-43-1" morph="none" pos="word" start_char="5655">словам</TOKEN>
+<TOKEN end_char="5672" id="token-43-2" morph="none" pos="word" start_char="5662">Григорьянца</TOKEN>
+<TOKEN end_char="5673" id="token-43-3" morph="none" pos="punct" start_char="5673">,</TOKEN>
+<TOKEN end_char="5684" id="token-43-4" morph="none" pos="word" start_char="5675">переливать</TOKEN>
+<TOKEN end_char="5691" id="token-43-5" morph="none" pos="word" start_char="5686">плазму</TOKEN>
+<TOKEN end_char="5697" id="token-43-6" morph="none" pos="word" start_char="5693">имеет</TOKEN>
+<TOKEN end_char="5703" id="token-43-7" morph="none" pos="word" start_char="5699">смысл</TOKEN>
+<TOKEN end_char="5710" id="token-43-8" morph="none" pos="word" start_char="5705">именно</TOKEN>
+<TOKEN end_char="5713" id="token-43-9" morph="none" pos="word" start_char="5712">на</TOKEN>
+<TOKEN end_char="5723" id="token-43-10" morph="none" pos="word" start_char="5715">последнем</TOKEN>
+<TOKEN end_char="5724" id="token-43-11" morph="none" pos="punct" start_char="5724">,</TOKEN>
+<TOKEN end_char="5736" id="token-43-12" morph="none" pos="word" start_char="5726">критическом</TOKEN>
+<TOKEN end_char="5742" id="token-43-13" morph="none" pos="word" start_char="5738">этапе</TOKEN>
+<TOKEN end_char="5750" id="token-43-14" morph="none" pos="word" start_char="5744">болезни</TOKEN>
+<TOKEN end_char="5751" id="token-43-15" morph="none" pos="punct" start_char="5751">,</TOKEN>
+<TOKEN end_char="5757" id="token-43-16" morph="none" pos="word" start_char="5753">когда</TOKEN>
+<TOKEN end_char="5759" id="token-43-17" morph="none" pos="punct" start_char="5759">"</TOKEN>
+<TOKEN end_char="5765" id="token-43-18" morph="none" pos="word" start_char="5760">эффект</TOKEN>
+<TOKEN end_char="5768" id="token-43-19" morph="none" pos="word" start_char="5767">от</TOKEN>
+<TOKEN end_char="5780" id="token-43-20" morph="none" pos="word" start_char="5770">переливания</TOKEN>
+<TOKEN end_char="5787" id="token-43-21" morph="none" pos="word" start_char="5782">просто</TOKEN>
+<TOKEN end_char="5794" id="token-43-22" morph="none" pos="word" start_char="5789">плазмы</TOKEN>
+<TOKEN end_char="5796" id="token-43-23" morph="none" pos="punct" start_char="5796">-</TOKEN>
+<TOKEN end_char="5799" id="token-43-24" morph="none" pos="word" start_char="5798">со</TOKEN>
+<TOKEN end_char="5805" id="token-43-25" morph="none" pos="word" start_char="5801">всеми</TOKEN>
+<TOKEN end_char="5808" id="token-43-26" morph="none" pos="word" start_char="5807">ее</TOKEN>
+<TOKEN end_char="5816" id="token-43-27" morph="none" pos="word" start_char="5810">плюсами</TOKEN>
+<TOKEN end_char="5817" id="token-43-28" morph="none" pos="punct" start_char="5817">,</TOKEN>
+<TOKEN end_char="5825" id="token-43-29" morph="none" pos="word" start_char="5819">которые</TOKEN>
+<TOKEN end_char="5829" id="token-43-30" morph="none" pos="word" start_char="5827">она</TOKEN>
+<TOKEN end_char="5835" id="token-43-31" morph="none" pos="word" start_char="5831">несет</TOKEN>
+<TOKEN end_char="5837" id="token-43-32" morph="none" pos="word" start_char="5837">в</TOKEN>
+<TOKEN end_char="5842" id="token-43-33" morph="none" pos="word" start_char="5839">себе</TOKEN>
+<TOKEN end_char="5857" id="token-43-34" morph="none" pos="word" start_char="5844">фундаментально</TOKEN>
+<TOKEN end_char="5858" id="token-43-35" morph="none" pos="punct" start_char="5858">,</TOKEN>
+<TOKEN end_char="5860" id="token-43-36" morph="none" pos="punct" start_char="5860">-</TOKEN>
+<TOKEN end_char="5868" id="token-43-37" morph="none" pos="word" start_char="5862">намного</TOKEN>
+<TOKEN end_char="5880" id="token-43-38" morph="none" pos="word" start_char="5870">превалирует</TOKEN>
+<TOKEN end_char="5884" id="token-43-39" morph="none" pos="word" start_char="5882">над</TOKEN>
+<TOKEN end_char="5893" id="token-43-40" morph="none" pos="word" start_char="5886">эффектом</TOKEN>
+<TOKEN end_char="5912" id="token-43-41" morph="none" pos="word" start_char="5895">экспериментального</TOKEN>
+<TOKEN end_char="5926" id="token-43-42" morph="none" pos="word" start_char="5914">антивирусного</TOKEN>
+<TOKEN end_char="5934" id="token-43-43" morph="none" pos="word" start_char="5928">лечения</TOKEN>
+<TOKEN end_char="5942" id="token-43-44" morph="none" pos="word" start_char="5936">больных</TOKEN>
+<TOKEN end_char="5944" id="token-43-45" morph="none" pos="punct" start_char="5943">".</TOKEN>
+<TRANSLATED_TEXT>According to Grigoryantz, transfusing plasma makes sense precisely at the last critical stage of the disease, when "the effect of transfusing just plasma - with all its benefits that it carries in it fundamentally - far outweighs the effect of experimental antiviral treatment of patients."</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="6035" id="segment-44" start_char="5947">
+<ORIGINAL_TEXT>"Именно этим я озадачен, когда вижу большую пропаганду использования антивирусной плазмы.</ORIGINAL_TEXT>
+<TOKEN end_char="5947" id="token-44-0" morph="none" pos="punct" start_char="5947">"</TOKEN>
+<TOKEN end_char="5953" id="token-44-1" morph="none" pos="word" start_char="5948">Именно</TOKEN>
+<TOKEN end_char="5958" id="token-44-2" morph="none" pos="word" start_char="5955">этим</TOKEN>
+<TOKEN end_char="5960" id="token-44-3" morph="none" pos="word" start_char="5960">я</TOKEN>
+<TOKEN end_char="5969" id="token-44-4" morph="none" pos="word" start_char="5962">озадачен</TOKEN>
+<TOKEN end_char="5970" id="token-44-5" morph="none" pos="punct" start_char="5970">,</TOKEN>
+<TOKEN end_char="5976" id="token-44-6" morph="none" pos="word" start_char="5972">когда</TOKEN>
+<TOKEN end_char="5981" id="token-44-7" morph="none" pos="word" start_char="5978">вижу</TOKEN>
+<TOKEN end_char="5989" id="token-44-8" morph="none" pos="word" start_char="5983">большую</TOKEN>
+<TOKEN end_char="6000" id="token-44-9" morph="none" pos="word" start_char="5991">пропаганду</TOKEN>
+<TOKEN end_char="6014" id="token-44-10" morph="none" pos="word" start_char="6002">использования</TOKEN>
+<TOKEN end_char="6027" id="token-44-11" morph="none" pos="word" start_char="6016">антивирусной</TOKEN>
+<TOKEN end_char="6034" id="token-44-12" morph="none" pos="word" start_char="6029">плазмы</TOKEN>
+<TOKEN end_char="6035" id="token-44-13" morph="none" pos="punct" start_char="6035">.</TOKEN>
+<TRANSLATED_TEXT>That's what I'm puzzled about when I see the big promotion of using antivirus plasma.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="6213" id="segment-45" start_char="6037">
+<ORIGINAL_TEXT>Я убежден, что сегодня проблема дефицита факторов и компонентов крови намного более существенна, чем экспериментальное использование иммунизированной плазмы", - говорит эксперт.</ORIGINAL_TEXT>
+<TOKEN end_char="6037" id="token-45-0" morph="none" pos="word" start_char="6037">Я</TOKEN>
+<TOKEN end_char="6045" id="token-45-1" morph="none" pos="word" start_char="6039">убежден</TOKEN>
+<TOKEN end_char="6046" id="token-45-2" morph="none" pos="punct" start_char="6046">,</TOKEN>
+<TOKEN end_char="6050" id="token-45-3" morph="none" pos="word" start_char="6048">что</TOKEN>
+<TOKEN end_char="6058" id="token-45-4" morph="none" pos="word" start_char="6052">сегодня</TOKEN>
+<TOKEN end_char="6067" id="token-45-5" morph="none" pos="word" start_char="6060">проблема</TOKEN>
+<TOKEN end_char="6076" id="token-45-6" morph="none" pos="word" start_char="6069">дефицита</TOKEN>
+<TOKEN end_char="6085" id="token-45-7" morph="none" pos="word" start_char="6078">факторов</TOKEN>
+<TOKEN end_char="6087" id="token-45-8" morph="none" pos="word" start_char="6087">и</TOKEN>
+<TOKEN end_char="6099" id="token-45-9" morph="none" pos="word" start_char="6089">компонентов</TOKEN>
+<TOKEN end_char="6105" id="token-45-10" morph="none" pos="word" start_char="6101">крови</TOKEN>
+<TOKEN end_char="6113" id="token-45-11" morph="none" pos="word" start_char="6107">намного</TOKEN>
+<TOKEN end_char="6119" id="token-45-12" morph="none" pos="word" start_char="6115">более</TOKEN>
+<TOKEN end_char="6131" id="token-45-13" morph="none" pos="word" start_char="6121">существенна</TOKEN>
+<TOKEN end_char="6132" id="token-45-14" morph="none" pos="punct" start_char="6132">,</TOKEN>
+<TOKEN end_char="6136" id="token-45-15" morph="none" pos="word" start_char="6134">чем</TOKEN>
+<TOKEN end_char="6154" id="token-45-16" morph="none" pos="word" start_char="6138">экспериментальное</TOKEN>
+<TOKEN end_char="6168" id="token-45-17" morph="none" pos="word" start_char="6156">использование</TOKEN>
+<TOKEN end_char="6185" id="token-45-18" morph="none" pos="word" start_char="6170">иммунизированной</TOKEN>
+<TOKEN end_char="6192" id="token-45-19" morph="none" pos="word" start_char="6187">плазмы</TOKEN>
+<TOKEN end_char="6194" id="token-45-20" morph="none" pos="punct" start_char="6193">",</TOKEN>
+<TOKEN end_char="6196" id="token-45-21" morph="none" pos="punct" start_char="6196">-</TOKEN>
+<TOKEN end_char="6204" id="token-45-22" morph="none" pos="word" start_char="6198">говорит</TOKEN>
+<TOKEN end_char="6212" id="token-45-23" morph="none" pos="word" start_char="6206">эксперт</TOKEN>
+<TOKEN end_char="6213" id="token-45-24" morph="none" pos="punct" start_char="6213">.</TOKEN>
+<TRANSLATED_TEXT>I am convinced that today the problem of deficiency of blood factors and components is much more significant than the experimental use of immunized plasma, "said the expert.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="6327" id="segment-46" start_char="6216">
+<ORIGINAL_TEXT>В то же время Григорьянц отмечает, что масштабное применение плазменной терапии в любом случае вряд ли возможно.</ORIGINAL_TEXT>
+<TOKEN end_char="6216" id="token-46-0" morph="none" pos="word" start_char="6216">В</TOKEN>
+<TOKEN end_char="6219" id="token-46-1" morph="none" pos="word" start_char="6218">то</TOKEN>
+<TOKEN end_char="6222" id="token-46-2" morph="none" pos="word" start_char="6221">же</TOKEN>
+<TOKEN end_char="6228" id="token-46-3" morph="none" pos="word" start_char="6224">время</TOKEN>
+<TOKEN end_char="6239" id="token-46-4" morph="none" pos="word" start_char="6230">Григорьянц</TOKEN>
+<TOKEN end_char="6248" id="token-46-5" morph="none" pos="word" start_char="6241">отмечает</TOKEN>
+<TOKEN end_char="6249" id="token-46-6" morph="none" pos="punct" start_char="6249">,</TOKEN>
+<TOKEN end_char="6253" id="token-46-7" morph="none" pos="word" start_char="6251">что</TOKEN>
+<TOKEN end_char="6264" id="token-46-8" morph="none" pos="word" start_char="6255">масштабное</TOKEN>
+<TOKEN end_char="6275" id="token-46-9" morph="none" pos="word" start_char="6266">применение</TOKEN>
+<TOKEN end_char="6286" id="token-46-10" morph="none" pos="word" start_char="6277">плазменной</TOKEN>
+<TOKEN end_char="6294" id="token-46-11" morph="none" pos="word" start_char="6288">терапии</TOKEN>
+<TOKEN end_char="6296" id="token-46-12" morph="none" pos="word" start_char="6296">в</TOKEN>
+<TOKEN end_char="6302" id="token-46-13" morph="none" pos="word" start_char="6298">любом</TOKEN>
+<TOKEN end_char="6309" id="token-46-14" morph="none" pos="word" start_char="6304">случае</TOKEN>
+<TOKEN end_char="6314" id="token-46-15" morph="none" pos="word" start_char="6311">вряд</TOKEN>
+<TOKEN end_char="6317" id="token-46-16" morph="none" pos="word" start_char="6316">ли</TOKEN>
+<TOKEN end_char="6326" id="token-46-17" morph="none" pos="word" start_char="6319">возможно</TOKEN>
+<TOKEN end_char="6327" id="token-46-18" morph="none" pos="punct" start_char="6327">.</TOKEN>
+<TRANSLATED_TEXT>However, Grigoryantz notes that a large-scale application of plasma therapy is unlikely to be possible in any case.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="6446" id="segment-47" start_char="6329">
+<ORIGINAL_TEXT>Достаточная концентрация антител в крови есть только у 30% переболевших, и далеко не все из них готовы стать донорами.</ORIGINAL_TEXT>
+<TOKEN end_char="6339" id="token-47-0" morph="none" pos="word" start_char="6329">Достаточная</TOKEN>
+<TOKEN end_char="6352" id="token-47-1" morph="none" pos="word" start_char="6341">концентрация</TOKEN>
+<TOKEN end_char="6360" id="token-47-2" morph="none" pos="word" start_char="6354">антител</TOKEN>
+<TOKEN end_char="6362" id="token-47-3" morph="none" pos="word" start_char="6362">в</TOKEN>
+<TOKEN end_char="6368" id="token-47-4" morph="none" pos="word" start_char="6364">крови</TOKEN>
+<TOKEN end_char="6373" id="token-47-5" morph="none" pos="word" start_char="6370">есть</TOKEN>
+<TOKEN end_char="6380" id="token-47-6" morph="none" pos="word" start_char="6375">только</TOKEN>
+<TOKEN end_char="6382" id="token-47-7" morph="none" pos="word" start_char="6382">у</TOKEN>
+<TOKEN end_char="6385" id="token-47-8" morph="none" pos="word" start_char="6384">30</TOKEN>
+<TOKEN end_char="6386" id="token-47-9" morph="none" pos="punct" start_char="6386">%</TOKEN>
+<TOKEN end_char="6399" id="token-47-10" morph="none" pos="word" start_char="6388">переболевших</TOKEN>
+<TOKEN end_char="6400" id="token-47-11" morph="none" pos="punct" start_char="6400">,</TOKEN>
+<TOKEN end_char="6402" id="token-47-12" morph="none" pos="word" start_char="6402">и</TOKEN>
+<TOKEN end_char="6409" id="token-47-13" morph="none" pos="word" start_char="6404">далеко</TOKEN>
+<TOKEN end_char="6412" id="token-47-14" morph="none" pos="word" start_char="6411">не</TOKEN>
+<TOKEN end_char="6416" id="token-47-15" morph="none" pos="word" start_char="6414">все</TOKEN>
+<TOKEN end_char="6419" id="token-47-16" morph="none" pos="word" start_char="6418">из</TOKEN>
+<TOKEN end_char="6423" id="token-47-17" morph="none" pos="word" start_char="6421">них</TOKEN>
+<TOKEN end_char="6430" id="token-47-18" morph="none" pos="word" start_char="6425">готовы</TOKEN>
+<TOKEN end_char="6436" id="token-47-19" morph="none" pos="word" start_char="6432">стать</TOKEN>
+<TOKEN end_char="6445" id="token-47-20" morph="none" pos="word" start_char="6438">донорами</TOKEN>
+<TOKEN end_char="6446" id="token-47-21" morph="none" pos="punct" start_char="6446">.</TOKEN>
+<TRANSLATED_TEXT>Only 30% of patients have sufficient antibody concentrations in their blood, and not all are ready to donate.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="6664" id="segment-48" start_char="6449">
+<ORIGINAL_TEXT>Павел Мадонов, напротив, убежден, что в идеале - после прохождения клинических испытаний - антивирусная плазма будет нужна как раз не критически больным пациентам, а тем, у кого заболевание только начало развиваться.</ORIGINAL_TEXT>
+<TOKEN end_char="6453" id="token-48-0" morph="none" pos="word" start_char="6449">Павел</TOKEN>
+<TOKEN end_char="6461" id="token-48-1" morph="none" pos="word" start_char="6455">Мадонов</TOKEN>
+<TOKEN end_char="6462" id="token-48-2" morph="none" pos="punct" start_char="6462">,</TOKEN>
+<TOKEN end_char="6471" id="token-48-3" morph="none" pos="word" start_char="6464">напротив</TOKEN>
+<TOKEN end_char="6472" id="token-48-4" morph="none" pos="punct" start_char="6472">,</TOKEN>
+<TOKEN end_char="6480" id="token-48-5" morph="none" pos="word" start_char="6474">убежден</TOKEN>
+<TOKEN end_char="6481" id="token-48-6" morph="none" pos="punct" start_char="6481">,</TOKEN>
+<TOKEN end_char="6485" id="token-48-7" morph="none" pos="word" start_char="6483">что</TOKEN>
+<TOKEN end_char="6487" id="token-48-8" morph="none" pos="word" start_char="6487">в</TOKEN>
+<TOKEN end_char="6494" id="token-48-9" morph="none" pos="word" start_char="6489">идеале</TOKEN>
+<TOKEN end_char="6496" id="token-48-10" morph="none" pos="punct" start_char="6496">-</TOKEN>
+<TOKEN end_char="6502" id="token-48-11" morph="none" pos="word" start_char="6498">после</TOKEN>
+<TOKEN end_char="6514" id="token-48-12" morph="none" pos="word" start_char="6504">прохождения</TOKEN>
+<TOKEN end_char="6526" id="token-48-13" morph="none" pos="word" start_char="6516">клинических</TOKEN>
+<TOKEN end_char="6536" id="token-48-14" morph="none" pos="word" start_char="6528">испытаний</TOKEN>
+<TOKEN end_char="6538" id="token-48-15" morph="none" pos="punct" start_char="6538">-</TOKEN>
+<TOKEN end_char="6551" id="token-48-16" morph="none" pos="word" start_char="6540">антивирусная</TOKEN>
+<TOKEN end_char="6558" id="token-48-17" morph="none" pos="word" start_char="6553">плазма</TOKEN>
+<TOKEN end_char="6564" id="token-48-18" morph="none" pos="word" start_char="6560">будет</TOKEN>
+<TOKEN end_char="6570" id="token-48-19" morph="none" pos="word" start_char="6566">нужна</TOKEN>
+<TOKEN end_char="6574" id="token-48-20" morph="none" pos="word" start_char="6572">как</TOKEN>
+<TOKEN end_char="6578" id="token-48-21" morph="none" pos="word" start_char="6576">раз</TOKEN>
+<TOKEN end_char="6581" id="token-48-22" morph="none" pos="word" start_char="6580">не</TOKEN>
+<TOKEN end_char="6592" id="token-48-23" morph="none" pos="word" start_char="6583">критически</TOKEN>
+<TOKEN end_char="6600" id="token-48-24" morph="none" pos="word" start_char="6594">больным</TOKEN>
+<TOKEN end_char="6610" id="token-48-25" morph="none" pos="word" start_char="6602">пациентам</TOKEN>
+<TOKEN end_char="6611" id="token-48-26" morph="none" pos="punct" start_char="6611">,</TOKEN>
+<TOKEN end_char="6613" id="token-48-27" morph="none" pos="word" start_char="6613">а</TOKEN>
+<TOKEN end_char="6617" id="token-48-28" morph="none" pos="word" start_char="6615">тем</TOKEN>
+<TOKEN end_char="6618" id="token-48-29" morph="none" pos="punct" start_char="6618">,</TOKEN>
+<TOKEN end_char="6620" id="token-48-30" morph="none" pos="word" start_char="6620">у</TOKEN>
+<TOKEN end_char="6625" id="token-48-31" morph="none" pos="word" start_char="6622">кого</TOKEN>
+<TOKEN end_char="6637" id="token-48-32" morph="none" pos="word" start_char="6627">заболевание</TOKEN>
+<TOKEN end_char="6644" id="token-48-33" morph="none" pos="word" start_char="6639">только</TOKEN>
+<TOKEN end_char="6651" id="token-48-34" morph="none" pos="word" start_char="6646">начало</TOKEN>
+<TOKEN end_char="6663" id="token-48-35" morph="none" pos="word" start_char="6653">развиваться</TOKEN>
+<TOKEN end_char="6664" id="token-48-36" morph="none" pos="punct" start_char="6664">.</TOKEN>
+<TRANSLATED_TEXT>Pavel Madonov, on the other hand, is convinced that, ideally - after clinical trials - antiviral plasma will be needed not just for critically ill patients, but for those who have just begun to develop the disease.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="6781" id="segment-49" start_char="6666">
+<ORIGINAL_TEXT>Бороться с вирусом, по его словам, имеет смысл тогда, когда он только прорвался из органов дыхания в общий кровоток.</ORIGINAL_TEXT>
+<TOKEN end_char="6673" id="token-49-0" morph="none" pos="word" start_char="6666">Бороться</TOKEN>
+<TOKEN end_char="6675" id="token-49-1" morph="none" pos="word" start_char="6675">с</TOKEN>
+<TOKEN end_char="6683" id="token-49-2" morph="none" pos="word" start_char="6677">вирусом</TOKEN>
+<TOKEN end_char="6684" id="token-49-3" morph="none" pos="punct" start_char="6684">,</TOKEN>
+<TOKEN end_char="6687" id="token-49-4" morph="none" pos="word" start_char="6686">по</TOKEN>
+<TOKEN end_char="6691" id="token-49-5" morph="none" pos="word" start_char="6689">его</TOKEN>
+<TOKEN end_char="6698" id="token-49-6" morph="none" pos="word" start_char="6693">словам</TOKEN>
+<TOKEN end_char="6699" id="token-49-7" morph="none" pos="punct" start_char="6699">,</TOKEN>
+<TOKEN end_char="6705" id="token-49-8" morph="none" pos="word" start_char="6701">имеет</TOKEN>
+<TOKEN end_char="6711" id="token-49-9" morph="none" pos="word" start_char="6707">смысл</TOKEN>
+<TOKEN end_char="6717" id="token-49-10" morph="none" pos="word" start_char="6713">тогда</TOKEN>
+<TOKEN end_char="6718" id="token-49-11" morph="none" pos="punct" start_char="6718">,</TOKEN>
+<TOKEN end_char="6724" id="token-49-12" morph="none" pos="word" start_char="6720">когда</TOKEN>
+<TOKEN end_char="6727" id="token-49-13" morph="none" pos="word" start_char="6726">он</TOKEN>
+<TOKEN end_char="6734" id="token-49-14" morph="none" pos="word" start_char="6729">только</TOKEN>
+<TOKEN end_char="6744" id="token-49-15" morph="none" pos="word" start_char="6736">прорвался</TOKEN>
+<TOKEN end_char="6747" id="token-49-16" morph="none" pos="word" start_char="6746">из</TOKEN>
+<TOKEN end_char="6755" id="token-49-17" morph="none" pos="word" start_char="6749">органов</TOKEN>
+<TOKEN end_char="6763" id="token-49-18" morph="none" pos="word" start_char="6757">дыхания</TOKEN>
+<TOKEN end_char="6765" id="token-49-19" morph="none" pos="word" start_char="6765">в</TOKEN>
+<TOKEN end_char="6771" id="token-49-20" morph="none" pos="word" start_char="6767">общий</TOKEN>
+<TOKEN end_char="6780" id="token-49-21" morph="none" pos="word" start_char="6773">кровоток</TOKEN>
+<TOKEN end_char="6781" id="token-49-22" morph="none" pos="punct" start_char="6781">.</TOKEN>
+<TRANSLATED_TEXT>Fighting the virus, he said, makes sense when it just breaks out of the respiratory system into the general bloodstream.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="6833" id="segment-50" start_char="6784">
+<ORIGINAL_TEXT>"Вирус опасен только осложнениями, - объясняет он.</ORIGINAL_TEXT>
+<TOKEN end_char="6784" id="token-50-0" morph="none" pos="punct" start_char="6784">"</TOKEN>
+<TOKEN end_char="6789" id="token-50-1" morph="none" pos="word" start_char="6785">Вирус</TOKEN>
+<TOKEN end_char="6796" id="token-50-2" morph="none" pos="word" start_char="6791">опасен</TOKEN>
+<TOKEN end_char="6803" id="token-50-3" morph="none" pos="word" start_char="6798">только</TOKEN>
+<TOKEN end_char="6816" id="token-50-4" morph="none" pos="word" start_char="6805">осложнениями</TOKEN>
+<TOKEN end_char="6817" id="token-50-5" morph="none" pos="punct" start_char="6817">,</TOKEN>
+<TOKEN end_char="6819" id="token-50-6" morph="none" pos="punct" start_char="6819">-</TOKEN>
+<TOKEN end_char="6829" id="token-50-7" morph="none" pos="word" start_char="6821">объясняет</TOKEN>
+<TOKEN end_char="6832" id="token-50-8" morph="none" pos="word" start_char="6831">он</TOKEN>
+<TOKEN end_char="6833" id="token-50-9" morph="none" pos="punct" start_char="6833">.</TOKEN>
+<TRANSLATED_TEXT>"The virus is only dangerous with complications," he explains.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="7018" id="segment-51" start_char="6835">
+<ORIGINAL_TEXT>- Сам факт его присутствия в организме не так опасен, но он формирует специфические осложнения: мощное воспаление в легочной ткани, которое вызывает острую дыхательную недостаточность.</ORIGINAL_TEXT>
+<TOKEN end_char="6835" id="token-51-0" morph="none" pos="punct" start_char="6835">-</TOKEN>
+<TOKEN end_char="6839" id="token-51-1" morph="none" pos="word" start_char="6837">Сам</TOKEN>
+<TOKEN end_char="6844" id="token-51-2" morph="none" pos="word" start_char="6841">факт</TOKEN>
+<TOKEN end_char="6848" id="token-51-3" morph="none" pos="word" start_char="6846">его</TOKEN>
+<TOKEN end_char="6860" id="token-51-4" morph="none" pos="word" start_char="6850">присутствия</TOKEN>
+<TOKEN end_char="6862" id="token-51-5" morph="none" pos="word" start_char="6862">в</TOKEN>
+<TOKEN end_char="6872" id="token-51-6" morph="none" pos="word" start_char="6864">организме</TOKEN>
+<TOKEN end_char="6875" id="token-51-7" morph="none" pos="word" start_char="6874">не</TOKEN>
+<TOKEN end_char="6879" id="token-51-8" morph="none" pos="word" start_char="6877">так</TOKEN>
+<TOKEN end_char="6886" id="token-51-9" morph="none" pos="word" start_char="6881">опасен</TOKEN>
+<TOKEN end_char="6887" id="token-51-10" morph="none" pos="punct" start_char="6887">,</TOKEN>
+<TOKEN end_char="6890" id="token-51-11" morph="none" pos="word" start_char="6889">но</TOKEN>
+<TOKEN end_char="6893" id="token-51-12" morph="none" pos="word" start_char="6892">он</TOKEN>
+<TOKEN end_char="6903" id="token-51-13" morph="none" pos="word" start_char="6895">формирует</TOKEN>
+<TOKEN end_char="6917" id="token-51-14" morph="none" pos="word" start_char="6905">специфические</TOKEN>
+<TOKEN end_char="6928" id="token-51-15" morph="none" pos="word" start_char="6919">осложнения</TOKEN>
+<TOKEN end_char="6929" id="token-51-16" morph="none" pos="punct" start_char="6929">:</TOKEN>
+<TOKEN end_char="6936" id="token-51-17" morph="none" pos="word" start_char="6931">мощное</TOKEN>
+<TOKEN end_char="6947" id="token-51-18" morph="none" pos="word" start_char="6938">воспаление</TOKEN>
+<TOKEN end_char="6949" id="token-51-19" morph="none" pos="word" start_char="6949">в</TOKEN>
+<TOKEN end_char="6958" id="token-51-20" morph="none" pos="word" start_char="6951">легочной</TOKEN>
+<TOKEN end_char="6964" id="token-51-21" morph="none" pos="word" start_char="6960">ткани</TOKEN>
+<TOKEN end_char="6965" id="token-51-22" morph="none" pos="punct" start_char="6965">,</TOKEN>
+<TOKEN end_char="6973" id="token-51-23" morph="none" pos="word" start_char="6967">которое</TOKEN>
+<TOKEN end_char="6982" id="token-51-24" morph="none" pos="word" start_char="6975">вызывает</TOKEN>
+<TOKEN end_char="6989" id="token-51-25" morph="none" pos="word" start_char="6984">острую</TOKEN>
+<TOKEN end_char="7001" id="token-51-26" morph="none" pos="word" start_char="6991">дыхательную</TOKEN>
+<TOKEN end_char="7017" id="token-51-27" morph="none" pos="word" start_char="7003">недостаточность</TOKEN>
+<TOKEN end_char="7018" id="token-51-28" morph="none" pos="punct" start_char="7018">.</TOKEN>
+<TRANSLATED_TEXT>- The very fact of its presence in the body is not so dangerous, but it creates specific complications: severe inflammation of the lung tissue, which causes acute respiratory failure.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="7171" id="segment-52" start_char="7020">
+<ORIGINAL_TEXT>Как сказали бы на судебном процессе, у вируса тут абсолютно косвенная вина - он этого не делал, организм пациента сделал это сам, в ответ на его атаку".</ORIGINAL_TEXT>
+<TOKEN end_char="7022" id="token-52-0" morph="none" pos="word" start_char="7020">Как</TOKEN>
+<TOKEN end_char="7030" id="token-52-1" morph="none" pos="word" start_char="7024">сказали</TOKEN>
+<TOKEN end_char="7033" id="token-52-2" morph="none" pos="word" start_char="7032">бы</TOKEN>
+<TOKEN end_char="7036" id="token-52-3" morph="none" pos="word" start_char="7035">на</TOKEN>
+<TOKEN end_char="7045" id="token-52-4" morph="none" pos="word" start_char="7038">судебном</TOKEN>
+<TOKEN end_char="7054" id="token-52-5" morph="none" pos="word" start_char="7047">процессе</TOKEN>
+<TOKEN end_char="7055" id="token-52-6" morph="none" pos="punct" start_char="7055">,</TOKEN>
+<TOKEN end_char="7057" id="token-52-7" morph="none" pos="word" start_char="7057">у</TOKEN>
+<TOKEN end_char="7064" id="token-52-8" morph="none" pos="word" start_char="7059">вируса</TOKEN>
+<TOKEN end_char="7068" id="token-52-9" morph="none" pos="word" start_char="7066">тут</TOKEN>
+<TOKEN end_char="7078" id="token-52-10" morph="none" pos="word" start_char="7070">абсолютно</TOKEN>
+<TOKEN end_char="7088" id="token-52-11" morph="none" pos="word" start_char="7080">косвенная</TOKEN>
+<TOKEN end_char="7093" id="token-52-12" morph="none" pos="word" start_char="7090">вина</TOKEN>
+<TOKEN end_char="7095" id="token-52-13" morph="none" pos="punct" start_char="7095">-</TOKEN>
+<TOKEN end_char="7098" id="token-52-14" morph="none" pos="word" start_char="7097">он</TOKEN>
+<TOKEN end_char="7104" id="token-52-15" morph="none" pos="word" start_char="7100">этого</TOKEN>
+<TOKEN end_char="7107" id="token-52-16" morph="none" pos="word" start_char="7106">не</TOKEN>
+<TOKEN end_char="7113" id="token-52-17" morph="none" pos="word" start_char="7109">делал</TOKEN>
+<TOKEN end_char="7114" id="token-52-18" morph="none" pos="punct" start_char="7114">,</TOKEN>
+<TOKEN end_char="7123" id="token-52-19" morph="none" pos="word" start_char="7116">организм</TOKEN>
+<TOKEN end_char="7132" id="token-52-20" morph="none" pos="word" start_char="7125">пациента</TOKEN>
+<TOKEN end_char="7139" id="token-52-21" morph="none" pos="word" start_char="7134">сделал</TOKEN>
+<TOKEN end_char="7143" id="token-52-22" morph="none" pos="word" start_char="7141">это</TOKEN>
+<TOKEN end_char="7147" id="token-52-23" morph="none" pos="word" start_char="7145">сам</TOKEN>
+<TOKEN end_char="7148" id="token-52-24" morph="none" pos="punct" start_char="7148">,</TOKEN>
+<TOKEN end_char="7150" id="token-52-25" morph="none" pos="word" start_char="7150">в</TOKEN>
+<TOKEN end_char="7156" id="token-52-26" morph="none" pos="word" start_char="7152">ответ</TOKEN>
+<TOKEN end_char="7159" id="token-52-27" morph="none" pos="word" start_char="7158">на</TOKEN>
+<TOKEN end_char="7163" id="token-52-28" morph="none" pos="word" start_char="7161">его</TOKEN>
+<TOKEN end_char="7169" id="token-52-29" morph="none" pos="word" start_char="7165">атаку</TOKEN>
+<TOKEN end_char="7171" id="token-52-30" morph="none" pos="punct" start_char="7170">".</TOKEN>
+<TRANSLATED_TEXT>As the court would say, the virus has absolutely indirect guilt here - he didn't do it, the patient's body did it itself, in response to his attack. "</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="7305" id="segment-53" start_char="7174">
+<ORIGINAL_TEXT>Когда у больного развилась дыхательная недостаточность, бороться с вирусом уже поздно, заключает профессор, - "он свое дело сделал".</ORIGINAL_TEXT>
+<TOKEN end_char="7178" id="token-53-0" morph="none" pos="word" start_char="7174">Когда</TOKEN>
+<TOKEN end_char="7180" id="token-53-1" morph="none" pos="word" start_char="7180">у</TOKEN>
+<TOKEN end_char="7189" id="token-53-2" morph="none" pos="word" start_char="7182">больного</TOKEN>
+<TOKEN end_char="7199" id="token-53-3" morph="none" pos="word" start_char="7191">развилась</TOKEN>
+<TOKEN end_char="7211" id="token-53-4" morph="none" pos="word" start_char="7201">дыхательная</TOKEN>
+<TOKEN end_char="7227" id="token-53-5" morph="none" pos="word" start_char="7213">недостаточность</TOKEN>
+<TOKEN end_char="7228" id="token-53-6" morph="none" pos="punct" start_char="7228">,</TOKEN>
+<TOKEN end_char="7237" id="token-53-7" morph="none" pos="word" start_char="7230">бороться</TOKEN>
+<TOKEN end_char="7239" id="token-53-8" morph="none" pos="word" start_char="7239">с</TOKEN>
+<TOKEN end_char="7247" id="token-53-9" morph="none" pos="word" start_char="7241">вирусом</TOKEN>
+<TOKEN end_char="7251" id="token-53-10" morph="none" pos="word" start_char="7249">уже</TOKEN>
+<TOKEN end_char="7258" id="token-53-11" morph="none" pos="word" start_char="7253">поздно</TOKEN>
+<TOKEN end_char="7259" id="token-53-12" morph="none" pos="punct" start_char="7259">,</TOKEN>
+<TOKEN end_char="7269" id="token-53-13" morph="none" pos="word" start_char="7261">заключает</TOKEN>
+<TOKEN end_char="7279" id="token-53-14" morph="none" pos="word" start_char="7271">профессор</TOKEN>
+<TOKEN end_char="7280" id="token-53-15" morph="none" pos="punct" start_char="7280">,</TOKEN>
+<TOKEN end_char="7282" id="token-53-16" morph="none" pos="punct" start_char="7282">-</TOKEN>
+<TOKEN end_char="7284" id="token-53-17" morph="none" pos="punct" start_char="7284">"</TOKEN>
+<TOKEN end_char="7286" id="token-53-18" morph="none" pos="word" start_char="7285">он</TOKEN>
+<TOKEN end_char="7291" id="token-53-19" morph="none" pos="word" start_char="7288">свое</TOKEN>
+<TOKEN end_char="7296" id="token-53-20" morph="none" pos="word" start_char="7293">дело</TOKEN>
+<TOKEN end_char="7303" id="token-53-21" morph="none" pos="word" start_char="7298">сделал</TOKEN>
+<TOKEN end_char="7305" id="token-53-22" morph="none" pos="punct" start_char="7304">".</TOKEN>
+<TRANSLATED_TEXT>When the patient developed respiratory failure, it was too late to fight the virus, the professor concluded, "He did his job."</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="7411" id="segment-54" start_char="7308">
+<ORIGINAL_TEXT>Впрочем, главную надежду он все же возлагает на то, что от вируса будет разработана специальная вакцина.</ORIGINAL_TEXT>
+<TOKEN end_char="7314" id="token-54-0" morph="none" pos="word" start_char="7308">Впрочем</TOKEN>
+<TOKEN end_char="7315" id="token-54-1" morph="none" pos="punct" start_char="7315">,</TOKEN>
+<TOKEN end_char="7323" id="token-54-2" morph="none" pos="word" start_char="7317">главную</TOKEN>
+<TOKEN end_char="7331" id="token-54-3" morph="none" pos="word" start_char="7325">надежду</TOKEN>
+<TOKEN end_char="7334" id="token-54-4" morph="none" pos="word" start_char="7333">он</TOKEN>
+<TOKEN end_char="7338" id="token-54-5" morph="none" pos="word" start_char="7336">все</TOKEN>
+<TOKEN end_char="7341" id="token-54-6" morph="none" pos="word" start_char="7340">же</TOKEN>
+<TOKEN end_char="7351" id="token-54-7" morph="none" pos="word" start_char="7343">возлагает</TOKEN>
+<TOKEN end_char="7354" id="token-54-8" morph="none" pos="word" start_char="7353">на</TOKEN>
+<TOKEN end_char="7357" id="token-54-9" morph="none" pos="word" start_char="7356">то</TOKEN>
+<TOKEN end_char="7358" id="token-54-10" morph="none" pos="punct" start_char="7358">,</TOKEN>
+<TOKEN end_char="7362" id="token-54-11" morph="none" pos="word" start_char="7360">что</TOKEN>
+<TOKEN end_char="7365" id="token-54-12" morph="none" pos="word" start_char="7364">от</TOKEN>
+<TOKEN end_char="7372" id="token-54-13" morph="none" pos="word" start_char="7367">вируса</TOKEN>
+<TOKEN end_char="7378" id="token-54-14" morph="none" pos="word" start_char="7374">будет</TOKEN>
+<TOKEN end_char="7390" id="token-54-15" morph="none" pos="word" start_char="7380">разработана</TOKEN>
+<TOKEN end_char="7402" id="token-54-16" morph="none" pos="word" start_char="7392">специальная</TOKEN>
+<TOKEN end_char="7410" id="token-54-17" morph="none" pos="word" start_char="7404">вакцина</TOKEN>
+<TOKEN end_char="7411" id="token-54-18" morph="none" pos="punct" start_char="7411">.</TOKEN>
+<TRANSLATED_TEXT>But his main hope is that a special vaccine will be developed for the virus.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="7454" id="segment-55" start_char="7414">
+<ORIGINAL_TEXT>"Вакцина - это обучение организма защите.</ORIGINAL_TEXT>
+<TOKEN end_char="7414" id="token-55-0" morph="none" pos="punct" start_char="7414">"</TOKEN>
+<TOKEN end_char="7421" id="token-55-1" morph="none" pos="word" start_char="7415">Вакцина</TOKEN>
+<TOKEN end_char="7423" id="token-55-2" morph="none" pos="punct" start_char="7423">-</TOKEN>
+<TOKEN end_char="7427" id="token-55-3" morph="none" pos="word" start_char="7425">это</TOKEN>
+<TOKEN end_char="7436" id="token-55-4" morph="none" pos="word" start_char="7429">обучение</TOKEN>
+<TOKEN end_char="7446" id="token-55-5" morph="none" pos="word" start_char="7438">организма</TOKEN>
+<TOKEN end_char="7453" id="token-55-6" morph="none" pos="word" start_char="7448">защите</TOKEN>
+<TOKEN end_char="7454" id="token-55-7" morph="none" pos="punct" start_char="7454">.</TOKEN>
+<TRANSLATED_TEXT>A vaccine is a training of the body to protect.</TRANSLATED_TEXT><DETECTED_LANGUAGE>bg</DETECTED_LANGUAGE></SEG>
+<SEG end_char="7572" id="segment-56" start_char="7456">
+<ORIGINAL_TEXT>Она предупреждающая: как только непрошенный гость появился - его тут же связали, в машину усадили, в милицию отвезли.</ORIGINAL_TEXT>
+<TOKEN end_char="7458" id="token-56-0" morph="none" pos="word" start_char="7456">Она</TOKEN>
+<TOKEN end_char="7474" id="token-56-1" morph="none" pos="word" start_char="7460">предупреждающая</TOKEN>
+<TOKEN end_char="7475" id="token-56-2" morph="none" pos="punct" start_char="7475">:</TOKEN>
+<TOKEN end_char="7479" id="token-56-3" morph="none" pos="word" start_char="7477">как</TOKEN>
+<TOKEN end_char="7486" id="token-56-4" morph="none" pos="word" start_char="7481">только</TOKEN>
+<TOKEN end_char="7498" id="token-56-5" morph="none" pos="word" start_char="7488">непрошенный</TOKEN>
+<TOKEN end_char="7504" id="token-56-6" morph="none" pos="word" start_char="7500">гость</TOKEN>
+<TOKEN end_char="7513" id="token-56-7" morph="none" pos="word" start_char="7506">появился</TOKEN>
+<TOKEN end_char="7515" id="token-56-8" morph="none" pos="punct" start_char="7515">-</TOKEN>
+<TOKEN end_char="7519" id="token-56-9" morph="none" pos="word" start_char="7517">его</TOKEN>
+<TOKEN end_char="7523" id="token-56-10" morph="none" pos="word" start_char="7521">тут</TOKEN>
+<TOKEN end_char="7526" id="token-56-11" morph="none" pos="word" start_char="7525">же</TOKEN>
+<TOKEN end_char="7534" id="token-56-12" morph="none" pos="word" start_char="7528">связали</TOKEN>
+<TOKEN end_char="7535" id="token-56-13" morph="none" pos="punct" start_char="7535">,</TOKEN>
+<TOKEN end_char="7537" id="token-56-14" morph="none" pos="word" start_char="7537">в</TOKEN>
+<TOKEN end_char="7544" id="token-56-15" morph="none" pos="word" start_char="7539">машину</TOKEN>
+<TOKEN end_char="7552" id="token-56-16" morph="none" pos="word" start_char="7546">усадили</TOKEN>
+<TOKEN end_char="7553" id="token-56-17" morph="none" pos="punct" start_char="7553">,</TOKEN>
+<TOKEN end_char="7555" id="token-56-18" morph="none" pos="word" start_char="7555">в</TOKEN>
+<TOKEN end_char="7563" id="token-56-19" morph="none" pos="word" start_char="7557">милицию</TOKEN>
+<TOKEN end_char="7571" id="token-56-20" morph="none" pos="word" start_char="7565">отвезли</TOKEN>
+<TOKEN end_char="7572" id="token-56-21" morph="none" pos="punct" start_char="7572">.</TOKEN>
+<TRANSLATED_TEXT>She warns: as soon as the guest is not invited, he is tied up, put in a car, taken to the police.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="7624" id="segment-57" start_char="7574">
+<ORIGINAL_TEXT>А антитела - это уже работа по свершившемуся факту.</ORIGINAL_TEXT>
+<TOKEN end_char="7574" id="token-57-0" morph="none" pos="word" start_char="7574">А</TOKEN>
+<TOKEN end_char="7583" id="token-57-1" morph="none" pos="word" start_char="7576">антитела</TOKEN>
+<TOKEN end_char="7585" id="token-57-2" morph="none" pos="punct" start_char="7585">-</TOKEN>
+<TOKEN end_char="7589" id="token-57-3" morph="none" pos="word" start_char="7587">это</TOKEN>
+<TOKEN end_char="7593" id="token-57-4" morph="none" pos="word" start_char="7591">уже</TOKEN>
+<TOKEN end_char="7600" id="token-57-5" morph="none" pos="word" start_char="7595">работа</TOKEN>
+<TOKEN end_char="7603" id="token-57-6" morph="none" pos="word" start_char="7602">по</TOKEN>
+<TOKEN end_char="7617" id="token-57-7" morph="none" pos="word" start_char="7605">свершившемуся</TOKEN>
+<TOKEN end_char="7623" id="token-57-8" morph="none" pos="word" start_char="7619">факту</TOKEN>
+<TOKEN end_char="7624" id="token-57-9" morph="none" pos="punct" start_char="7624">.</TOKEN>
+<TRANSLATED_TEXT>And antibodies are already a fait accompli.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="7715" id="segment-58" start_char="7626">
+<ORIGINAL_TEXT>Недаром в медицине этот способ лечения называют терапией отчаяния", - подчеркивает ученый.</ORIGINAL_TEXT>
+<TOKEN end_char="7632" id="token-58-0" morph="none" pos="word" start_char="7626">Недаром</TOKEN>
+<TOKEN end_char="7634" id="token-58-1" morph="none" pos="word" start_char="7634">в</TOKEN>
+<TOKEN end_char="7643" id="token-58-2" morph="none" pos="word" start_char="7636">медицине</TOKEN>
+<TOKEN end_char="7648" id="token-58-3" morph="none" pos="word" start_char="7645">этот</TOKEN>
+<TOKEN end_char="7655" id="token-58-4" morph="none" pos="word" start_char="7650">способ</TOKEN>
+<TOKEN end_char="7663" id="token-58-5" morph="none" pos="word" start_char="7657">лечения</TOKEN>
+<TOKEN end_char="7672" id="token-58-6" morph="none" pos="word" start_char="7665">называют</TOKEN>
+<TOKEN end_char="7681" id="token-58-7" morph="none" pos="word" start_char="7674">терапией</TOKEN>
+<TOKEN end_char="7690" id="token-58-8" morph="none" pos="word" start_char="7683">отчаяния</TOKEN>
+<TOKEN end_char="7692" id="token-58-9" morph="none" pos="punct" start_char="7691">",</TOKEN>
+<TOKEN end_char="7694" id="token-58-10" morph="none" pos="punct" start_char="7694">-</TOKEN>
+<TOKEN end_char="7707" id="token-58-11" morph="none" pos="word" start_char="7696">подчеркивает</TOKEN>
+<TOKEN end_char="7714" id="token-58-12" morph="none" pos="word" start_char="7709">ученый</TOKEN>
+<TOKEN end_char="7715" id="token-58-13" morph="none" pos="punct" start_char="7715">.</TOKEN>
+<TRANSLATED_TEXT>In medicine, this method of treatment is called the therapy of despair, "the scientist emphasizes.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

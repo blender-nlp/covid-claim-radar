@@ -1,0 +1,1121 @@
+<LCTL_TEXT lang="spa">
+<DOC grammar="none" id="L0C04CVHJ" lang="spa" raw_text_char_length="5557" raw_text_md5="bdf219f080badaca69899e6f572f26d0" tokenization="tokenization_parameters.v5.0">
+<TEXT>
+<SEG end_char="58" id="segment-0" start_char="1">
+<ORIGINAL_TEXT>Police Use Contact Tracing and Geofencing to ID Protesters</ORIGINAL_TEXT>
+<TOKEN end_char="6" id="token-0-0" morph="none" pos="word" start_char="1">Police</TOKEN>
+<TOKEN end_char="10" id="token-0-1" morph="none" pos="word" start_char="8">Use</TOKEN>
+<TOKEN end_char="18" id="token-0-2" morph="none" pos="word" start_char="12">Contact</TOKEN>
+<TOKEN end_char="26" id="token-0-3" morph="none" pos="word" start_char="20">Tracing</TOKEN>
+<TOKEN end_char="30" id="token-0-4" morph="none" pos="word" start_char="28">and</TOKEN>
+<TOKEN end_char="41" id="token-0-5" morph="none" pos="word" start_char="32">Geofencing</TOKEN>
+<TOKEN end_char="44" id="token-0-6" morph="none" pos="word" start_char="43">to</TOKEN>
+<TOKEN end_char="47" id="token-0-7" morph="none" pos="word" start_char="46">ID</TOKEN>
+<TOKEN end_char="58" id="token-0-8" morph="none" pos="word" start_char="49">Protesters</TOKEN>
+</SEG>
+<SEG end_char="174" id="segment-1" start_char="62">
+<ORIGINAL_TEXT>Countless warnings about how law enforcement could use contact-tracing apps to monitor people have gone unheeded.</ORIGINAL_TEXT>
+<TOKEN end_char="70" id="token-1-0" morph="none" pos="word" start_char="62">Countless</TOKEN>
+<TOKEN end_char="79" id="token-1-1" morph="none" pos="word" start_char="72">warnings</TOKEN>
+<TOKEN end_char="85" id="token-1-2" morph="none" pos="word" start_char="81">about</TOKEN>
+<TOKEN end_char="89" id="token-1-3" morph="none" pos="word" start_char="87">how</TOKEN>
+<TOKEN end_char="93" id="token-1-4" morph="none" pos="word" start_char="91">law</TOKEN>
+<TOKEN end_char="105" id="token-1-5" morph="none" pos="word" start_char="95">enforcement</TOKEN>
+<TOKEN end_char="111" id="token-1-6" morph="none" pos="word" start_char="107">could</TOKEN>
+<TOKEN end_char="115" id="token-1-7" morph="none" pos="word" start_char="113">use</TOKEN>
+<TOKEN end_char="131" id="token-1-8" morph="none" pos="unknown" start_char="117">contact-tracing</TOKEN>
+<TOKEN end_char="136" id="token-1-9" morph="none" pos="word" start_char="133">apps</TOKEN>
+<TOKEN end_char="139" id="token-1-10" morph="none" pos="word" start_char="138">to</TOKEN>
+<TOKEN end_char="147" id="token-1-11" morph="none" pos="word" start_char="141">monitor</TOKEN>
+<TOKEN end_char="154" id="token-1-12" morph="none" pos="word" start_char="149">people</TOKEN>
+<TOKEN end_char="159" id="token-1-13" morph="none" pos="word" start_char="156">have</TOKEN>
+<TOKEN end_char="164" id="token-1-14" morph="none" pos="word" start_char="161">gone</TOKEN>
+<TOKEN end_char="173" id="token-1-15" morph="none" pos="word" start_char="166">unheeded</TOKEN>
+<TOKEN end_char="174" id="token-1-16" morph="none" pos="punct" start_char="174">.</TOKEN>
+</SEG>
+<SEG end_char="178" id="segment-2" start_char="177">
+<ORIGINAL_TEXT>As</ORIGINAL_TEXT>
+<TOKEN end_char="178" id="token-2-0" morph="none" pos="word" start_char="177">As</TOKEN>
+</SEG>
+<SEG end_char="187" id="segment-3" start_char="181">
+<ORIGINAL_TEXT>BGR.com</ORIGINAL_TEXT>
+<TOKEN end_char="187" id="token-3-0" morph="none" pos="unknown" start_char="181">BGR.com</TOKEN>
+</SEG>
+<SEG end_char="268" id="segment-4" start_char="190">
+<ORIGINAL_TEXT>revealed police are using contact tracing to identify protester’s affiliations.</ORIGINAL_TEXT>
+<TOKEN end_char="197" id="token-4-0" morph="none" pos="word" start_char="190">revealed</TOKEN>
+<TOKEN end_char="204" id="token-4-1" morph="none" pos="word" start_char="199">police</TOKEN>
+<TOKEN end_char="208" id="token-4-2" morph="none" pos="word" start_char="206">are</TOKEN>
+<TOKEN end_char="214" id="token-4-3" morph="none" pos="word" start_char="210">using</TOKEN>
+<TOKEN end_char="222" id="token-4-4" morph="none" pos="word" start_char="216">contact</TOKEN>
+<TOKEN end_char="230" id="token-4-5" morph="none" pos="word" start_char="224">tracing</TOKEN>
+<TOKEN end_char="233" id="token-4-6" morph="none" pos="word" start_char="232">to</TOKEN>
+<TOKEN end_char="242" id="token-4-7" morph="none" pos="word" start_char="235">identify</TOKEN>
+<TOKEN end_char="254" id="token-4-8" morph="none" pos="word" start_char="244">protester’s</TOKEN>
+<TOKEN end_char="267" id="token-4-9" morph="none" pos="word" start_char="256">affiliations</TOKEN>
+<TOKEN end_char="268" id="token-4-10" morph="none" pos="punct" start_char="268">.</TOKEN>
+</SEG>
+<SEG end_char="658" id="segment-5" start_char="272">
+<ORIGINAL_TEXT>"According to Minnesota Public Safety Commissioner John Harringon, officials there have been using what they describe, without going into much detail, as contact-tracing in order to build out a picture of protestor affiliations — a process that officials in the state say has led them to conclude that much of the protest activity there is being fueled by people from outside coming in."</ORIGINAL_TEXT>
+<TOKEN end_char="272" id="token-5-0" morph="none" pos="punct" start_char="272">"</TOKEN>
+<TOKEN end_char="281" id="token-5-1" morph="none" pos="word" start_char="273">According</TOKEN>
+<TOKEN end_char="284" id="token-5-2" morph="none" pos="word" start_char="283">to</TOKEN>
+<TOKEN end_char="294" id="token-5-3" morph="none" pos="word" start_char="286">Minnesota</TOKEN>
+<TOKEN end_char="301" id="token-5-4" morph="none" pos="word" start_char="296">Public</TOKEN>
+<TOKEN end_char="308" id="token-5-5" morph="none" pos="word" start_char="303">Safety</TOKEN>
+<TOKEN end_char="321" id="token-5-6" morph="none" pos="word" start_char="310">Commissioner</TOKEN>
+<TOKEN end_char="326" id="token-5-7" morph="none" pos="word" start_char="323">John</TOKEN>
+<TOKEN end_char="336" id="token-5-8" morph="none" pos="word" start_char="328">Harringon</TOKEN>
+<TOKEN end_char="337" id="token-5-9" morph="none" pos="punct" start_char="337">,</TOKEN>
+<TOKEN end_char="347" id="token-5-10" morph="none" pos="word" start_char="339">officials</TOKEN>
+<TOKEN end_char="353" id="token-5-11" morph="none" pos="word" start_char="349">there</TOKEN>
+<TOKEN end_char="358" id="token-5-12" morph="none" pos="word" start_char="355">have</TOKEN>
+<TOKEN end_char="363" id="token-5-13" morph="none" pos="word" start_char="360">been</TOKEN>
+<TOKEN end_char="369" id="token-5-14" morph="none" pos="word" start_char="365">using</TOKEN>
+<TOKEN end_char="374" id="token-5-15" morph="none" pos="word" start_char="371">what</TOKEN>
+<TOKEN end_char="379" id="token-5-16" morph="none" pos="word" start_char="376">they</TOKEN>
+<TOKEN end_char="388" id="token-5-17" morph="none" pos="word" start_char="381">describe</TOKEN>
+<TOKEN end_char="389" id="token-5-18" morph="none" pos="punct" start_char="389">,</TOKEN>
+<TOKEN end_char="397" id="token-5-19" morph="none" pos="word" start_char="391">without</TOKEN>
+<TOKEN end_char="403" id="token-5-20" morph="none" pos="word" start_char="399">going</TOKEN>
+<TOKEN end_char="408" id="token-5-21" morph="none" pos="word" start_char="405">into</TOKEN>
+<TOKEN end_char="413" id="token-5-22" morph="none" pos="word" start_char="410">much</TOKEN>
+<TOKEN end_char="420" id="token-5-23" morph="none" pos="word" start_char="415">detail</TOKEN>
+<TOKEN end_char="421" id="token-5-24" morph="none" pos="punct" start_char="421">,</TOKEN>
+<TOKEN end_char="424" id="token-5-25" morph="none" pos="word" start_char="423">as</TOKEN>
+<TOKEN end_char="440" id="token-5-26" morph="none" pos="unknown" start_char="426">contact-tracing</TOKEN>
+<TOKEN end_char="443" id="token-5-27" morph="none" pos="word" start_char="442">in</TOKEN>
+<TOKEN end_char="449" id="token-5-28" morph="none" pos="word" start_char="445">order</TOKEN>
+<TOKEN end_char="452" id="token-5-29" morph="none" pos="word" start_char="451">to</TOKEN>
+<TOKEN end_char="458" id="token-5-30" morph="none" pos="word" start_char="454">build</TOKEN>
+<TOKEN end_char="462" id="token-5-31" morph="none" pos="word" start_char="460">out</TOKEN>
+<TOKEN end_char="464" id="token-5-32" morph="none" pos="word" start_char="464">a</TOKEN>
+<TOKEN end_char="472" id="token-5-33" morph="none" pos="word" start_char="466">picture</TOKEN>
+<TOKEN end_char="475" id="token-5-34" morph="none" pos="word" start_char="474">of</TOKEN>
+<TOKEN end_char="485" id="token-5-35" morph="none" pos="word" start_char="477">protestor</TOKEN>
+<TOKEN end_char="498" id="token-5-36" morph="none" pos="word" start_char="487">affiliations</TOKEN>
+<TOKEN end_char="500" id="token-5-37" morph="none" pos="punct" start_char="500">—</TOKEN>
+<TOKEN end_char="502" id="token-5-38" morph="none" pos="word" start_char="502">a</TOKEN>
+<TOKEN end_char="510" id="token-5-39" morph="none" pos="word" start_char="504">process</TOKEN>
+<TOKEN end_char="515" id="token-5-40" morph="none" pos="word" start_char="512">that</TOKEN>
+<TOKEN end_char="525" id="token-5-41" morph="none" pos="word" start_char="517">officials</TOKEN>
+<TOKEN end_char="528" id="token-5-42" morph="none" pos="word" start_char="527">in</TOKEN>
+<TOKEN end_char="532" id="token-5-43" morph="none" pos="word" start_char="530">the</TOKEN>
+<TOKEN end_char="538" id="token-5-44" morph="none" pos="word" start_char="534">state</TOKEN>
+<TOKEN end_char="542" id="token-5-45" morph="none" pos="word" start_char="540">say</TOKEN>
+<TOKEN end_char="546" id="token-5-46" morph="none" pos="word" start_char="544">has</TOKEN>
+<TOKEN end_char="550" id="token-5-47" morph="none" pos="word" start_char="548">led</TOKEN>
+<TOKEN end_char="555" id="token-5-48" morph="none" pos="word" start_char="552">them</TOKEN>
+<TOKEN end_char="558" id="token-5-49" morph="none" pos="word" start_char="557">to</TOKEN>
+<TOKEN end_char="567" id="token-5-50" morph="none" pos="word" start_char="560">conclude</TOKEN>
+<TOKEN end_char="572" id="token-5-51" morph="none" pos="word" start_char="569">that</TOKEN>
+<TOKEN end_char="577" id="token-5-52" morph="none" pos="word" start_char="574">much</TOKEN>
+<TOKEN end_char="580" id="token-5-53" morph="none" pos="word" start_char="579">of</TOKEN>
+<TOKEN end_char="584" id="token-5-54" morph="none" pos="word" start_char="582">the</TOKEN>
+<TOKEN end_char="592" id="token-5-55" morph="none" pos="word" start_char="586">protest</TOKEN>
+<TOKEN end_char="601" id="token-5-56" morph="none" pos="word" start_char="594">activity</TOKEN>
+<TOKEN end_char="607" id="token-5-57" morph="none" pos="word" start_char="603">there</TOKEN>
+<TOKEN end_char="610" id="token-5-58" morph="none" pos="word" start_char="609">is</TOKEN>
+<TOKEN end_char="616" id="token-5-59" morph="none" pos="word" start_char="612">being</TOKEN>
+<TOKEN end_char="623" id="token-5-60" morph="none" pos="word" start_char="618">fueled</TOKEN>
+<TOKEN end_char="626" id="token-5-61" morph="none" pos="word" start_char="625">by</TOKEN>
+<TOKEN end_char="633" id="token-5-62" morph="none" pos="word" start_char="628">people</TOKEN>
+<TOKEN end_char="638" id="token-5-63" morph="none" pos="word" start_char="635">from</TOKEN>
+<TOKEN end_char="646" id="token-5-64" morph="none" pos="word" start_char="640">outside</TOKEN>
+<TOKEN end_char="653" id="token-5-65" morph="none" pos="word" start_char="648">coming</TOKEN>
+<TOKEN end_char="656" id="token-5-66" morph="none" pos="word" start_char="655">in</TOKEN>
+<TOKEN end_char="658" id="token-5-67" morph="none" pos="punct" start_char="657">."</TOKEN>
+</SEG>
+<SEG end_char="791" id="segment-6" start_char="662">
+<ORIGINAL_TEXT>A Twitter feed titled "Minnesota Contact Tracing" revealed how police are using contact tracing to identify and arrest protesters.</ORIGINAL_TEXT>
+<TOKEN end_char="662" id="token-6-0" morph="none" pos="word" start_char="662">A</TOKEN>
+<TOKEN end_char="670" id="token-6-1" morph="none" pos="word" start_char="664">Twitter</TOKEN>
+<TOKEN end_char="675" id="token-6-2" morph="none" pos="word" start_char="672">feed</TOKEN>
+<TOKEN end_char="682" id="token-6-3" morph="none" pos="word" start_char="677">titled</TOKEN>
+<TOKEN end_char="684" id="token-6-4" morph="none" pos="punct" start_char="684">"</TOKEN>
+<TOKEN end_char="693" id="token-6-5" morph="none" pos="word" start_char="685">Minnesota</TOKEN>
+<TOKEN end_char="701" id="token-6-6" morph="none" pos="word" start_char="695">Contact</TOKEN>
+<TOKEN end_char="709" id="token-6-7" morph="none" pos="word" start_char="703">Tracing</TOKEN>
+<TOKEN end_char="710" id="token-6-8" morph="none" pos="punct" start_char="710">"</TOKEN>
+<TOKEN end_char="719" id="token-6-9" morph="none" pos="word" start_char="712">revealed</TOKEN>
+<TOKEN end_char="723" id="token-6-10" morph="none" pos="word" start_char="721">how</TOKEN>
+<TOKEN end_char="730" id="token-6-11" morph="none" pos="word" start_char="725">police</TOKEN>
+<TOKEN end_char="734" id="token-6-12" morph="none" pos="word" start_char="732">are</TOKEN>
+<TOKEN end_char="740" id="token-6-13" morph="none" pos="word" start_char="736">using</TOKEN>
+<TOKEN end_char="748" id="token-6-14" morph="none" pos="word" start_char="742">contact</TOKEN>
+<TOKEN end_char="756" id="token-6-15" morph="none" pos="word" start_char="750">tracing</TOKEN>
+<TOKEN end_char="759" id="token-6-16" morph="none" pos="word" start_char="758">to</TOKEN>
+<TOKEN end_char="768" id="token-6-17" morph="none" pos="word" start_char="761">identify</TOKEN>
+<TOKEN end_char="772" id="token-6-18" morph="none" pos="word" start_char="770">and</TOKEN>
+<TOKEN end_char="779" id="token-6-19" morph="none" pos="word" start_char="774">arrest</TOKEN>
+<TOKEN end_char="790" id="token-6-20" morph="none" pos="word" start_char="781">protesters</TOKEN>
+<TOKEN end_char="791" id="token-6-21" morph="none" pos="punct" start_char="791">.</TOKEN>
+</SEG>
+<SEG end_char="892" id="segment-7" start_char="793">
+<ORIGINAL_TEXT>"Minnesota Public Safety Commissioner John Harrington says they’ve begun contact tracing arrestees."</ORIGINAL_TEXT>
+<TOKEN end_char="793" id="token-7-0" morph="none" pos="punct" start_char="793">"</TOKEN>
+<TOKEN end_char="802" id="token-7-1" morph="none" pos="word" start_char="794">Minnesota</TOKEN>
+<TOKEN end_char="809" id="token-7-2" morph="none" pos="word" start_char="804">Public</TOKEN>
+<TOKEN end_char="816" id="token-7-3" morph="none" pos="word" start_char="811">Safety</TOKEN>
+<TOKEN end_char="829" id="token-7-4" morph="none" pos="word" start_char="818">Commissioner</TOKEN>
+<TOKEN end_char="834" id="token-7-5" morph="none" pos="word" start_char="831">John</TOKEN>
+<TOKEN end_char="845" id="token-7-6" morph="none" pos="word" start_char="836">Harrington</TOKEN>
+<TOKEN end_char="850" id="token-7-7" morph="none" pos="word" start_char="847">says</TOKEN>
+<TOKEN end_char="858" id="token-7-8" morph="none" pos="word" start_char="852">they’ve</TOKEN>
+<TOKEN end_char="864" id="token-7-9" morph="none" pos="word" start_char="860">begun</TOKEN>
+<TOKEN end_char="872" id="token-7-10" morph="none" pos="word" start_char="866">contact</TOKEN>
+<TOKEN end_char="880" id="token-7-11" morph="none" pos="word" start_char="874">tracing</TOKEN>
+<TOKEN end_char="890" id="token-7-12" morph="none" pos="word" start_char="882">arrestees</TOKEN>
+<TOKEN end_char="892" id="token-7-13" morph="none" pos="punct" start_char="891">."</TOKEN>
+</SEG>
+<SEG end_char="1038" id="segment-8" start_char="895">
+<ORIGINAL_TEXT>Recently, 100 human rights groups warned that an Apple-Google contact tracing app could be used as a cover to identify activists and minorities.</ORIGINAL_TEXT>
+<TOKEN end_char="902" id="token-8-0" morph="none" pos="word" start_char="895">Recently</TOKEN>
+<TOKEN end_char="903" id="token-8-1" morph="none" pos="punct" start_char="903">,</TOKEN>
+<TOKEN end_char="907" id="token-8-2" morph="none" pos="word" start_char="905">100</TOKEN>
+<TOKEN end_char="913" id="token-8-3" morph="none" pos="word" start_char="909">human</TOKEN>
+<TOKEN end_char="920" id="token-8-4" morph="none" pos="word" start_char="915">rights</TOKEN>
+<TOKEN end_char="927" id="token-8-5" morph="none" pos="word" start_char="922">groups</TOKEN>
+<TOKEN end_char="934" id="token-8-6" morph="none" pos="word" start_char="929">warned</TOKEN>
+<TOKEN end_char="939" id="token-8-7" morph="none" pos="word" start_char="936">that</TOKEN>
+<TOKEN end_char="942" id="token-8-8" morph="none" pos="word" start_char="941">an</TOKEN>
+<TOKEN end_char="955" id="token-8-9" morph="none" pos="unknown" start_char="944">Apple-Google</TOKEN>
+<TOKEN end_char="963" id="token-8-10" morph="none" pos="word" start_char="957">contact</TOKEN>
+<TOKEN end_char="971" id="token-8-11" morph="none" pos="word" start_char="965">tracing</TOKEN>
+<TOKEN end_char="975" id="token-8-12" morph="none" pos="word" start_char="973">app</TOKEN>
+<TOKEN end_char="981" id="token-8-13" morph="none" pos="word" start_char="977">could</TOKEN>
+<TOKEN end_char="984" id="token-8-14" morph="none" pos="word" start_char="983">be</TOKEN>
+<TOKEN end_char="989" id="token-8-15" morph="none" pos="word" start_char="986">used</TOKEN>
+<TOKEN end_char="992" id="token-8-16" morph="none" pos="word" start_char="991">as</TOKEN>
+<TOKEN end_char="994" id="token-8-17" morph="none" pos="word" start_char="994">a</TOKEN>
+<TOKEN end_char="1000" id="token-8-18" morph="none" pos="word" start_char="996">cover</TOKEN>
+<TOKEN end_char="1003" id="token-8-19" morph="none" pos="word" start_char="1002">to</TOKEN>
+<TOKEN end_char="1012" id="token-8-20" morph="none" pos="word" start_char="1005">identify</TOKEN>
+<TOKEN end_char="1022" id="token-8-21" morph="none" pos="word" start_char="1014">activists</TOKEN>
+<TOKEN end_char="1026" id="token-8-22" morph="none" pos="word" start_char="1024">and</TOKEN>
+<TOKEN end_char="1037" id="token-8-23" morph="none" pos="word" start_char="1028">minorities</TOKEN>
+<TOKEN end_char="1038" id="token-8-24" morph="none" pos="punct" start_char="1038">.</TOKEN>
+</SEG>
+<SEG end_char="1351" id="segment-9" start_char="1042">
+<ORIGINAL_TEXT>"An increase in state digital surveillance powers, such as obtaining access to mobile phone location data, threatens privacy, freedom of expression and freedom of association, in ways that could violate rights and degrade trust in public authorities—undermining the effectiveness of any public health response.</ORIGINAL_TEXT>
+<TOKEN end_char="1042" id="token-9-0" morph="none" pos="punct" start_char="1042">"</TOKEN>
+<TOKEN end_char="1044" id="token-9-1" morph="none" pos="word" start_char="1043">An</TOKEN>
+<TOKEN end_char="1053" id="token-9-2" morph="none" pos="word" start_char="1046">increase</TOKEN>
+<TOKEN end_char="1056" id="token-9-3" morph="none" pos="word" start_char="1055">in</TOKEN>
+<TOKEN end_char="1062" id="token-9-4" morph="none" pos="word" start_char="1058">state</TOKEN>
+<TOKEN end_char="1070" id="token-9-5" morph="none" pos="word" start_char="1064">digital</TOKEN>
+<TOKEN end_char="1083" id="token-9-6" morph="none" pos="word" start_char="1072">surveillance</TOKEN>
+<TOKEN end_char="1090" id="token-9-7" morph="none" pos="word" start_char="1085">powers</TOKEN>
+<TOKEN end_char="1091" id="token-9-8" morph="none" pos="punct" start_char="1091">,</TOKEN>
+<TOKEN end_char="1096" id="token-9-9" morph="none" pos="word" start_char="1093">such</TOKEN>
+<TOKEN end_char="1099" id="token-9-10" morph="none" pos="word" start_char="1098">as</TOKEN>
+<TOKEN end_char="1109" id="token-9-11" morph="none" pos="word" start_char="1101">obtaining</TOKEN>
+<TOKEN end_char="1116" id="token-9-12" morph="none" pos="word" start_char="1111">access</TOKEN>
+<TOKEN end_char="1119" id="token-9-13" morph="none" pos="word" start_char="1118">to</TOKEN>
+<TOKEN end_char="1126" id="token-9-14" morph="none" pos="word" start_char="1121">mobile</TOKEN>
+<TOKEN end_char="1132" id="token-9-15" morph="none" pos="word" start_char="1128">phone</TOKEN>
+<TOKEN end_char="1141" id="token-9-16" morph="none" pos="word" start_char="1134">location</TOKEN>
+<TOKEN end_char="1146" id="token-9-17" morph="none" pos="word" start_char="1143">data</TOKEN>
+<TOKEN end_char="1147" id="token-9-18" morph="none" pos="punct" start_char="1147">,</TOKEN>
+<TOKEN end_char="1157" id="token-9-19" morph="none" pos="word" start_char="1149">threatens</TOKEN>
+<TOKEN end_char="1165" id="token-9-20" morph="none" pos="word" start_char="1159">privacy</TOKEN>
+<TOKEN end_char="1166" id="token-9-21" morph="none" pos="punct" start_char="1166">,</TOKEN>
+<TOKEN end_char="1174" id="token-9-22" morph="none" pos="word" start_char="1168">freedom</TOKEN>
+<TOKEN end_char="1177" id="token-9-23" morph="none" pos="word" start_char="1176">of</TOKEN>
+<TOKEN end_char="1188" id="token-9-24" morph="none" pos="word" start_char="1179">expression</TOKEN>
+<TOKEN end_char="1192" id="token-9-25" morph="none" pos="word" start_char="1190">and</TOKEN>
+<TOKEN end_char="1200" id="token-9-26" morph="none" pos="word" start_char="1194">freedom</TOKEN>
+<TOKEN end_char="1203" id="token-9-27" morph="none" pos="word" start_char="1202">of</TOKEN>
+<TOKEN end_char="1215" id="token-9-28" morph="none" pos="word" start_char="1205">association</TOKEN>
+<TOKEN end_char="1216" id="token-9-29" morph="none" pos="punct" start_char="1216">,</TOKEN>
+<TOKEN end_char="1219" id="token-9-30" morph="none" pos="word" start_char="1218">in</TOKEN>
+<TOKEN end_char="1224" id="token-9-31" morph="none" pos="word" start_char="1221">ways</TOKEN>
+<TOKEN end_char="1229" id="token-9-32" morph="none" pos="word" start_char="1226">that</TOKEN>
+<TOKEN end_char="1235" id="token-9-33" morph="none" pos="word" start_char="1231">could</TOKEN>
+<TOKEN end_char="1243" id="token-9-34" morph="none" pos="word" start_char="1237">violate</TOKEN>
+<TOKEN end_char="1250" id="token-9-35" morph="none" pos="word" start_char="1245">rights</TOKEN>
+<TOKEN end_char="1254" id="token-9-36" morph="none" pos="word" start_char="1252">and</TOKEN>
+<TOKEN end_char="1262" id="token-9-37" morph="none" pos="word" start_char="1256">degrade</TOKEN>
+<TOKEN end_char="1268" id="token-9-38" morph="none" pos="word" start_char="1264">trust</TOKEN>
+<TOKEN end_char="1271" id="token-9-39" morph="none" pos="word" start_char="1270">in</TOKEN>
+<TOKEN end_char="1278" id="token-9-40" morph="none" pos="word" start_char="1273">public</TOKEN>
+<TOKEN end_char="1302" id="token-9-41" morph="none" pos="unknown" start_char="1280">authorities—undermining</TOKEN>
+<TOKEN end_char="1306" id="token-9-42" morph="none" pos="word" start_char="1304">the</TOKEN>
+<TOKEN end_char="1320" id="token-9-43" morph="none" pos="word" start_char="1308">effectiveness</TOKEN>
+<TOKEN end_char="1323" id="token-9-44" morph="none" pos="word" start_char="1322">of</TOKEN>
+<TOKEN end_char="1327" id="token-9-45" morph="none" pos="word" start_char="1325">any</TOKEN>
+<TOKEN end_char="1334" id="token-9-46" morph="none" pos="word" start_char="1329">public</TOKEN>
+<TOKEN end_char="1341" id="token-9-47" morph="none" pos="word" start_char="1336">health</TOKEN>
+<TOKEN end_char="1350" id="token-9-48" morph="none" pos="word" start_char="1343">response</TOKEN>
+<TOKEN end_char="1351" id="token-9-49" morph="none" pos="punct" start_char="1351">.</TOKEN>
+</SEG>
+<SEG end_char="1467" id="segment-10" start_char="1353">
+<ORIGINAL_TEXT>Such measures also pose a risk of discrimination and may disproportionately harm already marginalized communities."</ORIGINAL_TEXT>
+<TOKEN end_char="1356" id="token-10-0" morph="none" pos="word" start_char="1353">Such</TOKEN>
+<TOKEN end_char="1365" id="token-10-1" morph="none" pos="word" start_char="1358">measures</TOKEN>
+<TOKEN end_char="1370" id="token-10-2" morph="none" pos="word" start_char="1367">also</TOKEN>
+<TOKEN end_char="1375" id="token-10-3" morph="none" pos="word" start_char="1372">pose</TOKEN>
+<TOKEN end_char="1377" id="token-10-4" morph="none" pos="word" start_char="1377">a</TOKEN>
+<TOKEN end_char="1382" id="token-10-5" morph="none" pos="word" start_char="1379">risk</TOKEN>
+<TOKEN end_char="1385" id="token-10-6" morph="none" pos="word" start_char="1384">of</TOKEN>
+<TOKEN end_char="1400" id="token-10-7" morph="none" pos="word" start_char="1387">discrimination</TOKEN>
+<TOKEN end_char="1404" id="token-10-8" morph="none" pos="word" start_char="1402">and</TOKEN>
+<TOKEN end_char="1408" id="token-10-9" morph="none" pos="word" start_char="1406">may</TOKEN>
+<TOKEN end_char="1427" id="token-10-10" morph="none" pos="word" start_char="1410">disproportionately</TOKEN>
+<TOKEN end_char="1432" id="token-10-11" morph="none" pos="word" start_char="1429">harm</TOKEN>
+<TOKEN end_char="1440" id="token-10-12" morph="none" pos="word" start_char="1434">already</TOKEN>
+<TOKEN end_char="1453" id="token-10-13" morph="none" pos="word" start_char="1442">marginalized</TOKEN>
+<TOKEN end_char="1465" id="token-10-14" morph="none" pos="word" start_char="1455">communities</TOKEN>
+<TOKEN end_char="1467" id="token-10-15" morph="none" pos="punct" start_char="1466">."</TOKEN>
+</SEG>
+<SEG end_char="1637" id="segment-11" start_char="1471">
+<ORIGINAL_TEXT>So despite all assurances to the contrary, it appears that 100 human rights groups were right; law enforcement can and will use contact tracing to identify protesters.</ORIGINAL_TEXT>
+<TOKEN end_char="1472" id="token-11-0" morph="none" pos="word" start_char="1471">So</TOKEN>
+<TOKEN end_char="1480" id="token-11-1" morph="none" pos="word" start_char="1474">despite</TOKEN>
+<TOKEN end_char="1484" id="token-11-2" morph="none" pos="word" start_char="1482">all</TOKEN>
+<TOKEN end_char="1495" id="token-11-3" morph="none" pos="word" start_char="1486">assurances</TOKEN>
+<TOKEN end_char="1498" id="token-11-4" morph="none" pos="word" start_char="1497">to</TOKEN>
+<TOKEN end_char="1502" id="token-11-5" morph="none" pos="word" start_char="1500">the</TOKEN>
+<TOKEN end_char="1511" id="token-11-6" morph="none" pos="word" start_char="1504">contrary</TOKEN>
+<TOKEN end_char="1512" id="token-11-7" morph="none" pos="punct" start_char="1512">,</TOKEN>
+<TOKEN end_char="1515" id="token-11-8" morph="none" pos="word" start_char="1514">it</TOKEN>
+<TOKEN end_char="1523" id="token-11-9" morph="none" pos="word" start_char="1517">appears</TOKEN>
+<TOKEN end_char="1528" id="token-11-10" morph="none" pos="word" start_char="1525">that</TOKEN>
+<TOKEN end_char="1532" id="token-11-11" morph="none" pos="word" start_char="1530">100</TOKEN>
+<TOKEN end_char="1538" id="token-11-12" morph="none" pos="word" start_char="1534">human</TOKEN>
+<TOKEN end_char="1545" id="token-11-13" morph="none" pos="word" start_char="1540">rights</TOKEN>
+<TOKEN end_char="1552" id="token-11-14" morph="none" pos="word" start_char="1547">groups</TOKEN>
+<TOKEN end_char="1557" id="token-11-15" morph="none" pos="word" start_char="1554">were</TOKEN>
+<TOKEN end_char="1563" id="token-11-16" morph="none" pos="word" start_char="1559">right</TOKEN>
+<TOKEN end_char="1564" id="token-11-17" morph="none" pos="punct" start_char="1564">;</TOKEN>
+<TOKEN end_char="1568" id="token-11-18" morph="none" pos="word" start_char="1566">law</TOKEN>
+<TOKEN end_char="1580" id="token-11-19" morph="none" pos="word" start_char="1570">enforcement</TOKEN>
+<TOKEN end_char="1584" id="token-11-20" morph="none" pos="word" start_char="1582">can</TOKEN>
+<TOKEN end_char="1588" id="token-11-21" morph="none" pos="word" start_char="1586">and</TOKEN>
+<TOKEN end_char="1593" id="token-11-22" morph="none" pos="word" start_char="1590">will</TOKEN>
+<TOKEN end_char="1597" id="token-11-23" morph="none" pos="word" start_char="1595">use</TOKEN>
+<TOKEN end_char="1605" id="token-11-24" morph="none" pos="word" start_char="1599">contact</TOKEN>
+<TOKEN end_char="1613" id="token-11-25" morph="none" pos="word" start_char="1607">tracing</TOKEN>
+<TOKEN end_char="1616" id="token-11-26" morph="none" pos="word" start_char="1615">to</TOKEN>
+<TOKEN end_char="1625" id="token-11-27" morph="none" pos="word" start_char="1618">identify</TOKEN>
+<TOKEN end_char="1636" id="token-11-28" morph="none" pos="word" start_char="1627">protesters</TOKEN>
+<TOKEN end_char="1637" id="token-11-29" morph="none" pos="punct" start_char="1637">.</TOKEN>
+</SEG>
+<SEG end_char="1641" id="segment-12" start_char="1640">
+<ORIGINAL_TEXT>As</ORIGINAL_TEXT>
+<TOKEN end_char="1641" id="token-12-0" morph="none" pos="word" start_char="1640">As</TOKEN>
+</SEG>
+<SEG end_char="1651" id="segment-13" start_char="1644">
+<ORIGINAL_TEXT>NBC News</ORIGINAL_TEXT>
+<TOKEN end_char="1646" id="token-13-0" morph="none" pos="word" start_char="1644">NBC</TOKEN>
+<TOKEN end_char="1651" id="token-13-1" morph="none" pos="word" start_char="1648">News</TOKEN>
+</SEG>
+<SEG end_char="1724" id="segment-14" start_char="1654">
+<ORIGINAL_TEXT>noted, contact tracers also use geofencing to help identify protesters.</ORIGINAL_TEXT>
+<TOKEN end_char="1658" id="token-14-0" morph="none" pos="word" start_char="1654">noted</TOKEN>
+<TOKEN end_char="1659" id="token-14-1" morph="none" pos="punct" start_char="1659">,</TOKEN>
+<TOKEN end_char="1667" id="token-14-2" morph="none" pos="word" start_char="1661">contact</TOKEN>
+<TOKEN end_char="1675" id="token-14-3" morph="none" pos="word" start_char="1669">tracers</TOKEN>
+<TOKEN end_char="1680" id="token-14-4" morph="none" pos="word" start_char="1677">also</TOKEN>
+<TOKEN end_char="1684" id="token-14-5" morph="none" pos="word" start_char="1682">use</TOKEN>
+<TOKEN end_char="1695" id="token-14-6" morph="none" pos="word" start_char="1686">geofencing</TOKEN>
+<TOKEN end_char="1698" id="token-14-7" morph="none" pos="word" start_char="1697">to</TOKEN>
+<TOKEN end_char="1703" id="token-14-8" morph="none" pos="word" start_char="1700">help</TOKEN>
+<TOKEN end_char="1712" id="token-14-9" morph="none" pos="word" start_char="1705">identify</TOKEN>
+<TOKEN end_char="1723" id="token-14-10" morph="none" pos="word" start_char="1714">protesters</TOKEN>
+<TOKEN end_char="1724" id="token-14-11" morph="none" pos="punct" start_char="1724">.</TOKEN>
+</SEG>
+<SEG end_char="1806" id="segment-15" start_char="1728">
+<ORIGINAL_TEXT>"Geofencing captures the social media posts of people entering a specific area.</ORIGINAL_TEXT>
+<TOKEN end_char="1728" id="token-15-0" morph="none" pos="punct" start_char="1728">"</TOKEN>
+<TOKEN end_char="1738" id="token-15-1" morph="none" pos="word" start_char="1729">Geofencing</TOKEN>
+<TOKEN end_char="1747" id="token-15-2" morph="none" pos="word" start_char="1740">captures</TOKEN>
+<TOKEN end_char="1751" id="token-15-3" morph="none" pos="word" start_char="1749">the</TOKEN>
+<TOKEN end_char="1758" id="token-15-4" morph="none" pos="word" start_char="1753">social</TOKEN>
+<TOKEN end_char="1764" id="token-15-5" morph="none" pos="word" start_char="1760">media</TOKEN>
+<TOKEN end_char="1770" id="token-15-6" morph="none" pos="word" start_char="1766">posts</TOKEN>
+<TOKEN end_char="1773" id="token-15-7" morph="none" pos="word" start_char="1772">of</TOKEN>
+<TOKEN end_char="1780" id="token-15-8" morph="none" pos="word" start_char="1775">people</TOKEN>
+<TOKEN end_char="1789" id="token-15-9" morph="none" pos="word" start_char="1782">entering</TOKEN>
+<TOKEN end_char="1791" id="token-15-10" morph="none" pos="word" start_char="1791">a</TOKEN>
+<TOKEN end_char="1800" id="token-15-11" morph="none" pos="word" start_char="1793">specific</TOKEN>
+<TOKEN end_char="1805" id="token-15-12" morph="none" pos="word" start_char="1802">area</TOKEN>
+<TOKEN end_char="1806" id="token-15-13" morph="none" pos="punct" start_char="1806">.</TOKEN>
+</SEG>
+<SEG end_char="1991" id="segment-16" start_char="1808">
+<ORIGINAL_TEXT>The technology locates any cellphones that cross into the area by locking onto their geolocation systems, and then records social media posts and sometimes other data from the phones."</ORIGINAL_TEXT>
+<TOKEN end_char="1810" id="token-16-0" morph="none" pos="word" start_char="1808">The</TOKEN>
+<TOKEN end_char="1821" id="token-16-1" morph="none" pos="word" start_char="1812">technology</TOKEN>
+<TOKEN end_char="1829" id="token-16-2" morph="none" pos="word" start_char="1823">locates</TOKEN>
+<TOKEN end_char="1833" id="token-16-3" morph="none" pos="word" start_char="1831">any</TOKEN>
+<TOKEN end_char="1844" id="token-16-4" morph="none" pos="word" start_char="1835">cellphones</TOKEN>
+<TOKEN end_char="1849" id="token-16-5" morph="none" pos="word" start_char="1846">that</TOKEN>
+<TOKEN end_char="1855" id="token-16-6" morph="none" pos="word" start_char="1851">cross</TOKEN>
+<TOKEN end_char="1860" id="token-16-7" morph="none" pos="word" start_char="1857">into</TOKEN>
+<TOKEN end_char="1864" id="token-16-8" morph="none" pos="word" start_char="1862">the</TOKEN>
+<TOKEN end_char="1869" id="token-16-9" morph="none" pos="word" start_char="1866">area</TOKEN>
+<TOKEN end_char="1872" id="token-16-10" morph="none" pos="word" start_char="1871">by</TOKEN>
+<TOKEN end_char="1880" id="token-16-11" morph="none" pos="word" start_char="1874">locking</TOKEN>
+<TOKEN end_char="1885" id="token-16-12" morph="none" pos="word" start_char="1882">onto</TOKEN>
+<TOKEN end_char="1891" id="token-16-13" morph="none" pos="word" start_char="1887">their</TOKEN>
+<TOKEN end_char="1903" id="token-16-14" morph="none" pos="word" start_char="1893">geolocation</TOKEN>
+<TOKEN end_char="1911" id="token-16-15" morph="none" pos="word" start_char="1905">systems</TOKEN>
+<TOKEN end_char="1912" id="token-16-16" morph="none" pos="punct" start_char="1912">,</TOKEN>
+<TOKEN end_char="1916" id="token-16-17" morph="none" pos="word" start_char="1914">and</TOKEN>
+<TOKEN end_char="1921" id="token-16-18" morph="none" pos="word" start_char="1918">then</TOKEN>
+<TOKEN end_char="1929" id="token-16-19" morph="none" pos="word" start_char="1923">records</TOKEN>
+<TOKEN end_char="1936" id="token-16-20" morph="none" pos="word" start_char="1931">social</TOKEN>
+<TOKEN end_char="1942" id="token-16-21" morph="none" pos="word" start_char="1938">media</TOKEN>
+<TOKEN end_char="1948" id="token-16-22" morph="none" pos="word" start_char="1944">posts</TOKEN>
+<TOKEN end_char="1952" id="token-16-23" morph="none" pos="word" start_char="1950">and</TOKEN>
+<TOKEN end_char="1962" id="token-16-24" morph="none" pos="word" start_char="1954">sometimes</TOKEN>
+<TOKEN end_char="1968" id="token-16-25" morph="none" pos="word" start_char="1964">other</TOKEN>
+<TOKEN end_char="1973" id="token-16-26" morph="none" pos="word" start_char="1970">data</TOKEN>
+<TOKEN end_char="1978" id="token-16-27" morph="none" pos="word" start_char="1975">from</TOKEN>
+<TOKEN end_char="1982" id="token-16-28" morph="none" pos="word" start_char="1980">the</TOKEN>
+<TOKEN end_char="1989" id="token-16-29" morph="none" pos="word" start_char="1984">phones</TOKEN>
+<TOKEN end_char="1991" id="token-16-30" morph="none" pos="punct" start_char="1990">."</TOKEN>
+</SEG>
+<SEG end_char="1997" id="segment-17" start_char="1994">
+<ORIGINAL_TEXT>Time</ORIGINAL_TEXT>
+<TOKEN end_char="1997" id="token-17-0" morph="none" pos="word" start_char="1994">Time</TOKEN>
+<TRANSLATED_TEXT>Tempo</TRANSLATED_TEXT><DETECTED_LANGUAGE>id</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2137" id="segment-18" start_char="2000">
+<ORIGINAL_TEXT>exposed how the military (National Guard) uses a classified system called "Secret Internet Protocol Router" or SIPR to monitor protesters.</ORIGINAL_TEXT>
+<TOKEN end_char="2006" id="token-18-0" morph="none" pos="word" start_char="2000">exposed</TOKEN>
+<TOKEN end_char="2010" id="token-18-1" morph="none" pos="word" start_char="2008">how</TOKEN>
+<TOKEN end_char="2014" id="token-18-2" morph="none" pos="word" start_char="2012">the</TOKEN>
+<TOKEN end_char="2023" id="token-18-3" morph="none" pos="word" start_char="2016">military</TOKEN>
+<TOKEN end_char="2025" id="token-18-4" morph="none" pos="punct" start_char="2025">(</TOKEN>
+<TOKEN end_char="2033" id="token-18-5" morph="none" pos="word" start_char="2026">National</TOKEN>
+<TOKEN end_char="2039" id="token-18-6" morph="none" pos="word" start_char="2035">Guard</TOKEN>
+<TOKEN end_char="2040" id="token-18-7" morph="none" pos="punct" start_char="2040">)</TOKEN>
+<TOKEN end_char="2045" id="token-18-8" morph="none" pos="word" start_char="2042">uses</TOKEN>
+<TOKEN end_char="2047" id="token-18-9" morph="none" pos="word" start_char="2047">a</TOKEN>
+<TOKEN end_char="2058" id="token-18-10" morph="none" pos="word" start_char="2049">classified</TOKEN>
+<TOKEN end_char="2065" id="token-18-11" morph="none" pos="word" start_char="2060">system</TOKEN>
+<TOKEN end_char="2072" id="token-18-12" morph="none" pos="word" start_char="2067">called</TOKEN>
+<TOKEN end_char="2074" id="token-18-13" morph="none" pos="punct" start_char="2074">"</TOKEN>
+<TOKEN end_char="2080" id="token-18-14" morph="none" pos="word" start_char="2075">Secret</TOKEN>
+<TOKEN end_char="2089" id="token-18-15" morph="none" pos="word" start_char="2082">Internet</TOKEN>
+<TOKEN end_char="2098" id="token-18-16" morph="none" pos="word" start_char="2091">Protocol</TOKEN>
+<TOKEN end_char="2105" id="token-18-17" morph="none" pos="word" start_char="2100">Router</TOKEN>
+<TOKEN end_char="2106" id="token-18-18" morph="none" pos="punct" start_char="2106">"</TOKEN>
+<TOKEN end_char="2109" id="token-18-19" morph="none" pos="word" start_char="2108">or</TOKEN>
+<TOKEN end_char="2114" id="token-18-20" morph="none" pos="word" start_char="2111">SIPR</TOKEN>
+<TOKEN end_char="2117" id="token-18-21" morph="none" pos="word" start_char="2116">to</TOKEN>
+<TOKEN end_char="2125" id="token-18-22" morph="none" pos="word" start_char="2119">monitor</TOKEN>
+<TOKEN end_char="2136" id="token-18-23" morph="none" pos="word" start_char="2127">protesters</TOKEN>
+<TOKEN end_char="2137" id="token-18-24" morph="none" pos="punct" start_char="2137">.</TOKEN>
+</SEG>
+<SEG end_char="2168" id="segment-19" start_char="2139">
+<ORIGINAL_TEXT>(To learn about Perspecta Inc.</ORIGINAL_TEXT>
+<TOKEN end_char="2139" id="token-19-0" morph="none" pos="punct" start_char="2139">(</TOKEN>
+<TOKEN end_char="2141" id="token-19-1" morph="none" pos="word" start_char="2140">To</TOKEN>
+<TOKEN end_char="2147" id="token-19-2" morph="none" pos="word" start_char="2143">learn</TOKEN>
+<TOKEN end_char="2153" id="token-19-3" morph="none" pos="word" start_char="2149">about</TOKEN>
+<TOKEN end_char="2163" id="token-19-4" morph="none" pos="word" start_char="2155">Perspecta</TOKEN>
+<TOKEN end_char="2167" id="token-19-5" morph="none" pos="word" start_char="2165">Inc</TOKEN>
+<TOKEN end_char="2168" id="token-19-6" morph="none" pos="punct" start_char="2168">.</TOKEN>
+</SEG>
+<SEG end_char="2194" id="segment-20" start_char="2170">
+<ORIGINAL_TEXT>’s role click here here.)</ORIGINAL_TEXT>
+<TOKEN end_char="2170" id="token-20-0" morph="none" pos="punct" start_char="2170">’</TOKEN>
+<TOKEN end_char="2171" id="token-20-1" morph="none" pos="word" start_char="2171">s</TOKEN>
+<TOKEN end_char="2176" id="token-20-2" morph="none" pos="word" start_char="2173">role</TOKEN>
+<TOKEN end_char="2182" id="token-20-3" morph="none" pos="word" start_char="2178">click</TOKEN>
+<TOKEN end_char="2187" id="token-20-4" morph="none" pos="word" start_char="2184">here</TOKEN>
+<TOKEN end_char="2192" id="token-20-5" morph="none" pos="word" start_char="2189">here</TOKEN>
+<TOKEN end_char="2194" id="token-20-6" morph="none" pos="punct" start_char="2193">.)</TOKEN>
+</SEG>
+<SEG end_char="2283" id="segment-21" start_char="2197">
+<ORIGINAL_TEXT>Big Tech’s hands are dirty with Federal money paying for new ways to monitor Americans.</ORIGINAL_TEXT>
+<TOKEN end_char="2199" id="token-21-0" morph="none" pos="word" start_char="2197">Big</TOKEN>
+<TOKEN end_char="2206" id="token-21-1" morph="none" pos="word" start_char="2201">Tech’s</TOKEN>
+<TOKEN end_char="2212" id="token-21-2" morph="none" pos="word" start_char="2208">hands</TOKEN>
+<TOKEN end_char="2216" id="token-21-3" morph="none" pos="word" start_char="2214">are</TOKEN>
+<TOKEN end_char="2222" id="token-21-4" morph="none" pos="word" start_char="2218">dirty</TOKEN>
+<TOKEN end_char="2227" id="token-21-5" morph="none" pos="word" start_char="2224">with</TOKEN>
+<TOKEN end_char="2235" id="token-21-6" morph="none" pos="word" start_char="2229">Federal</TOKEN>
+<TOKEN end_char="2241" id="token-21-7" morph="none" pos="word" start_char="2237">money</TOKEN>
+<TOKEN end_char="2248" id="token-21-8" morph="none" pos="word" start_char="2243">paying</TOKEN>
+<TOKEN end_char="2252" id="token-21-9" morph="none" pos="word" start_char="2250">for</TOKEN>
+<TOKEN end_char="2256" id="token-21-10" morph="none" pos="word" start_char="2254">new</TOKEN>
+<TOKEN end_char="2261" id="token-21-11" morph="none" pos="word" start_char="2258">ways</TOKEN>
+<TOKEN end_char="2264" id="token-21-12" morph="none" pos="word" start_char="2263">to</TOKEN>
+<TOKEN end_char="2272" id="token-21-13" morph="none" pos="word" start_char="2266">monitor</TOKEN>
+<TOKEN end_char="2282" id="token-21-14" morph="none" pos="word" start_char="2274">Americans</TOKEN>
+<TOKEN end_char="2283" id="token-21-15" morph="none" pos="punct" start_char="2283">.</TOKEN>
+</SEG>
+<SEG end_char="2293" id="segment-22" start_char="2286">
+<ORIGINAL_TEXT>A recent</ORIGINAL_TEXT>
+<TOKEN end_char="2286" id="token-22-0" morph="none" pos="word" start_char="2286">A</TOKEN>
+<TOKEN end_char="2293" id="token-22-1" morph="none" pos="word" start_char="2288">recent</TOKEN>
+<TRANSLATED_TEXT>Un recente</TRANSLATED_TEXT><DETECTED_LANGUAGE>pt</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2311" id="segment-23" start_char="2296">
+<ORIGINAL_TEXT>Business Insider</ORIGINAL_TEXT>
+<TOKEN end_char="2303" id="token-23-0" morph="none" pos="word" start_char="2296">Business</TOKEN>
+<TOKEN end_char="2311" id="token-23-1" morph="none" pos="word" start_char="2305">Insider</TOKEN>
+<TRANSLATED_TEXT>Business Insider.</TRANSLATED_TEXT><DETECTED_LANGUAGE>de</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2427" id="segment-24" start_char="2314">
+<ORIGINAL_TEXT>article describes how police use Big Tech to monitor activists and protesters the moment they walk out their door.</ORIGINAL_TEXT>
+<TOKEN end_char="2320" id="token-24-0" morph="none" pos="word" start_char="2314">article</TOKEN>
+<TOKEN end_char="2330" id="token-24-1" morph="none" pos="word" start_char="2322">describes</TOKEN>
+<TOKEN end_char="2334" id="token-24-2" morph="none" pos="word" start_char="2332">how</TOKEN>
+<TOKEN end_char="2341" id="token-24-3" morph="none" pos="word" start_char="2336">police</TOKEN>
+<TOKEN end_char="2345" id="token-24-4" morph="none" pos="word" start_char="2343">use</TOKEN>
+<TOKEN end_char="2349" id="token-24-5" morph="none" pos="word" start_char="2347">Big</TOKEN>
+<TOKEN end_char="2354" id="token-24-6" morph="none" pos="word" start_char="2351">Tech</TOKEN>
+<TOKEN end_char="2357" id="token-24-7" morph="none" pos="word" start_char="2356">to</TOKEN>
+<TOKEN end_char="2365" id="token-24-8" morph="none" pos="word" start_char="2359">monitor</TOKEN>
+<TOKEN end_char="2375" id="token-24-9" morph="none" pos="word" start_char="2367">activists</TOKEN>
+<TOKEN end_char="2379" id="token-24-10" morph="none" pos="word" start_char="2377">and</TOKEN>
+<TOKEN end_char="2390" id="token-24-11" morph="none" pos="word" start_char="2381">protesters</TOKEN>
+<TOKEN end_char="2394" id="token-24-12" morph="none" pos="word" start_char="2392">the</TOKEN>
+<TOKEN end_char="2401" id="token-24-13" morph="none" pos="word" start_char="2396">moment</TOKEN>
+<TOKEN end_char="2406" id="token-24-14" morph="none" pos="word" start_char="2403">they</TOKEN>
+<TOKEN end_char="2411" id="token-24-15" morph="none" pos="word" start_char="2408">walk</TOKEN>
+<TOKEN end_char="2415" id="token-24-16" morph="none" pos="word" start_char="2413">out</TOKEN>
+<TOKEN end_char="2421" id="token-24-17" morph="none" pos="word" start_char="2417">their</TOKEN>
+<TOKEN end_char="2426" id="token-24-18" morph="none" pos="word" start_char="2423">door</TOKEN>
+<TOKEN end_char="2427" id="token-24-19" morph="none" pos="punct" start_char="2427">.</TOKEN>
+</SEG>
+<SEG end_char="2573" id="segment-25" start_char="2431">
+<ORIGINAL_TEXT>"Law enforcement agencies have made full use of high-tech surveillance tools as protests sweep the country following the death of George Floyd.</ORIGINAL_TEXT>
+<TOKEN end_char="2431" id="token-25-0" morph="none" pos="punct" start_char="2431">"</TOKEN>
+<TOKEN end_char="2434" id="token-25-1" morph="none" pos="word" start_char="2432">Law</TOKEN>
+<TOKEN end_char="2446" id="token-25-2" morph="none" pos="word" start_char="2436">enforcement</TOKEN>
+<TOKEN end_char="2455" id="token-25-3" morph="none" pos="word" start_char="2448">agencies</TOKEN>
+<TOKEN end_char="2460" id="token-25-4" morph="none" pos="word" start_char="2457">have</TOKEN>
+<TOKEN end_char="2465" id="token-25-5" morph="none" pos="word" start_char="2462">made</TOKEN>
+<TOKEN end_char="2470" id="token-25-6" morph="none" pos="word" start_char="2467">full</TOKEN>
+<TOKEN end_char="2474" id="token-25-7" morph="none" pos="word" start_char="2472">use</TOKEN>
+<TOKEN end_char="2477" id="token-25-8" morph="none" pos="word" start_char="2476">of</TOKEN>
+<TOKEN end_char="2487" id="token-25-9" morph="none" pos="unknown" start_char="2479">high-tech</TOKEN>
+<TOKEN end_char="2500" id="token-25-10" morph="none" pos="word" start_char="2489">surveillance</TOKEN>
+<TOKEN end_char="2506" id="token-25-11" morph="none" pos="word" start_char="2502">tools</TOKEN>
+<TOKEN end_char="2509" id="token-25-12" morph="none" pos="word" start_char="2508">as</TOKEN>
+<TOKEN end_char="2518" id="token-25-13" morph="none" pos="word" start_char="2511">protests</TOKEN>
+<TOKEN end_char="2524" id="token-25-14" morph="none" pos="word" start_char="2520">sweep</TOKEN>
+<TOKEN end_char="2528" id="token-25-15" morph="none" pos="word" start_char="2526">the</TOKEN>
+<TOKEN end_char="2536" id="token-25-16" morph="none" pos="word" start_char="2530">country</TOKEN>
+<TOKEN end_char="2546" id="token-25-17" morph="none" pos="word" start_char="2538">following</TOKEN>
+<TOKEN end_char="2550" id="token-25-18" morph="none" pos="word" start_char="2548">the</TOKEN>
+<TOKEN end_char="2556" id="token-25-19" morph="none" pos="word" start_char="2552">death</TOKEN>
+<TOKEN end_char="2559" id="token-25-20" morph="none" pos="word" start_char="2558">of</TOKEN>
+<TOKEN end_char="2566" id="token-25-21" morph="none" pos="word" start_char="2561">George</TOKEN>
+<TOKEN end_char="2572" id="token-25-22" morph="none" pos="word" start_char="2568">Floyd</TOKEN>
+<TOKEN end_char="2573" id="token-25-23" morph="none" pos="punct" start_char="2573">.</TOKEN>
+</SEG>
+<SEG end_char="2670" id="segment-26" start_char="2575">
+<ORIGINAL_TEXT>A predator drone operated by Customs and Border Patrol circled above protesters in Minneapolis."</ORIGINAL_TEXT>
+<TOKEN end_char="2575" id="token-26-0" morph="none" pos="word" start_char="2575">A</TOKEN>
+<TOKEN end_char="2584" id="token-26-1" morph="none" pos="word" start_char="2577">predator</TOKEN>
+<TOKEN end_char="2590" id="token-26-2" morph="none" pos="word" start_char="2586">drone</TOKEN>
+<TOKEN end_char="2599" id="token-26-3" morph="none" pos="word" start_char="2592">operated</TOKEN>
+<TOKEN end_char="2602" id="token-26-4" morph="none" pos="word" start_char="2601">by</TOKEN>
+<TOKEN end_char="2610" id="token-26-5" morph="none" pos="word" start_char="2604">Customs</TOKEN>
+<TOKEN end_char="2614" id="token-26-6" morph="none" pos="word" start_char="2612">and</TOKEN>
+<TOKEN end_char="2621" id="token-26-7" morph="none" pos="word" start_char="2616">Border</TOKEN>
+<TOKEN end_char="2628" id="token-26-8" morph="none" pos="word" start_char="2623">Patrol</TOKEN>
+<TOKEN end_char="2636" id="token-26-9" morph="none" pos="word" start_char="2630">circled</TOKEN>
+<TOKEN end_char="2642" id="token-26-10" morph="none" pos="word" start_char="2638">above</TOKEN>
+<TOKEN end_char="2653" id="token-26-11" morph="none" pos="word" start_char="2644">protesters</TOKEN>
+<TOKEN end_char="2656" id="token-26-12" morph="none" pos="word" start_char="2655">in</TOKEN>
+<TOKEN end_char="2668" id="token-26-13" morph="none" pos="word" start_char="2658">Minneapolis</TOKEN>
+<TOKEN end_char="2670" id="token-26-14" morph="none" pos="punct" start_char="2669">."</TOKEN>
+</SEG>
+<SEG end_char="2685" id="segment-27" start_char="2673">
+<ORIGINAL_TEXT>Buzzfeed News</ORIGINAL_TEXT>
+<TOKEN end_char="2680" id="token-27-0" morph="none" pos="word" start_char="2673">Buzzfeed</TOKEN>
+<TOKEN end_char="2685" id="token-27-1" morph="none" pos="word" start_char="2682">News</TOKEN>
+</SEG>
+<SEG end_char="2942" id="segment-28" start_char="2688">
+<ORIGINAL_TEXT>warns, "law enforcement has a wide breadth of surveillance technologies that could be used to monitor and target protesters — including controversial facial recognition software Clearview AI, license plate readers, body cameras, and video analysis tools."</ORIGINAL_TEXT>
+<TOKEN end_char="2692" id="token-28-0" morph="none" pos="word" start_char="2688">warns</TOKEN>
+<TOKEN end_char="2693" id="token-28-1" morph="none" pos="punct" start_char="2693">,</TOKEN>
+<TOKEN end_char="2695" id="token-28-2" morph="none" pos="punct" start_char="2695">"</TOKEN>
+<TOKEN end_char="2698" id="token-28-3" morph="none" pos="word" start_char="2696">law</TOKEN>
+<TOKEN end_char="2710" id="token-28-4" morph="none" pos="word" start_char="2700">enforcement</TOKEN>
+<TOKEN end_char="2714" id="token-28-5" morph="none" pos="word" start_char="2712">has</TOKEN>
+<TOKEN end_char="2716" id="token-28-6" morph="none" pos="word" start_char="2716">a</TOKEN>
+<TOKEN end_char="2721" id="token-28-7" morph="none" pos="word" start_char="2718">wide</TOKEN>
+<TOKEN end_char="2729" id="token-28-8" morph="none" pos="word" start_char="2723">breadth</TOKEN>
+<TOKEN end_char="2732" id="token-28-9" morph="none" pos="word" start_char="2731">of</TOKEN>
+<TOKEN end_char="2745" id="token-28-10" morph="none" pos="word" start_char="2734">surveillance</TOKEN>
+<TOKEN end_char="2758" id="token-28-11" morph="none" pos="word" start_char="2747">technologies</TOKEN>
+<TOKEN end_char="2763" id="token-28-12" morph="none" pos="word" start_char="2760">that</TOKEN>
+<TOKEN end_char="2769" id="token-28-13" morph="none" pos="word" start_char="2765">could</TOKEN>
+<TOKEN end_char="2772" id="token-28-14" morph="none" pos="word" start_char="2771">be</TOKEN>
+<TOKEN end_char="2777" id="token-28-15" morph="none" pos="word" start_char="2774">used</TOKEN>
+<TOKEN end_char="2780" id="token-28-16" morph="none" pos="word" start_char="2779">to</TOKEN>
+<TOKEN end_char="2788" id="token-28-17" morph="none" pos="word" start_char="2782">monitor</TOKEN>
+<TOKEN end_char="2792" id="token-28-18" morph="none" pos="word" start_char="2790">and</TOKEN>
+<TOKEN end_char="2799" id="token-28-19" morph="none" pos="word" start_char="2794">target</TOKEN>
+<TOKEN end_char="2810" id="token-28-20" morph="none" pos="word" start_char="2801">protesters</TOKEN>
+<TOKEN end_char="2812" id="token-28-21" morph="none" pos="punct" start_char="2812">—</TOKEN>
+<TOKEN end_char="2822" id="token-28-22" morph="none" pos="word" start_char="2814">including</TOKEN>
+<TOKEN end_char="2836" id="token-28-23" morph="none" pos="word" start_char="2824">controversial</TOKEN>
+<TOKEN end_char="2843" id="token-28-24" morph="none" pos="word" start_char="2838">facial</TOKEN>
+<TOKEN end_char="2855" id="token-28-25" morph="none" pos="word" start_char="2845">recognition</TOKEN>
+<TOKEN end_char="2864" id="token-28-26" morph="none" pos="word" start_char="2857">software</TOKEN>
+<TOKEN end_char="2874" id="token-28-27" morph="none" pos="word" start_char="2866">Clearview</TOKEN>
+<TOKEN end_char="2877" id="token-28-28" morph="none" pos="word" start_char="2876">AI</TOKEN>
+<TOKEN end_char="2878" id="token-28-29" morph="none" pos="punct" start_char="2878">,</TOKEN>
+<TOKEN end_char="2886" id="token-28-30" morph="none" pos="word" start_char="2880">license</TOKEN>
+<TOKEN end_char="2892" id="token-28-31" morph="none" pos="word" start_char="2888">plate</TOKEN>
+<TOKEN end_char="2900" id="token-28-32" morph="none" pos="word" start_char="2894">readers</TOKEN>
+<TOKEN end_char="2901" id="token-28-33" morph="none" pos="punct" start_char="2901">,</TOKEN>
+<TOKEN end_char="2906" id="token-28-34" morph="none" pos="word" start_char="2903">body</TOKEN>
+<TOKEN end_char="2914" id="token-28-35" morph="none" pos="word" start_char="2908">cameras</TOKEN>
+<TOKEN end_char="2915" id="token-28-36" morph="none" pos="punct" start_char="2915">,</TOKEN>
+<TOKEN end_char="2919" id="token-28-37" morph="none" pos="word" start_char="2917">and</TOKEN>
+<TOKEN end_char="2925" id="token-28-38" morph="none" pos="word" start_char="2921">video</TOKEN>
+<TOKEN end_char="2934" id="token-28-39" morph="none" pos="word" start_char="2927">analysis</TOKEN>
+<TOKEN end_char="2940" id="token-28-40" morph="none" pos="word" start_char="2936">tools</TOKEN>
+<TOKEN end_char="2942" id="token-28-41" morph="none" pos="punct" start_char="2941">."</TOKEN>
+</SEG>
+<SEG end_char="3059" id="segment-29" start_char="2945">
+<ORIGINAL_TEXT>Both of these articles reveal a frightening array of Big Tech surveillance devices being used by police nationwide.</ORIGINAL_TEXT>
+<TOKEN end_char="2948" id="token-29-0" morph="none" pos="word" start_char="2945">Both</TOKEN>
+<TOKEN end_char="2951" id="token-29-1" morph="none" pos="word" start_char="2950">of</TOKEN>
+<TOKEN end_char="2957" id="token-29-2" morph="none" pos="word" start_char="2953">these</TOKEN>
+<TOKEN end_char="2966" id="token-29-3" morph="none" pos="word" start_char="2959">articles</TOKEN>
+<TOKEN end_char="2973" id="token-29-4" morph="none" pos="word" start_char="2968">reveal</TOKEN>
+<TOKEN end_char="2975" id="token-29-5" morph="none" pos="word" start_char="2975">a</TOKEN>
+<TOKEN end_char="2987" id="token-29-6" morph="none" pos="word" start_char="2977">frightening</TOKEN>
+<TOKEN end_char="2993" id="token-29-7" morph="none" pos="word" start_char="2989">array</TOKEN>
+<TOKEN end_char="2996" id="token-29-8" morph="none" pos="word" start_char="2995">of</TOKEN>
+<TOKEN end_char="3000" id="token-29-9" morph="none" pos="word" start_char="2998">Big</TOKEN>
+<TOKEN end_char="3005" id="token-29-10" morph="none" pos="word" start_char="3002">Tech</TOKEN>
+<TOKEN end_char="3018" id="token-29-11" morph="none" pos="word" start_char="3007">surveillance</TOKEN>
+<TOKEN end_char="3026" id="token-29-12" morph="none" pos="word" start_char="3020">devices</TOKEN>
+<TOKEN end_char="3032" id="token-29-13" morph="none" pos="word" start_char="3028">being</TOKEN>
+<TOKEN end_char="3037" id="token-29-14" morph="none" pos="word" start_char="3034">used</TOKEN>
+<TOKEN end_char="3040" id="token-29-15" morph="none" pos="word" start_char="3039">by</TOKEN>
+<TOKEN end_char="3047" id="token-29-16" morph="none" pos="word" start_char="3042">police</TOKEN>
+<TOKEN end_char="3058" id="token-29-17" morph="none" pos="word" start_char="3049">nationwide</TOKEN>
+<TOKEN end_char="3059" id="token-29-18" morph="none" pos="punct" start_char="3059">.</TOKEN>
+</SEG>
+<SEG end_char="3285" id="segment-30" start_char="3062">
+<ORIGINAL_TEXT>Minneapolis police and the Minnesota Fusion Center are also using Clearview AI, BriefCam, Ring doorbell cameras, Axon police body cameras, ShotSpotter and license plate readers to create an intimate view into people’s lives.</ORIGINAL_TEXT>
+<TOKEN end_char="3072" id="token-30-0" morph="none" pos="word" start_char="3062">Minneapolis</TOKEN>
+<TOKEN end_char="3079" id="token-30-1" morph="none" pos="word" start_char="3074">police</TOKEN>
+<TOKEN end_char="3083" id="token-30-2" morph="none" pos="word" start_char="3081">and</TOKEN>
+<TOKEN end_char="3087" id="token-30-3" morph="none" pos="word" start_char="3085">the</TOKEN>
+<TOKEN end_char="3097" id="token-30-4" morph="none" pos="word" start_char="3089">Minnesota</TOKEN>
+<TOKEN end_char="3104" id="token-30-5" morph="none" pos="word" start_char="3099">Fusion</TOKEN>
+<TOKEN end_char="3111" id="token-30-6" morph="none" pos="word" start_char="3106">Center</TOKEN>
+<TOKEN end_char="3115" id="token-30-7" morph="none" pos="word" start_char="3113">are</TOKEN>
+<TOKEN end_char="3120" id="token-30-8" morph="none" pos="word" start_char="3117">also</TOKEN>
+<TOKEN end_char="3126" id="token-30-9" morph="none" pos="word" start_char="3122">using</TOKEN>
+<TOKEN end_char="3136" id="token-30-10" morph="none" pos="word" start_char="3128">Clearview</TOKEN>
+<TOKEN end_char="3139" id="token-30-11" morph="none" pos="word" start_char="3138">AI</TOKEN>
+<TOKEN end_char="3140" id="token-30-12" morph="none" pos="punct" start_char="3140">,</TOKEN>
+<TOKEN end_char="3149" id="token-30-13" morph="none" pos="word" start_char="3142">BriefCam</TOKEN>
+<TOKEN end_char="3150" id="token-30-14" morph="none" pos="punct" start_char="3150">,</TOKEN>
+<TOKEN end_char="3155" id="token-30-15" morph="none" pos="word" start_char="3152">Ring</TOKEN>
+<TOKEN end_char="3164" id="token-30-16" morph="none" pos="word" start_char="3157">doorbell</TOKEN>
+<TOKEN end_char="3172" id="token-30-17" morph="none" pos="word" start_char="3166">cameras</TOKEN>
+<TOKEN end_char="3173" id="token-30-18" morph="none" pos="punct" start_char="3173">,</TOKEN>
+<TOKEN end_char="3178" id="token-30-19" morph="none" pos="word" start_char="3175">Axon</TOKEN>
+<TOKEN end_char="3185" id="token-30-20" morph="none" pos="word" start_char="3180">police</TOKEN>
+<TOKEN end_char="3190" id="token-30-21" morph="none" pos="word" start_char="3187">body</TOKEN>
+<TOKEN end_char="3198" id="token-30-22" morph="none" pos="word" start_char="3192">cameras</TOKEN>
+<TOKEN end_char="3199" id="token-30-23" morph="none" pos="punct" start_char="3199">,</TOKEN>
+<TOKEN end_char="3211" id="token-30-24" morph="none" pos="word" start_char="3201">ShotSpotter</TOKEN>
+<TOKEN end_char="3215" id="token-30-25" morph="none" pos="word" start_char="3213">and</TOKEN>
+<TOKEN end_char="3223" id="token-30-26" morph="none" pos="word" start_char="3217">license</TOKEN>
+<TOKEN end_char="3229" id="token-30-27" morph="none" pos="word" start_char="3225">plate</TOKEN>
+<TOKEN end_char="3237" id="token-30-28" morph="none" pos="word" start_char="3231">readers</TOKEN>
+<TOKEN end_char="3240" id="token-30-29" morph="none" pos="word" start_char="3239">to</TOKEN>
+<TOKEN end_char="3247" id="token-30-30" morph="none" pos="word" start_char="3242">create</TOKEN>
+<TOKEN end_char="3250" id="token-30-31" morph="none" pos="word" start_char="3249">an</TOKEN>
+<TOKEN end_char="3259" id="token-30-32" morph="none" pos="word" start_char="3252">intimate</TOKEN>
+<TOKEN end_char="3264" id="token-30-33" morph="none" pos="word" start_char="3261">view</TOKEN>
+<TOKEN end_char="3269" id="token-30-34" morph="none" pos="word" start_char="3266">into</TOKEN>
+<TOKEN end_char="3278" id="token-30-35" morph="none" pos="word" start_char="3271">people’s</TOKEN>
+<TOKEN end_char="3284" id="token-30-36" morph="none" pos="word" start_char="3280">lives</TOKEN>
+<TOKEN end_char="3285" id="token-30-37" morph="none" pos="punct" start_char="3285">.</TOKEN>
+</SEG>
+<SEG end_char="3297" id="segment-31" start_char="3288">
+<ORIGINAL_TEXT>BuzzFeed’s</ORIGINAL_TEXT>
+<TOKEN end_char="3297" id="token-31-0" morph="none" pos="word" start_char="3288">BuzzFeed’s</TOKEN>
+<TRANSLATED_TEXT>BuzzFeed</TRANSLATED_TEXT><DETECTED_LANGUAGE>nl</DETECTED_LANGUAGE></SEG>
+<SEG end_char="3423" id="segment-32" start_char="3300">
+<ORIGINAL_TEXT>article also revealed how police use Arxys "Milestone" software which uses video detection and analytics to identify people.</ORIGINAL_TEXT>
+<TOKEN end_char="3306" id="token-32-0" morph="none" pos="word" start_char="3300">article</TOKEN>
+<TOKEN end_char="3311" id="token-32-1" morph="none" pos="word" start_char="3308">also</TOKEN>
+<TOKEN end_char="3320" id="token-32-2" morph="none" pos="word" start_char="3313">revealed</TOKEN>
+<TOKEN end_char="3324" id="token-32-3" morph="none" pos="word" start_char="3322">how</TOKEN>
+<TOKEN end_char="3331" id="token-32-4" morph="none" pos="word" start_char="3326">police</TOKEN>
+<TOKEN end_char="3335" id="token-32-5" morph="none" pos="word" start_char="3333">use</TOKEN>
+<TOKEN end_char="3341" id="token-32-6" morph="none" pos="word" start_char="3337">Arxys</TOKEN>
+<TOKEN end_char="3343" id="token-32-7" morph="none" pos="punct" start_char="3343">"</TOKEN>
+<TOKEN end_char="3352" id="token-32-8" morph="none" pos="word" start_char="3344">Milestone</TOKEN>
+<TOKEN end_char="3353" id="token-32-9" morph="none" pos="punct" start_char="3353">"</TOKEN>
+<TOKEN end_char="3362" id="token-32-10" morph="none" pos="word" start_char="3355">software</TOKEN>
+<TOKEN end_char="3368" id="token-32-11" morph="none" pos="word" start_char="3364">which</TOKEN>
+<TOKEN end_char="3373" id="token-32-12" morph="none" pos="word" start_char="3370">uses</TOKEN>
+<TOKEN end_char="3379" id="token-32-13" morph="none" pos="word" start_char="3375">video</TOKEN>
+<TOKEN end_char="3389" id="token-32-14" morph="none" pos="word" start_char="3381">detection</TOKEN>
+<TOKEN end_char="3393" id="token-32-15" morph="none" pos="word" start_char="3391">and</TOKEN>
+<TOKEN end_char="3403" id="token-32-16" morph="none" pos="word" start_char="3395">analytics</TOKEN>
+<TOKEN end_char="3406" id="token-32-17" morph="none" pos="word" start_char="3405">to</TOKEN>
+<TOKEN end_char="3415" id="token-32-18" morph="none" pos="word" start_char="3408">identify</TOKEN>
+<TOKEN end_char="3422" id="token-32-19" morph="none" pos="word" start_char="3417">people</TOKEN>
+<TOKEN end_char="3423" id="token-32-20" morph="none" pos="punct" start_char="3423">.</TOKEN>
+</SEG>
+<SEG end_char="3657" id="segment-33" start_char="3427">
+<ORIGINAL_TEXT>"The Minneapolis Police Department said in a surveillance white paper that it uses Arxys [Milestone] software — a video management tool that claims to offer "video motion detection" and "video analytics" — to analyze CCTV footage."</ORIGINAL_TEXT>
+<TOKEN end_char="3427" id="token-33-0" morph="none" pos="punct" start_char="3427">"</TOKEN>
+<TOKEN end_char="3430" id="token-33-1" morph="none" pos="word" start_char="3428">The</TOKEN>
+<TOKEN end_char="3442" id="token-33-2" morph="none" pos="word" start_char="3432">Minneapolis</TOKEN>
+<TOKEN end_char="3449" id="token-33-3" morph="none" pos="word" start_char="3444">Police</TOKEN>
+<TOKEN end_char="3460" id="token-33-4" morph="none" pos="word" start_char="3451">Department</TOKEN>
+<TOKEN end_char="3465" id="token-33-5" morph="none" pos="word" start_char="3462">said</TOKEN>
+<TOKEN end_char="3468" id="token-33-6" morph="none" pos="word" start_char="3467">in</TOKEN>
+<TOKEN end_char="3470" id="token-33-7" morph="none" pos="word" start_char="3470">a</TOKEN>
+<TOKEN end_char="3483" id="token-33-8" morph="none" pos="word" start_char="3472">surveillance</TOKEN>
+<TOKEN end_char="3489" id="token-33-9" morph="none" pos="word" start_char="3485">white</TOKEN>
+<TOKEN end_char="3495" id="token-33-10" morph="none" pos="word" start_char="3491">paper</TOKEN>
+<TOKEN end_char="3500" id="token-33-11" morph="none" pos="word" start_char="3497">that</TOKEN>
+<TOKEN end_char="3503" id="token-33-12" morph="none" pos="word" start_char="3502">it</TOKEN>
+<TOKEN end_char="3508" id="token-33-13" morph="none" pos="word" start_char="3505">uses</TOKEN>
+<TOKEN end_char="3514" id="token-33-14" morph="none" pos="word" start_char="3510">Arxys</TOKEN>
+<TOKEN end_char="3516" id="token-33-15" morph="none" pos="punct" start_char="3516">[</TOKEN>
+<TOKEN end_char="3525" id="token-33-16" morph="none" pos="word" start_char="3517">Milestone</TOKEN>
+<TOKEN end_char="3526" id="token-33-17" morph="none" pos="punct" start_char="3526">]</TOKEN>
+<TOKEN end_char="3535" id="token-33-18" morph="none" pos="word" start_char="3528">software</TOKEN>
+<TOKEN end_char="3537" id="token-33-19" morph="none" pos="punct" start_char="3537">—</TOKEN>
+<TOKEN end_char="3539" id="token-33-20" morph="none" pos="word" start_char="3539">a</TOKEN>
+<TOKEN end_char="3545" id="token-33-21" morph="none" pos="word" start_char="3541">video</TOKEN>
+<TOKEN end_char="3556" id="token-33-22" morph="none" pos="word" start_char="3547">management</TOKEN>
+<TOKEN end_char="3561" id="token-33-23" morph="none" pos="word" start_char="3558">tool</TOKEN>
+<TOKEN end_char="3566" id="token-33-24" morph="none" pos="word" start_char="3563">that</TOKEN>
+<TOKEN end_char="3573" id="token-33-25" morph="none" pos="word" start_char="3568">claims</TOKEN>
+<TOKEN end_char="3576" id="token-33-26" morph="none" pos="word" start_char="3575">to</TOKEN>
+<TOKEN end_char="3582" id="token-33-27" morph="none" pos="word" start_char="3578">offer</TOKEN>
+<TOKEN end_char="3584" id="token-33-28" morph="none" pos="punct" start_char="3584">"</TOKEN>
+<TOKEN end_char="3589" id="token-33-29" morph="none" pos="word" start_char="3585">video</TOKEN>
+<TOKEN end_char="3596" id="token-33-30" morph="none" pos="word" start_char="3591">motion</TOKEN>
+<TOKEN end_char="3606" id="token-33-31" morph="none" pos="word" start_char="3598">detection</TOKEN>
+<TOKEN end_char="3607" id="token-33-32" morph="none" pos="punct" start_char="3607">"</TOKEN>
+<TOKEN end_char="3611" id="token-33-33" morph="none" pos="word" start_char="3609">and</TOKEN>
+<TOKEN end_char="3613" id="token-33-34" morph="none" pos="punct" start_char="3613">"</TOKEN>
+<TOKEN end_char="3618" id="token-33-35" morph="none" pos="word" start_char="3614">video</TOKEN>
+<TOKEN end_char="3628" id="token-33-36" morph="none" pos="word" start_char="3620">analytics</TOKEN>
+<TOKEN end_char="3629" id="token-33-37" morph="none" pos="punct" start_char="3629">"</TOKEN>
+<TOKEN end_char="3631" id="token-33-38" morph="none" pos="punct" start_char="3631">—</TOKEN>
+<TOKEN end_char="3634" id="token-33-39" morph="none" pos="word" start_char="3633">to</TOKEN>
+<TOKEN end_char="3642" id="token-33-40" morph="none" pos="word" start_char="3636">analyze</TOKEN>
+<TOKEN end_char="3647" id="token-33-41" morph="none" pos="word" start_char="3644">CCTV</TOKEN>
+<TOKEN end_char="3655" id="token-33-42" morph="none" pos="word" start_char="3649">footage</TOKEN>
+<TOKEN end_char="3657" id="token-33-43" morph="none" pos="punct" start_char="3656">."</TOKEN>
+</SEG>
+<SEG end_char="3855" id="segment-34" start_char="3661">
+<ORIGINAL_TEXT>While both articles do a great job of revealing some of the ways law enforcement can monitor anyone, it really did not go into detail about how invasive Big Tech’s surveillance devices truly are.</ORIGINAL_TEXT>
+<TOKEN end_char="3665" id="token-34-0" morph="none" pos="word" start_char="3661">While</TOKEN>
+<TOKEN end_char="3670" id="token-34-1" morph="none" pos="word" start_char="3667">both</TOKEN>
+<TOKEN end_char="3679" id="token-34-2" morph="none" pos="word" start_char="3672">articles</TOKEN>
+<TOKEN end_char="3682" id="token-34-3" morph="none" pos="word" start_char="3681">do</TOKEN>
+<TOKEN end_char="3684" id="token-34-4" morph="none" pos="word" start_char="3684">a</TOKEN>
+<TOKEN end_char="3690" id="token-34-5" morph="none" pos="word" start_char="3686">great</TOKEN>
+<TOKEN end_char="3694" id="token-34-6" morph="none" pos="word" start_char="3692">job</TOKEN>
+<TOKEN end_char="3697" id="token-34-7" morph="none" pos="word" start_char="3696">of</TOKEN>
+<TOKEN end_char="3707" id="token-34-8" morph="none" pos="word" start_char="3699">revealing</TOKEN>
+<TOKEN end_char="3712" id="token-34-9" morph="none" pos="word" start_char="3709">some</TOKEN>
+<TOKEN end_char="3715" id="token-34-10" morph="none" pos="word" start_char="3714">of</TOKEN>
+<TOKEN end_char="3719" id="token-34-11" morph="none" pos="word" start_char="3717">the</TOKEN>
+<TOKEN end_char="3724" id="token-34-12" morph="none" pos="word" start_char="3721">ways</TOKEN>
+<TOKEN end_char="3728" id="token-34-13" morph="none" pos="word" start_char="3726">law</TOKEN>
+<TOKEN end_char="3740" id="token-34-14" morph="none" pos="word" start_char="3730">enforcement</TOKEN>
+<TOKEN end_char="3744" id="token-34-15" morph="none" pos="word" start_char="3742">can</TOKEN>
+<TOKEN end_char="3752" id="token-34-16" morph="none" pos="word" start_char="3746">monitor</TOKEN>
+<TOKEN end_char="3759" id="token-34-17" morph="none" pos="word" start_char="3754">anyone</TOKEN>
+<TOKEN end_char="3760" id="token-34-18" morph="none" pos="punct" start_char="3760">,</TOKEN>
+<TOKEN end_char="3763" id="token-34-19" morph="none" pos="word" start_char="3762">it</TOKEN>
+<TOKEN end_char="3770" id="token-34-20" morph="none" pos="word" start_char="3765">really</TOKEN>
+<TOKEN end_char="3774" id="token-34-21" morph="none" pos="word" start_char="3772">did</TOKEN>
+<TOKEN end_char="3778" id="token-34-22" morph="none" pos="word" start_char="3776">not</TOKEN>
+<TOKEN end_char="3781" id="token-34-23" morph="none" pos="word" start_char="3780">go</TOKEN>
+<TOKEN end_char="3786" id="token-34-24" morph="none" pos="word" start_char="3783">into</TOKEN>
+<TOKEN end_char="3793" id="token-34-25" morph="none" pos="word" start_char="3788">detail</TOKEN>
+<TOKEN end_char="3799" id="token-34-26" morph="none" pos="word" start_char="3795">about</TOKEN>
+<TOKEN end_char="3803" id="token-34-27" morph="none" pos="word" start_char="3801">how</TOKEN>
+<TOKEN end_char="3812" id="token-34-28" morph="none" pos="word" start_char="3805">invasive</TOKEN>
+<TOKEN end_char="3816" id="token-34-29" morph="none" pos="word" start_char="3814">Big</TOKEN>
+<TOKEN end_char="3823" id="token-34-30" morph="none" pos="word" start_char="3818">Tech’s</TOKEN>
+<TOKEN end_char="3836" id="token-34-31" morph="none" pos="word" start_char="3825">surveillance</TOKEN>
+<TOKEN end_char="3844" id="token-34-32" morph="none" pos="word" start_char="3838">devices</TOKEN>
+<TOKEN end_char="3850" id="token-34-33" morph="none" pos="word" start_char="3846">truly</TOKEN>
+<TOKEN end_char="3854" id="token-34-34" morph="none" pos="word" start_char="3852">are</TOKEN>
+<TOKEN end_char="3855" id="token-34-35" morph="none" pos="punct" start_char="3855">.</TOKEN>
+</SEG>
+<SEG end_char="4135" id="segment-35" start_char="3858">
+<ORIGINAL_TEXT>Let’s say you use your smartphone for everything; texts, phone calls, pictures, music, etc., if you also use Alexa or a NEST thermostat or any smart device in your home, these devices collect, store and transmit all that personal data, which police can use to identify a person.</ORIGINAL_TEXT>
+<TOKEN end_char="3862" id="token-35-0" morph="none" pos="word" start_char="3858">Let’s</TOKEN>
+<TOKEN end_char="3866" id="token-35-1" morph="none" pos="word" start_char="3864">say</TOKEN>
+<TOKEN end_char="3870" id="token-35-2" morph="none" pos="word" start_char="3868">you</TOKEN>
+<TOKEN end_char="3874" id="token-35-3" morph="none" pos="word" start_char="3872">use</TOKEN>
+<TOKEN end_char="3879" id="token-35-4" morph="none" pos="word" start_char="3876">your</TOKEN>
+<TOKEN end_char="3890" id="token-35-5" morph="none" pos="word" start_char="3881">smartphone</TOKEN>
+<TOKEN end_char="3894" id="token-35-6" morph="none" pos="word" start_char="3892">for</TOKEN>
+<TOKEN end_char="3905" id="token-35-7" morph="none" pos="word" start_char="3896">everything</TOKEN>
+<TOKEN end_char="3906" id="token-35-8" morph="none" pos="punct" start_char="3906">;</TOKEN>
+<TOKEN end_char="3912" id="token-35-9" morph="none" pos="word" start_char="3908">texts</TOKEN>
+<TOKEN end_char="3913" id="token-35-10" morph="none" pos="punct" start_char="3913">,</TOKEN>
+<TOKEN end_char="3919" id="token-35-11" morph="none" pos="word" start_char="3915">phone</TOKEN>
+<TOKEN end_char="3925" id="token-35-12" morph="none" pos="word" start_char="3921">calls</TOKEN>
+<TOKEN end_char="3926" id="token-35-13" morph="none" pos="punct" start_char="3926">,</TOKEN>
+<TOKEN end_char="3935" id="token-35-14" morph="none" pos="word" start_char="3928">pictures</TOKEN>
+<TOKEN end_char="3936" id="token-35-15" morph="none" pos="punct" start_char="3936">,</TOKEN>
+<TOKEN end_char="3942" id="token-35-16" morph="none" pos="word" start_char="3938">music</TOKEN>
+<TOKEN end_char="3943" id="token-35-17" morph="none" pos="punct" start_char="3943">,</TOKEN>
+<TOKEN end_char="3947" id="token-35-18" morph="none" pos="word" start_char="3945">etc</TOKEN>
+<TOKEN end_char="3949" id="token-35-19" morph="none" pos="punct" start_char="3948">.,</TOKEN>
+<TOKEN end_char="3952" id="token-35-20" morph="none" pos="word" start_char="3951">if</TOKEN>
+<TOKEN end_char="3956" id="token-35-21" morph="none" pos="word" start_char="3954">you</TOKEN>
+<TOKEN end_char="3961" id="token-35-22" morph="none" pos="word" start_char="3958">also</TOKEN>
+<TOKEN end_char="3965" id="token-35-23" morph="none" pos="word" start_char="3963">use</TOKEN>
+<TOKEN end_char="3971" id="token-35-24" morph="none" pos="word" start_char="3967">Alexa</TOKEN>
+<TOKEN end_char="3974" id="token-35-25" morph="none" pos="word" start_char="3973">or</TOKEN>
+<TOKEN end_char="3976" id="token-35-26" morph="none" pos="word" start_char="3976">a</TOKEN>
+<TOKEN end_char="3981" id="token-35-27" morph="none" pos="word" start_char="3978">NEST</TOKEN>
+<TOKEN end_char="3992" id="token-35-28" morph="none" pos="word" start_char="3983">thermostat</TOKEN>
+<TOKEN end_char="3995" id="token-35-29" morph="none" pos="word" start_char="3994">or</TOKEN>
+<TOKEN end_char="3999" id="token-35-30" morph="none" pos="word" start_char="3997">any</TOKEN>
+<TOKEN end_char="4005" id="token-35-31" morph="none" pos="word" start_char="4001">smart</TOKEN>
+<TOKEN end_char="4012" id="token-35-32" morph="none" pos="word" start_char="4007">device</TOKEN>
+<TOKEN end_char="4015" id="token-35-33" morph="none" pos="word" start_char="4014">in</TOKEN>
+<TOKEN end_char="4020" id="token-35-34" morph="none" pos="word" start_char="4017">your</TOKEN>
+<TOKEN end_char="4025" id="token-35-35" morph="none" pos="word" start_char="4022">home</TOKEN>
+<TOKEN end_char="4026" id="token-35-36" morph="none" pos="punct" start_char="4026">,</TOKEN>
+<TOKEN end_char="4032" id="token-35-37" morph="none" pos="word" start_char="4028">these</TOKEN>
+<TOKEN end_char="4040" id="token-35-38" morph="none" pos="word" start_char="4034">devices</TOKEN>
+<TOKEN end_char="4048" id="token-35-39" morph="none" pos="word" start_char="4042">collect</TOKEN>
+<TOKEN end_char="4049" id="token-35-40" morph="none" pos="punct" start_char="4049">,</TOKEN>
+<TOKEN end_char="4055" id="token-35-41" morph="none" pos="word" start_char="4051">store</TOKEN>
+<TOKEN end_char="4059" id="token-35-42" morph="none" pos="word" start_char="4057">and</TOKEN>
+<TOKEN end_char="4068" id="token-35-43" morph="none" pos="word" start_char="4061">transmit</TOKEN>
+<TOKEN end_char="4072" id="token-35-44" morph="none" pos="word" start_char="4070">all</TOKEN>
+<TOKEN end_char="4077" id="token-35-45" morph="none" pos="word" start_char="4074">that</TOKEN>
+<TOKEN end_char="4086" id="token-35-46" morph="none" pos="word" start_char="4079">personal</TOKEN>
+<TOKEN end_char="4091" id="token-35-47" morph="none" pos="word" start_char="4088">data</TOKEN>
+<TOKEN end_char="4092" id="token-35-48" morph="none" pos="punct" start_char="4092">,</TOKEN>
+<TOKEN end_char="4098" id="token-35-49" morph="none" pos="word" start_char="4094">which</TOKEN>
+<TOKEN end_char="4105" id="token-35-50" morph="none" pos="word" start_char="4100">police</TOKEN>
+<TOKEN end_char="4109" id="token-35-51" morph="none" pos="word" start_char="4107">can</TOKEN>
+<TOKEN end_char="4113" id="token-35-52" morph="none" pos="word" start_char="4111">use</TOKEN>
+<TOKEN end_char="4116" id="token-35-53" morph="none" pos="word" start_char="4115">to</TOKEN>
+<TOKEN end_char="4125" id="token-35-54" morph="none" pos="word" start_char="4118">identify</TOKEN>
+<TOKEN end_char="4127" id="token-35-55" morph="none" pos="word" start_char="4127">a</TOKEN>
+<TOKEN end_char="4134" id="token-35-56" morph="none" pos="word" start_char="4129">person</TOKEN>
+<TOKEN end_char="4135" id="token-35-57" morph="none" pos="punct" start_char="4135">.</TOKEN>
+</SEG>
+<SEG end_char="4249" id="segment-36" start_char="4137">
+<ORIGINAL_TEXT>Police can also identify people who use a Tablet or laptop, because like a phone they have an IP and MAC address.</ORIGINAL_TEXT>
+<TOKEN end_char="4142" id="token-36-0" morph="none" pos="word" start_char="4137">Police</TOKEN>
+<TOKEN end_char="4146" id="token-36-1" morph="none" pos="word" start_char="4144">can</TOKEN>
+<TOKEN end_char="4151" id="token-36-2" morph="none" pos="word" start_char="4148">also</TOKEN>
+<TOKEN end_char="4160" id="token-36-3" morph="none" pos="word" start_char="4153">identify</TOKEN>
+<TOKEN end_char="4167" id="token-36-4" morph="none" pos="word" start_char="4162">people</TOKEN>
+<TOKEN end_char="4171" id="token-36-5" morph="none" pos="word" start_char="4169">who</TOKEN>
+<TOKEN end_char="4175" id="token-36-6" morph="none" pos="word" start_char="4173">use</TOKEN>
+<TOKEN end_char="4177" id="token-36-7" morph="none" pos="word" start_char="4177">a</TOKEN>
+<TOKEN end_char="4184" id="token-36-8" morph="none" pos="word" start_char="4179">Tablet</TOKEN>
+<TOKEN end_char="4187" id="token-36-9" morph="none" pos="word" start_char="4186">or</TOKEN>
+<TOKEN end_char="4194" id="token-36-10" morph="none" pos="word" start_char="4189">laptop</TOKEN>
+<TOKEN end_char="4195" id="token-36-11" morph="none" pos="punct" start_char="4195">,</TOKEN>
+<TOKEN end_char="4203" id="token-36-12" morph="none" pos="word" start_char="4197">because</TOKEN>
+<TOKEN end_char="4208" id="token-36-13" morph="none" pos="word" start_char="4205">like</TOKEN>
+<TOKEN end_char="4210" id="token-36-14" morph="none" pos="word" start_char="4210">a</TOKEN>
+<TOKEN end_char="4216" id="token-36-15" morph="none" pos="word" start_char="4212">phone</TOKEN>
+<TOKEN end_char="4221" id="token-36-16" morph="none" pos="word" start_char="4218">they</TOKEN>
+<TOKEN end_char="4226" id="token-36-17" morph="none" pos="word" start_char="4223">have</TOKEN>
+<TOKEN end_char="4229" id="token-36-18" morph="none" pos="word" start_char="4228">an</TOKEN>
+<TOKEN end_char="4232" id="token-36-19" morph="none" pos="word" start_char="4231">IP</TOKEN>
+<TOKEN end_char="4236" id="token-36-20" morph="none" pos="word" start_char="4234">and</TOKEN>
+<TOKEN end_char="4240" id="token-36-21" morph="none" pos="word" start_char="4238">MAC</TOKEN>
+<TOKEN end_char="4248" id="token-36-22" morph="none" pos="word" start_char="4242">address</TOKEN>
+<TOKEN end_char="4249" id="token-36-23" morph="none" pos="punct" start_char="4249">.</TOKEN>
+</SEG>
+<SEG end_char="4387" id="segment-37" start_char="4252">
+<ORIGINAL_TEXT>If you use any of these devices to make online purchases, police can ask those companies to provide details of what you bought and when.</ORIGINAL_TEXT>
+<TOKEN end_char="4253" id="token-37-0" morph="none" pos="word" start_char="4252">If</TOKEN>
+<TOKEN end_char="4257" id="token-37-1" morph="none" pos="word" start_char="4255">you</TOKEN>
+<TOKEN end_char="4261" id="token-37-2" morph="none" pos="word" start_char="4259">use</TOKEN>
+<TOKEN end_char="4265" id="token-37-3" morph="none" pos="word" start_char="4263">any</TOKEN>
+<TOKEN end_char="4268" id="token-37-4" morph="none" pos="word" start_char="4267">of</TOKEN>
+<TOKEN end_char="4274" id="token-37-5" morph="none" pos="word" start_char="4270">these</TOKEN>
+<TOKEN end_char="4282" id="token-37-6" morph="none" pos="word" start_char="4276">devices</TOKEN>
+<TOKEN end_char="4285" id="token-37-7" morph="none" pos="word" start_char="4284">to</TOKEN>
+<TOKEN end_char="4290" id="token-37-8" morph="none" pos="word" start_char="4287">make</TOKEN>
+<TOKEN end_char="4297" id="token-37-9" morph="none" pos="word" start_char="4292">online</TOKEN>
+<TOKEN end_char="4307" id="token-37-10" morph="none" pos="word" start_char="4299">purchases</TOKEN>
+<TOKEN end_char="4308" id="token-37-11" morph="none" pos="punct" start_char="4308">,</TOKEN>
+<TOKEN end_char="4315" id="token-37-12" morph="none" pos="word" start_char="4310">police</TOKEN>
+<TOKEN end_char="4319" id="token-37-13" morph="none" pos="word" start_char="4317">can</TOKEN>
+<TOKEN end_char="4323" id="token-37-14" morph="none" pos="word" start_char="4321">ask</TOKEN>
+<TOKEN end_char="4329" id="token-37-15" morph="none" pos="word" start_char="4325">those</TOKEN>
+<TOKEN end_char="4339" id="token-37-16" morph="none" pos="word" start_char="4331">companies</TOKEN>
+<TOKEN end_char="4342" id="token-37-17" morph="none" pos="word" start_char="4341">to</TOKEN>
+<TOKEN end_char="4350" id="token-37-18" morph="none" pos="word" start_char="4344">provide</TOKEN>
+<TOKEN end_char="4358" id="token-37-19" morph="none" pos="word" start_char="4352">details</TOKEN>
+<TOKEN end_char="4361" id="token-37-20" morph="none" pos="word" start_char="4360">of</TOKEN>
+<TOKEN end_char="4366" id="token-37-21" morph="none" pos="word" start_char="4363">what</TOKEN>
+<TOKEN end_char="4370" id="token-37-22" morph="none" pos="word" start_char="4368">you</TOKEN>
+<TOKEN end_char="4377" id="token-37-23" morph="none" pos="word" start_char="4372">bought</TOKEN>
+<TOKEN end_char="4381" id="token-37-24" morph="none" pos="word" start_char="4379">and</TOKEN>
+<TOKEN end_char="4386" id="token-37-25" morph="none" pos="word" start_char="4383">when</TOKEN>
+<TOKEN end_char="4387" id="token-37-26" morph="none" pos="punct" start_char="4387">.</TOKEN>
+</SEG>
+<SEG end_char="4505" id="segment-38" start_char="4389">
+<ORIGINAL_TEXT>Anytime you use a credit/debit or customer rewards card, someone is compiling a database of everything you purchased.</ORIGINAL_TEXT>
+<TOKEN end_char="4395" id="token-38-0" morph="none" pos="word" start_char="4389">Anytime</TOKEN>
+<TOKEN end_char="4399" id="token-38-1" morph="none" pos="word" start_char="4397">you</TOKEN>
+<TOKEN end_char="4403" id="token-38-2" morph="none" pos="word" start_char="4401">use</TOKEN>
+<TOKEN end_char="4405" id="token-38-3" morph="none" pos="word" start_char="4405">a</TOKEN>
+<TOKEN end_char="4418" id="token-38-4" morph="none" pos="unknown" start_char="4407">credit/debit</TOKEN>
+<TOKEN end_char="4421" id="token-38-5" morph="none" pos="word" start_char="4420">or</TOKEN>
+<TOKEN end_char="4430" id="token-38-6" morph="none" pos="word" start_char="4423">customer</TOKEN>
+<TOKEN end_char="4438" id="token-38-7" morph="none" pos="word" start_char="4432">rewards</TOKEN>
+<TOKEN end_char="4443" id="token-38-8" morph="none" pos="word" start_char="4440">card</TOKEN>
+<TOKEN end_char="4444" id="token-38-9" morph="none" pos="punct" start_char="4444">,</TOKEN>
+<TOKEN end_char="4452" id="token-38-10" morph="none" pos="word" start_char="4446">someone</TOKEN>
+<TOKEN end_char="4455" id="token-38-11" morph="none" pos="word" start_char="4454">is</TOKEN>
+<TOKEN end_char="4465" id="token-38-12" morph="none" pos="word" start_char="4457">compiling</TOKEN>
+<TOKEN end_char="4467" id="token-38-13" morph="none" pos="word" start_char="4467">a</TOKEN>
+<TOKEN end_char="4476" id="token-38-14" morph="none" pos="word" start_char="4469">database</TOKEN>
+<TOKEN end_char="4479" id="token-38-15" morph="none" pos="word" start_char="4478">of</TOKEN>
+<TOKEN end_char="4490" id="token-38-16" morph="none" pos="word" start_char="4481">everything</TOKEN>
+<TOKEN end_char="4494" id="token-38-17" morph="none" pos="word" start_char="4492">you</TOKEN>
+<TOKEN end_char="4504" id="token-38-18" morph="none" pos="word" start_char="4496">purchased</TOKEN>
+<TOKEN end_char="4505" id="token-38-19" morph="none" pos="punct" start_char="4505">.</TOKEN>
+</SEG>
+<SEG end_char="4680" id="segment-39" start_char="4508">
+<ORIGINAL_TEXT>Let’s say you drive or take public transit, police can track your vehicle and they can use facial recognition to identify where you work or which bus or train stops you use.</ORIGINAL_TEXT>
+<TOKEN end_char="4512" id="token-39-0" morph="none" pos="word" start_char="4508">Let’s</TOKEN>
+<TOKEN end_char="4516" id="token-39-1" morph="none" pos="word" start_char="4514">say</TOKEN>
+<TOKEN end_char="4520" id="token-39-2" morph="none" pos="word" start_char="4518">you</TOKEN>
+<TOKEN end_char="4526" id="token-39-3" morph="none" pos="word" start_char="4522">drive</TOKEN>
+<TOKEN end_char="4529" id="token-39-4" morph="none" pos="word" start_char="4528">or</TOKEN>
+<TOKEN end_char="4534" id="token-39-5" morph="none" pos="word" start_char="4531">take</TOKEN>
+<TOKEN end_char="4541" id="token-39-6" morph="none" pos="word" start_char="4536">public</TOKEN>
+<TOKEN end_char="4549" id="token-39-7" morph="none" pos="word" start_char="4543">transit</TOKEN>
+<TOKEN end_char="4550" id="token-39-8" morph="none" pos="punct" start_char="4550">,</TOKEN>
+<TOKEN end_char="4557" id="token-39-9" morph="none" pos="word" start_char="4552">police</TOKEN>
+<TOKEN end_char="4561" id="token-39-10" morph="none" pos="word" start_char="4559">can</TOKEN>
+<TOKEN end_char="4567" id="token-39-11" morph="none" pos="word" start_char="4563">track</TOKEN>
+<TOKEN end_char="4572" id="token-39-12" morph="none" pos="word" start_char="4569">your</TOKEN>
+<TOKEN end_char="4580" id="token-39-13" morph="none" pos="word" start_char="4574">vehicle</TOKEN>
+<TOKEN end_char="4584" id="token-39-14" morph="none" pos="word" start_char="4582">and</TOKEN>
+<TOKEN end_char="4589" id="token-39-15" morph="none" pos="word" start_char="4586">they</TOKEN>
+<TOKEN end_char="4593" id="token-39-16" morph="none" pos="word" start_char="4591">can</TOKEN>
+<TOKEN end_char="4597" id="token-39-17" morph="none" pos="word" start_char="4595">use</TOKEN>
+<TOKEN end_char="4604" id="token-39-18" morph="none" pos="word" start_char="4599">facial</TOKEN>
+<TOKEN end_char="4616" id="token-39-19" morph="none" pos="word" start_char="4606">recognition</TOKEN>
+<TOKEN end_char="4619" id="token-39-20" morph="none" pos="word" start_char="4618">to</TOKEN>
+<TOKEN end_char="4628" id="token-39-21" morph="none" pos="word" start_char="4621">identify</TOKEN>
+<TOKEN end_char="4634" id="token-39-22" morph="none" pos="word" start_char="4630">where</TOKEN>
+<TOKEN end_char="4638" id="token-39-23" morph="none" pos="word" start_char="4636">you</TOKEN>
+<TOKEN end_char="4643" id="token-39-24" morph="none" pos="word" start_char="4640">work</TOKEN>
+<TOKEN end_char="4646" id="token-39-25" morph="none" pos="word" start_char="4645">or</TOKEN>
+<TOKEN end_char="4652" id="token-39-26" morph="none" pos="word" start_char="4648">which</TOKEN>
+<TOKEN end_char="4656" id="token-39-27" morph="none" pos="word" start_char="4654">bus</TOKEN>
+<TOKEN end_char="4659" id="token-39-28" morph="none" pos="word" start_char="4658">or</TOKEN>
+<TOKEN end_char="4665" id="token-39-29" morph="none" pos="word" start_char="4661">train</TOKEN>
+<TOKEN end_char="4671" id="token-39-30" morph="none" pos="word" start_char="4667">stops</TOKEN>
+<TOKEN end_char="4675" id="token-39-31" morph="none" pos="word" start_char="4673">you</TOKEN>
+<TOKEN end_char="4679" id="token-39-32" morph="none" pos="word" start_char="4677">use</TOKEN>
+<TOKEN end_char="4680" id="token-39-33" morph="none" pos="punct" start_char="4680">.</TOKEN>
+</SEG>
+<SEG end_char="4840" id="segment-40" start_char="4683">
+<ORIGINAL_TEXT>If you drive or take an Uber or Lyft, chances are your personal information is being recorded and used to build a massive database of your comings and goings.</ORIGINAL_TEXT>
+<TOKEN end_char="4684" id="token-40-0" morph="none" pos="word" start_char="4683">If</TOKEN>
+<TOKEN end_char="4688" id="token-40-1" morph="none" pos="word" start_char="4686">you</TOKEN>
+<TOKEN end_char="4694" id="token-40-2" morph="none" pos="word" start_char="4690">drive</TOKEN>
+<TOKEN end_char="4697" id="token-40-3" morph="none" pos="word" start_char="4696">or</TOKEN>
+<TOKEN end_char="4702" id="token-40-4" morph="none" pos="word" start_char="4699">take</TOKEN>
+<TOKEN end_char="4705" id="token-40-5" morph="none" pos="word" start_char="4704">an</TOKEN>
+<TOKEN end_char="4710" id="token-40-6" morph="none" pos="word" start_char="4707">Uber</TOKEN>
+<TOKEN end_char="4713" id="token-40-7" morph="none" pos="word" start_char="4712">or</TOKEN>
+<TOKEN end_char="4718" id="token-40-8" morph="none" pos="word" start_char="4715">Lyft</TOKEN>
+<TOKEN end_char="4719" id="token-40-9" morph="none" pos="punct" start_char="4719">,</TOKEN>
+<TOKEN end_char="4727" id="token-40-10" morph="none" pos="word" start_char="4721">chances</TOKEN>
+<TOKEN end_char="4731" id="token-40-11" morph="none" pos="word" start_char="4729">are</TOKEN>
+<TOKEN end_char="4736" id="token-40-12" morph="none" pos="word" start_char="4733">your</TOKEN>
+<TOKEN end_char="4745" id="token-40-13" morph="none" pos="word" start_char="4738">personal</TOKEN>
+<TOKEN end_char="4757" id="token-40-14" morph="none" pos="word" start_char="4747">information</TOKEN>
+<TOKEN end_char="4760" id="token-40-15" morph="none" pos="word" start_char="4759">is</TOKEN>
+<TOKEN end_char="4766" id="token-40-16" morph="none" pos="word" start_char="4762">being</TOKEN>
+<TOKEN end_char="4775" id="token-40-17" morph="none" pos="word" start_char="4768">recorded</TOKEN>
+<TOKEN end_char="4779" id="token-40-18" morph="none" pos="word" start_char="4777">and</TOKEN>
+<TOKEN end_char="4784" id="token-40-19" morph="none" pos="word" start_char="4781">used</TOKEN>
+<TOKEN end_char="4787" id="token-40-20" morph="none" pos="word" start_char="4786">to</TOKEN>
+<TOKEN end_char="4793" id="token-40-21" morph="none" pos="word" start_char="4789">build</TOKEN>
+<TOKEN end_char="4795" id="token-40-22" morph="none" pos="word" start_char="4795">a</TOKEN>
+<TOKEN end_char="4803" id="token-40-23" morph="none" pos="word" start_char="4797">massive</TOKEN>
+<TOKEN end_char="4812" id="token-40-24" morph="none" pos="word" start_char="4805">database</TOKEN>
+<TOKEN end_char="4815" id="token-40-25" morph="none" pos="word" start_char="4814">of</TOKEN>
+<TOKEN end_char="4820" id="token-40-26" morph="none" pos="word" start_char="4817">your</TOKEN>
+<TOKEN end_char="4828" id="token-40-27" morph="none" pos="word" start_char="4822">comings</TOKEN>
+<TOKEN end_char="4832" id="token-40-28" morph="none" pos="word" start_char="4830">and</TOKEN>
+<TOKEN end_char="4839" id="token-40-29" morph="none" pos="word" start_char="4834">goings</TOKEN>
+<TOKEN end_char="4840" id="token-40-30" morph="none" pos="punct" start_char="4840">.</TOKEN>
+</SEG>
+<SEG end_char="4985" id="segment-41" start_char="4842">
+<ORIGINAL_TEXT>From the moment you step outside of your home, your neighbor’s Ring doorbell or Flock cameras have identified you, your family and your vehicle.</ORIGINAL_TEXT>
+<TOKEN end_char="4845" id="token-41-0" morph="none" pos="word" start_char="4842">From</TOKEN>
+<TOKEN end_char="4849" id="token-41-1" morph="none" pos="word" start_char="4847">the</TOKEN>
+<TOKEN end_char="4856" id="token-41-2" morph="none" pos="word" start_char="4851">moment</TOKEN>
+<TOKEN end_char="4860" id="token-41-3" morph="none" pos="word" start_char="4858">you</TOKEN>
+<TOKEN end_char="4865" id="token-41-4" morph="none" pos="word" start_char="4862">step</TOKEN>
+<TOKEN end_char="4873" id="token-41-5" morph="none" pos="word" start_char="4867">outside</TOKEN>
+<TOKEN end_char="4876" id="token-41-6" morph="none" pos="word" start_char="4875">of</TOKEN>
+<TOKEN end_char="4881" id="token-41-7" morph="none" pos="word" start_char="4878">your</TOKEN>
+<TOKEN end_char="4886" id="token-41-8" morph="none" pos="word" start_char="4883">home</TOKEN>
+<TOKEN end_char="4887" id="token-41-9" morph="none" pos="punct" start_char="4887">,</TOKEN>
+<TOKEN end_char="4892" id="token-41-10" morph="none" pos="word" start_char="4889">your</TOKEN>
+<TOKEN end_char="4903" id="token-41-11" morph="none" pos="word" start_char="4894">neighbor’s</TOKEN>
+<TOKEN end_char="4908" id="token-41-12" morph="none" pos="word" start_char="4905">Ring</TOKEN>
+<TOKEN end_char="4917" id="token-41-13" morph="none" pos="word" start_char="4910">doorbell</TOKEN>
+<TOKEN end_char="4920" id="token-41-14" morph="none" pos="word" start_char="4919">or</TOKEN>
+<TOKEN end_char="4926" id="token-41-15" morph="none" pos="word" start_char="4922">Flock</TOKEN>
+<TOKEN end_char="4934" id="token-41-16" morph="none" pos="word" start_char="4928">cameras</TOKEN>
+<TOKEN end_char="4939" id="token-41-17" morph="none" pos="word" start_char="4936">have</TOKEN>
+<TOKEN end_char="4950" id="token-41-18" morph="none" pos="word" start_char="4941">identified</TOKEN>
+<TOKEN end_char="4954" id="token-41-19" morph="none" pos="word" start_char="4952">you</TOKEN>
+<TOKEN end_char="4955" id="token-41-20" morph="none" pos="punct" start_char="4955">,</TOKEN>
+<TOKEN end_char="4960" id="token-41-21" morph="none" pos="word" start_char="4957">your</TOKEN>
+<TOKEN end_char="4967" id="token-41-22" morph="none" pos="word" start_char="4962">family</TOKEN>
+<TOKEN end_char="4971" id="token-41-23" morph="none" pos="word" start_char="4969">and</TOKEN>
+<TOKEN end_char="4976" id="token-41-24" morph="none" pos="word" start_char="4973">your</TOKEN>
+<TOKEN end_char="4984" id="token-41-25" morph="none" pos="word" start_char="4978">vehicle</TOKEN>
+<TOKEN end_char="4985" id="token-41-26" morph="none" pos="punct" start_char="4985">.</TOKEN>
+</SEG>
+<SEG end_char="5135" id="segment-42" start_char="4988">
+<ORIGINAL_TEXT>And if they are any social distance snitches in your neighborhood, they have recorded you and reported you to police via Ring Neighbors or NextDoor.</ORIGINAL_TEXT>
+<TOKEN end_char="4990" id="token-42-0" morph="none" pos="word" start_char="4988">And</TOKEN>
+<TOKEN end_char="4993" id="token-42-1" morph="none" pos="word" start_char="4992">if</TOKEN>
+<TOKEN end_char="4998" id="token-42-2" morph="none" pos="word" start_char="4995">they</TOKEN>
+<TOKEN end_char="5002" id="token-42-3" morph="none" pos="word" start_char="5000">are</TOKEN>
+<TOKEN end_char="5006" id="token-42-4" morph="none" pos="word" start_char="5004">any</TOKEN>
+<TOKEN end_char="5013" id="token-42-5" morph="none" pos="word" start_char="5008">social</TOKEN>
+<TOKEN end_char="5022" id="token-42-6" morph="none" pos="word" start_char="5015">distance</TOKEN>
+<TOKEN end_char="5031" id="token-42-7" morph="none" pos="word" start_char="5024">snitches</TOKEN>
+<TOKEN end_char="5034" id="token-42-8" morph="none" pos="word" start_char="5033">in</TOKEN>
+<TOKEN end_char="5039" id="token-42-9" morph="none" pos="word" start_char="5036">your</TOKEN>
+<TOKEN end_char="5052" id="token-42-10" morph="none" pos="word" start_char="5041">neighborhood</TOKEN>
+<TOKEN end_char="5053" id="token-42-11" morph="none" pos="punct" start_char="5053">,</TOKEN>
+<TOKEN end_char="5058" id="token-42-12" morph="none" pos="word" start_char="5055">they</TOKEN>
+<TOKEN end_char="5063" id="token-42-13" morph="none" pos="word" start_char="5060">have</TOKEN>
+<TOKEN end_char="5072" id="token-42-14" morph="none" pos="word" start_char="5065">recorded</TOKEN>
+<TOKEN end_char="5076" id="token-42-15" morph="none" pos="word" start_char="5074">you</TOKEN>
+<TOKEN end_char="5080" id="token-42-16" morph="none" pos="word" start_char="5078">and</TOKEN>
+<TOKEN end_char="5089" id="token-42-17" morph="none" pos="word" start_char="5082">reported</TOKEN>
+<TOKEN end_char="5093" id="token-42-18" morph="none" pos="word" start_char="5091">you</TOKEN>
+<TOKEN end_char="5096" id="token-42-19" morph="none" pos="word" start_char="5095">to</TOKEN>
+<TOKEN end_char="5103" id="token-42-20" morph="none" pos="word" start_char="5098">police</TOKEN>
+<TOKEN end_char="5107" id="token-42-21" morph="none" pos="word" start_char="5105">via</TOKEN>
+<TOKEN end_char="5112" id="token-42-22" morph="none" pos="word" start_char="5109">Ring</TOKEN>
+<TOKEN end_char="5122" id="token-42-23" morph="none" pos="word" start_char="5114">Neighbors</TOKEN>
+<TOKEN end_char="5125" id="token-42-24" morph="none" pos="word" start_char="5124">or</TOKEN>
+<TOKEN end_char="5134" id="token-42-25" morph="none" pos="word" start_char="5127">NextDoor</TOKEN>
+<TOKEN end_char="5135" id="token-42-26" morph="none" pos="punct" start_char="5135">.</TOKEN>
+</SEG>
+<SEG end_char="5203" id="segment-43" start_char="5138">
+<ORIGINAL_TEXT>Thanks to Big Tech, a person’s everyday life is no longer private.</ORIGINAL_TEXT>
+<TOKEN end_char="5143" id="token-43-0" morph="none" pos="word" start_char="5138">Thanks</TOKEN>
+<TOKEN end_char="5146" id="token-43-1" morph="none" pos="word" start_char="5145">to</TOKEN>
+<TOKEN end_char="5150" id="token-43-2" morph="none" pos="word" start_char="5148">Big</TOKEN>
+<TOKEN end_char="5155" id="token-43-3" morph="none" pos="word" start_char="5152">Tech</TOKEN>
+<TOKEN end_char="5156" id="token-43-4" morph="none" pos="punct" start_char="5156">,</TOKEN>
+<TOKEN end_char="5158" id="token-43-5" morph="none" pos="word" start_char="5158">a</TOKEN>
+<TOKEN end_char="5167" id="token-43-6" morph="none" pos="word" start_char="5160">person’s</TOKEN>
+<TOKEN end_char="5176" id="token-43-7" morph="none" pos="word" start_char="5169">everyday</TOKEN>
+<TOKEN end_char="5181" id="token-43-8" morph="none" pos="word" start_char="5178">life</TOKEN>
+<TOKEN end_char="5184" id="token-43-9" morph="none" pos="word" start_char="5183">is</TOKEN>
+<TOKEN end_char="5187" id="token-43-10" morph="none" pos="word" start_char="5186">no</TOKEN>
+<TOKEN end_char="5194" id="token-43-11" morph="none" pos="word" start_char="5189">longer</TOKEN>
+<TOKEN end_char="5202" id="token-43-12" morph="none" pos="word" start_char="5196">private</TOKEN>
+<TOKEN end_char="5203" id="token-43-13" morph="none" pos="punct" start_char="5203">.</TOKEN>
+</SEG>
+<SEG end_char="5256" id="segment-44" start_char="5205">
+<ORIGINAL_TEXT>Now everything we do is being recorded in real-time.</ORIGINAL_TEXT>
+<TOKEN end_char="5207" id="token-44-0" morph="none" pos="word" start_char="5205">Now</TOKEN>
+<TOKEN end_char="5218" id="token-44-1" morph="none" pos="word" start_char="5209">everything</TOKEN>
+<TOKEN end_char="5221" id="token-44-2" morph="none" pos="word" start_char="5220">we</TOKEN>
+<TOKEN end_char="5224" id="token-44-3" morph="none" pos="word" start_char="5223">do</TOKEN>
+<TOKEN end_char="5227" id="token-44-4" morph="none" pos="word" start_char="5226">is</TOKEN>
+<TOKEN end_char="5233" id="token-44-5" morph="none" pos="word" start_char="5229">being</TOKEN>
+<TOKEN end_char="5242" id="token-44-6" morph="none" pos="word" start_char="5235">recorded</TOKEN>
+<TOKEN end_char="5245" id="token-44-7" morph="none" pos="word" start_char="5244">in</TOKEN>
+<TOKEN end_char="5255" id="token-44-8" morph="none" pos="unknown" start_char="5247">real-time</TOKEN>
+<TOKEN end_char="5256" id="token-44-9" morph="none" pos="punct" start_char="5256">.</TOKEN>
+</SEG>
+<SEG end_char="5418" id="segment-45" start_char="5258">
+<ORIGINAL_TEXT>Things like what and where you eat, who your friends and family members are, who your family doctor is or where you worship are all available to law enforcement.</ORIGINAL_TEXT>
+<TOKEN end_char="5263" id="token-45-0" morph="none" pos="word" start_char="5258">Things</TOKEN>
+<TOKEN end_char="5268" id="token-45-1" morph="none" pos="word" start_char="5265">like</TOKEN>
+<TOKEN end_char="5273" id="token-45-2" morph="none" pos="word" start_char="5270">what</TOKEN>
+<TOKEN end_char="5277" id="token-45-3" morph="none" pos="word" start_char="5275">and</TOKEN>
+<TOKEN end_char="5283" id="token-45-4" morph="none" pos="word" start_char="5279">where</TOKEN>
+<TOKEN end_char="5287" id="token-45-5" morph="none" pos="word" start_char="5285">you</TOKEN>
+<TOKEN end_char="5291" id="token-45-6" morph="none" pos="word" start_char="5289">eat</TOKEN>
+<TOKEN end_char="5292" id="token-45-7" morph="none" pos="punct" start_char="5292">,</TOKEN>
+<TOKEN end_char="5296" id="token-45-8" morph="none" pos="word" start_char="5294">who</TOKEN>
+<TOKEN end_char="5301" id="token-45-9" morph="none" pos="word" start_char="5298">your</TOKEN>
+<TOKEN end_char="5309" id="token-45-10" morph="none" pos="word" start_char="5303">friends</TOKEN>
+<TOKEN end_char="5313" id="token-45-11" morph="none" pos="word" start_char="5311">and</TOKEN>
+<TOKEN end_char="5320" id="token-45-12" morph="none" pos="word" start_char="5315">family</TOKEN>
+<TOKEN end_char="5328" id="token-45-13" morph="none" pos="word" start_char="5322">members</TOKEN>
+<TOKEN end_char="5332" id="token-45-14" morph="none" pos="word" start_char="5330">are</TOKEN>
+<TOKEN end_char="5333" id="token-45-15" morph="none" pos="punct" start_char="5333">,</TOKEN>
+<TOKEN end_char="5337" id="token-45-16" morph="none" pos="word" start_char="5335">who</TOKEN>
+<TOKEN end_char="5342" id="token-45-17" morph="none" pos="word" start_char="5339">your</TOKEN>
+<TOKEN end_char="5349" id="token-45-18" morph="none" pos="word" start_char="5344">family</TOKEN>
+<TOKEN end_char="5356" id="token-45-19" morph="none" pos="word" start_char="5351">doctor</TOKEN>
+<TOKEN end_char="5359" id="token-45-20" morph="none" pos="word" start_char="5358">is</TOKEN>
+<TOKEN end_char="5362" id="token-45-21" morph="none" pos="word" start_char="5361">or</TOKEN>
+<TOKEN end_char="5368" id="token-45-22" morph="none" pos="word" start_char="5364">where</TOKEN>
+<TOKEN end_char="5372" id="token-45-23" morph="none" pos="word" start_char="5370">you</TOKEN>
+<TOKEN end_char="5380" id="token-45-24" morph="none" pos="word" start_char="5374">worship</TOKEN>
+<TOKEN end_char="5384" id="token-45-25" morph="none" pos="word" start_char="5382">are</TOKEN>
+<TOKEN end_char="5388" id="token-45-26" morph="none" pos="word" start_char="5386">all</TOKEN>
+<TOKEN end_char="5398" id="token-45-27" morph="none" pos="word" start_char="5390">available</TOKEN>
+<TOKEN end_char="5401" id="token-45-28" morph="none" pos="word" start_char="5400">to</TOKEN>
+<TOKEN end_char="5405" id="token-45-29" morph="none" pos="word" start_char="5403">law</TOKEN>
+<TOKEN end_char="5417" id="token-45-30" morph="none" pos="word" start_char="5407">enforcement</TOKEN>
+<TOKEN end_char="5418" id="token-45-31" morph="none" pos="punct" start_char="5418">.</TOKEN>
+</SEG>
+<SEG end_char="5553" id="segment-46" start_char="5421">
+<ORIGINAL_TEXT>Despite what Big tech, politicians and law enforcement say, AI and smart devices are being used to identify activists and protesters.</ORIGINAL_TEXT>
+<TOKEN end_char="5427" id="token-46-0" morph="none" pos="word" start_char="5421">Despite</TOKEN>
+<TOKEN end_char="5432" id="token-46-1" morph="none" pos="word" start_char="5429">what</TOKEN>
+<TOKEN end_char="5436" id="token-46-2" morph="none" pos="word" start_char="5434">Big</TOKEN>
+<TOKEN end_char="5441" id="token-46-3" morph="none" pos="word" start_char="5438">tech</TOKEN>
+<TOKEN end_char="5442" id="token-46-4" morph="none" pos="punct" start_char="5442">,</TOKEN>
+<TOKEN end_char="5454" id="token-46-5" morph="none" pos="word" start_char="5444">politicians</TOKEN>
+<TOKEN end_char="5458" id="token-46-6" morph="none" pos="word" start_char="5456">and</TOKEN>
+<TOKEN end_char="5462" id="token-46-7" morph="none" pos="word" start_char="5460">law</TOKEN>
+<TOKEN end_char="5474" id="token-46-8" morph="none" pos="word" start_char="5464">enforcement</TOKEN>
+<TOKEN end_char="5478" id="token-46-9" morph="none" pos="word" start_char="5476">say</TOKEN>
+<TOKEN end_char="5479" id="token-46-10" morph="none" pos="punct" start_char="5479">,</TOKEN>
+<TOKEN end_char="5482" id="token-46-11" morph="none" pos="word" start_char="5481">AI</TOKEN>
+<TOKEN end_char="5486" id="token-46-12" morph="none" pos="word" start_char="5484">and</TOKEN>
+<TOKEN end_char="5492" id="token-46-13" morph="none" pos="word" start_char="5488">smart</TOKEN>
+<TOKEN end_char="5500" id="token-46-14" morph="none" pos="word" start_char="5494">devices</TOKEN>
+<TOKEN end_char="5504" id="token-46-15" morph="none" pos="word" start_char="5502">are</TOKEN>
+<TOKEN end_char="5510" id="token-46-16" morph="none" pos="word" start_char="5506">being</TOKEN>
+<TOKEN end_char="5515" id="token-46-17" morph="none" pos="word" start_char="5512">used</TOKEN>
+<TOKEN end_char="5518" id="token-46-18" morph="none" pos="word" start_char="5517">to</TOKEN>
+<TOKEN end_char="5527" id="token-46-19" morph="none" pos="word" start_char="5520">identify</TOKEN>
+<TOKEN end_char="5537" id="token-46-20" morph="none" pos="word" start_char="5529">activists</TOKEN>
+<TOKEN end_char="5541" id="token-46-21" morph="none" pos="word" start_char="5539">and</TOKEN>
+<TOKEN end_char="5552" id="token-46-22" morph="none" pos="word" start_char="5543">protesters</TOKEN>
+<TOKEN end_char="5553" id="token-46-23" morph="none" pos="punct" start_char="5553">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

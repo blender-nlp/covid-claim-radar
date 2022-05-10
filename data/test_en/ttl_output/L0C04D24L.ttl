@@ -1,0 +1,3043 @@
+@prefix aida: <https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#> .
+@prefix ex: <https://www.caci.com/claim-example#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entitytype/L0C04D4MS/EN_Entity_EDL_ENG_0000067/MHI/Q506680> a rdf:Statement,
+        aida:TypeStatement ;
+    rdf:object "Q506680"^^xsd:string ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000067> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 9.5e-01 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000067/L0C04D4MS/633/639> ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"ldctype\":\"MHI\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entitytype/L0C04D4MS/EN_Entity_EDL_ENG_0000068/Organization/Q392918> a rdf:Statement,
+        aida:TypeStatement ;
+    rdf:object "Q392918"^^xsd:string ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000068> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 9.5e-01 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000068/L0C04D4MS/2626/2628>,
+        <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000068/L0C04D4MS/2848/2850>,
+        <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000068/L0C04D4MS/2908/2910>,
+        <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000068/L0C04D4MS/3112/3114> ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"ldctype\":\"Organization\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entitytype/L0C04D4MS/EN_Entity_EDL_ENG_0000069/Organization/Q43229> a rdf:Statement,
+        aida:TypeStatement ;
+    rdf:object "Q43229"^^xsd:string ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000069> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 9.5e-01 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000069/L0C04D4MS/2921/2930> ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"ldctype\":\"Organization\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entitytype/L0C04D4MS/EN_Entity_EDL_ENG_0000070/Organization/Q20857065> a rdf:Statement,
+        aida:TypeStatement ;
+    rdf:object "Q20857065"^^xsd:string ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000070> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 9.5e-01 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000070/L0C04D4MS/2978/2986>,
+        <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000070/L0C04D4MS/2989/2992> ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"ldctype\":\"Organization\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entitytype/L0C04D4MS/EN_Entity_EDL_ENG_0000071/Person/Q5> a rdf:Statement,
+        aida:TypeStatement ;
+    rdf:object "Q5"^^xsd:string ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000071> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 9.5e-01 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000071/L0C04D4MS/3370/3395> ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"ldctype\":\"Person\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entitytype/L0C04D4MS/EN_Entity_EDL_ENG_0000072/Person/Q5> a rdf:Statement,
+        aida:TypeStatement ;
+    rdf:object "Q5"^^xsd:string ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000072> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 9.5e-01 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000072/L0C04D4MS/3398/3425> ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"ldctype\":\"Person\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entitytype/L0C04D4MS/EN_Entity_EDL_ENG_0000073/Person/Q5> a rdf:Statement,
+        aida:TypeStatement ;
+    rdf:object "Q5"^^xsd:string ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000073> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 9.5e-01 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000073/L0C04D4MS/3428/3450> ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"ldctype\":\"Person\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entitytype/L0C04D4MS/EN_Entity_EDL_ENG_0000074/Person/Q215627> a rdf:Statement,
+        aida:TypeStatement ;
+    rdf:object "Q215627"^^xsd:string ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000074> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 9.5e-01 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000074/L0C04D4MS/3792/3792>,
+        <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000074/L0C04D4MS/3794/3797> ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"ldctype\":\"Person\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entitytype/L0C04D4MS/EN_Entity_EDL_ENG_0000075/Person/Q17537576> a rdf:Statement,
+        aida:TypeStatement ;
+    rdf:object "Q17537576"^^xsd:string ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000075> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 9.5e-01 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000075/L0C04D4MS/3807/3814> ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"ldctype\":\"Person\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entitytype/L0C04D4MS/EN_Entity_EDL_ENG_0000076/Person/Q5> a rdf:Statement,
+        aida:TypeStatement ;
+    rdf:object "Q5"^^xsd:string ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000076> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 9.5e-01 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000076/L0C04D4MS/3818/3824> ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"ldctype\":\"Person\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entitytype/L0C04D4MS/EN_Entity_EDL_ENG_0000120/TME/Q35120> a rdf:Statement,
+        aida:TypeStatement ;
+    rdf:object "Q35120"^^xsd:string ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000120> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 9.5e-01 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000120/L0C04D4MS/599/607> ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"ldctype\":\"TME\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entitytype/L0C04D4MS/EN_Entity_EDL_ENG_0000121/TME/Q2752427> a rdf:Statement,
+        aida:TypeStatement ;
+    rdf:object "Q2752427"^^xsd:string ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000121> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 9.5e-01 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000121/L0C04D4MS/1268/1276> ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"ldctype\":\"TME\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entitytype/L0C04D4MS/EN_Entity_EDL_ENG_0000122/TME/Q47150325> a rdf:Statement,
+        aida:TypeStatement ;
+    rdf:object "Q47150325"^^xsd:string ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000122> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 9.5e-01 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000122/L0C04D4MS/4094/4106> ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"ldctype\":\"TME\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entitytype/L0C04D4MS/EN_Entity_EDL_ENG_0000123/TTL/Q4189293> a rdf:Statement,
+        aida:TypeStatement ;
+    rdf:object "Q4189293"^^xsd:string ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000123> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 9.5e-01 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000123/L0C04D4MS/2617/2622> ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"ldctype\":\"TTL\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entitytype/L0C04D4MS/EN_Entity_EDL_ENG_0000124/VAL/Q428875> a rdf:Statement,
+        aida:TypeStatement ;
+    rdf:object "Q428875"^^xsd:string ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000124> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 9.5e-01 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000124/L0C04D4MS/3486/3488>,
+        <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000124/L0C04D4MS/356/356>,
+        <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000124/L0C04D4MS/360/360> ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"ldctype\":\"VAL\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entitytype/L0C04D4MS/EN_Entity_EDL_ENG_0000125/VAL/Q937228> a rdf:Statement,
+        aida:TypeStatement ;
+    rdf:object "Q937228"^^xsd:string ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000125> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 9.5e-01 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000125/L0C04D4MS/3368/3368> ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"ldctype\":\"VAL\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entitytype/L0C04D4MS/EN_Entity_EDL_ENG_0000272/Person/Q215627> a rdf:Statement,
+        aida:TypeStatement ;
+    rdf:object "Q215627"^^xsd:string ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000272> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 9.5e-01 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000272/L0C04D4MS/2383/2390>,
+        <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000272/L0C04D4MS/958/965> ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"ldctype\":\"Person\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entitytype/L0C04D4MS/EN_Entity_EDL_ENG_0000273/Person/Q215627> a rdf:Statement,
+        aida:TypeStatement ;
+    rdf:object "Q215627"^^xsd:string ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000273> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 9.5e-01 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000273/L0C04D4MS/1659/1671>,
+        <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000273/L0C04D4MS/1886/1889> ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"ldctype\":\"Person\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entitytype/L0C04D4MS/EN_Entity_EDL_ENG_0000274/Person/Q215627> a rdf:Statement,
+        aida:TypeStatement ;
+    rdf:object "Q215627"^^xsd:string ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000274> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 9.5e-01 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000274/L0C04D4MS/1708/1715>,
+        <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000274/L0C04D4MS/1842/1849> ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"ldctype\":\"Person\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entitytype/L0C04D4MS/EN_Entity_EDL_ENG_0000275/Person/Q215627> a rdf:Statement,
+        aida:TypeStatement ;
+    rdf:object "Q215627"^^xsd:string ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000275> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 9.5e-01 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000275/L0C04D4MS/2127/2134>,
+        <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000275/L0C04D4MS/2218/2222> ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"ldctype\":\"Person\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entitytype/L0C04D4MS/EN_Entity_EDL_ENG_0000276/Person/Q215627> a rdf:Statement,
+        aida:TypeStatement ;
+    rdf:object "Q215627"^^xsd:string ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000276> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 9.5e-01 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000276/L0C04D4MS/2151/2163> ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"ldctype\":\"Person\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entitytype/L0C04D4MS/EN_Entity_EDL_ENG_0000277/Person/Q215627> a rdf:Statement,
+        aida:TypeStatement ;
+    rdf:object "Q215627"^^xsd:string ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000277> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 9.5e-01 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000277/L0C04D4MS/2244/2254>,
+        <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000277/L0C04D4MS/2657/2667> ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"ldctype\":\"Person\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entitytype/L0C04D4MS/EN_Entity_EDL_ENG_0000278/Person/Q215627> a rdf:Statement,
+        aida:TypeStatement ;
+    rdf:object "Q215627"^^xsd:string ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000278> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 9.5e-01 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000278/L0C04D4MS/3183/3195>,
+        <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000278/L0C04D4MS/3201/3205> ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"ldctype\":\"Person\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entitytype/L0C04D4MS/EN_Entity_EDL_ENG_0000279/Person/Q215627> a rdf:Statement,
+        aida:TypeStatement ;
+    rdf:object "Q215627"^^xsd:string ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000279> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 9.5e-01 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000279/L0C04D4MS/3207/3214> ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"ldctype\":\"Person\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entitytype/L0C04D4MS/EN_Entity_EDL_ENG_0000280/Person/Q215627> a rdf:Statement,
+        aida:TypeStatement ;
+    rdf:object "Q215627"^^xsd:string ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000280> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 9.5e-01 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000280/L0C04D4MS/3546/3553> ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"ldctype\":\"Person\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entitytype/L0C04D4MS/EN_Entity_EDL_ENG_0000316/Organization/Q43229> a rdf:Statement,
+        aida:TypeStatement ;
+    rdf:object "Q43229"^^xsd:string ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000316> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 9.5e-01 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000316/L0C04D4MS/2724/2728> ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"ldctype\":\"Organization\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/eventarg/L0C04D4MS/EN_Event_000033/Contact.Broadcast/Broadcaster/EN_Entity_EDL_ENG_0000068> a rdf:Statement,
+        aida:ArgumentStatement ;
+    rdf:object <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000068> ;
+    rdf:predicate "A0_pag_agent_persuasive_entity"^^xsd:string ;
+    rdf:subject <http://www.isi.edu/gaia/events/uiuc/L0C04D4MS/EN_Event_000033> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:justifiedBy [ a aida:CompoundJustification ;
+            aida:confidence [ a aida:Confidence ;
+                    aida:confidenceValue 1e+00 ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:containedJustification [ a aida:TextJustification ;
+                    aida:confidence [ a aida:Confidence ;
+                            aida:confidenceValue 1e+00 ;
+                            aida:system <http://www.uiuc.edu> ] ;
+                    aida:endOffsetInclusive "2874"^^xsd:int ;
+                    aida:source "L0C04D4MS"^^xsd:string ;
+                    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+                    aida:startOffset "2866"^^xsd:int ;
+                    aida:system <http://www.uiuc.edu> ],
+                [ a aida:TextJustification ;
+                    aida:confidence [ a aida:Confidence ;
+                            aida:confidenceValue 1e+00 ;
+                            aida:system <http://www.uiuc.edu> ] ;
+                    aida:endOffsetInclusive "2850"^^xsd:int ;
+                    aida:source "L0C04D4MS"^^xsd:string ;
+                    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+                    aida:startOffset "2848"^^xsd:int ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/eventarg/L0C04D4MS/EN_Event_000033/Contact.Broadcast/Broadcaster/EN_Entity_EDL_ENG_0000069> a rdf:Statement,
+        aida:ArgumentStatement ;
+    rdf:object <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000069> ;
+    rdf:predicate "A0_pag_agent_persuasive_entity"^^xsd:string ;
+    rdf:subject <http://www.isi.edu/gaia/events/uiuc/L0C04D4MS/EN_Event_000033> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:justifiedBy [ a aida:CompoundJustification ;
+            aida:confidence [ a aida:Confidence ;
+                    aida:confidenceValue 1e+00 ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:containedJustification [ a aida:TextJustification ;
+                    aida:confidence [ a aida:Confidence ;
+                            aida:confidenceValue 1e+00 ;
+                            aida:system <http://www.uiuc.edu> ] ;
+                    aida:endOffsetInclusive "2874"^^xsd:int ;
+                    aida:source "L0C04D4MS"^^xsd:string ;
+                    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+                    aida:startOffset "2866"^^xsd:int ;
+                    aida:system <http://www.uiuc.edu> ],
+                [ a aida:TextJustification ;
+                    aida:confidence [ a aida:Confidence ;
+                            aida:confidenceValue 1e+00 ;
+                            aida:system <http://www.uiuc.edu> ] ;
+                    aida:endOffsetInclusive "2930"^^xsd:int ;
+                    aida:source "L0C04D4MS"^^xsd:string ;
+                    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+                    aida:startOffset "2921"^^xsd:int ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/eventtype/L0C04D4MS/EN_Event_000032/Life.Die/Q4> a rdf:Statement,
+        aida:TypeStatement ;
+    rdf:object "Q4"^^xsd:string ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.isi.edu/gaia/events/uiuc/L0C04D4MS/EN_Event_000032> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"ldctype\":\"Life.Die\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/eventtype/L0C04D4MS/EN_Event_000033/Contact.Broadcast/Q325980> a rdf:Statement,
+        aida:TypeStatement ;
+    rdf:object "Q325980"^^xsd:string ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.isi.edu/gaia/events/uiuc/L0C04D4MS/EN_Event_000033> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"ldctype\":\"Contact.Broadcast\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/relationarg/L0C04D4MS/EN_Relation_000093/OrganizationAffiliation.EmploymentMembership/A0/EN_Entity_EDL_ENG_0000275> a rdf:Statement,
+        aida:ArgumentStatement ;
+    rdf:object <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000275> ;
+    rdf:predicate "A0"^^xsd:string ;
+    rdf:subject <http://www.isi.edu/gaia/relations/uiuc/L0C04D4MS/EN_Relation_000093> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:justifiedBy [ a aida:CompoundJustification ;
+            aida:confidence [ a aida:Confidence ;
+                    aida:confidenceValue 1e+00 ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:containedJustification [ a aida:TextJustification ;
+                    aida:confidence [ a aida:Confidence ;
+                            aida:confidenceValue 1e+00 ;
+                            aida:system <http://www.uiuc.edu> ] ;
+                    aida:endOffsetInclusive "2255"^^xsd:int ;
+                    aida:source "L0C04D4MS"^^xsd:string ;
+                    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+                    aida:startOffset "2127"^^xsd:int ;
+                    aida:system <http://www.uiuc.edu> ],
+                [ a aida:TextJustification ;
+                    aida:confidence [ a aida:Confidence ;
+                            aida:confidenceValue 1e+00 ;
+                            aida:system <http://www.uiuc.edu> ] ;
+                    aida:endOffsetInclusive "2255"^^xsd:int ;
+                    aida:source "L0C04D4MS"^^xsd:string ;
+                    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+                    aida:startOffset "2127"^^xsd:int ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/relationarg/L0C04D4MS/EN_Relation_000093/OrganizationAffiliation.EmploymentMembership/A1/EN_Entity_EDL_ENG_0000277> a rdf:Statement,
+        aida:ArgumentStatement ;
+    rdf:object <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000277> ;
+    rdf:predicate "A1"^^xsd:string ;
+    rdf:subject <http://www.isi.edu/gaia/relations/uiuc/L0C04D4MS/EN_Relation_000093> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:justifiedBy [ a aida:CompoundJustification ;
+            aida:confidence [ a aida:Confidence ;
+                    aida:confidenceValue 1e+00 ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:containedJustification [ a aida:TextJustification ;
+                    aida:confidence [ a aida:Confidence ;
+                            aida:confidenceValue 1e+00 ;
+                            aida:system <http://www.uiuc.edu> ] ;
+                    aida:endOffsetInclusive "2255"^^xsd:int ;
+                    aida:source "L0C04D4MS"^^xsd:string ;
+                    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+                    aida:startOffset "2127"^^xsd:int ;
+                    aida:system <http://www.uiuc.edu> ],
+                [ a aida:TextJustification ;
+                    aida:confidence [ a aida:Confidence ;
+                            aida:confidenceValue 1e+00 ;
+                            aida:system <http://www.uiuc.edu> ] ;
+                    aida:endOffsetInclusive "2255"^^xsd:int ;
+                    aida:source "L0C04D4MS"^^xsd:string ;
+                    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+                    aida:startOffset "2127"^^xsd:int ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/relationarg/L0C04D4MS/EN_Relation_000094/PartWhole.Subsidiary/A0/EN_Entity_EDL_ENG_0000069> a rdf:Statement,
+        aida:ArgumentStatement ;
+    rdf:object <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000069> ;
+    rdf:predicate "A0"^^xsd:string ;
+    rdf:subject <http://www.isi.edu/gaia/relations/uiuc/L0C04D4MS/EN_Relation_000094> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:justifiedBy [ a aida:CompoundJustification ;
+            aida:confidence [ a aida:Confidence ;
+                    aida:confidenceValue 1e+00 ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:containedJustification [ a aida:TextJustification ;
+                    aida:confidence [ a aida:Confidence ;
+                            aida:confidenceValue 1e+00 ;
+                            aida:system <http://www.uiuc.edu> ] ;
+                    aida:endOffsetInclusive "3109"^^xsd:int ;
+                    aida:source "L0C04D4MS"^^xsd:string ;
+                    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+                    aida:startOffset "2843"^^xsd:int ;
+                    aida:system <http://www.uiuc.edu> ],
+                [ a aida:TextJustification ;
+                    aida:confidence [ a aida:Confidence ;
+                            aida:confidenceValue 1e+00 ;
+                            aida:system <http://www.uiuc.edu> ] ;
+                    aida:endOffsetInclusive "3109"^^xsd:int ;
+                    aida:source "L0C04D4MS"^^xsd:string ;
+                    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+                    aida:startOffset "2843"^^xsd:int ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/relationarg/L0C04D4MS/EN_Relation_000094/PartWhole.Subsidiary/A1/EN_Entity_EDL_ENG_0000068> a rdf:Statement,
+        aida:ArgumentStatement ;
+    rdf:object <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000068> ;
+    rdf:predicate "A1"^^xsd:string ;
+    rdf:subject <http://www.isi.edu/gaia/relations/uiuc/L0C04D4MS/EN_Relation_000094> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:justifiedBy [ a aida:CompoundJustification ;
+            aida:confidence [ a aida:Confidence ;
+                    aida:confidenceValue 1e+00 ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:containedJustification [ a aida:TextJustification ;
+                    aida:confidence [ a aida:Confidence ;
+                            aida:confidenceValue 1e+00 ;
+                            aida:system <http://www.uiuc.edu> ] ;
+                    aida:endOffsetInclusive "3109"^^xsd:int ;
+                    aida:source "L0C04D4MS"^^xsd:string ;
+                    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+                    aida:startOffset "2843"^^xsd:int ;
+                    aida:system <http://www.uiuc.edu> ],
+                [ a aida:TextJustification ;
+                    aida:confidence [ a aida:Confidence ;
+                            aida:confidenceValue 1e+00 ;
+                            aida:system <http://www.uiuc.edu> ] ;
+                    aida:endOffsetInclusive "3109"^^xsd:int ;
+                    aida:source "L0C04D4MS"^^xsd:string ;
+                    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+                    aida:startOffset "2843"^^xsd:int ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/relationarg/L0C04D4MS/EN_Relation_000095/PersonalSocial.Unspecified/A0/EN_Entity_EDL_ENG_0000278> a rdf:Statement,
+        aida:ArgumentStatement ;
+    rdf:object <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000278> ;
+    rdf:predicate "A0"^^xsd:string ;
+    rdf:subject <http://www.isi.edu/gaia/relations/uiuc/L0C04D4MS/EN_Relation_000095> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:justifiedBy [ a aida:CompoundJustification ;
+            aida:confidence [ a aida:Confidence ;
+                    aida:confidenceValue 1e+00 ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:containedJustification [ a aida:TextJustification ;
+                    aida:confidence [ a aida:Confidence ;
+                            aida:confidenceValue 1e+00 ;
+                            aida:system <http://www.uiuc.edu> ] ;
+                    aida:endOffsetInclusive "3365"^^xsd:int ;
+                    aida:source "L0C04D4MS"^^xsd:string ;
+                    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+                    aida:startOffset "3112"^^xsd:int ;
+                    aida:system <http://www.uiuc.edu> ],
+                [ a aida:TextJustification ;
+                    aida:confidence [ a aida:Confidence ;
+                            aida:confidenceValue 1e+00 ;
+                            aida:system <http://www.uiuc.edu> ] ;
+                    aida:endOffsetInclusive "3365"^^xsd:int ;
+                    aida:source "L0C04D4MS"^^xsd:string ;
+                    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+                    aida:startOffset "3112"^^xsd:int ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/relationarg/L0C04D4MS/EN_Relation_000095/PersonalSocial.Unspecified/A1/EN_Entity_EDL_ENG_0000279> a rdf:Statement,
+        aida:ArgumentStatement ;
+    rdf:object <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000279> ;
+    rdf:predicate "A1"^^xsd:string ;
+    rdf:subject <http://www.isi.edu/gaia/relations/uiuc/L0C04D4MS/EN_Relation_000095> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:justifiedBy [ a aida:CompoundJustification ;
+            aida:confidence [ a aida:Confidence ;
+                    aida:confidenceValue 1e+00 ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:containedJustification [ a aida:TextJustification ;
+                    aida:confidence [ a aida:Confidence ;
+                            aida:confidenceValue 1e+00 ;
+                            aida:system <http://www.uiuc.edu> ] ;
+                    aida:endOffsetInclusive "3365"^^xsd:int ;
+                    aida:source "L0C04D4MS"^^xsd:string ;
+                    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+                    aida:startOffset "3112"^^xsd:int ;
+                    aida:system <http://www.uiuc.edu> ],
+                [ a aida:TextJustification ;
+                    aida:confidence [ a aida:Confidence ;
+                            aida:confidenceValue 1e+00 ;
+                            aida:system <http://www.uiuc.edu> ] ;
+                    aida:endOffsetInclusive "3365"^^xsd:int ;
+                    aida:source "L0C04D4MS"^^xsd:string ;
+                    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+                    aida:startOffset "3112"^^xsd:int ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/relationtype/L0C04D4MS/EN_Relation_000093/OrganizationAffiliation.EmploymentMembership/P463> a rdf:Statement,
+        aida:TypeStatement ;
+    rdf:object "P463"^^xsd:string ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.isi.edu/gaia/relations/uiuc/L0C04D4MS/EN_Relation_000093> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"ldctype\":\"OrganizationAffiliation.EmploymentMembership\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/relationtype/L0C04D4MS/EN_Relation_000094/PartWhole.Subsidiary/P361> a rdf:Statement,
+        aida:TypeStatement ;
+    rdf:object "P361"^^xsd:string ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.isi.edu/gaia/relations/uiuc/L0C04D4MS/EN_Relation_000094> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"ldctype\":\"PartWhole.Subsidiary\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/relationtype/L0C04D4MS/EN_Relation_000095/PersonalSocial.Unspecified/P3342> a rdf:Statement,
+        aida:TypeStatement ;
+    rdf:object "P3342"^^xsd:string ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.isi.edu/gaia/relations/uiuc/L0C04D4MS/EN_Relation_000095> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"ldctype\":\"PersonalSocial.Unspecified\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+ex:claim_L0C04D4MS_0 a aida:Claim ;
+    aida:associatedKEs <http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04D4MS/EN_Entity_EDL_ENG_0000068>,
+        <http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04D4MS/EN_Entity_EDL_ENG_0000069>,
+        <http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04D4MS/EN_Entity_EDL_ENG_0000123>,
+        <http://www.isi.edu/gaia/clusters/uiuc/events/L0C04D4MS/EN_Event_000033> ;
+    aida:claimDateTime [ a aida:LDCTime ;
+            aida:end [ a aida:LDCTimeComponent ;
+                    aida:day "---23"^^xsd:gDay ;
+                    aida:month "--04"^^xsd:gMonth ;
+                    aida:timeType "AFTER"^^xsd:string ;
+                    aida:year "2020"^^xsd:gYear ],
+                [ a aida:LDCTimeComponent ;
+                    aida:timeType "BEFORE"^^xsd:string ] ;
+            aida:start [ a aida:LDCTimeComponent ;
+                    aida:day "---23"^^xsd:gDay ;
+                    aida:month "--04"^^xsd:gMonth ;
+                    aida:timeType "AFTER"^^xsd:string ;
+                    aida:year "2020"^^xsd:gYear ],
+                [ a aida:LDCTimeComponent ;
+                    aida:day "---23"^^xsd:gDay ;
+                    aida:month "--04"^^xsd:gMonth ;
+                    aida:timeType "BEFORE"^^xsd:string ;
+                    aida:year "2020"^^xsd:gYear ] ;
+            aida:system <http://www.uiuc.edu/claim_detection> ] ;
+    aida:claimId "claim_L0C04D4MS_0"^^xsd:string ;
+    aida:claimSemantics <http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04D4MS/EN_Entity_EDL_ENG_0000123> ;
+    aida:claimTemplate "Wearing masks is recommended in location/GPE/facility-x"^^xsd:string ;
+    aida:claimer ex:claim_L0C04D4MS_0_claimer ;
+    aida:epistemic aida:EpistemicUnknown ;
+    aida:importance 3.862386e-01 ;
+    aida:justifiedBy [ a aida:TextJustification ;
+            aida:confidence [ a aida:Confidence ;
+                    aida:confidenceValue 3.862386e-01 ;
+                    aida:system <http://www.uiuc.edu/claim_detection> ] ;
+            aida:endOffsetInclusive "2622"^^xsd:int ;
+            aida:privateData [ a aida:PrivateData ;
+                    aida:jsonContent "{\"final_claim_score\":0.5777136087,\"source\":\"L0C04D4MS\",\"sourceDocument\":\"L0C04D24L\",\"startOffset_translation\":2543,\"endOffsetInclusive_translation\":2622,\"startOffset\":2543,\"endOffsetInclusive\":2622,\"sentence\":\"They must not be used without a prescription and without supervision by a doctor.\",\"sentence_before\":\"In the context of COVID-19, these medicines should only be used as part of clinical trials or in line with nationally agreed protocols.\",\"sentence_after\":\"EMA and the national competent authorities are monitoring the situation closely and have enhanced their safety monitoring of medicines used in the treatment of COVID-19 in order to take timely action when necessary.\"}"^^xsd:string ;
+                    aida:system <http://www.uiuc.edu/claim_detection> ] ;
+            aida:source "L0C04D4MS"^^xsd:string ;
+            aida:sourceDocument "L0C04D24L"^^xsd:string ;
+            aida:startOffset "2543"^^xsd:int ;
+            aida:system <http://www.uiuc.edu/claim_detection> ] ;
+    aida:naturalLanguageDescription "They must not be used without a prescription and without supervision by a doctor"^^xsd:string ;
+    aida:sentiment aida:SentimentNeutralUnknown ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:subtopic "Places where wearing masks is recommended to prevent the spread of COVID-19"^^xsd:string ;
+    aida:system <http://www.uiuc.edu/claim_detection> ;
+    aida:topic "Non-Pharmaceutical Interventions (NPIs): Masks"^^xsd:string ;
+    aida:xVariable ex:claim_L0C04D4MS_0_X .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_ENG_0000067/L0C04D4MS/633/639> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "639"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"malaria\",\"sentence\":\"Chloroquine and hydroxychloroquine are currently authorised for treating malaria and certain autoimmune diseases.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "633"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_ENG_0000068/L0C04D4MS/2626/2628> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "2628"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"EMA\",\"sentence\":\"EMA and the national competent authorities are monitoring the situation closely and have enhanced their safety monitoring of medicines used in the treatment of COVID-19 in order to take timely action when necessary.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "2626"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_ENG_0000069/L0C04D4MS/2921/2930> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "2930"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"Task Force\",\"sentence\":\"This EMA public health statement has been issued by the COVID-19 EMA pandemic Task Force (COVID-ETF) in consultation with EMA\\u2019s safety Committee (PRAC), in light of the ongoing discussions on the use of chloroquine and hydroxychloroquine in the treatment of COVID-19.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "2921"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_ENG_0000070/L0C04D4MS/2989/2992> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "2992"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"PRAC\",\"sentence\":\"This EMA public health statement has been issued by the COVID-19 EMA pandemic Task Force (COVID-ETF) in consultation with EMA\\u2019s safety Committee (PRAC), in light of the ongoing discussions on the use of chloroquine and hydroxychloroquine in the treatment of COVID-19.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "2989"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_ENG_0000071/L0C04D4MS/3370/3395> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "3395"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"Mayla Gabriela Silva Borba\",\"sentence\":\"1 Mayla Gabriela Silva Borba, Fernando Fonseca Almeida Val, Vanderson Sousa Sampaio et al.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "3370"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_ENG_0000072/L0C04D4MS/3398/3425> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "3425"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"Fernando Fonseca Almeida Val\",\"sentence\":\"1 Mayla Gabriela Silva Borba, Fernando Fonseca Almeida Val, Vanderson Sousa Sampaio et al.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "3398"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_ENG_0000073/L0C04D4MS/3428/3450> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "3450"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"Vanderson Sousa Sampaio\",\"sentence\":\"1 Mayla Gabriela Silva Borba, Fernando Fonseca Almeida Val, Vanderson Sousa Sampaio et al.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "3428"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_ENG_0000074/L0C04D4MS/3794/3797> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "3797"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"Lane\",\"sentence\":\"2 Lane J.C.E., Weaver J., Kosta K. et al.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "3794"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_ENG_0000075/L0C04D4MS/3807/3814> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "3814"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"Weaver J\",\"sentence\":\"2 Lane J.C.E., Weaver J., Kosta K. et al.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "3807"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_ENG_0000076/L0C04D4MS/3818/3824> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "3824"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"Kosta K\",\"sentence\":\"2 Lane J.C.E., Weaver J., Kosta K. et al.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "3818"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_ENG_0000120/L0C04D4MS/599/607> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "607"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"currently\",\"sentence\":\"Chloroquine and hydroxychloroquine are currently authorised for treating malaria and certain autoimmune diseases.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "599"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_ENG_0000121/L0C04D4MS/1268/1276> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "1276"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"currently\",\"sentence\":\"Some clinical trials currently investigating the effectiveness of chloroquine or hydroxychloroquine in treating COVID-19 use higher doses than those recommended for the authorised indications.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "1268"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_ENG_0000122/L0C04D4MS/4094/4106> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "4106"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"23 April 2020\",\"sentence\":\"*The text was updated on 23 April 2020 to correct the scope of the cited studies.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "4094"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_ENG_0000123/L0C04D4MS/2617/2622> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "2622"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"doctor\",\"sentence\":\"They must not be used without a prescription and without supervision by a doctor.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "2617"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_ENG_0000124/L0C04D4MS/3486/3488> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "3488"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"two\",\"sentence\":\"Chloroquine diphosphate in two different dosages as adjunctive therapy of hospitalized patients with severe respiratory syndrome in the context of coronavirus (SARS-CoV-2) infection: Preliminary safety results of a randomized, double-blinded, phase IIb clinical trial (CloroCovid-19 Study).\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "3486"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_ENG_0000125/L0C04D4MS/3368/3368> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "3368"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"1\",\"sentence\":\"1 Mayla Gabriela Silva Borba, Fernando Fonseca Almeida Val, Vanderson Sousa Sampaio et al.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "3368"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_ENG_0000272/L0C04D4MS/958/965> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "965"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"patients\",\"sentence\":\"These medicines are being used in the context of the ongoing pandemic for treating patients with COVID-19 and investigated in clinical trials.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "958"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_ENG_0000273/L0C04D4MS/1659/1671> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "1671"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"professionals\",\"sentence\":\"Healthcare professionals are recommended to closely monitor patients with COVID-19 receiving chloroquine or hydroxychloroquine and to take into account pre-existing heart problems that can make patients more prone to heart rhythm issues.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "1659"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_ENG_0000274/L0C04D4MS/1708/1715> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "1715"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"patients\",\"sentence\":\"Healthcare professionals are recommended to closely monitor patients with COVID-19 receiving chloroquine or hydroxychloroquine and to take into account pre-existing heart problems that can make patients more prone to heart rhythm issues.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "1708"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_ENG_0000275/L0C04D4MS/2127/2134> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "2134"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"Patients\",\"sentence\":\"Patients and healthcare professionals are reminded to report any suspected side effects to their national regulatory authorities.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "2127"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_ENG_0000276/L0C04D4MS/2151/2163> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "2163"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"professionals\",\"sentence\":\"Patients and healthcare professionals are reminded to report any suspected side effects to their national regulatory authorities.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "2151"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_ENG_0000277/L0C04D4MS/2244/2254> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "2254"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"authorities\",\"sentence\":\"Patients and healthcare professionals are reminded to report any suspected side effects to their national regulatory authorities.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "2244"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_ENG_0000278/L0C04D4MS/3183/3195> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "3195"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"professionals\",\"sentence\":\"EMA is committed to providing available information to help healthcare professionals and their patients make informed decisions while awaiting clinical trial data on whether the medicines have a positive benefit-risk balance in the treatment of COVID-19.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "3183"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_ENG_0000279/L0C04D4MS/3207/3214> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "3214"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"patients\",\"sentence\":\"EMA is committed to providing available information to help healthcare professionals and their patients make informed decisions while awaiting clinical trial data on whether the medicines have a positive benefit-risk balance in the treatment of COVID-19.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "3207"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_ENG_0000280/L0C04D4MS/3546/3553> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "3553"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"patients\",\"sentence\":\"Chloroquine diphosphate in two different dosages as adjunctive therapy of hospitalized patients with severe respiratory syndrome in the context of coronavirus (SARS-CoV-2) infection: Preliminary safety results of a randomized, double-blinded, phase IIb clinical trial (CloroCovid-19 Study).\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "3546"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_ENG_0000316/L0C04D4MS/2724/2728> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "2728"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"their\",\"sentence\":\"EMA and the national competent authorities are monitoring the situation closely and have enhanced their safety monitoring of medicines used in the treatment of COVID-19 in order to take timely action when necessary.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "2724"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/event_informative_justification/EN_Event_000032/L0C04D4MS/400/404> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "404"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"fatal\",\"sentence\":\"have reported serious, in some cases fatal, heart rhythm problems with chloroquine or hydroxychloroquine, particularly when taken at high doses or in combination with the antibiotic azithromycin.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "400"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/event_informative_justification/EN_Event_000033/L0C04D4MS/2866/2874> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "2874"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"statement\",\"sentence\":\"This EMA public health statement has been issued by the COVID-19 EMA pandemic Task Force (COVID-ETF) in consultation with EMA\\u2019s safety Committee (PRAC), in light of the ongoing discussions on the use of chloroquine and hydroxychloroquine in the treatment of COVID-19.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "2866"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/eventjustification/EN_Event_000032/L0C04D4MS/400/404> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "404"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\":\"mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"fatal\",\"sentence\":\"have reported serious, in some cases fatal, heart rhythm problems with chloroquine or hydroxychloroquine, particularly when taken at high doses or in combination with the antibiotic azithromycin.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "400"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/eventjustification/EN_Event_000033/L0C04D4MS/2866/2874> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "2874"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\":\"mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"statement\",\"sentence\":\"This EMA public health statement has been issued by the COVID-19 EMA pandemic Task Force (COVID-ETF) in consultation with EMA\\u2019s safety Committee (PRAC), in light of the ongoing discussions on the use of chloroquine and hydroxychloroquine in the treatment of COVID-19.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "2866"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/relation_informative_justification/EN_Relation_000093/L0C04D4MS/2127/2255> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "2255"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"\",\"sentence\":\"Patients and healthcare professionals are reminded to report any suspected side effects to their national regulatory authorities.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "2127"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/relation_informative_justification/EN_Relation_000094/L0C04D4MS/2843/3109> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "3109"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"\",\"sentence\":\"This EMA public health statement has been issued by the COVID-19 EMA pandemic Task Force (COVID-ETF) in consultation with EMA\\u2019s safety Committee (PRAC), in light of the ongoing discussions on the use of chloroquine and hydroxychloroquine in the treatment of COVID-19.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "2843"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/relation_informative_justification/EN_Relation_000095/L0C04D4MS/3112/3365> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "3365"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"\",\"sentence\":\"EMA is committed to providing available information to help healthcare professionals and their patients make informed decisions while awaiting clinical trial data on whether the medicines have a positive benefit-risk balance in the treatment of COVID-19.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "3112"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/relationjustification/EN_Relation_000093/L0C04D4MS/2127/2255> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "2255"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\":\"\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"\",\"sentence\":\"Patients and healthcare professionals are reminded to report any suspected side effects to their national regulatory authorities.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "2127"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/relationjustification/EN_Relation_000094/L0C04D4MS/2843/3109> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "3109"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"\",\"sentence\":\"This EMA public health statement has been issued by the COVID-19 EMA pandemic Task Force (COVID-ETF) in consultation with EMA\\u2019s safety Committee (PRAC), in light of the ongoing discussions on the use of chloroquine and hydroxychloroquine in the treatment of COVID-19.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\":\"\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "2843"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/relationjustification/EN_Relation_000095/L0C04D4MS/3112/3365> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "3365"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"\",\"sentence\":\"EMA is committed to providing available information to help healthcare professionals and their patients make informed decisions while awaiting clinical trial data on whether the medicines have a positive benefit-risk balance in the treatment of COVID-19.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\":\"\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "3112"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04D4MS/EN_Entity_EDL_ENG_0000067> a aida:SameAsCluster ;
+    aida:prototype <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000067> ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04D4MS/EN_Entity_EDL_ENG_0000070> a aida:SameAsCluster ;
+    aida:prototype <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000070> ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04D4MS/EN_Entity_EDL_ENG_0000071> a aida:SameAsCluster ;
+    aida:prototype <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000071> ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04D4MS/EN_Entity_EDL_ENG_0000072> a aida:SameAsCluster ;
+    aida:prototype <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000072> ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04D4MS/EN_Entity_EDL_ENG_0000073> a aida:SameAsCluster ;
+    aida:prototype <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000073> ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04D4MS/EN_Entity_EDL_ENG_0000074> a aida:SameAsCluster ;
+    aida:prototype <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000074> ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04D4MS/EN_Entity_EDL_ENG_0000075> a aida:SameAsCluster ;
+    aida:prototype <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000075> ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04D4MS/EN_Entity_EDL_ENG_0000076> a aida:SameAsCluster ;
+    aida:prototype <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000076> ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04D4MS/EN_Entity_EDL_ENG_0000120> a aida:SameAsCluster ;
+    aida:prototype <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000120> ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04D4MS/EN_Entity_EDL_ENG_0000121> a aida:SameAsCluster ;
+    aida:prototype <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000121> ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04D4MS/EN_Entity_EDL_ENG_0000122> a aida:SameAsCluster ;
+    aida:prototype <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000122> ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04D4MS/EN_Entity_EDL_ENG_0000124> a aida:SameAsCluster ;
+    aida:prototype <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000124> ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04D4MS/EN_Entity_EDL_ENG_0000125> a aida:SameAsCluster ;
+    aida:prototype <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000125> ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04D4MS/EN_Entity_EDL_ENG_0000272> a aida:SameAsCluster ;
+    aida:prototype <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000272> ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04D4MS/EN_Entity_EDL_ENG_0000273> a aida:SameAsCluster ;
+    aida:prototype <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000273> ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04D4MS/EN_Entity_EDL_ENG_0000274> a aida:SameAsCluster ;
+    aida:prototype <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000274> ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04D4MS/EN_Entity_EDL_ENG_0000275> a aida:SameAsCluster ;
+    aida:prototype <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000275> ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04D4MS/EN_Entity_EDL_ENG_0000276> a aida:SameAsCluster ;
+    aida:prototype <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000276> ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04D4MS/EN_Entity_EDL_ENG_0000277> a aida:SameAsCluster ;
+    aida:prototype <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000277> ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04D4MS/EN_Entity_EDL_ENG_0000278> a aida:SameAsCluster ;
+    aida:prototype <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000278> ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04D4MS/EN_Entity_EDL_ENG_0000279> a aida:SameAsCluster ;
+    aida:prototype <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000279> ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04D4MS/EN_Entity_EDL_ENG_0000280> a aida:SameAsCluster ;
+    aida:prototype <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000280> ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04D4MS/EN_Entity_EDL_ENG_0000316> a aida:SameAsCluster ;
+    aida:prototype <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000316> ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/clusters/uiuc/events/L0C04D4MS/EN_Event_000032> a aida:SameAsCluster ;
+    aida:prototype <http://www.isi.edu/gaia/events/uiuc/L0C04D4MS/EN_Event_000032> ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/clusters/uiuc/relations/L0C04D4MS/EN_Relation_000093> a aida:SameAsCluster ;
+    aida:prototype <http://www.isi.edu/gaia/relations/uiuc/L0C04D4MS/EN_Relation_000093> ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/clusters/uiuc/relations/L0C04D4MS/EN_Relation_000094> a aida:SameAsCluster ;
+    aida:prototype <http://www.isi.edu/gaia/relations/uiuc/L0C04D4MS/EN_Relation_000094> ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/clusters/uiuc/relations/L0C04D4MS/EN_Relation_000095> a aida:SameAsCluster ;
+    aida:prototype <http://www.isi.edu/gaia/relations/uiuc/L0C04D4MS/EN_Relation_000095> ;
+    aida:system <http://www.uiuc.edu> .
+
+ex:claim_L0C04D4MS_0_X a aida:ClaimComponent ;
+    aida:componentIdentity "NIL00000026"^^xsd:string ;
+    aida:componentKE <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000123> ;
+    aida:componentName "They must not be used without a prescription and without supervision by a doctor"^^xsd:string ;
+    aida:componentProvenance "They must not be used without a prescription and without supervision by a doctor."^^xsd:string ;
+    aida:componentType "Q35120"^^xsd:string ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"x_variable_type_qnode\":[\"Q4189293\",\"Q35120\"],\"claimbuster_score\":0.3862385569,\"final_claim_score\":0.5777136087,\"claimer_score\":0.0000647453,\"sentence\":\"They must not be used without a prescription and without supervision by a doctor.\",\"source\":\"L0C04D4MS\",\"sourceDocument\":\"L0C04D24L\",\"startOffset\":2543,\"endOffsetInclusive\":2622}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/claim_detection> ] ;
+    aida:system <http://www.uiuc.edu/claim_detection> .
+
+ex:claim_L0C04D4MS_0_claimer a aida:ClaimComponent ;
+    aida:componentIdentity "NIL00000044"^^xsd:string ;
+    aida:componentName "<AUTHOR>"^^xsd:string ;
+    aida:componentProvenance "They must not be used without a prescription and without supervision by a doctor."^^xsd:string ;
+    aida:componentType "Q35120"^^xsd:string ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"claimer_type_qnode\":[\"Q35120\"],\"claimer_score\":0.0000647453}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/claim_detection> ] ;
+    aida:system <http://www.uiuc.edu/claim_detection> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000067/L0C04D4MS/633/639> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "639"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"malaria\",\"sentence\":\"Chloroquine and hydroxychloroquine are currently authorised for treating malaria and certain autoimmune diseases.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\":\"mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "633"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000068/L0C04D4MS/2626/2628> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "2628"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\":\"mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"EMA\",\"sentence\":\"EMA and the national competent authorities are monitoring the situation closely and have enhanced their safety monitoring of medicines used in the treatment of COVID-19 in order to take timely action when necessary.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "2626"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000068/L0C04D4MS/2848/2850> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "2850"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"EMA\",\"sentence\":\"This EMA public health statement has been issued by the COVID-19 EMA pandemic Task Force (COVID-ETF) in consultation with EMA\\u2019s safety Committee (PRAC), in light of the ongoing discussions on the use of chloroquine and hydroxychloroquine in the treatment of COVID-19.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\":\"mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "2848"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000068/L0C04D4MS/2908/2910> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "2910"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\":\"mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"EMA\",\"sentence\":\"This EMA public health statement has been issued by the COVID-19 EMA pandemic Task Force (COVID-ETF) in consultation with EMA\\u2019s safety Committee (PRAC), in light of the ongoing discussions on the use of chloroquine and hydroxychloroquine in the treatment of COVID-19.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "2908"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000068/L0C04D4MS/3112/3114> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "3114"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"EMA\",\"sentence\":\"EMA is committed to providing available information to help healthcare professionals and their patients make informed decisions while awaiting clinical trial data on whether the medicines have a positive benefit-risk balance in the treatment of COVID-19.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\":\"mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "3112"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000069/L0C04D4MS/2921/2930> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "2930"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\":\"mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"Task Force\",\"sentence\":\"This EMA public health statement has been issued by the COVID-19 EMA pandemic Task Force (COVID-ETF) in consultation with EMA\\u2019s safety Committee (PRAC), in light of the ongoing discussions on the use of chloroquine and hydroxychloroquine in the treatment of COVID-19.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "2921"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000070/L0C04D4MS/2978/2986> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "2986"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\":\"nominal_mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"Committee\",\"sentence\":\"This EMA public health statement has been issued by the COVID-19 EMA pandemic Task Force (COVID-ETF) in consultation with EMA\\u2019s safety Committee (PRAC), in light of the ongoing discussions on the use of chloroquine and hydroxychloroquine in the treatment of COVID-19.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "2978"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000070/L0C04D4MS/2989/2992> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "2992"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"PRAC\",\"sentence\":\"This EMA public health statement has been issued by the COVID-19 EMA pandemic Task Force (COVID-ETF) in consultation with EMA\\u2019s safety Committee (PRAC), in light of the ongoing discussions on the use of chloroquine and hydroxychloroquine in the treatment of COVID-19.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\":\"mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "2989"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000071/L0C04D4MS/3370/3395> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "3395"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"Mayla Gabriela Silva Borba\",\"sentence\":\"1 Mayla Gabriela Silva Borba, Fernando Fonseca Almeida Val, Vanderson Sousa Sampaio et al.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\":\"mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "3370"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000072/L0C04D4MS/3398/3425> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "3425"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\":\"mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"Fernando Fonseca Almeida Val\",\"sentence\":\"1 Mayla Gabriela Silva Borba, Fernando Fonseca Almeida Val, Vanderson Sousa Sampaio et al.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "3398"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000073/L0C04D4MS/3428/3450> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "3450"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"Vanderson Sousa Sampaio\",\"sentence\":\"1 Mayla Gabriela Silva Borba, Fernando Fonseca Almeida Val, Vanderson Sousa Sampaio et al.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\":\"mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "3428"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000074/L0C04D4MS/3792/3792> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "3792"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"2\",\"sentence\":\"2 Lane J.C.E., Weaver J., Kosta K. et al.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\":\"mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "3792"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000074/L0C04D4MS/3794/3797> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "3797"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\":\"mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"Lane\",\"sentence\":\"2 Lane J.C.E., Weaver J., Kosta K. et al.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "3794"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000075/L0C04D4MS/3807/3814> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "3814"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"Weaver J\",\"sentence\":\"2 Lane J.C.E., Weaver J., Kosta K. et al.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\":\"mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "3807"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000076/L0C04D4MS/3818/3824> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "3824"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"Kosta K\",\"sentence\":\"2 Lane J.C.E., Weaver J., Kosta K. et al.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\":\"mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "3818"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000120/L0C04D4MS/599/607> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "607"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\":\"mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"currently\",\"sentence\":\"Chloroquine and hydroxychloroquine are currently authorised for treating malaria and certain autoimmune diseases.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "599"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000121/L0C04D4MS/1268/1276> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "1276"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"currently\",\"sentence\":\"Some clinical trials currently investigating the effectiveness of chloroquine or hydroxychloroquine in treating COVID-19 use higher doses than those recommended for the authorised indications.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\":\"mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "1268"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000122/L0C04D4MS/4094/4106> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "4106"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"23 April 2020\",\"sentence\":\"*The text was updated on 23 April 2020 to correct the scope of the cited studies.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\":\"mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "4094"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000123/L0C04D4MS/2617/2622> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "2622"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\":\"nominal_mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"doctor\",\"sentence\":\"They must not be used without a prescription and without supervision by a doctor.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "2617"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000124/L0C04D4MS/3486/3488> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "3488"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\":\"mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"two\",\"sentence\":\"Chloroquine diphosphate in two different dosages as adjunctive therapy of hospitalized patients with severe respiratory syndrome in the context of coronavirus (SARS-CoV-2) infection: Preliminary safety results of a randomized, double-blinded, phase IIb clinical trial (CloroCovid-19 Study).\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "3486"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000124/L0C04D4MS/356/356> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "356"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\":\"mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"1\",\"sentence\":\"1,\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "356"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000124/L0C04D4MS/360/360> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "360"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\":\"mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"2\",\"sentence\":\"2\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "360"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000125/L0C04D4MS/3368/3368> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "3368"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\":\"mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"1\",\"sentence\":\"1 Mayla Gabriela Silva Borba, Fernando Fonseca Almeida Val, Vanderson Sousa Sampaio et al.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "3368"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000272/L0C04D4MS/2383/2390> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "2390"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\":\"nominal_mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"patients\",\"sentence\":\"A number of large, randomised clinical trials are looking at the benefits and risks of chloroquine and hydroxychloroquine in patients with COVID-19.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "2383"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000272/L0C04D4MS/958/965> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "965"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\":\"nominal_mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"patients\",\"sentence\":\"These medicines are being used in the context of the ongoing pandemic for treating patients with COVID-19 and investigated in clinical trials.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "958"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000273/L0C04D4MS/1659/1671> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "1671"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\":\"nominal_mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"professionals\",\"sentence\":\"Healthcare professionals are recommended to closely monitor patients with COVID-19 receiving chloroquine or hydroxychloroquine and to take into account pre-existing heart problems that can make patients more prone to heart rhythm issues.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "1659"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000273/L0C04D4MS/1886/1889> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "1889"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\":\"pronominal_mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"They\",\"sentence\":\"They should carefully consider the possibility of side effects, particularly with higher doses, and exercise extra caution when combining treatment with other medicines such as azithromycin that may cause similar side effects on the heart.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "1886"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000274/L0C04D4MS/1708/1715> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "1715"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\":\"nominal_mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"patients\",\"sentence\":\"Healthcare professionals are recommended to closely monitor patients with COVID-19 receiving chloroquine or hydroxychloroquine and to take into account pre-existing heart problems that can make patients more prone to heart rhythm issues.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "1708"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000274/L0C04D4MS/1842/1849> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "1849"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"patients\",\"sentence\":\"Healthcare professionals are recommended to closely monitor patients with COVID-19 receiving chloroquine or hydroxychloroquine and to take into account pre-existing heart problems that can make patients more prone to heart rhythm issues.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\":\"nominal_mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "1842"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000275/L0C04D4MS/2127/2134> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "2134"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"Patients\",\"sentence\":\"Patients and healthcare professionals are reminded to report any suspected side effects to their national regulatory authorities.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\":\"nominal_mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "2127"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000275/L0C04D4MS/2218/2222> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "2222"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\":\"pronominal_mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"their\",\"sentence\":\"Patients and healthcare professionals are reminded to report any suspected side effects to their national regulatory authorities.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "2218"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000276/L0C04D4MS/2151/2163> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "2163"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\":\"nominal_mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"professionals\",\"sentence\":\"Patients and healthcare professionals are reminded to report any suspected side effects to their national regulatory authorities.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "2151"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000277/L0C04D4MS/2244/2254> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "2254"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"authorities\",\"sentence\":\"Patients and healthcare professionals are reminded to report any suspected side effects to their national regulatory authorities.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\":\"nominal_mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "2244"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000277/L0C04D4MS/2657/2667> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "2667"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\":\"nominal_mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"authorities\",\"sentence\":\"EMA and the national competent authorities are monitoring the situation closely and have enhanced their safety monitoring of medicines used in the treatment of COVID-19 in order to take timely action when necessary.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "2657"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000278/L0C04D4MS/3183/3195> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "3195"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\":\"nominal_mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"professionals\",\"sentence\":\"EMA is committed to providing available information to help healthcare professionals and their patients make informed decisions while awaiting clinical trial data on whether the medicines have a positive benefit-risk balance in the treatment of COVID-19.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "3183"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000278/L0C04D4MS/3201/3205> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "3205"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"their\",\"sentence\":\"EMA is committed to providing available information to help healthcare professionals and their patients make informed decisions while awaiting clinical trial data on whether the medicines have a positive benefit-risk balance in the treatment of COVID-19.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\":\"pronominal_mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "3201"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000279/L0C04D4MS/3207/3214> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "3214"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"patients\",\"sentence\":\"EMA is committed to providing available information to help healthcare professionals and their patients make informed decisions while awaiting clinical trial data on whether the medicines have a positive benefit-risk balance in the treatment of COVID-19.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\":\"nominal_mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "3207"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000280/L0C04D4MS/3546/3553> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "3553"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\":\"nominal_mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"patients\",\"sentence\":\"Chloroquine diphosphate in two different dosages as adjunctive therapy of hospitalized patients with severe respiratory syndrome in the context of coronavirus (SARS-CoV-2) infection: Preliminary safety results of a randomized, double-blinded, phase IIb clinical trial (CloroCovid-19 Study).\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "3546"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000316/L0C04D4MS/2724/2728> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "2728"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"mention_string\":\"their\",\"sentence\":\"EMA and the national competent authorities are monitoring the situation closely and have enhanced their safety monitoring of medicines used in the treatment of COVID-19 in order to take timely action when necessary.\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/mention> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\":\"pronominal_mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:source "L0C04D4MS"^^xsd:string ;
+    aida:sourceDocument "L0C04D24L"^^xsd:string ;
+    aida:startOffset "2724"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04D4MS/EN_Entity_EDL_ENG_0000068> a aida:SameAsCluster ;
+    aida:prototype <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000068> ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04D4MS/EN_Entity_EDL_ENG_0000069> a aida:SameAsCluster ;
+    aida:prototype <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000069> ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/clusters/uiuc/events/L0C04D4MS/EN_Event_000033> a aida:SameAsCluster ;
+    aida:prototype <http://www.isi.edu/gaia/events/uiuc/L0C04D4MS/EN_Event_000033> ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04D4MS/EN_Entity_EDL_ENG_0000123> a aida:SameAsCluster ;
+    aida:prototype <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000123> ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000067> a aida:Entity ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:informativeJustification <http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_ENG_0000067/L0C04D4MS/633/639> ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000067/L0C04D4MS/633/639> ;
+    aida:link [ a aida:LinkAssertion ;
+            aida:confidence [ a aida:Confidence ;
+                    aida:confidenceValue 1e+00 ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:linkTarget "Q12156"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:system <http://www.uiuc.edu> ;
+    aida:textValue "malaria"^^xsd:string .
+
+<http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000070> a aida:Entity ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:informativeJustification <http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_ENG_0000070/L0C04D4MS/2989/2992> ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000070/L0C04D4MS/2978/2986>,
+        <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000070/L0C04D4MS/2989/2992> ;
+    aida:link [ a aida:LinkAssertion ;
+            aida:confidence [ a aida:Confidence ;
+                    aida:confidenceValue 1e+00 ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:linkTarget "Q89805767"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000071> a aida:Entity ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:informativeJustification <http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_ENG_0000071/L0C04D4MS/3370/3395> ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000071/L0C04D4MS/3370/3395> ;
+    aida:link [ a aida:LinkAssertion ;
+            aida:confidence [ a aida:Confidence ;
+                    aida:confidenceValue 1e+00 ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:linkTarget "Q105396572"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000072> a aida:Entity ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:informativeJustification <http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_ENG_0000072/L0C04D4MS/3398/3425> ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000072/L0C04D4MS/3398/3425> ;
+    aida:link [ a aida:LinkAssertion ;
+            aida:confidence [ a aida:Confidence ;
+                    aida:confidenceValue 1e+00 ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:linkTarget "Q105082017"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000073> a aida:Entity ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:informativeJustification <http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_ENG_0000073/L0C04D4MS/3428/3450> ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000073/L0C04D4MS/3428/3450> ;
+    aida:link [ a aida:LinkAssertion ;
+            aida:confidence [ a aida:Confidence ;
+                    aida:confidenceValue 1e+00 ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:linkTarget "Q56438521"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000074> a aida:Entity ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:informativeJustification <http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_ENG_0000074/L0C04D4MS/3794/3797> ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000074/L0C04D4MS/3792/3792>,
+        <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000074/L0C04D4MS/3794/3797> ;
+    aida:link [ a aida:LinkAssertion ;
+            aida:confidence [ a aida:Confidence ;
+                    aida:confidenceValue 1e+00 ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:linkTarget "NILQ00000133"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000075> a aida:Entity ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:informativeJustification <http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_ENG_0000075/L0C04D4MS/3807/3814> ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000075/L0C04D4MS/3807/3814> ;
+    aida:link [ a aida:LinkAssertion ;
+            aida:confidence [ a aida:Confidence ;
+                    aida:confidenceValue 1e+00 ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:linkTarget "Q106996839"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000076> a aida:Entity ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:informativeJustification <http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_ENG_0000076/L0C04D4MS/3818/3824> ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000076/L0C04D4MS/3818/3824> ;
+    aida:link [ a aida:LinkAssertion ;
+            aida:confidence [ a aida:Confidence ;
+                    aida:confidenceValue 1e+00 ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:linkTarget "Q41191951"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000120> a aida:Entity ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:informativeJustification <http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_ENG_0000120/L0C04D4MS/599/607> ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000120/L0C04D4MS/599/607> ;
+    aida:link [ a aida:LinkAssertion ;
+            aida:confidence [ a aida:Confidence ;
+                    aida:confidenceValue 1e+00 ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:linkTarget "NILQ00000119"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000121> a aida:Entity ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:informativeJustification <http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_ENG_0000121/L0C04D4MS/1268/1276> ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000121/L0C04D4MS/1268/1276> ;
+    aida:link [ a aida:LinkAssertion ;
+            aida:confidence [ a aida:Confidence ;
+                    aida:confidenceValue 1e+00 ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:linkTarget "Q30612"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000122> a aida:Entity ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:informativeJustification <http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_ENG_0000122/L0C04D4MS/4094/4106> ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000122/L0C04D4MS/4094/4106> ;
+    aida:link [ a aida:LinkAssertion ;
+            aida:confidence [ a aida:Confidence ;
+                    aida:confidenceValue 1e+00 ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:linkTarget "Q57396715"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000124> a aida:Entity ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:informativeJustification <http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_ENG_0000124/L0C04D4MS/3486/3488> ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000124/L0C04D4MS/3486/3488>,
+        <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000124/L0C04D4MS/356/356>,
+        <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000124/L0C04D4MS/360/360> ;
+    aida:link [ a aida:LinkAssertion ;
+            aida:confidence [ a aida:Confidence ;
+                    aida:confidenceValue 1e+00 ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:linkTarget "Q47109866"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:system <http://www.uiuc.edu> ;
+    aida:textValue "two"^^xsd:string .
+
+<http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000125> a aida:Entity ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:informativeJustification <http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_ENG_0000125/L0C04D4MS/3368/3368> ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000125/L0C04D4MS/3368/3368> ;
+    aida:link [ a aida:LinkAssertion ;
+            aida:confidence [ a aida:Confidence ;
+                    aida:confidenceValue 1e+00 ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:linkTarget "NILQ00000131"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:system <http://www.uiuc.edu> ;
+    aida:textValue "1"^^xsd:string .
+
+<http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000272> a aida:Entity ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:informativeJustification <http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_ENG_0000272/L0C04D4MS/958/965> ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000272/L0C04D4MS/2383/2390>,
+        <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000272/L0C04D4MS/958/965> ;
+    aida:link [ a aida:LinkAssertion ;
+            aida:confidence [ a aida:Confidence ;
+                    aida:confidenceValue 1e+00 ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:linkTarget "NILQ00000120"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000273> a aida:Entity ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:informativeJustification <http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_ENG_0000273/L0C04D4MS/1659/1671> ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000273/L0C04D4MS/1659/1671>,
+        <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000273/L0C04D4MS/1886/1889> ;
+    aida:link [ a aida:LinkAssertion ;
+            aida:confidence [ a aida:Confidence ;
+                    aida:confidenceValue 1e+00 ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:linkTarget "NILQ00000121"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000274> a aida:Entity ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:informativeJustification <http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_ENG_0000274/L0C04D4MS/1708/1715> ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000274/L0C04D4MS/1708/1715>,
+        <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000274/L0C04D4MS/1842/1849> ;
+    aida:link [ a aida:LinkAssertion ;
+            aida:confidence [ a aida:Confidence ;
+                    aida:confidenceValue 1e+00 ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:linkTarget "NILQ00000122"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000276> a aida:Entity ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:informativeJustification <http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_ENG_0000276/L0C04D4MS/2151/2163> ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000276/L0C04D4MS/2151/2163> ;
+    aida:link [ a aida:LinkAssertion ;
+            aida:confidence [ a aida:Confidence ;
+                    aida:confidenceValue 1e+00 ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:linkTarget "NILQ00000124"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000280> a aida:Entity ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:informativeJustification <http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_ENG_0000280/L0C04D4MS/3546/3553> ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000280/L0C04D4MS/3546/3553> ;
+    aida:link [ a aida:LinkAssertion ;
+            aida:confidence [ a aida:Confidence ;
+                    aida:confidenceValue 1e+00 ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:linkTarget "NILQ00000132"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000316> a aida:Entity ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:informativeJustification <http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_ENG_0000316/L0C04D4MS/2724/2728> ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000316/L0C04D4MS/2724/2728> ;
+    aida:link [ a aida:LinkAssertion ;
+            aida:confidence [ a aida:Confidence ;
+                    aida:confidenceValue 1e+00 ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:linkTarget "NILQ00000127"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/events/uiuc/L0C04D4MS/EN_Event_000032> a aida:Event ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:informativeJustification <http://www.isi.edu/gaia/assertions/uiuc/event_informative_justification/EN_Event_000032/L0C04D4MS/400/404> ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/eventjustification/EN_Event_000032/L0C04D4MS/400/404> ;
+    aida:ldcTime [ a aida:LDCTime ;
+            aida:end [ a aida:LDCTimeComponent ;
+                    aida:day "---23"^^xsd:gDay ;
+                    aida:month "--04"^^xsd:gMonth ;
+                    aida:timeType "BEFORE"^^xsd:string ;
+                    aida:year "2020"^^xsd:gYear ],
+                [ a aida:LDCTimeComponent ;
+                    aida:timeType "AFTER"^^xsd:string ] ;
+            aida:start [ a aida:LDCTimeComponent ;
+                    aida:timeType "AFTER"^^xsd:string ],
+                [ a aida:LDCTimeComponent ;
+                    aida:day "---23"^^xsd:gDay ;
+                    aida:month "--04"^^xsd:gMonth ;
+                    aida:timeType "BEFORE"^^xsd:string ;
+                    aida:year "2020"^^xsd:gYear ] ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000123> a aida:Entity ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:informativeJustification <http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_ENG_0000123/L0C04D4MS/2617/2622> ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000123/L0C04D4MS/2617/2622> ;
+    aida:link [ a aida:LinkAssertion ;
+            aida:confidence [ a aida:Confidence ;
+                    aida:confidenceValue 1e+00 ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:linkTarget "NILQ00000126"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:system <http://www.uiuc.edu> ;
+    aida:textValue "doctor"^^xsd:string .
+
+<http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000275> a aida:Entity ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:informativeJustification <http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_ENG_0000275/L0C04D4MS/2127/2134> ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000275/L0C04D4MS/2127/2134>,
+        <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000275/L0C04D4MS/2218/2222> ;
+    aida:link [ a aida:LinkAssertion ;
+            aida:confidence [ a aida:Confidence ;
+                    aida:confidenceValue 1e+00 ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:linkTarget "NILQ00000123"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000277> a aida:Entity ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:informativeJustification <http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_ENG_0000277/L0C04D4MS/2244/2254> ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000277/L0C04D4MS/2244/2254>,
+        <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000277/L0C04D4MS/2657/2667> ;
+    aida:link [ a aida:LinkAssertion ;
+            aida:confidence [ a aida:Confidence ;
+                    aida:confidenceValue 1e+00 ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:linkTarget "NILQ00000125"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000278> a aida:Entity ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:informativeJustification <http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_ENG_0000278/L0C04D4MS/3183/3195> ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000278/L0C04D4MS/3183/3195>,
+        <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000278/L0C04D4MS/3201/3205> ;
+    aida:link [ a aida:LinkAssertion ;
+            aida:confidence [ a aida:Confidence ;
+                    aida:confidenceValue 1e+00 ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:linkTarget "NILQ00000129"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000279> a aida:Entity ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:informativeJustification <http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_ENG_0000279/L0C04D4MS/3207/3214> ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000279/L0C04D4MS/3207/3214> ;
+    aida:link [ a aida:LinkAssertion ;
+            aida:confidence [ a aida:Confidence ;
+                    aida:confidenceValue 1e+00 ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:linkTarget "NILQ00000130"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000068> a aida:Entity ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:informativeJustification <http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_ENG_0000068/L0C04D4MS/2626/2628> ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000068/L0C04D4MS/2626/2628>,
+        <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000068/L0C04D4MS/2848/2850>,
+        <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000068/L0C04D4MS/2908/2910>,
+        <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000068/L0C04D4MS/3112/3114> ;
+    aida:link [ a aida:LinkAssertion ;
+            aida:confidence [ a aida:Confidence ;
+                    aida:confidenceValue 1e+00 ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:linkTarget "Q130146"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000069> a aida:Entity ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:informativeJustification <http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_ENG_0000069/L0C04D4MS/2921/2930> ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_ENG_0000069/L0C04D4MS/2921/2930> ;
+    aida:link [ a aida:LinkAssertion ;
+            aida:confidence [ a aida:Confidence ;
+                    aida:confidenceValue 1e+00 ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:linkTarget "NILQ00000128"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/events/uiuc/L0C04D4MS/EN_Event_000033> a aida:Event ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:informativeJustification <http://www.isi.edu/gaia/assertions/uiuc/event_informative_justification/EN_Event_000033/L0C04D4MS/2866/2874> ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/eventjustification/EN_Event_000033/L0C04D4MS/2866/2874> ;
+    aida:ldcTime [ a aida:LDCTime ;
+            aida:end [ a aida:LDCTimeComponent ;
+                    aida:timeType "BEFORE"^^xsd:string ],
+                [ a aida:LDCTimeComponent ;
+                    aida:day "---23"^^xsd:gDay ;
+                    aida:month "--04"^^xsd:gMonth ;
+                    aida:timeType "AFTER"^^xsd:string ;
+                    aida:year "2020"^^xsd:gYear ] ;
+            aida:start [ a aida:LDCTimeComponent ;
+                    aida:day "---23"^^xsd:gDay ;
+                    aida:month "--04"^^xsd:gMonth ;
+                    aida:timeType "BEFORE"^^xsd:string ;
+                    aida:year "2020"^^xsd:gYear ],
+                [ a aida:LDCTimeComponent ;
+                    aida:day "---23"^^xsd:gDay ;
+                    aida:month "--04"^^xsd:gMonth ;
+                    aida:timeType "AFTER"^^xsd:string ;
+                    aida:year "2020"^^xsd:gYear ] ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/relations/uiuc/L0C04D4MS/EN_Relation_000093> a aida:Relation ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:informativeJustification <http://www.isi.edu/gaia/assertions/uiuc/relation_informative_justification/EN_Relation_000093/L0C04D4MS/2127/2255> ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/relationjustification/EN_Relation_000093/L0C04D4MS/2127/2255> ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/relations/uiuc/L0C04D4MS/EN_Relation_000094> a aida:Relation ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:informativeJustification <http://www.isi.edu/gaia/assertions/uiuc/relation_informative_justification/EN_Relation_000094/L0C04D4MS/2843/3109> ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/relationjustification/EN_Relation_000094/L0C04D4MS/2843/3109> ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/relations/uiuc/L0C04D4MS/EN_Relation_000095> a aida:Relation ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:informativeJustification <http://www.isi.edu/gaia/assertions/uiuc/relation_informative_justification/EN_Relation_000095/L0C04D4MS/3112/3365> ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/relationjustification/EN_Relation_000095/L0C04D4MS/3112/3365> ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\":\"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.uiuc.edu/claim_detection> a aida:System .
+
+<http://www.uiuc.edu/mention> a aida:System .
+
+<http://www.uiuc.edu/fileType> a aida:System .
+
+<http://www.uiuc.edu> a aida:System .
+
+[] a aida:ClusterMembership ;
+    aida:cluster <http://www.isi.edu/gaia/clusters/uiuc/relations/L0C04D4MS/EN_Relation_000093> ;
+    aida:clusterMember <http://www.isi.edu/gaia/relations/uiuc/L0C04D4MS/EN_Relation_000093> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+[] a aida:ClusterMembership ;
+    aida:cluster <http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04D4MS/EN_Entity_EDL_ENG_0000073> ;
+    aida:clusterMember <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000073> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 9e-01 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+[] a aida:ClusterMembership ;
+    aida:cluster <http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04D4MS/EN_Entity_EDL_ENG_0000279> ;
+    aida:clusterMember <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000279> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 9e-01 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+[] a aida:ClusterMembership ;
+    aida:cluster <http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04D4MS/EN_Entity_EDL_ENG_0000316> ;
+    aida:clusterMember <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000316> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 9e-01 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+[] a aida:ClusterMembership ;
+    aida:cluster <http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04D4MS/EN_Entity_EDL_ENG_0000276> ;
+    aida:clusterMember <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000276> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 9e-01 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+[] a aida:ClusterMembership ;
+    aida:cluster <http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04D4MS/EN_Entity_EDL_ENG_0000072> ;
+    aida:clusterMember <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000072> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 9e-01 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+[] a aida:ClusterMembership ;
+    aida:cluster <http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04D4MS/EN_Entity_EDL_ENG_0000068> ;
+    aida:clusterMember <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000068> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 9e-01 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+[] a aida:ClusterMembership ;
+    aida:cluster <http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04D4MS/EN_Entity_EDL_ENG_0000124> ;
+    aida:clusterMember <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000124> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 9e-01 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+[] a aida:ClusterMembership ;
+    aida:cluster <http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04D4MS/EN_Entity_EDL_ENG_0000067> ;
+    aida:clusterMember <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000067> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 9e-01 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+[] a aida:ClusterMembership ;
+    aida:cluster <http://www.isi.edu/gaia/clusters/uiuc/relations/L0C04D4MS/EN_Relation_000095> ;
+    aida:clusterMember <http://www.isi.edu/gaia/relations/uiuc/L0C04D4MS/EN_Relation_000095> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+[] a aida:ClusterMembership ;
+    aida:cluster <http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04D4MS/EN_Entity_EDL_ENG_0000120> ;
+    aida:clusterMember <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000120> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 9e-01 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+[] a aida:ClusterMembership ;
+    aida:cluster <http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04D4MS/EN_Entity_EDL_ENG_0000070> ;
+    aida:clusterMember <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000070> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 9e-01 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+[] a aida:ClusterMembership ;
+    aida:cluster <http://www.isi.edu/gaia/clusters/uiuc/events/L0C04D4MS/EN_Event_000033> ;
+    aida:clusterMember <http://www.isi.edu/gaia/events/uiuc/L0C04D4MS/EN_Event_000033> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+[] a aida:ClusterMembership ;
+    aida:cluster <http://www.isi.edu/gaia/clusters/uiuc/events/L0C04D4MS/EN_Event_000032> ;
+    aida:clusterMember <http://www.isi.edu/gaia/events/uiuc/L0C04D4MS/EN_Event_000032> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+[] a aida:ClusterMembership ;
+    aida:cluster <http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04D4MS/EN_Entity_EDL_ENG_0000076> ;
+    aida:clusterMember <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000076> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 9e-01 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+[] a aida:ClusterMembership ;
+    aida:cluster <http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04D4MS/EN_Entity_EDL_ENG_0000125> ;
+    aida:clusterMember <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000125> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 9e-01 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+[] a aida:ClusterMembership ;
+    aida:cluster <http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04D4MS/EN_Entity_EDL_ENG_0000121> ;
+    aida:clusterMember <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000121> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 9e-01 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+[] a aida:ClusterMembership ;
+    aida:cluster <http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04D4MS/EN_Entity_EDL_ENG_0000123> ;
+    aida:clusterMember <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000123> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 9e-01 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+[] a aida:ClusterMembership ;
+    aida:cluster <http://www.isi.edu/gaia/clusters/uiuc/relations/L0C04D4MS/EN_Relation_000094> ;
+    aida:clusterMember <http://www.isi.edu/gaia/relations/uiuc/L0C04D4MS/EN_Relation_000094> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+[] a aida:ClusterMembership ;
+    aida:cluster <http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04D4MS/EN_Entity_EDL_ENG_0000278> ;
+    aida:clusterMember <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000278> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 9e-01 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+[] a aida:ClusterMembership ;
+    aida:cluster <http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04D4MS/EN_Entity_EDL_ENG_0000075> ;
+    aida:clusterMember <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000075> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 9e-01 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+[] a aida:ClusterMembership ;
+    aida:cluster <http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04D4MS/EN_Entity_EDL_ENG_0000277> ;
+    aida:clusterMember <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000277> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 9e-01 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+[] a aida:ClusterMembership ;
+    aida:cluster <http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04D4MS/EN_Entity_EDL_ENG_0000273> ;
+    aida:clusterMember <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000273> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 9e-01 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+[] a aida:ClusterMembership ;
+    aida:cluster <http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04D4MS/EN_Entity_EDL_ENG_0000275> ;
+    aida:clusterMember <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000275> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 9e-01 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+[] a aida:ClusterMembership ;
+    aida:cluster <http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04D4MS/EN_Entity_EDL_ENG_0000122> ;
+    aida:clusterMember <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000122> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 9e-01 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+[] a aida:ClusterMembership ;
+    aida:cluster <http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04D4MS/EN_Entity_EDL_ENG_0000069> ;
+    aida:clusterMember <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000069> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 9e-01 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+[] a aida:ClusterMembership ;
+    aida:cluster <http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04D4MS/EN_Entity_EDL_ENG_0000274> ;
+    aida:clusterMember <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000274> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 9e-01 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+[] a aida:ClusterMembership ;
+    aida:cluster <http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04D4MS/EN_Entity_EDL_ENG_0000272> ;
+    aida:clusterMember <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000272> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 9e-01 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+[] a aida:ClusterMembership ;
+    aida:cluster <http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04D4MS/EN_Entity_EDL_ENG_0000071> ;
+    aida:clusterMember <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000071> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 9e-01 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+[] a aida:ClusterMembership ;
+    aida:cluster <http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04D4MS/EN_Entity_EDL_ENG_0000280> ;
+    aida:clusterMember <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000280> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 9e-01 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+[] a aida:ClusterMembership ;
+    aida:cluster <http://www.isi.edu/gaia/clusters/uiuc/entity/L0C04D4MS/EN_Entity_EDL_ENG_0000074> ;
+    aida:clusterMember <http://www.isi.edu/gaia/entities/uiuc/L0C04D4MS/EN_Entity_EDL_ENG_0000074> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 9e-01 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+

@@ -1,0 +1,238 @@
+<LCTL_TEXT lang="spa">
+<DOC grammar="none" id="L0C04CVOF" lang="spa" raw_text_char_length="1154" raw_text_md5="99d9ab3692bbe2b9bf7e353f28f8400e" tokenization="tokenization_parameters.v5.0">
+<TEXT>
+<SEG end_char="71" id="segment-0" start_char="1">
+<ORIGINAL_TEXT>Baricitinib May Shorten Recovery Time in Hospitalized COVID-19 Patients</ORIGINAL_TEXT>
+<TOKEN end_char="11" id="token-0-0" morph="none" pos="word" start_char="1">Baricitinib</TOKEN>
+<TOKEN end_char="15" id="token-0-1" morph="none" pos="word" start_char="13">May</TOKEN>
+<TOKEN end_char="23" id="token-0-2" morph="none" pos="word" start_char="17">Shorten</TOKEN>
+<TOKEN end_char="32" id="token-0-3" morph="none" pos="word" start_char="25">Recovery</TOKEN>
+<TOKEN end_char="37" id="token-0-4" morph="none" pos="word" start_char="34">Time</TOKEN>
+<TOKEN end_char="40" id="token-0-5" morph="none" pos="word" start_char="39">in</TOKEN>
+<TOKEN end_char="53" id="token-0-6" morph="none" pos="word" start_char="42">Hospitalized</TOKEN>
+<TOKEN end_char="62" id="token-0-7" morph="none" pos="unknown" start_char="55">COVID-19</TOKEN>
+<TOKEN end_char="71" id="token-0-8" morph="none" pos="word" start_char="64">Patients</TOKEN>
+</SEG>
+<SEG end_char="88" id="segment-1" start_char="76">
+<ORIGINAL_TEXT>MONDAY, Sept.</ORIGINAL_TEXT>
+<TOKEN end_char="81" id="token-1-0" morph="none" pos="word" start_char="76">MONDAY</TOKEN>
+<TOKEN end_char="82" id="token-1-1" morph="none" pos="punct" start_char="82">,</TOKEN>
+<TOKEN end_char="87" id="token-1-2" morph="none" pos="word" start_char="84">Sept</TOKEN>
+<TOKEN end_char="88" id="token-1-3" morph="none" pos="punct" start_char="88">.</TOKEN>
+</SEG>
+<SEG end_char="284" id="segment-2" start_char="90">
+<ORIGINAL_TEXT>14, 2020 (HealthDay News) -- Using an anti-inflammatory medicine along with the antiviral drug remdesivir appears to shorten COVID-19 patients' recovery time, according to drug company Eli Lilly.</ORIGINAL_TEXT>
+<TOKEN end_char="91" id="token-2-0" morph="none" pos="word" start_char="90">14</TOKEN>
+<TOKEN end_char="92" id="token-2-1" morph="none" pos="punct" start_char="92">,</TOKEN>
+<TOKEN end_char="97" id="token-2-2" morph="none" pos="word" start_char="94">2020</TOKEN>
+<TOKEN end_char="99" id="token-2-3" morph="none" pos="punct" start_char="99">(</TOKEN>
+<TOKEN end_char="108" id="token-2-4" morph="none" pos="word" start_char="100">HealthDay</TOKEN>
+<TOKEN end_char="113" id="token-2-5" morph="none" pos="word" start_char="110">News</TOKEN>
+<TOKEN end_char="114" id="token-2-6" morph="none" pos="punct" start_char="114">)</TOKEN>
+<TOKEN end_char="117" id="token-2-7" morph="none" pos="punct" start_char="116">--</TOKEN>
+<TOKEN end_char="123" id="token-2-8" morph="none" pos="word" start_char="119">Using</TOKEN>
+<TOKEN end_char="126" id="token-2-9" morph="none" pos="word" start_char="125">an</TOKEN>
+<TOKEN end_char="144" id="token-2-10" morph="none" pos="unknown" start_char="128">anti-inflammatory</TOKEN>
+<TOKEN end_char="153" id="token-2-11" morph="none" pos="word" start_char="146">medicine</TOKEN>
+<TOKEN end_char="159" id="token-2-12" morph="none" pos="word" start_char="155">along</TOKEN>
+<TOKEN end_char="164" id="token-2-13" morph="none" pos="word" start_char="161">with</TOKEN>
+<TOKEN end_char="168" id="token-2-14" morph="none" pos="word" start_char="166">the</TOKEN>
+<TOKEN end_char="178" id="token-2-15" morph="none" pos="word" start_char="170">antiviral</TOKEN>
+<TOKEN end_char="183" id="token-2-16" morph="none" pos="word" start_char="180">drug</TOKEN>
+<TOKEN end_char="194" id="token-2-17" morph="none" pos="word" start_char="185">remdesivir</TOKEN>
+<TOKEN end_char="202" id="token-2-18" morph="none" pos="word" start_char="196">appears</TOKEN>
+<TOKEN end_char="205" id="token-2-19" morph="none" pos="word" start_char="204">to</TOKEN>
+<TOKEN end_char="213" id="token-2-20" morph="none" pos="word" start_char="207">shorten</TOKEN>
+<TOKEN end_char="222" id="token-2-21" morph="none" pos="unknown" start_char="215">COVID-19</TOKEN>
+<TOKEN end_char="231" id="token-2-22" morph="none" pos="word" start_char="224">patients</TOKEN>
+<TOKEN end_char="232" id="token-2-23" morph="none" pos="punct" start_char="232">'</TOKEN>
+<TOKEN end_char="241" id="token-2-24" morph="none" pos="word" start_char="234">recovery</TOKEN>
+<TOKEN end_char="246" id="token-2-25" morph="none" pos="word" start_char="243">time</TOKEN>
+<TOKEN end_char="247" id="token-2-26" morph="none" pos="punct" start_char="247">,</TOKEN>
+<TOKEN end_char="257" id="token-2-27" morph="none" pos="word" start_char="249">according</TOKEN>
+<TOKEN end_char="260" id="token-2-28" morph="none" pos="word" start_char="259">to</TOKEN>
+<TOKEN end_char="265" id="token-2-29" morph="none" pos="word" start_char="262">drug</TOKEN>
+<TOKEN end_char="273" id="token-2-30" morph="none" pos="word" start_char="267">company</TOKEN>
+<TOKEN end_char="277" id="token-2-31" morph="none" pos="word" start_char="275">Eli</TOKEN>
+<TOKEN end_char="283" id="token-2-32" morph="none" pos="word" start_char="279">Lilly</TOKEN>
+<TOKEN end_char="284" id="token-2-33" morph="none" pos="punct" start_char="284">.</TOKEN>
+</SEG>
+<SEG end_char="401" id="segment-3" start_char="287">
+<ORIGINAL_TEXT>Remdesivir -- from Gilead Sciences -- has previously been shown to reduce recovery time to an average of four days.</ORIGINAL_TEXT>
+<TOKEN end_char="296" id="token-3-0" morph="none" pos="word" start_char="287">Remdesivir</TOKEN>
+<TOKEN end_char="299" id="token-3-1" morph="none" pos="punct" start_char="298">--</TOKEN>
+<TOKEN end_char="304" id="token-3-2" morph="none" pos="word" start_char="301">from</TOKEN>
+<TOKEN end_char="311" id="token-3-3" morph="none" pos="word" start_char="306">Gilead</TOKEN>
+<TOKEN end_char="320" id="token-3-4" morph="none" pos="word" start_char="313">Sciences</TOKEN>
+<TOKEN end_char="323" id="token-3-5" morph="none" pos="punct" start_char="322">--</TOKEN>
+<TOKEN end_char="327" id="token-3-6" morph="none" pos="word" start_char="325">has</TOKEN>
+<TOKEN end_char="338" id="token-3-7" morph="none" pos="word" start_char="329">previously</TOKEN>
+<TOKEN end_char="343" id="token-3-8" morph="none" pos="word" start_char="340">been</TOKEN>
+<TOKEN end_char="349" id="token-3-9" morph="none" pos="word" start_char="345">shown</TOKEN>
+<TOKEN end_char="352" id="token-3-10" morph="none" pos="word" start_char="351">to</TOKEN>
+<TOKEN end_char="359" id="token-3-11" morph="none" pos="word" start_char="354">reduce</TOKEN>
+<TOKEN end_char="368" id="token-3-12" morph="none" pos="word" start_char="361">recovery</TOKEN>
+<TOKEN end_char="373" id="token-3-13" morph="none" pos="word" start_char="370">time</TOKEN>
+<TOKEN end_char="376" id="token-3-14" morph="none" pos="word" start_char="375">to</TOKEN>
+<TOKEN end_char="379" id="token-3-15" morph="none" pos="word" start_char="378">an</TOKEN>
+<TOKEN end_char="387" id="token-3-16" morph="none" pos="word" start_char="381">average</TOKEN>
+<TOKEN end_char="390" id="token-3-17" morph="none" pos="word" start_char="389">of</TOKEN>
+<TOKEN end_char="395" id="token-3-18" morph="none" pos="word" start_char="392">four</TOKEN>
+<TOKEN end_char="400" id="token-3-19" morph="none" pos="word" start_char="397">days</TOKEN>
+<TOKEN end_char="401" id="token-3-20" morph="none" pos="punct" start_char="401">.</TOKEN>
+</SEG>
+<SEG end_char="613" id="segment-4" start_char="403">
+<ORIGINAL_TEXT>Patients who also received Lilly's anti-inflammatory drug baricitinib (sold as Olumiant to treat rheumatoid arthritis) recovered one day sooner than those who took remdesivir alone, according to the company, the</ORIGINAL_TEXT>
+<TOKEN end_char="410" id="token-4-0" morph="none" pos="word" start_char="403">Patients</TOKEN>
+<TOKEN end_char="414" id="token-4-1" morph="none" pos="word" start_char="412">who</TOKEN>
+<TOKEN end_char="419" id="token-4-2" morph="none" pos="word" start_char="416">also</TOKEN>
+<TOKEN end_char="428" id="token-4-3" morph="none" pos="word" start_char="421">received</TOKEN>
+<TOKEN end_char="436" id="token-4-4" morph="none" pos="word" start_char="430">Lilly's</TOKEN>
+<TOKEN end_char="454" id="token-4-5" morph="none" pos="unknown" start_char="438">anti-inflammatory</TOKEN>
+<TOKEN end_char="459" id="token-4-6" morph="none" pos="word" start_char="456">drug</TOKEN>
+<TOKEN end_char="471" id="token-4-7" morph="none" pos="word" start_char="461">baricitinib</TOKEN>
+<TOKEN end_char="473" id="token-4-8" morph="none" pos="punct" start_char="473">(</TOKEN>
+<TOKEN end_char="477" id="token-4-9" morph="none" pos="word" start_char="474">sold</TOKEN>
+<TOKEN end_char="480" id="token-4-10" morph="none" pos="word" start_char="479">as</TOKEN>
+<TOKEN end_char="489" id="token-4-11" morph="none" pos="word" start_char="482">Olumiant</TOKEN>
+<TOKEN end_char="492" id="token-4-12" morph="none" pos="word" start_char="491">to</TOKEN>
+<TOKEN end_char="498" id="token-4-13" morph="none" pos="word" start_char="494">treat</TOKEN>
+<TOKEN end_char="509" id="token-4-14" morph="none" pos="word" start_char="500">rheumatoid</TOKEN>
+<TOKEN end_char="519" id="token-4-15" morph="none" pos="word" start_char="511">arthritis</TOKEN>
+<TOKEN end_char="520" id="token-4-16" morph="none" pos="punct" start_char="520">)</TOKEN>
+<TOKEN end_char="530" id="token-4-17" morph="none" pos="word" start_char="522">recovered</TOKEN>
+<TOKEN end_char="534" id="token-4-18" morph="none" pos="word" start_char="532">one</TOKEN>
+<TOKEN end_char="538" id="token-4-19" morph="none" pos="word" start_char="536">day</TOKEN>
+<TOKEN end_char="545" id="token-4-20" morph="none" pos="word" start_char="540">sooner</TOKEN>
+<TOKEN end_char="550" id="token-4-21" morph="none" pos="word" start_char="547">than</TOKEN>
+<TOKEN end_char="556" id="token-4-22" morph="none" pos="word" start_char="552">those</TOKEN>
+<TOKEN end_char="560" id="token-4-23" morph="none" pos="word" start_char="558">who</TOKEN>
+<TOKEN end_char="565" id="token-4-24" morph="none" pos="word" start_char="562">took</TOKEN>
+<TOKEN end_char="576" id="token-4-25" morph="none" pos="word" start_char="567">remdesivir</TOKEN>
+<TOKEN end_char="582" id="token-4-26" morph="none" pos="word" start_char="578">alone</TOKEN>
+<TOKEN end_char="583" id="token-4-27" morph="none" pos="punct" start_char="583">,</TOKEN>
+<TOKEN end_char="593" id="token-4-28" morph="none" pos="word" start_char="585">according</TOKEN>
+<TOKEN end_char="596" id="token-4-29" morph="none" pos="word" start_char="595">to</TOKEN>
+<TOKEN end_char="600" id="token-4-30" morph="none" pos="word" start_char="598">the</TOKEN>
+<TOKEN end_char="608" id="token-4-31" morph="none" pos="word" start_char="602">company</TOKEN>
+<TOKEN end_char="609" id="token-4-32" morph="none" pos="punct" start_char="609">,</TOKEN>
+<TOKEN end_char="613" id="token-4-33" morph="none" pos="word" start_char="611">the</TOKEN>
+</SEG>
+<SEG end_char="631" id="segment-5" start_char="616">
+<ORIGINAL_TEXT>Associated Press</ORIGINAL_TEXT>
+<TOKEN end_char="625" id="token-5-0" morph="none" pos="word" start_char="616">Associated</TOKEN>
+<TOKEN end_char="631" id="token-5-1" morph="none" pos="word" start_char="627">Press</TOKEN>
+</SEG>
+<SEG end_char="642" id="segment-6" start_char="634">
+<ORIGINAL_TEXT>reported.</ORIGINAL_TEXT>
+<TOKEN end_char="641" id="token-6-0" morph="none" pos="word" start_char="634">reported</TOKEN>
+<TOKEN end_char="642" id="token-6-1" morph="none" pos="punct" start_char="642">.</TOKEN>
+</SEG>
+<SEG end_char="706" id="segment-7" start_char="644">
+<ORIGINAL_TEXT>Recovery is defined as being well enough to leave the hospital.</ORIGINAL_TEXT>
+<TOKEN end_char="651" id="token-7-0" morph="none" pos="word" start_char="644">Recovery</TOKEN>
+<TOKEN end_char="654" id="token-7-1" morph="none" pos="word" start_char="653">is</TOKEN>
+<TOKEN end_char="662" id="token-7-2" morph="none" pos="word" start_char="656">defined</TOKEN>
+<TOKEN end_char="665" id="token-7-3" morph="none" pos="word" start_char="664">as</TOKEN>
+<TOKEN end_char="671" id="token-7-4" morph="none" pos="word" start_char="667">being</TOKEN>
+<TOKEN end_char="676" id="token-7-5" morph="none" pos="word" start_char="673">well</TOKEN>
+<TOKEN end_char="683" id="token-7-6" morph="none" pos="word" start_char="678">enough</TOKEN>
+<TOKEN end_char="686" id="token-7-7" morph="none" pos="word" start_char="685">to</TOKEN>
+<TOKEN end_char="692" id="token-7-8" morph="none" pos="word" start_char="688">leave</TOKEN>
+<TOKEN end_char="696" id="token-7-9" morph="none" pos="word" start_char="694">the</TOKEN>
+<TOKEN end_char="705" id="token-7-10" morph="none" pos="word" start_char="698">hospital</TOKEN>
+<TOKEN end_char="706" id="token-7-11" morph="none" pos="punct" start_char="706">.</TOKEN>
+</SEG>
+<SEG end_char="848" id="segment-8" start_char="709">
+<ORIGINAL_TEXT>The findings from the 1,000-person study, sponsored by the U.S. National Institute of Allergy and Infectious Diseases, were released Monday.</ORIGINAL_TEXT>
+<TOKEN end_char="711" id="token-8-0" morph="none" pos="word" start_char="709">The</TOKEN>
+<TOKEN end_char="720" id="token-8-1" morph="none" pos="word" start_char="713">findings</TOKEN>
+<TOKEN end_char="725" id="token-8-2" morph="none" pos="word" start_char="722">from</TOKEN>
+<TOKEN end_char="729" id="token-8-3" morph="none" pos="word" start_char="727">the</TOKEN>
+<TOKEN end_char="742" id="token-8-4" morph="none" pos="unknown" start_char="731">1,000-person</TOKEN>
+<TOKEN end_char="748" id="token-8-5" morph="none" pos="word" start_char="744">study</TOKEN>
+<TOKEN end_char="749" id="token-8-6" morph="none" pos="punct" start_char="749">,</TOKEN>
+<TOKEN end_char="759" id="token-8-7" morph="none" pos="word" start_char="751">sponsored</TOKEN>
+<TOKEN end_char="762" id="token-8-8" morph="none" pos="word" start_char="761">by</TOKEN>
+<TOKEN end_char="766" id="token-8-9" morph="none" pos="word" start_char="764">the</TOKEN>
+<TOKEN end_char="770" id="token-8-10" morph="none" pos="unknown" start_char="768">U.S</TOKEN>
+<TOKEN end_char="771" id="token-8-11" morph="none" pos="punct" start_char="771">.</TOKEN>
+<TOKEN end_char="780" id="token-8-12" morph="none" pos="word" start_char="773">National</TOKEN>
+<TOKEN end_char="790" id="token-8-13" morph="none" pos="word" start_char="782">Institute</TOKEN>
+<TOKEN end_char="793" id="token-8-14" morph="none" pos="word" start_char="792">of</TOKEN>
+<TOKEN end_char="801" id="token-8-15" morph="none" pos="word" start_char="795">Allergy</TOKEN>
+<TOKEN end_char="805" id="token-8-16" morph="none" pos="word" start_char="803">and</TOKEN>
+<TOKEN end_char="816" id="token-8-17" morph="none" pos="word" start_char="807">Infectious</TOKEN>
+<TOKEN end_char="825" id="token-8-18" morph="none" pos="word" start_char="818">Diseases</TOKEN>
+<TOKEN end_char="826" id="token-8-19" morph="none" pos="punct" start_char="826">,</TOKEN>
+<TOKEN end_char="831" id="token-8-20" morph="none" pos="word" start_char="828">were</TOKEN>
+<TOKEN end_char="840" id="token-8-21" morph="none" pos="word" start_char="833">released</TOKEN>
+<TOKEN end_char="847" id="token-8-22" morph="none" pos="word" start_char="842">Monday</TOKEN>
+<TOKEN end_char="848" id="token-8-23" morph="none" pos="punct" start_char="848">.</TOKEN>
+</SEG>
+<SEG end_char="1005" id="segment-9" start_char="850">
+<ORIGINAL_TEXT>The study has not been published or reviewed by independent scientists, but U.S. health officials said Lilly's statement about the results was accurate, the</ORIGINAL_TEXT>
+<TOKEN end_char="852" id="token-9-0" morph="none" pos="word" start_char="850">The</TOKEN>
+<TOKEN end_char="858" id="token-9-1" morph="none" pos="word" start_char="854">study</TOKEN>
+<TOKEN end_char="862" id="token-9-2" morph="none" pos="word" start_char="860">has</TOKEN>
+<TOKEN end_char="866" id="token-9-3" morph="none" pos="word" start_char="864">not</TOKEN>
+<TOKEN end_char="871" id="token-9-4" morph="none" pos="word" start_char="868">been</TOKEN>
+<TOKEN end_char="881" id="token-9-5" morph="none" pos="word" start_char="873">published</TOKEN>
+<TOKEN end_char="884" id="token-9-6" morph="none" pos="word" start_char="883">or</TOKEN>
+<TOKEN end_char="893" id="token-9-7" morph="none" pos="word" start_char="886">reviewed</TOKEN>
+<TOKEN end_char="896" id="token-9-8" morph="none" pos="word" start_char="895">by</TOKEN>
+<TOKEN end_char="908" id="token-9-9" morph="none" pos="word" start_char="898">independent</TOKEN>
+<TOKEN end_char="919" id="token-9-10" morph="none" pos="word" start_char="910">scientists</TOKEN>
+<TOKEN end_char="920" id="token-9-11" morph="none" pos="punct" start_char="920">,</TOKEN>
+<TOKEN end_char="924" id="token-9-12" morph="none" pos="word" start_char="922">but</TOKEN>
+<TOKEN end_char="928" id="token-9-13" morph="none" pos="unknown" start_char="926">U.S</TOKEN>
+<TOKEN end_char="929" id="token-9-14" morph="none" pos="punct" start_char="929">.</TOKEN>
+<TOKEN end_char="936" id="token-9-15" morph="none" pos="word" start_char="931">health</TOKEN>
+<TOKEN end_char="946" id="token-9-16" morph="none" pos="word" start_char="938">officials</TOKEN>
+<TOKEN end_char="951" id="token-9-17" morph="none" pos="word" start_char="948">said</TOKEN>
+<TOKEN end_char="959" id="token-9-18" morph="none" pos="word" start_char="953">Lilly's</TOKEN>
+<TOKEN end_char="969" id="token-9-19" morph="none" pos="word" start_char="961">statement</TOKEN>
+<TOKEN end_char="975" id="token-9-20" morph="none" pos="word" start_char="971">about</TOKEN>
+<TOKEN end_char="979" id="token-9-21" morph="none" pos="word" start_char="977">the</TOKEN>
+<TOKEN end_char="987" id="token-9-22" morph="none" pos="word" start_char="981">results</TOKEN>
+<TOKEN end_char="991" id="token-9-23" morph="none" pos="word" start_char="989">was</TOKEN>
+<TOKEN end_char="1000" id="token-9-24" morph="none" pos="word" start_char="993">accurate</TOKEN>
+<TOKEN end_char="1001" id="token-9-25" morph="none" pos="punct" start_char="1001">,</TOKEN>
+<TOKEN end_char="1005" id="token-9-26" morph="none" pos="word" start_char="1003">the</TOKEN>
+</SEG>
+<SEG end_char="1009" id="segment-10" start_char="1008">
+<ORIGINAL_TEXT>AP</ORIGINAL_TEXT>
+<TOKEN end_char="1009" id="token-10-0" morph="none" pos="word" start_char="1008">AP</TOKEN>
+</SEG>
+<SEG end_char="1020" id="segment-11" start_char="1012">
+<ORIGINAL_TEXT>reported.</ORIGINAL_TEXT>
+<TOKEN end_char="1019" id="token-11-0" morph="none" pos="word" start_char="1012">reported</TOKEN>
+<TOKEN end_char="1020" id="token-11-1" morph="none" pos="punct" start_char="1020">.</TOKEN>
+</SEG>
+<SEG end_char="1150" id="segment-12" start_char="1023">
+<ORIGINAL_TEXT>The possible emergency use of baricitinib for hospitalized COVID-19 patients will be discussed with U.S. regulators, Lilly said.</ORIGINAL_TEXT>
+<TOKEN end_char="1025" id="token-12-0" morph="none" pos="word" start_char="1023">The</TOKEN>
+<TOKEN end_char="1034" id="token-12-1" morph="none" pos="word" start_char="1027">possible</TOKEN>
+<TOKEN end_char="1044" id="token-12-2" morph="none" pos="word" start_char="1036">emergency</TOKEN>
+<TOKEN end_char="1048" id="token-12-3" morph="none" pos="word" start_char="1046">use</TOKEN>
+<TOKEN end_char="1051" id="token-12-4" morph="none" pos="word" start_char="1050">of</TOKEN>
+<TOKEN end_char="1063" id="token-12-5" morph="none" pos="word" start_char="1053">baricitinib</TOKEN>
+<TOKEN end_char="1067" id="token-12-6" morph="none" pos="word" start_char="1065">for</TOKEN>
+<TOKEN end_char="1080" id="token-12-7" morph="none" pos="word" start_char="1069">hospitalized</TOKEN>
+<TOKEN end_char="1089" id="token-12-8" morph="none" pos="unknown" start_char="1082">COVID-19</TOKEN>
+<TOKEN end_char="1098" id="token-12-9" morph="none" pos="word" start_char="1091">patients</TOKEN>
+<TOKEN end_char="1103" id="token-12-10" morph="none" pos="word" start_char="1100">will</TOKEN>
+<TOKEN end_char="1106" id="token-12-11" morph="none" pos="word" start_char="1105">be</TOKEN>
+<TOKEN end_char="1116" id="token-12-12" morph="none" pos="word" start_char="1108">discussed</TOKEN>
+<TOKEN end_char="1121" id="token-12-13" morph="none" pos="word" start_char="1118">with</TOKEN>
+<TOKEN end_char="1125" id="token-12-14" morph="none" pos="unknown" start_char="1123">U.S</TOKEN>
+<TOKEN end_char="1126" id="token-12-15" morph="none" pos="punct" start_char="1126">.</TOKEN>
+<TOKEN end_char="1137" id="token-12-16" morph="none" pos="word" start_char="1128">regulators</TOKEN>
+<TOKEN end_char="1138" id="token-12-17" morph="none" pos="punct" start_char="1138">,</TOKEN>
+<TOKEN end_char="1144" id="token-12-18" morph="none" pos="word" start_char="1140">Lilly</TOKEN>
+<TOKEN end_char="1149" id="token-12-19" morph="none" pos="word" start_char="1146">said</TOKEN>
+<TOKEN end_char="1150" id="token-12-20" morph="none" pos="punct" start_char="1150">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

@@ -1,0 +1,529 @@
+<LCTL_TEXT lang="spa">
+<DOC grammar="none" id="L0C04CVH6" lang="spa" raw_text_char_length="2594" raw_text_md5="3cdde31e832cf1e7b10deb1ad3b995be" tokenization="tokenization_parameters.v5.0">
+<TEXT>
+<SEG end_char="12" id="segment-0" start_char="1">
+<ORIGINAL_TEXT>Florida Gov.</ORIGINAL_TEXT>
+<TOKEN end_char="7" id="token-0-0" morph="none" pos="word" start_char="1">Florida</TOKEN>
+<TOKEN end_char="11" id="token-0-1" morph="none" pos="word" start_char="9">Gov</TOKEN>
+<TOKEN end_char="12" id="token-0-2" morph="none" pos="punct" start_char="12">.</TOKEN>
+</SEG>
+<SEG end_char="107" id="segment-1" start_char="14">
+<ORIGINAL_TEXT>DeSantis suspends all remaining Covid restrictions: ‘We are no longer in a state of emergency’</ORIGINAL_TEXT>
+<TOKEN end_char="21" id="token-1-0" morph="none" pos="word" start_char="14">DeSantis</TOKEN>
+<TOKEN end_char="30" id="token-1-1" morph="none" pos="word" start_char="23">suspends</TOKEN>
+<TOKEN end_char="34" id="token-1-2" morph="none" pos="word" start_char="32">all</TOKEN>
+<TOKEN end_char="44" id="token-1-3" morph="none" pos="word" start_char="36">remaining</TOKEN>
+<TOKEN end_char="50" id="token-1-4" morph="none" pos="word" start_char="46">Covid</TOKEN>
+<TOKEN end_char="63" id="token-1-5" morph="none" pos="word" start_char="52">restrictions</TOKEN>
+<TOKEN end_char="64" id="token-1-6" morph="none" pos="punct" start_char="64">:</TOKEN>
+<TOKEN end_char="66" id="token-1-7" morph="none" pos="punct" start_char="66">‘</TOKEN>
+<TOKEN end_char="68" id="token-1-8" morph="none" pos="word" start_char="67">We</TOKEN>
+<TOKEN end_char="72" id="token-1-9" morph="none" pos="word" start_char="70">are</TOKEN>
+<TOKEN end_char="75" id="token-1-10" morph="none" pos="word" start_char="74">no</TOKEN>
+<TOKEN end_char="82" id="token-1-11" morph="none" pos="word" start_char="77">longer</TOKEN>
+<TOKEN end_char="85" id="token-1-12" morph="none" pos="word" start_char="84">in</TOKEN>
+<TOKEN end_char="87" id="token-1-13" morph="none" pos="word" start_char="87">a</TOKEN>
+<TOKEN end_char="93" id="token-1-14" morph="none" pos="word" start_char="89">state</TOKEN>
+<TOKEN end_char="96" id="token-1-15" morph="none" pos="word" start_char="95">of</TOKEN>
+<TOKEN end_char="106" id="token-1-16" morph="none" pos="word" start_char="98">emergency</TOKEN>
+<TOKEN end_char="107" id="token-1-17" morph="none" pos="punct" start_char="107">’</TOKEN>
+</SEG>
+<SEG end_char="120" id="segment-2" start_char="111">
+<ORIGINAL_TEXT>Key Points</ORIGINAL_TEXT>
+<TOKEN end_char="113" id="token-2-0" morph="none" pos="word" start_char="111">Key</TOKEN>
+<TOKEN end_char="120" id="token-2-1" morph="none" pos="word" start_char="115">Points</TOKEN>
+</SEG>
+<SEG end_char="134" id="segment-3" start_char="123">
+<ORIGINAL_TEXT>Florida Gov.</ORIGINAL_TEXT>
+<TOKEN end_char="129" id="token-3-0" morph="none" pos="word" start_char="123">Florida</TOKEN>
+<TOKEN end_char="133" id="token-3-1" morph="none" pos="word" start_char="131">Gov</TOKEN>
+<TOKEN end_char="134" id="token-3-2" morph="none" pos="punct" start_char="134">.</TOKEN>
+</SEG>
+<SEG end_char="268" id="segment-4" start_char="136">
+<ORIGINAL_TEXT>Ron DeSantis signed an executive order on Monday that immediately suspends the state’s remaining Covid-19 public health restrictions.</ORIGINAL_TEXT>
+<TOKEN end_char="138" id="token-4-0" morph="none" pos="word" start_char="136">Ron</TOKEN>
+<TOKEN end_char="147" id="token-4-1" morph="none" pos="word" start_char="140">DeSantis</TOKEN>
+<TOKEN end_char="154" id="token-4-2" morph="none" pos="word" start_char="149">signed</TOKEN>
+<TOKEN end_char="157" id="token-4-3" morph="none" pos="word" start_char="156">an</TOKEN>
+<TOKEN end_char="167" id="token-4-4" morph="none" pos="word" start_char="159">executive</TOKEN>
+<TOKEN end_char="173" id="token-4-5" morph="none" pos="word" start_char="169">order</TOKEN>
+<TOKEN end_char="176" id="token-4-6" morph="none" pos="word" start_char="175">on</TOKEN>
+<TOKEN end_char="183" id="token-4-7" morph="none" pos="word" start_char="178">Monday</TOKEN>
+<TOKEN end_char="188" id="token-4-8" morph="none" pos="word" start_char="185">that</TOKEN>
+<TOKEN end_char="200" id="token-4-9" morph="none" pos="word" start_char="190">immediately</TOKEN>
+<TOKEN end_char="209" id="token-4-10" morph="none" pos="word" start_char="202">suspends</TOKEN>
+<TOKEN end_char="213" id="token-4-11" morph="none" pos="word" start_char="211">the</TOKEN>
+<TOKEN end_char="221" id="token-4-12" morph="none" pos="word" start_char="215">state’s</TOKEN>
+<TOKEN end_char="231" id="token-4-13" morph="none" pos="word" start_char="223">remaining</TOKEN>
+<TOKEN end_char="240" id="token-4-14" morph="none" pos="unknown" start_char="233">Covid-19</TOKEN>
+<TOKEN end_char="247" id="token-4-15" morph="none" pos="word" start_char="242">public</TOKEN>
+<TOKEN end_char="254" id="token-4-16" morph="none" pos="word" start_char="249">health</TOKEN>
+<TOKEN end_char="267" id="token-4-17" morph="none" pos="word" start_char="256">restrictions</TOKEN>
+<TOKEN end_char="268" id="token-4-18" morph="none" pos="punct" start_char="268">.</TOKEN>
+</SEG>
+<SEG end_char="361" id="segment-5" start_char="271">
+<ORIGINAL_TEXT>"I think that’s the evidence-based thing to do," DeSantis said at a Monday news conference.</ORIGINAL_TEXT>
+<TOKEN end_char="271" id="token-5-0" morph="none" pos="punct" start_char="271">"</TOKEN>
+<TOKEN end_char="272" id="token-5-1" morph="none" pos="word" start_char="272">I</TOKEN>
+<TOKEN end_char="278" id="token-5-2" morph="none" pos="word" start_char="274">think</TOKEN>
+<TOKEN end_char="285" id="token-5-3" morph="none" pos="word" start_char="280">that’s</TOKEN>
+<TOKEN end_char="289" id="token-5-4" morph="none" pos="word" start_char="287">the</TOKEN>
+<TOKEN end_char="304" id="token-5-5" morph="none" pos="unknown" start_char="291">evidence-based</TOKEN>
+<TOKEN end_char="310" id="token-5-6" morph="none" pos="word" start_char="306">thing</TOKEN>
+<TOKEN end_char="313" id="token-5-7" morph="none" pos="word" start_char="312">to</TOKEN>
+<TOKEN end_char="316" id="token-5-8" morph="none" pos="word" start_char="315">do</TOKEN>
+<TOKEN end_char="318" id="token-5-9" morph="none" pos="punct" start_char="317">,"</TOKEN>
+<TOKEN end_char="327" id="token-5-10" morph="none" pos="word" start_char="320">DeSantis</TOKEN>
+<TOKEN end_char="332" id="token-5-11" morph="none" pos="word" start_char="329">said</TOKEN>
+<TOKEN end_char="335" id="token-5-12" morph="none" pos="word" start_char="334">at</TOKEN>
+<TOKEN end_char="337" id="token-5-13" morph="none" pos="word" start_char="337">a</TOKEN>
+<TOKEN end_char="344" id="token-5-14" morph="none" pos="word" start_char="339">Monday</TOKEN>
+<TOKEN end_char="349" id="token-5-15" morph="none" pos="word" start_char="346">news</TOKEN>
+<TOKEN end_char="360" id="token-5-16" morph="none" pos="word" start_char="351">conference</TOKEN>
+<TOKEN end_char="361" id="token-5-17" morph="none" pos="punct" start_char="361">.</TOKEN>
+</SEG>
+<SEG end_char="466" id="segment-6" start_char="364">
+<ORIGINAL_TEXT>Private businesses can still require masks and enforce social distancing and other protective measures.</ORIGINAL_TEXT>
+<TOKEN end_char="370" id="token-6-0" morph="none" pos="word" start_char="364">Private</TOKEN>
+<TOKEN end_char="381" id="token-6-1" morph="none" pos="word" start_char="372">businesses</TOKEN>
+<TOKEN end_char="385" id="token-6-2" morph="none" pos="word" start_char="383">can</TOKEN>
+<TOKEN end_char="391" id="token-6-3" morph="none" pos="word" start_char="387">still</TOKEN>
+<TOKEN end_char="399" id="token-6-4" morph="none" pos="word" start_char="393">require</TOKEN>
+<TOKEN end_char="405" id="token-6-5" morph="none" pos="word" start_char="401">masks</TOKEN>
+<TOKEN end_char="409" id="token-6-6" morph="none" pos="word" start_char="407">and</TOKEN>
+<TOKEN end_char="417" id="token-6-7" morph="none" pos="word" start_char="411">enforce</TOKEN>
+<TOKEN end_char="424" id="token-6-8" morph="none" pos="word" start_char="419">social</TOKEN>
+<TOKEN end_char="435" id="token-6-9" morph="none" pos="word" start_char="426">distancing</TOKEN>
+<TOKEN end_char="439" id="token-6-10" morph="none" pos="word" start_char="437">and</TOKEN>
+<TOKEN end_char="445" id="token-6-11" morph="none" pos="word" start_char="441">other</TOKEN>
+<TOKEN end_char="456" id="token-6-12" morph="none" pos="word" start_char="447">protective</TOKEN>
+<TOKEN end_char="465" id="token-6-13" morph="none" pos="word" start_char="458">measures</TOKEN>
+<TOKEN end_char="466" id="token-6-14" morph="none" pos="punct" start_char="466">.</TOKEN>
+</SEG>
+<SEG end_char="481" id="segment-7" start_char="470">
+<ORIGINAL_TEXT>Florida Gov.</ORIGINAL_TEXT>
+<TOKEN end_char="476" id="token-7-0" morph="none" pos="word" start_char="470">Florida</TOKEN>
+<TOKEN end_char="480" id="token-7-1" morph="none" pos="word" start_char="478">Gov</TOKEN>
+<TOKEN end_char="481" id="token-7-2" morph="none" pos="punct" start_char="481">.</TOKEN>
+</SEG>
+<SEG end_char="660" id="segment-8" start_char="483">
+<ORIGINAL_TEXT>Ron DeSantis speaks holding his facemask during a press conference to address the rise of coronavirus cases in the state, at Jackson Memorial Hospital in Miami, on July 13, 2020.</ORIGINAL_TEXT>
+<TOKEN end_char="485" id="token-8-0" morph="none" pos="word" start_char="483">Ron</TOKEN>
+<TOKEN end_char="494" id="token-8-1" morph="none" pos="word" start_char="487">DeSantis</TOKEN>
+<TOKEN end_char="501" id="token-8-2" morph="none" pos="word" start_char="496">speaks</TOKEN>
+<TOKEN end_char="509" id="token-8-3" morph="none" pos="word" start_char="503">holding</TOKEN>
+<TOKEN end_char="513" id="token-8-4" morph="none" pos="word" start_char="511">his</TOKEN>
+<TOKEN end_char="522" id="token-8-5" morph="none" pos="word" start_char="515">facemask</TOKEN>
+<TOKEN end_char="529" id="token-8-6" morph="none" pos="word" start_char="524">during</TOKEN>
+<TOKEN end_char="531" id="token-8-7" morph="none" pos="word" start_char="531">a</TOKEN>
+<TOKEN end_char="537" id="token-8-8" morph="none" pos="word" start_char="533">press</TOKEN>
+<TOKEN end_char="548" id="token-8-9" morph="none" pos="word" start_char="539">conference</TOKEN>
+<TOKEN end_char="551" id="token-8-10" morph="none" pos="word" start_char="550">to</TOKEN>
+<TOKEN end_char="559" id="token-8-11" morph="none" pos="word" start_char="553">address</TOKEN>
+<TOKEN end_char="563" id="token-8-12" morph="none" pos="word" start_char="561">the</TOKEN>
+<TOKEN end_char="568" id="token-8-13" morph="none" pos="word" start_char="565">rise</TOKEN>
+<TOKEN end_char="571" id="token-8-14" morph="none" pos="word" start_char="570">of</TOKEN>
+<TOKEN end_char="583" id="token-8-15" morph="none" pos="word" start_char="573">coronavirus</TOKEN>
+<TOKEN end_char="589" id="token-8-16" morph="none" pos="word" start_char="585">cases</TOKEN>
+<TOKEN end_char="592" id="token-8-17" morph="none" pos="word" start_char="591">in</TOKEN>
+<TOKEN end_char="596" id="token-8-18" morph="none" pos="word" start_char="594">the</TOKEN>
+<TOKEN end_char="602" id="token-8-19" morph="none" pos="word" start_char="598">state</TOKEN>
+<TOKEN end_char="603" id="token-8-20" morph="none" pos="punct" start_char="603">,</TOKEN>
+<TOKEN end_char="606" id="token-8-21" morph="none" pos="word" start_char="605">at</TOKEN>
+<TOKEN end_char="614" id="token-8-22" morph="none" pos="word" start_char="608">Jackson</TOKEN>
+<TOKEN end_char="623" id="token-8-23" morph="none" pos="word" start_char="616">Memorial</TOKEN>
+<TOKEN end_char="632" id="token-8-24" morph="none" pos="word" start_char="625">Hospital</TOKEN>
+<TOKEN end_char="635" id="token-8-25" morph="none" pos="word" start_char="634">in</TOKEN>
+<TOKEN end_char="641" id="token-8-26" morph="none" pos="word" start_char="637">Miami</TOKEN>
+<TOKEN end_char="642" id="token-8-27" morph="none" pos="punct" start_char="642">,</TOKEN>
+<TOKEN end_char="645" id="token-8-28" morph="none" pos="word" start_char="644">on</TOKEN>
+<TOKEN end_char="650" id="token-8-29" morph="none" pos="word" start_char="647">July</TOKEN>
+<TOKEN end_char="653" id="token-8-30" morph="none" pos="word" start_char="652">13</TOKEN>
+<TOKEN end_char="654" id="token-8-31" morph="none" pos="punct" start_char="654">,</TOKEN>
+<TOKEN end_char="659" id="token-8-32" morph="none" pos="word" start_char="656">2020</TOKEN>
+<TOKEN end_char="660" id="token-8-33" morph="none" pos="punct" start_char="660">.</TOKEN>
+</SEG>
+<SEG end_char="688" id="segment-9" start_char="664">
+<ORIGINAL_TEXT>WASHINGTON — Florida Gov.</ORIGINAL_TEXT>
+<TOKEN end_char="673" id="token-9-0" morph="none" pos="word" start_char="664">WASHINGTON</TOKEN>
+<TOKEN end_char="675" id="token-9-1" morph="none" pos="punct" start_char="675">—</TOKEN>
+<TOKEN end_char="683" id="token-9-2" morph="none" pos="word" start_char="677">Florida</TOKEN>
+<TOKEN end_char="687" id="token-9-3" morph="none" pos="word" start_char="685">Gov</TOKEN>
+<TOKEN end_char="688" id="token-9-4" morph="none" pos="punct" start_char="688">.</TOKEN>
+<TRANSLATED_TEXT>WASHINGTON, DC - Florida Gov.</TRANSLATED_TEXT><DETECTED_LANGUAGE>pt</DETECTED_LANGUAGE></SEG>
+<SEG end_char="848" id="segment-10" start_char="690">
+<ORIGINAL_TEXT>Ron DeSantis signed an executive order Monday that immediately suspends all outstanding local Covid-19 emergency orders and related public health restrictions.</ORIGINAL_TEXT>
+<TOKEN end_char="692" id="token-10-0" morph="none" pos="word" start_char="690">Ron</TOKEN>
+<TOKEN end_char="701" id="token-10-1" morph="none" pos="word" start_char="694">DeSantis</TOKEN>
+<TOKEN end_char="708" id="token-10-2" morph="none" pos="word" start_char="703">signed</TOKEN>
+<TOKEN end_char="711" id="token-10-3" morph="none" pos="word" start_char="710">an</TOKEN>
+<TOKEN end_char="721" id="token-10-4" morph="none" pos="word" start_char="713">executive</TOKEN>
+<TOKEN end_char="727" id="token-10-5" morph="none" pos="word" start_char="723">order</TOKEN>
+<TOKEN end_char="734" id="token-10-6" morph="none" pos="word" start_char="729">Monday</TOKEN>
+<TOKEN end_char="739" id="token-10-7" morph="none" pos="word" start_char="736">that</TOKEN>
+<TOKEN end_char="751" id="token-10-8" morph="none" pos="word" start_char="741">immediately</TOKEN>
+<TOKEN end_char="760" id="token-10-9" morph="none" pos="word" start_char="753">suspends</TOKEN>
+<TOKEN end_char="764" id="token-10-10" morph="none" pos="word" start_char="762">all</TOKEN>
+<TOKEN end_char="776" id="token-10-11" morph="none" pos="word" start_char="766">outstanding</TOKEN>
+<TOKEN end_char="782" id="token-10-12" morph="none" pos="word" start_char="778">local</TOKEN>
+<TOKEN end_char="791" id="token-10-13" morph="none" pos="unknown" start_char="784">Covid-19</TOKEN>
+<TOKEN end_char="801" id="token-10-14" morph="none" pos="word" start_char="793">emergency</TOKEN>
+<TOKEN end_char="808" id="token-10-15" morph="none" pos="word" start_char="803">orders</TOKEN>
+<TOKEN end_char="812" id="token-10-16" morph="none" pos="word" start_char="810">and</TOKEN>
+<TOKEN end_char="820" id="token-10-17" morph="none" pos="word" start_char="814">related</TOKEN>
+<TOKEN end_char="827" id="token-10-18" morph="none" pos="word" start_char="822">public</TOKEN>
+<TOKEN end_char="834" id="token-10-19" morph="none" pos="word" start_char="829">health</TOKEN>
+<TOKEN end_char="847" id="token-10-20" morph="none" pos="word" start_char="836">restrictions</TOKEN>
+<TOKEN end_char="848" id="token-10-21" morph="none" pos="punct" start_char="848">.</TOKEN>
+</SEG>
+<SEG end_char="946" id="segment-11" start_char="851">
+<ORIGINAL_TEXT>"The fact is, we are no longer in a state of emergency," DeSantis said during a news conference.</ORIGINAL_TEXT>
+<TOKEN end_char="851" id="token-11-0" morph="none" pos="punct" start_char="851">"</TOKEN>
+<TOKEN end_char="854" id="token-11-1" morph="none" pos="word" start_char="852">The</TOKEN>
+<TOKEN end_char="859" id="token-11-2" morph="none" pos="word" start_char="856">fact</TOKEN>
+<TOKEN end_char="862" id="token-11-3" morph="none" pos="word" start_char="861">is</TOKEN>
+<TOKEN end_char="863" id="token-11-4" morph="none" pos="punct" start_char="863">,</TOKEN>
+<TOKEN end_char="866" id="token-11-5" morph="none" pos="word" start_char="865">we</TOKEN>
+<TOKEN end_char="870" id="token-11-6" morph="none" pos="word" start_char="868">are</TOKEN>
+<TOKEN end_char="873" id="token-11-7" morph="none" pos="word" start_char="872">no</TOKEN>
+<TOKEN end_char="880" id="token-11-8" morph="none" pos="word" start_char="875">longer</TOKEN>
+<TOKEN end_char="883" id="token-11-9" morph="none" pos="word" start_char="882">in</TOKEN>
+<TOKEN end_char="885" id="token-11-10" morph="none" pos="word" start_char="885">a</TOKEN>
+<TOKEN end_char="891" id="token-11-11" morph="none" pos="word" start_char="887">state</TOKEN>
+<TOKEN end_char="894" id="token-11-12" morph="none" pos="word" start_char="893">of</TOKEN>
+<TOKEN end_char="904" id="token-11-13" morph="none" pos="word" start_char="896">emergency</TOKEN>
+<TOKEN end_char="906" id="token-11-14" morph="none" pos="punct" start_char="905">,"</TOKEN>
+<TOKEN end_char="915" id="token-11-15" morph="none" pos="word" start_char="908">DeSantis</TOKEN>
+<TOKEN end_char="920" id="token-11-16" morph="none" pos="word" start_char="917">said</TOKEN>
+<TOKEN end_char="927" id="token-11-17" morph="none" pos="word" start_char="922">during</TOKEN>
+<TOKEN end_char="929" id="token-11-18" morph="none" pos="word" start_char="929">a</TOKEN>
+<TOKEN end_char="934" id="token-11-19" morph="none" pos="word" start_char="931">news</TOKEN>
+<TOKEN end_char="945" id="token-11-20" morph="none" pos="word" start_char="936">conference</TOKEN>
+<TOKEN end_char="946" id="token-11-21" morph="none" pos="punct" start_char="946">.</TOKEN>
+</SEG>
+<SEG end_char="1099" id="segment-12" start_char="948">
+<ORIGINAL_TEXT>He acknowledged that Florida was still not done with its fight against the coronavirus but reiterated the nation’s decline in Covid-19 cases and deaths.</ORIGINAL_TEXT>
+<TOKEN end_char="949" id="token-12-0" morph="none" pos="word" start_char="948">He</TOKEN>
+<TOKEN end_char="962" id="token-12-1" morph="none" pos="word" start_char="951">acknowledged</TOKEN>
+<TOKEN end_char="967" id="token-12-2" morph="none" pos="word" start_char="964">that</TOKEN>
+<TOKEN end_char="975" id="token-12-3" morph="none" pos="word" start_char="969">Florida</TOKEN>
+<TOKEN end_char="979" id="token-12-4" morph="none" pos="word" start_char="977">was</TOKEN>
+<TOKEN end_char="985" id="token-12-5" morph="none" pos="word" start_char="981">still</TOKEN>
+<TOKEN end_char="989" id="token-12-6" morph="none" pos="word" start_char="987">not</TOKEN>
+<TOKEN end_char="994" id="token-12-7" morph="none" pos="word" start_char="991">done</TOKEN>
+<TOKEN end_char="999" id="token-12-8" morph="none" pos="word" start_char="996">with</TOKEN>
+<TOKEN end_char="1003" id="token-12-9" morph="none" pos="word" start_char="1001">its</TOKEN>
+<TOKEN end_char="1009" id="token-12-10" morph="none" pos="word" start_char="1005">fight</TOKEN>
+<TOKEN end_char="1017" id="token-12-11" morph="none" pos="word" start_char="1011">against</TOKEN>
+<TOKEN end_char="1021" id="token-12-12" morph="none" pos="word" start_char="1019">the</TOKEN>
+<TOKEN end_char="1033" id="token-12-13" morph="none" pos="word" start_char="1023">coronavirus</TOKEN>
+<TOKEN end_char="1037" id="token-12-14" morph="none" pos="word" start_char="1035">but</TOKEN>
+<TOKEN end_char="1048" id="token-12-15" morph="none" pos="word" start_char="1039">reiterated</TOKEN>
+<TOKEN end_char="1052" id="token-12-16" morph="none" pos="word" start_char="1050">the</TOKEN>
+<TOKEN end_char="1061" id="token-12-17" morph="none" pos="word" start_char="1054">nation’s</TOKEN>
+<TOKEN end_char="1069" id="token-12-18" morph="none" pos="word" start_char="1063">decline</TOKEN>
+<TOKEN end_char="1072" id="token-12-19" morph="none" pos="word" start_char="1071">in</TOKEN>
+<TOKEN end_char="1081" id="token-12-20" morph="none" pos="unknown" start_char="1074">Covid-19</TOKEN>
+<TOKEN end_char="1087" id="token-12-21" morph="none" pos="word" start_char="1083">cases</TOKEN>
+<TOKEN end_char="1091" id="token-12-22" morph="none" pos="word" start_char="1089">and</TOKEN>
+<TOKEN end_char="1098" id="token-12-23" morph="none" pos="word" start_char="1093">deaths</TOKEN>
+<TOKEN end_char="1099" id="token-12-24" morph="none" pos="punct" start_char="1099">.</TOKEN>
+</SEG>
+<SEG end_char="1288" id="segment-13" start_char="1102">
+<ORIGINAL_TEXT>"I think that’s the evidence-based thing to do," DeSantis said, adding that asking vaccinated individuals to continue to wear masks would undermine confidence in the coronavirus vaccines.</ORIGINAL_TEXT>
+<TOKEN end_char="1102" id="token-13-0" morph="none" pos="punct" start_char="1102">"</TOKEN>
+<TOKEN end_char="1103" id="token-13-1" morph="none" pos="word" start_char="1103">I</TOKEN>
+<TOKEN end_char="1109" id="token-13-2" morph="none" pos="word" start_char="1105">think</TOKEN>
+<TOKEN end_char="1116" id="token-13-3" morph="none" pos="word" start_char="1111">that’s</TOKEN>
+<TOKEN end_char="1120" id="token-13-4" morph="none" pos="word" start_char="1118">the</TOKEN>
+<TOKEN end_char="1135" id="token-13-5" morph="none" pos="unknown" start_char="1122">evidence-based</TOKEN>
+<TOKEN end_char="1141" id="token-13-6" morph="none" pos="word" start_char="1137">thing</TOKEN>
+<TOKEN end_char="1144" id="token-13-7" morph="none" pos="word" start_char="1143">to</TOKEN>
+<TOKEN end_char="1147" id="token-13-8" morph="none" pos="word" start_char="1146">do</TOKEN>
+<TOKEN end_char="1149" id="token-13-9" morph="none" pos="punct" start_char="1148">,"</TOKEN>
+<TOKEN end_char="1158" id="token-13-10" morph="none" pos="word" start_char="1151">DeSantis</TOKEN>
+<TOKEN end_char="1163" id="token-13-11" morph="none" pos="word" start_char="1160">said</TOKEN>
+<TOKEN end_char="1164" id="token-13-12" morph="none" pos="punct" start_char="1164">,</TOKEN>
+<TOKEN end_char="1171" id="token-13-13" morph="none" pos="word" start_char="1166">adding</TOKEN>
+<TOKEN end_char="1176" id="token-13-14" morph="none" pos="word" start_char="1173">that</TOKEN>
+<TOKEN end_char="1183" id="token-13-15" morph="none" pos="word" start_char="1178">asking</TOKEN>
+<TOKEN end_char="1194" id="token-13-16" morph="none" pos="word" start_char="1185">vaccinated</TOKEN>
+<TOKEN end_char="1206" id="token-13-17" morph="none" pos="word" start_char="1196">individuals</TOKEN>
+<TOKEN end_char="1209" id="token-13-18" morph="none" pos="word" start_char="1208">to</TOKEN>
+<TOKEN end_char="1218" id="token-13-19" morph="none" pos="word" start_char="1211">continue</TOKEN>
+<TOKEN end_char="1221" id="token-13-20" morph="none" pos="word" start_char="1220">to</TOKEN>
+<TOKEN end_char="1226" id="token-13-21" morph="none" pos="word" start_char="1223">wear</TOKEN>
+<TOKEN end_char="1232" id="token-13-22" morph="none" pos="word" start_char="1228">masks</TOKEN>
+<TOKEN end_char="1238" id="token-13-23" morph="none" pos="word" start_char="1234">would</TOKEN>
+<TOKEN end_char="1248" id="token-13-24" morph="none" pos="word" start_char="1240">undermine</TOKEN>
+<TOKEN end_char="1259" id="token-13-25" morph="none" pos="word" start_char="1250">confidence</TOKEN>
+<TOKEN end_char="1262" id="token-13-26" morph="none" pos="word" start_char="1261">in</TOKEN>
+<TOKEN end_char="1266" id="token-13-27" morph="none" pos="word" start_char="1264">the</TOKEN>
+<TOKEN end_char="1278" id="token-13-28" morph="none" pos="word" start_char="1268">coronavirus</TOKEN>
+<TOKEN end_char="1287" id="token-13-29" morph="none" pos="word" start_char="1280">vaccines</TOKEN>
+<TOKEN end_char="1288" id="token-13-30" morph="none" pos="punct" start_char="1288">.</TOKEN>
+</SEG>
+<SEG end_char="1393" id="segment-14" start_char="1291">
+<ORIGINAL_TEXT>Private businesses can still require masks and enforce social distancing and other protective measures.</ORIGINAL_TEXT>
+<TOKEN end_char="1297" id="token-14-0" morph="none" pos="word" start_char="1291">Private</TOKEN>
+<TOKEN end_char="1308" id="token-14-1" morph="none" pos="word" start_char="1299">businesses</TOKEN>
+<TOKEN end_char="1312" id="token-14-2" morph="none" pos="word" start_char="1310">can</TOKEN>
+<TOKEN end_char="1318" id="token-14-3" morph="none" pos="word" start_char="1314">still</TOKEN>
+<TOKEN end_char="1326" id="token-14-4" morph="none" pos="word" start_char="1320">require</TOKEN>
+<TOKEN end_char="1332" id="token-14-5" morph="none" pos="word" start_char="1328">masks</TOKEN>
+<TOKEN end_char="1336" id="token-14-6" morph="none" pos="word" start_char="1334">and</TOKEN>
+<TOKEN end_char="1344" id="token-14-7" morph="none" pos="word" start_char="1338">enforce</TOKEN>
+<TOKEN end_char="1351" id="token-14-8" morph="none" pos="word" start_char="1346">social</TOKEN>
+<TOKEN end_char="1362" id="token-14-9" morph="none" pos="word" start_char="1353">distancing</TOKEN>
+<TOKEN end_char="1366" id="token-14-10" morph="none" pos="word" start_char="1364">and</TOKEN>
+<TOKEN end_char="1372" id="token-14-11" morph="none" pos="word" start_char="1368">other</TOKEN>
+<TOKEN end_char="1383" id="token-14-12" morph="none" pos="word" start_char="1374">protective</TOKEN>
+<TOKEN end_char="1392" id="token-14-13" morph="none" pos="word" start_char="1385">measures</TOKEN>
+<TOKEN end_char="1393" id="token-14-14" morph="none" pos="punct" start_char="1393">.</TOKEN>
+</SEG>
+<SEG end_char="1486" id="segment-15" start_char="1396">
+<ORIGINAL_TEXT>DeSantis signed a bill Monday that codifies the executive order into law, effective July 1.</ORIGINAL_TEXT>
+<TOKEN end_char="1403" id="token-15-0" morph="none" pos="word" start_char="1396">DeSantis</TOKEN>
+<TOKEN end_char="1410" id="token-15-1" morph="none" pos="word" start_char="1405">signed</TOKEN>
+<TOKEN end_char="1412" id="token-15-2" morph="none" pos="word" start_char="1412">a</TOKEN>
+<TOKEN end_char="1417" id="token-15-3" morph="none" pos="word" start_char="1414">bill</TOKEN>
+<TOKEN end_char="1424" id="token-15-4" morph="none" pos="word" start_char="1419">Monday</TOKEN>
+<TOKEN end_char="1429" id="token-15-5" morph="none" pos="word" start_char="1426">that</TOKEN>
+<TOKEN end_char="1438" id="token-15-6" morph="none" pos="word" start_char="1431">codifies</TOKEN>
+<TOKEN end_char="1442" id="token-15-7" morph="none" pos="word" start_char="1440">the</TOKEN>
+<TOKEN end_char="1452" id="token-15-8" morph="none" pos="word" start_char="1444">executive</TOKEN>
+<TOKEN end_char="1458" id="token-15-9" morph="none" pos="word" start_char="1454">order</TOKEN>
+<TOKEN end_char="1463" id="token-15-10" morph="none" pos="word" start_char="1460">into</TOKEN>
+<TOKEN end_char="1467" id="token-15-11" morph="none" pos="word" start_char="1465">law</TOKEN>
+<TOKEN end_char="1468" id="token-15-12" morph="none" pos="punct" start_char="1468">,</TOKEN>
+<TOKEN end_char="1478" id="token-15-13" morph="none" pos="word" start_char="1470">effective</TOKEN>
+<TOKEN end_char="1483" id="token-15-14" morph="none" pos="word" start_char="1480">July</TOKEN>
+<TOKEN end_char="1485" id="token-15-15" morph="none" pos="word" start_char="1485">1</TOKEN>
+<TOKEN end_char="1486" id="token-15-16" morph="none" pos="punct" start_char="1486">.</TOKEN>
+</SEG>
+<SEG end_char="1561" id="segment-16" start_char="1488">
+<ORIGINAL_TEXT>The executive order, he said, was designed to "bridge the gap" until then.</ORIGINAL_TEXT>
+<TOKEN end_char="1490" id="token-16-0" morph="none" pos="word" start_char="1488">The</TOKEN>
+<TOKEN end_char="1500" id="token-16-1" morph="none" pos="word" start_char="1492">executive</TOKEN>
+<TOKEN end_char="1506" id="token-16-2" morph="none" pos="word" start_char="1502">order</TOKEN>
+<TOKEN end_char="1507" id="token-16-3" morph="none" pos="punct" start_char="1507">,</TOKEN>
+<TOKEN end_char="1510" id="token-16-4" morph="none" pos="word" start_char="1509">he</TOKEN>
+<TOKEN end_char="1515" id="token-16-5" morph="none" pos="word" start_char="1512">said</TOKEN>
+<TOKEN end_char="1516" id="token-16-6" morph="none" pos="punct" start_char="1516">,</TOKEN>
+<TOKEN end_char="1520" id="token-16-7" morph="none" pos="word" start_char="1518">was</TOKEN>
+<TOKEN end_char="1529" id="token-16-8" morph="none" pos="word" start_char="1522">designed</TOKEN>
+<TOKEN end_char="1532" id="token-16-9" morph="none" pos="word" start_char="1531">to</TOKEN>
+<TOKEN end_char="1534" id="token-16-10" morph="none" pos="punct" start_char="1534">"</TOKEN>
+<TOKEN end_char="1540" id="token-16-11" morph="none" pos="word" start_char="1535">bridge</TOKEN>
+<TOKEN end_char="1544" id="token-16-12" morph="none" pos="word" start_char="1542">the</TOKEN>
+<TOKEN end_char="1548" id="token-16-13" morph="none" pos="word" start_char="1546">gap</TOKEN>
+<TOKEN end_char="1549" id="token-16-14" morph="none" pos="punct" start_char="1549">"</TOKEN>
+<TOKEN end_char="1555" id="token-16-15" morph="none" pos="word" start_char="1551">until</TOKEN>
+<TOKEN end_char="1560" id="token-16-16" morph="none" pos="word" start_char="1557">then</TOKEN>
+<TOKEN end_char="1561" id="token-16-17" morph="none" pos="punct" start_char="1561">.</TOKEN>
+</SEG>
+<SEG end_char="1667" id="segment-17" start_char="1563">
+<ORIGINAL_TEXT>The measure, which effectively ends all local pandemic-related restrictions, also bans vaccine passports.</ORIGINAL_TEXT>
+<TOKEN end_char="1565" id="token-17-0" morph="none" pos="word" start_char="1563">The</TOKEN>
+<TOKEN end_char="1573" id="token-17-1" morph="none" pos="word" start_char="1567">measure</TOKEN>
+<TOKEN end_char="1574" id="token-17-2" morph="none" pos="punct" start_char="1574">,</TOKEN>
+<TOKEN end_char="1580" id="token-17-3" morph="none" pos="word" start_char="1576">which</TOKEN>
+<TOKEN end_char="1592" id="token-17-4" morph="none" pos="word" start_char="1582">effectively</TOKEN>
+<TOKEN end_char="1597" id="token-17-5" morph="none" pos="word" start_char="1594">ends</TOKEN>
+<TOKEN end_char="1601" id="token-17-6" morph="none" pos="word" start_char="1599">all</TOKEN>
+<TOKEN end_char="1607" id="token-17-7" morph="none" pos="word" start_char="1603">local</TOKEN>
+<TOKEN end_char="1624" id="token-17-8" morph="none" pos="unknown" start_char="1609">pandemic-related</TOKEN>
+<TOKEN end_char="1637" id="token-17-9" morph="none" pos="word" start_char="1626">restrictions</TOKEN>
+<TOKEN end_char="1638" id="token-17-10" morph="none" pos="punct" start_char="1638">,</TOKEN>
+<TOKEN end_char="1643" id="token-17-11" morph="none" pos="word" start_char="1640">also</TOKEN>
+<TOKEN end_char="1648" id="token-17-12" morph="none" pos="word" start_char="1645">bans</TOKEN>
+<TOKEN end_char="1656" id="token-17-13" morph="none" pos="word" start_char="1650">vaccine</TOKEN>
+<TOKEN end_char="1666" id="token-17-14" morph="none" pos="word" start_char="1658">passports</TOKEN>
+<TOKEN end_char="1667" id="token-17-15" morph="none" pos="punct" start_char="1667">.</TOKEN>
+</SEG>
+<SEG end_char="1688" id="segment-18" start_char="1670">
+<ORIGINAL_TEXT>CNBC Health Science</ORIGINAL_TEXT>
+<TOKEN end_char="1673" id="token-18-0" morph="none" pos="word" start_char="1670">CNBC</TOKEN>
+<TOKEN end_char="1680" id="token-18-1" morph="none" pos="word" start_char="1675">Health</TOKEN>
+<TOKEN end_char="1688" id="token-18-2" morph="none" pos="word" start_char="1682">Science</TOKEN>
+</SEG>
+<SEG end_char="1741" id="segment-19" start_char="1692">
+<ORIGINAL_TEXT>Read CNBC’s latest coverage of the Covid pandemic:</ORIGINAL_TEXT>
+<TOKEN end_char="1695" id="token-19-0" morph="none" pos="word" start_char="1692">Read</TOKEN>
+<TOKEN end_char="1702" id="token-19-1" morph="none" pos="word" start_char="1697">CNBC’s</TOKEN>
+<TOKEN end_char="1709" id="token-19-2" morph="none" pos="word" start_char="1704">latest</TOKEN>
+<TOKEN end_char="1718" id="token-19-3" morph="none" pos="word" start_char="1711">coverage</TOKEN>
+<TOKEN end_char="1721" id="token-19-4" morph="none" pos="word" start_char="1720">of</TOKEN>
+<TOKEN end_char="1725" id="token-19-5" morph="none" pos="word" start_char="1723">the</TOKEN>
+<TOKEN end_char="1731" id="token-19-6" morph="none" pos="word" start_char="1727">Covid</TOKEN>
+<TOKEN end_char="1740" id="token-19-7" morph="none" pos="word" start_char="1733">pandemic</TOKEN>
+<TOKEN end_char="1741" id="token-19-8" morph="none" pos="punct" start_char="1741">:</TOKEN>
+</SEG>
+<SEG end_char="1988" id="segment-20" start_char="1744">
+<ORIGINAL_TEXT>Florida has reported the third-most Covid-19 cases in the U.S. at more than 2.2 million since the beginning of the pandemic and the fourth-highest death toll at more than 35,000 fatalities, according to data compiled by Johns Hopkins University.</ORIGINAL_TEXT>
+<TOKEN end_char="1750" id="token-20-0" morph="none" pos="word" start_char="1744">Florida</TOKEN>
+<TOKEN end_char="1754" id="token-20-1" morph="none" pos="word" start_char="1752">has</TOKEN>
+<TOKEN end_char="1763" id="token-20-2" morph="none" pos="word" start_char="1756">reported</TOKEN>
+<TOKEN end_char="1767" id="token-20-3" morph="none" pos="word" start_char="1765">the</TOKEN>
+<TOKEN end_char="1778" id="token-20-4" morph="none" pos="unknown" start_char="1769">third-most</TOKEN>
+<TOKEN end_char="1787" id="token-20-5" morph="none" pos="unknown" start_char="1780">Covid-19</TOKEN>
+<TOKEN end_char="1793" id="token-20-6" morph="none" pos="word" start_char="1789">cases</TOKEN>
+<TOKEN end_char="1796" id="token-20-7" morph="none" pos="word" start_char="1795">in</TOKEN>
+<TOKEN end_char="1800" id="token-20-8" morph="none" pos="word" start_char="1798">the</TOKEN>
+<TOKEN end_char="1804" id="token-20-9" morph="none" pos="unknown" start_char="1802">U.S</TOKEN>
+<TOKEN end_char="1805" id="token-20-10" morph="none" pos="punct" start_char="1805">.</TOKEN>
+<TOKEN end_char="1808" id="token-20-11" morph="none" pos="word" start_char="1807">at</TOKEN>
+<TOKEN end_char="1813" id="token-20-12" morph="none" pos="word" start_char="1810">more</TOKEN>
+<TOKEN end_char="1818" id="token-20-13" morph="none" pos="word" start_char="1815">than</TOKEN>
+<TOKEN end_char="1822" id="token-20-14" morph="none" pos="word" start_char="1820">2.2</TOKEN>
+<TOKEN end_char="1830" id="token-20-15" morph="none" pos="word" start_char="1824">million</TOKEN>
+<TOKEN end_char="1836" id="token-20-16" morph="none" pos="word" start_char="1832">since</TOKEN>
+<TOKEN end_char="1840" id="token-20-17" morph="none" pos="word" start_char="1838">the</TOKEN>
+<TOKEN end_char="1850" id="token-20-18" morph="none" pos="word" start_char="1842">beginning</TOKEN>
+<TOKEN end_char="1853" id="token-20-19" morph="none" pos="word" start_char="1852">of</TOKEN>
+<TOKEN end_char="1857" id="token-20-20" morph="none" pos="word" start_char="1855">the</TOKEN>
+<TOKEN end_char="1866" id="token-20-21" morph="none" pos="word" start_char="1859">pandemic</TOKEN>
+<TOKEN end_char="1870" id="token-20-22" morph="none" pos="word" start_char="1868">and</TOKEN>
+<TOKEN end_char="1874" id="token-20-23" morph="none" pos="word" start_char="1872">the</TOKEN>
+<TOKEN end_char="1889" id="token-20-24" morph="none" pos="unknown" start_char="1876">fourth-highest</TOKEN>
+<TOKEN end_char="1895" id="token-20-25" morph="none" pos="word" start_char="1891">death</TOKEN>
+<TOKEN end_char="1900" id="token-20-26" morph="none" pos="word" start_char="1897">toll</TOKEN>
+<TOKEN end_char="1903" id="token-20-27" morph="none" pos="word" start_char="1902">at</TOKEN>
+<TOKEN end_char="1908" id="token-20-28" morph="none" pos="word" start_char="1905">more</TOKEN>
+<TOKEN end_char="1913" id="token-20-29" morph="none" pos="word" start_char="1910">than</TOKEN>
+<TOKEN end_char="1920" id="token-20-30" morph="none" pos="unknown" start_char="1915">35,000</TOKEN>
+<TOKEN end_char="1931" id="token-20-31" morph="none" pos="word" start_char="1922">fatalities</TOKEN>
+<TOKEN end_char="1932" id="token-20-32" morph="none" pos="punct" start_char="1932">,</TOKEN>
+<TOKEN end_char="1942" id="token-20-33" morph="none" pos="word" start_char="1934">according</TOKEN>
+<TOKEN end_char="1945" id="token-20-34" morph="none" pos="word" start_char="1944">to</TOKEN>
+<TOKEN end_char="1950" id="token-20-35" morph="none" pos="word" start_char="1947">data</TOKEN>
+<TOKEN end_char="1959" id="token-20-36" morph="none" pos="word" start_char="1952">compiled</TOKEN>
+<TOKEN end_char="1962" id="token-20-37" morph="none" pos="word" start_char="1961">by</TOKEN>
+<TOKEN end_char="1968" id="token-20-38" morph="none" pos="word" start_char="1964">Johns</TOKEN>
+<TOKEN end_char="1976" id="token-20-39" morph="none" pos="word" start_char="1970">Hopkins</TOKEN>
+<TOKEN end_char="1987" id="token-20-40" morph="none" pos="word" start_char="1978">University</TOKEN>
+<TOKEN end_char="1988" id="token-20-41" morph="none" pos="punct" start_char="1988">.</TOKEN>
+</SEG>
+<SEG end_char="2126" id="segment-21" start_char="1990">
+<ORIGINAL_TEXT>Average new cases there, however, have fallen by more than 13% over the last week, dropping to 4,885 as of Sunday, according to the data.</ORIGINAL_TEXT>
+<TOKEN end_char="1996" id="token-21-0" morph="none" pos="word" start_char="1990">Average</TOKEN>
+<TOKEN end_char="2000" id="token-21-1" morph="none" pos="word" start_char="1998">new</TOKEN>
+<TOKEN end_char="2006" id="token-21-2" morph="none" pos="word" start_char="2002">cases</TOKEN>
+<TOKEN end_char="2012" id="token-21-3" morph="none" pos="word" start_char="2008">there</TOKEN>
+<TOKEN end_char="2013" id="token-21-4" morph="none" pos="punct" start_char="2013">,</TOKEN>
+<TOKEN end_char="2021" id="token-21-5" morph="none" pos="word" start_char="2015">however</TOKEN>
+<TOKEN end_char="2022" id="token-21-6" morph="none" pos="punct" start_char="2022">,</TOKEN>
+<TOKEN end_char="2027" id="token-21-7" morph="none" pos="word" start_char="2024">have</TOKEN>
+<TOKEN end_char="2034" id="token-21-8" morph="none" pos="word" start_char="2029">fallen</TOKEN>
+<TOKEN end_char="2037" id="token-21-9" morph="none" pos="word" start_char="2036">by</TOKEN>
+<TOKEN end_char="2042" id="token-21-10" morph="none" pos="word" start_char="2039">more</TOKEN>
+<TOKEN end_char="2047" id="token-21-11" morph="none" pos="word" start_char="2044">than</TOKEN>
+<TOKEN end_char="2050" id="token-21-12" morph="none" pos="word" start_char="2049">13</TOKEN>
+<TOKEN end_char="2051" id="token-21-13" morph="none" pos="punct" start_char="2051">%</TOKEN>
+<TOKEN end_char="2056" id="token-21-14" morph="none" pos="word" start_char="2053">over</TOKEN>
+<TOKEN end_char="2060" id="token-21-15" morph="none" pos="word" start_char="2058">the</TOKEN>
+<TOKEN end_char="2065" id="token-21-16" morph="none" pos="word" start_char="2062">last</TOKEN>
+<TOKEN end_char="2070" id="token-21-17" morph="none" pos="word" start_char="2067">week</TOKEN>
+<TOKEN end_char="2071" id="token-21-18" morph="none" pos="punct" start_char="2071">,</TOKEN>
+<TOKEN end_char="2080" id="token-21-19" morph="none" pos="word" start_char="2073">dropping</TOKEN>
+<TOKEN end_char="2083" id="token-21-20" morph="none" pos="word" start_char="2082">to</TOKEN>
+<TOKEN end_char="2089" id="token-21-21" morph="none" pos="unknown" start_char="2085">4,885</TOKEN>
+<TOKEN end_char="2092" id="token-21-22" morph="none" pos="word" start_char="2091">as</TOKEN>
+<TOKEN end_char="2095" id="token-21-23" morph="none" pos="word" start_char="2094">of</TOKEN>
+<TOKEN end_char="2102" id="token-21-24" morph="none" pos="word" start_char="2097">Sunday</TOKEN>
+<TOKEN end_char="2103" id="token-21-25" morph="none" pos="punct" start_char="2103">,</TOKEN>
+<TOKEN end_char="2113" id="token-21-26" morph="none" pos="word" start_char="2105">according</TOKEN>
+<TOKEN end_char="2116" id="token-21-27" morph="none" pos="word" start_char="2115">to</TOKEN>
+<TOKEN end_char="2120" id="token-21-28" morph="none" pos="word" start_char="2118">the</TOKEN>
+<TOKEN end_char="2125" id="token-21-29" morph="none" pos="word" start_char="2122">data</TOKEN>
+<TOKEN end_char="2126" id="token-21-30" morph="none" pos="punct" start_char="2126">.</TOKEN>
+</SEG>
+<SEG end_char="2202" id="segment-22" start_char="2129">
+<ORIGINAL_TEXT>The White House did not immediately respond to CNBC’s request for comment.</ORIGINAL_TEXT>
+<TOKEN end_char="2131" id="token-22-0" morph="none" pos="word" start_char="2129">The</TOKEN>
+<TOKEN end_char="2137" id="token-22-1" morph="none" pos="word" start_char="2133">White</TOKEN>
+<TOKEN end_char="2143" id="token-22-2" morph="none" pos="word" start_char="2139">House</TOKEN>
+<TOKEN end_char="2147" id="token-22-3" morph="none" pos="word" start_char="2145">did</TOKEN>
+<TOKEN end_char="2151" id="token-22-4" morph="none" pos="word" start_char="2149">not</TOKEN>
+<TOKEN end_char="2163" id="token-22-5" morph="none" pos="word" start_char="2153">immediately</TOKEN>
+<TOKEN end_char="2171" id="token-22-6" morph="none" pos="word" start_char="2165">respond</TOKEN>
+<TOKEN end_char="2174" id="token-22-7" morph="none" pos="word" start_char="2173">to</TOKEN>
+<TOKEN end_char="2181" id="token-22-8" morph="none" pos="word" start_char="2176">CNBC’s</TOKEN>
+<TOKEN end_char="2189" id="token-22-9" morph="none" pos="word" start_char="2183">request</TOKEN>
+<TOKEN end_char="2193" id="token-22-10" morph="none" pos="word" start_char="2191">for</TOKEN>
+<TOKEN end_char="2201" id="token-22-11" morph="none" pos="word" start_char="2195">comment</TOKEN>
+<TOKEN end_char="2202" id="token-22-12" morph="none" pos="punct" start_char="2202">.</TOKEN>
+</SEG>
+<SEG end_char="2323" id="segment-23" start_char="2205">
+<ORIGINAL_TEXT>Last week, the Biden administration announced a relaxation of federal public health guidance on wearing masks outdoors.</ORIGINAL_TEXT>
+<TOKEN end_char="2208" id="token-23-0" morph="none" pos="word" start_char="2205">Last</TOKEN>
+<TOKEN end_char="2213" id="token-23-1" morph="none" pos="word" start_char="2210">week</TOKEN>
+<TOKEN end_char="2214" id="token-23-2" morph="none" pos="punct" start_char="2214">,</TOKEN>
+<TOKEN end_char="2218" id="token-23-3" morph="none" pos="word" start_char="2216">the</TOKEN>
+<TOKEN end_char="2224" id="token-23-4" morph="none" pos="word" start_char="2220">Biden</TOKEN>
+<TOKEN end_char="2239" id="token-23-5" morph="none" pos="word" start_char="2226">administration</TOKEN>
+<TOKEN end_char="2249" id="token-23-6" morph="none" pos="word" start_char="2241">announced</TOKEN>
+<TOKEN end_char="2251" id="token-23-7" morph="none" pos="word" start_char="2251">a</TOKEN>
+<TOKEN end_char="2262" id="token-23-8" morph="none" pos="word" start_char="2253">relaxation</TOKEN>
+<TOKEN end_char="2265" id="token-23-9" morph="none" pos="word" start_char="2264">of</TOKEN>
+<TOKEN end_char="2273" id="token-23-10" morph="none" pos="word" start_char="2267">federal</TOKEN>
+<TOKEN end_char="2280" id="token-23-11" morph="none" pos="word" start_char="2275">public</TOKEN>
+<TOKEN end_char="2287" id="token-23-12" morph="none" pos="word" start_char="2282">health</TOKEN>
+<TOKEN end_char="2296" id="token-23-13" morph="none" pos="word" start_char="2289">guidance</TOKEN>
+<TOKEN end_char="2299" id="token-23-14" morph="none" pos="word" start_char="2298">on</TOKEN>
+<TOKEN end_char="2307" id="token-23-15" morph="none" pos="word" start_char="2301">wearing</TOKEN>
+<TOKEN end_char="2313" id="token-23-16" morph="none" pos="word" start_char="2309">masks</TOKEN>
+<TOKEN end_char="2322" id="token-23-17" morph="none" pos="word" start_char="2315">outdoors</TOKEN>
+<TOKEN end_char="2323" id="token-23-18" morph="none" pos="punct" start_char="2323">.</TOKEN>
+</SEG>
+<SEG end_char="2489" id="segment-24" start_char="2326">
+<ORIGINAL_TEXT>The Centers for Disease Control and Prevention recommends that fully vaccinated people can exercise and attend small gatherings outside without wearing a face mask.</ORIGINAL_TEXT>
+<TOKEN end_char="2328" id="token-24-0" morph="none" pos="word" start_char="2326">The</TOKEN>
+<TOKEN end_char="2336" id="token-24-1" morph="none" pos="word" start_char="2330">Centers</TOKEN>
+<TOKEN end_char="2340" id="token-24-2" morph="none" pos="word" start_char="2338">for</TOKEN>
+<TOKEN end_char="2348" id="token-24-3" morph="none" pos="word" start_char="2342">Disease</TOKEN>
+<TOKEN end_char="2356" id="token-24-4" morph="none" pos="word" start_char="2350">Control</TOKEN>
+<TOKEN end_char="2360" id="token-24-5" morph="none" pos="word" start_char="2358">and</TOKEN>
+<TOKEN end_char="2371" id="token-24-6" morph="none" pos="word" start_char="2362">Prevention</TOKEN>
+<TOKEN end_char="2382" id="token-24-7" morph="none" pos="word" start_char="2373">recommends</TOKEN>
+<TOKEN end_char="2387" id="token-24-8" morph="none" pos="word" start_char="2384">that</TOKEN>
+<TOKEN end_char="2393" id="token-24-9" morph="none" pos="word" start_char="2389">fully</TOKEN>
+<TOKEN end_char="2404" id="token-24-10" morph="none" pos="word" start_char="2395">vaccinated</TOKEN>
+<TOKEN end_char="2411" id="token-24-11" morph="none" pos="word" start_char="2406">people</TOKEN>
+<TOKEN end_char="2415" id="token-24-12" morph="none" pos="word" start_char="2413">can</TOKEN>
+<TOKEN end_char="2424" id="token-24-13" morph="none" pos="word" start_char="2417">exercise</TOKEN>
+<TOKEN end_char="2428" id="token-24-14" morph="none" pos="word" start_char="2426">and</TOKEN>
+<TOKEN end_char="2435" id="token-24-15" morph="none" pos="word" start_char="2430">attend</TOKEN>
+<TOKEN end_char="2441" id="token-24-16" morph="none" pos="word" start_char="2437">small</TOKEN>
+<TOKEN end_char="2452" id="token-24-17" morph="none" pos="word" start_char="2443">gatherings</TOKEN>
+<TOKEN end_char="2460" id="token-24-18" morph="none" pos="word" start_char="2454">outside</TOKEN>
+<TOKEN end_char="2468" id="token-24-19" morph="none" pos="word" start_char="2462">without</TOKEN>
+<TOKEN end_char="2476" id="token-24-20" morph="none" pos="word" start_char="2470">wearing</TOKEN>
+<TOKEN end_char="2478" id="token-24-21" morph="none" pos="word" start_char="2478">a</TOKEN>
+<TOKEN end_char="2483" id="token-24-22" morph="none" pos="word" start_char="2480">face</TOKEN>
+<TOKEN end_char="2488" id="token-24-23" morph="none" pos="word" start_char="2485">mask</TOKEN>
+<TOKEN end_char="2489" id="token-24-24" morph="none" pos="punct" start_char="2489">.</TOKEN>
+</SEG>
+<SEG end_char="2590" id="segment-25" start_char="2491">
+<ORIGINAL_TEXT>The agency still recommends that fully vaccinated people wear a mask outdoors when in crowded areas.</ORIGINAL_TEXT>
+<TOKEN end_char="2493" id="token-25-0" morph="none" pos="word" start_char="2491">The</TOKEN>
+<TOKEN end_char="2500" id="token-25-1" morph="none" pos="word" start_char="2495">agency</TOKEN>
+<TOKEN end_char="2506" id="token-25-2" morph="none" pos="word" start_char="2502">still</TOKEN>
+<TOKEN end_char="2517" id="token-25-3" morph="none" pos="word" start_char="2508">recommends</TOKEN>
+<TOKEN end_char="2522" id="token-25-4" morph="none" pos="word" start_char="2519">that</TOKEN>
+<TOKEN end_char="2528" id="token-25-5" morph="none" pos="word" start_char="2524">fully</TOKEN>
+<TOKEN end_char="2539" id="token-25-6" morph="none" pos="word" start_char="2530">vaccinated</TOKEN>
+<TOKEN end_char="2546" id="token-25-7" morph="none" pos="word" start_char="2541">people</TOKEN>
+<TOKEN end_char="2551" id="token-25-8" morph="none" pos="word" start_char="2548">wear</TOKEN>
+<TOKEN end_char="2553" id="token-25-9" morph="none" pos="word" start_char="2553">a</TOKEN>
+<TOKEN end_char="2558" id="token-25-10" morph="none" pos="word" start_char="2555">mask</TOKEN>
+<TOKEN end_char="2567" id="token-25-11" morph="none" pos="word" start_char="2560">outdoors</TOKEN>
+<TOKEN end_char="2572" id="token-25-12" morph="none" pos="word" start_char="2569">when</TOKEN>
+<TOKEN end_char="2575" id="token-25-13" morph="none" pos="word" start_char="2574">in</TOKEN>
+<TOKEN end_char="2583" id="token-25-14" morph="none" pos="word" start_char="2577">crowded</TOKEN>
+<TOKEN end_char="2589" id="token-25-15" morph="none" pos="word" start_char="2585">areas</TOKEN>
+<TOKEN end_char="2590" id="token-25-16" morph="none" pos="punct" start_char="2590">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

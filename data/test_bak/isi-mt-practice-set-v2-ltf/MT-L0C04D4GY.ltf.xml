@@ -1,0 +1,318 @@
+<LCTL_TEXT lang="rus">
+<DOC grammar="none" id="L0C04D4GY" lang="rus" raw_text_char_length="1775" raw_text_md5="32749d5ac28930c34a256bb8e0617ecb" tokenization="tokenization_parameters.v5.0">
+<TEXT>
+<SEG end_char="69" id="segment-0" start_char="1">
+<ORIGINAL_TEXT>Интерферон в профилактике COVID-19 может вызвать расстройства психики</ORIGINAL_TEXT>
+<TOKEN end_char="10" id="token-0-0" morph="none" pos="word" start_char="1">Интерферон</TOKEN>
+<TOKEN end_char="12" id="token-0-1" morph="none" pos="word" start_char="12">в</TOKEN>
+<TOKEN end_char="25" id="token-0-2" morph="none" pos="word" start_char="14">профилактике</TOKEN>
+<TOKEN end_char="34" id="token-0-3" morph="none" pos="unknown" start_char="27">COVID-19</TOKEN>
+<TOKEN end_char="40" id="token-0-4" morph="none" pos="word" start_char="36">может</TOKEN>
+<TOKEN end_char="48" id="token-0-5" morph="none" pos="word" start_char="42">вызвать</TOKEN>
+<TOKEN end_char="61" id="token-0-6" morph="none" pos="word" start_char="50">расстройства</TOKEN>
+<TOKEN end_char="69" id="token-0-7" morph="none" pos="word" start_char="63">психики</TOKEN>
+<TRANSLATED_TEXT>Interferon in prevention COVID-19 can cause mental disorders</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="300" id="segment-1" start_char="74">
+<ORIGINAL_TEXT>Инъекционные формы интерферона нельзя использовать самостоятельно даже в качестве профилактики коронавируса, заявил «Известиям» глава международных проектов по безопасности пациентов и персонализированной медицине Юрий Киселев.</ORIGINAL_TEXT>
+<TOKEN end_char="85" id="token-1-0" morph="none" pos="word" start_char="74">Инъекционные</TOKEN>
+<TOKEN end_char="91" id="token-1-1" morph="none" pos="word" start_char="87">формы</TOKEN>
+<TOKEN end_char="103" id="token-1-2" morph="none" pos="word" start_char="93">интерферона</TOKEN>
+<TOKEN end_char="110" id="token-1-3" morph="none" pos="word" start_char="105">нельзя</TOKEN>
+<TOKEN end_char="123" id="token-1-4" morph="none" pos="word" start_char="112">использовать</TOKEN>
+<TOKEN end_char="138" id="token-1-5" morph="none" pos="word" start_char="125">самостоятельно</TOKEN>
+<TOKEN end_char="143" id="token-1-6" morph="none" pos="word" start_char="140">даже</TOKEN>
+<TOKEN end_char="145" id="token-1-7" morph="none" pos="word" start_char="145">в</TOKEN>
+<TOKEN end_char="154" id="token-1-8" morph="none" pos="word" start_char="147">качестве</TOKEN>
+<TOKEN end_char="167" id="token-1-9" morph="none" pos="word" start_char="156">профилактики</TOKEN>
+<TOKEN end_char="180" id="token-1-10" morph="none" pos="word" start_char="169">коронавируса</TOKEN>
+<TOKEN end_char="181" id="token-1-11" morph="none" pos="punct" start_char="181">,</TOKEN>
+<TOKEN end_char="188" id="token-1-12" morph="none" pos="word" start_char="183">заявил</TOKEN>
+<TOKEN end_char="190" id="token-1-13" morph="none" pos="punct" start_char="190">«</TOKEN>
+<TOKEN end_char="199" id="token-1-14" morph="none" pos="word" start_char="191">Известиям</TOKEN>
+<TOKEN end_char="200" id="token-1-15" morph="none" pos="punct" start_char="200">»</TOKEN>
+<TOKEN end_char="206" id="token-1-16" morph="none" pos="word" start_char="202">глава</TOKEN>
+<TOKEN end_char="220" id="token-1-17" morph="none" pos="word" start_char="208">международных</TOKEN>
+<TOKEN end_char="229" id="token-1-18" morph="none" pos="word" start_char="222">проектов</TOKEN>
+<TOKEN end_char="232" id="token-1-19" morph="none" pos="word" start_char="231">по</TOKEN>
+<TOKEN end_char="245" id="token-1-20" morph="none" pos="word" start_char="234">безопасности</TOKEN>
+<TOKEN end_char="255" id="token-1-21" morph="none" pos="word" start_char="247">пациентов</TOKEN>
+<TOKEN end_char="257" id="token-1-22" morph="none" pos="word" start_char="257">и</TOKEN>
+<TOKEN end_char="277" id="token-1-23" morph="none" pos="word" start_char="259">персонализированной</TOKEN>
+<TOKEN end_char="286" id="token-1-24" morph="none" pos="word" start_char="279">медицине</TOKEN>
+<TOKEN end_char="291" id="token-1-25" morph="none" pos="word" start_char="288">Юрий</TOKEN>
+<TOKEN end_char="299" id="token-1-26" morph="none" pos="word" start_char="293">Киселев</TOKEN>
+<TOKEN end_char="300" id="token-1-27" morph="none" pos="punct" start_char="300">.</TOKEN>
+<TRANSLATED_TEXT>Interferon injection forms cannot be used on their own even as a prevention of coronavirus, Yuri Kiselev, head of international projects on patient safety and personalized medicine, told "Izvestia."</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="439" id="segment-2" start_char="302">
+<ORIGINAL_TEXT>По его словам, помимо слабости и нарушений работы желудочно-кишечного тракта, этот популярный препарат может вызвать расстройства психики.</ORIGINAL_TEXT>
+<TOKEN end_char="303" id="token-2-0" morph="none" pos="word" start_char="302">По</TOKEN>
+<TOKEN end_char="307" id="token-2-1" morph="none" pos="word" start_char="305">его</TOKEN>
+<TOKEN end_char="314" id="token-2-2" morph="none" pos="word" start_char="309">словам</TOKEN>
+<TOKEN end_char="315" id="token-2-3" morph="none" pos="punct" start_char="315">,</TOKEN>
+<TOKEN end_char="322" id="token-2-4" morph="none" pos="word" start_char="317">помимо</TOKEN>
+<TOKEN end_char="331" id="token-2-5" morph="none" pos="word" start_char="324">слабости</TOKEN>
+<TOKEN end_char="333" id="token-2-6" morph="none" pos="word" start_char="333">и</TOKEN>
+<TOKEN end_char="343" id="token-2-7" morph="none" pos="word" start_char="335">нарушений</TOKEN>
+<TOKEN end_char="350" id="token-2-8" morph="none" pos="word" start_char="345">работы</TOKEN>
+<TOKEN end_char="370" id="token-2-9" morph="none" pos="unknown" start_char="352">желудочно-кишечного</TOKEN>
+<TOKEN end_char="377" id="token-2-10" morph="none" pos="word" start_char="372">тракта</TOKEN>
+<TOKEN end_char="378" id="token-2-11" morph="none" pos="punct" start_char="378">,</TOKEN>
+<TOKEN end_char="383" id="token-2-12" morph="none" pos="word" start_char="380">этот</TOKEN>
+<TOKEN end_char="394" id="token-2-13" morph="none" pos="word" start_char="385">популярный</TOKEN>
+<TOKEN end_char="403" id="token-2-14" morph="none" pos="word" start_char="396">препарат</TOKEN>
+<TOKEN end_char="409" id="token-2-15" morph="none" pos="word" start_char="405">может</TOKEN>
+<TOKEN end_char="417" id="token-2-16" morph="none" pos="word" start_char="411">вызвать</TOKEN>
+<TOKEN end_char="430" id="token-2-17" morph="none" pos="word" start_char="419">расстройства</TOKEN>
+<TOKEN end_char="438" id="token-2-18" morph="none" pos="word" start_char="432">психики</TOKEN>
+<TOKEN end_char="439" id="token-2-19" morph="none" pos="punct" start_char="439">.</TOKEN>
+<TRANSLATED_TEXT>According to him, besides the weakness and malfunctioning of the gastrointestinal tract, this popular drug can cause mental disorders.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="533" id="segment-3" start_char="442">
+<ORIGINAL_TEXT>«Это препараты с частыми и тяжелыми побочными эффектами, — пояснил «Известиям» Юрий Киселев.</ORIGINAL_TEXT>
+<TOKEN end_char="442" id="token-3-0" morph="none" pos="punct" start_char="442">«</TOKEN>
+<TOKEN end_char="445" id="token-3-1" morph="none" pos="word" start_char="443">Это</TOKEN>
+<TOKEN end_char="455" id="token-3-2" morph="none" pos="word" start_char="447">препараты</TOKEN>
+<TOKEN end_char="457" id="token-3-3" morph="none" pos="word" start_char="457">с</TOKEN>
+<TOKEN end_char="465" id="token-3-4" morph="none" pos="word" start_char="459">частыми</TOKEN>
+<TOKEN end_char="467" id="token-3-5" morph="none" pos="word" start_char="467">и</TOKEN>
+<TOKEN end_char="476" id="token-3-6" morph="none" pos="word" start_char="469">тяжелыми</TOKEN>
+<TOKEN end_char="486" id="token-3-7" morph="none" pos="word" start_char="478">побочными</TOKEN>
+<TOKEN end_char="496" id="token-3-8" morph="none" pos="word" start_char="488">эффектами</TOKEN>
+<TOKEN end_char="497" id="token-3-9" morph="none" pos="punct" start_char="497">,</TOKEN>
+<TOKEN end_char="499" id="token-3-10" morph="none" pos="punct" start_char="499">—</TOKEN>
+<TOKEN end_char="507" id="token-3-11" morph="none" pos="word" start_char="501">пояснил</TOKEN>
+<TOKEN end_char="509" id="token-3-12" morph="none" pos="punct" start_char="509">«</TOKEN>
+<TOKEN end_char="518" id="token-3-13" morph="none" pos="word" start_char="510">Известиям</TOKEN>
+<TOKEN end_char="519" id="token-3-14" morph="none" pos="punct" start_char="519">»</TOKEN>
+<TOKEN end_char="524" id="token-3-15" morph="none" pos="word" start_char="521">Юрий</TOKEN>
+<TOKEN end_char="532" id="token-3-16" morph="none" pos="word" start_char="526">Киселев</TOKEN>
+<TOKEN end_char="533" id="token-3-17" morph="none" pos="punct" start_char="533">.</TOKEN>
+<TRANSLATED_TEXT>"These are drugs with frequent and severe side effects," explained Yuriy Kiselev to the News.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="643" id="segment-4" start_char="535">
+<ORIGINAL_TEXT>— Например, может резко снизиться количество лейкоцитов — тех клеток крови, которые защищают нас от инфекций.</ORIGINAL_TEXT>
+<TOKEN end_char="535" id="token-4-0" morph="none" pos="punct" start_char="535">—</TOKEN>
+<TOKEN end_char="544" id="token-4-1" morph="none" pos="word" start_char="537">Например</TOKEN>
+<TOKEN end_char="545" id="token-4-2" morph="none" pos="punct" start_char="545">,</TOKEN>
+<TOKEN end_char="551" id="token-4-3" morph="none" pos="word" start_char="547">может</TOKEN>
+<TOKEN end_char="557" id="token-4-4" morph="none" pos="word" start_char="553">резко</TOKEN>
+<TOKEN end_char="567" id="token-4-5" morph="none" pos="word" start_char="559">снизиться</TOKEN>
+<TOKEN end_char="578" id="token-4-6" morph="none" pos="word" start_char="569">количество</TOKEN>
+<TOKEN end_char="589" id="token-4-7" morph="none" pos="word" start_char="580">лейкоцитов</TOKEN>
+<TOKEN end_char="591" id="token-4-8" morph="none" pos="punct" start_char="591">—</TOKEN>
+<TOKEN end_char="595" id="token-4-9" morph="none" pos="word" start_char="593">тех</TOKEN>
+<TOKEN end_char="602" id="token-4-10" morph="none" pos="word" start_char="597">клеток</TOKEN>
+<TOKEN end_char="608" id="token-4-11" morph="none" pos="word" start_char="604">крови</TOKEN>
+<TOKEN end_char="609" id="token-4-12" morph="none" pos="punct" start_char="609">,</TOKEN>
+<TOKEN end_char="617" id="token-4-13" morph="none" pos="word" start_char="611">которые</TOKEN>
+<TOKEN end_char="626" id="token-4-14" morph="none" pos="word" start_char="619">защищают</TOKEN>
+<TOKEN end_char="630" id="token-4-15" morph="none" pos="word" start_char="628">нас</TOKEN>
+<TOKEN end_char="633" id="token-4-16" morph="none" pos="word" start_char="632">от</TOKEN>
+<TOKEN end_char="642" id="token-4-17" morph="none" pos="word" start_char="635">инфекций</TOKEN>
+<TOKEN end_char="643" id="token-4-18" morph="none" pos="punct" start_char="643">.</TOKEN>
+<TRANSLATED_TEXT>- For example, the number of leukocytes - the blood cells that protect us from infections - could drop dramatically.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="762" id="segment-5" start_char="645">
+<ORIGINAL_TEXT>Возможны выраженная слабость, выпадение волос и кожные высыпания, желудочно-кишечные и даже психиатрические нарушения.</ORIGINAL_TEXT>
+<TOKEN end_char="652" id="token-5-0" morph="none" pos="word" start_char="645">Возможны</TOKEN>
+<TOKEN end_char="663" id="token-5-1" morph="none" pos="word" start_char="654">выраженная</TOKEN>
+<TOKEN end_char="672" id="token-5-2" morph="none" pos="word" start_char="665">слабость</TOKEN>
+<TOKEN end_char="673" id="token-5-3" morph="none" pos="punct" start_char="673">,</TOKEN>
+<TOKEN end_char="683" id="token-5-4" morph="none" pos="word" start_char="675">выпадение</TOKEN>
+<TOKEN end_char="689" id="token-5-5" morph="none" pos="word" start_char="685">волос</TOKEN>
+<TOKEN end_char="691" id="token-5-6" morph="none" pos="word" start_char="691">и</TOKEN>
+<TOKEN end_char="698" id="token-5-7" morph="none" pos="word" start_char="693">кожные</TOKEN>
+<TOKEN end_char="708" id="token-5-8" morph="none" pos="word" start_char="700">высыпания</TOKEN>
+<TOKEN end_char="709" id="token-5-9" morph="none" pos="punct" start_char="709">,</TOKEN>
+<TOKEN end_char="728" id="token-5-10" morph="none" pos="unknown" start_char="711">желудочно-кишечные</TOKEN>
+<TOKEN end_char="730" id="token-5-11" morph="none" pos="word" start_char="730">и</TOKEN>
+<TOKEN end_char="735" id="token-5-12" morph="none" pos="word" start_char="732">даже</TOKEN>
+<TOKEN end_char="751" id="token-5-13" morph="none" pos="word" start_char="737">психиатрические</TOKEN>
+<TOKEN end_char="761" id="token-5-14" morph="none" pos="word" start_char="753">нарушения</TOKEN>
+<TOKEN end_char="762" id="token-5-15" morph="none" pos="punct" start_char="762">.</TOKEN>
+<TRANSLATED_TEXT>There may be pronounced weakness, hair loss and skin rash, gastrointestinal and even psychiatric disorders.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="869" id="segment-6" start_char="764">
+<ORIGINAL_TEXT>К последним относятся депрессивные состояния и нарушения сна, реже проявляются мании и суицидальные мысли.</ORIGINAL_TEXT>
+<TOKEN end_char="764" id="token-6-0" morph="none" pos="word" start_char="764">К</TOKEN>
+<TOKEN end_char="774" id="token-6-1" morph="none" pos="word" start_char="766">последним</TOKEN>
+<TOKEN end_char="784" id="token-6-2" morph="none" pos="word" start_char="776">относятся</TOKEN>
+<TOKEN end_char="797" id="token-6-3" morph="none" pos="word" start_char="786">депрессивные</TOKEN>
+<TOKEN end_char="807" id="token-6-4" morph="none" pos="word" start_char="799">состояния</TOKEN>
+<TOKEN end_char="809" id="token-6-5" morph="none" pos="word" start_char="809">и</TOKEN>
+<TOKEN end_char="819" id="token-6-6" morph="none" pos="word" start_char="811">нарушения</TOKEN>
+<TOKEN end_char="823" id="token-6-7" morph="none" pos="word" start_char="821">сна</TOKEN>
+<TOKEN end_char="824" id="token-6-8" morph="none" pos="punct" start_char="824">,</TOKEN>
+<TOKEN end_char="829" id="token-6-9" morph="none" pos="word" start_char="826">реже</TOKEN>
+<TOKEN end_char="841" id="token-6-10" morph="none" pos="word" start_char="831">проявляются</TOKEN>
+<TOKEN end_char="847" id="token-6-11" morph="none" pos="word" start_char="843">мании</TOKEN>
+<TOKEN end_char="849" id="token-6-12" morph="none" pos="word" start_char="849">и</TOKEN>
+<TOKEN end_char="862" id="token-6-13" morph="none" pos="word" start_char="851">суицидальные</TOKEN>
+<TOKEN end_char="868" id="token-6-14" morph="none" pos="word" start_char="864">мысли</TOKEN>
+<TOKEN end_char="869" id="token-6-15" morph="none" pos="punct" start_char="869">.</TOKEN>
+<TRANSLATED_TEXT>The latter include depression and sleep disorders, and fewer manic and suicidal thoughts.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1011" id="segment-7" start_char="871">
+<ORIGINAL_TEXT>К тому же введение интерферона-бета очень часто вызывает симптомы, схожие с ОРВИ, и врачу отличить их от истинных проявлений болезни сложно».</ORIGINAL_TEXT>
+<TOKEN end_char="871" id="token-7-0" morph="none" pos="word" start_char="871">К</TOKEN>
+<TOKEN end_char="876" id="token-7-1" morph="none" pos="word" start_char="873">тому</TOKEN>
+<TOKEN end_char="879" id="token-7-2" morph="none" pos="word" start_char="878">же</TOKEN>
+<TOKEN end_char="888" id="token-7-3" morph="none" pos="word" start_char="881">введение</TOKEN>
+<TOKEN end_char="905" id="token-7-4" morph="none" pos="unknown" start_char="890">интерферона-бета</TOKEN>
+<TOKEN end_char="911" id="token-7-5" morph="none" pos="word" start_char="907">очень</TOKEN>
+<TOKEN end_char="917" id="token-7-6" morph="none" pos="word" start_char="913">часто</TOKEN>
+<TOKEN end_char="926" id="token-7-7" morph="none" pos="word" start_char="919">вызывает</TOKEN>
+<TOKEN end_char="935" id="token-7-8" morph="none" pos="word" start_char="928">симптомы</TOKEN>
+<TOKEN end_char="936" id="token-7-9" morph="none" pos="punct" start_char="936">,</TOKEN>
+<TOKEN end_char="943" id="token-7-10" morph="none" pos="word" start_char="938">схожие</TOKEN>
+<TOKEN end_char="945" id="token-7-11" morph="none" pos="word" start_char="945">с</TOKEN>
+<TOKEN end_char="950" id="token-7-12" morph="none" pos="word" start_char="947">ОРВИ</TOKEN>
+<TOKEN end_char="951" id="token-7-13" morph="none" pos="punct" start_char="951">,</TOKEN>
+<TOKEN end_char="953" id="token-7-14" morph="none" pos="word" start_char="953">и</TOKEN>
+<TOKEN end_char="959" id="token-7-15" morph="none" pos="word" start_char="955">врачу</TOKEN>
+<TOKEN end_char="968" id="token-7-16" morph="none" pos="word" start_char="961">отличить</TOKEN>
+<TOKEN end_char="971" id="token-7-17" morph="none" pos="word" start_char="970">их</TOKEN>
+<TOKEN end_char="974" id="token-7-18" morph="none" pos="word" start_char="973">от</TOKEN>
+<TOKEN end_char="983" id="token-7-19" morph="none" pos="word" start_char="976">истинных</TOKEN>
+<TOKEN end_char="994" id="token-7-20" morph="none" pos="word" start_char="985">проявлений</TOKEN>
+<TOKEN end_char="1002" id="token-7-21" morph="none" pos="word" start_char="996">болезни</TOKEN>
+<TOKEN end_char="1009" id="token-7-22" morph="none" pos="word" start_char="1004">сложно</TOKEN>
+<TOKEN end_char="1011" id="token-7-23" morph="none" pos="punct" start_char="1010">».</TOKEN>
+<TRANSLATED_TEXT>In addition, interferon beta very often causes symptoms similar to ORVI, and it is difficult for a doctor to distinguish them from the true manifestations of the disease. "</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1175" id="segment-8" start_char="1014">
+<ORIGINAL_TEXT>Недавно французские ученые объявили, что выявлен главный характерный признак у пациентов с тяжелым течением COVID-19 — усиленное воспаление и дефицит интерферона.</ORIGINAL_TEXT>
+<TOKEN end_char="1020" id="token-8-0" morph="none" pos="word" start_char="1014">Недавно</TOKEN>
+<TOKEN end_char="1032" id="token-8-1" morph="none" pos="word" start_char="1022">французские</TOKEN>
+<TOKEN end_char="1039" id="token-8-2" morph="none" pos="word" start_char="1034">ученые</TOKEN>
+<TOKEN end_char="1048" id="token-8-3" morph="none" pos="word" start_char="1041">объявили</TOKEN>
+<TOKEN end_char="1049" id="token-8-4" morph="none" pos="punct" start_char="1049">,</TOKEN>
+<TOKEN end_char="1053" id="token-8-5" morph="none" pos="word" start_char="1051">что</TOKEN>
+<TOKEN end_char="1061" id="token-8-6" morph="none" pos="word" start_char="1055">выявлен</TOKEN>
+<TOKEN end_char="1069" id="token-8-7" morph="none" pos="word" start_char="1063">главный</TOKEN>
+<TOKEN end_char="1081" id="token-8-8" morph="none" pos="word" start_char="1071">характерный</TOKEN>
+<TOKEN end_char="1089" id="token-8-9" morph="none" pos="word" start_char="1083">признак</TOKEN>
+<TOKEN end_char="1091" id="token-8-10" morph="none" pos="word" start_char="1091">у</TOKEN>
+<TOKEN end_char="1101" id="token-8-11" morph="none" pos="word" start_char="1093">пациентов</TOKEN>
+<TOKEN end_char="1103" id="token-8-12" morph="none" pos="word" start_char="1103">с</TOKEN>
+<TOKEN end_char="1111" id="token-8-13" morph="none" pos="word" start_char="1105">тяжелым</TOKEN>
+<TOKEN end_char="1120" id="token-8-14" morph="none" pos="word" start_char="1113">течением</TOKEN>
+<TOKEN end_char="1129" id="token-8-15" morph="none" pos="unknown" start_char="1122">COVID-19</TOKEN>
+<TOKEN end_char="1131" id="token-8-16" morph="none" pos="punct" start_char="1131">—</TOKEN>
+<TOKEN end_char="1141" id="token-8-17" morph="none" pos="word" start_char="1133">усиленное</TOKEN>
+<TOKEN end_char="1152" id="token-8-18" morph="none" pos="word" start_char="1143">воспаление</TOKEN>
+<TOKEN end_char="1154" id="token-8-19" morph="none" pos="word" start_char="1154">и</TOKEN>
+<TOKEN end_char="1162" id="token-8-20" morph="none" pos="word" start_char="1156">дефицит</TOKEN>
+<TOKEN end_char="1174" id="token-8-21" morph="none" pos="word" start_char="1164">интерферона</TOKEN>
+<TOKEN end_char="1175" id="token-8-22" morph="none" pos="punct" start_char="1175">.</TOKEN>
+<TRANSLATED_TEXT>Recently, French scientists announced that the main characteristic characteristic of patients with severe COVID-19 was increased inflammation and interferon deficiency.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1235" id="segment-9" start_char="1177">
+<ORIGINAL_TEXT>Это — один из элементов противовирусной защиты в организме.</ORIGINAL_TEXT>
+<TOKEN end_char="1179" id="token-9-0" morph="none" pos="word" start_char="1177">Это</TOKEN>
+<TOKEN end_char="1181" id="token-9-1" morph="none" pos="punct" start_char="1181">—</TOKEN>
+<TOKEN end_char="1186" id="token-9-2" morph="none" pos="word" start_char="1183">один</TOKEN>
+<TOKEN end_char="1189" id="token-9-3" morph="none" pos="word" start_char="1188">из</TOKEN>
+<TOKEN end_char="1199" id="token-9-4" morph="none" pos="word" start_char="1191">элементов</TOKEN>
+<TOKEN end_char="1215" id="token-9-5" morph="none" pos="word" start_char="1201">противовирусной</TOKEN>
+<TOKEN end_char="1222" id="token-9-6" morph="none" pos="word" start_char="1217">защиты</TOKEN>
+<TOKEN end_char="1224" id="token-9-7" morph="none" pos="word" start_char="1224">в</TOKEN>
+<TOKEN end_char="1234" id="token-9-8" morph="none" pos="word" start_char="1226">организме</TOKEN>
+<TOKEN end_char="1235" id="token-9-9" morph="none" pos="punct" start_char="1235">.</TOKEN>
+<TRANSLATED_TEXT>It is an essential component of the immune system.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1334" id="segment-10" start_char="1237">
+<ORIGINAL_TEXT>До сих пор точно неизвестно, может ли их дефицит быть причиной или последствием тяжелого COVID-19.</ORIGINAL_TEXT>
+<TOKEN end_char="1238" id="token-10-0" morph="none" pos="word" start_char="1237">До</TOKEN>
+<TOKEN end_char="1242" id="token-10-1" morph="none" pos="word" start_char="1240">сих</TOKEN>
+<TOKEN end_char="1246" id="token-10-2" morph="none" pos="word" start_char="1244">пор</TOKEN>
+<TOKEN end_char="1252" id="token-10-3" morph="none" pos="word" start_char="1248">точно</TOKEN>
+<TOKEN end_char="1263" id="token-10-4" morph="none" pos="word" start_char="1254">неизвестно</TOKEN>
+<TOKEN end_char="1264" id="token-10-5" morph="none" pos="punct" start_char="1264">,</TOKEN>
+<TOKEN end_char="1270" id="token-10-6" morph="none" pos="word" start_char="1266">может</TOKEN>
+<TOKEN end_char="1273" id="token-10-7" morph="none" pos="word" start_char="1272">ли</TOKEN>
+<TOKEN end_char="1276" id="token-10-8" morph="none" pos="word" start_char="1275">их</TOKEN>
+<TOKEN end_char="1284" id="token-10-9" morph="none" pos="word" start_char="1278">дефицит</TOKEN>
+<TOKEN end_char="1289" id="token-10-10" morph="none" pos="word" start_char="1286">быть</TOKEN>
+<TOKEN end_char="1298" id="token-10-11" morph="none" pos="word" start_char="1291">причиной</TOKEN>
+<TOKEN end_char="1302" id="token-10-12" morph="none" pos="word" start_char="1300">или</TOKEN>
+<TOKEN end_char="1315" id="token-10-13" morph="none" pos="word" start_char="1304">последствием</TOKEN>
+<TOKEN end_char="1324" id="token-10-14" morph="none" pos="word" start_char="1317">тяжелого</TOKEN>
+<TOKEN end_char="1333" id="token-10-15" morph="none" pos="unknown" start_char="1326">COVID-19</TOKEN>
+<TOKEN end_char="1334" id="token-10-16" morph="none" pos="punct" start_char="1334">.</TOKEN>
+<TRANSLATED_TEXT>It is still unclear whether their deficit could be a cause or a consequence of the heavy COVID-19.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1510" id="segment-11" start_char="1337">
+<ORIGINAL_TEXT>А британская компания Synairgen на днях выпустила пресс-релиз о первых результатах исследования ингаляционного интерферона в лечении госпитализированных пациентов с COVID-19.</ORIGINAL_TEXT>
+<TOKEN end_char="1337" id="token-11-0" morph="none" pos="word" start_char="1337">А</TOKEN>
+<TOKEN end_char="1348" id="token-11-1" morph="none" pos="word" start_char="1339">британская</TOKEN>
+<TOKEN end_char="1357" id="token-11-2" morph="none" pos="word" start_char="1350">компания</TOKEN>
+<TOKEN end_char="1367" id="token-11-3" morph="none" pos="word" start_char="1359">Synairgen</TOKEN>
+<TOKEN end_char="1370" id="token-11-4" morph="none" pos="word" start_char="1369">на</TOKEN>
+<TOKEN end_char="1375" id="token-11-5" morph="none" pos="word" start_char="1372">днях</TOKEN>
+<TOKEN end_char="1385" id="token-11-6" morph="none" pos="word" start_char="1377">выпустила</TOKEN>
+<TOKEN end_char="1397" id="token-11-7" morph="none" pos="unknown" start_char="1387">пресс-релиз</TOKEN>
+<TOKEN end_char="1399" id="token-11-8" morph="none" pos="word" start_char="1399">о</TOKEN>
+<TOKEN end_char="1406" id="token-11-9" morph="none" pos="word" start_char="1401">первых</TOKEN>
+<TOKEN end_char="1418" id="token-11-10" morph="none" pos="word" start_char="1408">результатах</TOKEN>
+<TOKEN end_char="1431" id="token-11-11" morph="none" pos="word" start_char="1420">исследования</TOKEN>
+<TOKEN end_char="1446" id="token-11-12" morph="none" pos="word" start_char="1433">ингаляционного</TOKEN>
+<TOKEN end_char="1458" id="token-11-13" morph="none" pos="word" start_char="1448">интерферона</TOKEN>
+<TOKEN end_char="1460" id="token-11-14" morph="none" pos="word" start_char="1460">в</TOKEN>
+<TOKEN end_char="1468" id="token-11-15" morph="none" pos="word" start_char="1462">лечении</TOKEN>
+<TOKEN end_char="1488" id="token-11-16" morph="none" pos="word" start_char="1470">госпитализированных</TOKEN>
+<TOKEN end_char="1498" id="token-11-17" morph="none" pos="word" start_char="1490">пациентов</TOKEN>
+<TOKEN end_char="1500" id="token-11-18" morph="none" pos="word" start_char="1500">с</TOKEN>
+<TOKEN end_char="1509" id="token-11-19" morph="none" pos="unknown" start_char="1502">COVID-19</TOKEN>
+<TOKEN end_char="1510" id="token-11-20" morph="none" pos="punct" start_char="1510">.</TOKEN>
+<TRANSLATED_TEXT>And the British company Synairgen just released a press release on the first results of an inhalation interferon study in the treatment of hospitalized patients with COVID-19..</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1613" id="segment-12" start_char="1512">
+<ORIGINAL_TEXT>Риск оказаться на ИВЛ или умереть оказался на 79% ниже при лечении интерфероном в сравнении с плацебо.</ORIGINAL_TEXT>
+<TOKEN end_char="1515" id="token-12-0" morph="none" pos="word" start_char="1512">Риск</TOKEN>
+<TOKEN end_char="1525" id="token-12-1" morph="none" pos="word" start_char="1517">оказаться</TOKEN>
+<TOKEN end_char="1528" id="token-12-2" morph="none" pos="word" start_char="1527">на</TOKEN>
+<TOKEN end_char="1532" id="token-12-3" morph="none" pos="word" start_char="1530">ИВЛ</TOKEN>
+<TOKEN end_char="1536" id="token-12-4" morph="none" pos="word" start_char="1534">или</TOKEN>
+<TOKEN end_char="1544" id="token-12-5" morph="none" pos="word" start_char="1538">умереть</TOKEN>
+<TOKEN end_char="1553" id="token-12-6" morph="none" pos="word" start_char="1546">оказался</TOKEN>
+<TOKEN end_char="1556" id="token-12-7" morph="none" pos="word" start_char="1555">на</TOKEN>
+<TOKEN end_char="1559" id="token-12-8" morph="none" pos="word" start_char="1558">79</TOKEN>
+<TOKEN end_char="1560" id="token-12-9" morph="none" pos="punct" start_char="1560">%</TOKEN>
+<TOKEN end_char="1565" id="token-12-10" morph="none" pos="word" start_char="1562">ниже</TOKEN>
+<TOKEN end_char="1569" id="token-12-11" morph="none" pos="word" start_char="1567">при</TOKEN>
+<TOKEN end_char="1577" id="token-12-12" morph="none" pos="word" start_char="1571">лечении</TOKEN>
+<TOKEN end_char="1590" id="token-12-13" morph="none" pos="word" start_char="1579">интерфероном</TOKEN>
+<TOKEN end_char="1592" id="token-12-14" morph="none" pos="word" start_char="1592">в</TOKEN>
+<TOKEN end_char="1602" id="token-12-15" morph="none" pos="word" start_char="1594">сравнении</TOKEN>
+<TOKEN end_char="1604" id="token-12-16" morph="none" pos="word" start_char="1604">с</TOKEN>
+<TOKEN end_char="1612" id="token-12-17" morph="none" pos="word" start_char="1606">плацебо</TOKEN>
+<TOKEN end_char="1613" id="token-12-18" morph="none" pos="punct" start_char="1613">.</TOKEN>
+<TRANSLATED_TEXT>The risk of becoming an IVL or dying was 79% lower with interferon compared to placebo.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1701" id="segment-13" start_char="1616">
+<ORIGINAL_TEXT>Ранее «Известия» писали о том, что средство от язвы повышает риск смерти при СOVID-19.</ORIGINAL_TEXT>
+<TOKEN end_char="1620" id="token-13-0" morph="none" pos="word" start_char="1616">Ранее</TOKEN>
+<TOKEN end_char="1622" id="token-13-1" morph="none" pos="punct" start_char="1622">«</TOKEN>
+<TOKEN end_char="1630" id="token-13-2" morph="none" pos="word" start_char="1623">Известия</TOKEN>
+<TOKEN end_char="1631" id="token-13-3" morph="none" pos="punct" start_char="1631">»</TOKEN>
+<TOKEN end_char="1638" id="token-13-4" morph="none" pos="word" start_char="1633">писали</TOKEN>
+<TOKEN end_char="1640" id="token-13-5" morph="none" pos="word" start_char="1640">о</TOKEN>
+<TOKEN end_char="1644" id="token-13-6" morph="none" pos="word" start_char="1642">том</TOKEN>
+<TOKEN end_char="1645" id="token-13-7" morph="none" pos="punct" start_char="1645">,</TOKEN>
+<TOKEN end_char="1649" id="token-13-8" morph="none" pos="word" start_char="1647">что</TOKEN>
+<TOKEN end_char="1658" id="token-13-9" morph="none" pos="word" start_char="1651">средство</TOKEN>
+<TOKEN end_char="1661" id="token-13-10" morph="none" pos="word" start_char="1660">от</TOKEN>
+<TOKEN end_char="1666" id="token-13-11" morph="none" pos="word" start_char="1663">язвы</TOKEN>
+<TOKEN end_char="1675" id="token-13-12" morph="none" pos="word" start_char="1668">повышает</TOKEN>
+<TOKEN end_char="1680" id="token-13-13" morph="none" pos="word" start_char="1677">риск</TOKEN>
+<TOKEN end_char="1687" id="token-13-14" morph="none" pos="word" start_char="1682">смерти</TOKEN>
+<TOKEN end_char="1691" id="token-13-15" morph="none" pos="word" start_char="1689">при</TOKEN>
+<TOKEN end_char="1700" id="token-13-16" morph="none" pos="unknown" start_char="1693">СOVID-19</TOKEN>
+<TOKEN end_char="1701" id="token-13-17" morph="none" pos="punct" start_char="1701">.</TOKEN>
+<TRANSLATED_TEXT>Previously, News reported that the ulcer agent increased the risk of death with SVID-19.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1771" id="segment-14" start_char="1704">
+<ORIGINAL_TEXT>Подробнее читайте в эксклюзивном интервью Юрия Киселева «Известиям»:</ORIGINAL_TEXT>
+<TOKEN end_char="1712" id="token-14-0" morph="none" pos="word" start_char="1704">Подробнее</TOKEN>
+<TOKEN end_char="1720" id="token-14-1" morph="none" pos="word" start_char="1714">читайте</TOKEN>
+<TOKEN end_char="1722" id="token-14-2" morph="none" pos="word" start_char="1722">в</TOKEN>
+<TOKEN end_char="1735" id="token-14-3" morph="none" pos="word" start_char="1724">эксклюзивном</TOKEN>
+<TOKEN end_char="1744" id="token-14-4" morph="none" pos="word" start_char="1737">интервью</TOKEN>
+<TOKEN end_char="1749" id="token-14-5" morph="none" pos="word" start_char="1746">Юрия</TOKEN>
+<TOKEN end_char="1758" id="token-14-6" morph="none" pos="word" start_char="1751">Киселева</TOKEN>
+<TOKEN end_char="1760" id="token-14-7" morph="none" pos="punct" start_char="1760">«</TOKEN>
+<TOKEN end_char="1769" id="token-14-8" morph="none" pos="word" start_char="1761">Известиям</TOKEN>
+<TOKEN end_char="1771" id="token-14-9" morph="none" pos="punct" start_char="1770">»:</TOKEN>
+<TRANSLATED_TEXT>Read more in the exclusive interview of Yuri Kiselev "Izvestim":</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

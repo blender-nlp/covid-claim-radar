@@ -1,0 +1,243 @@
+<LCTL_TEXT lang="spa">
+<DOC grammar="none" id="L0C04ATAI" lang="spa" raw_text_char_length="1200" raw_text_md5="24849ab91bdf7edafcd013e6464af5d2" tokenization="tokenization_parameters.v5.0">
+<TEXT>
+<SEG end_char="102" id="segment-0" start_char="1">
+<ORIGINAL_TEXT>"El virus no está desapareciendo"- El científico advierte: Las vacaciones se pueden prohibir hasta ...</ORIGINAL_TEXT>
+<TOKEN end_char="1" id="token-0-0" morph="none" pos="punct" start_char="1">"</TOKEN>
+<TOKEN end_char="3" id="token-0-1" morph="none" pos="word" start_char="2">El</TOKEN>
+<TOKEN end_char="9" id="token-0-2" morph="none" pos="word" start_char="5">virus</TOKEN>
+<TOKEN end_char="12" id="token-0-3" morph="none" pos="word" start_char="11">no</TOKEN>
+<TOKEN end_char="17" id="token-0-4" morph="none" pos="word" start_char="14">está</TOKEN>
+<TOKEN end_char="32" id="token-0-5" morph="none" pos="word" start_char="19">desapareciendo</TOKEN>
+<TOKEN end_char="34" id="token-0-6" morph="none" pos="punct" start_char="33">"-</TOKEN>
+<TOKEN end_char="37" id="token-0-7" morph="none" pos="word" start_char="36">El</TOKEN>
+<TOKEN end_char="48" id="token-0-8" morph="none" pos="word" start_char="39">científico</TOKEN>
+<TOKEN end_char="57" id="token-0-9" morph="none" pos="word" start_char="50">advierte</TOKEN>
+<TOKEN end_char="58" id="token-0-10" morph="none" pos="punct" start_char="58">:</TOKEN>
+<TOKEN end_char="62" id="token-0-11" morph="none" pos="word" start_char="60">Las</TOKEN>
+<TOKEN end_char="73" id="token-0-12" morph="none" pos="word" start_char="64">vacaciones</TOKEN>
+<TOKEN end_char="76" id="token-0-13" morph="none" pos="word" start_char="75">se</TOKEN>
+<TOKEN end_char="83" id="token-0-14" morph="none" pos="word" start_char="78">pueden</TOKEN>
+<TOKEN end_char="92" id="token-0-15" morph="none" pos="word" start_char="85">prohibir</TOKEN>
+<TOKEN end_char="98" id="token-0-16" morph="none" pos="word" start_char="94">hasta</TOKEN>
+<TOKEN end_char="102" id="token-0-17" morph="none" pos="punct" start_char="100">...</TOKEN>
+<TRANSLATED_TEXT>"The virus is not disappearing" - The scientist warns: Holidays can be banned until...</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="283" id="segment-1" start_char="107">
+<ORIGINAL_TEXT>Un científico que lidera la guerra de Alemania contra Covid-19 advirtió que las vacaciones en casa podrían prohibirse durante tres años porque el virus 'no está desapareciendo'.</ORIGINAL_TEXT>
+<TOKEN end_char="108" id="token-1-0" morph="none" pos="word" start_char="107">Un</TOKEN>
+<TOKEN end_char="119" id="token-1-1" morph="none" pos="word" start_char="110">científico</TOKEN>
+<TOKEN end_char="123" id="token-1-2" morph="none" pos="word" start_char="121">que</TOKEN>
+<TOKEN end_char="130" id="token-1-3" morph="none" pos="word" start_char="125">lidera</TOKEN>
+<TOKEN end_char="133" id="token-1-4" morph="none" pos="word" start_char="132">la</TOKEN>
+<TOKEN end_char="140" id="token-1-5" morph="none" pos="word" start_char="135">guerra</TOKEN>
+<TOKEN end_char="143" id="token-1-6" morph="none" pos="word" start_char="142">de</TOKEN>
+<TOKEN end_char="152" id="token-1-7" morph="none" pos="word" start_char="145">Alemania</TOKEN>
+<TOKEN end_char="159" id="token-1-8" morph="none" pos="word" start_char="154">contra</TOKEN>
+<TOKEN end_char="168" id="token-1-9" morph="none" pos="unknown" start_char="161">Covid-19</TOKEN>
+<TOKEN end_char="177" id="token-1-10" morph="none" pos="word" start_char="170">advirtió</TOKEN>
+<TOKEN end_char="181" id="token-1-11" morph="none" pos="word" start_char="179">que</TOKEN>
+<TOKEN end_char="185" id="token-1-12" morph="none" pos="word" start_char="183">las</TOKEN>
+<TOKEN end_char="196" id="token-1-13" morph="none" pos="word" start_char="187">vacaciones</TOKEN>
+<TOKEN end_char="199" id="token-1-14" morph="none" pos="word" start_char="198">en</TOKEN>
+<TOKEN end_char="204" id="token-1-15" morph="none" pos="word" start_char="201">casa</TOKEN>
+<TOKEN end_char="212" id="token-1-16" morph="none" pos="word" start_char="206">podrían</TOKEN>
+<TOKEN end_char="223" id="token-1-17" morph="none" pos="word" start_char="214">prohibirse</TOKEN>
+<TOKEN end_char="231" id="token-1-18" morph="none" pos="word" start_char="225">durante</TOKEN>
+<TOKEN end_char="236" id="token-1-19" morph="none" pos="word" start_char="233">tres</TOKEN>
+<TOKEN end_char="241" id="token-1-20" morph="none" pos="word" start_char="238">años</TOKEN>
+<TOKEN end_char="248" id="token-1-21" morph="none" pos="word" start_char="243">porque</TOKEN>
+<TOKEN end_char="251" id="token-1-22" morph="none" pos="word" start_char="250">el</TOKEN>
+<TOKEN end_char="257" id="token-1-23" morph="none" pos="word" start_char="253">virus</TOKEN>
+<TOKEN end_char="259" id="token-1-24" morph="none" pos="punct" start_char="259">'</TOKEN>
+<TOKEN end_char="261" id="token-1-25" morph="none" pos="word" start_char="260">no</TOKEN>
+<TOKEN end_char="266" id="token-1-26" morph="none" pos="word" start_char="263">está</TOKEN>
+<TOKEN end_char="281" id="token-1-27" morph="none" pos="word" start_char="268">desapareciendo</TOKEN>
+<TOKEN end_char="283" id="token-1-28" morph="none" pos="punct" start_char="282">'.</TOKEN>
+<TRANSLATED_TEXT>A scientist leading Germany's war against Covid-19 warned that home vacations could be banned for three years because the virus' is not disappearing '.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="393" id="segment-2" start_char="286">
+<ORIGINAL_TEXT>El profesor Hendrik Streeck cree que el coronavirus estará presente en nuestras vidas hasta 2023 sin vacuna.</ORIGINAL_TEXT>
+<TOKEN end_char="287" id="token-2-0" morph="none" pos="word" start_char="286">El</TOKEN>
+<TOKEN end_char="296" id="token-2-1" morph="none" pos="word" start_char="289">profesor</TOKEN>
+<TOKEN end_char="304" id="token-2-2" morph="none" pos="word" start_char="298">Hendrik</TOKEN>
+<TOKEN end_char="312" id="token-2-3" morph="none" pos="word" start_char="306">Streeck</TOKEN>
+<TOKEN end_char="317" id="token-2-4" morph="none" pos="word" start_char="314">cree</TOKEN>
+<TOKEN end_char="321" id="token-2-5" morph="none" pos="word" start_char="319">que</TOKEN>
+<TOKEN end_char="324" id="token-2-6" morph="none" pos="word" start_char="323">el</TOKEN>
+<TOKEN end_char="336" id="token-2-7" morph="none" pos="word" start_char="326">coronavirus</TOKEN>
+<TOKEN end_char="343" id="token-2-8" morph="none" pos="word" start_char="338">estará</TOKEN>
+<TOKEN end_char="352" id="token-2-9" morph="none" pos="word" start_char="345">presente</TOKEN>
+<TOKEN end_char="355" id="token-2-10" morph="none" pos="word" start_char="354">en</TOKEN>
+<TOKEN end_char="364" id="token-2-11" morph="none" pos="word" start_char="357">nuestras</TOKEN>
+<TOKEN end_char="370" id="token-2-12" morph="none" pos="word" start_char="366">vidas</TOKEN>
+<TOKEN end_char="376" id="token-2-13" morph="none" pos="word" start_char="372">hasta</TOKEN>
+<TOKEN end_char="381" id="token-2-14" morph="none" pos="word" start_char="378">2023</TOKEN>
+<TOKEN end_char="385" id="token-2-15" morph="none" pos="word" start_char="383">sin</TOKEN>
+<TOKEN end_char="392" id="token-2-16" morph="none" pos="word" start_char="387">vacuna</TOKEN>
+<TOKEN end_char="393" id="token-2-17" morph="none" pos="punct" start_char="393">.</TOKEN>
+<TRANSLATED_TEXT>Professor Hendrik Streeck believes that coronavirus will be present in our lives until 2023 without a vaccine.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="540" id="segment-3" start_char="396">
+<ORIGINAL_TEXT>Tu eres el resultado, El virólogo dice que las vacaciones y otras grandes reuniones deberán detenerse por completo para reducir las infecciones..</ORIGINAL_TEXT>
+<TOKEN end_char="397" id="token-3-0" morph="none" pos="word" start_char="396">Tu</TOKEN>
+<TOKEN end_char="402" id="token-3-1" morph="none" pos="word" start_char="399">eres</TOKEN>
+<TOKEN end_char="405" id="token-3-2" morph="none" pos="word" start_char="404">el</TOKEN>
+<TOKEN end_char="415" id="token-3-3" morph="none" pos="word" start_char="407">resultado</TOKEN>
+<TOKEN end_char="416" id="token-3-4" morph="none" pos="punct" start_char="416">,</TOKEN>
+<TOKEN end_char="419" id="token-3-5" morph="none" pos="word" start_char="418">El</TOKEN>
+<TOKEN end_char="428" id="token-3-6" morph="none" pos="word" start_char="421">virólogo</TOKEN>
+<TOKEN end_char="433" id="token-3-7" morph="none" pos="word" start_char="430">dice</TOKEN>
+<TOKEN end_char="437" id="token-3-8" morph="none" pos="word" start_char="435">que</TOKEN>
+<TOKEN end_char="441" id="token-3-9" morph="none" pos="word" start_char="439">las</TOKEN>
+<TOKEN end_char="452" id="token-3-10" morph="none" pos="word" start_char="443">vacaciones</TOKEN>
+<TOKEN end_char="454" id="token-3-11" morph="none" pos="word" start_char="454">y</TOKEN>
+<TOKEN end_char="460" id="token-3-12" morph="none" pos="word" start_char="456">otras</TOKEN>
+<TOKEN end_char="468" id="token-3-13" morph="none" pos="word" start_char="462">grandes</TOKEN>
+<TOKEN end_char="478" id="token-3-14" morph="none" pos="word" start_char="470">reuniones</TOKEN>
+<TOKEN end_char="486" id="token-3-15" morph="none" pos="word" start_char="480">deberán</TOKEN>
+<TOKEN end_char="496" id="token-3-16" morph="none" pos="word" start_char="488">detenerse</TOKEN>
+<TOKEN end_char="500" id="token-3-17" morph="none" pos="word" start_char="498">por</TOKEN>
+<TOKEN end_char="509" id="token-3-18" morph="none" pos="word" start_char="502">completo</TOKEN>
+<TOKEN end_char="514" id="token-3-19" morph="none" pos="word" start_char="511">para</TOKEN>
+<TOKEN end_char="522" id="token-3-20" morph="none" pos="word" start_char="516">reducir</TOKEN>
+<TOKEN end_char="526" id="token-3-21" morph="none" pos="word" start_char="524">las</TOKEN>
+<TOKEN end_char="538" id="token-3-22" morph="none" pos="word" start_char="528">infecciones</TOKEN>
+<TOKEN end_char="540" id="token-3-23" morph="none" pos="punct" start_char="539">..</TOKEN>
+<TRANSLATED_TEXT>You are the result, The virologist says that holidays and other large gatherings must stop altogether to reduce infections.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="577" id="segment-4" start_char="543">
+<ORIGINAL_TEXT>"Este virus no está desapareciendo.</ORIGINAL_TEXT>
+<TOKEN end_char="543" id="token-4-0" morph="none" pos="punct" start_char="543">"</TOKEN>
+<TOKEN end_char="547" id="token-4-1" morph="none" pos="word" start_char="544">Este</TOKEN>
+<TOKEN end_char="553" id="token-4-2" morph="none" pos="word" start_char="549">virus</TOKEN>
+<TOKEN end_char="556" id="token-4-3" morph="none" pos="word" start_char="555">no</TOKEN>
+<TOKEN end_char="561" id="token-4-4" morph="none" pos="word" start_char="558">está</TOKEN>
+<TOKEN end_char="576" id="token-4-5" morph="none" pos="word" start_char="563">desapareciendo</TOKEN>
+<TOKEN end_char="577" id="token-4-6" morph="none" pos="punct" start_char="577">.</TOKEN>
+<TRANSLATED_TEXT>This virus is not disappearing.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="746" id="segment-5" start_char="579">
+<ORIGINAL_TEXT>Ahora se ha convertido en parte de nuestra vida diaria.. Todavía estará aquí en tres años y tenemos que encontrar la manera de vivir con él '., le dijo al Daily Record.</ORIGINAL_TEXT>
+<TOKEN end_char="583" id="token-5-0" morph="none" pos="word" start_char="579">Ahora</TOKEN>
+<TOKEN end_char="586" id="token-5-1" morph="none" pos="word" start_char="585">se</TOKEN>
+<TOKEN end_char="589" id="token-5-2" morph="none" pos="word" start_char="588">ha</TOKEN>
+<TOKEN end_char="600" id="token-5-3" morph="none" pos="word" start_char="591">convertido</TOKEN>
+<TOKEN end_char="603" id="token-5-4" morph="none" pos="word" start_char="602">en</TOKEN>
+<TOKEN end_char="609" id="token-5-5" morph="none" pos="word" start_char="605">parte</TOKEN>
+<TOKEN end_char="612" id="token-5-6" morph="none" pos="word" start_char="611">de</TOKEN>
+<TOKEN end_char="620" id="token-5-7" morph="none" pos="word" start_char="614">nuestra</TOKEN>
+<TOKEN end_char="625" id="token-5-8" morph="none" pos="word" start_char="622">vida</TOKEN>
+<TOKEN end_char="632" id="token-5-9" morph="none" pos="word" start_char="627">diaria</TOKEN>
+<TOKEN end_char="634" id="token-5-10" morph="none" pos="punct" start_char="633">..</TOKEN>
+<TOKEN end_char="642" id="token-5-11" morph="none" pos="word" start_char="636">Todavía</TOKEN>
+<TOKEN end_char="649" id="token-5-12" morph="none" pos="word" start_char="644">estará</TOKEN>
+<TOKEN end_char="654" id="token-5-13" morph="none" pos="word" start_char="651">aquí</TOKEN>
+<TOKEN end_char="657" id="token-5-14" morph="none" pos="word" start_char="656">en</TOKEN>
+<TOKEN end_char="662" id="token-5-15" morph="none" pos="word" start_char="659">tres</TOKEN>
+<TOKEN end_char="667" id="token-5-16" morph="none" pos="word" start_char="664">años</TOKEN>
+<TOKEN end_char="669" id="token-5-17" morph="none" pos="word" start_char="669">y</TOKEN>
+<TOKEN end_char="677" id="token-5-18" morph="none" pos="word" start_char="671">tenemos</TOKEN>
+<TOKEN end_char="681" id="token-5-19" morph="none" pos="word" start_char="679">que</TOKEN>
+<TOKEN end_char="691" id="token-5-20" morph="none" pos="word" start_char="683">encontrar</TOKEN>
+<TOKEN end_char="694" id="token-5-21" morph="none" pos="word" start_char="693">la</TOKEN>
+<TOKEN end_char="701" id="token-5-22" morph="none" pos="word" start_char="696">manera</TOKEN>
+<TOKEN end_char="704" id="token-5-23" morph="none" pos="word" start_char="703">de</TOKEN>
+<TOKEN end_char="710" id="token-5-24" morph="none" pos="word" start_char="706">vivir</TOKEN>
+<TOKEN end_char="714" id="token-5-25" morph="none" pos="word" start_char="712">con</TOKEN>
+<TOKEN end_char="717" id="token-5-26" morph="none" pos="word" start_char="716">él</TOKEN>
+<TOKEN end_char="721" id="token-5-27" morph="none" pos="punct" start_char="719">'.,</TOKEN>
+<TOKEN end_char="724" id="token-5-28" morph="none" pos="word" start_char="723">le</TOKEN>
+<TOKEN end_char="729" id="token-5-29" morph="none" pos="word" start_char="726">dijo</TOKEN>
+<TOKEN end_char="732" id="token-5-30" morph="none" pos="word" start_char="731">al</TOKEN>
+<TOKEN end_char="738" id="token-5-31" morph="none" pos="word" start_char="734">Daily</TOKEN>
+<TOKEN end_char="745" id="token-5-32" morph="none" pos="word" start_char="740">Record</TOKEN>
+<TOKEN end_char="746" id="token-5-33" morph="none" pos="punct" start_char="746">.</TOKEN>
+<TRANSLATED_TEXT>Now it has become part of our daily life.. he will still be here in three years and we have to find a way to live with him. ', he told the Daily Record.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="905" id="segment-6" start_char="749">
+<ORIGINAL_TEXT>Añadió que una de las formas más importantes de mantener el virus bajo control sería detener los "eventos de superpropagación", como las vacaciones en casa..</ORIGINAL_TEXT>
+<TOKEN end_char="754" id="token-6-0" morph="none" pos="word" start_char="749">Añadió</TOKEN>
+<TOKEN end_char="758" id="token-6-1" morph="none" pos="word" start_char="756">que</TOKEN>
+<TOKEN end_char="762" id="token-6-2" morph="none" pos="word" start_char="760">una</TOKEN>
+<TOKEN end_char="765" id="token-6-3" morph="none" pos="word" start_char="764">de</TOKEN>
+<TOKEN end_char="769" id="token-6-4" morph="none" pos="word" start_char="767">las</TOKEN>
+<TOKEN end_char="776" id="token-6-5" morph="none" pos="word" start_char="771">formas</TOKEN>
+<TOKEN end_char="780" id="token-6-6" morph="none" pos="word" start_char="778">más</TOKEN>
+<TOKEN end_char="792" id="token-6-7" morph="none" pos="word" start_char="782">importantes</TOKEN>
+<TOKEN end_char="795" id="token-6-8" morph="none" pos="word" start_char="794">de</TOKEN>
+<TOKEN end_char="804" id="token-6-9" morph="none" pos="word" start_char="797">mantener</TOKEN>
+<TOKEN end_char="807" id="token-6-10" morph="none" pos="word" start_char="806">el</TOKEN>
+<TOKEN end_char="813" id="token-6-11" morph="none" pos="word" start_char="809">virus</TOKEN>
+<TOKEN end_char="818" id="token-6-12" morph="none" pos="word" start_char="815">bajo</TOKEN>
+<TOKEN end_char="826" id="token-6-13" morph="none" pos="word" start_char="820">control</TOKEN>
+<TOKEN end_char="832" id="token-6-14" morph="none" pos="word" start_char="828">sería</TOKEN>
+<TOKEN end_char="840" id="token-6-15" morph="none" pos="word" start_char="834">detener</TOKEN>
+<TOKEN end_char="844" id="token-6-16" morph="none" pos="word" start_char="842">los</TOKEN>
+<TOKEN end_char="846" id="token-6-17" morph="none" pos="punct" start_char="846">"</TOKEN>
+<TOKEN end_char="853" id="token-6-18" morph="none" pos="word" start_char="847">eventos</TOKEN>
+<TOKEN end_char="856" id="token-6-19" morph="none" pos="word" start_char="855">de</TOKEN>
+<TOKEN end_char="873" id="token-6-20" morph="none" pos="word" start_char="858">superpropagación</TOKEN>
+<TOKEN end_char="875" id="token-6-21" morph="none" pos="punct" start_char="874">",</TOKEN>
+<TOKEN end_char="880" id="token-6-22" morph="none" pos="word" start_char="877">como</TOKEN>
+<TOKEN end_char="884" id="token-6-23" morph="none" pos="word" start_char="882">las</TOKEN>
+<TOKEN end_char="895" id="token-6-24" morph="none" pos="word" start_char="886">vacaciones</TOKEN>
+<TOKEN end_char="898" id="token-6-25" morph="none" pos="word" start_char="897">en</TOKEN>
+<TOKEN end_char="903" id="token-6-26" morph="none" pos="word" start_char="900">casa</TOKEN>
+<TOKEN end_char="905" id="token-6-27" morph="none" pos="punct" start_char="904">..</TOKEN>
+<TRANSLATED_TEXT>He added that one of the most important ways to keep the virus under control would be to stop "superpropagation events," such as holidays at home.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1054" id="segment-7" start_char="908">
+<ORIGINAL_TEXT>El profesor Streeck dijo que era 'posible' desarrollar una vacuna para el virus, pero había dudas sobre cuánto tiempo tendría que estar disponible.</ORIGINAL_TEXT>
+<TOKEN end_char="909" id="token-7-0" morph="none" pos="word" start_char="908">El</TOKEN>
+<TOKEN end_char="918" id="token-7-1" morph="none" pos="word" start_char="911">profesor</TOKEN>
+<TOKEN end_char="926" id="token-7-2" morph="none" pos="word" start_char="920">Streeck</TOKEN>
+<TOKEN end_char="931" id="token-7-3" morph="none" pos="word" start_char="928">dijo</TOKEN>
+<TOKEN end_char="935" id="token-7-4" morph="none" pos="word" start_char="933">que</TOKEN>
+<TOKEN end_char="939" id="token-7-5" morph="none" pos="word" start_char="937">era</TOKEN>
+<TOKEN end_char="941" id="token-7-6" morph="none" pos="punct" start_char="941">'</TOKEN>
+<TOKEN end_char="948" id="token-7-7" morph="none" pos="word" start_char="942">posible</TOKEN>
+<TOKEN end_char="949" id="token-7-8" morph="none" pos="punct" start_char="949">'</TOKEN>
+<TOKEN end_char="961" id="token-7-9" morph="none" pos="word" start_char="951">desarrollar</TOKEN>
+<TOKEN end_char="965" id="token-7-10" morph="none" pos="word" start_char="963">una</TOKEN>
+<TOKEN end_char="972" id="token-7-11" morph="none" pos="word" start_char="967">vacuna</TOKEN>
+<TOKEN end_char="977" id="token-7-12" morph="none" pos="word" start_char="974">para</TOKEN>
+<TOKEN end_char="980" id="token-7-13" morph="none" pos="word" start_char="979">el</TOKEN>
+<TOKEN end_char="986" id="token-7-14" morph="none" pos="word" start_char="982">virus</TOKEN>
+<TOKEN end_char="987" id="token-7-15" morph="none" pos="punct" start_char="987">,</TOKEN>
+<TOKEN end_char="992" id="token-7-16" morph="none" pos="word" start_char="989">pero</TOKEN>
+<TOKEN end_char="998" id="token-7-17" morph="none" pos="word" start_char="994">había</TOKEN>
+<TOKEN end_char="1004" id="token-7-18" morph="none" pos="word" start_char="1000">dudas</TOKEN>
+<TOKEN end_char="1010" id="token-7-19" morph="none" pos="word" start_char="1006">sobre</TOKEN>
+<TOKEN end_char="1017" id="token-7-20" morph="none" pos="word" start_char="1012">cuánto</TOKEN>
+<TOKEN end_char="1024" id="token-7-21" morph="none" pos="word" start_char="1019">tiempo</TOKEN>
+<TOKEN end_char="1032" id="token-7-22" morph="none" pos="word" start_char="1026">tendría</TOKEN>
+<TOKEN end_char="1036" id="token-7-23" morph="none" pos="word" start_char="1034">que</TOKEN>
+<TOKEN end_char="1042" id="token-7-24" morph="none" pos="word" start_char="1038">estar</TOKEN>
+<TOKEN end_char="1053" id="token-7-25" morph="none" pos="word" start_char="1044">disponible</TOKEN>
+<TOKEN end_char="1054" id="token-7-26" morph="none" pos="punct" start_char="1054">.</TOKEN>
+<TRANSLATED_TEXT>Professor Streeck said it was' possible 'to develop a vaccine for the virus, but there were doubts about how long it would have to be available.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1196" id="segment-8" start_char="1057">
+<ORIGINAL_TEXT>El cargo "El virus no está desapareciendo"- El científico advierte: Las vacaciones se pueden prohibir hasta ... apareció primero en abierto.</ORIGINAL_TEXT>
+<TOKEN end_char="1058" id="token-8-0" morph="none" pos="word" start_char="1057">El</TOKEN>
+<TOKEN end_char="1064" id="token-8-1" morph="none" pos="word" start_char="1060">cargo</TOKEN>
+<TOKEN end_char="1066" id="token-8-2" morph="none" pos="punct" start_char="1066">"</TOKEN>
+<TOKEN end_char="1068" id="token-8-3" morph="none" pos="word" start_char="1067">El</TOKEN>
+<TOKEN end_char="1074" id="token-8-4" morph="none" pos="word" start_char="1070">virus</TOKEN>
+<TOKEN end_char="1077" id="token-8-5" morph="none" pos="word" start_char="1076">no</TOKEN>
+<TOKEN end_char="1082" id="token-8-6" morph="none" pos="word" start_char="1079">está</TOKEN>
+<TOKEN end_char="1097" id="token-8-7" morph="none" pos="word" start_char="1084">desapareciendo</TOKEN>
+<TOKEN end_char="1099" id="token-8-8" morph="none" pos="punct" start_char="1098">"-</TOKEN>
+<TOKEN end_char="1102" id="token-8-9" morph="none" pos="word" start_char="1101">El</TOKEN>
+<TOKEN end_char="1113" id="token-8-10" morph="none" pos="word" start_char="1104">científico</TOKEN>
+<TOKEN end_char="1122" id="token-8-11" morph="none" pos="word" start_char="1115">advierte</TOKEN>
+<TOKEN end_char="1123" id="token-8-12" morph="none" pos="punct" start_char="1123">:</TOKEN>
+<TOKEN end_char="1127" id="token-8-13" morph="none" pos="word" start_char="1125">Las</TOKEN>
+<TOKEN end_char="1138" id="token-8-14" morph="none" pos="word" start_char="1129">vacaciones</TOKEN>
+<TOKEN end_char="1141" id="token-8-15" morph="none" pos="word" start_char="1140">se</TOKEN>
+<TOKEN end_char="1148" id="token-8-16" morph="none" pos="word" start_char="1143">pueden</TOKEN>
+<TOKEN end_char="1157" id="token-8-17" morph="none" pos="word" start_char="1150">prohibir</TOKEN>
+<TOKEN end_char="1163" id="token-8-18" morph="none" pos="word" start_char="1159">hasta</TOKEN>
+<TOKEN end_char="1167" id="token-8-19" morph="none" pos="punct" start_char="1165">...</TOKEN>
+<TOKEN end_char="1176" id="token-8-20" morph="none" pos="word" start_char="1169">apareció</TOKEN>
+<TOKEN end_char="1184" id="token-8-21" morph="none" pos="word" start_char="1178">primero</TOKEN>
+<TOKEN end_char="1187" id="token-8-22" morph="none" pos="word" start_char="1186">en</TOKEN>
+<TOKEN end_char="1195" id="token-8-23" morph="none" pos="word" start_char="1189">abierto</TOKEN>
+<TOKEN end_char="1196" id="token-8-24" morph="none" pos="punct" start_char="1196">.</TOKEN>
+<TRANSLATED_TEXT>The post "The virus is not disappearing" - The scientist warns: Holidays can be banned until... appeared first in open.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

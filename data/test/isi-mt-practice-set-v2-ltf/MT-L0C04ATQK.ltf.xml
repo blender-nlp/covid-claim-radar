@@ -1,0 +1,74 @@
+<LCTL_TEXT lang="spa">
+<DOC grammar="none" id="L0C04ATQK" lang="spa" raw_text_char_length="310" raw_text_md5="9b77aaa31d7e2402836c05daa22bf5fe" tokenization="tokenization_parameters.v5.0">
+<TEXT>
+<SEG end_char="58" id="segment-0" start_char="1">
+<ORIGINAL_TEXT>COVID-19: Se cumple un año del primer caso en Wuhan, China</ORIGINAL_TEXT>
+<TOKEN end_char="8" id="token-0-0" morph="none" pos="unknown" start_char="1">COVID-19</TOKEN>
+<TOKEN end_char="9" id="token-0-1" morph="none" pos="punct" start_char="9">:</TOKEN>
+<TOKEN end_char="12" id="token-0-2" morph="none" pos="word" start_char="11">Se</TOKEN>
+<TOKEN end_char="19" id="token-0-3" morph="none" pos="word" start_char="14">cumple</TOKEN>
+<TOKEN end_char="22" id="token-0-4" morph="none" pos="word" start_char="21">un</TOKEN>
+<TOKEN end_char="26" id="token-0-5" morph="none" pos="word" start_char="24">año</TOKEN>
+<TOKEN end_char="30" id="token-0-6" morph="none" pos="word" start_char="28">del</TOKEN>
+<TOKEN end_char="37" id="token-0-7" morph="none" pos="word" start_char="32">primer</TOKEN>
+<TOKEN end_char="42" id="token-0-8" morph="none" pos="word" start_char="39">caso</TOKEN>
+<TOKEN end_char="45" id="token-0-9" morph="none" pos="word" start_char="44">en</TOKEN>
+<TOKEN end_char="51" id="token-0-10" morph="none" pos="word" start_char="47">Wuhan</TOKEN>
+<TOKEN end_char="52" id="token-0-11" morph="none" pos="punct" start_char="52">,</TOKEN>
+<TOKEN end_char="58" id="token-0-12" morph="none" pos="word" start_char="54">China</TOKEN>
+<TRANSLATED_TEXT>COVID-19: A year of the first case in Wuhan, China</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="169" id="segment-1" start_char="63">
+<ORIGINAL_TEXT>El Departamento de Salud Pública del Condado de Forsyth abre citas de vacunación contra COVID-19 para la...</ORIGINAL_TEXT>
+<TOKEN end_char="64" id="token-1-0" morph="none" pos="word" start_char="63">El</TOKEN>
+<TOKEN end_char="77" id="token-1-1" morph="none" pos="word" start_char="66">Departamento</TOKEN>
+<TOKEN end_char="80" id="token-1-2" morph="none" pos="word" start_char="79">de</TOKEN>
+<TOKEN end_char="86" id="token-1-3" morph="none" pos="word" start_char="82">Salud</TOKEN>
+<TOKEN end_char="94" id="token-1-4" morph="none" pos="word" start_char="88">Pública</TOKEN>
+<TOKEN end_char="98" id="token-1-5" morph="none" pos="word" start_char="96">del</TOKEN>
+<TOKEN end_char="106" id="token-1-6" morph="none" pos="word" start_char="100">Condado</TOKEN>
+<TOKEN end_char="109" id="token-1-7" morph="none" pos="word" start_char="108">de</TOKEN>
+<TOKEN end_char="117" id="token-1-8" morph="none" pos="word" start_char="111">Forsyth</TOKEN>
+<TOKEN end_char="122" id="token-1-9" morph="none" pos="word" start_char="119">abre</TOKEN>
+<TOKEN end_char="128" id="token-1-10" morph="none" pos="word" start_char="124">citas</TOKEN>
+<TOKEN end_char="131" id="token-1-11" morph="none" pos="word" start_char="130">de</TOKEN>
+<TOKEN end_char="142" id="token-1-12" morph="none" pos="word" start_char="133">vacunación</TOKEN>
+<TOKEN end_char="149" id="token-1-13" morph="none" pos="word" start_char="144">contra</TOKEN>
+<TOKEN end_char="158" id="token-1-14" morph="none" pos="unknown" start_char="151">COVID-19</TOKEN>
+<TOKEN end_char="163" id="token-1-15" morph="none" pos="word" start_char="160">para</TOKEN>
+<TOKEN end_char="166" id="token-1-16" morph="none" pos="word" start_char="165">la</TOKEN>
+<TOKEN end_char="169" id="token-1-17" morph="none" pos="punct" start_char="167">...</TOKEN>
+<TRANSLATED_TEXT>The Forsyth County Department of Public Health opens vaccination appointments against COVID-19 for the...</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="240" id="segment-2" start_char="174">
+<ORIGINAL_TEXT>Aunque la gente ya haya recibido la vacuna anti COVID-19, se han...</ORIGINAL_TEXT>
+<TOKEN end_char="179" id="token-2-0" morph="none" pos="word" start_char="174">Aunque</TOKEN>
+<TOKEN end_char="182" id="token-2-1" morph="none" pos="word" start_char="181">la</TOKEN>
+<TOKEN end_char="188" id="token-2-2" morph="none" pos="word" start_char="184">gente</TOKEN>
+<TOKEN end_char="191" id="token-2-3" morph="none" pos="word" start_char="190">ya</TOKEN>
+<TOKEN end_char="196" id="token-2-4" morph="none" pos="word" start_char="193">haya</TOKEN>
+<TOKEN end_char="205" id="token-2-5" morph="none" pos="word" start_char="198">recibido</TOKEN>
+<TOKEN end_char="208" id="token-2-6" morph="none" pos="word" start_char="207">la</TOKEN>
+<TOKEN end_char="215" id="token-2-7" morph="none" pos="word" start_char="210">vacuna</TOKEN>
+<TOKEN end_char="220" id="token-2-8" morph="none" pos="word" start_char="217">anti</TOKEN>
+<TOKEN end_char="229" id="token-2-9" morph="none" pos="unknown" start_char="222">COVID-19</TOKEN>
+<TOKEN end_char="230" id="token-2-10" morph="none" pos="punct" start_char="230">,</TOKEN>
+<TOKEN end_char="233" id="token-2-11" morph="none" pos="word" start_char="232">se</TOKEN>
+<TOKEN end_char="237" id="token-2-12" morph="none" pos="word" start_char="235">han</TOKEN>
+<TOKEN end_char="240" id="token-2-13" morph="none" pos="punct" start_char="238">...</TOKEN>
+<TRANSLATED_TEXT>Although people have already received the COVID-19 vaccine, they have...</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="306" id="segment-3" start_char="245">
+<ORIGINAL_TEXT>Cuando el dinero de ayuda federal CARES Act COVID-19 estuvo...</ORIGINAL_TEXT>
+<TOKEN end_char="250" id="token-3-0" morph="none" pos="word" start_char="245">Cuando</TOKEN>
+<TOKEN end_char="253" id="token-3-1" morph="none" pos="word" start_char="252">el</TOKEN>
+<TOKEN end_char="260" id="token-3-2" morph="none" pos="word" start_char="255">dinero</TOKEN>
+<TOKEN end_char="263" id="token-3-3" morph="none" pos="word" start_char="262">de</TOKEN>
+<TOKEN end_char="269" id="token-3-4" morph="none" pos="word" start_char="265">ayuda</TOKEN>
+<TOKEN end_char="277" id="token-3-5" morph="none" pos="word" start_char="271">federal</TOKEN>
+<TOKEN end_char="283" id="token-3-6" morph="none" pos="word" start_char="279">CARES</TOKEN>
+<TOKEN end_char="287" id="token-3-7" morph="none" pos="word" start_char="285">Act</TOKEN>
+<TOKEN end_char="296" id="token-3-8" morph="none" pos="unknown" start_char="289">COVID-19</TOKEN>
+<TOKEN end_char="303" id="token-3-9" morph="none" pos="word" start_char="298">estuvo</TOKEN>
+<TOKEN end_char="306" id="token-3-10" morph="none" pos="punct" start_char="304">...</TOKEN>
+<TRANSLATED_TEXT>When the federal aid money CARES Act COVID-19 was...</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

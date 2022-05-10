@@ -1,0 +1,207 @@
+<LCTL_TEXT lang="spa">
+<DOC grammar="none" id="L0C04CVEN" lang="spa" raw_text_char_length="1021" raw_text_md5="832f8452d7e57373fef607eb7852411b" tokenization="tokenization_parameters.v5.0">
+<TEXT>
+<SEG end_char="10" id="segment-0" start_char="1">
+<ORIGINAL_TEXT>Tus datos.</ORIGINAL_TEXT>
+<TOKEN end_char="3" id="token-0-0" morph="none" pos="word" start_char="1">Tus</TOKEN>
+<TOKEN end_char="9" id="token-0-1" morph="none" pos="word" start_char="5">datos</TOKEN>
+<TOKEN end_char="10" id="token-0-2" morph="none" pos="punct" start_char="10">.</TOKEN>
+<TRANSLATED_TEXT>Your data.</TRANSLATED_TEXT><DETECTED_LANGUAGE>lt</DETECTED_LANGUAGE></SEG>
+<SEG end_char="26" id="segment-1" start_char="12">
+<ORIGINAL_TEXT>Tu experiencia.</ORIGINAL_TEXT>
+<TOKEN end_char="13" id="token-1-0" morph="none" pos="word" start_char="12">Tu</TOKEN>
+<TOKEN end_char="25" id="token-1-1" morph="none" pos="word" start_char="15">experiencia</TOKEN>
+<TOKEN end_char="26" id="token-1-2" morph="none" pos="punct" start_char="26">.</TOKEN>
+<TRANSLATED_TEXT>Your experience.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="64" id="segment-2" start_char="30">
+<ORIGINAL_TEXT>Yahoo forma parte de Verizon Media.</ORIGINAL_TEXT>
+<TOKEN end_char="34" id="token-2-0" morph="none" pos="word" start_char="30">Yahoo</TOKEN>
+<TOKEN end_char="40" id="token-2-1" morph="none" pos="word" start_char="36">forma</TOKEN>
+<TOKEN end_char="46" id="token-2-2" morph="none" pos="word" start_char="42">parte</TOKEN>
+<TOKEN end_char="49" id="token-2-3" morph="none" pos="word" start_char="48">de</TOKEN>
+<TOKEN end_char="57" id="token-2-4" morph="none" pos="word" start_char="51">Verizon</TOKEN>
+<TOKEN end_char="63" id="token-2-5" morph="none" pos="word" start_char="59">Media</TOKEN>
+<TOKEN end_char="64" id="token-2-6" morph="none" pos="punct" start_char="64">.</TOKEN>
+<TRANSLATED_TEXT>Yahoo is part of Verizon Media.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="394" id="segment-3" start_char="67">
+<ORIGINAL_TEXT>Al hacer clic en "Aceptar todo" aceptas que Verizon Media y nuestros socios almacenen y/o accedan a la información de tu dispositivo mediante el uso de cookies y tecnologías similares, a fin de mostrar anuncios y contenido personalizados, evaluar anuncios y contenido, obtener datos sobre la audiencia y desarrollar el producto.</ORIGINAL_TEXT>
+<TOKEN end_char="68" id="token-3-0" morph="none" pos="word" start_char="67">Al</TOKEN>
+<TOKEN end_char="74" id="token-3-1" morph="none" pos="word" start_char="70">hacer</TOKEN>
+<TOKEN end_char="79" id="token-3-2" morph="none" pos="word" start_char="76">clic</TOKEN>
+<TOKEN end_char="82" id="token-3-3" morph="none" pos="word" start_char="81">en</TOKEN>
+<TOKEN end_char="84" id="token-3-4" morph="none" pos="punct" start_char="84">"</TOKEN>
+<TOKEN end_char="91" id="token-3-5" morph="none" pos="word" start_char="85">Aceptar</TOKEN>
+<TOKEN end_char="96" id="token-3-6" morph="none" pos="word" start_char="93">todo</TOKEN>
+<TOKEN end_char="97" id="token-3-7" morph="none" pos="punct" start_char="97">"</TOKEN>
+<TOKEN end_char="105" id="token-3-8" morph="none" pos="word" start_char="99">aceptas</TOKEN>
+<TOKEN end_char="109" id="token-3-9" morph="none" pos="word" start_char="107">que</TOKEN>
+<TOKEN end_char="117" id="token-3-10" morph="none" pos="word" start_char="111">Verizon</TOKEN>
+<TOKEN end_char="123" id="token-3-11" morph="none" pos="word" start_char="119">Media</TOKEN>
+<TOKEN end_char="125" id="token-3-12" morph="none" pos="word" start_char="125">y</TOKEN>
+<TOKEN end_char="134" id="token-3-13" morph="none" pos="word" start_char="127">nuestros</TOKEN>
+<TOKEN end_char="141" id="token-3-14" morph="none" pos="word" start_char="136">socios</TOKEN>
+<TOKEN end_char="151" id="token-3-15" morph="none" pos="word" start_char="143">almacenen</TOKEN>
+<TOKEN end_char="155" id="token-3-16" morph="none" pos="unknown" start_char="153">y/o</TOKEN>
+<TOKEN end_char="163" id="token-3-17" morph="none" pos="word" start_char="157">accedan</TOKEN>
+<TOKEN end_char="165" id="token-3-18" morph="none" pos="word" start_char="165">a</TOKEN>
+<TOKEN end_char="168" id="token-3-19" morph="none" pos="word" start_char="167">la</TOKEN>
+<TOKEN end_char="180" id="token-3-20" morph="none" pos="word" start_char="170">información</TOKEN>
+<TOKEN end_char="183" id="token-3-21" morph="none" pos="word" start_char="182">de</TOKEN>
+<TOKEN end_char="186" id="token-3-22" morph="none" pos="word" start_char="185">tu</TOKEN>
+<TOKEN end_char="198" id="token-3-23" morph="none" pos="word" start_char="188">dispositivo</TOKEN>
+<TOKEN end_char="207" id="token-3-24" morph="none" pos="word" start_char="200">mediante</TOKEN>
+<TOKEN end_char="210" id="token-3-25" morph="none" pos="word" start_char="209">el</TOKEN>
+<TOKEN end_char="214" id="token-3-26" morph="none" pos="word" start_char="212">uso</TOKEN>
+<TOKEN end_char="217" id="token-3-27" morph="none" pos="word" start_char="216">de</TOKEN>
+<TOKEN end_char="225" id="token-3-28" morph="none" pos="word" start_char="219">cookies</TOKEN>
+<TOKEN end_char="227" id="token-3-29" morph="none" pos="word" start_char="227">y</TOKEN>
+<TOKEN end_char="239" id="token-3-30" morph="none" pos="word" start_char="229">tecnologías</TOKEN>
+<TOKEN end_char="249" id="token-3-31" morph="none" pos="word" start_char="241">similares</TOKEN>
+<TOKEN end_char="250" id="token-3-32" morph="none" pos="punct" start_char="250">,</TOKEN>
+<TOKEN end_char="252" id="token-3-33" morph="none" pos="word" start_char="252">a</TOKEN>
+<TOKEN end_char="256" id="token-3-34" morph="none" pos="word" start_char="254">fin</TOKEN>
+<TOKEN end_char="259" id="token-3-35" morph="none" pos="word" start_char="258">de</TOKEN>
+<TOKEN end_char="267" id="token-3-36" morph="none" pos="word" start_char="261">mostrar</TOKEN>
+<TOKEN end_char="276" id="token-3-37" morph="none" pos="word" start_char="269">anuncios</TOKEN>
+<TOKEN end_char="278" id="token-3-38" morph="none" pos="word" start_char="278">y</TOKEN>
+<TOKEN end_char="288" id="token-3-39" morph="none" pos="word" start_char="280">contenido</TOKEN>
+<TOKEN end_char="303" id="token-3-40" morph="none" pos="word" start_char="290">personalizados</TOKEN>
+<TOKEN end_char="304" id="token-3-41" morph="none" pos="punct" start_char="304">,</TOKEN>
+<TOKEN end_char="312" id="token-3-42" morph="none" pos="word" start_char="306">evaluar</TOKEN>
+<TOKEN end_char="321" id="token-3-43" morph="none" pos="word" start_char="314">anuncios</TOKEN>
+<TOKEN end_char="323" id="token-3-44" morph="none" pos="word" start_char="323">y</TOKEN>
+<TOKEN end_char="333" id="token-3-45" morph="none" pos="word" start_char="325">contenido</TOKEN>
+<TOKEN end_char="334" id="token-3-46" morph="none" pos="punct" start_char="334">,</TOKEN>
+<TOKEN end_char="342" id="token-3-47" morph="none" pos="word" start_char="336">obtener</TOKEN>
+<TOKEN end_char="348" id="token-3-48" morph="none" pos="word" start_char="344">datos</TOKEN>
+<TOKEN end_char="354" id="token-3-49" morph="none" pos="word" start_char="350">sobre</TOKEN>
+<TOKEN end_char="357" id="token-3-50" morph="none" pos="word" start_char="356">la</TOKEN>
+<TOKEN end_char="367" id="token-3-51" morph="none" pos="word" start_char="359">audiencia</TOKEN>
+<TOKEN end_char="369" id="token-3-52" morph="none" pos="word" start_char="369">y</TOKEN>
+<TOKEN end_char="381" id="token-3-53" morph="none" pos="word" start_char="371">desarrollar</TOKEN>
+<TOKEN end_char="384" id="token-3-54" morph="none" pos="word" start_char="383">el</TOKEN>
+<TOKEN end_char="393" id="token-3-55" morph="none" pos="word" start_char="386">producto</TOKEN>
+<TOKEN end_char="394" id="token-3-56" morph="none" pos="punct" start_char="394">.</TOKEN>
+<TRANSLATED_TEXT>By clicking "Accept Everything," you accept that Verizon Media and our partners store and / or access your device information using cookies and similar technologies, in order to display custom ads and content, evaluate ads and content, obtain audience data, and develop the product.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="433" id="segment-4" start_char="397">
+<ORIGINAL_TEXT>Datos personales que podemos utilizar</ORIGINAL_TEXT>
+<TOKEN end_char="401" id="token-4-0" morph="none" pos="word" start_char="397">Datos</TOKEN>
+<TOKEN end_char="412" id="token-4-1" morph="none" pos="word" start_char="403">personales</TOKEN>
+<TOKEN end_char="416" id="token-4-2" morph="none" pos="word" start_char="414">que</TOKEN>
+<TOKEN end_char="424" id="token-4-3" morph="none" pos="word" start_char="418">podemos</TOKEN>
+<TOKEN end_char="433" id="token-4-4" morph="none" pos="word" start_char="426">utilizar</TOKEN>
+<TRANSLATED_TEXT>Personal data we can use</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="517" id="segment-5" start_char="438">
+<ORIGINAL_TEXT>Información sobre tu dispositivo y conexión a Internet, incluida tu dirección IP</ORIGINAL_TEXT>
+<TOKEN end_char="448" id="token-5-0" morph="none" pos="word" start_char="438">Información</TOKEN>
+<TOKEN end_char="454" id="token-5-1" morph="none" pos="word" start_char="450">sobre</TOKEN>
+<TOKEN end_char="457" id="token-5-2" morph="none" pos="word" start_char="456">tu</TOKEN>
+<TOKEN end_char="469" id="token-5-3" morph="none" pos="word" start_char="459">dispositivo</TOKEN>
+<TOKEN end_char="471" id="token-5-4" morph="none" pos="word" start_char="471">y</TOKEN>
+<TOKEN end_char="480" id="token-5-5" morph="none" pos="word" start_char="473">conexión</TOKEN>
+<TOKEN end_char="482" id="token-5-6" morph="none" pos="word" start_char="482">a</TOKEN>
+<TOKEN end_char="491" id="token-5-7" morph="none" pos="word" start_char="484">Internet</TOKEN>
+<TOKEN end_char="492" id="token-5-8" morph="none" pos="punct" start_char="492">,</TOKEN>
+<TOKEN end_char="501" id="token-5-9" morph="none" pos="word" start_char="494">incluida</TOKEN>
+<TOKEN end_char="504" id="token-5-10" morph="none" pos="word" start_char="503">tu</TOKEN>
+<TOKEN end_char="514" id="token-5-11" morph="none" pos="word" start_char="506">dirección</TOKEN>
+<TOKEN end_char="517" id="token-5-12" morph="none" pos="word" start_char="516">IP</TOKEN>
+<TRANSLATED_TEXT>Information about your device and Internet connection, including your IP address</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="609" id="segment-6" start_char="521">
+<ORIGINAL_TEXT>Actividad de navegación y búsqueda al utilizar sitios web y aplicaciones de Verizon Media</ORIGINAL_TEXT>
+<TOKEN end_char="529" id="token-6-0" morph="none" pos="word" start_char="521">Actividad</TOKEN>
+<TOKEN end_char="532" id="token-6-1" morph="none" pos="word" start_char="531">de</TOKEN>
+<TOKEN end_char="543" id="token-6-2" morph="none" pos="word" start_char="534">navegación</TOKEN>
+<TOKEN end_char="545" id="token-6-3" morph="none" pos="word" start_char="545">y</TOKEN>
+<TOKEN end_char="554" id="token-6-4" morph="none" pos="word" start_char="547">búsqueda</TOKEN>
+<TOKEN end_char="557" id="token-6-5" morph="none" pos="word" start_char="556">al</TOKEN>
+<TOKEN end_char="566" id="token-6-6" morph="none" pos="word" start_char="559">utilizar</TOKEN>
+<TOKEN end_char="573" id="token-6-7" morph="none" pos="word" start_char="568">sitios</TOKEN>
+<TOKEN end_char="577" id="token-6-8" morph="none" pos="word" start_char="575">web</TOKEN>
+<TOKEN end_char="579" id="token-6-9" morph="none" pos="word" start_char="579">y</TOKEN>
+<TOKEN end_char="592" id="token-6-10" morph="none" pos="word" start_char="581">aplicaciones</TOKEN>
+<TOKEN end_char="595" id="token-6-11" morph="none" pos="word" start_char="594">de</TOKEN>
+<TOKEN end_char="603" id="token-6-12" morph="none" pos="word" start_char="597">Verizon</TOKEN>
+<TOKEN end_char="609" id="token-6-13" morph="none" pos="word" start_char="605">Media</TOKEN>
+<TRANSLATED_TEXT>Browsing and searching activity using Verizon Media websites and applications</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="629" id="segment-7" start_char="613">
+<ORIGINAL_TEXT>Ubicación precisa</ORIGINAL_TEXT>
+<TOKEN end_char="621" id="token-7-0" morph="none" pos="word" start_char="613">Ubicación</TOKEN>
+<TOKEN end_char="629" id="token-7-1" morph="none" pos="word" start_char="623">precisa</TOKEN>
+<TRANSLATED_TEXT>Accurate Location</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="735" id="segment-8" start_char="634">
+<ORIGINAL_TEXT>Puedes seleccionar 'Gestionar ajustes' para conocer más información sobre cómo gestionar tus opciones.</ORIGINAL_TEXT>
+<TOKEN end_char="639" id="token-8-0" morph="none" pos="word" start_char="634">Puedes</TOKEN>
+<TOKEN end_char="651" id="token-8-1" morph="none" pos="word" start_char="641">seleccionar</TOKEN>
+<TOKEN end_char="653" id="token-8-2" morph="none" pos="punct" start_char="653">'</TOKEN>
+<TOKEN end_char="662" id="token-8-3" morph="none" pos="word" start_char="654">Gestionar</TOKEN>
+<TOKEN end_char="670" id="token-8-4" morph="none" pos="word" start_char="664">ajustes</TOKEN>
+<TOKEN end_char="671" id="token-8-5" morph="none" pos="punct" start_char="671">'</TOKEN>
+<TOKEN end_char="676" id="token-8-6" morph="none" pos="word" start_char="673">para</TOKEN>
+<TOKEN end_char="684" id="token-8-7" morph="none" pos="word" start_char="678">conocer</TOKEN>
+<TOKEN end_char="688" id="token-8-8" morph="none" pos="word" start_char="686">más</TOKEN>
+<TOKEN end_char="700" id="token-8-9" morph="none" pos="word" start_char="690">información</TOKEN>
+<TOKEN end_char="706" id="token-8-10" morph="none" pos="word" start_char="702">sobre</TOKEN>
+<TOKEN end_char="711" id="token-8-11" morph="none" pos="word" start_char="708">cómo</TOKEN>
+<TOKEN end_char="721" id="token-8-12" morph="none" pos="word" start_char="713">gestionar</TOKEN>
+<TOKEN end_char="725" id="token-8-13" morph="none" pos="word" start_char="723">tus</TOKEN>
+<TOKEN end_char="734" id="token-8-14" morph="none" pos="word" start_char="727">opciones</TOKEN>
+<TOKEN end_char="735" id="token-8-15" morph="none" pos="punct" start_char="735">.</TOKEN>
+<TRANSLATED_TEXT>You can select 'Manage Settings' to learn more about how to manage your options.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="818" id="segment-9" start_char="737">
+<ORIGINAL_TEXT>Puedes cambiar tus opciones en todo momento visitando Tus controles de privacidad.</ORIGINAL_TEXT>
+<TOKEN end_char="742" id="token-9-0" morph="none" pos="word" start_char="737">Puedes</TOKEN>
+<TOKEN end_char="750" id="token-9-1" morph="none" pos="word" start_char="744">cambiar</TOKEN>
+<TOKEN end_char="754" id="token-9-2" morph="none" pos="word" start_char="752">tus</TOKEN>
+<TOKEN end_char="763" id="token-9-3" morph="none" pos="word" start_char="756">opciones</TOKEN>
+<TOKEN end_char="766" id="token-9-4" morph="none" pos="word" start_char="765">en</TOKEN>
+<TOKEN end_char="771" id="token-9-5" morph="none" pos="word" start_char="768">todo</TOKEN>
+<TOKEN end_char="779" id="token-9-6" morph="none" pos="word" start_char="773">momento</TOKEN>
+<TOKEN end_char="789" id="token-9-7" morph="none" pos="word" start_char="781">visitando</TOKEN>
+<TOKEN end_char="793" id="token-9-8" morph="none" pos="word" start_char="791">Tus</TOKEN>
+<TOKEN end_char="803" id="token-9-9" morph="none" pos="word" start_char="795">controles</TOKEN>
+<TOKEN end_char="806" id="token-9-10" morph="none" pos="word" start_char="805">de</TOKEN>
+<TOKEN end_char="817" id="token-9-11" morph="none" pos="word" start_char="808">privacidad</TOKEN>
+<TOKEN end_char="818" id="token-9-12" morph="none" pos="punct" start_char="818">.</TOKEN>
+<TRANSLATED_TEXT>You can change your options at any time by visiting Your privacy controls.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="951" id="segment-10" start_char="820">
+<ORIGINAL_TEXT>Para obtener más información sobre cómo utilizamos tu información, consulta nuestra Política de privacidad y la Política de cookies.</ORIGINAL_TEXT>
+<TOKEN end_char="823" id="token-10-0" morph="none" pos="word" start_char="820">Para</TOKEN>
+<TOKEN end_char="831" id="token-10-1" morph="none" pos="word" start_char="825">obtener</TOKEN>
+<TOKEN end_char="835" id="token-10-2" morph="none" pos="word" start_char="833">más</TOKEN>
+<TOKEN end_char="847" id="token-10-3" morph="none" pos="word" start_char="837">información</TOKEN>
+<TOKEN end_char="853" id="token-10-4" morph="none" pos="word" start_char="849">sobre</TOKEN>
+<TOKEN end_char="858" id="token-10-5" morph="none" pos="word" start_char="855">cómo</TOKEN>
+<TOKEN end_char="869" id="token-10-6" morph="none" pos="word" start_char="860">utilizamos</TOKEN>
+<TOKEN end_char="872" id="token-10-7" morph="none" pos="word" start_char="871">tu</TOKEN>
+<TOKEN end_char="884" id="token-10-8" morph="none" pos="word" start_char="874">información</TOKEN>
+<TOKEN end_char="885" id="token-10-9" morph="none" pos="punct" start_char="885">,</TOKEN>
+<TOKEN end_char="894" id="token-10-10" morph="none" pos="word" start_char="887">consulta</TOKEN>
+<TOKEN end_char="902" id="token-10-11" morph="none" pos="word" start_char="896">nuestra</TOKEN>
+<TOKEN end_char="911" id="token-10-12" morph="none" pos="word" start_char="904">Política</TOKEN>
+<TOKEN end_char="914" id="token-10-13" morph="none" pos="word" start_char="913">de</TOKEN>
+<TOKEN end_char="925" id="token-10-14" morph="none" pos="word" start_char="916">privacidad</TOKEN>
+<TOKEN end_char="927" id="token-10-15" morph="none" pos="word" start_char="927">y</TOKEN>
+<TOKEN end_char="930" id="token-10-16" morph="none" pos="word" start_char="929">la</TOKEN>
+<TOKEN end_char="939" id="token-10-17" morph="none" pos="word" start_char="932">Política</TOKEN>
+<TOKEN end_char="942" id="token-10-18" morph="none" pos="word" start_char="941">de</TOKEN>
+<TOKEN end_char="950" id="token-10-19" morph="none" pos="word" start_char="944">cookies</TOKEN>
+<TOKEN end_char="951" id="token-10-20" morph="none" pos="punct" start_char="951">.</TOKEN>
+<TRANSLATED_TEXT>For more information on how we use your information, see our Privacy Policy and the Cookie Policy.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1017" id="segment-11" start_char="953">
+<ORIGINAL_TEXT>Haz clic aquí para obtener más información sobre nuestros socios.</ORIGINAL_TEXT>
+<TOKEN end_char="955" id="token-11-0" morph="none" pos="word" start_char="953">Haz</TOKEN>
+<TOKEN end_char="960" id="token-11-1" morph="none" pos="word" start_char="957">clic</TOKEN>
+<TOKEN end_char="965" id="token-11-2" morph="none" pos="word" start_char="962">aquí</TOKEN>
+<TOKEN end_char="970" id="token-11-3" morph="none" pos="word" start_char="967">para</TOKEN>
+<TOKEN end_char="978" id="token-11-4" morph="none" pos="word" start_char="972">obtener</TOKEN>
+<TOKEN end_char="982" id="token-11-5" morph="none" pos="word" start_char="980">más</TOKEN>
+<TOKEN end_char="994" id="token-11-6" morph="none" pos="word" start_char="984">información</TOKEN>
+<TOKEN end_char="1000" id="token-11-7" morph="none" pos="word" start_char="996">sobre</TOKEN>
+<TOKEN end_char="1009" id="token-11-8" morph="none" pos="word" start_char="1002">nuestros</TOKEN>
+<TOKEN end_char="1016" id="token-11-9" morph="none" pos="word" start_char="1011">socios</TOKEN>
+<TOKEN end_char="1017" id="token-11-10" morph="none" pos="punct" start_char="1017">.</TOKEN>
+<TRANSLATED_TEXT>Click here for more information about our partners.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

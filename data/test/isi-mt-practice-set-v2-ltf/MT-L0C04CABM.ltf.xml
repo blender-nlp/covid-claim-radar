@@ -1,0 +1,472 @@
+<LCTL_TEXT lang="spa">
+<DOC grammar="none" id="L0C04CABM" lang="spa" raw_text_char_length="2506" raw_text_md5="a9ab57e55087cac83e8c1db20e6e3ec3" tokenization="tokenization_parameters.v5.0">
+<TEXT>
+<SEG end_char="74" id="segment-0" start_char="1">
+<ORIGINAL_TEXT>Китай ни при чём: британский учёный заподозрил, что коронавирус был всегда</ORIGINAL_TEXT>
+<TOKEN end_char="5" id="token-0-0" morph="none" pos="word" start_char="1">Китай</TOKEN>
+<TOKEN end_char="8" id="token-0-1" morph="none" pos="word" start_char="7">ни</TOKEN>
+<TOKEN end_char="12" id="token-0-2" morph="none" pos="word" start_char="10">при</TOKEN>
+<TOKEN end_char="16" id="token-0-3" morph="none" pos="word" start_char="14">чём</TOKEN>
+<TOKEN end_char="17" id="token-0-4" morph="none" pos="punct" start_char="17">:</TOKEN>
+<TOKEN end_char="28" id="token-0-5" morph="none" pos="word" start_char="19">британский</TOKEN>
+<TOKEN end_char="35" id="token-0-6" morph="none" pos="word" start_char="30">учёный</TOKEN>
+<TOKEN end_char="46" id="token-0-7" morph="none" pos="word" start_char="37">заподозрил</TOKEN>
+<TOKEN end_char="47" id="token-0-8" morph="none" pos="punct" start_char="47">,</TOKEN>
+<TOKEN end_char="51" id="token-0-9" morph="none" pos="word" start_char="49">что</TOKEN>
+<TOKEN end_char="63" id="token-0-10" morph="none" pos="word" start_char="53">коронавирус</TOKEN>
+<TOKEN end_char="67" id="token-0-11" morph="none" pos="word" start_char="65">был</TOKEN>
+<TOKEN end_char="74" id="token-0-12" morph="none" pos="word" start_char="69">всегда</TOKEN>
+<TRANSLATED_TEXT>China had nothing to do with it: a British scientist suspected that coronavirus had always been</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="344" id="segment-1" start_char="78">
+<ORIGINAL_TEXT>Недавние находки вирусологов в Испании и Италии, обнаружившие следы коронавируса задолго до его появления в Китае, свидетельствуют о том, что КНР может не являться источником инфекции, пишет The Daily Telegraph, ссылаясь на слова учёного из Оксфорда Тома Джефферсона.</ORIGINAL_TEXT>
+<TOKEN end_char="85" id="token-1-0" morph="none" pos="word" start_char="78">Недавние</TOKEN>
+<TOKEN end_char="93" id="token-1-1" morph="none" pos="word" start_char="87">находки</TOKEN>
+<TOKEN end_char="105" id="token-1-2" morph="none" pos="word" start_char="95">вирусологов</TOKEN>
+<TOKEN end_char="107" id="token-1-3" morph="none" pos="word" start_char="107">в</TOKEN>
+<TOKEN end_char="115" id="token-1-4" morph="none" pos="word" start_char="109">Испании</TOKEN>
+<TOKEN end_char="117" id="token-1-5" morph="none" pos="word" start_char="117">и</TOKEN>
+<TOKEN end_char="124" id="token-1-6" morph="none" pos="word" start_char="119">Италии</TOKEN>
+<TOKEN end_char="125" id="token-1-7" morph="none" pos="punct" start_char="125">,</TOKEN>
+<TOKEN end_char="138" id="token-1-8" morph="none" pos="word" start_char="127">обнаружившие</TOKEN>
+<TOKEN end_char="144" id="token-1-9" morph="none" pos="word" start_char="140">следы</TOKEN>
+<TOKEN end_char="157" id="token-1-10" morph="none" pos="word" start_char="146">коронавируса</TOKEN>
+<TOKEN end_char="165" id="token-1-11" morph="none" pos="word" start_char="159">задолго</TOKEN>
+<TOKEN end_char="168" id="token-1-12" morph="none" pos="word" start_char="167">до</TOKEN>
+<TOKEN end_char="172" id="token-1-13" morph="none" pos="word" start_char="170">его</TOKEN>
+<TOKEN end_char="182" id="token-1-14" morph="none" pos="word" start_char="174">появления</TOKEN>
+<TOKEN end_char="184" id="token-1-15" morph="none" pos="word" start_char="184">в</TOKEN>
+<TOKEN end_char="190" id="token-1-16" morph="none" pos="word" start_char="186">Китае</TOKEN>
+<TOKEN end_char="191" id="token-1-17" morph="none" pos="punct" start_char="191">,</TOKEN>
+<TOKEN end_char="207" id="token-1-18" morph="none" pos="word" start_char="193">свидетельствуют</TOKEN>
+<TOKEN end_char="209" id="token-1-19" morph="none" pos="word" start_char="209">о</TOKEN>
+<TOKEN end_char="213" id="token-1-20" morph="none" pos="word" start_char="211">том</TOKEN>
+<TOKEN end_char="214" id="token-1-21" morph="none" pos="punct" start_char="214">,</TOKEN>
+<TOKEN end_char="218" id="token-1-22" morph="none" pos="word" start_char="216">что</TOKEN>
+<TOKEN end_char="222" id="token-1-23" morph="none" pos="word" start_char="220">КНР</TOKEN>
+<TOKEN end_char="228" id="token-1-24" morph="none" pos="word" start_char="224">может</TOKEN>
+<TOKEN end_char="231" id="token-1-25" morph="none" pos="word" start_char="230">не</TOKEN>
+<TOKEN end_char="240" id="token-1-26" morph="none" pos="word" start_char="233">являться</TOKEN>
+<TOKEN end_char="251" id="token-1-27" morph="none" pos="word" start_char="242">источником</TOKEN>
+<TOKEN end_char="260" id="token-1-28" morph="none" pos="word" start_char="253">инфекции</TOKEN>
+<TOKEN end_char="261" id="token-1-29" morph="none" pos="punct" start_char="261">,</TOKEN>
+<TOKEN end_char="267" id="token-1-30" morph="none" pos="word" start_char="263">пишет</TOKEN>
+<TOKEN end_char="271" id="token-1-31" morph="none" pos="word" start_char="269">The</TOKEN>
+<TOKEN end_char="277" id="token-1-32" morph="none" pos="word" start_char="273">Daily</TOKEN>
+<TOKEN end_char="287" id="token-1-33" morph="none" pos="word" start_char="279">Telegraph</TOKEN>
+<TOKEN end_char="288" id="token-1-34" morph="none" pos="punct" start_char="288">,</TOKEN>
+<TOKEN end_char="297" id="token-1-35" morph="none" pos="word" start_char="290">ссылаясь</TOKEN>
+<TOKEN end_char="300" id="token-1-36" morph="none" pos="word" start_char="299">на</TOKEN>
+<TOKEN end_char="306" id="token-1-37" morph="none" pos="word" start_char="302">слова</TOKEN>
+<TOKEN end_char="314" id="token-1-38" morph="none" pos="word" start_char="308">учёного</TOKEN>
+<TOKEN end_char="317" id="token-1-39" morph="none" pos="word" start_char="316">из</TOKEN>
+<TOKEN end_char="326" id="token-1-40" morph="none" pos="word" start_char="319">Оксфорда</TOKEN>
+<TOKEN end_char="331" id="token-1-41" morph="none" pos="word" start_char="328">Тома</TOKEN>
+<TOKEN end_char="343" id="token-1-42" morph="none" pos="word" start_char="333">Джефферсона</TOKEN>
+<TOKEN end_char="344" id="token-1-43" morph="none" pos="punct" start_char="344">.</TOKEN>
+<TRANSLATED_TEXT>Recent findings by virologists in Spain and Italy, who found traces of coronavirus long before its introduction in China, suggest that the PRC may not be a source of infection, writes The Daily Telegraph, citing Oxford scholar Tom Jefferson.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="515" id="segment-2" start_char="346">
+<ORIGINAL_TEXT>Согласно гипотезе Джефферсона, коронавирус уже давно был распространён по всему земному шару в «пассивном» состоянии и пробудился ввиду сложившихся климатических условий.</ORIGINAL_TEXT>
+<TOKEN end_char="353" id="token-2-0" morph="none" pos="word" start_char="346">Согласно</TOKEN>
+<TOKEN end_char="362" id="token-2-1" morph="none" pos="word" start_char="355">гипотезе</TOKEN>
+<TOKEN end_char="374" id="token-2-2" morph="none" pos="word" start_char="364">Джефферсона</TOKEN>
+<TOKEN end_char="375" id="token-2-3" morph="none" pos="punct" start_char="375">,</TOKEN>
+<TOKEN end_char="387" id="token-2-4" morph="none" pos="word" start_char="377">коронавирус</TOKEN>
+<TOKEN end_char="391" id="token-2-5" morph="none" pos="word" start_char="389">уже</TOKEN>
+<TOKEN end_char="397" id="token-2-6" morph="none" pos="word" start_char="393">давно</TOKEN>
+<TOKEN end_char="401" id="token-2-7" morph="none" pos="word" start_char="399">был</TOKEN>
+<TOKEN end_char="415" id="token-2-8" morph="none" pos="word" start_char="403">распространён</TOKEN>
+<TOKEN end_char="418" id="token-2-9" morph="none" pos="word" start_char="417">по</TOKEN>
+<TOKEN end_char="424" id="token-2-10" morph="none" pos="word" start_char="420">всему</TOKEN>
+<TOKEN end_char="432" id="token-2-11" morph="none" pos="word" start_char="426">земному</TOKEN>
+<TOKEN end_char="437" id="token-2-12" morph="none" pos="word" start_char="434">шару</TOKEN>
+<TOKEN end_char="439" id="token-2-13" morph="none" pos="word" start_char="439">в</TOKEN>
+<TOKEN end_char="441" id="token-2-14" morph="none" pos="punct" start_char="441">«</TOKEN>
+<TOKEN end_char="450" id="token-2-15" morph="none" pos="word" start_char="442">пассивном</TOKEN>
+<TOKEN end_char="451" id="token-2-16" morph="none" pos="punct" start_char="451">»</TOKEN>
+<TOKEN end_char="461" id="token-2-17" morph="none" pos="word" start_char="453">состоянии</TOKEN>
+<TOKEN end_char="463" id="token-2-18" morph="none" pos="word" start_char="463">и</TOKEN>
+<TOKEN end_char="474" id="token-2-19" morph="none" pos="word" start_char="465">пробудился</TOKEN>
+<TOKEN end_char="480" id="token-2-20" morph="none" pos="word" start_char="476">ввиду</TOKEN>
+<TOKEN end_char="492" id="token-2-21" morph="none" pos="word" start_char="482">сложившихся</TOKEN>
+<TOKEN end_char="506" id="token-2-22" morph="none" pos="word" start_char="494">климатических</TOKEN>
+<TOKEN end_char="514" id="token-2-23" morph="none" pos="word" start_char="508">условий</TOKEN>
+<TOKEN end_char="515" id="token-2-24" morph="none" pos="punct" start_char="515">.</TOKEN>
+<TRANSLATED_TEXT>According to Jefferson's hypothesis, coronavirus has long been widespread throughout the globe in a "passive" state and has awakened due to prevailing climatic conditions.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="524" id="segment-3" start_char="518">
+<ORIGINAL_TEXT>Reuters</ORIGINAL_TEXT>
+<TOKEN end_char="524" id="token-3-0" morph="none" pos="word" start_char="518">Reuters</TOKEN>
+</SEG>
+<SEG end_char="787" id="segment-4" start_char="528">
+<ORIGINAL_TEXT>Доктор Том Джефферсон из Оксфордского университета считает, что источником коронавируса может быть не Китай, пишет The Daily Telegraph: по словам учёного, в мире появляется всё больше свидетельств тому, что вирус уже существовал, до того как проявиться в Азии.</ORIGINAL_TEXT>
+<TOKEN end_char="533" id="token-4-0" morph="none" pos="word" start_char="528">Доктор</TOKEN>
+<TOKEN end_char="537" id="token-4-1" morph="none" pos="word" start_char="535">Том</TOKEN>
+<TOKEN end_char="548" id="token-4-2" morph="none" pos="word" start_char="539">Джефферсон</TOKEN>
+<TOKEN end_char="551" id="token-4-3" morph="none" pos="word" start_char="550">из</TOKEN>
+<TOKEN end_char="564" id="token-4-4" morph="none" pos="word" start_char="553">Оксфордского</TOKEN>
+<TOKEN end_char="577" id="token-4-5" morph="none" pos="word" start_char="566">университета</TOKEN>
+<TOKEN end_char="585" id="token-4-6" morph="none" pos="word" start_char="579">считает</TOKEN>
+<TOKEN end_char="586" id="token-4-7" morph="none" pos="punct" start_char="586">,</TOKEN>
+<TOKEN end_char="590" id="token-4-8" morph="none" pos="word" start_char="588">что</TOKEN>
+<TOKEN end_char="601" id="token-4-9" morph="none" pos="word" start_char="592">источником</TOKEN>
+<TOKEN end_char="614" id="token-4-10" morph="none" pos="word" start_char="603">коронавируса</TOKEN>
+<TOKEN end_char="620" id="token-4-11" morph="none" pos="word" start_char="616">может</TOKEN>
+<TOKEN end_char="625" id="token-4-12" morph="none" pos="word" start_char="622">быть</TOKEN>
+<TOKEN end_char="628" id="token-4-13" morph="none" pos="word" start_char="627">не</TOKEN>
+<TOKEN end_char="634" id="token-4-14" morph="none" pos="word" start_char="630">Китай</TOKEN>
+<TOKEN end_char="635" id="token-4-15" morph="none" pos="punct" start_char="635">,</TOKEN>
+<TOKEN end_char="641" id="token-4-16" morph="none" pos="word" start_char="637">пишет</TOKEN>
+<TOKEN end_char="645" id="token-4-17" morph="none" pos="word" start_char="643">The</TOKEN>
+<TOKEN end_char="651" id="token-4-18" morph="none" pos="word" start_char="647">Daily</TOKEN>
+<TOKEN end_char="661" id="token-4-19" morph="none" pos="word" start_char="653">Telegraph</TOKEN>
+<TOKEN end_char="662" id="token-4-20" morph="none" pos="punct" start_char="662">:</TOKEN>
+<TOKEN end_char="665" id="token-4-21" morph="none" pos="word" start_char="664">по</TOKEN>
+<TOKEN end_char="672" id="token-4-22" morph="none" pos="word" start_char="667">словам</TOKEN>
+<TOKEN end_char="680" id="token-4-23" morph="none" pos="word" start_char="674">учёного</TOKEN>
+<TOKEN end_char="681" id="token-4-24" morph="none" pos="punct" start_char="681">,</TOKEN>
+<TOKEN end_char="683" id="token-4-25" morph="none" pos="word" start_char="683">в</TOKEN>
+<TOKEN end_char="688" id="token-4-26" morph="none" pos="word" start_char="685">мире</TOKEN>
+<TOKEN end_char="699" id="token-4-27" morph="none" pos="word" start_char="690">появляется</TOKEN>
+<TOKEN end_char="703" id="token-4-28" morph="none" pos="word" start_char="701">всё</TOKEN>
+<TOKEN end_char="710" id="token-4-29" morph="none" pos="word" start_char="705">больше</TOKEN>
+<TOKEN end_char="723" id="token-4-30" morph="none" pos="word" start_char="712">свидетельств</TOKEN>
+<TOKEN end_char="728" id="token-4-31" morph="none" pos="word" start_char="725">тому</TOKEN>
+<TOKEN end_char="729" id="token-4-32" morph="none" pos="punct" start_char="729">,</TOKEN>
+<TOKEN end_char="733" id="token-4-33" morph="none" pos="word" start_char="731">что</TOKEN>
+<TOKEN end_char="739" id="token-4-34" morph="none" pos="word" start_char="735">вирус</TOKEN>
+<TOKEN end_char="743" id="token-4-35" morph="none" pos="word" start_char="741">уже</TOKEN>
+<TOKEN end_char="755" id="token-4-36" morph="none" pos="word" start_char="745">существовал</TOKEN>
+<TOKEN end_char="756" id="token-4-37" morph="none" pos="punct" start_char="756">,</TOKEN>
+<TOKEN end_char="759" id="token-4-38" morph="none" pos="word" start_char="758">до</TOKEN>
+<TOKEN end_char="764" id="token-4-39" morph="none" pos="word" start_char="761">того</TOKEN>
+<TOKEN end_char="768" id="token-4-40" morph="none" pos="word" start_char="766">как</TOKEN>
+<TOKEN end_char="779" id="token-4-41" morph="none" pos="word" start_char="770">проявиться</TOKEN>
+<TOKEN end_char="781" id="token-4-42" morph="none" pos="word" start_char="781">в</TOKEN>
+<TOKEN end_char="786" id="token-4-43" morph="none" pos="word" start_char="783">Азии</TOKEN>
+<TOKEN end_char="787" id="token-4-44" morph="none" pos="punct" start_char="787">.</TOKEN>
+<TRANSLATED_TEXT>According to The Daily Telegraph, there is growing evidence that the virus already existed in Asia.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="994" id="segment-5" start_char="790">
+<ORIGINAL_TEXT>Издание напоминает, что на прошлой неделе испанские вирусологи заявили о том, что нашли следы коронавируса в сточной воде, собранной в марте 2019 года, то есть за 9 месяцев до обнаружения инфекции в Китае.</ORIGINAL_TEXT>
+<TOKEN end_char="796" id="token-5-0" morph="none" pos="word" start_char="790">Издание</TOKEN>
+<TOKEN end_char="807" id="token-5-1" morph="none" pos="word" start_char="798">напоминает</TOKEN>
+<TOKEN end_char="808" id="token-5-2" morph="none" pos="punct" start_char="808">,</TOKEN>
+<TOKEN end_char="812" id="token-5-3" morph="none" pos="word" start_char="810">что</TOKEN>
+<TOKEN end_char="815" id="token-5-4" morph="none" pos="word" start_char="814">на</TOKEN>
+<TOKEN end_char="823" id="token-5-5" morph="none" pos="word" start_char="817">прошлой</TOKEN>
+<TOKEN end_char="830" id="token-5-6" morph="none" pos="word" start_char="825">неделе</TOKEN>
+<TOKEN end_char="840" id="token-5-7" morph="none" pos="word" start_char="832">испанские</TOKEN>
+<TOKEN end_char="851" id="token-5-8" morph="none" pos="word" start_char="842">вирусологи</TOKEN>
+<TOKEN end_char="859" id="token-5-9" morph="none" pos="word" start_char="853">заявили</TOKEN>
+<TOKEN end_char="861" id="token-5-10" morph="none" pos="word" start_char="861">о</TOKEN>
+<TOKEN end_char="865" id="token-5-11" morph="none" pos="word" start_char="863">том</TOKEN>
+<TOKEN end_char="866" id="token-5-12" morph="none" pos="punct" start_char="866">,</TOKEN>
+<TOKEN end_char="870" id="token-5-13" morph="none" pos="word" start_char="868">что</TOKEN>
+<TOKEN end_char="876" id="token-5-14" morph="none" pos="word" start_char="872">нашли</TOKEN>
+<TOKEN end_char="882" id="token-5-15" morph="none" pos="word" start_char="878">следы</TOKEN>
+<TOKEN end_char="895" id="token-5-16" morph="none" pos="word" start_char="884">коронавируса</TOKEN>
+<TOKEN end_char="897" id="token-5-17" morph="none" pos="word" start_char="897">в</TOKEN>
+<TOKEN end_char="905" id="token-5-18" morph="none" pos="word" start_char="899">сточной</TOKEN>
+<TOKEN end_char="910" id="token-5-19" morph="none" pos="word" start_char="907">воде</TOKEN>
+<TOKEN end_char="911" id="token-5-20" morph="none" pos="punct" start_char="911">,</TOKEN>
+<TOKEN end_char="921" id="token-5-21" morph="none" pos="word" start_char="913">собранной</TOKEN>
+<TOKEN end_char="923" id="token-5-22" morph="none" pos="word" start_char="923">в</TOKEN>
+<TOKEN end_char="929" id="token-5-23" morph="none" pos="word" start_char="925">марте</TOKEN>
+<TOKEN end_char="934" id="token-5-24" morph="none" pos="word" start_char="931">2019</TOKEN>
+<TOKEN end_char="939" id="token-5-25" morph="none" pos="word" start_char="936">года</TOKEN>
+<TOKEN end_char="940" id="token-5-26" morph="none" pos="punct" start_char="940">,</TOKEN>
+<TOKEN end_char="943" id="token-5-27" morph="none" pos="word" start_char="942">то</TOKEN>
+<TOKEN end_char="948" id="token-5-28" morph="none" pos="word" start_char="945">есть</TOKEN>
+<TOKEN end_char="951" id="token-5-29" morph="none" pos="word" start_char="950">за</TOKEN>
+<TOKEN end_char="953" id="token-5-30" morph="none" pos="word" start_char="953">9</TOKEN>
+<TOKEN end_char="961" id="token-5-31" morph="none" pos="word" start_char="955">месяцев</TOKEN>
+<TOKEN end_char="964" id="token-5-32" morph="none" pos="word" start_char="963">до</TOKEN>
+<TOKEN end_char="976" id="token-5-33" morph="none" pos="word" start_char="966">обнаружения</TOKEN>
+<TOKEN end_char="985" id="token-5-34" morph="none" pos="word" start_char="978">инфекции</TOKEN>
+<TOKEN end_char="987" id="token-5-35" morph="none" pos="word" start_char="987">в</TOKEN>
+<TOKEN end_char="993" id="token-5-36" morph="none" pos="word" start_char="989">Китае</TOKEN>
+<TOKEN end_char="994" id="token-5-37" morph="none" pos="punct" start_char="994">.</TOKEN>
+<TRANSLATED_TEXT>The publication recalls that last week, Spanish virologists stated that they found traces of coronavirus in sewage collected in March 2019, nine months before the infection was detected in China.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1151" id="segment-6" start_char="996">
+<ORIGINAL_TEXT>Итальянские учёные также находили свидетельства присутствия вируса в Милане и Турине ещё в декабре, то есть за недели до выявления первого случая заражения.</ORIGINAL_TEXT>
+<TOKEN end_char="1006" id="token-6-0" morph="none" pos="word" start_char="996">Итальянские</TOKEN>
+<TOKEN end_char="1013" id="token-6-1" morph="none" pos="word" start_char="1008">учёные</TOKEN>
+<TOKEN end_char="1019" id="token-6-2" morph="none" pos="word" start_char="1015">также</TOKEN>
+<TOKEN end_char="1028" id="token-6-3" morph="none" pos="word" start_char="1021">находили</TOKEN>
+<TOKEN end_char="1042" id="token-6-4" morph="none" pos="word" start_char="1030">свидетельства</TOKEN>
+<TOKEN end_char="1054" id="token-6-5" morph="none" pos="word" start_char="1044">присутствия</TOKEN>
+<TOKEN end_char="1061" id="token-6-6" morph="none" pos="word" start_char="1056">вируса</TOKEN>
+<TOKEN end_char="1063" id="token-6-7" morph="none" pos="word" start_char="1063">в</TOKEN>
+<TOKEN end_char="1070" id="token-6-8" morph="none" pos="word" start_char="1065">Милане</TOKEN>
+<TOKEN end_char="1072" id="token-6-9" morph="none" pos="word" start_char="1072">и</TOKEN>
+<TOKEN end_char="1079" id="token-6-10" morph="none" pos="word" start_char="1074">Турине</TOKEN>
+<TOKEN end_char="1083" id="token-6-11" morph="none" pos="word" start_char="1081">ещё</TOKEN>
+<TOKEN end_char="1085" id="token-6-12" morph="none" pos="word" start_char="1085">в</TOKEN>
+<TOKEN end_char="1093" id="token-6-13" morph="none" pos="word" start_char="1087">декабре</TOKEN>
+<TOKEN end_char="1094" id="token-6-14" morph="none" pos="punct" start_char="1094">,</TOKEN>
+<TOKEN end_char="1097" id="token-6-15" morph="none" pos="word" start_char="1096">то</TOKEN>
+<TOKEN end_char="1102" id="token-6-16" morph="none" pos="word" start_char="1099">есть</TOKEN>
+<TOKEN end_char="1105" id="token-6-17" morph="none" pos="word" start_char="1104">за</TOKEN>
+<TOKEN end_char="1112" id="token-6-18" morph="none" pos="word" start_char="1107">недели</TOKEN>
+<TOKEN end_char="1115" id="token-6-19" morph="none" pos="word" start_char="1114">до</TOKEN>
+<TOKEN end_char="1125" id="token-6-20" morph="none" pos="word" start_char="1117">выявления</TOKEN>
+<TOKEN end_char="1133" id="token-6-21" morph="none" pos="word" start_char="1127">первого</TOKEN>
+<TOKEN end_char="1140" id="token-6-22" morph="none" pos="word" start_char="1135">случая</TOKEN>
+<TOKEN end_char="1150" id="token-6-23" morph="none" pos="word" start_char="1142">заражения</TOKEN>
+<TOKEN end_char="1151" id="token-6-24" morph="none" pos="punct" start_char="1151">.</TOKEN>
+<TRANSLATED_TEXT>Italian scientists also found evidence of the virus in Milan and Turin as early as December, weeks before the first case was detected.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1291" id="segment-7" start_char="1154">
+<ORIGINAL_TEXT>По мнению доктора Джефферсона, многие вирусы находятся в пассивном состоянии по всему земному шару и пробуждаются при подходящих условиях.</ORIGINAL_TEXT>
+<TOKEN end_char="1155" id="token-7-0" morph="none" pos="word" start_char="1154">По</TOKEN>
+<TOKEN end_char="1162" id="token-7-1" morph="none" pos="word" start_char="1157">мнению</TOKEN>
+<TOKEN end_char="1170" id="token-7-2" morph="none" pos="word" start_char="1164">доктора</TOKEN>
+<TOKEN end_char="1182" id="token-7-3" morph="none" pos="word" start_char="1172">Джефферсона</TOKEN>
+<TOKEN end_char="1183" id="token-7-4" morph="none" pos="punct" start_char="1183">,</TOKEN>
+<TOKEN end_char="1190" id="token-7-5" morph="none" pos="word" start_char="1185">многие</TOKEN>
+<TOKEN end_char="1197" id="token-7-6" morph="none" pos="word" start_char="1192">вирусы</TOKEN>
+<TOKEN end_char="1207" id="token-7-7" morph="none" pos="word" start_char="1199">находятся</TOKEN>
+<TOKEN end_char="1209" id="token-7-8" morph="none" pos="word" start_char="1209">в</TOKEN>
+<TOKEN end_char="1219" id="token-7-9" morph="none" pos="word" start_char="1211">пассивном</TOKEN>
+<TOKEN end_char="1229" id="token-7-10" morph="none" pos="word" start_char="1221">состоянии</TOKEN>
+<TOKEN end_char="1232" id="token-7-11" morph="none" pos="word" start_char="1231">по</TOKEN>
+<TOKEN end_char="1238" id="token-7-12" morph="none" pos="word" start_char="1234">всему</TOKEN>
+<TOKEN end_char="1246" id="token-7-13" morph="none" pos="word" start_char="1240">земному</TOKEN>
+<TOKEN end_char="1251" id="token-7-14" morph="none" pos="word" start_char="1248">шару</TOKEN>
+<TOKEN end_char="1253" id="token-7-15" morph="none" pos="word" start_char="1253">и</TOKEN>
+<TOKEN end_char="1266" id="token-7-16" morph="none" pos="word" start_char="1255">пробуждаются</TOKEN>
+<TOKEN end_char="1270" id="token-7-17" morph="none" pos="word" start_char="1268">при</TOKEN>
+<TOKEN end_char="1281" id="token-7-18" morph="none" pos="word" start_char="1272">подходящих</TOKEN>
+<TOKEN end_char="1290" id="token-7-19" morph="none" pos="word" start_char="1283">условиях</TOKEN>
+<TOKEN end_char="1291" id="token-7-20" morph="none" pos="punct" start_char="1291">.</TOKEN>
+<TRANSLATED_TEXT>According to Dr. Jefferson, many viruses are passive throughout the globe and awaken under suitable conditions.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1375" id="segment-8" start_char="1293">
+<ORIGINAL_TEXT>Это, в том числе, означает, что они могут исчезнуть так же быстро, как и появились.</ORIGINAL_TEXT>
+<TOKEN end_char="1295" id="token-8-0" morph="none" pos="word" start_char="1293">Это</TOKEN>
+<TOKEN end_char="1296" id="token-8-1" morph="none" pos="punct" start_char="1296">,</TOKEN>
+<TOKEN end_char="1298" id="token-8-2" morph="none" pos="word" start_char="1298">в</TOKEN>
+<TOKEN end_char="1302" id="token-8-3" morph="none" pos="word" start_char="1300">том</TOKEN>
+<TOKEN end_char="1308" id="token-8-4" morph="none" pos="word" start_char="1304">числе</TOKEN>
+<TOKEN end_char="1309" id="token-8-5" morph="none" pos="punct" start_char="1309">,</TOKEN>
+<TOKEN end_char="1318" id="token-8-6" morph="none" pos="word" start_char="1311">означает</TOKEN>
+<TOKEN end_char="1319" id="token-8-7" morph="none" pos="punct" start_char="1319">,</TOKEN>
+<TOKEN end_char="1323" id="token-8-8" morph="none" pos="word" start_char="1321">что</TOKEN>
+<TOKEN end_char="1327" id="token-8-9" morph="none" pos="word" start_char="1325">они</TOKEN>
+<TOKEN end_char="1333" id="token-8-10" morph="none" pos="word" start_char="1329">могут</TOKEN>
+<TOKEN end_char="1343" id="token-8-11" morph="none" pos="word" start_char="1335">исчезнуть</TOKEN>
+<TOKEN end_char="1347" id="token-8-12" morph="none" pos="word" start_char="1345">так</TOKEN>
+<TOKEN end_char="1350" id="token-8-13" morph="none" pos="word" start_char="1349">же</TOKEN>
+<TOKEN end_char="1357" id="token-8-14" morph="none" pos="word" start_char="1352">быстро</TOKEN>
+<TOKEN end_char="1358" id="token-8-15" morph="none" pos="punct" start_char="1358">,</TOKEN>
+<TOKEN end_char="1362" id="token-8-16" morph="none" pos="word" start_char="1360">как</TOKEN>
+<TOKEN end_char="1364" id="token-8-17" morph="none" pos="word" start_char="1364">и</TOKEN>
+<TOKEN end_char="1374" id="token-8-18" morph="none" pos="word" start_char="1366">появились</TOKEN>
+<TOKEN end_char="1375" id="token-8-19" morph="none" pos="punct" start_char="1375">.</TOKEN>
+<TRANSLATED_TEXT>This means, among other things, that they can disappear as quickly as they appeared.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1453" id="segment-9" start_char="1377">
+<ORIGINAL_TEXT>В качестве примера Джефферсон приводит исчезнувший вирус атипичной пневмонии.</ORIGINAL_TEXT>
+<TOKEN end_char="1377" id="token-9-0" morph="none" pos="word" start_char="1377">В</TOKEN>
+<TOKEN end_char="1386" id="token-9-1" morph="none" pos="word" start_char="1379">качестве</TOKEN>
+<TOKEN end_char="1394" id="token-9-2" morph="none" pos="word" start_char="1388">примера</TOKEN>
+<TOKEN end_char="1405" id="token-9-3" morph="none" pos="word" start_char="1396">Джефферсон</TOKEN>
+<TOKEN end_char="1414" id="token-9-4" morph="none" pos="word" start_char="1407">приводит</TOKEN>
+<TOKEN end_char="1426" id="token-9-5" morph="none" pos="word" start_char="1416">исчезнувший</TOKEN>
+<TOKEN end_char="1432" id="token-9-6" morph="none" pos="word" start_char="1428">вирус</TOKEN>
+<TOKEN end_char="1442" id="token-9-7" morph="none" pos="word" start_char="1434">атипичной</TOKEN>
+<TOKEN end_char="1452" id="token-9-8" morph="none" pos="word" start_char="1444">пневмонии</TOKEN>
+<TOKEN end_char="1453" id="token-9-9" morph="none" pos="punct" start_char="1453">.</TOKEN>
+<TRANSLATED_TEXT>Jefferson cites the extinct SARS virus as an example.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1456" id="segment-10" start_char="1456">
+<ORIGINAL_TEXT>«</ORIGINAL_TEXT>
+<TOKEN end_char="1456" id="token-10-0" morph="none" pos="punct" start_char="1456">«</TOKEN>
+</SEG>
+<SEG end_char="1521" id="segment-11" start_char="1459">
+<ORIGINAL_TEXT>Я думаю, что вирус уже был здесь, «здесь», то есть повсеместно.</ORIGINAL_TEXT>
+<TOKEN end_char="1459" id="token-11-0" morph="none" pos="word" start_char="1459">Я</TOKEN>
+<TOKEN end_char="1465" id="token-11-1" morph="none" pos="word" start_char="1461">думаю</TOKEN>
+<TOKEN end_char="1466" id="token-11-2" morph="none" pos="punct" start_char="1466">,</TOKEN>
+<TOKEN end_char="1470" id="token-11-3" morph="none" pos="word" start_char="1468">что</TOKEN>
+<TOKEN end_char="1476" id="token-11-4" morph="none" pos="word" start_char="1472">вирус</TOKEN>
+<TOKEN end_char="1480" id="token-11-5" morph="none" pos="word" start_char="1478">уже</TOKEN>
+<TOKEN end_char="1484" id="token-11-6" morph="none" pos="word" start_char="1482">был</TOKEN>
+<TOKEN end_char="1490" id="token-11-7" morph="none" pos="word" start_char="1486">здесь</TOKEN>
+<TOKEN end_char="1491" id="token-11-8" morph="none" pos="punct" start_char="1491">,</TOKEN>
+<TOKEN end_char="1493" id="token-11-9" morph="none" pos="punct" start_char="1493">«</TOKEN>
+<TOKEN end_char="1498" id="token-11-10" morph="none" pos="word" start_char="1494">здесь</TOKEN>
+<TOKEN end_char="1500" id="token-11-11" morph="none" pos="punct" start_char="1499">»,</TOKEN>
+<TOKEN end_char="1503" id="token-11-12" morph="none" pos="word" start_char="1502">то</TOKEN>
+<TOKEN end_char="1508" id="token-11-13" morph="none" pos="word" start_char="1505">есть</TOKEN>
+<TOKEN end_char="1520" id="token-11-14" morph="none" pos="word" start_char="1510">повсеместно</TOKEN>
+<TOKEN end_char="1521" id="token-11-15" morph="none" pos="punct" start_char="1521">.</TOKEN>
+<TRANSLATED_TEXT>I think the virus was already here, "here," that is, everywhere.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1616" id="segment-12" start_char="1523">
+<ORIGINAL_TEXT>Вполне возможно, что мы имеем дело с пассивным вирусом, пробудившимся от природных условий», —</ORIGINAL_TEXT>
+<TOKEN end_char="1528" id="token-12-0" morph="none" pos="word" start_char="1523">Вполне</TOKEN>
+<TOKEN end_char="1537" id="token-12-1" morph="none" pos="word" start_char="1530">возможно</TOKEN>
+<TOKEN end_char="1538" id="token-12-2" morph="none" pos="punct" start_char="1538">,</TOKEN>
+<TOKEN end_char="1542" id="token-12-3" morph="none" pos="word" start_char="1540">что</TOKEN>
+<TOKEN end_char="1545" id="token-12-4" morph="none" pos="word" start_char="1544">мы</TOKEN>
+<TOKEN end_char="1551" id="token-12-5" morph="none" pos="word" start_char="1547">имеем</TOKEN>
+<TOKEN end_char="1556" id="token-12-6" morph="none" pos="word" start_char="1553">дело</TOKEN>
+<TOKEN end_char="1558" id="token-12-7" morph="none" pos="word" start_char="1558">с</TOKEN>
+<TOKEN end_char="1568" id="token-12-8" morph="none" pos="word" start_char="1560">пассивным</TOKEN>
+<TOKEN end_char="1576" id="token-12-9" morph="none" pos="word" start_char="1570">вирусом</TOKEN>
+<TOKEN end_char="1577" id="token-12-10" morph="none" pos="punct" start_char="1577">,</TOKEN>
+<TOKEN end_char="1591" id="token-12-11" morph="none" pos="word" start_char="1579">пробудившимся</TOKEN>
+<TOKEN end_char="1594" id="token-12-12" morph="none" pos="word" start_char="1593">от</TOKEN>
+<TOKEN end_char="1604" id="token-12-13" morph="none" pos="word" start_char="1596">природных</TOKEN>
+<TOKEN end_char="1612" id="token-12-14" morph="none" pos="word" start_char="1606">условий</TOKEN>
+<TOKEN end_char="1614" id="token-12-15" morph="none" pos="punct" start_char="1613">»,</TOKEN>
+<TOKEN end_char="1616" id="token-12-16" morph="none" pos="punct" start_char="1616">—</TOKEN>
+<TRANSLATED_TEXT>It is quite possible that we are dealing with a passive virus that has arisen from natural conditions, "-</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1661" id="segment-13" start_char="1619">
+<ORIGINAL_TEXT>приводит The Daily Telegraph слова учёного.</ORIGINAL_TEXT>
+<TOKEN end_char="1626" id="token-13-0" morph="none" pos="word" start_char="1619">приводит</TOKEN>
+<TOKEN end_char="1630" id="token-13-1" morph="none" pos="word" start_char="1628">The</TOKEN>
+<TOKEN end_char="1636" id="token-13-2" morph="none" pos="word" start_char="1632">Daily</TOKEN>
+<TOKEN end_char="1646" id="token-13-3" morph="none" pos="word" start_char="1638">Telegraph</TOKEN>
+<TOKEN end_char="1652" id="token-13-4" morph="none" pos="word" start_char="1648">слова</TOKEN>
+<TOKEN end_char="1660" id="token-13-5" morph="none" pos="word" start_char="1654">учёного</TOKEN>
+<TOKEN end_char="1661" id="token-13-6" morph="none" pos="punct" start_char="1661">.</TOKEN>
+<TRANSLATED_TEXT>The Daily Telegraph quotes a scientist.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1855" id="segment-14" start_char="1663">
+<ORIGINAL_TEXT>Джефферсон отмечает, что в феврале случай заражения коронавирусом был зафиксирован на круизном лайнере у Фолклендских островов, притом что все пассажиры проходили тестирование на коронавирус. «</ORIGINAL_TEXT>
+<TOKEN end_char="1672" id="token-14-0" morph="none" pos="word" start_char="1663">Джефферсон</TOKEN>
+<TOKEN end_char="1681" id="token-14-1" morph="none" pos="word" start_char="1674">отмечает</TOKEN>
+<TOKEN end_char="1682" id="token-14-2" morph="none" pos="punct" start_char="1682">,</TOKEN>
+<TOKEN end_char="1686" id="token-14-3" morph="none" pos="word" start_char="1684">что</TOKEN>
+<TOKEN end_char="1688" id="token-14-4" morph="none" pos="word" start_char="1688">в</TOKEN>
+<TOKEN end_char="1696" id="token-14-5" morph="none" pos="word" start_char="1690">феврале</TOKEN>
+<TOKEN end_char="1703" id="token-14-6" morph="none" pos="word" start_char="1698">случай</TOKEN>
+<TOKEN end_char="1713" id="token-14-7" morph="none" pos="word" start_char="1705">заражения</TOKEN>
+<TOKEN end_char="1727" id="token-14-8" morph="none" pos="word" start_char="1715">коронавирусом</TOKEN>
+<TOKEN end_char="1731" id="token-14-9" morph="none" pos="word" start_char="1729">был</TOKEN>
+<TOKEN end_char="1744" id="token-14-10" morph="none" pos="word" start_char="1733">зафиксирован</TOKEN>
+<TOKEN end_char="1747" id="token-14-11" morph="none" pos="word" start_char="1746">на</TOKEN>
+<TOKEN end_char="1756" id="token-14-12" morph="none" pos="word" start_char="1749">круизном</TOKEN>
+<TOKEN end_char="1764" id="token-14-13" morph="none" pos="word" start_char="1758">лайнере</TOKEN>
+<TOKEN end_char="1766" id="token-14-14" morph="none" pos="word" start_char="1766">у</TOKEN>
+<TOKEN end_char="1779" id="token-14-15" morph="none" pos="word" start_char="1768">Фолклендских</TOKEN>
+<TOKEN end_char="1788" id="token-14-16" morph="none" pos="word" start_char="1781">островов</TOKEN>
+<TOKEN end_char="1789" id="token-14-17" morph="none" pos="punct" start_char="1789">,</TOKEN>
+<TOKEN end_char="1796" id="token-14-18" morph="none" pos="word" start_char="1791">притом</TOKEN>
+<TOKEN end_char="1800" id="token-14-19" morph="none" pos="word" start_char="1798">что</TOKEN>
+<TOKEN end_char="1804" id="token-14-20" morph="none" pos="word" start_char="1802">все</TOKEN>
+<TOKEN end_char="1814" id="token-14-21" morph="none" pos="word" start_char="1806">пассажиры</TOKEN>
+<TOKEN end_char="1824" id="token-14-22" morph="none" pos="word" start_char="1816">проходили</TOKEN>
+<TOKEN end_char="1837" id="token-14-23" morph="none" pos="word" start_char="1826">тестирование</TOKEN>
+<TOKEN end_char="1840" id="token-14-24" morph="none" pos="word" start_char="1839">на</TOKEN>
+<TOKEN end_char="1852" id="token-14-25" morph="none" pos="word" start_char="1842">коронавирус</TOKEN>
+<TOKEN end_char="1853" id="token-14-26" morph="none" pos="punct" start_char="1853">.</TOKEN>
+<TOKEN end_char="1855" id="token-14-27" morph="none" pos="punct" start_char="1855">«</TOKEN>
+<TRANSLATED_TEXT>Jefferson notes that in February a case of coronavirus infection was reported on a cruise ship off the Falkland Islands, with all passengers being tested for coronavirus. "</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1922" id="segment-15" start_char="1858">
+<ORIGINAL_TEXT>Странные ситуации, наподобие этой, случались с испанским гриппом.</ORIGINAL_TEXT>
+<TOKEN end_char="1865" id="token-15-0" morph="none" pos="word" start_char="1858">Странные</TOKEN>
+<TOKEN end_char="1874" id="token-15-1" morph="none" pos="word" start_char="1867">ситуации</TOKEN>
+<TOKEN end_char="1875" id="token-15-2" morph="none" pos="punct" start_char="1875">,</TOKEN>
+<TOKEN end_char="1885" id="token-15-3" morph="none" pos="word" start_char="1877">наподобие</TOKEN>
+<TOKEN end_char="1890" id="token-15-4" morph="none" pos="word" start_char="1887">этой</TOKEN>
+<TOKEN end_char="1891" id="token-15-5" morph="none" pos="punct" start_char="1891">,</TOKEN>
+<TOKEN end_char="1901" id="token-15-6" morph="none" pos="word" start_char="1893">случались</TOKEN>
+<TOKEN end_char="1903" id="token-15-7" morph="none" pos="word" start_char="1903">с</TOKEN>
+<TOKEN end_char="1913" id="token-15-8" morph="none" pos="word" start_char="1905">испанским</TOKEN>
+<TOKEN end_char="1921" id="token-15-9" morph="none" pos="word" start_char="1915">гриппом</TOKEN>
+<TOKEN end_char="1922" id="token-15-10" morph="none" pos="punct" start_char="1922">.</TOKEN>
+<TRANSLATED_TEXT>Strange situations like this have happened with the Spanish flu.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2040" id="segment-16" start_char="1924">
+<ORIGINAL_TEXT>В 1918 году от него умерло примерно 30 процентов населения Западного Самоа, не имевшего контактов с внешним миром», —</ORIGINAL_TEXT>
+<TOKEN end_char="1924" id="token-16-0" morph="none" pos="word" start_char="1924">В</TOKEN>
+<TOKEN end_char="1929" id="token-16-1" morph="none" pos="word" start_char="1926">1918</TOKEN>
+<TOKEN end_char="1934" id="token-16-2" morph="none" pos="word" start_char="1931">году</TOKEN>
+<TOKEN end_char="1937" id="token-16-3" morph="none" pos="word" start_char="1936">от</TOKEN>
+<TOKEN end_char="1942" id="token-16-4" morph="none" pos="word" start_char="1939">него</TOKEN>
+<TOKEN end_char="1949" id="token-16-5" morph="none" pos="word" start_char="1944">умерло</TOKEN>
+<TOKEN end_char="1958" id="token-16-6" morph="none" pos="word" start_char="1951">примерно</TOKEN>
+<TOKEN end_char="1961" id="token-16-7" morph="none" pos="word" start_char="1960">30</TOKEN>
+<TOKEN end_char="1971" id="token-16-8" morph="none" pos="word" start_char="1963">процентов</TOKEN>
+<TOKEN end_char="1981" id="token-16-9" morph="none" pos="word" start_char="1973">населения</TOKEN>
+<TOKEN end_char="1991" id="token-16-10" morph="none" pos="word" start_char="1983">Западного</TOKEN>
+<TOKEN end_char="1997" id="token-16-11" morph="none" pos="word" start_char="1993">Самоа</TOKEN>
+<TOKEN end_char="1998" id="token-16-12" morph="none" pos="punct" start_char="1998">,</TOKEN>
+<TOKEN end_char="2001" id="token-16-13" morph="none" pos="word" start_char="2000">не</TOKEN>
+<TOKEN end_char="2010" id="token-16-14" morph="none" pos="word" start_char="2003">имевшего</TOKEN>
+<TOKEN end_char="2020" id="token-16-15" morph="none" pos="word" start_char="2012">контактов</TOKEN>
+<TOKEN end_char="2022" id="token-16-16" morph="none" pos="word" start_char="2022">с</TOKEN>
+<TOKEN end_char="2030" id="token-16-17" morph="none" pos="word" start_char="2024">внешним</TOKEN>
+<TOKEN end_char="2036" id="token-16-18" morph="none" pos="word" start_char="2032">миром</TOKEN>
+<TOKEN end_char="2038" id="token-16-19" morph="none" pos="punct" start_char="2037">»,</TOKEN>
+<TOKEN end_char="2040" id="token-16-20" morph="none" pos="punct" start_char="2040">—</TOKEN>
+<TRANSLATED_TEXT>In 1918, about 30 per cent of the population of Western Samoa who had no contact with the outside world died....................</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2062" id="segment-17" start_char="2043">
+<ORIGINAL_TEXT>отмечает Джефферсон.</ORIGINAL_TEXT>
+<TOKEN end_char="2050" id="token-17-0" morph="none" pos="word" start_char="2043">отмечает</TOKEN>
+<TOKEN end_char="2061" id="token-17-1" morph="none" pos="word" start_char="2052">Джефферсон</TOKEN>
+<TOKEN end_char="2062" id="token-17-2" morph="none" pos="punct" start_char="2062">.</TOKEN>
+<TRANSLATED_TEXT>Notes Jefferson.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2202" id="segment-18" start_char="2065">
+<ORIGINAL_TEXT>По мнению учёного, вирус может передаваться не только воздушно-капельным путём, но и через канализационные системы и общественные туалеты.</ORIGINAL_TEXT>
+<TOKEN end_char="2066" id="token-18-0" morph="none" pos="word" start_char="2065">По</TOKEN>
+<TOKEN end_char="2073" id="token-18-1" morph="none" pos="word" start_char="2068">мнению</TOKEN>
+<TOKEN end_char="2081" id="token-18-2" morph="none" pos="word" start_char="2075">учёного</TOKEN>
+<TOKEN end_char="2082" id="token-18-3" morph="none" pos="punct" start_char="2082">,</TOKEN>
+<TOKEN end_char="2088" id="token-18-4" morph="none" pos="word" start_char="2084">вирус</TOKEN>
+<TOKEN end_char="2094" id="token-18-5" morph="none" pos="word" start_char="2090">может</TOKEN>
+<TOKEN end_char="2107" id="token-18-6" morph="none" pos="word" start_char="2096">передаваться</TOKEN>
+<TOKEN end_char="2110" id="token-18-7" morph="none" pos="word" start_char="2109">не</TOKEN>
+<TOKEN end_char="2117" id="token-18-8" morph="none" pos="word" start_char="2112">только</TOKEN>
+<TOKEN end_char="2136" id="token-18-9" morph="none" pos="unknown" start_char="2119">воздушно-капельным</TOKEN>
+<TOKEN end_char="2142" id="token-18-10" morph="none" pos="word" start_char="2138">путём</TOKEN>
+<TOKEN end_char="2143" id="token-18-11" morph="none" pos="punct" start_char="2143">,</TOKEN>
+<TOKEN end_char="2146" id="token-18-12" morph="none" pos="word" start_char="2145">но</TOKEN>
+<TOKEN end_char="2148" id="token-18-13" morph="none" pos="word" start_char="2148">и</TOKEN>
+<TOKEN end_char="2154" id="token-18-14" morph="none" pos="word" start_char="2150">через</TOKEN>
+<TOKEN end_char="2170" id="token-18-15" morph="none" pos="word" start_char="2156">канализационные</TOKEN>
+<TOKEN end_char="2178" id="token-18-16" morph="none" pos="word" start_char="2172">системы</TOKEN>
+<TOKEN end_char="2180" id="token-18-17" morph="none" pos="word" start_char="2180">и</TOKEN>
+<TOKEN end_char="2193" id="token-18-18" morph="none" pos="word" start_char="2182">общественные</TOKEN>
+<TOKEN end_char="2201" id="token-18-19" morph="none" pos="word" start_char="2195">туалеты</TOKEN>
+<TOKEN end_char="2202" id="token-18-20" morph="none" pos="punct" start_char="2202">.</TOKEN>
+<TRANSLATED_TEXT>According to the scientist, the virus can be transmitted not only by air-droppings, but also through sewage systems and public toilets.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2502" id="segment-19" start_char="2204">
+<ORIGINAL_TEXT>Джефферсон отмечает, что изучение причин частых вспышек коронавируса на пищевых заводах и мясокомбинатах может поспособствовать выявлению новых способов передачи вируса: вполне возможно, что общественные туалеты вместе с невысокой температурой создают благоприятные условия для размножения инфекции.</ORIGINAL_TEXT>
+<TOKEN end_char="2213" id="token-19-0" morph="none" pos="word" start_char="2204">Джефферсон</TOKEN>
+<TOKEN end_char="2222" id="token-19-1" morph="none" pos="word" start_char="2215">отмечает</TOKEN>
+<TOKEN end_char="2223" id="token-19-2" morph="none" pos="punct" start_char="2223">,</TOKEN>
+<TOKEN end_char="2227" id="token-19-3" morph="none" pos="word" start_char="2225">что</TOKEN>
+<TOKEN end_char="2236" id="token-19-4" morph="none" pos="word" start_char="2229">изучение</TOKEN>
+<TOKEN end_char="2243" id="token-19-5" morph="none" pos="word" start_char="2238">причин</TOKEN>
+<TOKEN end_char="2250" id="token-19-6" morph="none" pos="word" start_char="2245">частых</TOKEN>
+<TOKEN end_char="2258" id="token-19-7" morph="none" pos="word" start_char="2252">вспышек</TOKEN>
+<TOKEN end_char="2271" id="token-19-8" morph="none" pos="word" start_char="2260">коронавируса</TOKEN>
+<TOKEN end_char="2274" id="token-19-9" morph="none" pos="word" start_char="2273">на</TOKEN>
+<TOKEN end_char="2282" id="token-19-10" morph="none" pos="word" start_char="2276">пищевых</TOKEN>
+<TOKEN end_char="2290" id="token-19-11" morph="none" pos="word" start_char="2284">заводах</TOKEN>
+<TOKEN end_char="2292" id="token-19-12" morph="none" pos="word" start_char="2292">и</TOKEN>
+<TOKEN end_char="2307" id="token-19-13" morph="none" pos="word" start_char="2294">мясокомбинатах</TOKEN>
+<TOKEN end_char="2313" id="token-19-14" morph="none" pos="word" start_char="2309">может</TOKEN>
+<TOKEN end_char="2330" id="token-19-15" morph="none" pos="word" start_char="2315">поспособствовать</TOKEN>
+<TOKEN end_char="2340" id="token-19-16" morph="none" pos="word" start_char="2332">выявлению</TOKEN>
+<TOKEN end_char="2346" id="token-19-17" morph="none" pos="word" start_char="2342">новых</TOKEN>
+<TOKEN end_char="2355" id="token-19-18" morph="none" pos="word" start_char="2348">способов</TOKEN>
+<TOKEN end_char="2364" id="token-19-19" morph="none" pos="word" start_char="2357">передачи</TOKEN>
+<TOKEN end_char="2371" id="token-19-20" morph="none" pos="word" start_char="2366">вируса</TOKEN>
+<TOKEN end_char="2372" id="token-19-21" morph="none" pos="punct" start_char="2372">:</TOKEN>
+<TOKEN end_char="2379" id="token-19-22" morph="none" pos="word" start_char="2374">вполне</TOKEN>
+<TOKEN end_char="2388" id="token-19-23" morph="none" pos="word" start_char="2381">возможно</TOKEN>
+<TOKEN end_char="2389" id="token-19-24" morph="none" pos="punct" start_char="2389">,</TOKEN>
+<TOKEN end_char="2393" id="token-19-25" morph="none" pos="word" start_char="2391">что</TOKEN>
+<TOKEN end_char="2406" id="token-19-26" morph="none" pos="word" start_char="2395">общественные</TOKEN>
+<TOKEN end_char="2414" id="token-19-27" morph="none" pos="word" start_char="2408">туалеты</TOKEN>
+<TOKEN end_char="2421" id="token-19-28" morph="none" pos="word" start_char="2416">вместе</TOKEN>
+<TOKEN end_char="2423" id="token-19-29" morph="none" pos="word" start_char="2423">с</TOKEN>
+<TOKEN end_char="2433" id="token-19-30" morph="none" pos="word" start_char="2425">невысокой</TOKEN>
+<TOKEN end_char="2446" id="token-19-31" morph="none" pos="word" start_char="2435">температурой</TOKEN>
+<TOKEN end_char="2454" id="token-19-32" morph="none" pos="word" start_char="2448">создают</TOKEN>
+<TOKEN end_char="2468" id="token-19-33" morph="none" pos="word" start_char="2456">благоприятные</TOKEN>
+<TOKEN end_char="2476" id="token-19-34" morph="none" pos="word" start_char="2470">условия</TOKEN>
+<TOKEN end_char="2480" id="token-19-35" morph="none" pos="word" start_char="2478">для</TOKEN>
+<TOKEN end_char="2492" id="token-19-36" morph="none" pos="word" start_char="2482">размножения</TOKEN>
+<TOKEN end_char="2501" id="token-19-37" morph="none" pos="word" start_char="2494">инфекции</TOKEN>
+<TOKEN end_char="2502" id="token-19-38" morph="none" pos="punct" start_char="2502">.</TOKEN>
+<TRANSLATED_TEXT>Jefferson notes that research into the causes of frequent coronavirus outbreaks in food plants and meat plants may help to identify new ways of transmitting the virus: it is possible that public toilets, together with low temperatures, create favorable conditions for infection.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

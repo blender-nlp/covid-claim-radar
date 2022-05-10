@@ -1,0 +1,180 @@
+<LCTL_TEXT lang="spa">
+<DOC grammar="none" id="L0C04CAA7" lang="spa" raw_text_char_length="904" raw_text_md5="159c7688c1f73bc70bfc4950c520036b" tokenization="tokenization_parameters.v5.0">
+<TEXT>
+<SEG end_char="67" id="segment-0" start_char="1">
+<ORIGINAL_TEXT>СМИ: первый случай заражения коронавирусом в Китае выявили в ноябре</ORIGINAL_TEXT>
+<TOKEN end_char="3" id="token-0-0" morph="none" pos="word" start_char="1">СМИ</TOKEN>
+<TOKEN end_char="4" id="token-0-1" morph="none" pos="punct" start_char="4">:</TOKEN>
+<TOKEN end_char="11" id="token-0-2" morph="none" pos="word" start_char="6">первый</TOKEN>
+<TOKEN end_char="18" id="token-0-3" morph="none" pos="word" start_char="13">случай</TOKEN>
+<TOKEN end_char="28" id="token-0-4" morph="none" pos="word" start_char="20">заражения</TOKEN>
+<TOKEN end_char="42" id="token-0-5" morph="none" pos="word" start_char="30">коронавирусом</TOKEN>
+<TOKEN end_char="44" id="token-0-6" morph="none" pos="word" start_char="44">в</TOKEN>
+<TOKEN end_char="50" id="token-0-7" morph="none" pos="word" start_char="46">Китае</TOKEN>
+<TOKEN end_char="58" id="token-0-8" morph="none" pos="word" start_char="52">выявили</TOKEN>
+<TOKEN end_char="60" id="token-0-9" morph="none" pos="word" start_char="60">в</TOKEN>
+<TOKEN end_char="67" id="token-0-10" morph="none" pos="word" start_char="62">ноябре</TOKEN>
+<TRANSLATED_TEXT>Media: China's first case of coronavirus detected in November</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="115" id="segment-1" start_char="71">
+<ORIGINAL_TEXT>© РИА Новости / The Central Hospital of Wuhan</ORIGINAL_TEXT>
+<TOKEN end_char="71" id="token-1-0" morph="none" pos="unknown" start_char="71">©</TOKEN>
+<TOKEN end_char="75" id="token-1-1" morph="none" pos="word" start_char="73">РИА</TOKEN>
+<TOKEN end_char="83" id="token-1-2" morph="none" pos="word" start_char="77">Новости</TOKEN>
+<TOKEN end_char="85" id="token-1-3" morph="none" pos="punct" start_char="85">/</TOKEN>
+<TOKEN end_char="89" id="token-1-4" morph="none" pos="word" start_char="87">The</TOKEN>
+<TOKEN end_char="97" id="token-1-5" morph="none" pos="word" start_char="91">Central</TOKEN>
+<TOKEN end_char="106" id="token-1-6" morph="none" pos="word" start_char="99">Hospital</TOKEN>
+<TOKEN end_char="109" id="token-1-7" morph="none" pos="word" start_char="108">of</TOKEN>
+<TOKEN end_char="115" id="token-1-8" morph="none" pos="word" start_char="111">Wuhan</TOKEN>
+</SEG>
+<SEG end_char="147" id="segment-2" start_char="119">
+<ORIGINAL_TEXT>МОСКВА, 13 мар - РИА Новости.</ORIGINAL_TEXT>
+<TOKEN end_char="124" id="token-2-0" morph="none" pos="word" start_char="119">МОСКВА</TOKEN>
+<TOKEN end_char="125" id="token-2-1" morph="none" pos="punct" start_char="125">,</TOKEN>
+<TOKEN end_char="128" id="token-2-2" morph="none" pos="word" start_char="127">13</TOKEN>
+<TOKEN end_char="132" id="token-2-3" morph="none" pos="word" start_char="130">мар</TOKEN>
+<TOKEN end_char="134" id="token-2-4" morph="none" pos="punct" start_char="134">-</TOKEN>
+<TOKEN end_char="138" id="token-2-5" morph="none" pos="word" start_char="136">РИА</TOKEN>
+<TOKEN end_char="146" id="token-2-6" morph="none" pos="word" start_char="140">Новости</TOKEN>
+<TOKEN end_char="147" id="token-2-7" morph="none" pos="punct" start_char="147">.</TOKEN>
+<TRANSLATED_TEXT>Moscow, 13 Mar - RIA News.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="353" id="segment-3" start_char="149">
+<ORIGINAL_TEXT>Первый случай заражения коронавирусом нового типа в Китае был выявлен еще 17 ноября, а не в декабре, как считалось ранее, сообщает газета South China Morning Post со ссылкой на правительственные документы.</ORIGINAL_TEXT>
+<TOKEN end_char="154" id="token-3-0" morph="none" pos="word" start_char="149">Первый</TOKEN>
+<TOKEN end_char="161" id="token-3-1" morph="none" pos="word" start_char="156">случай</TOKEN>
+<TOKEN end_char="171" id="token-3-2" morph="none" pos="word" start_char="163">заражения</TOKEN>
+<TOKEN end_char="185" id="token-3-3" morph="none" pos="word" start_char="173">коронавирусом</TOKEN>
+<TOKEN end_char="192" id="token-3-4" morph="none" pos="word" start_char="187">нового</TOKEN>
+<TOKEN end_char="197" id="token-3-5" morph="none" pos="word" start_char="194">типа</TOKEN>
+<TOKEN end_char="199" id="token-3-6" morph="none" pos="word" start_char="199">в</TOKEN>
+<TOKEN end_char="205" id="token-3-7" morph="none" pos="word" start_char="201">Китае</TOKEN>
+<TOKEN end_char="209" id="token-3-8" morph="none" pos="word" start_char="207">был</TOKEN>
+<TOKEN end_char="217" id="token-3-9" morph="none" pos="word" start_char="211">выявлен</TOKEN>
+<TOKEN end_char="221" id="token-3-10" morph="none" pos="word" start_char="219">еще</TOKEN>
+<TOKEN end_char="224" id="token-3-11" morph="none" pos="word" start_char="223">17</TOKEN>
+<TOKEN end_char="231" id="token-3-12" morph="none" pos="word" start_char="226">ноября</TOKEN>
+<TOKEN end_char="232" id="token-3-13" morph="none" pos="punct" start_char="232">,</TOKEN>
+<TOKEN end_char="234" id="token-3-14" morph="none" pos="word" start_char="234">а</TOKEN>
+<TOKEN end_char="237" id="token-3-15" morph="none" pos="word" start_char="236">не</TOKEN>
+<TOKEN end_char="239" id="token-3-16" morph="none" pos="word" start_char="239">в</TOKEN>
+<TOKEN end_char="247" id="token-3-17" morph="none" pos="word" start_char="241">декабре</TOKEN>
+<TOKEN end_char="248" id="token-3-18" morph="none" pos="punct" start_char="248">,</TOKEN>
+<TOKEN end_char="252" id="token-3-19" morph="none" pos="word" start_char="250">как</TOKEN>
+<TOKEN end_char="262" id="token-3-20" morph="none" pos="word" start_char="254">считалось</TOKEN>
+<TOKEN end_char="268" id="token-3-21" morph="none" pos="word" start_char="264">ранее</TOKEN>
+<TOKEN end_char="269" id="token-3-22" morph="none" pos="punct" start_char="269">,</TOKEN>
+<TOKEN end_char="278" id="token-3-23" morph="none" pos="word" start_char="271">сообщает</TOKEN>
+<TOKEN end_char="285" id="token-3-24" morph="none" pos="word" start_char="280">газета</TOKEN>
+<TOKEN end_char="291" id="token-3-25" morph="none" pos="word" start_char="287">South</TOKEN>
+<TOKEN end_char="297" id="token-3-26" morph="none" pos="word" start_char="293">China</TOKEN>
+<TOKEN end_char="305" id="token-3-27" morph="none" pos="word" start_char="299">Morning</TOKEN>
+<TOKEN end_char="310" id="token-3-28" morph="none" pos="word" start_char="307">Post</TOKEN>
+<TOKEN end_char="313" id="token-3-29" morph="none" pos="word" start_char="312">со</TOKEN>
+<TOKEN end_char="321" id="token-3-30" morph="none" pos="word" start_char="315">ссылкой</TOKEN>
+<TOKEN end_char="324" id="token-3-31" morph="none" pos="word" start_char="323">на</TOKEN>
+<TOKEN end_char="342" id="token-3-32" morph="none" pos="word" start_char="326">правительственные</TOKEN>
+<TOKEN end_char="352" id="token-3-33" morph="none" pos="word" start_char="344">документы</TOKEN>
+<TOKEN end_char="353" id="token-3-34" morph="none" pos="punct" start_char="353">.</TOKEN>
+<TRANSLATED_TEXT>The first case of a new type of coronavirus in China was discovered as early as 17 November, rather than in December, as previously thought, reports the South China Morning Post with reference to government documents.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="471" id="segment-4" start_char="356">
+<ORIGINAL_TEXT>По данным издания, речь идет о 55-летнем жителе провинции Хубэй, откуда стала распространяться вспышки коронавируса.</ORIGINAL_TEXT>
+<TOKEN end_char="357" id="token-4-0" morph="none" pos="word" start_char="356">По</TOKEN>
+<TOKEN end_char="364" id="token-4-1" morph="none" pos="word" start_char="359">данным</TOKEN>
+<TOKEN end_char="372" id="token-4-2" morph="none" pos="word" start_char="366">издания</TOKEN>
+<TOKEN end_char="373" id="token-4-3" morph="none" pos="punct" start_char="373">,</TOKEN>
+<TOKEN end_char="378" id="token-4-4" morph="none" pos="word" start_char="375">речь</TOKEN>
+<TOKEN end_char="383" id="token-4-5" morph="none" pos="word" start_char="380">идет</TOKEN>
+<TOKEN end_char="385" id="token-4-6" morph="none" pos="word" start_char="385">о</TOKEN>
+<TOKEN end_char="395" id="token-4-7" morph="none" pos="unknown" start_char="387">55-летнем</TOKEN>
+<TOKEN end_char="402" id="token-4-8" morph="none" pos="word" start_char="397">жителе</TOKEN>
+<TOKEN end_char="412" id="token-4-9" morph="none" pos="word" start_char="404">провинции</TOKEN>
+<TOKEN end_char="418" id="token-4-10" morph="none" pos="word" start_char="414">Хубэй</TOKEN>
+<TOKEN end_char="419" id="token-4-11" morph="none" pos="punct" start_char="419">,</TOKEN>
+<TOKEN end_char="426" id="token-4-12" morph="none" pos="word" start_char="421">откуда</TOKEN>
+<TOKEN end_char="432" id="token-4-13" morph="none" pos="word" start_char="428">стала</TOKEN>
+<TOKEN end_char="449" id="token-4-14" morph="none" pos="word" start_char="434">распространяться</TOKEN>
+<TOKEN end_char="457" id="token-4-15" morph="none" pos="word" start_char="451">вспышки</TOKEN>
+<TOKEN end_char="470" id="token-4-16" morph="none" pos="word" start_char="459">коронавируса</TOKEN>
+<TOKEN end_char="471" id="token-4-17" morph="none" pos="punct" start_char="471">.</TOKEN>
+<TRANSLATED_TEXT>According to the publication, he is a 55-year-old resident of Hubei Province, where the outbreak of coronavirus spread.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="674" id="segment-5" start_char="474">
+<ORIGINAL_TEXT>Всего в ноябре в провинции выявили девять носителей коронавируса, но ни один из них не был подтвержден как "нулевой пациент" - то есть первый заразившийся, с которого началось распространение эпидемии.</ORIGINAL_TEXT>
+<TOKEN end_char="478" id="token-5-0" morph="none" pos="word" start_char="474">Всего</TOKEN>
+<TOKEN end_char="480" id="token-5-1" morph="none" pos="word" start_char="480">в</TOKEN>
+<TOKEN end_char="487" id="token-5-2" morph="none" pos="word" start_char="482">ноябре</TOKEN>
+<TOKEN end_char="489" id="token-5-3" morph="none" pos="word" start_char="489">в</TOKEN>
+<TOKEN end_char="499" id="token-5-4" morph="none" pos="word" start_char="491">провинции</TOKEN>
+<TOKEN end_char="507" id="token-5-5" morph="none" pos="word" start_char="501">выявили</TOKEN>
+<TOKEN end_char="514" id="token-5-6" morph="none" pos="word" start_char="509">девять</TOKEN>
+<TOKEN end_char="524" id="token-5-7" morph="none" pos="word" start_char="516">носителей</TOKEN>
+<TOKEN end_char="537" id="token-5-8" morph="none" pos="word" start_char="526">коронавируса</TOKEN>
+<TOKEN end_char="538" id="token-5-9" morph="none" pos="punct" start_char="538">,</TOKEN>
+<TOKEN end_char="541" id="token-5-10" morph="none" pos="word" start_char="540">но</TOKEN>
+<TOKEN end_char="544" id="token-5-11" morph="none" pos="word" start_char="543">ни</TOKEN>
+<TOKEN end_char="549" id="token-5-12" morph="none" pos="word" start_char="546">один</TOKEN>
+<TOKEN end_char="552" id="token-5-13" morph="none" pos="word" start_char="551">из</TOKEN>
+<TOKEN end_char="556" id="token-5-14" morph="none" pos="word" start_char="554">них</TOKEN>
+<TOKEN end_char="559" id="token-5-15" morph="none" pos="word" start_char="558">не</TOKEN>
+<TOKEN end_char="563" id="token-5-16" morph="none" pos="word" start_char="561">был</TOKEN>
+<TOKEN end_char="575" id="token-5-17" morph="none" pos="word" start_char="565">подтвержден</TOKEN>
+<TOKEN end_char="579" id="token-5-18" morph="none" pos="word" start_char="577">как</TOKEN>
+<TOKEN end_char="581" id="token-5-19" morph="none" pos="punct" start_char="581">"</TOKEN>
+<TOKEN end_char="588" id="token-5-20" morph="none" pos="word" start_char="582">нулевой</TOKEN>
+<TOKEN end_char="596" id="token-5-21" morph="none" pos="word" start_char="590">пациент</TOKEN>
+<TOKEN end_char="597" id="token-5-22" morph="none" pos="punct" start_char="597">"</TOKEN>
+<TOKEN end_char="599" id="token-5-23" morph="none" pos="punct" start_char="599">-</TOKEN>
+<TOKEN end_char="602" id="token-5-24" morph="none" pos="word" start_char="601">то</TOKEN>
+<TOKEN end_char="607" id="token-5-25" morph="none" pos="word" start_char="604">есть</TOKEN>
+<TOKEN end_char="614" id="token-5-26" morph="none" pos="word" start_char="609">первый</TOKEN>
+<TOKEN end_char="627" id="token-5-27" morph="none" pos="word" start_char="616">заразившийся</TOKEN>
+<TOKEN end_char="628" id="token-5-28" morph="none" pos="punct" start_char="628">,</TOKEN>
+<TOKEN end_char="630" id="token-5-29" morph="none" pos="word" start_char="630">с</TOKEN>
+<TOKEN end_char="639" id="token-5-30" morph="none" pos="word" start_char="632">которого</TOKEN>
+<TOKEN end_char="648" id="token-5-31" morph="none" pos="word" start_char="641">началось</TOKEN>
+<TOKEN end_char="664" id="token-5-32" morph="none" pos="word" start_char="650">распространение</TOKEN>
+<TOKEN end_char="673" id="token-5-33" morph="none" pos="word" start_char="666">эпидемии</TOKEN>
+<TOKEN end_char="674" id="token-5-34" morph="none" pos="punct" start_char="674">.</TOKEN>
+<TRANSLATED_TEXT>In November alone, nine carriers of coronavirus were identified in the province, but none were confirmed as "zero patient" - the first infected person to spread the epidemic.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="812" id="segment-6" start_char="677">
+<ORIGINAL_TEXT>В мире коронавирусом заражены уже около 120 тысяч человек более чем в 100 странах, большинство выздоровели, но более 4 тысяч скончались.</ORIGINAL_TEXT>
+<TOKEN end_char="677" id="token-6-0" morph="none" pos="word" start_char="677">В</TOKEN>
+<TOKEN end_char="682" id="token-6-1" morph="none" pos="word" start_char="679">мире</TOKEN>
+<TOKEN end_char="696" id="token-6-2" morph="none" pos="word" start_char="684">коронавирусом</TOKEN>
+<TOKEN end_char="705" id="token-6-3" morph="none" pos="word" start_char="698">заражены</TOKEN>
+<TOKEN end_char="709" id="token-6-4" morph="none" pos="word" start_char="707">уже</TOKEN>
+<TOKEN end_char="715" id="token-6-5" morph="none" pos="word" start_char="711">около</TOKEN>
+<TOKEN end_char="719" id="token-6-6" morph="none" pos="word" start_char="717">120</TOKEN>
+<TOKEN end_char="725" id="token-6-7" morph="none" pos="word" start_char="721">тысяч</TOKEN>
+<TOKEN end_char="733" id="token-6-8" morph="none" pos="word" start_char="727">человек</TOKEN>
+<TOKEN end_char="739" id="token-6-9" morph="none" pos="word" start_char="735">более</TOKEN>
+<TOKEN end_char="743" id="token-6-10" morph="none" pos="word" start_char="741">чем</TOKEN>
+<TOKEN end_char="745" id="token-6-11" morph="none" pos="word" start_char="745">в</TOKEN>
+<TOKEN end_char="749" id="token-6-12" morph="none" pos="word" start_char="747">100</TOKEN>
+<TOKEN end_char="757" id="token-6-13" morph="none" pos="word" start_char="751">странах</TOKEN>
+<TOKEN end_char="758" id="token-6-14" morph="none" pos="punct" start_char="758">,</TOKEN>
+<TOKEN end_char="770" id="token-6-15" morph="none" pos="word" start_char="760">большинство</TOKEN>
+<TOKEN end_char="782" id="token-6-16" morph="none" pos="word" start_char="772">выздоровели</TOKEN>
+<TOKEN end_char="783" id="token-6-17" morph="none" pos="punct" start_char="783">,</TOKEN>
+<TOKEN end_char="786" id="token-6-18" morph="none" pos="word" start_char="785">но</TOKEN>
+<TOKEN end_char="792" id="token-6-19" morph="none" pos="word" start_char="788">более</TOKEN>
+<TOKEN end_char="794" id="token-6-20" morph="none" pos="word" start_char="794">4</TOKEN>
+<TOKEN end_char="800" id="token-6-21" morph="none" pos="word" start_char="796">тысяч</TOKEN>
+<TOKEN end_char="811" id="token-6-22" morph="none" pos="word" start_char="802">скончались</TOKEN>
+<TOKEN end_char="812" id="token-6-23" morph="none" pos="punct" start_char="812">.</TOKEN>
+<TRANSLATED_TEXT>Around 120,000 people in more than 100 countries have been infected with coronavirus, most have recovered, but more than 4,000 have died.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+<SEG end_char="900" id="segment-7" start_char="814">
+<ORIGINAL_TEXT>Всемирная организация здравоохранения 11 марта объявила вспышку коронавируса пандемией.</ORIGINAL_TEXT>
+<TOKEN end_char="822" id="token-7-0" morph="none" pos="word" start_char="814">Всемирная</TOKEN>
+<TOKEN end_char="834" id="token-7-1" morph="none" pos="word" start_char="824">организация</TOKEN>
+<TOKEN end_char="850" id="token-7-2" morph="none" pos="word" start_char="836">здравоохранения</TOKEN>
+<TOKEN end_char="853" id="token-7-3" morph="none" pos="word" start_char="852">11</TOKEN>
+<TOKEN end_char="859" id="token-7-4" morph="none" pos="word" start_char="855">марта</TOKEN>
+<TOKEN end_char="868" id="token-7-5" morph="none" pos="word" start_char="861">объявила</TOKEN>
+<TOKEN end_char="876" id="token-7-6" morph="none" pos="word" start_char="870">вспышку</TOKEN>
+<TOKEN end_char="889" id="token-7-7" morph="none" pos="word" start_char="878">коронавируса</TOKEN>
+<TOKEN end_char="899" id="token-7-8" morph="none" pos="word" start_char="891">пандемией</TOKEN>
+<TOKEN end_char="900" id="token-7-9" morph="none" pos="punct" start_char="900">.</TOKEN>
+<TRANSLATED_TEXT>On 11 March, the World Health Organization announced the outbreak of a coronavirus pandemic.</TRANSLATED_TEXT><DETECTED_LANGUAGE>ru</DETECTED_LANGUAGE></SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

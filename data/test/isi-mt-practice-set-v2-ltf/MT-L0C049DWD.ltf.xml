@@ -1,0 +1,173 @@
+<LCTL_TEXT lang="spa">
+<DOC grammar="none" id="L0C049DWD" lang="spa" raw_text_char_length="937" raw_text_md5="0c2996c62bdf9cfcb3047b754629372a" tokenization="tokenization_parameters.v5.0">
+<TEXT>
+<SEG end_char="74" id="segment-0" start_char="1">
+<ORIGINAL_TEXT>Donald Trump propone inyectar desinfectante para acabar con el coronavirus</ORIGINAL_TEXT>
+<TOKEN end_char="6" id="token-0-0" morph="none" pos="word" start_char="1">Donald</TOKEN>
+<TOKEN end_char="12" id="token-0-1" morph="none" pos="word" start_char="8">Trump</TOKEN>
+<TOKEN end_char="20" id="token-0-2" morph="none" pos="word" start_char="14">propone</TOKEN>
+<TOKEN end_char="29" id="token-0-3" morph="none" pos="word" start_char="22">inyectar</TOKEN>
+<TOKEN end_char="43" id="token-0-4" morph="none" pos="word" start_char="31">desinfectante</TOKEN>
+<TOKEN end_char="48" id="token-0-5" morph="none" pos="word" start_char="45">para</TOKEN>
+<TOKEN end_char="55" id="token-0-6" morph="none" pos="word" start_char="50">acabar</TOKEN>
+<TOKEN end_char="59" id="token-0-7" morph="none" pos="word" start_char="57">con</TOKEN>
+<TOKEN end_char="62" id="token-0-8" morph="none" pos="word" start_char="61">el</TOKEN>
+<TOKEN end_char="74" id="token-0-9" morph="none" pos="word" start_char="64">coronavirus</TOKEN>
+<TRANSLATED_TEXT>Donald Trump Proposes Injecting Disinfectant to End Coronavirus</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="116" id="segment-1" start_char="79">
+<ORIGINAL_TEXT>En eitb.eus nos preocupa su privacidad</ORIGINAL_TEXT>
+<TOKEN end_char="80" id="token-1-0" morph="none" pos="word" start_char="79">En</TOKEN>
+<TOKEN end_char="89" id="token-1-1" morph="none" pos="unknown" start_char="82">eitb.eus</TOKEN>
+<TOKEN end_char="93" id="token-1-2" morph="none" pos="word" start_char="91">nos</TOKEN>
+<TOKEN end_char="102" id="token-1-3" morph="none" pos="word" start_char="95">preocupa</TOKEN>
+<TOKEN end_char="105" id="token-1-4" morph="none" pos="word" start_char="104">su</TOKEN>
+<TOKEN end_char="116" id="token-1-5" morph="none" pos="word" start_char="107">privacidad</TOKEN>
+<TRANSLATED_TEXT>At eitb.eus we worry about your privacy</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="441" id="segment-2" start_char="120">
+<ORIGINAL_TEXT>Nosotros y nuestros socios utilizamos cookies e identificadores para almacenar y acceder a información en su dispositivo y recabar datos personales sobre la audiencia, desarrollar y mejorar productos así como servir y medir anuncios y/o contenido personalizados basándonos en su navegación (por ejemplo páginas visitadas).</ORIGINAL_TEXT>
+<TOKEN end_char="127" id="token-2-0" morph="none" pos="word" start_char="120">Nosotros</TOKEN>
+<TOKEN end_char="129" id="token-2-1" morph="none" pos="word" start_char="129">y</TOKEN>
+<TOKEN end_char="138" id="token-2-2" morph="none" pos="word" start_char="131">nuestros</TOKEN>
+<TOKEN end_char="145" id="token-2-3" morph="none" pos="word" start_char="140">socios</TOKEN>
+<TOKEN end_char="156" id="token-2-4" morph="none" pos="word" start_char="147">utilizamos</TOKEN>
+<TOKEN end_char="164" id="token-2-5" morph="none" pos="word" start_char="158">cookies</TOKEN>
+<TOKEN end_char="166" id="token-2-6" morph="none" pos="word" start_char="166">e</TOKEN>
+<TOKEN end_char="182" id="token-2-7" morph="none" pos="word" start_char="168">identificadores</TOKEN>
+<TOKEN end_char="187" id="token-2-8" morph="none" pos="word" start_char="184">para</TOKEN>
+<TOKEN end_char="197" id="token-2-9" morph="none" pos="word" start_char="189">almacenar</TOKEN>
+<TOKEN end_char="199" id="token-2-10" morph="none" pos="word" start_char="199">y</TOKEN>
+<TOKEN end_char="207" id="token-2-11" morph="none" pos="word" start_char="201">acceder</TOKEN>
+<TOKEN end_char="209" id="token-2-12" morph="none" pos="word" start_char="209">a</TOKEN>
+<TOKEN end_char="221" id="token-2-13" morph="none" pos="word" start_char="211">información</TOKEN>
+<TOKEN end_char="224" id="token-2-14" morph="none" pos="word" start_char="223">en</TOKEN>
+<TOKEN end_char="227" id="token-2-15" morph="none" pos="word" start_char="226">su</TOKEN>
+<TOKEN end_char="239" id="token-2-16" morph="none" pos="word" start_char="229">dispositivo</TOKEN>
+<TOKEN end_char="241" id="token-2-17" morph="none" pos="word" start_char="241">y</TOKEN>
+<TOKEN end_char="249" id="token-2-18" morph="none" pos="word" start_char="243">recabar</TOKEN>
+<TOKEN end_char="255" id="token-2-19" morph="none" pos="word" start_char="251">datos</TOKEN>
+<TOKEN end_char="266" id="token-2-20" morph="none" pos="word" start_char="257">personales</TOKEN>
+<TOKEN end_char="272" id="token-2-21" morph="none" pos="word" start_char="268">sobre</TOKEN>
+<TOKEN end_char="275" id="token-2-22" morph="none" pos="word" start_char="274">la</TOKEN>
+<TOKEN end_char="285" id="token-2-23" morph="none" pos="word" start_char="277">audiencia</TOKEN>
+<TOKEN end_char="286" id="token-2-24" morph="none" pos="punct" start_char="286">,</TOKEN>
+<TOKEN end_char="298" id="token-2-25" morph="none" pos="word" start_char="288">desarrollar</TOKEN>
+<TOKEN end_char="300" id="token-2-26" morph="none" pos="word" start_char="300">y</TOKEN>
+<TOKEN end_char="308" id="token-2-27" morph="none" pos="word" start_char="302">mejorar</TOKEN>
+<TOKEN end_char="318" id="token-2-28" morph="none" pos="word" start_char="310">productos</TOKEN>
+<TOKEN end_char="322" id="token-2-29" morph="none" pos="word" start_char="320">así</TOKEN>
+<TOKEN end_char="327" id="token-2-30" morph="none" pos="word" start_char="324">como</TOKEN>
+<TOKEN end_char="334" id="token-2-31" morph="none" pos="word" start_char="329">servir</TOKEN>
+<TOKEN end_char="336" id="token-2-32" morph="none" pos="word" start_char="336">y</TOKEN>
+<TOKEN end_char="342" id="token-2-33" morph="none" pos="word" start_char="338">medir</TOKEN>
+<TOKEN end_char="351" id="token-2-34" morph="none" pos="word" start_char="344">anuncios</TOKEN>
+<TOKEN end_char="355" id="token-2-35" morph="none" pos="unknown" start_char="353">y/o</TOKEN>
+<TOKEN end_char="365" id="token-2-36" morph="none" pos="word" start_char="357">contenido</TOKEN>
+<TOKEN end_char="380" id="token-2-37" morph="none" pos="word" start_char="367">personalizados</TOKEN>
+<TOKEN end_char="391" id="token-2-38" morph="none" pos="word" start_char="382">basándonos</TOKEN>
+<TOKEN end_char="394" id="token-2-39" morph="none" pos="word" start_char="393">en</TOKEN>
+<TOKEN end_char="397" id="token-2-40" morph="none" pos="word" start_char="396">su</TOKEN>
+<TOKEN end_char="408" id="token-2-41" morph="none" pos="word" start_char="399">navegación</TOKEN>
+<TOKEN end_char="410" id="token-2-42" morph="none" pos="punct" start_char="410">(</TOKEN>
+<TOKEN end_char="413" id="token-2-43" morph="none" pos="word" start_char="411">por</TOKEN>
+<TOKEN end_char="421" id="token-2-44" morph="none" pos="word" start_char="415">ejemplo</TOKEN>
+<TOKEN end_char="429" id="token-2-45" morph="none" pos="word" start_char="423">páginas</TOKEN>
+<TOKEN end_char="439" id="token-2-46" morph="none" pos="word" start_char="431">visitadas</TOKEN>
+<TOKEN end_char="441" id="token-2-47" morph="none" pos="punct" start_char="440">).</TOKEN>
+<TRANSLATED_TEXT>We and our partners use cookies and identifiers to store and access information on your device and collect personal data about the audience, develop and improve products as well as serve and measure personalized ads and / or content based on your browsing (e.g. visited pages).</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="578" id="segment-3" start_char="443">
+<ORIGINAL_TEXT>Con su permiso, podemos utilizar datos de localización geográfica precisa e identificación mediante las características de dispositivos.</ORIGINAL_TEXT>
+<TOKEN end_char="445" id="token-3-0" morph="none" pos="word" start_char="443">Con</TOKEN>
+<TOKEN end_char="448" id="token-3-1" morph="none" pos="word" start_char="447">su</TOKEN>
+<TOKEN end_char="456" id="token-3-2" morph="none" pos="word" start_char="450">permiso</TOKEN>
+<TOKEN end_char="457" id="token-3-3" morph="none" pos="punct" start_char="457">,</TOKEN>
+<TOKEN end_char="465" id="token-3-4" morph="none" pos="word" start_char="459">podemos</TOKEN>
+<TOKEN end_char="474" id="token-3-5" morph="none" pos="word" start_char="467">utilizar</TOKEN>
+<TOKEN end_char="480" id="token-3-6" morph="none" pos="word" start_char="476">datos</TOKEN>
+<TOKEN end_char="483" id="token-3-7" morph="none" pos="word" start_char="482">de</TOKEN>
+<TOKEN end_char="496" id="token-3-8" morph="none" pos="word" start_char="485">localización</TOKEN>
+<TOKEN end_char="507" id="token-3-9" morph="none" pos="word" start_char="498">geográfica</TOKEN>
+<TOKEN end_char="515" id="token-3-10" morph="none" pos="word" start_char="509">precisa</TOKEN>
+<TOKEN end_char="517" id="token-3-11" morph="none" pos="word" start_char="517">e</TOKEN>
+<TOKEN end_char="532" id="token-3-12" morph="none" pos="word" start_char="519">identificación</TOKEN>
+<TOKEN end_char="541" id="token-3-13" morph="none" pos="word" start_char="534">mediante</TOKEN>
+<TOKEN end_char="545" id="token-3-14" morph="none" pos="word" start_char="543">las</TOKEN>
+<TOKEN end_char="561" id="token-3-15" morph="none" pos="word" start_char="547">características</TOKEN>
+<TOKEN end_char="564" id="token-3-16" morph="none" pos="word" start_char="563">de</TOKEN>
+<TOKEN end_char="577" id="token-3-17" morph="none" pos="word" start_char="566">dispositivos</TOKEN>
+<TOKEN end_char="578" id="token-3-18" morph="none" pos="punct" start_char="578">.</TOKEN>
+<TRANSLATED_TEXT>With your permission, we can use accurate geographic location data and device features identification.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="728" id="segment-4" start_char="581">
+<ORIGINAL_TEXT>Algunas compañías requieren de su consentimiento y otras basan este en el interés legítimo pero usted podrá decidir si se opone a dicho tratamiento.</ORIGINAL_TEXT>
+<TOKEN end_char="587" id="token-4-0" morph="none" pos="word" start_char="581">Algunas</TOKEN>
+<TOKEN end_char="597" id="token-4-1" morph="none" pos="word" start_char="589">compañías</TOKEN>
+<TOKEN end_char="607" id="token-4-2" morph="none" pos="word" start_char="599">requieren</TOKEN>
+<TOKEN end_char="610" id="token-4-3" morph="none" pos="word" start_char="609">de</TOKEN>
+<TOKEN end_char="613" id="token-4-4" morph="none" pos="word" start_char="612">su</TOKEN>
+<TOKEN end_char="628" id="token-4-5" morph="none" pos="word" start_char="615">consentimiento</TOKEN>
+<TOKEN end_char="630" id="token-4-6" morph="none" pos="word" start_char="630">y</TOKEN>
+<TOKEN end_char="636" id="token-4-7" morph="none" pos="word" start_char="632">otras</TOKEN>
+<TOKEN end_char="642" id="token-4-8" morph="none" pos="word" start_char="638">basan</TOKEN>
+<TOKEN end_char="647" id="token-4-9" morph="none" pos="word" start_char="644">este</TOKEN>
+<TOKEN end_char="650" id="token-4-10" morph="none" pos="word" start_char="649">en</TOKEN>
+<TOKEN end_char="653" id="token-4-11" morph="none" pos="word" start_char="652">el</TOKEN>
+<TOKEN end_char="661" id="token-4-12" morph="none" pos="word" start_char="655">interés</TOKEN>
+<TOKEN end_char="670" id="token-4-13" morph="none" pos="word" start_char="663">legítimo</TOKEN>
+<TOKEN end_char="675" id="token-4-14" morph="none" pos="word" start_char="672">pero</TOKEN>
+<TOKEN end_char="681" id="token-4-15" morph="none" pos="word" start_char="677">usted</TOKEN>
+<TOKEN end_char="687" id="token-4-16" morph="none" pos="word" start_char="683">podrá</TOKEN>
+<TOKEN end_char="695" id="token-4-17" morph="none" pos="word" start_char="689">decidir</TOKEN>
+<TOKEN end_char="698" id="token-4-18" morph="none" pos="word" start_char="697">si</TOKEN>
+<TOKEN end_char="701" id="token-4-19" morph="none" pos="word" start_char="700">se</TOKEN>
+<TOKEN end_char="707" id="token-4-20" morph="none" pos="word" start_char="703">opone</TOKEN>
+<TOKEN end_char="709" id="token-4-21" morph="none" pos="word" start_char="709">a</TOKEN>
+<TOKEN end_char="715" id="token-4-22" morph="none" pos="word" start_char="711">dicho</TOKEN>
+<TOKEN end_char="727" id="token-4-23" morph="none" pos="word" start_char="717">tratamiento</TOKEN>
+<TOKEN end_char="728" id="token-4-24" morph="none" pos="punct" start_char="728">.</TOKEN>
+<TRANSLATED_TEXT>Some companies require your consent and others rely on the legitimate interest, but you may decide to oppose such treatment.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="839" id="segment-5" start_char="731">
+<ORIGINAL_TEXT>Puede aceptar o rechazar/configurar el uso de cookies para esta web o aplicación en el botón correspondiente.</ORIGINAL_TEXT>
+<TOKEN end_char="735" id="token-5-0" morph="none" pos="word" start_char="731">Puede</TOKEN>
+<TOKEN end_char="743" id="token-5-1" morph="none" pos="word" start_char="737">aceptar</TOKEN>
+<TOKEN end_char="745" id="token-5-2" morph="none" pos="word" start_char="745">o</TOKEN>
+<TOKEN end_char="765" id="token-5-3" morph="none" pos="unknown" start_char="747">rechazar/configurar</TOKEN>
+<TOKEN end_char="768" id="token-5-4" morph="none" pos="word" start_char="767">el</TOKEN>
+<TOKEN end_char="772" id="token-5-5" morph="none" pos="word" start_char="770">uso</TOKEN>
+<TOKEN end_char="775" id="token-5-6" morph="none" pos="word" start_char="774">de</TOKEN>
+<TOKEN end_char="783" id="token-5-7" morph="none" pos="word" start_char="777">cookies</TOKEN>
+<TOKEN end_char="788" id="token-5-8" morph="none" pos="word" start_char="785">para</TOKEN>
+<TOKEN end_char="793" id="token-5-9" morph="none" pos="word" start_char="790">esta</TOKEN>
+<TOKEN end_char="797" id="token-5-10" morph="none" pos="word" start_char="795">web</TOKEN>
+<TOKEN end_char="799" id="token-5-11" morph="none" pos="word" start_char="799">o</TOKEN>
+<TOKEN end_char="810" id="token-5-12" morph="none" pos="word" start_char="801">aplicación</TOKEN>
+<TOKEN end_char="813" id="token-5-13" morph="none" pos="word" start_char="812">en</TOKEN>
+<TOKEN end_char="816" id="token-5-14" morph="none" pos="word" start_char="815">el</TOKEN>
+<TOKEN end_char="822" id="token-5-15" morph="none" pos="word" start_char="818">botón</TOKEN>
+<TOKEN end_char="838" id="token-5-16" morph="none" pos="word" start_char="824">correspondiente</TOKEN>
+<TOKEN end_char="839" id="token-5-17" morph="none" pos="punct" start_char="839">.</TOKEN>
+<TRANSLATED_TEXT>You can accept or refuse / configure the use of cookies for this website or application on the corresponding button.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="903" id="segment-6" start_char="841">
+<ORIGINAL_TEXT>Podrá modificar su elección en Ajustes de Privacidad / Cookies.</ORIGINAL_TEXT>
+<TOKEN end_char="845" id="token-6-0" morph="none" pos="word" start_char="841">Podrá</TOKEN>
+<TOKEN end_char="855" id="token-6-1" morph="none" pos="word" start_char="847">modificar</TOKEN>
+<TOKEN end_char="858" id="token-6-2" morph="none" pos="word" start_char="857">su</TOKEN>
+<TOKEN end_char="867" id="token-6-3" morph="none" pos="word" start_char="860">elección</TOKEN>
+<TOKEN end_char="870" id="token-6-4" morph="none" pos="word" start_char="869">en</TOKEN>
+<TOKEN end_char="878" id="token-6-5" morph="none" pos="word" start_char="872">Ajustes</TOKEN>
+<TOKEN end_char="881" id="token-6-6" morph="none" pos="word" start_char="880">de</TOKEN>
+<TOKEN end_char="892" id="token-6-7" morph="none" pos="word" start_char="883">Privacidad</TOKEN>
+<TOKEN end_char="894" id="token-6-8" morph="none" pos="punct" start_char="894">/</TOKEN>
+<TOKEN end_char="902" id="token-6-9" morph="none" pos="word" start_char="896">Cookies</TOKEN>
+<TOKEN end_char="903" id="token-6-10" morph="none" pos="punct" start_char="903">.</TOKEN>
+<TRANSLATED_TEXT>You can change your choice in Privacy Settings / Cookies.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="933" id="segment-7" start_char="905">
+<ORIGINAL_TEXT>Más info Política de Cookies.</ORIGINAL_TEXT>
+<TOKEN end_char="907" id="token-7-0" morph="none" pos="word" start_char="905">Más</TOKEN>
+<TOKEN end_char="912" id="token-7-1" morph="none" pos="word" start_char="909">info</TOKEN>
+<TOKEN end_char="921" id="token-7-2" morph="none" pos="word" start_char="914">Política</TOKEN>
+<TOKEN end_char="924" id="token-7-3" morph="none" pos="word" start_char="923">de</TOKEN>
+<TOKEN end_char="932" id="token-7-4" morph="none" pos="word" start_char="926">Cookies</TOKEN>
+<TOKEN end_char="933" id="token-7-5" morph="none" pos="punct" start_char="933">.</TOKEN>
+<TRANSLATED_TEXT>More info Cookies policy.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

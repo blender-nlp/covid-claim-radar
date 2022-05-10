@@ -1,0 +1,419 @@
+<LCTL_TEXT lang="spa">
+<DOC grammar="none" id="L0C04CVOG" lang="spa" raw_text_char_length="1934" raw_text_md5="0e5fcaeff3ef79da0d03dd2dcc59fa17" tokenization="tokenization_parameters.v5.0">
+<TEXT>
+<SEG end_char="65" id="segment-0" start_char="1">
+<ORIGINAL_TEXT>Medication That Can Shorten COVID-19 Recovery Time Arrives in Pa.</ORIGINAL_TEXT>
+<TOKEN end_char="10" id="token-0-0" morph="none" pos="word" start_char="1">Medication</TOKEN>
+<TOKEN end_char="15" id="token-0-1" morph="none" pos="word" start_char="12">That</TOKEN>
+<TOKEN end_char="19" id="token-0-2" morph="none" pos="word" start_char="17">Can</TOKEN>
+<TOKEN end_char="27" id="token-0-3" morph="none" pos="word" start_char="21">Shorten</TOKEN>
+<TOKEN end_char="36" id="token-0-4" morph="none" pos="unknown" start_char="29">COVID-19</TOKEN>
+<TOKEN end_char="45" id="token-0-5" morph="none" pos="word" start_char="38">Recovery</TOKEN>
+<TOKEN end_char="50" id="token-0-6" morph="none" pos="word" start_char="47">Time</TOKEN>
+<TOKEN end_char="58" id="token-0-7" morph="none" pos="word" start_char="52">Arrives</TOKEN>
+<TOKEN end_char="61" id="token-0-8" morph="none" pos="word" start_char="60">in</TOKEN>
+<TOKEN end_char="64" id="token-0-9" morph="none" pos="word" start_char="63">Pa</TOKEN>
+<TOKEN end_char="65" id="token-0-10" morph="none" pos="punct" start_char="65">.</TOKEN>
+</SEG>
+<SEG end_char="84" id="segment-1" start_char="70">
+<ORIGINAL_TEXT>Harrisburg, Pa.</ORIGINAL_TEXT>
+<TOKEN end_char="79" id="token-1-0" morph="none" pos="word" start_char="70">Harrisburg</TOKEN>
+<TOKEN end_char="80" id="token-1-1" morph="none" pos="punct" start_char="80">,</TOKEN>
+<TOKEN end_char="83" id="token-1-2" morph="none" pos="word" start_char="82">Pa</TOKEN>
+<TOKEN end_char="84" id="token-1-3" morph="none" pos="punct" start_char="84">.</TOKEN>
+</SEG>
+<SEG end_char="205" id="segment-2" start_char="86">
+<ORIGINAL_TEXT>(WENY)-- A medication that’s been shown to shorten recovery time for COVID-19 patients has made its way to Pennsylvania.</ORIGINAL_TEXT>
+<TOKEN end_char="86" id="token-2-0" morph="none" pos="punct" start_char="86">(</TOKEN>
+<TOKEN end_char="90" id="token-2-1" morph="none" pos="word" start_char="87">WENY</TOKEN>
+<TOKEN end_char="93" id="token-2-2" morph="none" pos="punct" start_char="91">)--</TOKEN>
+<TOKEN end_char="95" id="token-2-3" morph="none" pos="word" start_char="95">A</TOKEN>
+<TOKEN end_char="106" id="token-2-4" morph="none" pos="word" start_char="97">medication</TOKEN>
+<TOKEN end_char="113" id="token-2-5" morph="none" pos="word" start_char="108">that’s</TOKEN>
+<TOKEN end_char="118" id="token-2-6" morph="none" pos="word" start_char="115">been</TOKEN>
+<TOKEN end_char="124" id="token-2-7" morph="none" pos="word" start_char="120">shown</TOKEN>
+<TOKEN end_char="127" id="token-2-8" morph="none" pos="word" start_char="126">to</TOKEN>
+<TOKEN end_char="135" id="token-2-9" morph="none" pos="word" start_char="129">shorten</TOKEN>
+<TOKEN end_char="144" id="token-2-10" morph="none" pos="word" start_char="137">recovery</TOKEN>
+<TOKEN end_char="149" id="token-2-11" morph="none" pos="word" start_char="146">time</TOKEN>
+<TOKEN end_char="153" id="token-2-12" morph="none" pos="word" start_char="151">for</TOKEN>
+<TOKEN end_char="162" id="token-2-13" morph="none" pos="unknown" start_char="155">COVID-19</TOKEN>
+<TOKEN end_char="171" id="token-2-14" morph="none" pos="word" start_char="164">patients</TOKEN>
+<TOKEN end_char="175" id="token-2-15" morph="none" pos="word" start_char="173">has</TOKEN>
+<TOKEN end_char="180" id="token-2-16" morph="none" pos="word" start_char="177">made</TOKEN>
+<TOKEN end_char="184" id="token-2-17" morph="none" pos="word" start_char="182">its</TOKEN>
+<TOKEN end_char="188" id="token-2-18" morph="none" pos="word" start_char="186">way</TOKEN>
+<TOKEN end_char="191" id="token-2-19" morph="none" pos="word" start_char="190">to</TOKEN>
+<TOKEN end_char="204" id="token-2-20" morph="none" pos="word" start_char="193">Pennsylvania</TOKEN>
+<TOKEN end_char="205" id="token-2-21" morph="none" pos="punct" start_char="205">.</TOKEN>
+</SEG>
+<SEG end_char="307" id="segment-3" start_char="208">
+<ORIGINAL_TEXT>It’s called Remdesivir, and it’s an antiviral medication that was originally created to fight Ebola.</ORIGINAL_TEXT>
+<TOKEN end_char="211" id="token-3-0" morph="none" pos="word" start_char="208">It’s</TOKEN>
+<TOKEN end_char="218" id="token-3-1" morph="none" pos="word" start_char="213">called</TOKEN>
+<TOKEN end_char="229" id="token-3-2" morph="none" pos="word" start_char="220">Remdesivir</TOKEN>
+<TOKEN end_char="230" id="token-3-3" morph="none" pos="punct" start_char="230">,</TOKEN>
+<TOKEN end_char="234" id="token-3-4" morph="none" pos="word" start_char="232">and</TOKEN>
+<TOKEN end_char="239" id="token-3-5" morph="none" pos="word" start_char="236">it’s</TOKEN>
+<TOKEN end_char="242" id="token-3-6" morph="none" pos="word" start_char="241">an</TOKEN>
+<TOKEN end_char="252" id="token-3-7" morph="none" pos="word" start_char="244">antiviral</TOKEN>
+<TOKEN end_char="263" id="token-3-8" morph="none" pos="word" start_char="254">medication</TOKEN>
+<TOKEN end_char="268" id="token-3-9" morph="none" pos="word" start_char="265">that</TOKEN>
+<TOKEN end_char="272" id="token-3-10" morph="none" pos="word" start_char="270">was</TOKEN>
+<TOKEN end_char="283" id="token-3-11" morph="none" pos="word" start_char="274">originally</TOKEN>
+<TOKEN end_char="291" id="token-3-12" morph="none" pos="word" start_char="285">created</TOKEN>
+<TOKEN end_char="294" id="token-3-13" morph="none" pos="word" start_char="293">to</TOKEN>
+<TOKEN end_char="300" id="token-3-14" morph="none" pos="word" start_char="296">fight</TOKEN>
+<TOKEN end_char="306" id="token-3-15" morph="none" pos="word" start_char="302">Ebola</TOKEN>
+<TOKEN end_char="307" id="token-3-16" morph="none" pos="punct" start_char="307">.</TOKEN>
+</SEG>
+<SEG end_char="347" id="segment-4" start_char="309">
+<ORIGINAL_TEXT>According to state Health Secretary Dr.</ORIGINAL_TEXT>
+<TOKEN end_char="317" id="token-4-0" morph="none" pos="word" start_char="309">According</TOKEN>
+<TOKEN end_char="320" id="token-4-1" morph="none" pos="word" start_char="319">to</TOKEN>
+<TOKEN end_char="326" id="token-4-2" morph="none" pos="word" start_char="322">state</TOKEN>
+<TOKEN end_char="333" id="token-4-3" morph="none" pos="word" start_char="328">Health</TOKEN>
+<TOKEN end_char="343" id="token-4-4" morph="none" pos="word" start_char="335">Secretary</TOKEN>
+<TOKEN end_char="346" id="token-4-5" morph="none" pos="word" start_char="345">Dr</TOKEN>
+<TOKEN end_char="347" id="token-4-6" morph="none" pos="punct" start_char="347">.</TOKEN>
+</SEG>
+<SEG end_char="429" id="segment-5" start_char="349">
+<ORIGINAL_TEXT>Rachel Levine, Pennsylvania has received 1,200 doses from the Federal Government.</ORIGINAL_TEXT>
+<TOKEN end_char="354" id="token-5-0" morph="none" pos="word" start_char="349">Rachel</TOKEN>
+<TOKEN end_char="361" id="token-5-1" morph="none" pos="word" start_char="356">Levine</TOKEN>
+<TOKEN end_char="362" id="token-5-2" morph="none" pos="punct" start_char="362">,</TOKEN>
+<TOKEN end_char="375" id="token-5-3" morph="none" pos="word" start_char="364">Pennsylvania</TOKEN>
+<TOKEN end_char="379" id="token-5-4" morph="none" pos="word" start_char="377">has</TOKEN>
+<TOKEN end_char="388" id="token-5-5" morph="none" pos="word" start_char="381">received</TOKEN>
+<TOKEN end_char="394" id="token-5-6" morph="none" pos="unknown" start_char="390">1,200</TOKEN>
+<TOKEN end_char="400" id="token-5-7" morph="none" pos="word" start_char="396">doses</TOKEN>
+<TOKEN end_char="405" id="token-5-8" morph="none" pos="word" start_char="402">from</TOKEN>
+<TOKEN end_char="409" id="token-5-9" morph="none" pos="word" start_char="407">the</TOKEN>
+<TOKEN end_char="417" id="token-5-10" morph="none" pos="word" start_char="411">Federal</TOKEN>
+<TOKEN end_char="428" id="token-5-11" morph="none" pos="word" start_char="419">Government</TOKEN>
+<TOKEN end_char="429" id="token-5-12" morph="none" pos="punct" start_char="429">.</TOKEN>
+</SEG>
+<SEG end_char="527" id="segment-6" start_char="431">
+<ORIGINAL_TEXT>It’s not a direct cure for the Novel Coronavirus, but it does help patients recover more quickly.</ORIGINAL_TEXT>
+<TOKEN end_char="434" id="token-6-0" morph="none" pos="word" start_char="431">It’s</TOKEN>
+<TOKEN end_char="438" id="token-6-1" morph="none" pos="word" start_char="436">not</TOKEN>
+<TOKEN end_char="440" id="token-6-2" morph="none" pos="word" start_char="440">a</TOKEN>
+<TOKEN end_char="447" id="token-6-3" morph="none" pos="word" start_char="442">direct</TOKEN>
+<TOKEN end_char="452" id="token-6-4" morph="none" pos="word" start_char="449">cure</TOKEN>
+<TOKEN end_char="456" id="token-6-5" morph="none" pos="word" start_char="454">for</TOKEN>
+<TOKEN end_char="460" id="token-6-6" morph="none" pos="word" start_char="458">the</TOKEN>
+<TOKEN end_char="466" id="token-6-7" morph="none" pos="word" start_char="462">Novel</TOKEN>
+<TOKEN end_char="478" id="token-6-8" morph="none" pos="word" start_char="468">Coronavirus</TOKEN>
+<TOKEN end_char="479" id="token-6-9" morph="none" pos="punct" start_char="479">,</TOKEN>
+<TOKEN end_char="483" id="token-6-10" morph="none" pos="word" start_char="481">but</TOKEN>
+<TOKEN end_char="486" id="token-6-11" morph="none" pos="word" start_char="485">it</TOKEN>
+<TOKEN end_char="491" id="token-6-12" morph="none" pos="word" start_char="488">does</TOKEN>
+<TOKEN end_char="496" id="token-6-13" morph="none" pos="word" start_char="493">help</TOKEN>
+<TOKEN end_char="505" id="token-6-14" morph="none" pos="word" start_char="498">patients</TOKEN>
+<TOKEN end_char="513" id="token-6-15" morph="none" pos="word" start_char="507">recover</TOKEN>
+<TOKEN end_char="518" id="token-6-16" morph="none" pos="word" start_char="515">more</TOKEN>
+<TOKEN end_char="526" id="token-6-17" morph="none" pos="word" start_char="520">quickly</TOKEN>
+<TOKEN end_char="527" id="token-6-18" morph="none" pos="punct" start_char="527">.</TOKEN>
+</SEG>
+<SEG end_char="807" id="segment-7" start_char="530">
+<ORIGINAL_TEXT>"It has been shown in a recent clinical trial to shorten the recovery time in some people, which is why the Food and Drug Administration, the FDA, has authorized the emergency use of this medication for the treatment of severely ill patients with COVID-19," explains Dr. Levine.</ORIGINAL_TEXT>
+<TOKEN end_char="530" id="token-7-0" morph="none" pos="punct" start_char="530">"</TOKEN>
+<TOKEN end_char="532" id="token-7-1" morph="none" pos="word" start_char="531">It</TOKEN>
+<TOKEN end_char="536" id="token-7-2" morph="none" pos="word" start_char="534">has</TOKEN>
+<TOKEN end_char="541" id="token-7-3" morph="none" pos="word" start_char="538">been</TOKEN>
+<TOKEN end_char="547" id="token-7-4" morph="none" pos="word" start_char="543">shown</TOKEN>
+<TOKEN end_char="550" id="token-7-5" morph="none" pos="word" start_char="549">in</TOKEN>
+<TOKEN end_char="552" id="token-7-6" morph="none" pos="word" start_char="552">a</TOKEN>
+<TOKEN end_char="559" id="token-7-7" morph="none" pos="word" start_char="554">recent</TOKEN>
+<TOKEN end_char="568" id="token-7-8" morph="none" pos="word" start_char="561">clinical</TOKEN>
+<TOKEN end_char="574" id="token-7-9" morph="none" pos="word" start_char="570">trial</TOKEN>
+<TOKEN end_char="577" id="token-7-10" morph="none" pos="word" start_char="576">to</TOKEN>
+<TOKEN end_char="585" id="token-7-11" morph="none" pos="word" start_char="579">shorten</TOKEN>
+<TOKEN end_char="589" id="token-7-12" morph="none" pos="word" start_char="587">the</TOKEN>
+<TOKEN end_char="598" id="token-7-13" morph="none" pos="word" start_char="591">recovery</TOKEN>
+<TOKEN end_char="603" id="token-7-14" morph="none" pos="word" start_char="600">time</TOKEN>
+<TOKEN end_char="606" id="token-7-15" morph="none" pos="word" start_char="605">in</TOKEN>
+<TOKEN end_char="611" id="token-7-16" morph="none" pos="word" start_char="608">some</TOKEN>
+<TOKEN end_char="618" id="token-7-17" morph="none" pos="word" start_char="613">people</TOKEN>
+<TOKEN end_char="619" id="token-7-18" morph="none" pos="punct" start_char="619">,</TOKEN>
+<TOKEN end_char="625" id="token-7-19" morph="none" pos="word" start_char="621">which</TOKEN>
+<TOKEN end_char="628" id="token-7-20" morph="none" pos="word" start_char="627">is</TOKEN>
+<TOKEN end_char="632" id="token-7-21" morph="none" pos="word" start_char="630">why</TOKEN>
+<TOKEN end_char="636" id="token-7-22" morph="none" pos="word" start_char="634">the</TOKEN>
+<TOKEN end_char="641" id="token-7-23" morph="none" pos="word" start_char="638">Food</TOKEN>
+<TOKEN end_char="645" id="token-7-24" morph="none" pos="word" start_char="643">and</TOKEN>
+<TOKEN end_char="650" id="token-7-25" morph="none" pos="word" start_char="647">Drug</TOKEN>
+<TOKEN end_char="665" id="token-7-26" morph="none" pos="word" start_char="652">Administration</TOKEN>
+<TOKEN end_char="666" id="token-7-27" morph="none" pos="punct" start_char="666">,</TOKEN>
+<TOKEN end_char="670" id="token-7-28" morph="none" pos="word" start_char="668">the</TOKEN>
+<TOKEN end_char="674" id="token-7-29" morph="none" pos="word" start_char="672">FDA</TOKEN>
+<TOKEN end_char="675" id="token-7-30" morph="none" pos="punct" start_char="675">,</TOKEN>
+<TOKEN end_char="679" id="token-7-31" morph="none" pos="word" start_char="677">has</TOKEN>
+<TOKEN end_char="690" id="token-7-32" morph="none" pos="word" start_char="681">authorized</TOKEN>
+<TOKEN end_char="694" id="token-7-33" morph="none" pos="word" start_char="692">the</TOKEN>
+<TOKEN end_char="704" id="token-7-34" morph="none" pos="word" start_char="696">emergency</TOKEN>
+<TOKEN end_char="708" id="token-7-35" morph="none" pos="word" start_char="706">use</TOKEN>
+<TOKEN end_char="711" id="token-7-36" morph="none" pos="word" start_char="710">of</TOKEN>
+<TOKEN end_char="716" id="token-7-37" morph="none" pos="word" start_char="713">this</TOKEN>
+<TOKEN end_char="727" id="token-7-38" morph="none" pos="word" start_char="718">medication</TOKEN>
+<TOKEN end_char="731" id="token-7-39" morph="none" pos="word" start_char="729">for</TOKEN>
+<TOKEN end_char="735" id="token-7-40" morph="none" pos="word" start_char="733">the</TOKEN>
+<TOKEN end_char="745" id="token-7-41" morph="none" pos="word" start_char="737">treatment</TOKEN>
+<TOKEN end_char="748" id="token-7-42" morph="none" pos="word" start_char="747">of</TOKEN>
+<TOKEN end_char="757" id="token-7-43" morph="none" pos="word" start_char="750">severely</TOKEN>
+<TOKEN end_char="761" id="token-7-44" morph="none" pos="word" start_char="759">ill</TOKEN>
+<TOKEN end_char="770" id="token-7-45" morph="none" pos="word" start_char="763">patients</TOKEN>
+<TOKEN end_char="775" id="token-7-46" morph="none" pos="word" start_char="772">with</TOKEN>
+<TOKEN end_char="784" id="token-7-47" morph="none" pos="unknown" start_char="777">COVID-19</TOKEN>
+<TOKEN end_char="786" id="token-7-48" morph="none" pos="punct" start_char="785">,"</TOKEN>
+<TOKEN end_char="795" id="token-7-49" morph="none" pos="word" start_char="788">explains</TOKEN>
+<TOKEN end_char="798" id="token-7-50" morph="none" pos="word" start_char="797">Dr</TOKEN>
+<TOKEN end_char="799" id="token-7-51" morph="none" pos="punct" start_char="799">.</TOKEN>
+<TOKEN end_char="806" id="token-7-52" morph="none" pos="word" start_char="801">Levine</TOKEN>
+<TOKEN end_char="807" id="token-7-53" morph="none" pos="punct" start_char="807">.</TOKEN>
+</SEG>
+<SEG end_char="916" id="segment-8" start_char="810">
+<ORIGINAL_TEXT>The first 1,200 doses of Remdesivir have been doled out to 51 hospitals across Pennsylvania, based on need.</ORIGINAL_TEXT>
+<TOKEN end_char="812" id="token-8-0" morph="none" pos="word" start_char="810">The</TOKEN>
+<TOKEN end_char="818" id="token-8-1" morph="none" pos="word" start_char="814">first</TOKEN>
+<TOKEN end_char="824" id="token-8-2" morph="none" pos="unknown" start_char="820">1,200</TOKEN>
+<TOKEN end_char="830" id="token-8-3" morph="none" pos="word" start_char="826">doses</TOKEN>
+<TOKEN end_char="833" id="token-8-4" morph="none" pos="word" start_char="832">of</TOKEN>
+<TOKEN end_char="844" id="token-8-5" morph="none" pos="word" start_char="835">Remdesivir</TOKEN>
+<TOKEN end_char="849" id="token-8-6" morph="none" pos="word" start_char="846">have</TOKEN>
+<TOKEN end_char="854" id="token-8-7" morph="none" pos="word" start_char="851">been</TOKEN>
+<TOKEN end_char="860" id="token-8-8" morph="none" pos="word" start_char="856">doled</TOKEN>
+<TOKEN end_char="864" id="token-8-9" morph="none" pos="word" start_char="862">out</TOKEN>
+<TOKEN end_char="867" id="token-8-10" morph="none" pos="word" start_char="866">to</TOKEN>
+<TOKEN end_char="870" id="token-8-11" morph="none" pos="word" start_char="869">51</TOKEN>
+<TOKEN end_char="880" id="token-8-12" morph="none" pos="word" start_char="872">hospitals</TOKEN>
+<TOKEN end_char="887" id="token-8-13" morph="none" pos="word" start_char="882">across</TOKEN>
+<TOKEN end_char="900" id="token-8-14" morph="none" pos="word" start_char="889">Pennsylvania</TOKEN>
+<TOKEN end_char="901" id="token-8-15" morph="none" pos="punct" start_char="901">,</TOKEN>
+<TOKEN end_char="907" id="token-8-16" morph="none" pos="word" start_char="903">based</TOKEN>
+<TOKEN end_char="910" id="token-8-17" morph="none" pos="word" start_char="909">on</TOKEN>
+<TOKEN end_char="915" id="token-8-18" morph="none" pos="word" start_char="912">need</TOKEN>
+<TOKEN end_char="916" id="token-8-19" morph="none" pos="punct" start_char="916">.</TOKEN>
+</SEG>
+<SEG end_char="1107" id="segment-9" start_char="919">
+<ORIGINAL_TEXT>"The hospitals that received the first shipments were selected based on their numbers of COVID-19 patients over a recent seven day period, and the severity of the illness of those patients.</ORIGINAL_TEXT>
+<TOKEN end_char="919" id="token-9-0" morph="none" pos="punct" start_char="919">"</TOKEN>
+<TOKEN end_char="922" id="token-9-1" morph="none" pos="word" start_char="920">The</TOKEN>
+<TOKEN end_char="932" id="token-9-2" morph="none" pos="word" start_char="924">hospitals</TOKEN>
+<TOKEN end_char="937" id="token-9-3" morph="none" pos="word" start_char="934">that</TOKEN>
+<TOKEN end_char="946" id="token-9-4" morph="none" pos="word" start_char="939">received</TOKEN>
+<TOKEN end_char="950" id="token-9-5" morph="none" pos="word" start_char="948">the</TOKEN>
+<TOKEN end_char="956" id="token-9-6" morph="none" pos="word" start_char="952">first</TOKEN>
+<TOKEN end_char="966" id="token-9-7" morph="none" pos="word" start_char="958">shipments</TOKEN>
+<TOKEN end_char="971" id="token-9-8" morph="none" pos="word" start_char="968">were</TOKEN>
+<TOKEN end_char="980" id="token-9-9" morph="none" pos="word" start_char="973">selected</TOKEN>
+<TOKEN end_char="986" id="token-9-10" morph="none" pos="word" start_char="982">based</TOKEN>
+<TOKEN end_char="989" id="token-9-11" morph="none" pos="word" start_char="988">on</TOKEN>
+<TOKEN end_char="995" id="token-9-12" morph="none" pos="word" start_char="991">their</TOKEN>
+<TOKEN end_char="1003" id="token-9-13" morph="none" pos="word" start_char="997">numbers</TOKEN>
+<TOKEN end_char="1006" id="token-9-14" morph="none" pos="word" start_char="1005">of</TOKEN>
+<TOKEN end_char="1015" id="token-9-15" morph="none" pos="unknown" start_char="1008">COVID-19</TOKEN>
+<TOKEN end_char="1024" id="token-9-16" morph="none" pos="word" start_char="1017">patients</TOKEN>
+<TOKEN end_char="1029" id="token-9-17" morph="none" pos="word" start_char="1026">over</TOKEN>
+<TOKEN end_char="1031" id="token-9-18" morph="none" pos="word" start_char="1031">a</TOKEN>
+<TOKEN end_char="1038" id="token-9-19" morph="none" pos="word" start_char="1033">recent</TOKEN>
+<TOKEN end_char="1044" id="token-9-20" morph="none" pos="word" start_char="1040">seven</TOKEN>
+<TOKEN end_char="1048" id="token-9-21" morph="none" pos="word" start_char="1046">day</TOKEN>
+<TOKEN end_char="1055" id="token-9-22" morph="none" pos="word" start_char="1050">period</TOKEN>
+<TOKEN end_char="1056" id="token-9-23" morph="none" pos="punct" start_char="1056">,</TOKEN>
+<TOKEN end_char="1060" id="token-9-24" morph="none" pos="word" start_char="1058">and</TOKEN>
+<TOKEN end_char="1064" id="token-9-25" morph="none" pos="word" start_char="1062">the</TOKEN>
+<TOKEN end_char="1073" id="token-9-26" morph="none" pos="word" start_char="1066">severity</TOKEN>
+<TOKEN end_char="1076" id="token-9-27" morph="none" pos="word" start_char="1075">of</TOKEN>
+<TOKEN end_char="1080" id="token-9-28" morph="none" pos="word" start_char="1078">the</TOKEN>
+<TOKEN end_char="1088" id="token-9-29" morph="none" pos="word" start_char="1082">illness</TOKEN>
+<TOKEN end_char="1091" id="token-9-30" morph="none" pos="word" start_char="1090">of</TOKEN>
+<TOKEN end_char="1097" id="token-9-31" morph="none" pos="word" start_char="1093">those</TOKEN>
+<TOKEN end_char="1106" id="token-9-32" morph="none" pos="word" start_char="1099">patients</TOKEN>
+<TOKEN end_char="1107" id="token-9-33" morph="none" pos="punct" start_char="1107">.</TOKEN>
+</SEG>
+<SEG end_char="1239" id="segment-10" start_char="1109">
+<ORIGINAL_TEXT>We continue to work to give our hospitals all the tools that we possibly can to treat patients with COVID-19," explains Dr. Levine.</ORIGINAL_TEXT>
+<TOKEN end_char="1110" id="token-10-0" morph="none" pos="word" start_char="1109">We</TOKEN>
+<TOKEN end_char="1119" id="token-10-1" morph="none" pos="word" start_char="1112">continue</TOKEN>
+<TOKEN end_char="1122" id="token-10-2" morph="none" pos="word" start_char="1121">to</TOKEN>
+<TOKEN end_char="1127" id="token-10-3" morph="none" pos="word" start_char="1124">work</TOKEN>
+<TOKEN end_char="1130" id="token-10-4" morph="none" pos="word" start_char="1129">to</TOKEN>
+<TOKEN end_char="1135" id="token-10-5" morph="none" pos="word" start_char="1132">give</TOKEN>
+<TOKEN end_char="1139" id="token-10-6" morph="none" pos="word" start_char="1137">our</TOKEN>
+<TOKEN end_char="1149" id="token-10-7" morph="none" pos="word" start_char="1141">hospitals</TOKEN>
+<TOKEN end_char="1153" id="token-10-8" morph="none" pos="word" start_char="1151">all</TOKEN>
+<TOKEN end_char="1157" id="token-10-9" morph="none" pos="word" start_char="1155">the</TOKEN>
+<TOKEN end_char="1163" id="token-10-10" morph="none" pos="word" start_char="1159">tools</TOKEN>
+<TOKEN end_char="1168" id="token-10-11" morph="none" pos="word" start_char="1165">that</TOKEN>
+<TOKEN end_char="1171" id="token-10-12" morph="none" pos="word" start_char="1170">we</TOKEN>
+<TOKEN end_char="1180" id="token-10-13" morph="none" pos="word" start_char="1173">possibly</TOKEN>
+<TOKEN end_char="1184" id="token-10-14" morph="none" pos="word" start_char="1182">can</TOKEN>
+<TOKEN end_char="1187" id="token-10-15" morph="none" pos="word" start_char="1186">to</TOKEN>
+<TOKEN end_char="1193" id="token-10-16" morph="none" pos="word" start_char="1189">treat</TOKEN>
+<TOKEN end_char="1202" id="token-10-17" morph="none" pos="word" start_char="1195">patients</TOKEN>
+<TOKEN end_char="1207" id="token-10-18" morph="none" pos="word" start_char="1204">with</TOKEN>
+<TOKEN end_char="1216" id="token-10-19" morph="none" pos="unknown" start_char="1209">COVID-19</TOKEN>
+<TOKEN end_char="1218" id="token-10-20" morph="none" pos="punct" start_char="1217">,"</TOKEN>
+<TOKEN end_char="1227" id="token-10-21" morph="none" pos="word" start_char="1220">explains</TOKEN>
+<TOKEN end_char="1230" id="token-10-22" morph="none" pos="word" start_char="1229">Dr</TOKEN>
+<TOKEN end_char="1231" id="token-10-23" morph="none" pos="punct" start_char="1231">.</TOKEN>
+<TOKEN end_char="1238" id="token-10-24" morph="none" pos="word" start_char="1233">Levine</TOKEN>
+<TOKEN end_char="1239" id="token-10-25" morph="none" pos="punct" start_char="1239">.</TOKEN>
+</SEG>
+<SEG end_char="1363" id="segment-11" start_char="1242">
+<ORIGINAL_TEXT>According to the FDA, Remdesivir decreases the amount of coronavirus in a patient’s body, which helps them recover faster.</ORIGINAL_TEXT>
+<TOKEN end_char="1250" id="token-11-0" morph="none" pos="word" start_char="1242">According</TOKEN>
+<TOKEN end_char="1253" id="token-11-1" morph="none" pos="word" start_char="1252">to</TOKEN>
+<TOKEN end_char="1257" id="token-11-2" morph="none" pos="word" start_char="1255">the</TOKEN>
+<TOKEN end_char="1261" id="token-11-3" morph="none" pos="word" start_char="1259">FDA</TOKEN>
+<TOKEN end_char="1262" id="token-11-4" morph="none" pos="punct" start_char="1262">,</TOKEN>
+<TOKEN end_char="1273" id="token-11-5" morph="none" pos="word" start_char="1264">Remdesivir</TOKEN>
+<TOKEN end_char="1283" id="token-11-6" morph="none" pos="word" start_char="1275">decreases</TOKEN>
+<TOKEN end_char="1287" id="token-11-7" morph="none" pos="word" start_char="1285">the</TOKEN>
+<TOKEN end_char="1294" id="token-11-8" morph="none" pos="word" start_char="1289">amount</TOKEN>
+<TOKEN end_char="1297" id="token-11-9" morph="none" pos="word" start_char="1296">of</TOKEN>
+<TOKEN end_char="1309" id="token-11-10" morph="none" pos="word" start_char="1299">coronavirus</TOKEN>
+<TOKEN end_char="1312" id="token-11-11" morph="none" pos="word" start_char="1311">in</TOKEN>
+<TOKEN end_char="1314" id="token-11-12" morph="none" pos="word" start_char="1314">a</TOKEN>
+<TOKEN end_char="1324" id="token-11-13" morph="none" pos="word" start_char="1316">patient’s</TOKEN>
+<TOKEN end_char="1329" id="token-11-14" morph="none" pos="word" start_char="1326">body</TOKEN>
+<TOKEN end_char="1330" id="token-11-15" morph="none" pos="punct" start_char="1330">,</TOKEN>
+<TOKEN end_char="1336" id="token-11-16" morph="none" pos="word" start_char="1332">which</TOKEN>
+<TOKEN end_char="1342" id="token-11-17" morph="none" pos="word" start_char="1338">helps</TOKEN>
+<TOKEN end_char="1347" id="token-11-18" morph="none" pos="word" start_char="1344">them</TOKEN>
+<TOKEN end_char="1355" id="token-11-19" morph="none" pos="word" start_char="1349">recover</TOKEN>
+<TOKEN end_char="1362" id="token-11-20" morph="none" pos="word" start_char="1357">faster</TOKEN>
+<TOKEN end_char="1363" id="token-11-21" morph="none" pos="punct" start_char="1363">.</TOKEN>
+</SEG>
+<SEG end_char="1422" id="segment-12" start_char="1365">
+<ORIGINAL_TEXT>It’s given to a patient via intravenous fluids once a day.</ORIGINAL_TEXT>
+<TOKEN end_char="1368" id="token-12-0" morph="none" pos="word" start_char="1365">It’s</TOKEN>
+<TOKEN end_char="1374" id="token-12-1" morph="none" pos="word" start_char="1370">given</TOKEN>
+<TOKEN end_char="1377" id="token-12-2" morph="none" pos="word" start_char="1376">to</TOKEN>
+<TOKEN end_char="1379" id="token-12-3" morph="none" pos="word" start_char="1379">a</TOKEN>
+<TOKEN end_char="1387" id="token-12-4" morph="none" pos="word" start_char="1381">patient</TOKEN>
+<TOKEN end_char="1391" id="token-12-5" morph="none" pos="word" start_char="1389">via</TOKEN>
+<TOKEN end_char="1403" id="token-12-6" morph="none" pos="word" start_char="1393">intravenous</TOKEN>
+<TOKEN end_char="1410" id="token-12-7" morph="none" pos="word" start_char="1405">fluids</TOKEN>
+<TOKEN end_char="1415" id="token-12-8" morph="none" pos="word" start_char="1412">once</TOKEN>
+<TOKEN end_char="1417" id="token-12-9" morph="none" pos="word" start_char="1417">a</TOKEN>
+<TOKEN end_char="1421" id="token-12-10" morph="none" pos="word" start_char="1419">day</TOKEN>
+<TOKEN end_char="1422" id="token-12-11" morph="none" pos="punct" start_char="1422">.</TOKEN>
+</SEG>
+<SEG end_char="1482" id="segment-13" start_char="1424">
+<ORIGINAL_TEXT>Dr. Levine says patients can be put on one of two regimens.</ORIGINAL_TEXT>
+<TOKEN end_char="1425" id="token-13-0" morph="none" pos="word" start_char="1424">Dr</TOKEN>
+<TOKEN end_char="1426" id="token-13-1" morph="none" pos="punct" start_char="1426">.</TOKEN>
+<TOKEN end_char="1433" id="token-13-2" morph="none" pos="word" start_char="1428">Levine</TOKEN>
+<TOKEN end_char="1438" id="token-13-3" morph="none" pos="word" start_char="1435">says</TOKEN>
+<TOKEN end_char="1447" id="token-13-4" morph="none" pos="word" start_char="1440">patients</TOKEN>
+<TOKEN end_char="1451" id="token-13-5" morph="none" pos="word" start_char="1449">can</TOKEN>
+<TOKEN end_char="1454" id="token-13-6" morph="none" pos="word" start_char="1453">be</TOKEN>
+<TOKEN end_char="1458" id="token-13-7" morph="none" pos="word" start_char="1456">put</TOKEN>
+<TOKEN end_char="1461" id="token-13-8" morph="none" pos="word" start_char="1460">on</TOKEN>
+<TOKEN end_char="1465" id="token-13-9" morph="none" pos="word" start_char="1463">one</TOKEN>
+<TOKEN end_char="1468" id="token-13-10" morph="none" pos="word" start_char="1467">of</TOKEN>
+<TOKEN end_char="1472" id="token-13-11" morph="none" pos="word" start_char="1470">two</TOKEN>
+<TOKEN end_char="1481" id="token-13-12" morph="none" pos="word" start_char="1474">regimens</TOKEN>
+<TOKEN end_char="1482" id="token-13-13" morph="none" pos="punct" start_char="1482">.</TOKEN>
+</SEG>
+<SEG end_char="1629" id="segment-14" start_char="1485">
+<ORIGINAL_TEXT>"One is a five-day course which includes six doses, and there’s a ten-day course for even more severely ill patients which involves eleven doses.</ORIGINAL_TEXT>
+<TOKEN end_char="1485" id="token-14-0" morph="none" pos="punct" start_char="1485">"</TOKEN>
+<TOKEN end_char="1488" id="token-14-1" morph="none" pos="word" start_char="1486">One</TOKEN>
+<TOKEN end_char="1491" id="token-14-2" morph="none" pos="word" start_char="1490">is</TOKEN>
+<TOKEN end_char="1493" id="token-14-3" morph="none" pos="word" start_char="1493">a</TOKEN>
+<TOKEN end_char="1502" id="token-14-4" morph="none" pos="unknown" start_char="1495">five-day</TOKEN>
+<TOKEN end_char="1509" id="token-14-5" morph="none" pos="word" start_char="1504">course</TOKEN>
+<TOKEN end_char="1515" id="token-14-6" morph="none" pos="word" start_char="1511">which</TOKEN>
+<TOKEN end_char="1524" id="token-14-7" morph="none" pos="word" start_char="1517">includes</TOKEN>
+<TOKEN end_char="1528" id="token-14-8" morph="none" pos="word" start_char="1526">six</TOKEN>
+<TOKEN end_char="1534" id="token-14-9" morph="none" pos="word" start_char="1530">doses</TOKEN>
+<TOKEN end_char="1535" id="token-14-10" morph="none" pos="punct" start_char="1535">,</TOKEN>
+<TOKEN end_char="1539" id="token-14-11" morph="none" pos="word" start_char="1537">and</TOKEN>
+<TOKEN end_char="1547" id="token-14-12" morph="none" pos="word" start_char="1541">there’s</TOKEN>
+<TOKEN end_char="1549" id="token-14-13" morph="none" pos="word" start_char="1549">a</TOKEN>
+<TOKEN end_char="1557" id="token-14-14" morph="none" pos="unknown" start_char="1551">ten-day</TOKEN>
+<TOKEN end_char="1564" id="token-14-15" morph="none" pos="word" start_char="1559">course</TOKEN>
+<TOKEN end_char="1568" id="token-14-16" morph="none" pos="word" start_char="1566">for</TOKEN>
+<TOKEN end_char="1573" id="token-14-17" morph="none" pos="word" start_char="1570">even</TOKEN>
+<TOKEN end_char="1578" id="token-14-18" morph="none" pos="word" start_char="1575">more</TOKEN>
+<TOKEN end_char="1587" id="token-14-19" morph="none" pos="word" start_char="1580">severely</TOKEN>
+<TOKEN end_char="1591" id="token-14-20" morph="none" pos="word" start_char="1589">ill</TOKEN>
+<TOKEN end_char="1600" id="token-14-21" morph="none" pos="word" start_char="1593">patients</TOKEN>
+<TOKEN end_char="1606" id="token-14-22" morph="none" pos="word" start_char="1602">which</TOKEN>
+<TOKEN end_char="1615" id="token-14-23" morph="none" pos="word" start_char="1608">involves</TOKEN>
+<TOKEN end_char="1622" id="token-14-24" morph="none" pos="word" start_char="1617">eleven</TOKEN>
+<TOKEN end_char="1628" id="token-14-25" morph="none" pos="word" start_char="1624">doses</TOKEN>
+<TOKEN end_char="1629" id="token-14-26" morph="none" pos="punct" start_char="1629">.</TOKEN>
+</SEG>
+<SEG end_char="1696" id="segment-15" start_char="1631">
+<ORIGINAL_TEXT>It depends on how critically ill the patient is," Dr. Levine says.</ORIGINAL_TEXT>
+<TOKEN end_char="1632" id="token-15-0" morph="none" pos="word" start_char="1631">It</TOKEN>
+<TOKEN end_char="1640" id="token-15-1" morph="none" pos="word" start_char="1634">depends</TOKEN>
+<TOKEN end_char="1643" id="token-15-2" morph="none" pos="word" start_char="1642">on</TOKEN>
+<TOKEN end_char="1647" id="token-15-3" morph="none" pos="word" start_char="1645">how</TOKEN>
+<TOKEN end_char="1658" id="token-15-4" morph="none" pos="word" start_char="1649">critically</TOKEN>
+<TOKEN end_char="1662" id="token-15-5" morph="none" pos="word" start_char="1660">ill</TOKEN>
+<TOKEN end_char="1666" id="token-15-6" morph="none" pos="word" start_char="1664">the</TOKEN>
+<TOKEN end_char="1674" id="token-15-7" morph="none" pos="word" start_char="1668">patient</TOKEN>
+<TOKEN end_char="1677" id="token-15-8" morph="none" pos="word" start_char="1676">is</TOKEN>
+<TOKEN end_char="1679" id="token-15-9" morph="none" pos="punct" start_char="1678">,"</TOKEN>
+<TOKEN end_char="1682" id="token-15-10" morph="none" pos="word" start_char="1681">Dr</TOKEN>
+<TOKEN end_char="1683" id="token-15-11" morph="none" pos="punct" start_char="1683">.</TOKEN>
+<TOKEN end_char="1690" id="token-15-12" morph="none" pos="word" start_char="1685">Levine</TOKEN>
+<TOKEN end_char="1695" id="token-15-13" morph="none" pos="word" start_char="1692">says</TOKEN>
+<TOKEN end_char="1696" id="token-15-14" morph="none" pos="punct" start_char="1696">.</TOKEN>
+</SEG>
+<SEG end_char="1808" id="segment-16" start_char="1699">
+<ORIGINAL_TEXT>The supply of Remdesivir is being managed on the Federal level by the Department of Health and Human Services.</ORIGINAL_TEXT>
+<TOKEN end_char="1701" id="token-16-0" morph="none" pos="word" start_char="1699">The</TOKEN>
+<TOKEN end_char="1708" id="token-16-1" morph="none" pos="word" start_char="1703">supply</TOKEN>
+<TOKEN end_char="1711" id="token-16-2" morph="none" pos="word" start_char="1710">of</TOKEN>
+<TOKEN end_char="1722" id="token-16-3" morph="none" pos="word" start_char="1713">Remdesivir</TOKEN>
+<TOKEN end_char="1725" id="token-16-4" morph="none" pos="word" start_char="1724">is</TOKEN>
+<TOKEN end_char="1731" id="token-16-5" morph="none" pos="word" start_char="1727">being</TOKEN>
+<TOKEN end_char="1739" id="token-16-6" morph="none" pos="word" start_char="1733">managed</TOKEN>
+<TOKEN end_char="1742" id="token-16-7" morph="none" pos="word" start_char="1741">on</TOKEN>
+<TOKEN end_char="1746" id="token-16-8" morph="none" pos="word" start_char="1744">the</TOKEN>
+<TOKEN end_char="1754" id="token-16-9" morph="none" pos="word" start_char="1748">Federal</TOKEN>
+<TOKEN end_char="1760" id="token-16-10" morph="none" pos="word" start_char="1756">level</TOKEN>
+<TOKEN end_char="1763" id="token-16-11" morph="none" pos="word" start_char="1762">by</TOKEN>
+<TOKEN end_char="1767" id="token-16-12" morph="none" pos="word" start_char="1765">the</TOKEN>
+<TOKEN end_char="1778" id="token-16-13" morph="none" pos="word" start_char="1769">Department</TOKEN>
+<TOKEN end_char="1781" id="token-16-14" morph="none" pos="word" start_char="1780">of</TOKEN>
+<TOKEN end_char="1788" id="token-16-15" morph="none" pos="word" start_char="1783">Health</TOKEN>
+<TOKEN end_char="1792" id="token-16-16" morph="none" pos="word" start_char="1790">and</TOKEN>
+<TOKEN end_char="1798" id="token-16-17" morph="none" pos="word" start_char="1794">Human</TOKEN>
+<TOKEN end_char="1807" id="token-16-18" morph="none" pos="word" start_char="1800">Services</TOKEN>
+<TOKEN end_char="1808" id="token-16-19" morph="none" pos="punct" start_char="1808">.</TOKEN>
+</SEG>
+<SEG end_char="1930" id="segment-17" start_char="1810">
+<ORIGINAL_TEXT>Dr. Levine says Pennsylvania will receive more shipments of the medication on a weekly basis over the next several weeks.</ORIGINAL_TEXT>
+<TOKEN end_char="1811" id="token-17-0" morph="none" pos="word" start_char="1810">Dr</TOKEN>
+<TOKEN end_char="1812" id="token-17-1" morph="none" pos="punct" start_char="1812">.</TOKEN>
+<TOKEN end_char="1819" id="token-17-2" morph="none" pos="word" start_char="1814">Levine</TOKEN>
+<TOKEN end_char="1824" id="token-17-3" morph="none" pos="word" start_char="1821">says</TOKEN>
+<TOKEN end_char="1837" id="token-17-4" morph="none" pos="word" start_char="1826">Pennsylvania</TOKEN>
+<TOKEN end_char="1842" id="token-17-5" morph="none" pos="word" start_char="1839">will</TOKEN>
+<TOKEN end_char="1850" id="token-17-6" morph="none" pos="word" start_char="1844">receive</TOKEN>
+<TOKEN end_char="1855" id="token-17-7" morph="none" pos="word" start_char="1852">more</TOKEN>
+<TOKEN end_char="1865" id="token-17-8" morph="none" pos="word" start_char="1857">shipments</TOKEN>
+<TOKEN end_char="1868" id="token-17-9" morph="none" pos="word" start_char="1867">of</TOKEN>
+<TOKEN end_char="1872" id="token-17-10" morph="none" pos="word" start_char="1870">the</TOKEN>
+<TOKEN end_char="1883" id="token-17-11" morph="none" pos="word" start_char="1874">medication</TOKEN>
+<TOKEN end_char="1886" id="token-17-12" morph="none" pos="word" start_char="1885">on</TOKEN>
+<TOKEN end_char="1888" id="token-17-13" morph="none" pos="word" start_char="1888">a</TOKEN>
+<TOKEN end_char="1895" id="token-17-14" morph="none" pos="word" start_char="1890">weekly</TOKEN>
+<TOKEN end_char="1901" id="token-17-15" morph="none" pos="word" start_char="1897">basis</TOKEN>
+<TOKEN end_char="1906" id="token-17-16" morph="none" pos="word" start_char="1903">over</TOKEN>
+<TOKEN end_char="1910" id="token-17-17" morph="none" pos="word" start_char="1908">the</TOKEN>
+<TOKEN end_char="1915" id="token-17-18" morph="none" pos="word" start_char="1912">next</TOKEN>
+<TOKEN end_char="1923" id="token-17-19" morph="none" pos="word" start_char="1917">several</TOKEN>
+<TOKEN end_char="1929" id="token-17-20" morph="none" pos="word" start_char="1925">weeks</TOKEN>
+<TOKEN end_char="1930" id="token-17-21" morph="none" pos="punct" start_char="1930">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

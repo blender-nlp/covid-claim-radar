@@ -1,0 +1,28 @@
+<LCTL_TEXT lang="spa">
+<DOC grammar="none" id="L0C04ATC5" lang="spa" raw_text_char_length="123" raw_text_md5="bf33999d153ce95b1023592b915ed83e" tokenization="tokenization_parameters.v5.0">
+<TEXT>
+<SEG end_char="119" id="segment-0" start_char="1">
+<ORIGINAL_TEXT>¿Por qué los murciélagos son considerados con frecuencia sospechosos de nuevas enfermedades que infectan a los humanos?</ORIGINAL_TEXT>
+<TOKEN end_char="1" id="token-0-0" morph="none" pos="punct" start_char="1">¿</TOKEN>
+<TOKEN end_char="4" id="token-0-1" morph="none" pos="word" start_char="2">Por</TOKEN>
+<TOKEN end_char="8" id="token-0-2" morph="none" pos="word" start_char="6">qué</TOKEN>
+<TOKEN end_char="12" id="token-0-3" morph="none" pos="word" start_char="10">los</TOKEN>
+<TOKEN end_char="24" id="token-0-4" morph="none" pos="word" start_char="14">murciélagos</TOKEN>
+<TOKEN end_char="28" id="token-0-5" morph="none" pos="word" start_char="26">son</TOKEN>
+<TOKEN end_char="41" id="token-0-6" morph="none" pos="word" start_char="30">considerados</TOKEN>
+<TOKEN end_char="45" id="token-0-7" morph="none" pos="word" start_char="43">con</TOKEN>
+<TOKEN end_char="56" id="token-0-8" morph="none" pos="word" start_char="47">frecuencia</TOKEN>
+<TOKEN end_char="68" id="token-0-9" morph="none" pos="word" start_char="58">sospechosos</TOKEN>
+<TOKEN end_char="71" id="token-0-10" morph="none" pos="word" start_char="70">de</TOKEN>
+<TOKEN end_char="78" id="token-0-11" morph="none" pos="word" start_char="73">nuevas</TOKEN>
+<TOKEN end_char="91" id="token-0-12" morph="none" pos="word" start_char="80">enfermedades</TOKEN>
+<TOKEN end_char="95" id="token-0-13" morph="none" pos="word" start_char="93">que</TOKEN>
+<TOKEN end_char="104" id="token-0-14" morph="none" pos="word" start_char="97">infectan</TOKEN>
+<TOKEN end_char="106" id="token-0-15" morph="none" pos="word" start_char="106">a</TOKEN>
+<TOKEN end_char="110" id="token-0-16" morph="none" pos="word" start_char="108">los</TOKEN>
+<TOKEN end_char="118" id="token-0-17" morph="none" pos="word" start_char="112">humanos</TOKEN>
+<TOKEN end_char="119" id="token-0-18" morph="none" pos="punct" start_char="119">?</TOKEN>
+<TRANSLATED_TEXT>Why are bats often suspected of new diseases that infect humans?</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

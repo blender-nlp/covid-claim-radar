@@ -1,0 +1,810 @@
+<LCTL_TEXT lang="spa">
+<DOC grammar="none" id="L0C04ATJM" lang="spa" raw_text_char_length="4032" raw_text_md5="0dd46d24f57e96ff263e6a5d7e7dbf68" tokenization="tokenization_parameters.v5.0">
+<TEXT>
+<SEG end_char="25" id="segment-0" start_char="1">
+<ORIGINAL_TEXT>Coronavirus or West Nile?</ORIGINAL_TEXT>
+<TOKEN end_char="11" id="token-0-0" morph="none" pos="word" start_char="1">Coronavirus</TOKEN>
+<TOKEN end_char="14" id="token-0-1" morph="none" pos="word" start_char="13">or</TOKEN>
+<TOKEN end_char="19" id="token-0-2" morph="none" pos="word" start_char="16">West</TOKEN>
+<TOKEN end_char="24" id="token-0-3" morph="none" pos="word" start_char="21">Nile</TOKEN>
+<TOKEN end_char="25" id="token-0-4" morph="none" pos="punct" start_char="25">?</TOKEN>
+</SEG>
+<SEG end_char="110" id="segment-1" start_char="27">
+<ORIGINAL_TEXT>CDC reports 17 cases of mosquito disease that present symptoms similarly to COVID-19</ORIGINAL_TEXT>
+<TOKEN end_char="29" id="token-1-0" morph="none" pos="word" start_char="27">CDC</TOKEN>
+<TOKEN end_char="37" id="token-1-1" morph="none" pos="word" start_char="31">reports</TOKEN>
+<TOKEN end_char="40" id="token-1-2" morph="none" pos="word" start_char="39">17</TOKEN>
+<TOKEN end_char="46" id="token-1-3" morph="none" pos="word" start_char="42">cases</TOKEN>
+<TOKEN end_char="49" id="token-1-4" morph="none" pos="word" start_char="48">of</TOKEN>
+<TOKEN end_char="58" id="token-1-5" morph="none" pos="word" start_char="51">mosquito</TOKEN>
+<TOKEN end_char="66" id="token-1-6" morph="none" pos="word" start_char="60">disease</TOKEN>
+<TOKEN end_char="71" id="token-1-7" morph="none" pos="word" start_char="68">that</TOKEN>
+<TOKEN end_char="79" id="token-1-8" morph="none" pos="word" start_char="73">present</TOKEN>
+<TOKEN end_char="88" id="token-1-9" morph="none" pos="word" start_char="81">symptoms</TOKEN>
+<TOKEN end_char="98" id="token-1-10" morph="none" pos="word" start_char="90">similarly</TOKEN>
+<TOKEN end_char="101" id="token-1-11" morph="none" pos="word" start_char="100">to</TOKEN>
+<TOKEN end_char="110" id="token-1-12" morph="none" pos="unknown" start_char="103">COVID-19</TOKEN>
+</SEG>
+<SEG end_char="247" id="segment-2" start_char="114">
+<ORIGINAL_TEXT>West Nile virus is transmitted primarily by several Culex species, including Culex salinarius and Culex pipiens, health officials say.</ORIGINAL_TEXT>
+<TOKEN end_char="117" id="token-2-0" morph="none" pos="word" start_char="114">West</TOKEN>
+<TOKEN end_char="122" id="token-2-1" morph="none" pos="word" start_char="119">Nile</TOKEN>
+<TOKEN end_char="128" id="token-2-2" morph="none" pos="word" start_char="124">virus</TOKEN>
+<TOKEN end_char="131" id="token-2-3" morph="none" pos="word" start_char="130">is</TOKEN>
+<TOKEN end_char="143" id="token-2-4" morph="none" pos="word" start_char="133">transmitted</TOKEN>
+<TOKEN end_char="153" id="token-2-5" morph="none" pos="word" start_char="145">primarily</TOKEN>
+<TOKEN end_char="156" id="token-2-6" morph="none" pos="word" start_char="155">by</TOKEN>
+<TOKEN end_char="164" id="token-2-7" morph="none" pos="word" start_char="158">several</TOKEN>
+<TOKEN end_char="170" id="token-2-8" morph="none" pos="word" start_char="166">Culex</TOKEN>
+<TOKEN end_char="178" id="token-2-9" morph="none" pos="word" start_char="172">species</TOKEN>
+<TOKEN end_char="179" id="token-2-10" morph="none" pos="punct" start_char="179">,</TOKEN>
+<TOKEN end_char="189" id="token-2-11" morph="none" pos="word" start_char="181">including</TOKEN>
+<TOKEN end_char="195" id="token-2-12" morph="none" pos="word" start_char="191">Culex</TOKEN>
+<TOKEN end_char="206" id="token-2-13" morph="none" pos="word" start_char="197">salinarius</TOKEN>
+<TOKEN end_char="210" id="token-2-14" morph="none" pos="word" start_char="208">and</TOKEN>
+<TOKEN end_char="216" id="token-2-15" morph="none" pos="word" start_char="212">Culex</TOKEN>
+<TOKEN end_char="224" id="token-2-16" morph="none" pos="word" start_char="218">pipiens</TOKEN>
+<TOKEN end_char="225" id="token-2-17" morph="none" pos="punct" start_char="225">,</TOKEN>
+<TOKEN end_char="232" id="token-2-18" morph="none" pos="word" start_char="227">health</TOKEN>
+<TOKEN end_char="242" id="token-2-19" morph="none" pos="word" start_char="234">officials</TOKEN>
+<TOKEN end_char="246" id="token-2-20" morph="none" pos="word" start_char="244">say</TOKEN>
+<TOKEN end_char="247" id="token-2-21" morph="none" pos="punct" start_char="247">.</TOKEN>
+</SEG>
+<SEG end_char="256" id="segment-3" start_char="249">
+<ORIGINAL_TEXT>(iStock)</ORIGINAL_TEXT>
+<TOKEN end_char="249" id="token-3-0" morph="none" pos="punct" start_char="249">(</TOKEN>
+<TOKEN end_char="255" id="token-3-1" morph="none" pos="word" start_char="250">iStock</TOKEN>
+<TOKEN end_char="256" id="token-3-2" morph="none" pos="punct" start_char="256">)</TOKEN>
+</SEG>
+<SEG end_char="413" id="segment-4" start_char="260">
+<ORIGINAL_TEXT>While the United States deals with the coronavirus, the West Nile virus is on the rise and can show similar features to COVID-19, creating some confusion.</ORIGINAL_TEXT>
+<TOKEN end_char="264" id="token-4-0" morph="none" pos="word" start_char="260">While</TOKEN>
+<TOKEN end_char="268" id="token-4-1" morph="none" pos="word" start_char="266">the</TOKEN>
+<TOKEN end_char="275" id="token-4-2" morph="none" pos="word" start_char="270">United</TOKEN>
+<TOKEN end_char="282" id="token-4-3" morph="none" pos="word" start_char="277">States</TOKEN>
+<TOKEN end_char="288" id="token-4-4" morph="none" pos="word" start_char="284">deals</TOKEN>
+<TOKEN end_char="293" id="token-4-5" morph="none" pos="word" start_char="290">with</TOKEN>
+<TOKEN end_char="297" id="token-4-6" morph="none" pos="word" start_char="295">the</TOKEN>
+<TOKEN end_char="309" id="token-4-7" morph="none" pos="word" start_char="299">coronavirus</TOKEN>
+<TOKEN end_char="310" id="token-4-8" morph="none" pos="punct" start_char="310">,</TOKEN>
+<TOKEN end_char="314" id="token-4-9" morph="none" pos="word" start_char="312">the</TOKEN>
+<TOKEN end_char="319" id="token-4-10" morph="none" pos="word" start_char="316">West</TOKEN>
+<TOKEN end_char="324" id="token-4-11" morph="none" pos="word" start_char="321">Nile</TOKEN>
+<TOKEN end_char="330" id="token-4-12" morph="none" pos="word" start_char="326">virus</TOKEN>
+<TOKEN end_char="333" id="token-4-13" morph="none" pos="word" start_char="332">is</TOKEN>
+<TOKEN end_char="336" id="token-4-14" morph="none" pos="word" start_char="335">on</TOKEN>
+<TOKEN end_char="340" id="token-4-15" morph="none" pos="word" start_char="338">the</TOKEN>
+<TOKEN end_char="345" id="token-4-16" morph="none" pos="word" start_char="342">rise</TOKEN>
+<TOKEN end_char="349" id="token-4-17" morph="none" pos="word" start_char="347">and</TOKEN>
+<TOKEN end_char="353" id="token-4-18" morph="none" pos="word" start_char="351">can</TOKEN>
+<TOKEN end_char="358" id="token-4-19" morph="none" pos="word" start_char="355">show</TOKEN>
+<TOKEN end_char="366" id="token-4-20" morph="none" pos="word" start_char="360">similar</TOKEN>
+<TOKEN end_char="375" id="token-4-21" morph="none" pos="word" start_char="368">features</TOKEN>
+<TOKEN end_char="378" id="token-4-22" morph="none" pos="word" start_char="377">to</TOKEN>
+<TOKEN end_char="387" id="token-4-23" morph="none" pos="unknown" start_char="380">COVID-19</TOKEN>
+<TOKEN end_char="388" id="token-4-24" morph="none" pos="punct" start_char="388">,</TOKEN>
+<TOKEN end_char="397" id="token-4-25" morph="none" pos="word" start_char="390">creating</TOKEN>
+<TOKEN end_char="402" id="token-4-26" morph="none" pos="word" start_char="399">some</TOKEN>
+<TOKEN end_char="412" id="token-4-27" morph="none" pos="word" start_char="404">confusion</TOKEN>
+<TOKEN end_char="413" id="token-4-28" morph="none" pos="punct" start_char="413">.</TOKEN>
+</SEG>
+<SEG end_char="587" id="segment-5" start_char="415">
+<ORIGINAL_TEXT>Seventeen human cases of West Nile virus have been reported so far in Texas, Los Angeles County, and Fla., according to the Centers for Disease Control and Prevention (CDC).</ORIGINAL_TEXT>
+<TOKEN end_char="423" id="token-5-0" morph="none" pos="word" start_char="415">Seventeen</TOKEN>
+<TOKEN end_char="429" id="token-5-1" morph="none" pos="word" start_char="425">human</TOKEN>
+<TOKEN end_char="435" id="token-5-2" morph="none" pos="word" start_char="431">cases</TOKEN>
+<TOKEN end_char="438" id="token-5-3" morph="none" pos="word" start_char="437">of</TOKEN>
+<TOKEN end_char="443" id="token-5-4" morph="none" pos="word" start_char="440">West</TOKEN>
+<TOKEN end_char="448" id="token-5-5" morph="none" pos="word" start_char="445">Nile</TOKEN>
+<TOKEN end_char="454" id="token-5-6" morph="none" pos="word" start_char="450">virus</TOKEN>
+<TOKEN end_char="459" id="token-5-7" morph="none" pos="word" start_char="456">have</TOKEN>
+<TOKEN end_char="464" id="token-5-8" morph="none" pos="word" start_char="461">been</TOKEN>
+<TOKEN end_char="473" id="token-5-9" morph="none" pos="word" start_char="466">reported</TOKEN>
+<TOKEN end_char="476" id="token-5-10" morph="none" pos="word" start_char="475">so</TOKEN>
+<TOKEN end_char="480" id="token-5-11" morph="none" pos="word" start_char="478">far</TOKEN>
+<TOKEN end_char="483" id="token-5-12" morph="none" pos="word" start_char="482">in</TOKEN>
+<TOKEN end_char="489" id="token-5-13" morph="none" pos="word" start_char="485">Texas</TOKEN>
+<TOKEN end_char="490" id="token-5-14" morph="none" pos="punct" start_char="490">,</TOKEN>
+<TOKEN end_char="494" id="token-5-15" morph="none" pos="word" start_char="492">Los</TOKEN>
+<TOKEN end_char="502" id="token-5-16" morph="none" pos="word" start_char="496">Angeles</TOKEN>
+<TOKEN end_char="509" id="token-5-17" morph="none" pos="word" start_char="504">County</TOKEN>
+<TOKEN end_char="510" id="token-5-18" morph="none" pos="punct" start_char="510">,</TOKEN>
+<TOKEN end_char="514" id="token-5-19" morph="none" pos="word" start_char="512">and</TOKEN>
+<TOKEN end_char="518" id="token-5-20" morph="none" pos="word" start_char="516">Fla</TOKEN>
+<TOKEN end_char="520" id="token-5-21" morph="none" pos="punct" start_char="519">.,</TOKEN>
+<TOKEN end_char="530" id="token-5-22" morph="none" pos="word" start_char="522">according</TOKEN>
+<TOKEN end_char="533" id="token-5-23" morph="none" pos="word" start_char="532">to</TOKEN>
+<TOKEN end_char="537" id="token-5-24" morph="none" pos="word" start_char="535">the</TOKEN>
+<TOKEN end_char="545" id="token-5-25" morph="none" pos="word" start_char="539">Centers</TOKEN>
+<TOKEN end_char="549" id="token-5-26" morph="none" pos="word" start_char="547">for</TOKEN>
+<TOKEN end_char="557" id="token-5-27" morph="none" pos="word" start_char="551">Disease</TOKEN>
+<TOKEN end_char="565" id="token-5-28" morph="none" pos="word" start_char="559">Control</TOKEN>
+<TOKEN end_char="569" id="token-5-29" morph="none" pos="word" start_char="567">and</TOKEN>
+<TOKEN end_char="580" id="token-5-30" morph="none" pos="word" start_char="571">Prevention</TOKEN>
+<TOKEN end_char="582" id="token-5-31" morph="none" pos="punct" start_char="582">(</TOKEN>
+<TOKEN end_char="585" id="token-5-32" morph="none" pos="word" start_char="583">CDC</TOKEN>
+<TOKEN end_char="587" id="token-5-33" morph="none" pos="punct" start_char="586">).</TOKEN>
+</SEG>
+<SEG end_char="706" id="segment-6" start_char="590">
+<ORIGINAL_TEXT>In Georgia, Fox 5 Atlanta reported this week that mosquitos positive for West Nile Virus were found in DeKalb County.</ORIGINAL_TEXT>
+<TOKEN end_char="591" id="token-6-0" morph="none" pos="word" start_char="590">In</TOKEN>
+<TOKEN end_char="599" id="token-6-1" morph="none" pos="word" start_char="593">Georgia</TOKEN>
+<TOKEN end_char="600" id="token-6-2" morph="none" pos="punct" start_char="600">,</TOKEN>
+<TOKEN end_char="604" id="token-6-3" morph="none" pos="word" start_char="602">Fox</TOKEN>
+<TOKEN end_char="606" id="token-6-4" morph="none" pos="word" start_char="606">5</TOKEN>
+<TOKEN end_char="614" id="token-6-5" morph="none" pos="word" start_char="608">Atlanta</TOKEN>
+<TOKEN end_char="623" id="token-6-6" morph="none" pos="word" start_char="616">reported</TOKEN>
+<TOKEN end_char="628" id="token-6-7" morph="none" pos="word" start_char="625">this</TOKEN>
+<TOKEN end_char="633" id="token-6-8" morph="none" pos="word" start_char="630">week</TOKEN>
+<TOKEN end_char="638" id="token-6-9" morph="none" pos="word" start_char="635">that</TOKEN>
+<TOKEN end_char="648" id="token-6-10" morph="none" pos="word" start_char="640">mosquitos</TOKEN>
+<TOKEN end_char="657" id="token-6-11" morph="none" pos="word" start_char="650">positive</TOKEN>
+<TOKEN end_char="661" id="token-6-12" morph="none" pos="word" start_char="659">for</TOKEN>
+<TOKEN end_char="666" id="token-6-13" morph="none" pos="word" start_char="663">West</TOKEN>
+<TOKEN end_char="671" id="token-6-14" morph="none" pos="word" start_char="668">Nile</TOKEN>
+<TOKEN end_char="677" id="token-6-15" morph="none" pos="word" start_char="673">Virus</TOKEN>
+<TOKEN end_char="682" id="token-6-16" morph="none" pos="word" start_char="679">were</TOKEN>
+<TOKEN end_char="688" id="token-6-17" morph="none" pos="word" start_char="684">found</TOKEN>
+<TOKEN end_char="691" id="token-6-18" morph="none" pos="word" start_char="690">in</TOKEN>
+<TOKEN end_char="698" id="token-6-19" morph="none" pos="word" start_char="693">DeKalb</TOKEN>
+<TOKEN end_char="705" id="token-6-20" morph="none" pos="word" start_char="700">County</TOKEN>
+<TOKEN end_char="706" id="token-6-21" morph="none" pos="punct" start_char="706">.</TOKEN>
+</SEG>
+<SEG end_char="870" id="segment-7" start_char="708">
+<ORIGINAL_TEXT>Because the symptoms are similar to COVID-19, which is still running rampant throughout the country, health experts warn to not overlook West Nile when diagnosing.</ORIGINAL_TEXT>
+<TOKEN end_char="714" id="token-7-0" morph="none" pos="word" start_char="708">Because</TOKEN>
+<TOKEN end_char="718" id="token-7-1" morph="none" pos="word" start_char="716">the</TOKEN>
+<TOKEN end_char="727" id="token-7-2" morph="none" pos="word" start_char="720">symptoms</TOKEN>
+<TOKEN end_char="731" id="token-7-3" morph="none" pos="word" start_char="729">are</TOKEN>
+<TOKEN end_char="739" id="token-7-4" morph="none" pos="word" start_char="733">similar</TOKEN>
+<TOKEN end_char="742" id="token-7-5" morph="none" pos="word" start_char="741">to</TOKEN>
+<TOKEN end_char="751" id="token-7-6" morph="none" pos="unknown" start_char="744">COVID-19</TOKEN>
+<TOKEN end_char="752" id="token-7-7" morph="none" pos="punct" start_char="752">,</TOKEN>
+<TOKEN end_char="758" id="token-7-8" morph="none" pos="word" start_char="754">which</TOKEN>
+<TOKEN end_char="761" id="token-7-9" morph="none" pos="word" start_char="760">is</TOKEN>
+<TOKEN end_char="767" id="token-7-10" morph="none" pos="word" start_char="763">still</TOKEN>
+<TOKEN end_char="775" id="token-7-11" morph="none" pos="word" start_char="769">running</TOKEN>
+<TOKEN end_char="783" id="token-7-12" morph="none" pos="word" start_char="777">rampant</TOKEN>
+<TOKEN end_char="794" id="token-7-13" morph="none" pos="word" start_char="785">throughout</TOKEN>
+<TOKEN end_char="798" id="token-7-14" morph="none" pos="word" start_char="796">the</TOKEN>
+<TOKEN end_char="806" id="token-7-15" morph="none" pos="word" start_char="800">country</TOKEN>
+<TOKEN end_char="807" id="token-7-16" morph="none" pos="punct" start_char="807">,</TOKEN>
+<TOKEN end_char="814" id="token-7-17" morph="none" pos="word" start_char="809">health</TOKEN>
+<TOKEN end_char="822" id="token-7-18" morph="none" pos="word" start_char="816">experts</TOKEN>
+<TOKEN end_char="827" id="token-7-19" morph="none" pos="word" start_char="824">warn</TOKEN>
+<TOKEN end_char="830" id="token-7-20" morph="none" pos="word" start_char="829">to</TOKEN>
+<TOKEN end_char="834" id="token-7-21" morph="none" pos="word" start_char="832">not</TOKEN>
+<TOKEN end_char="843" id="token-7-22" morph="none" pos="word" start_char="836">overlook</TOKEN>
+<TOKEN end_char="848" id="token-7-23" morph="none" pos="word" start_char="845">West</TOKEN>
+<TOKEN end_char="853" id="token-7-24" morph="none" pos="word" start_char="850">Nile</TOKEN>
+<TOKEN end_char="858" id="token-7-25" morph="none" pos="word" start_char="855">when</TOKEN>
+<TOKEN end_char="869" id="token-7-26" morph="none" pos="word" start_char="860">diagnosing</TOKEN>
+<TOKEN end_char="870" id="token-7-27" morph="none" pos="punct" start_char="870">.</TOKEN>
+</SEG>
+<SEG end_char="1085" id="segment-8" start_char="873">
+<ORIGINAL_TEXT>"Mosquitoes do not carry COVID, but because the symptoms are so similar you’ll need to talk with your doctor to see about getting a COVID test," Juanette Willis, with the DeKalb County Board of Health, told FOX 5.</ORIGINAL_TEXT>
+<TOKEN end_char="873" id="token-8-0" morph="none" pos="punct" start_char="873">"</TOKEN>
+<TOKEN end_char="883" id="token-8-1" morph="none" pos="word" start_char="874">Mosquitoes</TOKEN>
+<TOKEN end_char="886" id="token-8-2" morph="none" pos="word" start_char="885">do</TOKEN>
+<TOKEN end_char="890" id="token-8-3" morph="none" pos="word" start_char="888">not</TOKEN>
+<TOKEN end_char="896" id="token-8-4" morph="none" pos="word" start_char="892">carry</TOKEN>
+<TOKEN end_char="902" id="token-8-5" morph="none" pos="word" start_char="898">COVID</TOKEN>
+<TOKEN end_char="903" id="token-8-6" morph="none" pos="punct" start_char="903">,</TOKEN>
+<TOKEN end_char="907" id="token-8-7" morph="none" pos="word" start_char="905">but</TOKEN>
+<TOKEN end_char="915" id="token-8-8" morph="none" pos="word" start_char="909">because</TOKEN>
+<TOKEN end_char="919" id="token-8-9" morph="none" pos="word" start_char="917">the</TOKEN>
+<TOKEN end_char="928" id="token-8-10" morph="none" pos="word" start_char="921">symptoms</TOKEN>
+<TOKEN end_char="932" id="token-8-11" morph="none" pos="word" start_char="930">are</TOKEN>
+<TOKEN end_char="935" id="token-8-12" morph="none" pos="word" start_char="934">so</TOKEN>
+<TOKEN end_char="943" id="token-8-13" morph="none" pos="word" start_char="937">similar</TOKEN>
+<TOKEN end_char="950" id="token-8-14" morph="none" pos="word" start_char="945">you’ll</TOKEN>
+<TOKEN end_char="955" id="token-8-15" morph="none" pos="word" start_char="952">need</TOKEN>
+<TOKEN end_char="958" id="token-8-16" morph="none" pos="word" start_char="957">to</TOKEN>
+<TOKEN end_char="963" id="token-8-17" morph="none" pos="word" start_char="960">talk</TOKEN>
+<TOKEN end_char="968" id="token-8-18" morph="none" pos="word" start_char="965">with</TOKEN>
+<TOKEN end_char="973" id="token-8-19" morph="none" pos="word" start_char="970">your</TOKEN>
+<TOKEN end_char="980" id="token-8-20" morph="none" pos="word" start_char="975">doctor</TOKEN>
+<TOKEN end_char="983" id="token-8-21" morph="none" pos="word" start_char="982">to</TOKEN>
+<TOKEN end_char="987" id="token-8-22" morph="none" pos="word" start_char="985">see</TOKEN>
+<TOKEN end_char="993" id="token-8-23" morph="none" pos="word" start_char="989">about</TOKEN>
+<TOKEN end_char="1001" id="token-8-24" morph="none" pos="word" start_char="995">getting</TOKEN>
+<TOKEN end_char="1003" id="token-8-25" morph="none" pos="word" start_char="1003">a</TOKEN>
+<TOKEN end_char="1009" id="token-8-26" morph="none" pos="word" start_char="1005">COVID</TOKEN>
+<TOKEN end_char="1014" id="token-8-27" morph="none" pos="word" start_char="1011">test</TOKEN>
+<TOKEN end_char="1016" id="token-8-28" morph="none" pos="punct" start_char="1015">,"</TOKEN>
+<TOKEN end_char="1025" id="token-8-29" morph="none" pos="word" start_char="1018">Juanette</TOKEN>
+<TOKEN end_char="1032" id="token-8-30" morph="none" pos="word" start_char="1027">Willis</TOKEN>
+<TOKEN end_char="1033" id="token-8-31" morph="none" pos="punct" start_char="1033">,</TOKEN>
+<TOKEN end_char="1038" id="token-8-32" morph="none" pos="word" start_char="1035">with</TOKEN>
+<TOKEN end_char="1042" id="token-8-33" morph="none" pos="word" start_char="1040">the</TOKEN>
+<TOKEN end_char="1049" id="token-8-34" morph="none" pos="word" start_char="1044">DeKalb</TOKEN>
+<TOKEN end_char="1056" id="token-8-35" morph="none" pos="word" start_char="1051">County</TOKEN>
+<TOKEN end_char="1062" id="token-8-36" morph="none" pos="word" start_char="1058">Board</TOKEN>
+<TOKEN end_char="1065" id="token-8-37" morph="none" pos="word" start_char="1064">of</TOKEN>
+<TOKEN end_char="1072" id="token-8-38" morph="none" pos="word" start_char="1067">Health</TOKEN>
+<TOKEN end_char="1073" id="token-8-39" morph="none" pos="punct" start_char="1073">,</TOKEN>
+<TOKEN end_char="1078" id="token-8-40" morph="none" pos="word" start_char="1075">told</TOKEN>
+<TOKEN end_char="1082" id="token-8-41" morph="none" pos="word" start_char="1080">FOX</TOKEN>
+<TOKEN end_char="1084" id="token-8-42" morph="none" pos="word" start_char="1084">5</TOKEN>
+<TOKEN end_char="1085" id="token-8-43" morph="none" pos="punct" start_char="1085">.</TOKEN>
+</SEG>
+<SEG end_char="1180" id="segment-9" start_char="1088">
+<ORIGINAL_TEXT>BLOOD TEST IDENTIFIES WHICH CORONAVIRUS PATIENTS MAY BE HELPED OR HARMED BY STEROID TREATMENT</ORIGINAL_TEXT>
+<TOKEN end_char="1092" id="token-9-0" morph="none" pos="word" start_char="1088">BLOOD</TOKEN>
+<TOKEN end_char="1097" id="token-9-1" morph="none" pos="word" start_char="1094">TEST</TOKEN>
+<TOKEN end_char="1108" id="token-9-2" morph="none" pos="word" start_char="1099">IDENTIFIES</TOKEN>
+<TOKEN end_char="1114" id="token-9-3" morph="none" pos="word" start_char="1110">WHICH</TOKEN>
+<TOKEN end_char="1126" id="token-9-4" morph="none" pos="word" start_char="1116">CORONAVIRUS</TOKEN>
+<TOKEN end_char="1135" id="token-9-5" morph="none" pos="word" start_char="1128">PATIENTS</TOKEN>
+<TOKEN end_char="1139" id="token-9-6" morph="none" pos="word" start_char="1137">MAY</TOKEN>
+<TOKEN end_char="1142" id="token-9-7" morph="none" pos="word" start_char="1141">BE</TOKEN>
+<TOKEN end_char="1149" id="token-9-8" morph="none" pos="word" start_char="1144">HELPED</TOKEN>
+<TOKEN end_char="1152" id="token-9-9" morph="none" pos="word" start_char="1151">OR</TOKEN>
+<TOKEN end_char="1159" id="token-9-10" morph="none" pos="word" start_char="1154">HARMED</TOKEN>
+<TOKEN end_char="1162" id="token-9-11" morph="none" pos="word" start_char="1161">BY</TOKEN>
+<TOKEN end_char="1170" id="token-9-12" morph="none" pos="word" start_char="1164">STEROID</TOKEN>
+<TOKEN end_char="1180" id="token-9-13" morph="none" pos="word" start_char="1172">TREATMENT</TOKEN>
+<TRANSLATED_TEXT>IDENTIFIKI DI TEST BLOODE CHE I PATIENTI CORONAVIROS DI CAPE E E HARMED PER IL TRATTAMENTO DI STEROID</TRANSLATED_TEXT><DETECTED_LANGUAGE>de</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1185" id="segment-10" start_char="1183">
+<ORIGINAL_TEXT>Dr.</ORIGINAL_TEXT>
+<TOKEN end_char="1184" id="token-10-0" morph="none" pos="word" start_char="1183">Dr</TOKEN>
+<TOKEN end_char="1185" id="token-10-1" morph="none" pos="punct" start_char="1185">.</TOKEN>
+<TRANSLATED_TEXT>dr.</TRANSLATED_TEXT><DETECTED_LANGUAGE>de</DETECTED_LANGUAGE></SEG>
+<SEG end_char="1468" id="segment-11" start_char="1187">
+<ORIGINAL_TEXT>Paul Auwaerter, clinical director of the division of infectious diseases at Johns Hopkins Hospital, told Yahoo Life regarding West Nile infections, "About 20 percent might develop a flu-like illness [also known as West Nile fever] that is probably indistinguishable from COVID-19. "</ORIGINAL_TEXT>
+<TOKEN end_char="1190" id="token-11-0" morph="none" pos="word" start_char="1187">Paul</TOKEN>
+<TOKEN end_char="1200" id="token-11-1" morph="none" pos="word" start_char="1192">Auwaerter</TOKEN>
+<TOKEN end_char="1201" id="token-11-2" morph="none" pos="punct" start_char="1201">,</TOKEN>
+<TOKEN end_char="1210" id="token-11-3" morph="none" pos="word" start_char="1203">clinical</TOKEN>
+<TOKEN end_char="1219" id="token-11-4" morph="none" pos="word" start_char="1212">director</TOKEN>
+<TOKEN end_char="1222" id="token-11-5" morph="none" pos="word" start_char="1221">of</TOKEN>
+<TOKEN end_char="1226" id="token-11-6" morph="none" pos="word" start_char="1224">the</TOKEN>
+<TOKEN end_char="1235" id="token-11-7" morph="none" pos="word" start_char="1228">division</TOKEN>
+<TOKEN end_char="1238" id="token-11-8" morph="none" pos="word" start_char="1237">of</TOKEN>
+<TOKEN end_char="1249" id="token-11-9" morph="none" pos="word" start_char="1240">infectious</TOKEN>
+<TOKEN end_char="1258" id="token-11-10" morph="none" pos="word" start_char="1251">diseases</TOKEN>
+<TOKEN end_char="1261" id="token-11-11" morph="none" pos="word" start_char="1260">at</TOKEN>
+<TOKEN end_char="1267" id="token-11-12" morph="none" pos="word" start_char="1263">Johns</TOKEN>
+<TOKEN end_char="1275" id="token-11-13" morph="none" pos="word" start_char="1269">Hopkins</TOKEN>
+<TOKEN end_char="1284" id="token-11-14" morph="none" pos="word" start_char="1277">Hospital</TOKEN>
+<TOKEN end_char="1285" id="token-11-15" morph="none" pos="punct" start_char="1285">,</TOKEN>
+<TOKEN end_char="1290" id="token-11-16" morph="none" pos="word" start_char="1287">told</TOKEN>
+<TOKEN end_char="1296" id="token-11-17" morph="none" pos="word" start_char="1292">Yahoo</TOKEN>
+<TOKEN end_char="1301" id="token-11-18" morph="none" pos="word" start_char="1298">Life</TOKEN>
+<TOKEN end_char="1311" id="token-11-19" morph="none" pos="word" start_char="1303">regarding</TOKEN>
+<TOKEN end_char="1316" id="token-11-20" morph="none" pos="word" start_char="1313">West</TOKEN>
+<TOKEN end_char="1321" id="token-11-21" morph="none" pos="word" start_char="1318">Nile</TOKEN>
+<TOKEN end_char="1332" id="token-11-22" morph="none" pos="word" start_char="1323">infections</TOKEN>
+<TOKEN end_char="1333" id="token-11-23" morph="none" pos="punct" start_char="1333">,</TOKEN>
+<TOKEN end_char="1335" id="token-11-24" morph="none" pos="punct" start_char="1335">"</TOKEN>
+<TOKEN end_char="1340" id="token-11-25" morph="none" pos="word" start_char="1336">About</TOKEN>
+<TOKEN end_char="1343" id="token-11-26" morph="none" pos="word" start_char="1342">20</TOKEN>
+<TOKEN end_char="1351" id="token-11-27" morph="none" pos="word" start_char="1345">percent</TOKEN>
+<TOKEN end_char="1357" id="token-11-28" morph="none" pos="word" start_char="1353">might</TOKEN>
+<TOKEN end_char="1365" id="token-11-29" morph="none" pos="word" start_char="1359">develop</TOKEN>
+<TOKEN end_char="1367" id="token-11-30" morph="none" pos="word" start_char="1367">a</TOKEN>
+<TOKEN end_char="1376" id="token-11-31" morph="none" pos="unknown" start_char="1369">flu-like</TOKEN>
+<TOKEN end_char="1384" id="token-11-32" morph="none" pos="word" start_char="1378">illness</TOKEN>
+<TOKEN end_char="1386" id="token-11-33" morph="none" pos="punct" start_char="1386">[</TOKEN>
+<TOKEN end_char="1390" id="token-11-34" morph="none" pos="word" start_char="1387">also</TOKEN>
+<TOKEN end_char="1396" id="token-11-35" morph="none" pos="word" start_char="1392">known</TOKEN>
+<TOKEN end_char="1399" id="token-11-36" morph="none" pos="word" start_char="1398">as</TOKEN>
+<TOKEN end_char="1404" id="token-11-37" morph="none" pos="word" start_char="1401">West</TOKEN>
+<TOKEN end_char="1409" id="token-11-38" morph="none" pos="word" start_char="1406">Nile</TOKEN>
+<TOKEN end_char="1415" id="token-11-39" morph="none" pos="word" start_char="1411">fever</TOKEN>
+<TOKEN end_char="1416" id="token-11-40" morph="none" pos="punct" start_char="1416">]</TOKEN>
+<TOKEN end_char="1421" id="token-11-41" morph="none" pos="word" start_char="1418">that</TOKEN>
+<TOKEN end_char="1424" id="token-11-42" morph="none" pos="word" start_char="1423">is</TOKEN>
+<TOKEN end_char="1433" id="token-11-43" morph="none" pos="word" start_char="1426">probably</TOKEN>
+<TOKEN end_char="1451" id="token-11-44" morph="none" pos="word" start_char="1435">indistinguishable</TOKEN>
+<TOKEN end_char="1456" id="token-11-45" morph="none" pos="word" start_char="1453">from</TOKEN>
+<TOKEN end_char="1465" id="token-11-46" morph="none" pos="unknown" start_char="1458">COVID-19</TOKEN>
+<TOKEN end_char="1466" id="token-11-47" morph="none" pos="punct" start_char="1466">.</TOKEN>
+<TOKEN end_char="1468" id="token-11-48" morph="none" pos="punct" start_char="1468">"</TOKEN>
+</SEG>
+<SEG end_char="1693" id="segment-12" start_char="1470">
+<ORIGINAL_TEXT>The professor of medicine at Johns Hopkins University School of Medicine also told the media outlet: "They can have headache, fever, muscle aches, gastrointestinal symptoms [vomiting and diarrhea], and swollen lymph glands."</ORIGINAL_TEXT>
+<TOKEN end_char="1472" id="token-12-0" morph="none" pos="word" start_char="1470">The</TOKEN>
+<TOKEN end_char="1482" id="token-12-1" morph="none" pos="word" start_char="1474">professor</TOKEN>
+<TOKEN end_char="1485" id="token-12-2" morph="none" pos="word" start_char="1484">of</TOKEN>
+<TOKEN end_char="1494" id="token-12-3" morph="none" pos="word" start_char="1487">medicine</TOKEN>
+<TOKEN end_char="1497" id="token-12-4" morph="none" pos="word" start_char="1496">at</TOKEN>
+<TOKEN end_char="1503" id="token-12-5" morph="none" pos="word" start_char="1499">Johns</TOKEN>
+<TOKEN end_char="1511" id="token-12-6" morph="none" pos="word" start_char="1505">Hopkins</TOKEN>
+<TOKEN end_char="1522" id="token-12-7" morph="none" pos="word" start_char="1513">University</TOKEN>
+<TOKEN end_char="1529" id="token-12-8" morph="none" pos="word" start_char="1524">School</TOKEN>
+<TOKEN end_char="1532" id="token-12-9" morph="none" pos="word" start_char="1531">of</TOKEN>
+<TOKEN end_char="1541" id="token-12-10" morph="none" pos="word" start_char="1534">Medicine</TOKEN>
+<TOKEN end_char="1546" id="token-12-11" morph="none" pos="word" start_char="1543">also</TOKEN>
+<TOKEN end_char="1551" id="token-12-12" morph="none" pos="word" start_char="1548">told</TOKEN>
+<TOKEN end_char="1555" id="token-12-13" morph="none" pos="word" start_char="1553">the</TOKEN>
+<TOKEN end_char="1561" id="token-12-14" morph="none" pos="word" start_char="1557">media</TOKEN>
+<TOKEN end_char="1568" id="token-12-15" morph="none" pos="word" start_char="1563">outlet</TOKEN>
+<TOKEN end_char="1569" id="token-12-16" morph="none" pos="punct" start_char="1569">:</TOKEN>
+<TOKEN end_char="1571" id="token-12-17" morph="none" pos="punct" start_char="1571">"</TOKEN>
+<TOKEN end_char="1575" id="token-12-18" morph="none" pos="word" start_char="1572">They</TOKEN>
+<TOKEN end_char="1579" id="token-12-19" morph="none" pos="word" start_char="1577">can</TOKEN>
+<TOKEN end_char="1584" id="token-12-20" morph="none" pos="word" start_char="1581">have</TOKEN>
+<TOKEN end_char="1593" id="token-12-21" morph="none" pos="word" start_char="1586">headache</TOKEN>
+<TOKEN end_char="1594" id="token-12-22" morph="none" pos="punct" start_char="1594">,</TOKEN>
+<TOKEN end_char="1600" id="token-12-23" morph="none" pos="word" start_char="1596">fever</TOKEN>
+<TOKEN end_char="1601" id="token-12-24" morph="none" pos="punct" start_char="1601">,</TOKEN>
+<TOKEN end_char="1608" id="token-12-25" morph="none" pos="word" start_char="1603">muscle</TOKEN>
+<TOKEN end_char="1614" id="token-12-26" morph="none" pos="word" start_char="1610">aches</TOKEN>
+<TOKEN end_char="1615" id="token-12-27" morph="none" pos="punct" start_char="1615">,</TOKEN>
+<TOKEN end_char="1632" id="token-12-28" morph="none" pos="word" start_char="1617">gastrointestinal</TOKEN>
+<TOKEN end_char="1641" id="token-12-29" morph="none" pos="word" start_char="1634">symptoms</TOKEN>
+<TOKEN end_char="1643" id="token-12-30" morph="none" pos="punct" start_char="1643">[</TOKEN>
+<TOKEN end_char="1651" id="token-12-31" morph="none" pos="word" start_char="1644">vomiting</TOKEN>
+<TOKEN end_char="1655" id="token-12-32" morph="none" pos="word" start_char="1653">and</TOKEN>
+<TOKEN end_char="1664" id="token-12-33" morph="none" pos="word" start_char="1657">diarrhea</TOKEN>
+<TOKEN end_char="1666" id="token-12-34" morph="none" pos="punct" start_char="1665">],</TOKEN>
+<TOKEN end_char="1670" id="token-12-35" morph="none" pos="word" start_char="1668">and</TOKEN>
+<TOKEN end_char="1678" id="token-12-36" morph="none" pos="word" start_char="1672">swollen</TOKEN>
+<TOKEN end_char="1684" id="token-12-37" morph="none" pos="word" start_char="1680">lymph</TOKEN>
+<TOKEN end_char="1691" id="token-12-38" morph="none" pos="word" start_char="1686">glands</TOKEN>
+<TOKEN end_char="1693" id="token-12-39" morph="none" pos="punct" start_char="1692">."</TOKEN>
+</SEG>
+<SEG end_char="1862" id="segment-13" start_char="1696">
+<ORIGINAL_TEXT>Auwaerter said in the article with the diseases sharing similar characteristics, "People are just assuming they have COVID-19," rather than a mosquito bearing disease.</ORIGINAL_TEXT>
+<TOKEN end_char="1704" id="token-13-0" morph="none" pos="word" start_char="1696">Auwaerter</TOKEN>
+<TOKEN end_char="1709" id="token-13-1" morph="none" pos="word" start_char="1706">said</TOKEN>
+<TOKEN end_char="1712" id="token-13-2" morph="none" pos="word" start_char="1711">in</TOKEN>
+<TOKEN end_char="1716" id="token-13-3" morph="none" pos="word" start_char="1714">the</TOKEN>
+<TOKEN end_char="1724" id="token-13-4" morph="none" pos="word" start_char="1718">article</TOKEN>
+<TOKEN end_char="1729" id="token-13-5" morph="none" pos="word" start_char="1726">with</TOKEN>
+<TOKEN end_char="1733" id="token-13-6" morph="none" pos="word" start_char="1731">the</TOKEN>
+<TOKEN end_char="1742" id="token-13-7" morph="none" pos="word" start_char="1735">diseases</TOKEN>
+<TOKEN end_char="1750" id="token-13-8" morph="none" pos="word" start_char="1744">sharing</TOKEN>
+<TOKEN end_char="1758" id="token-13-9" morph="none" pos="word" start_char="1752">similar</TOKEN>
+<TOKEN end_char="1774" id="token-13-10" morph="none" pos="word" start_char="1760">characteristics</TOKEN>
+<TOKEN end_char="1775" id="token-13-11" morph="none" pos="punct" start_char="1775">,</TOKEN>
+<TOKEN end_char="1777" id="token-13-12" morph="none" pos="punct" start_char="1777">"</TOKEN>
+<TOKEN end_char="1783" id="token-13-13" morph="none" pos="word" start_char="1778">People</TOKEN>
+<TOKEN end_char="1787" id="token-13-14" morph="none" pos="word" start_char="1785">are</TOKEN>
+<TOKEN end_char="1792" id="token-13-15" morph="none" pos="word" start_char="1789">just</TOKEN>
+<TOKEN end_char="1801" id="token-13-16" morph="none" pos="word" start_char="1794">assuming</TOKEN>
+<TOKEN end_char="1806" id="token-13-17" morph="none" pos="word" start_char="1803">they</TOKEN>
+<TOKEN end_char="1811" id="token-13-18" morph="none" pos="word" start_char="1808">have</TOKEN>
+<TOKEN end_char="1820" id="token-13-19" morph="none" pos="unknown" start_char="1813">COVID-19</TOKEN>
+<TOKEN end_char="1822" id="token-13-20" morph="none" pos="punct" start_char="1821">,"</TOKEN>
+<TOKEN end_char="1829" id="token-13-21" morph="none" pos="word" start_char="1824">rather</TOKEN>
+<TOKEN end_char="1834" id="token-13-22" morph="none" pos="word" start_char="1831">than</TOKEN>
+<TOKEN end_char="1836" id="token-13-23" morph="none" pos="word" start_char="1836">a</TOKEN>
+<TOKEN end_char="1845" id="token-13-24" morph="none" pos="word" start_char="1838">mosquito</TOKEN>
+<TOKEN end_char="1853" id="token-13-25" morph="none" pos="word" start_char="1847">bearing</TOKEN>
+<TOKEN end_char="1861" id="token-13-26" morph="none" pos="word" start_char="1855">disease</TOKEN>
+<TOKEN end_char="1862" id="token-13-27" morph="none" pos="punct" start_char="1862">.</TOKEN>
+</SEG>
+<SEG end_char="1991" id="segment-14" start_char="1864">
+<ORIGINAL_TEXT>"Statistically, it’s probably true that it’s COVID in these cases," the article cited Auwaerter, "But it’s not always the case."</ORIGINAL_TEXT>
+<TOKEN end_char="1864" id="token-14-0" morph="none" pos="punct" start_char="1864">"</TOKEN>
+<TOKEN end_char="1877" id="token-14-1" morph="none" pos="word" start_char="1865">Statistically</TOKEN>
+<TOKEN end_char="1878" id="token-14-2" morph="none" pos="punct" start_char="1878">,</TOKEN>
+<TOKEN end_char="1883" id="token-14-3" morph="none" pos="word" start_char="1880">it’s</TOKEN>
+<TOKEN end_char="1892" id="token-14-4" morph="none" pos="word" start_char="1885">probably</TOKEN>
+<TOKEN end_char="1897" id="token-14-5" morph="none" pos="word" start_char="1894">true</TOKEN>
+<TOKEN end_char="1902" id="token-14-6" morph="none" pos="word" start_char="1899">that</TOKEN>
+<TOKEN end_char="1907" id="token-14-7" morph="none" pos="word" start_char="1904">it’s</TOKEN>
+<TOKEN end_char="1913" id="token-14-8" morph="none" pos="word" start_char="1909">COVID</TOKEN>
+<TOKEN end_char="1916" id="token-14-9" morph="none" pos="word" start_char="1915">in</TOKEN>
+<TOKEN end_char="1922" id="token-14-10" morph="none" pos="word" start_char="1918">these</TOKEN>
+<TOKEN end_char="1928" id="token-14-11" morph="none" pos="word" start_char="1924">cases</TOKEN>
+<TOKEN end_char="1930" id="token-14-12" morph="none" pos="punct" start_char="1929">,"</TOKEN>
+<TOKEN end_char="1934" id="token-14-13" morph="none" pos="word" start_char="1932">the</TOKEN>
+<TOKEN end_char="1942" id="token-14-14" morph="none" pos="word" start_char="1936">article</TOKEN>
+<TOKEN end_char="1948" id="token-14-15" morph="none" pos="word" start_char="1944">cited</TOKEN>
+<TOKEN end_char="1958" id="token-14-16" morph="none" pos="word" start_char="1950">Auwaerter</TOKEN>
+<TOKEN end_char="1959" id="token-14-17" morph="none" pos="punct" start_char="1959">,</TOKEN>
+<TOKEN end_char="1961" id="token-14-18" morph="none" pos="punct" start_char="1961">"</TOKEN>
+<TOKEN end_char="1964" id="token-14-19" morph="none" pos="word" start_char="1962">But</TOKEN>
+<TOKEN end_char="1969" id="token-14-20" morph="none" pos="word" start_char="1966">it’s</TOKEN>
+<TOKEN end_char="1973" id="token-14-21" morph="none" pos="word" start_char="1971">not</TOKEN>
+<TOKEN end_char="1980" id="token-14-22" morph="none" pos="word" start_char="1975">always</TOKEN>
+<TOKEN end_char="1984" id="token-14-23" morph="none" pos="word" start_char="1982">the</TOKEN>
+<TOKEN end_char="1989" id="token-14-24" morph="none" pos="word" start_char="1986">case</TOKEN>
+<TOKEN end_char="1991" id="token-14-25" morph="none" pos="punct" start_char="1990">."</TOKEN>
+</SEG>
+<SEG end_char="2261" id="segment-15" start_char="1994">
+<ORIGINAL_TEXT>Health officials at Cleveland clinic, according to the media outlet, stated a skin rash on the trunk and chest, can occur with the West Nile virus while it is not as typical with COVID-19 patients who, if they do present with a rash, typically report it on their toes.</ORIGINAL_TEXT>
+<TOKEN end_char="1999" id="token-15-0" morph="none" pos="word" start_char="1994">Health</TOKEN>
+<TOKEN end_char="2009" id="token-15-1" morph="none" pos="word" start_char="2001">officials</TOKEN>
+<TOKEN end_char="2012" id="token-15-2" morph="none" pos="word" start_char="2011">at</TOKEN>
+<TOKEN end_char="2022" id="token-15-3" morph="none" pos="word" start_char="2014">Cleveland</TOKEN>
+<TOKEN end_char="2029" id="token-15-4" morph="none" pos="word" start_char="2024">clinic</TOKEN>
+<TOKEN end_char="2030" id="token-15-5" morph="none" pos="punct" start_char="2030">,</TOKEN>
+<TOKEN end_char="2040" id="token-15-6" morph="none" pos="word" start_char="2032">according</TOKEN>
+<TOKEN end_char="2043" id="token-15-7" morph="none" pos="word" start_char="2042">to</TOKEN>
+<TOKEN end_char="2047" id="token-15-8" morph="none" pos="word" start_char="2045">the</TOKEN>
+<TOKEN end_char="2053" id="token-15-9" morph="none" pos="word" start_char="2049">media</TOKEN>
+<TOKEN end_char="2060" id="token-15-10" morph="none" pos="word" start_char="2055">outlet</TOKEN>
+<TOKEN end_char="2061" id="token-15-11" morph="none" pos="punct" start_char="2061">,</TOKEN>
+<TOKEN end_char="2068" id="token-15-12" morph="none" pos="word" start_char="2063">stated</TOKEN>
+<TOKEN end_char="2070" id="token-15-13" morph="none" pos="word" start_char="2070">a</TOKEN>
+<TOKEN end_char="2075" id="token-15-14" morph="none" pos="word" start_char="2072">skin</TOKEN>
+<TOKEN end_char="2080" id="token-15-15" morph="none" pos="word" start_char="2077">rash</TOKEN>
+<TOKEN end_char="2083" id="token-15-16" morph="none" pos="word" start_char="2082">on</TOKEN>
+<TOKEN end_char="2087" id="token-15-17" morph="none" pos="word" start_char="2085">the</TOKEN>
+<TOKEN end_char="2093" id="token-15-18" morph="none" pos="word" start_char="2089">trunk</TOKEN>
+<TOKEN end_char="2097" id="token-15-19" morph="none" pos="word" start_char="2095">and</TOKEN>
+<TOKEN end_char="2103" id="token-15-20" morph="none" pos="word" start_char="2099">chest</TOKEN>
+<TOKEN end_char="2104" id="token-15-21" morph="none" pos="punct" start_char="2104">,</TOKEN>
+<TOKEN end_char="2108" id="token-15-22" morph="none" pos="word" start_char="2106">can</TOKEN>
+<TOKEN end_char="2114" id="token-15-23" morph="none" pos="word" start_char="2110">occur</TOKEN>
+<TOKEN end_char="2119" id="token-15-24" morph="none" pos="word" start_char="2116">with</TOKEN>
+<TOKEN end_char="2123" id="token-15-25" morph="none" pos="word" start_char="2121">the</TOKEN>
+<TOKEN end_char="2128" id="token-15-26" morph="none" pos="word" start_char="2125">West</TOKEN>
+<TOKEN end_char="2133" id="token-15-27" morph="none" pos="word" start_char="2130">Nile</TOKEN>
+<TOKEN end_char="2139" id="token-15-28" morph="none" pos="word" start_char="2135">virus</TOKEN>
+<TOKEN end_char="2145" id="token-15-29" morph="none" pos="word" start_char="2141">while</TOKEN>
+<TOKEN end_char="2148" id="token-15-30" morph="none" pos="word" start_char="2147">it</TOKEN>
+<TOKEN end_char="2151" id="token-15-31" morph="none" pos="word" start_char="2150">is</TOKEN>
+<TOKEN end_char="2155" id="token-15-32" morph="none" pos="word" start_char="2153">not</TOKEN>
+<TOKEN end_char="2158" id="token-15-33" morph="none" pos="word" start_char="2157">as</TOKEN>
+<TOKEN end_char="2166" id="token-15-34" morph="none" pos="word" start_char="2160">typical</TOKEN>
+<TOKEN end_char="2171" id="token-15-35" morph="none" pos="word" start_char="2168">with</TOKEN>
+<TOKEN end_char="2180" id="token-15-36" morph="none" pos="unknown" start_char="2173">COVID-19</TOKEN>
+<TOKEN end_char="2189" id="token-15-37" morph="none" pos="word" start_char="2182">patients</TOKEN>
+<TOKEN end_char="2193" id="token-15-38" morph="none" pos="word" start_char="2191">who</TOKEN>
+<TOKEN end_char="2194" id="token-15-39" morph="none" pos="punct" start_char="2194">,</TOKEN>
+<TOKEN end_char="2197" id="token-15-40" morph="none" pos="word" start_char="2196">if</TOKEN>
+<TOKEN end_char="2202" id="token-15-41" morph="none" pos="word" start_char="2199">they</TOKEN>
+<TOKEN end_char="2205" id="token-15-42" morph="none" pos="word" start_char="2204">do</TOKEN>
+<TOKEN end_char="2213" id="token-15-43" morph="none" pos="word" start_char="2207">present</TOKEN>
+<TOKEN end_char="2218" id="token-15-44" morph="none" pos="word" start_char="2215">with</TOKEN>
+<TOKEN end_char="2220" id="token-15-45" morph="none" pos="word" start_char="2220">a</TOKEN>
+<TOKEN end_char="2225" id="token-15-46" morph="none" pos="word" start_char="2222">rash</TOKEN>
+<TOKEN end_char="2226" id="token-15-47" morph="none" pos="punct" start_char="2226">,</TOKEN>
+<TOKEN end_char="2236" id="token-15-48" morph="none" pos="word" start_char="2228">typically</TOKEN>
+<TOKEN end_char="2243" id="token-15-49" morph="none" pos="word" start_char="2238">report</TOKEN>
+<TOKEN end_char="2246" id="token-15-50" morph="none" pos="word" start_char="2245">it</TOKEN>
+<TOKEN end_char="2249" id="token-15-51" morph="none" pos="word" start_char="2248">on</TOKEN>
+<TOKEN end_char="2255" id="token-15-52" morph="none" pos="word" start_char="2251">their</TOKEN>
+<TOKEN end_char="2260" id="token-15-53" morph="none" pos="word" start_char="2257">toes</TOKEN>
+<TOKEN end_char="2261" id="token-15-54" morph="none" pos="punct" start_char="2261">.</TOKEN>
+</SEG>
+<SEG end_char="2659" id="segment-16" start_char="2264">
+<ORIGINAL_TEXT>Both diseases can have detrimental effects on a person’s health and can affect the nervous system, according to the CDC, which also states on its website that nearly "1 in every 150 people who are infected with West Nile disease can develop a severe illness affecting the central nervous system" such as encephalitis (brain inflammation) or meningitis (inflammation of the brain and spinal cord).</ORIGINAL_TEXT>
+<TOKEN end_char="2267" id="token-16-0" morph="none" pos="word" start_char="2264">Both</TOKEN>
+<TOKEN end_char="2276" id="token-16-1" morph="none" pos="word" start_char="2269">diseases</TOKEN>
+<TOKEN end_char="2280" id="token-16-2" morph="none" pos="word" start_char="2278">can</TOKEN>
+<TOKEN end_char="2285" id="token-16-3" morph="none" pos="word" start_char="2282">have</TOKEN>
+<TOKEN end_char="2297" id="token-16-4" morph="none" pos="word" start_char="2287">detrimental</TOKEN>
+<TOKEN end_char="2305" id="token-16-5" morph="none" pos="word" start_char="2299">effects</TOKEN>
+<TOKEN end_char="2308" id="token-16-6" morph="none" pos="word" start_char="2307">on</TOKEN>
+<TOKEN end_char="2310" id="token-16-7" morph="none" pos="word" start_char="2310">a</TOKEN>
+<TOKEN end_char="2319" id="token-16-8" morph="none" pos="word" start_char="2312">person’s</TOKEN>
+<TOKEN end_char="2326" id="token-16-9" morph="none" pos="word" start_char="2321">health</TOKEN>
+<TOKEN end_char="2330" id="token-16-10" morph="none" pos="word" start_char="2328">and</TOKEN>
+<TOKEN end_char="2334" id="token-16-11" morph="none" pos="word" start_char="2332">can</TOKEN>
+<TOKEN end_char="2341" id="token-16-12" morph="none" pos="word" start_char="2336">affect</TOKEN>
+<TOKEN end_char="2345" id="token-16-13" morph="none" pos="word" start_char="2343">the</TOKEN>
+<TOKEN end_char="2353" id="token-16-14" morph="none" pos="word" start_char="2347">nervous</TOKEN>
+<TOKEN end_char="2360" id="token-16-15" morph="none" pos="word" start_char="2355">system</TOKEN>
+<TOKEN end_char="2361" id="token-16-16" morph="none" pos="punct" start_char="2361">,</TOKEN>
+<TOKEN end_char="2371" id="token-16-17" morph="none" pos="word" start_char="2363">according</TOKEN>
+<TOKEN end_char="2374" id="token-16-18" morph="none" pos="word" start_char="2373">to</TOKEN>
+<TOKEN end_char="2378" id="token-16-19" morph="none" pos="word" start_char="2376">the</TOKEN>
+<TOKEN end_char="2382" id="token-16-20" morph="none" pos="word" start_char="2380">CDC</TOKEN>
+<TOKEN end_char="2383" id="token-16-21" morph="none" pos="punct" start_char="2383">,</TOKEN>
+<TOKEN end_char="2389" id="token-16-22" morph="none" pos="word" start_char="2385">which</TOKEN>
+<TOKEN end_char="2394" id="token-16-23" morph="none" pos="word" start_char="2391">also</TOKEN>
+<TOKEN end_char="2401" id="token-16-24" morph="none" pos="word" start_char="2396">states</TOKEN>
+<TOKEN end_char="2404" id="token-16-25" morph="none" pos="word" start_char="2403">on</TOKEN>
+<TOKEN end_char="2408" id="token-16-26" morph="none" pos="word" start_char="2406">its</TOKEN>
+<TOKEN end_char="2416" id="token-16-27" morph="none" pos="word" start_char="2410">website</TOKEN>
+<TOKEN end_char="2421" id="token-16-28" morph="none" pos="word" start_char="2418">that</TOKEN>
+<TOKEN end_char="2428" id="token-16-29" morph="none" pos="word" start_char="2423">nearly</TOKEN>
+<TOKEN end_char="2430" id="token-16-30" morph="none" pos="punct" start_char="2430">"</TOKEN>
+<TOKEN end_char="2431" id="token-16-31" morph="none" pos="word" start_char="2431">1</TOKEN>
+<TOKEN end_char="2434" id="token-16-32" morph="none" pos="word" start_char="2433">in</TOKEN>
+<TOKEN end_char="2440" id="token-16-33" morph="none" pos="word" start_char="2436">every</TOKEN>
+<TOKEN end_char="2444" id="token-16-34" morph="none" pos="word" start_char="2442">150</TOKEN>
+<TOKEN end_char="2451" id="token-16-35" morph="none" pos="word" start_char="2446">people</TOKEN>
+<TOKEN end_char="2455" id="token-16-36" morph="none" pos="word" start_char="2453">who</TOKEN>
+<TOKEN end_char="2459" id="token-16-37" morph="none" pos="word" start_char="2457">are</TOKEN>
+<TOKEN end_char="2468" id="token-16-38" morph="none" pos="word" start_char="2461">infected</TOKEN>
+<TOKEN end_char="2473" id="token-16-39" morph="none" pos="word" start_char="2470">with</TOKEN>
+<TOKEN end_char="2478" id="token-16-40" morph="none" pos="word" start_char="2475">West</TOKEN>
+<TOKEN end_char="2483" id="token-16-41" morph="none" pos="word" start_char="2480">Nile</TOKEN>
+<TOKEN end_char="2491" id="token-16-42" morph="none" pos="word" start_char="2485">disease</TOKEN>
+<TOKEN end_char="2495" id="token-16-43" morph="none" pos="word" start_char="2493">can</TOKEN>
+<TOKEN end_char="2503" id="token-16-44" morph="none" pos="word" start_char="2497">develop</TOKEN>
+<TOKEN end_char="2505" id="token-16-45" morph="none" pos="word" start_char="2505">a</TOKEN>
+<TOKEN end_char="2512" id="token-16-46" morph="none" pos="word" start_char="2507">severe</TOKEN>
+<TOKEN end_char="2520" id="token-16-47" morph="none" pos="word" start_char="2514">illness</TOKEN>
+<TOKEN end_char="2530" id="token-16-48" morph="none" pos="word" start_char="2522">affecting</TOKEN>
+<TOKEN end_char="2534" id="token-16-49" morph="none" pos="word" start_char="2532">the</TOKEN>
+<TOKEN end_char="2542" id="token-16-50" morph="none" pos="word" start_char="2536">central</TOKEN>
+<TOKEN end_char="2550" id="token-16-51" morph="none" pos="word" start_char="2544">nervous</TOKEN>
+<TOKEN end_char="2557" id="token-16-52" morph="none" pos="word" start_char="2552">system</TOKEN>
+<TOKEN end_char="2558" id="token-16-53" morph="none" pos="punct" start_char="2558">"</TOKEN>
+<TOKEN end_char="2563" id="token-16-54" morph="none" pos="word" start_char="2560">such</TOKEN>
+<TOKEN end_char="2566" id="token-16-55" morph="none" pos="word" start_char="2565">as</TOKEN>
+<TOKEN end_char="2579" id="token-16-56" morph="none" pos="word" start_char="2568">encephalitis</TOKEN>
+<TOKEN end_char="2581" id="token-16-57" morph="none" pos="punct" start_char="2581">(</TOKEN>
+<TOKEN end_char="2586" id="token-16-58" morph="none" pos="word" start_char="2582">brain</TOKEN>
+<TOKEN end_char="2599" id="token-16-59" morph="none" pos="word" start_char="2588">inflammation</TOKEN>
+<TOKEN end_char="2600" id="token-16-60" morph="none" pos="punct" start_char="2600">)</TOKEN>
+<TOKEN end_char="2603" id="token-16-61" morph="none" pos="word" start_char="2602">or</TOKEN>
+<TOKEN end_char="2614" id="token-16-62" morph="none" pos="word" start_char="2605">meningitis</TOKEN>
+<TOKEN end_char="2616" id="token-16-63" morph="none" pos="punct" start_char="2616">(</TOKEN>
+<TOKEN end_char="2628" id="token-16-64" morph="none" pos="word" start_char="2617">inflammation</TOKEN>
+<TOKEN end_char="2631" id="token-16-65" morph="none" pos="word" start_char="2630">of</TOKEN>
+<TOKEN end_char="2635" id="token-16-66" morph="none" pos="word" start_char="2633">the</TOKEN>
+<TOKEN end_char="2641" id="token-16-67" morph="none" pos="word" start_char="2637">brain</TOKEN>
+<TOKEN end_char="2645" id="token-16-68" morph="none" pos="word" start_char="2643">and</TOKEN>
+<TOKEN end_char="2652" id="token-16-69" morph="none" pos="word" start_char="2647">spinal</TOKEN>
+<TOKEN end_char="2657" id="token-16-70" morph="none" pos="word" start_char="2654">cord</TOKEN>
+<TOKEN end_char="2659" id="token-16-71" morph="none" pos="punct" start_char="2658">).</TOKEN>
+</SEG>
+<SEG end_char="2868" id="segment-17" start_char="2661">
+<ORIGINAL_TEXT>Doctors told Fox News, in some cases of West Nile infections, patients can show symptoms including high fever, stiff neck, severe headache, and can even become confused, weak and experience possible seizures.</ORIGINAL_TEXT>
+<TOKEN end_char="2667" id="token-17-0" morph="none" pos="word" start_char="2661">Doctors</TOKEN>
+<TOKEN end_char="2672" id="token-17-1" morph="none" pos="word" start_char="2669">told</TOKEN>
+<TOKEN end_char="2676" id="token-17-2" morph="none" pos="word" start_char="2674">Fox</TOKEN>
+<TOKEN end_char="2681" id="token-17-3" morph="none" pos="word" start_char="2678">News</TOKEN>
+<TOKEN end_char="2682" id="token-17-4" morph="none" pos="punct" start_char="2682">,</TOKEN>
+<TOKEN end_char="2685" id="token-17-5" morph="none" pos="word" start_char="2684">in</TOKEN>
+<TOKEN end_char="2690" id="token-17-6" morph="none" pos="word" start_char="2687">some</TOKEN>
+<TOKEN end_char="2696" id="token-17-7" morph="none" pos="word" start_char="2692">cases</TOKEN>
+<TOKEN end_char="2699" id="token-17-8" morph="none" pos="word" start_char="2698">of</TOKEN>
+<TOKEN end_char="2704" id="token-17-9" morph="none" pos="word" start_char="2701">West</TOKEN>
+<TOKEN end_char="2709" id="token-17-10" morph="none" pos="word" start_char="2706">Nile</TOKEN>
+<TOKEN end_char="2720" id="token-17-11" morph="none" pos="word" start_char="2711">infections</TOKEN>
+<TOKEN end_char="2721" id="token-17-12" morph="none" pos="punct" start_char="2721">,</TOKEN>
+<TOKEN end_char="2730" id="token-17-13" morph="none" pos="word" start_char="2723">patients</TOKEN>
+<TOKEN end_char="2734" id="token-17-14" morph="none" pos="word" start_char="2732">can</TOKEN>
+<TOKEN end_char="2739" id="token-17-15" morph="none" pos="word" start_char="2736">show</TOKEN>
+<TOKEN end_char="2748" id="token-17-16" morph="none" pos="word" start_char="2741">symptoms</TOKEN>
+<TOKEN end_char="2758" id="token-17-17" morph="none" pos="word" start_char="2750">including</TOKEN>
+<TOKEN end_char="2763" id="token-17-18" morph="none" pos="word" start_char="2760">high</TOKEN>
+<TOKEN end_char="2769" id="token-17-19" morph="none" pos="word" start_char="2765">fever</TOKEN>
+<TOKEN end_char="2770" id="token-17-20" morph="none" pos="punct" start_char="2770">,</TOKEN>
+<TOKEN end_char="2776" id="token-17-21" morph="none" pos="word" start_char="2772">stiff</TOKEN>
+<TOKEN end_char="2781" id="token-17-22" morph="none" pos="word" start_char="2778">neck</TOKEN>
+<TOKEN end_char="2782" id="token-17-23" morph="none" pos="punct" start_char="2782">,</TOKEN>
+<TOKEN end_char="2789" id="token-17-24" morph="none" pos="word" start_char="2784">severe</TOKEN>
+<TOKEN end_char="2798" id="token-17-25" morph="none" pos="word" start_char="2791">headache</TOKEN>
+<TOKEN end_char="2799" id="token-17-26" morph="none" pos="punct" start_char="2799">,</TOKEN>
+<TOKEN end_char="2803" id="token-17-27" morph="none" pos="word" start_char="2801">and</TOKEN>
+<TOKEN end_char="2807" id="token-17-28" morph="none" pos="word" start_char="2805">can</TOKEN>
+<TOKEN end_char="2812" id="token-17-29" morph="none" pos="word" start_char="2809">even</TOKEN>
+<TOKEN end_char="2819" id="token-17-30" morph="none" pos="word" start_char="2814">become</TOKEN>
+<TOKEN end_char="2828" id="token-17-31" morph="none" pos="word" start_char="2821">confused</TOKEN>
+<TOKEN end_char="2829" id="token-17-32" morph="none" pos="punct" start_char="2829">,</TOKEN>
+<TOKEN end_char="2834" id="token-17-33" morph="none" pos="word" start_char="2831">weak</TOKEN>
+<TOKEN end_char="2838" id="token-17-34" morph="none" pos="word" start_char="2836">and</TOKEN>
+<TOKEN end_char="2849" id="token-17-35" morph="none" pos="word" start_char="2840">experience</TOKEN>
+<TOKEN end_char="2858" id="token-17-36" morph="none" pos="word" start_char="2851">possible</TOKEN>
+<TOKEN end_char="2867" id="token-17-37" morph="none" pos="word" start_char="2860">seizures</TOKEN>
+<TOKEN end_char="2868" id="token-17-38" morph="none" pos="punct" start_char="2868">.</TOKEN>
+</SEG>
+<SEG end_char="2936" id="segment-18" start_char="2871">
+<ORIGINAL_TEXT>DOGS ABLE TO SNIFF CORONAVIRUS IN HUMAN SALIVA, GERMAN STUDY FINDS</ORIGINAL_TEXT>
+<TOKEN end_char="2874" id="token-18-0" morph="none" pos="word" start_char="2871">DOGS</TOKEN>
+<TOKEN end_char="2879" id="token-18-1" morph="none" pos="word" start_char="2876">ABLE</TOKEN>
+<TOKEN end_char="2882" id="token-18-2" morph="none" pos="word" start_char="2881">TO</TOKEN>
+<TOKEN end_char="2888" id="token-18-3" morph="none" pos="word" start_char="2884">SNIFF</TOKEN>
+<TOKEN end_char="2900" id="token-18-4" morph="none" pos="word" start_char="2890">CORONAVIRUS</TOKEN>
+<TOKEN end_char="2903" id="token-18-5" morph="none" pos="word" start_char="2902">IN</TOKEN>
+<TOKEN end_char="2909" id="token-18-6" morph="none" pos="word" start_char="2905">HUMAN</TOKEN>
+<TOKEN end_char="2916" id="token-18-7" morph="none" pos="word" start_char="2911">SALIVA</TOKEN>
+<TOKEN end_char="2917" id="token-18-8" morph="none" pos="punct" start_char="2917">,</TOKEN>
+<TOKEN end_char="2924" id="token-18-9" morph="none" pos="word" start_char="2919">GERMAN</TOKEN>
+<TOKEN end_char="2930" id="token-18-10" morph="none" pos="word" start_char="2926">STUDY</TOKEN>
+<TOKEN end_char="2936" id="token-18-11" morph="none" pos="word" start_char="2932">FINDS</TOKEN>
+<TRANSLATED_TEXT>DOGS ABLE TO SNIFF CORONAVIR IN HUMAN SALIVA, GERMAN STUDY FINDS</TRANSLATED_TEXT><DETECTED_LANGUAGE>de</DETECTED_LANGUAGE></SEG>
+<SEG end_char="2995" id="segment-19" start_char="2939">
+<ORIGINAL_TEXT>The novel coronavirus can also show neurological effects.</ORIGINAL_TEXT>
+<TOKEN end_char="2941" id="token-19-0" morph="none" pos="word" start_char="2939">The</TOKEN>
+<TOKEN end_char="2947" id="token-19-1" morph="none" pos="word" start_char="2943">novel</TOKEN>
+<TOKEN end_char="2959" id="token-19-2" morph="none" pos="word" start_char="2949">coronavirus</TOKEN>
+<TOKEN end_char="2963" id="token-19-3" morph="none" pos="word" start_char="2961">can</TOKEN>
+<TOKEN end_char="2968" id="token-19-4" morph="none" pos="word" start_char="2965">also</TOKEN>
+<TOKEN end_char="2973" id="token-19-5" morph="none" pos="word" start_char="2970">show</TOKEN>
+<TOKEN end_char="2986" id="token-19-6" morph="none" pos="word" start_char="2975">neurological</TOKEN>
+<TOKEN end_char="2994" id="token-19-7" morph="none" pos="word" start_char="2988">effects</TOKEN>
+<TOKEN end_char="2995" id="token-19-8" morph="none" pos="punct" start_char="2995">.</TOKEN>
+</SEG>
+<SEG end_char="3119" id="segment-20" start_char="2997">
+<ORIGINAL_TEXT>Some cases reported peripheral neuropathy in the legs and complaints of "brain fog," some physicians explained to Fox News.</ORIGINAL_TEXT>
+<TOKEN end_char="3000" id="token-20-0" morph="none" pos="word" start_char="2997">Some</TOKEN>
+<TOKEN end_char="3006" id="token-20-1" morph="none" pos="word" start_char="3002">cases</TOKEN>
+<TOKEN end_char="3015" id="token-20-2" morph="none" pos="word" start_char="3008">reported</TOKEN>
+<TOKEN end_char="3026" id="token-20-3" morph="none" pos="word" start_char="3017">peripheral</TOKEN>
+<TOKEN end_char="3037" id="token-20-4" morph="none" pos="word" start_char="3028">neuropathy</TOKEN>
+<TOKEN end_char="3040" id="token-20-5" morph="none" pos="word" start_char="3039">in</TOKEN>
+<TOKEN end_char="3044" id="token-20-6" morph="none" pos="word" start_char="3042">the</TOKEN>
+<TOKEN end_char="3049" id="token-20-7" morph="none" pos="word" start_char="3046">legs</TOKEN>
+<TOKEN end_char="3053" id="token-20-8" morph="none" pos="word" start_char="3051">and</TOKEN>
+<TOKEN end_char="3064" id="token-20-9" morph="none" pos="word" start_char="3055">complaints</TOKEN>
+<TOKEN end_char="3067" id="token-20-10" morph="none" pos="word" start_char="3066">of</TOKEN>
+<TOKEN end_char="3069" id="token-20-11" morph="none" pos="punct" start_char="3069">"</TOKEN>
+<TOKEN end_char="3074" id="token-20-12" morph="none" pos="word" start_char="3070">brain</TOKEN>
+<TOKEN end_char="3078" id="token-20-13" morph="none" pos="word" start_char="3076">fog</TOKEN>
+<TOKEN end_char="3080" id="token-20-14" morph="none" pos="punct" start_char="3079">,"</TOKEN>
+<TOKEN end_char="3085" id="token-20-15" morph="none" pos="word" start_char="3082">some</TOKEN>
+<TOKEN end_char="3096" id="token-20-16" morph="none" pos="word" start_char="3087">physicians</TOKEN>
+<TOKEN end_char="3106" id="token-20-17" morph="none" pos="word" start_char="3098">explained</TOKEN>
+<TOKEN end_char="3109" id="token-20-18" morph="none" pos="word" start_char="3108">to</TOKEN>
+<TOKEN end_char="3113" id="token-20-19" morph="none" pos="word" start_char="3111">Fox</TOKEN>
+<TOKEN end_char="3118" id="token-20-20" morph="none" pos="word" start_char="3115">News</TOKEN>
+<TOKEN end_char="3119" id="token-20-21" morph="none" pos="punct" start_char="3119">.</TOKEN>
+</SEG>
+<SEG end_char="3213" id="segment-21" start_char="3121">
+<ORIGINAL_TEXT>COVID-19 can also affect the trigeminal and olfactory nerves which affect the sense of smell.</ORIGINAL_TEXT>
+<TOKEN end_char="3128" id="token-21-0" morph="none" pos="unknown" start_char="3121">COVID-19</TOKEN>
+<TOKEN end_char="3132" id="token-21-1" morph="none" pos="word" start_char="3130">can</TOKEN>
+<TOKEN end_char="3137" id="token-21-2" morph="none" pos="word" start_char="3134">also</TOKEN>
+<TOKEN end_char="3144" id="token-21-3" morph="none" pos="word" start_char="3139">affect</TOKEN>
+<TOKEN end_char="3148" id="token-21-4" morph="none" pos="word" start_char="3146">the</TOKEN>
+<TOKEN end_char="3159" id="token-21-5" morph="none" pos="word" start_char="3150">trigeminal</TOKEN>
+<TOKEN end_char="3163" id="token-21-6" morph="none" pos="word" start_char="3161">and</TOKEN>
+<TOKEN end_char="3173" id="token-21-7" morph="none" pos="word" start_char="3165">olfactory</TOKEN>
+<TOKEN end_char="3180" id="token-21-8" morph="none" pos="word" start_char="3175">nerves</TOKEN>
+<TOKEN end_char="3186" id="token-21-9" morph="none" pos="word" start_char="3182">which</TOKEN>
+<TOKEN end_char="3193" id="token-21-10" morph="none" pos="word" start_char="3188">affect</TOKEN>
+<TOKEN end_char="3197" id="token-21-11" morph="none" pos="word" start_char="3195">the</TOKEN>
+<TOKEN end_char="3203" id="token-21-12" morph="none" pos="word" start_char="3199">sense</TOKEN>
+<TOKEN end_char="3206" id="token-21-13" morph="none" pos="word" start_char="3205">of</TOKEN>
+<TOKEN end_char="3212" id="token-21-14" morph="none" pos="word" start_char="3208">smell</TOKEN>
+<TOKEN end_char="3213" id="token-21-15" morph="none" pos="punct" start_char="3213">.</TOKEN>
+</SEG>
+<SEG end_char="3264" id="segment-22" start_char="3215">
+<ORIGINAL_TEXT>which is not typical with the West Nile infection.</ORIGINAL_TEXT>
+<TOKEN end_char="3219" id="token-22-0" morph="none" pos="word" start_char="3215">which</TOKEN>
+<TOKEN end_char="3222" id="token-22-1" morph="none" pos="word" start_char="3221">is</TOKEN>
+<TOKEN end_char="3226" id="token-22-2" morph="none" pos="word" start_char="3224">not</TOKEN>
+<TOKEN end_char="3234" id="token-22-3" morph="none" pos="word" start_char="3228">typical</TOKEN>
+<TOKEN end_char="3239" id="token-22-4" morph="none" pos="word" start_char="3236">with</TOKEN>
+<TOKEN end_char="3243" id="token-22-5" morph="none" pos="word" start_char="3241">the</TOKEN>
+<TOKEN end_char="3248" id="token-22-6" morph="none" pos="word" start_char="3245">West</TOKEN>
+<TOKEN end_char="3253" id="token-22-7" morph="none" pos="word" start_char="3250">Nile</TOKEN>
+<TOKEN end_char="3263" id="token-22-8" morph="none" pos="word" start_char="3255">infection</TOKEN>
+<TOKEN end_char="3264" id="token-22-9" morph="none" pos="punct" start_char="3264">.</TOKEN>
+</SEG>
+<SEG end_char="3485" id="segment-23" start_char="3266">
+<ORIGINAL_TEXT>Besides those symptoms, neurologists told Fox News that coronavirus can present with headache, difficulty focusing, blood clotting, weakness and some studies are linking it with the neurological condition Guillain-barre.</ORIGINAL_TEXT>
+<TOKEN end_char="3272" id="token-23-0" morph="none" pos="word" start_char="3266">Besides</TOKEN>
+<TOKEN end_char="3278" id="token-23-1" morph="none" pos="word" start_char="3274">those</TOKEN>
+<TOKEN end_char="3287" id="token-23-2" morph="none" pos="word" start_char="3280">symptoms</TOKEN>
+<TOKEN end_char="3288" id="token-23-3" morph="none" pos="punct" start_char="3288">,</TOKEN>
+<TOKEN end_char="3301" id="token-23-4" morph="none" pos="word" start_char="3290">neurologists</TOKEN>
+<TOKEN end_char="3306" id="token-23-5" morph="none" pos="word" start_char="3303">told</TOKEN>
+<TOKEN end_char="3310" id="token-23-6" morph="none" pos="word" start_char="3308">Fox</TOKEN>
+<TOKEN end_char="3315" id="token-23-7" morph="none" pos="word" start_char="3312">News</TOKEN>
+<TOKEN end_char="3320" id="token-23-8" morph="none" pos="word" start_char="3317">that</TOKEN>
+<TOKEN end_char="3332" id="token-23-9" morph="none" pos="word" start_char="3322">coronavirus</TOKEN>
+<TOKEN end_char="3336" id="token-23-10" morph="none" pos="word" start_char="3334">can</TOKEN>
+<TOKEN end_char="3344" id="token-23-11" morph="none" pos="word" start_char="3338">present</TOKEN>
+<TOKEN end_char="3349" id="token-23-12" morph="none" pos="word" start_char="3346">with</TOKEN>
+<TOKEN end_char="3358" id="token-23-13" morph="none" pos="word" start_char="3351">headache</TOKEN>
+<TOKEN end_char="3359" id="token-23-14" morph="none" pos="punct" start_char="3359">,</TOKEN>
+<TOKEN end_char="3370" id="token-23-15" morph="none" pos="word" start_char="3361">difficulty</TOKEN>
+<TOKEN end_char="3379" id="token-23-16" morph="none" pos="word" start_char="3372">focusing</TOKEN>
+<TOKEN end_char="3380" id="token-23-17" morph="none" pos="punct" start_char="3380">,</TOKEN>
+<TOKEN end_char="3386" id="token-23-18" morph="none" pos="word" start_char="3382">blood</TOKEN>
+<TOKEN end_char="3395" id="token-23-19" morph="none" pos="word" start_char="3388">clotting</TOKEN>
+<TOKEN end_char="3396" id="token-23-20" morph="none" pos="punct" start_char="3396">,</TOKEN>
+<TOKEN end_char="3405" id="token-23-21" morph="none" pos="word" start_char="3398">weakness</TOKEN>
+<TOKEN end_char="3409" id="token-23-22" morph="none" pos="word" start_char="3407">and</TOKEN>
+<TOKEN end_char="3414" id="token-23-23" morph="none" pos="word" start_char="3411">some</TOKEN>
+<TOKEN end_char="3422" id="token-23-24" morph="none" pos="word" start_char="3416">studies</TOKEN>
+<TOKEN end_char="3426" id="token-23-25" morph="none" pos="word" start_char="3424">are</TOKEN>
+<TOKEN end_char="3434" id="token-23-26" morph="none" pos="word" start_char="3428">linking</TOKEN>
+<TOKEN end_char="3437" id="token-23-27" morph="none" pos="word" start_char="3436">it</TOKEN>
+<TOKEN end_char="3442" id="token-23-28" morph="none" pos="word" start_char="3439">with</TOKEN>
+<TOKEN end_char="3446" id="token-23-29" morph="none" pos="word" start_char="3444">the</TOKEN>
+<TOKEN end_char="3459" id="token-23-30" morph="none" pos="word" start_char="3448">neurological</TOKEN>
+<TOKEN end_char="3469" id="token-23-31" morph="none" pos="word" start_char="3461">condition</TOKEN>
+<TOKEN end_char="3484" id="token-23-32" morph="none" pos="unknown" start_char="3471">Guillain-barre</TOKEN>
+<TOKEN end_char="3485" id="token-23-33" morph="none" pos="punct" start_char="3485">.</TOKEN>
+</SEG>
+<SEG end_char="3620" id="segment-24" start_char="3488">
+<ORIGINAL_TEXT>One main difference, according to health experts, is that the coronavirus is a contagious respiratory disease where West Nile is not.</ORIGINAL_TEXT>
+<TOKEN end_char="3490" id="token-24-0" morph="none" pos="word" start_char="3488">One</TOKEN>
+<TOKEN end_char="3495" id="token-24-1" morph="none" pos="word" start_char="3492">main</TOKEN>
+<TOKEN end_char="3506" id="token-24-2" morph="none" pos="word" start_char="3497">difference</TOKEN>
+<TOKEN end_char="3507" id="token-24-3" morph="none" pos="punct" start_char="3507">,</TOKEN>
+<TOKEN end_char="3517" id="token-24-4" morph="none" pos="word" start_char="3509">according</TOKEN>
+<TOKEN end_char="3520" id="token-24-5" morph="none" pos="word" start_char="3519">to</TOKEN>
+<TOKEN end_char="3527" id="token-24-6" morph="none" pos="word" start_char="3522">health</TOKEN>
+<TOKEN end_char="3535" id="token-24-7" morph="none" pos="word" start_char="3529">experts</TOKEN>
+<TOKEN end_char="3536" id="token-24-8" morph="none" pos="punct" start_char="3536">,</TOKEN>
+<TOKEN end_char="3539" id="token-24-9" morph="none" pos="word" start_char="3538">is</TOKEN>
+<TOKEN end_char="3544" id="token-24-10" morph="none" pos="word" start_char="3541">that</TOKEN>
+<TOKEN end_char="3548" id="token-24-11" morph="none" pos="word" start_char="3546">the</TOKEN>
+<TOKEN end_char="3560" id="token-24-12" morph="none" pos="word" start_char="3550">coronavirus</TOKEN>
+<TOKEN end_char="3563" id="token-24-13" morph="none" pos="word" start_char="3562">is</TOKEN>
+<TOKEN end_char="3565" id="token-24-14" morph="none" pos="word" start_char="3565">a</TOKEN>
+<TOKEN end_char="3576" id="token-24-15" morph="none" pos="word" start_char="3567">contagious</TOKEN>
+<TOKEN end_char="3588" id="token-24-16" morph="none" pos="word" start_char="3578">respiratory</TOKEN>
+<TOKEN end_char="3596" id="token-24-17" morph="none" pos="word" start_char="3590">disease</TOKEN>
+<TOKEN end_char="3602" id="token-24-18" morph="none" pos="word" start_char="3598">where</TOKEN>
+<TOKEN end_char="3607" id="token-24-19" morph="none" pos="word" start_char="3604">West</TOKEN>
+<TOKEN end_char="3612" id="token-24-20" morph="none" pos="word" start_char="3609">Nile</TOKEN>
+<TOKEN end_char="3615" id="token-24-21" morph="none" pos="word" start_char="3614">is</TOKEN>
+<TOKEN end_char="3619" id="token-24-22" morph="none" pos="word" start_char="3617">not</TOKEN>
+<TOKEN end_char="3620" id="token-24-23" morph="none" pos="punct" start_char="3620">.</TOKEN>
+</SEG>
+<SEG end_char="3804" id="segment-25" start_char="3622">
+<ORIGINAL_TEXT>The West Nile illness is contracted typically by a mosquito bite, while novel coronavirus is currently believed to spread through sneezing, coughing or touching, according to the CDC.</ORIGINAL_TEXT>
+<TOKEN end_char="3624" id="token-25-0" morph="none" pos="word" start_char="3622">The</TOKEN>
+<TOKEN end_char="3629" id="token-25-1" morph="none" pos="word" start_char="3626">West</TOKEN>
+<TOKEN end_char="3634" id="token-25-2" morph="none" pos="word" start_char="3631">Nile</TOKEN>
+<TOKEN end_char="3642" id="token-25-3" morph="none" pos="word" start_char="3636">illness</TOKEN>
+<TOKEN end_char="3645" id="token-25-4" morph="none" pos="word" start_char="3644">is</TOKEN>
+<TOKEN end_char="3656" id="token-25-5" morph="none" pos="word" start_char="3647">contracted</TOKEN>
+<TOKEN end_char="3666" id="token-25-6" morph="none" pos="word" start_char="3658">typically</TOKEN>
+<TOKEN end_char="3669" id="token-25-7" morph="none" pos="word" start_char="3668">by</TOKEN>
+<TOKEN end_char="3671" id="token-25-8" morph="none" pos="word" start_char="3671">a</TOKEN>
+<TOKEN end_char="3680" id="token-25-9" morph="none" pos="word" start_char="3673">mosquito</TOKEN>
+<TOKEN end_char="3685" id="token-25-10" morph="none" pos="word" start_char="3682">bite</TOKEN>
+<TOKEN end_char="3686" id="token-25-11" morph="none" pos="punct" start_char="3686">,</TOKEN>
+<TOKEN end_char="3692" id="token-25-12" morph="none" pos="word" start_char="3688">while</TOKEN>
+<TOKEN end_char="3698" id="token-25-13" morph="none" pos="word" start_char="3694">novel</TOKEN>
+<TOKEN end_char="3710" id="token-25-14" morph="none" pos="word" start_char="3700">coronavirus</TOKEN>
+<TOKEN end_char="3713" id="token-25-15" morph="none" pos="word" start_char="3712">is</TOKEN>
+<TOKEN end_char="3723" id="token-25-16" morph="none" pos="word" start_char="3715">currently</TOKEN>
+<TOKEN end_char="3732" id="token-25-17" morph="none" pos="word" start_char="3725">believed</TOKEN>
+<TOKEN end_char="3735" id="token-25-18" morph="none" pos="word" start_char="3734">to</TOKEN>
+<TOKEN end_char="3742" id="token-25-19" morph="none" pos="word" start_char="3737">spread</TOKEN>
+<TOKEN end_char="3750" id="token-25-20" morph="none" pos="word" start_char="3744">through</TOKEN>
+<TOKEN end_char="3759" id="token-25-21" morph="none" pos="word" start_char="3752">sneezing</TOKEN>
+<TOKEN end_char="3760" id="token-25-22" morph="none" pos="punct" start_char="3760">,</TOKEN>
+<TOKEN end_char="3769" id="token-25-23" morph="none" pos="word" start_char="3762">coughing</TOKEN>
+<TOKEN end_char="3772" id="token-25-24" morph="none" pos="word" start_char="3771">or</TOKEN>
+<TOKEN end_char="3781" id="token-25-25" morph="none" pos="word" start_char="3774">touching</TOKEN>
+<TOKEN end_char="3782" id="token-25-26" morph="none" pos="punct" start_char="3782">,</TOKEN>
+<TOKEN end_char="3792" id="token-25-27" morph="none" pos="word" start_char="3784">according</TOKEN>
+<TOKEN end_char="3795" id="token-25-28" morph="none" pos="word" start_char="3794">to</TOKEN>
+<TOKEN end_char="3799" id="token-25-29" morph="none" pos="word" start_char="3797">the</TOKEN>
+<TOKEN end_char="3803" id="token-25-30" morph="none" pos="word" start_char="3801">CDC</TOKEN>
+<TOKEN end_char="3804" id="token-25-31" morph="none" pos="punct" start_char="3804">.</TOKEN>
+</SEG>
+<SEG end_char="4028" id="segment-26" start_char="3806">
+<ORIGINAL_TEXT>To differentiate clinically between the two illnesses, a physician can perform a nasal swab test to detect novel coronavirus while a blood test can determine if a person has been infected with the West Nile virus infection.</ORIGINAL_TEXT>
+<TOKEN end_char="3807" id="token-26-0" morph="none" pos="word" start_char="3806">To</TOKEN>
+<TOKEN end_char="3821" id="token-26-1" morph="none" pos="word" start_char="3809">differentiate</TOKEN>
+<TOKEN end_char="3832" id="token-26-2" morph="none" pos="word" start_char="3823">clinically</TOKEN>
+<TOKEN end_char="3840" id="token-26-3" morph="none" pos="word" start_char="3834">between</TOKEN>
+<TOKEN end_char="3844" id="token-26-4" morph="none" pos="word" start_char="3842">the</TOKEN>
+<TOKEN end_char="3848" id="token-26-5" morph="none" pos="word" start_char="3846">two</TOKEN>
+<TOKEN end_char="3858" id="token-26-6" morph="none" pos="word" start_char="3850">illnesses</TOKEN>
+<TOKEN end_char="3859" id="token-26-7" morph="none" pos="punct" start_char="3859">,</TOKEN>
+<TOKEN end_char="3861" id="token-26-8" morph="none" pos="word" start_char="3861">a</TOKEN>
+<TOKEN end_char="3871" id="token-26-9" morph="none" pos="word" start_char="3863">physician</TOKEN>
+<TOKEN end_char="3875" id="token-26-10" morph="none" pos="word" start_char="3873">can</TOKEN>
+<TOKEN end_char="3883" id="token-26-11" morph="none" pos="word" start_char="3877">perform</TOKEN>
+<TOKEN end_char="3885" id="token-26-12" morph="none" pos="word" start_char="3885">a</TOKEN>
+<TOKEN end_char="3891" id="token-26-13" morph="none" pos="word" start_char="3887">nasal</TOKEN>
+<TOKEN end_char="3896" id="token-26-14" morph="none" pos="word" start_char="3893">swab</TOKEN>
+<TOKEN end_char="3901" id="token-26-15" morph="none" pos="word" start_char="3898">test</TOKEN>
+<TOKEN end_char="3904" id="token-26-16" morph="none" pos="word" start_char="3903">to</TOKEN>
+<TOKEN end_char="3911" id="token-26-17" morph="none" pos="word" start_char="3906">detect</TOKEN>
+<TOKEN end_char="3917" id="token-26-18" morph="none" pos="word" start_char="3913">novel</TOKEN>
+<TOKEN end_char="3929" id="token-26-19" morph="none" pos="word" start_char="3919">coronavirus</TOKEN>
+<TOKEN end_char="3935" id="token-26-20" morph="none" pos="word" start_char="3931">while</TOKEN>
+<TOKEN end_char="3937" id="token-26-21" morph="none" pos="word" start_char="3937">a</TOKEN>
+<TOKEN end_char="3943" id="token-26-22" morph="none" pos="word" start_char="3939">blood</TOKEN>
+<TOKEN end_char="3948" id="token-26-23" morph="none" pos="word" start_char="3945">test</TOKEN>
+<TOKEN end_char="3952" id="token-26-24" morph="none" pos="word" start_char="3950">can</TOKEN>
+<TOKEN end_char="3962" id="token-26-25" morph="none" pos="word" start_char="3954">determine</TOKEN>
+<TOKEN end_char="3965" id="token-26-26" morph="none" pos="word" start_char="3964">if</TOKEN>
+<TOKEN end_char="3967" id="token-26-27" morph="none" pos="word" start_char="3967">a</TOKEN>
+<TOKEN end_char="3974" id="token-26-28" morph="none" pos="word" start_char="3969">person</TOKEN>
+<TOKEN end_char="3978" id="token-26-29" morph="none" pos="word" start_char="3976">has</TOKEN>
+<TOKEN end_char="3983" id="token-26-30" morph="none" pos="word" start_char="3980">been</TOKEN>
+<TOKEN end_char="3992" id="token-26-31" morph="none" pos="word" start_char="3985">infected</TOKEN>
+<TOKEN end_char="3997" id="token-26-32" morph="none" pos="word" start_char="3994">with</TOKEN>
+<TOKEN end_char="4001" id="token-26-33" morph="none" pos="word" start_char="3999">the</TOKEN>
+<TOKEN end_char="4006" id="token-26-34" morph="none" pos="word" start_char="4003">West</TOKEN>
+<TOKEN end_char="4011" id="token-26-35" morph="none" pos="word" start_char="4008">Nile</TOKEN>
+<TOKEN end_char="4017" id="token-26-36" morph="none" pos="word" start_char="4013">virus</TOKEN>
+<TOKEN end_char="4027" id="token-26-37" morph="none" pos="word" start_char="4019">infection</TOKEN>
+<TOKEN end_char="4028" id="token-26-38" morph="none" pos="punct" start_char="4028">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

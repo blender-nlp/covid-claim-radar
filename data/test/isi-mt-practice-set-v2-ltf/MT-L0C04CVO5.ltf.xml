@@ -1,0 +1,113 @@
+<LCTL_TEXT lang="spa">
+<DOC grammar="none" id="L0C04CVO5" lang="spa" raw_text_char_length="508" raw_text_md5="1696374234b5b1f734ea1a3ac6220b56" tokenization="tokenization_parameters.v5.0">
+<TEXT>
+<SEG end_char="113" id="segment-0" start_char="1">
+<ORIGINAL_TEXT>Lopinavir/ritonavir did not shorten the duration of SARS CoV-2 shedding in patients with mild pneumonia in Taiwan</ORIGINAL_TEXT>
+<TOKEN end_char="19" id="token-0-0" morph="none" pos="unknown" start_char="1">Lopinavir/ritonavir</TOKEN>
+<TOKEN end_char="23" id="token-0-1" morph="none" pos="word" start_char="21">did</TOKEN>
+<TOKEN end_char="27" id="token-0-2" morph="none" pos="word" start_char="25">not</TOKEN>
+<TOKEN end_char="35" id="token-0-3" morph="none" pos="word" start_char="29">shorten</TOKEN>
+<TOKEN end_char="39" id="token-0-4" morph="none" pos="word" start_char="37">the</TOKEN>
+<TOKEN end_char="48" id="token-0-5" morph="none" pos="word" start_char="41">duration</TOKEN>
+<TOKEN end_char="51" id="token-0-6" morph="none" pos="word" start_char="50">of</TOKEN>
+<TOKEN end_char="56" id="token-0-7" morph="none" pos="word" start_char="53">SARS</TOKEN>
+<TOKEN end_char="62" id="token-0-8" morph="none" pos="unknown" start_char="58">CoV-2</TOKEN>
+<TOKEN end_char="71" id="token-0-9" morph="none" pos="word" start_char="64">shedding</TOKEN>
+<TOKEN end_char="74" id="token-0-10" morph="none" pos="word" start_char="73">in</TOKEN>
+<TOKEN end_char="83" id="token-0-11" morph="none" pos="word" start_char="76">patients</TOKEN>
+<TOKEN end_char="88" id="token-0-12" morph="none" pos="word" start_char="85">with</TOKEN>
+<TOKEN end_char="93" id="token-0-13" morph="none" pos="word" start_char="90">mild</TOKEN>
+<TOKEN end_char="103" id="token-0-14" morph="none" pos="word" start_char="95">pneumonia</TOKEN>
+<TOKEN end_char="106" id="token-0-15" morph="none" pos="word" start_char="105">in</TOKEN>
+<TOKEN end_char="113" id="token-0-16" morph="none" pos="word" start_char="108">Taiwan</TOKEN>
+</SEG>
+<SEG end_char="124" id="segment-1" start_char="117">
+<ORIGINAL_TEXT>Abstract</ORIGINAL_TEXT>
+<TOKEN end_char="124" id="token-1-0" morph="none" pos="word" start_char="117">Abstract</TOKEN>
+</SEG>
+<SEG end_char="386" id="segment-2" start_char="128">
+<ORIGINAL_TEXT>An increase of Ct values was 0.9 per day in 2 cases of COVID-19 treated with lopinavir/ritonavir (LPV/r), an increase was 1.0 per day in 3 cases without LPV/r through illness day 1-10, indicating that LPV/r did not shorten the duration of SARS CoV-2 shedding.</ORIGINAL_TEXT>
+<TOKEN end_char="129" id="token-2-0" morph="none" pos="word" start_char="128">An</TOKEN>
+<TOKEN end_char="138" id="token-2-1" morph="none" pos="word" start_char="131">increase</TOKEN>
+<TOKEN end_char="141" id="token-2-2" morph="none" pos="word" start_char="140">of</TOKEN>
+<TOKEN end_char="144" id="token-2-3" morph="none" pos="word" start_char="143">Ct</TOKEN>
+<TOKEN end_char="151" id="token-2-4" morph="none" pos="word" start_char="146">values</TOKEN>
+<TOKEN end_char="155" id="token-2-5" morph="none" pos="word" start_char="153">was</TOKEN>
+<TOKEN end_char="159" id="token-2-6" morph="none" pos="word" start_char="157">0.9</TOKEN>
+<TOKEN end_char="163" id="token-2-7" morph="none" pos="word" start_char="161">per</TOKEN>
+<TOKEN end_char="167" id="token-2-8" morph="none" pos="word" start_char="165">day</TOKEN>
+<TOKEN end_char="170" id="token-2-9" morph="none" pos="word" start_char="169">in</TOKEN>
+<TOKEN end_char="172" id="token-2-10" morph="none" pos="word" start_char="172">2</TOKEN>
+<TOKEN end_char="178" id="token-2-11" morph="none" pos="word" start_char="174">cases</TOKEN>
+<TOKEN end_char="181" id="token-2-12" morph="none" pos="word" start_char="180">of</TOKEN>
+<TOKEN end_char="190" id="token-2-13" morph="none" pos="unknown" start_char="183">COVID-19</TOKEN>
+<TOKEN end_char="198" id="token-2-14" morph="none" pos="word" start_char="192">treated</TOKEN>
+<TOKEN end_char="203" id="token-2-15" morph="none" pos="word" start_char="200">with</TOKEN>
+<TOKEN end_char="223" id="token-2-16" morph="none" pos="unknown" start_char="205">lopinavir/ritonavir</TOKEN>
+<TOKEN end_char="225" id="token-2-17" morph="none" pos="punct" start_char="225">(</TOKEN>
+<TOKEN end_char="230" id="token-2-18" morph="none" pos="unknown" start_char="226">LPV/r</TOKEN>
+<TOKEN end_char="232" id="token-2-19" morph="none" pos="punct" start_char="231">),</TOKEN>
+<TOKEN end_char="235" id="token-2-20" morph="none" pos="word" start_char="234">an</TOKEN>
+<TOKEN end_char="244" id="token-2-21" morph="none" pos="word" start_char="237">increase</TOKEN>
+<TOKEN end_char="248" id="token-2-22" morph="none" pos="word" start_char="246">was</TOKEN>
+<TOKEN end_char="252" id="token-2-23" morph="none" pos="word" start_char="250">1.0</TOKEN>
+<TOKEN end_char="256" id="token-2-24" morph="none" pos="word" start_char="254">per</TOKEN>
+<TOKEN end_char="260" id="token-2-25" morph="none" pos="word" start_char="258">day</TOKEN>
+<TOKEN end_char="263" id="token-2-26" morph="none" pos="word" start_char="262">in</TOKEN>
+<TOKEN end_char="265" id="token-2-27" morph="none" pos="word" start_char="265">3</TOKEN>
+<TOKEN end_char="271" id="token-2-28" morph="none" pos="word" start_char="267">cases</TOKEN>
+<TOKEN end_char="279" id="token-2-29" morph="none" pos="word" start_char="273">without</TOKEN>
+<TOKEN end_char="285" id="token-2-30" morph="none" pos="unknown" start_char="281">LPV/r</TOKEN>
+<TOKEN end_char="293" id="token-2-31" morph="none" pos="word" start_char="287">through</TOKEN>
+<TOKEN end_char="301" id="token-2-32" morph="none" pos="word" start_char="295">illness</TOKEN>
+<TOKEN end_char="305" id="token-2-33" morph="none" pos="word" start_char="303">day</TOKEN>
+<TOKEN end_char="310" id="token-2-34" morph="none" pos="unknown" start_char="307">1-10</TOKEN>
+<TOKEN end_char="311" id="token-2-35" morph="none" pos="punct" start_char="311">,</TOKEN>
+<TOKEN end_char="322" id="token-2-36" morph="none" pos="word" start_char="313">indicating</TOKEN>
+<TOKEN end_char="327" id="token-2-37" morph="none" pos="word" start_char="324">that</TOKEN>
+<TOKEN end_char="333" id="token-2-38" morph="none" pos="unknown" start_char="329">LPV/r</TOKEN>
+<TOKEN end_char="337" id="token-2-39" morph="none" pos="word" start_char="335">did</TOKEN>
+<TOKEN end_char="341" id="token-2-40" morph="none" pos="word" start_char="339">not</TOKEN>
+<TOKEN end_char="349" id="token-2-41" morph="none" pos="word" start_char="343">shorten</TOKEN>
+<TOKEN end_char="353" id="token-2-42" morph="none" pos="word" start_char="351">the</TOKEN>
+<TOKEN end_char="362" id="token-2-43" morph="none" pos="word" start_char="355">duration</TOKEN>
+<TOKEN end_char="365" id="token-2-44" morph="none" pos="word" start_char="364">of</TOKEN>
+<TOKEN end_char="370" id="token-2-45" morph="none" pos="word" start_char="367">SARS</TOKEN>
+<TOKEN end_char="376" id="token-2-46" morph="none" pos="unknown" start_char="372">CoV-2</TOKEN>
+<TOKEN end_char="385" id="token-2-47" morph="none" pos="word" start_char="378">shedding</TOKEN>
+<TOKEN end_char="386" id="token-2-48" morph="none" pos="punct" start_char="386">.</TOKEN>
+</SEG>
+<SEG end_char="458" id="segment-3" start_char="389">
+<ORIGINAL_TEXT>Keywords: COVID-19; Lopinavir/ritonavir (LPV/r); SARS CoV-2; Shedding.</ORIGINAL_TEXT>
+<TOKEN end_char="396" id="token-3-0" morph="none" pos="word" start_char="389">Keywords</TOKEN>
+<TOKEN end_char="397" id="token-3-1" morph="none" pos="punct" start_char="397">:</TOKEN>
+<TOKEN end_char="406" id="token-3-2" morph="none" pos="unknown" start_char="399">COVID-19</TOKEN>
+<TOKEN end_char="407" id="token-3-3" morph="none" pos="punct" start_char="407">;</TOKEN>
+<TOKEN end_char="427" id="token-3-4" morph="none" pos="unknown" start_char="409">Lopinavir/ritonavir</TOKEN>
+<TOKEN end_char="429" id="token-3-5" morph="none" pos="punct" start_char="429">(</TOKEN>
+<TOKEN end_char="434" id="token-3-6" morph="none" pos="unknown" start_char="430">LPV/r</TOKEN>
+<TOKEN end_char="436" id="token-3-7" morph="none" pos="punct" start_char="435">);</TOKEN>
+<TOKEN end_char="441" id="token-3-8" morph="none" pos="word" start_char="438">SARS</TOKEN>
+<TOKEN end_char="447" id="token-3-9" morph="none" pos="unknown" start_char="443">CoV-2</TOKEN>
+<TOKEN end_char="448" id="token-3-10" morph="none" pos="punct" start_char="448">;</TOKEN>
+<TOKEN end_char="457" id="token-3-11" morph="none" pos="word" start_char="450">Shedding</TOKEN>
+<TOKEN end_char="458" id="token-3-12" morph="none" pos="punct" start_char="458">.</TOKEN>
+</SEG>
+<SEG end_char="477" id="segment-4" start_char="461">
+<ORIGINAL_TEXT>Copyright © 2020.</ORIGINAL_TEXT>
+<TOKEN end_char="469" id="token-4-0" morph="none" pos="word" start_char="461">Copyright</TOKEN>
+<TOKEN end_char="471" id="token-4-1" morph="none" pos="unknown" start_char="471">©</TOKEN>
+<TOKEN end_char="476" id="token-4-2" morph="none" pos="word" start_char="473">2020</TOKEN>
+<TOKEN end_char="477" id="token-4-3" morph="none" pos="punct" start_char="477">.</TOKEN>
+</SEG>
+<SEG end_char="504" id="segment-5" start_char="479">
+<ORIGINAL_TEXT>Published by Elsevier B.V.</ORIGINAL_TEXT>
+<TOKEN end_char="487" id="token-5-0" morph="none" pos="word" start_char="479">Published</TOKEN>
+<TOKEN end_char="490" id="token-5-1" morph="none" pos="word" start_char="489">by</TOKEN>
+<TOKEN end_char="499" id="token-5-2" morph="none" pos="word" start_char="492">Elsevier</TOKEN>
+<TOKEN end_char="503" id="token-5-3" morph="none" pos="unknown" start_char="501">B.V</TOKEN>
+<TOKEN end_char="504" id="token-5-4" morph="none" pos="punct" start_char="504">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

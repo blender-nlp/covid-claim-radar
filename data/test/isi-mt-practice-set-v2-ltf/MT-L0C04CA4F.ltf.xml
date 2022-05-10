@@ -1,0 +1,523 @@
+<LCTL_TEXT lang="spa">
+<DOC grammar="none" id="L0C04CA4F" lang="spa" raw_text_char_length="2232" raw_text_md5="ae8ad261eff064b7530ed9d5ff0d4e3b" tokenization="tokenization_parameters.v5.0">
+<TEXT>
+<SEG end_char="20" id="segment-0" start_char="1">
+<ORIGINAL_TEXT>Are Masks Necessary?</ORIGINAL_TEXT>
+<TOKEN end_char="3" id="token-0-0" morph="none" pos="word" start_char="1">Are</TOKEN>
+<TOKEN end_char="9" id="token-0-1" morph="none" pos="word" start_char="5">Masks</TOKEN>
+<TOKEN end_char="19" id="token-0-2" morph="none" pos="word" start_char="11">Necessary</TOKEN>
+<TOKEN end_char="20" id="token-0-3" morph="none" pos="punct" start_char="20">?</TOKEN>
+</SEG>
+<SEG end_char="47" id="segment-1" start_char="22">
+<ORIGINAL_TEXT>Well here’s what we think…</ORIGINAL_TEXT>
+<TOKEN end_char="25" id="token-1-0" morph="none" pos="word" start_char="22">Well</TOKEN>
+<TOKEN end_char="32" id="token-1-1" morph="none" pos="word" start_char="27">here’s</TOKEN>
+<TOKEN end_char="37" id="token-1-2" morph="none" pos="word" start_char="34">what</TOKEN>
+<TOKEN end_char="40" id="token-1-3" morph="none" pos="word" start_char="39">we</TOKEN>
+<TOKEN end_char="46" id="token-1-4" morph="none" pos="word" start_char="42">think</TOKEN>
+<TOKEN end_char="47" id="token-1-5" morph="none" pos="punct" start_char="47">…</TOKEN>
+</SEG>
+<SEG end_char="131" id="segment-2" start_char="51">
+<ORIGINAL_TEXT>Some of us think masks are necessary and some of us don’t, who do you agree with?</ORIGINAL_TEXT>
+<TOKEN end_char="54" id="token-2-0" morph="none" pos="word" start_char="51">Some</TOKEN>
+<TOKEN end_char="57" id="token-2-1" morph="none" pos="word" start_char="56">of</TOKEN>
+<TOKEN end_char="60" id="token-2-2" morph="none" pos="word" start_char="59">us</TOKEN>
+<TOKEN end_char="66" id="token-2-3" morph="none" pos="word" start_char="62">think</TOKEN>
+<TOKEN end_char="72" id="token-2-4" morph="none" pos="word" start_char="68">masks</TOKEN>
+<TOKEN end_char="76" id="token-2-5" morph="none" pos="word" start_char="74">are</TOKEN>
+<TOKEN end_char="86" id="token-2-6" morph="none" pos="word" start_char="78">necessary</TOKEN>
+<TOKEN end_char="90" id="token-2-7" morph="none" pos="word" start_char="88">and</TOKEN>
+<TOKEN end_char="95" id="token-2-8" morph="none" pos="word" start_char="92">some</TOKEN>
+<TOKEN end_char="98" id="token-2-9" morph="none" pos="word" start_char="97">of</TOKEN>
+<TOKEN end_char="101" id="token-2-10" morph="none" pos="word" start_char="100">us</TOKEN>
+<TOKEN end_char="107" id="token-2-11" morph="none" pos="word" start_char="103">don’t</TOKEN>
+<TOKEN end_char="108" id="token-2-12" morph="none" pos="punct" start_char="108">,</TOKEN>
+<TOKEN end_char="112" id="token-2-13" morph="none" pos="word" start_char="110">who</TOKEN>
+<TOKEN end_char="115" id="token-2-14" morph="none" pos="word" start_char="114">do</TOKEN>
+<TOKEN end_char="119" id="token-2-15" morph="none" pos="word" start_char="117">you</TOKEN>
+<TOKEN end_char="125" id="token-2-16" morph="none" pos="word" start_char="121">agree</TOKEN>
+<TOKEN end_char="130" id="token-2-17" morph="none" pos="word" start_char="127">with</TOKEN>
+<TOKEN end_char="131" id="token-2-18" morph="none" pos="punct" start_char="131">?</TOKEN>
+</SEG>
+<SEG end_char="145" id="segment-3" start_char="134">
+<ORIGINAL_TEXT>Cacie Cortes</ORIGINAL_TEXT>
+<TOKEN end_char="138" id="token-3-0" morph="none" pos="word" start_char="134">Cacie</TOKEN>
+<TOKEN end_char="145" id="token-3-1" morph="none" pos="word" start_char="140">Cortes</TOKEN>
+<TRANSLATED_TEXT>Cacie Cortes.</TRANSLATED_TEXT><DETECTED_LANGUAGE>es</DETECTED_LANGUAGE></SEG>
+<SEG end_char="250" id="segment-4" start_char="148">
+<ORIGINAL_TEXT>: I think that masks are not very effective or necessary, but to an extent, I think they come in handy.</ORIGINAL_TEXT>
+<TOKEN end_char="148" id="token-4-0" morph="none" pos="punct" start_char="148">:</TOKEN>
+<TOKEN end_char="150" id="token-4-1" morph="none" pos="word" start_char="150">I</TOKEN>
+<TOKEN end_char="156" id="token-4-2" morph="none" pos="word" start_char="152">think</TOKEN>
+<TOKEN end_char="161" id="token-4-3" morph="none" pos="word" start_char="158">that</TOKEN>
+<TOKEN end_char="167" id="token-4-4" morph="none" pos="word" start_char="163">masks</TOKEN>
+<TOKEN end_char="171" id="token-4-5" morph="none" pos="word" start_char="169">are</TOKEN>
+<TOKEN end_char="175" id="token-4-6" morph="none" pos="word" start_char="173">not</TOKEN>
+<TOKEN end_char="180" id="token-4-7" morph="none" pos="word" start_char="177">very</TOKEN>
+<TOKEN end_char="190" id="token-4-8" morph="none" pos="word" start_char="182">effective</TOKEN>
+<TOKEN end_char="193" id="token-4-9" morph="none" pos="word" start_char="192">or</TOKEN>
+<TOKEN end_char="203" id="token-4-10" morph="none" pos="word" start_char="195">necessary</TOKEN>
+<TOKEN end_char="204" id="token-4-11" morph="none" pos="punct" start_char="204">,</TOKEN>
+<TOKEN end_char="208" id="token-4-12" morph="none" pos="word" start_char="206">but</TOKEN>
+<TOKEN end_char="211" id="token-4-13" morph="none" pos="word" start_char="210">to</TOKEN>
+<TOKEN end_char="214" id="token-4-14" morph="none" pos="word" start_char="213">an</TOKEN>
+<TOKEN end_char="221" id="token-4-15" morph="none" pos="word" start_char="216">extent</TOKEN>
+<TOKEN end_char="222" id="token-4-16" morph="none" pos="punct" start_char="222">,</TOKEN>
+<TOKEN end_char="224" id="token-4-17" morph="none" pos="word" start_char="224">I</TOKEN>
+<TOKEN end_char="230" id="token-4-18" morph="none" pos="word" start_char="226">think</TOKEN>
+<TOKEN end_char="235" id="token-4-19" morph="none" pos="word" start_char="232">they</TOKEN>
+<TOKEN end_char="240" id="token-4-20" morph="none" pos="word" start_char="237">come</TOKEN>
+<TOKEN end_char="243" id="token-4-21" morph="none" pos="word" start_char="242">in</TOKEN>
+<TOKEN end_char="249" id="token-4-22" morph="none" pos="word" start_char="245">handy</TOKEN>
+<TOKEN end_char="250" id="token-4-23" morph="none" pos="punct" start_char="250">.</TOKEN>
+</SEG>
+<SEG end_char="254" id="segment-5" start_char="252">
+<ORIGINAL_TEXT>I t</ORIGINAL_TEXT>
+<TOKEN end_char="252" id="token-5-0" morph="none" pos="word" start_char="252">I</TOKEN>
+<TOKEN end_char="254" id="token-5-1" morph="none" pos="word" start_char="254">t</TOKEN>
+<TRANSLATED_TEXT>T</TRANSLATED_TEXT><DETECTED_LANGUAGE>it</DETECTED_LANGUAGE></SEG>
+<SEG end_char="324" id="segment-6" start_char="258">
+<ORIGINAL_TEXT>hink everybody shouldn’t have to wear a mask if they don’t want to.</ORIGINAL_TEXT>
+<TOKEN end_char="261" id="token-6-0" morph="none" pos="word" start_char="258">hink</TOKEN>
+<TOKEN end_char="271" id="token-6-1" morph="none" pos="word" start_char="263">everybody</TOKEN>
+<TOKEN end_char="281" id="token-6-2" morph="none" pos="word" start_char="273">shouldn’t</TOKEN>
+<TOKEN end_char="286" id="token-6-3" morph="none" pos="word" start_char="283">have</TOKEN>
+<TOKEN end_char="289" id="token-6-4" morph="none" pos="word" start_char="288">to</TOKEN>
+<TOKEN end_char="294" id="token-6-5" morph="none" pos="word" start_char="291">wear</TOKEN>
+<TOKEN end_char="296" id="token-6-6" morph="none" pos="word" start_char="296">a</TOKEN>
+<TOKEN end_char="301" id="token-6-7" morph="none" pos="word" start_char="298">mask</TOKEN>
+<TOKEN end_char="304" id="token-6-8" morph="none" pos="word" start_char="303">if</TOKEN>
+<TOKEN end_char="309" id="token-6-9" morph="none" pos="word" start_char="306">they</TOKEN>
+<TOKEN end_char="315" id="token-6-10" morph="none" pos="word" start_char="311">don’t</TOKEN>
+<TOKEN end_char="320" id="token-6-11" morph="none" pos="word" start_char="317">want</TOKEN>
+<TOKEN end_char="323" id="token-6-12" morph="none" pos="word" start_char="322">to</TOKEN>
+<TOKEN end_char="324" id="token-6-13" morph="none" pos="punct" start_char="324">.</TOKEN>
+</SEG>
+<SEG end_char="414" id="segment-7" start_char="326">
+<ORIGINAL_TEXT>People who want to should wear a mask and people who don’t shouldn’t have to wear a mask.</ORIGINAL_TEXT>
+<TOKEN end_char="331" id="token-7-0" morph="none" pos="word" start_char="326">People</TOKEN>
+<TOKEN end_char="335" id="token-7-1" morph="none" pos="word" start_char="333">who</TOKEN>
+<TOKEN end_char="340" id="token-7-2" morph="none" pos="word" start_char="337">want</TOKEN>
+<TOKEN end_char="343" id="token-7-3" morph="none" pos="word" start_char="342">to</TOKEN>
+<TOKEN end_char="350" id="token-7-4" morph="none" pos="word" start_char="345">should</TOKEN>
+<TOKEN end_char="355" id="token-7-5" morph="none" pos="word" start_char="352">wear</TOKEN>
+<TOKEN end_char="357" id="token-7-6" morph="none" pos="word" start_char="357">a</TOKEN>
+<TOKEN end_char="362" id="token-7-7" morph="none" pos="word" start_char="359">mask</TOKEN>
+<TOKEN end_char="366" id="token-7-8" morph="none" pos="word" start_char="364">and</TOKEN>
+<TOKEN end_char="373" id="token-7-9" morph="none" pos="word" start_char="368">people</TOKEN>
+<TOKEN end_char="377" id="token-7-10" morph="none" pos="word" start_char="375">who</TOKEN>
+<TOKEN end_char="383" id="token-7-11" morph="none" pos="word" start_char="379">don’t</TOKEN>
+<TOKEN end_char="393" id="token-7-12" morph="none" pos="word" start_char="385">shouldn’t</TOKEN>
+<TOKEN end_char="398" id="token-7-13" morph="none" pos="word" start_char="395">have</TOKEN>
+<TOKEN end_char="401" id="token-7-14" morph="none" pos="word" start_char="400">to</TOKEN>
+<TOKEN end_char="406" id="token-7-15" morph="none" pos="word" start_char="403">wear</TOKEN>
+<TOKEN end_char="408" id="token-7-16" morph="none" pos="word" start_char="408">a</TOKEN>
+<TOKEN end_char="413" id="token-7-17" morph="none" pos="word" start_char="410">mask</TOKEN>
+<TOKEN end_char="414" id="token-7-18" morph="none" pos="punct" start_char="414">.</TOKEN>
+</SEG>
+<SEG end_char="568" id="segment-8" start_char="416">
+<ORIGINAL_TEXT>I believe this because wearing a mask can create other problems such as respiratory infections and hypoxia which is depriving your body tissue of oxygen.</ORIGINAL_TEXT>
+<TOKEN end_char="416" id="token-8-0" morph="none" pos="word" start_char="416">I</TOKEN>
+<TOKEN end_char="424" id="token-8-1" morph="none" pos="word" start_char="418">believe</TOKEN>
+<TOKEN end_char="429" id="token-8-2" morph="none" pos="word" start_char="426">this</TOKEN>
+<TOKEN end_char="437" id="token-8-3" morph="none" pos="word" start_char="431">because</TOKEN>
+<TOKEN end_char="445" id="token-8-4" morph="none" pos="word" start_char="439">wearing</TOKEN>
+<TOKEN end_char="447" id="token-8-5" morph="none" pos="word" start_char="447">a</TOKEN>
+<TOKEN end_char="452" id="token-8-6" morph="none" pos="word" start_char="449">mask</TOKEN>
+<TOKEN end_char="456" id="token-8-7" morph="none" pos="word" start_char="454">can</TOKEN>
+<TOKEN end_char="463" id="token-8-8" morph="none" pos="word" start_char="458">create</TOKEN>
+<TOKEN end_char="469" id="token-8-9" morph="none" pos="word" start_char="465">other</TOKEN>
+<TOKEN end_char="478" id="token-8-10" morph="none" pos="word" start_char="471">problems</TOKEN>
+<TOKEN end_char="483" id="token-8-11" morph="none" pos="word" start_char="480">such</TOKEN>
+<TOKEN end_char="486" id="token-8-12" morph="none" pos="word" start_char="485">as</TOKEN>
+<TOKEN end_char="498" id="token-8-13" morph="none" pos="word" start_char="488">respiratory</TOKEN>
+<TOKEN end_char="509" id="token-8-14" morph="none" pos="word" start_char="500">infections</TOKEN>
+<TOKEN end_char="513" id="token-8-15" morph="none" pos="word" start_char="511">and</TOKEN>
+<TOKEN end_char="521" id="token-8-16" morph="none" pos="word" start_char="515">hypoxia</TOKEN>
+<TOKEN end_char="527" id="token-8-17" morph="none" pos="word" start_char="523">which</TOKEN>
+<TOKEN end_char="530" id="token-8-18" morph="none" pos="word" start_char="529">is</TOKEN>
+<TOKEN end_char="540" id="token-8-19" morph="none" pos="word" start_char="532">depriving</TOKEN>
+<TOKEN end_char="545" id="token-8-20" morph="none" pos="word" start_char="542">your</TOKEN>
+<TOKEN end_char="550" id="token-8-21" morph="none" pos="word" start_char="547">body</TOKEN>
+<TOKEN end_char="557" id="token-8-22" morph="none" pos="word" start_char="552">tissue</TOKEN>
+<TOKEN end_char="560" id="token-8-23" morph="none" pos="word" start_char="559">of</TOKEN>
+<TOKEN end_char="567" id="token-8-24" morph="none" pos="word" start_char="562">oxygen</TOKEN>
+<TOKEN end_char="568" id="token-8-25" morph="none" pos="punct" start_char="568">.</TOKEN>
+</SEG>
+<SEG end_char="656" id="segment-9" start_char="570">
+<ORIGINAL_TEXT>Masks can also cause acne because of the moisture that is created while wearing a mask.</ORIGINAL_TEXT>
+<TOKEN end_char="574" id="token-9-0" morph="none" pos="word" start_char="570">Masks</TOKEN>
+<TOKEN end_char="578" id="token-9-1" morph="none" pos="word" start_char="576">can</TOKEN>
+<TOKEN end_char="583" id="token-9-2" morph="none" pos="word" start_char="580">also</TOKEN>
+<TOKEN end_char="589" id="token-9-3" morph="none" pos="word" start_char="585">cause</TOKEN>
+<TOKEN end_char="594" id="token-9-4" morph="none" pos="word" start_char="591">acne</TOKEN>
+<TOKEN end_char="602" id="token-9-5" morph="none" pos="word" start_char="596">because</TOKEN>
+<TOKEN end_char="605" id="token-9-6" morph="none" pos="word" start_char="604">of</TOKEN>
+<TOKEN end_char="609" id="token-9-7" morph="none" pos="word" start_char="607">the</TOKEN>
+<TOKEN end_char="618" id="token-9-8" morph="none" pos="word" start_char="611">moisture</TOKEN>
+<TOKEN end_char="623" id="token-9-9" morph="none" pos="word" start_char="620">that</TOKEN>
+<TOKEN end_char="626" id="token-9-10" morph="none" pos="word" start_char="625">is</TOKEN>
+<TOKEN end_char="634" id="token-9-11" morph="none" pos="word" start_char="628">created</TOKEN>
+<TOKEN end_char="640" id="token-9-12" morph="none" pos="word" start_char="636">while</TOKEN>
+<TOKEN end_char="648" id="token-9-13" morph="none" pos="word" start_char="642">wearing</TOKEN>
+<TOKEN end_char="650" id="token-9-14" morph="none" pos="word" start_char="650">a</TOKEN>
+<TOKEN end_char="655" id="token-9-15" morph="none" pos="word" start_char="652">mask</TOKEN>
+<TOKEN end_char="656" id="token-9-16" morph="none" pos="punct" start_char="656">.</TOKEN>
+</SEG>
+<SEG end_char="790" id="segment-10" start_char="658">
+<ORIGINAL_TEXT>When people stop wearing masks and have worn them for a long time their immune system will be weak when exposed to germs all at once.</ORIGINAL_TEXT>
+<TOKEN end_char="661" id="token-10-0" morph="none" pos="word" start_char="658">When</TOKEN>
+<TOKEN end_char="668" id="token-10-1" morph="none" pos="word" start_char="663">people</TOKEN>
+<TOKEN end_char="673" id="token-10-2" morph="none" pos="word" start_char="670">stop</TOKEN>
+<TOKEN end_char="681" id="token-10-3" morph="none" pos="word" start_char="675">wearing</TOKEN>
+<TOKEN end_char="687" id="token-10-4" morph="none" pos="word" start_char="683">masks</TOKEN>
+<TOKEN end_char="691" id="token-10-5" morph="none" pos="word" start_char="689">and</TOKEN>
+<TOKEN end_char="696" id="token-10-6" morph="none" pos="word" start_char="693">have</TOKEN>
+<TOKEN end_char="701" id="token-10-7" morph="none" pos="word" start_char="698">worn</TOKEN>
+<TOKEN end_char="706" id="token-10-8" morph="none" pos="word" start_char="703">them</TOKEN>
+<TOKEN end_char="710" id="token-10-9" morph="none" pos="word" start_char="708">for</TOKEN>
+<TOKEN end_char="712" id="token-10-10" morph="none" pos="word" start_char="712">a</TOKEN>
+<TOKEN end_char="717" id="token-10-11" morph="none" pos="word" start_char="714">long</TOKEN>
+<TOKEN end_char="722" id="token-10-12" morph="none" pos="word" start_char="719">time</TOKEN>
+<TOKEN end_char="728" id="token-10-13" morph="none" pos="word" start_char="724">their</TOKEN>
+<TOKEN end_char="735" id="token-10-14" morph="none" pos="word" start_char="730">immune</TOKEN>
+<TOKEN end_char="742" id="token-10-15" morph="none" pos="word" start_char="737">system</TOKEN>
+<TOKEN end_char="747" id="token-10-16" morph="none" pos="word" start_char="744">will</TOKEN>
+<TOKEN end_char="750" id="token-10-17" morph="none" pos="word" start_char="749">be</TOKEN>
+<TOKEN end_char="755" id="token-10-18" morph="none" pos="word" start_char="752">weak</TOKEN>
+<TOKEN end_char="760" id="token-10-19" morph="none" pos="word" start_char="757">when</TOKEN>
+<TOKEN end_char="768" id="token-10-20" morph="none" pos="word" start_char="762">exposed</TOKEN>
+<TOKEN end_char="771" id="token-10-21" morph="none" pos="word" start_char="770">to</TOKEN>
+<TOKEN end_char="777" id="token-10-22" morph="none" pos="word" start_char="773">germs</TOKEN>
+<TOKEN end_char="781" id="token-10-23" morph="none" pos="word" start_char="779">all</TOKEN>
+<TOKEN end_char="784" id="token-10-24" morph="none" pos="word" start_char="783">at</TOKEN>
+<TOKEN end_char="789" id="token-10-25" morph="none" pos="word" start_char="786">once</TOKEN>
+<TOKEN end_char="790" id="token-10-26" morph="none" pos="punct" start_char="790">.</TOKEN>
+</SEG>
+<SEG end_char="804" id="segment-11" start_char="793">
+<ORIGINAL_TEXT>Jayda Pineda</ORIGINAL_TEXT>
+<TOKEN end_char="797" id="token-11-0" morph="none" pos="word" start_char="793">Jayda</TOKEN>
+<TOKEN end_char="804" id="token-11-1" morph="none" pos="word" start_char="799">Pineda</TOKEN>
+<TRANSLATED_TEXT>Jayda Pineda.</TRANSLATED_TEXT><DETECTED_LANGUAGE>tr</DETECTED_LANGUAGE></SEG>
+<SEG end_char="889" id="segment-12" start_char="807">
+<ORIGINAL_TEXT>: I believe that masks are necessary and people should use them when out in public.</ORIGINAL_TEXT>
+<TOKEN end_char="807" id="token-12-0" morph="none" pos="punct" start_char="807">:</TOKEN>
+<TOKEN end_char="809" id="token-12-1" morph="none" pos="word" start_char="809">I</TOKEN>
+<TOKEN end_char="817" id="token-12-2" morph="none" pos="word" start_char="811">believe</TOKEN>
+<TOKEN end_char="822" id="token-12-3" morph="none" pos="word" start_char="819">that</TOKEN>
+<TOKEN end_char="828" id="token-12-4" morph="none" pos="word" start_char="824">masks</TOKEN>
+<TOKEN end_char="832" id="token-12-5" morph="none" pos="word" start_char="830">are</TOKEN>
+<TOKEN end_char="842" id="token-12-6" morph="none" pos="word" start_char="834">necessary</TOKEN>
+<TOKEN end_char="846" id="token-12-7" morph="none" pos="word" start_char="844">and</TOKEN>
+<TOKEN end_char="853" id="token-12-8" morph="none" pos="word" start_char="848">people</TOKEN>
+<TOKEN end_char="860" id="token-12-9" morph="none" pos="word" start_char="855">should</TOKEN>
+<TOKEN end_char="864" id="token-12-10" morph="none" pos="word" start_char="862">use</TOKEN>
+<TOKEN end_char="869" id="token-12-11" morph="none" pos="word" start_char="866">them</TOKEN>
+<TOKEN end_char="874" id="token-12-12" morph="none" pos="word" start_char="871">when</TOKEN>
+<TOKEN end_char="878" id="token-12-13" morph="none" pos="word" start_char="876">out</TOKEN>
+<TOKEN end_char="881" id="token-12-14" morph="none" pos="word" start_char="880">in</TOKEN>
+<TOKEN end_char="888" id="token-12-15" morph="none" pos="word" start_char="883">public</TOKEN>
+<TOKEN end_char="889" id="token-12-16" morph="none" pos="punct" start_char="889">.</TOKEN>
+</SEG>
+<SEG end_char="1065" id="segment-13" start_char="891">
+<ORIGINAL_TEXT>Even though some people may not agree with my opinion I still think they should at least wear masks for the people around them who may have a weak immune system to begin with.</ORIGINAL_TEXT>
+<TOKEN end_char="894" id="token-13-0" morph="none" pos="word" start_char="891">Even</TOKEN>
+<TOKEN end_char="901" id="token-13-1" morph="none" pos="word" start_char="896">though</TOKEN>
+<TOKEN end_char="906" id="token-13-2" morph="none" pos="word" start_char="903">some</TOKEN>
+<TOKEN end_char="913" id="token-13-3" morph="none" pos="word" start_char="908">people</TOKEN>
+<TOKEN end_char="917" id="token-13-4" morph="none" pos="word" start_char="915">may</TOKEN>
+<TOKEN end_char="921" id="token-13-5" morph="none" pos="word" start_char="919">not</TOKEN>
+<TOKEN end_char="927" id="token-13-6" morph="none" pos="word" start_char="923">agree</TOKEN>
+<TOKEN end_char="932" id="token-13-7" morph="none" pos="word" start_char="929">with</TOKEN>
+<TOKEN end_char="935" id="token-13-8" morph="none" pos="word" start_char="934">my</TOKEN>
+<TOKEN end_char="943" id="token-13-9" morph="none" pos="word" start_char="937">opinion</TOKEN>
+<TOKEN end_char="945" id="token-13-10" morph="none" pos="word" start_char="945">I</TOKEN>
+<TOKEN end_char="951" id="token-13-11" morph="none" pos="word" start_char="947">still</TOKEN>
+<TOKEN end_char="957" id="token-13-12" morph="none" pos="word" start_char="953">think</TOKEN>
+<TOKEN end_char="962" id="token-13-13" morph="none" pos="word" start_char="959">they</TOKEN>
+<TOKEN end_char="969" id="token-13-14" morph="none" pos="word" start_char="964">should</TOKEN>
+<TOKEN end_char="972" id="token-13-15" morph="none" pos="word" start_char="971">at</TOKEN>
+<TOKEN end_char="978" id="token-13-16" morph="none" pos="word" start_char="974">least</TOKEN>
+<TOKEN end_char="983" id="token-13-17" morph="none" pos="word" start_char="980">wear</TOKEN>
+<TOKEN end_char="989" id="token-13-18" morph="none" pos="word" start_char="985">masks</TOKEN>
+<TOKEN end_char="993" id="token-13-19" morph="none" pos="word" start_char="991">for</TOKEN>
+<TOKEN end_char="997" id="token-13-20" morph="none" pos="word" start_char="995">the</TOKEN>
+<TOKEN end_char="1004" id="token-13-21" morph="none" pos="word" start_char="999">people</TOKEN>
+<TOKEN end_char="1011" id="token-13-22" morph="none" pos="word" start_char="1006">around</TOKEN>
+<TOKEN end_char="1016" id="token-13-23" morph="none" pos="word" start_char="1013">them</TOKEN>
+<TOKEN end_char="1020" id="token-13-24" morph="none" pos="word" start_char="1018">who</TOKEN>
+<TOKEN end_char="1024" id="token-13-25" morph="none" pos="word" start_char="1022">may</TOKEN>
+<TOKEN end_char="1029" id="token-13-26" morph="none" pos="word" start_char="1026">have</TOKEN>
+<TOKEN end_char="1031" id="token-13-27" morph="none" pos="word" start_char="1031">a</TOKEN>
+<TOKEN end_char="1036" id="token-13-28" morph="none" pos="word" start_char="1033">weak</TOKEN>
+<TOKEN end_char="1043" id="token-13-29" morph="none" pos="word" start_char="1038">immune</TOKEN>
+<TOKEN end_char="1050" id="token-13-30" morph="none" pos="word" start_char="1045">system</TOKEN>
+<TOKEN end_char="1053" id="token-13-31" morph="none" pos="word" start_char="1052">to</TOKEN>
+<TOKEN end_char="1059" id="token-13-32" morph="none" pos="word" start_char="1055">begin</TOKEN>
+<TOKEN end_char="1064" id="token-13-33" morph="none" pos="word" start_char="1061">with</TOKEN>
+<TOKEN end_char="1065" id="token-13-34" morph="none" pos="punct" start_char="1065">.</TOKEN>
+</SEG>
+<SEG end_char="1179" id="segment-14" start_char="1067">
+<ORIGINAL_TEXT>According to AARP, "The primary way coronavirus spreads is from person to person by respiratory droplets produced</ORIGINAL_TEXT>
+<TOKEN end_char="1075" id="token-14-0" morph="none" pos="word" start_char="1067">According</TOKEN>
+<TOKEN end_char="1078" id="token-14-1" morph="none" pos="word" start_char="1077">to</TOKEN>
+<TOKEN end_char="1083" id="token-14-2" morph="none" pos="word" start_char="1080">AARP</TOKEN>
+<TOKEN end_char="1084" id="token-14-3" morph="none" pos="punct" start_char="1084">,</TOKEN>
+<TOKEN end_char="1086" id="token-14-4" morph="none" pos="punct" start_char="1086">"</TOKEN>
+<TOKEN end_char="1089" id="token-14-5" morph="none" pos="word" start_char="1087">The</TOKEN>
+<TOKEN end_char="1097" id="token-14-6" morph="none" pos="word" start_char="1091">primary</TOKEN>
+<TOKEN end_char="1101" id="token-14-7" morph="none" pos="word" start_char="1099">way</TOKEN>
+<TOKEN end_char="1113" id="token-14-8" morph="none" pos="word" start_char="1103">coronavirus</TOKEN>
+<TOKEN end_char="1121" id="token-14-9" morph="none" pos="word" start_char="1115">spreads</TOKEN>
+<TOKEN end_char="1124" id="token-14-10" morph="none" pos="word" start_char="1123">is</TOKEN>
+<TOKEN end_char="1129" id="token-14-11" morph="none" pos="word" start_char="1126">from</TOKEN>
+<TOKEN end_char="1136" id="token-14-12" morph="none" pos="word" start_char="1131">person</TOKEN>
+<TOKEN end_char="1139" id="token-14-13" morph="none" pos="word" start_char="1138">to</TOKEN>
+<TOKEN end_char="1146" id="token-14-14" morph="none" pos="word" start_char="1141">person</TOKEN>
+<TOKEN end_char="1149" id="token-14-15" morph="none" pos="word" start_char="1148">by</TOKEN>
+<TOKEN end_char="1161" id="token-14-16" morph="none" pos="word" start_char="1151">respiratory</TOKEN>
+<TOKEN end_char="1170" id="token-14-17" morph="none" pos="word" start_char="1163">droplets</TOKEN>
+<TOKEN end_char="1179" id="token-14-18" morph="none" pos="word" start_char="1172">produced</TOKEN>
+</SEG>
+<SEG end_char="1231" id="segment-15" start_char="1183">
+<ORIGINAL_TEXT>when an infected person coughs, sneezes or talks.</ORIGINAL_TEXT>
+<TOKEN end_char="1186" id="token-15-0" morph="none" pos="word" start_char="1183">when</TOKEN>
+<TOKEN end_char="1189" id="token-15-1" morph="none" pos="word" start_char="1188">an</TOKEN>
+<TOKEN end_char="1198" id="token-15-2" morph="none" pos="word" start_char="1191">infected</TOKEN>
+<TOKEN end_char="1205" id="token-15-3" morph="none" pos="word" start_char="1200">person</TOKEN>
+<TOKEN end_char="1212" id="token-15-4" morph="none" pos="word" start_char="1207">coughs</TOKEN>
+<TOKEN end_char="1213" id="token-15-5" morph="none" pos="punct" start_char="1213">,</TOKEN>
+<TOKEN end_char="1221" id="token-15-6" morph="none" pos="word" start_char="1215">sneezes</TOKEN>
+<TOKEN end_char="1224" id="token-15-7" morph="none" pos="word" start_char="1223">or</TOKEN>
+<TOKEN end_char="1230" id="token-15-8" morph="none" pos="word" start_char="1226">talks</TOKEN>
+<TOKEN end_char="1231" id="token-15-9" morph="none" pos="punct" start_char="1231">.</TOKEN>
+</SEG>
+<SEG end_char="1278" id="segment-16" start_char="1233">
+<ORIGINAL_TEXT>Face masks, however, can block these droplets.</ORIGINAL_TEXT>
+<TOKEN end_char="1236" id="token-16-0" morph="none" pos="word" start_char="1233">Face</TOKEN>
+<TOKEN end_char="1242" id="token-16-1" morph="none" pos="word" start_char="1238">masks</TOKEN>
+<TOKEN end_char="1243" id="token-16-2" morph="none" pos="punct" start_char="1243">,</TOKEN>
+<TOKEN end_char="1251" id="token-16-3" morph="none" pos="word" start_char="1245">however</TOKEN>
+<TOKEN end_char="1252" id="token-16-4" morph="none" pos="punct" start_char="1252">,</TOKEN>
+<TOKEN end_char="1256" id="token-16-5" morph="none" pos="word" start_char="1254">can</TOKEN>
+<TOKEN end_char="1262" id="token-16-6" morph="none" pos="word" start_char="1258">block</TOKEN>
+<TOKEN end_char="1268" id="token-16-7" morph="none" pos="word" start_char="1264">these</TOKEN>
+<TOKEN end_char="1277" id="token-16-8" morph="none" pos="word" start_char="1270">droplets</TOKEN>
+<TOKEN end_char="1278" id="token-16-9" morph="none" pos="punct" start_char="1278">.</TOKEN>
+</SEG>
+<SEG end_char="1406" id="segment-17" start_char="1280">
+<ORIGINAL_TEXT>They act as a barrier to keep virus-containing particles from escaping an infected individual and landing on another person… ".</ORIGINAL_TEXT>
+<TOKEN end_char="1283" id="token-17-0" morph="none" pos="word" start_char="1280">They</TOKEN>
+<TOKEN end_char="1287" id="token-17-1" morph="none" pos="word" start_char="1285">act</TOKEN>
+<TOKEN end_char="1290" id="token-17-2" morph="none" pos="word" start_char="1289">as</TOKEN>
+<TOKEN end_char="1292" id="token-17-3" morph="none" pos="word" start_char="1292">a</TOKEN>
+<TOKEN end_char="1300" id="token-17-4" morph="none" pos="word" start_char="1294">barrier</TOKEN>
+<TOKEN end_char="1303" id="token-17-5" morph="none" pos="word" start_char="1302">to</TOKEN>
+<TOKEN end_char="1308" id="token-17-6" morph="none" pos="word" start_char="1305">keep</TOKEN>
+<TOKEN end_char="1325" id="token-17-7" morph="none" pos="unknown" start_char="1310">virus-containing</TOKEN>
+<TOKEN end_char="1335" id="token-17-8" morph="none" pos="word" start_char="1327">particles</TOKEN>
+<TOKEN end_char="1340" id="token-17-9" morph="none" pos="word" start_char="1337">from</TOKEN>
+<TOKEN end_char="1349" id="token-17-10" morph="none" pos="word" start_char="1342">escaping</TOKEN>
+<TOKEN end_char="1352" id="token-17-11" morph="none" pos="word" start_char="1351">an</TOKEN>
+<TOKEN end_char="1361" id="token-17-12" morph="none" pos="word" start_char="1354">infected</TOKEN>
+<TOKEN end_char="1372" id="token-17-13" morph="none" pos="word" start_char="1363">individual</TOKEN>
+<TOKEN end_char="1376" id="token-17-14" morph="none" pos="word" start_char="1374">and</TOKEN>
+<TOKEN end_char="1384" id="token-17-15" morph="none" pos="word" start_char="1378">landing</TOKEN>
+<TOKEN end_char="1387" id="token-17-16" morph="none" pos="word" start_char="1386">on</TOKEN>
+<TOKEN end_char="1395" id="token-17-17" morph="none" pos="word" start_char="1389">another</TOKEN>
+<TOKEN end_char="1402" id="token-17-18" morph="none" pos="word" start_char="1397">person</TOKEN>
+<TOKEN end_char="1403" id="token-17-19" morph="none" pos="punct" start_char="1403">…</TOKEN>
+<TOKEN end_char="1406" id="token-17-20" morph="none" pos="punct" start_char="1405">".</TOKEN>
+</SEG>
+<SEG end_char="1493" id="segment-18" start_char="1408">
+<ORIGINAL_TEXT>With that being said I also agree some masks may be uncomfortable, but others may not.</ORIGINAL_TEXT>
+<TOKEN end_char="1411" id="token-18-0" morph="none" pos="word" start_char="1408">With</TOKEN>
+<TOKEN end_char="1416" id="token-18-1" morph="none" pos="word" start_char="1413">that</TOKEN>
+<TOKEN end_char="1422" id="token-18-2" morph="none" pos="word" start_char="1418">being</TOKEN>
+<TOKEN end_char="1427" id="token-18-3" morph="none" pos="word" start_char="1424">said</TOKEN>
+<TOKEN end_char="1429" id="token-18-4" morph="none" pos="word" start_char="1429">I</TOKEN>
+<TOKEN end_char="1434" id="token-18-5" morph="none" pos="word" start_char="1431">also</TOKEN>
+<TOKEN end_char="1440" id="token-18-6" morph="none" pos="word" start_char="1436">agree</TOKEN>
+<TOKEN end_char="1445" id="token-18-7" morph="none" pos="word" start_char="1442">some</TOKEN>
+<TOKEN end_char="1451" id="token-18-8" morph="none" pos="word" start_char="1447">masks</TOKEN>
+<TOKEN end_char="1455" id="token-18-9" morph="none" pos="word" start_char="1453">may</TOKEN>
+<TOKEN end_char="1458" id="token-18-10" morph="none" pos="word" start_char="1457">be</TOKEN>
+<TOKEN end_char="1472" id="token-18-11" morph="none" pos="word" start_char="1460">uncomfortable</TOKEN>
+<TOKEN end_char="1473" id="token-18-12" morph="none" pos="punct" start_char="1473">,</TOKEN>
+<TOKEN end_char="1477" id="token-18-13" morph="none" pos="word" start_char="1475">but</TOKEN>
+<TOKEN end_char="1484" id="token-18-14" morph="none" pos="word" start_char="1479">others</TOKEN>
+<TOKEN end_char="1488" id="token-18-15" morph="none" pos="word" start_char="1486">may</TOKEN>
+<TOKEN end_char="1492" id="token-18-16" morph="none" pos="word" start_char="1490">not</TOKEN>
+<TOKEN end_char="1493" id="token-18-17" morph="none" pos="punct" start_char="1493">.</TOKEN>
+</SEG>
+<SEG end_char="1546" id="segment-19" start_char="1495">
+<ORIGINAL_TEXT>But I do understand the reason we need to wear them.</ORIGINAL_TEXT>
+<TOKEN end_char="1497" id="token-19-0" morph="none" pos="word" start_char="1495">But</TOKEN>
+<TOKEN end_char="1499" id="token-19-1" morph="none" pos="word" start_char="1499">I</TOKEN>
+<TOKEN end_char="1502" id="token-19-2" morph="none" pos="word" start_char="1501">do</TOKEN>
+<TOKEN end_char="1513" id="token-19-3" morph="none" pos="word" start_char="1504">understand</TOKEN>
+<TOKEN end_char="1517" id="token-19-4" morph="none" pos="word" start_char="1515">the</TOKEN>
+<TOKEN end_char="1524" id="token-19-5" morph="none" pos="word" start_char="1519">reason</TOKEN>
+<TOKEN end_char="1527" id="token-19-6" morph="none" pos="word" start_char="1526">we</TOKEN>
+<TOKEN end_char="1532" id="token-19-7" morph="none" pos="word" start_char="1529">need</TOKEN>
+<TOKEN end_char="1535" id="token-19-8" morph="none" pos="word" start_char="1534">to</TOKEN>
+<TOKEN end_char="1540" id="token-19-9" morph="none" pos="word" start_char="1537">wear</TOKEN>
+<TOKEN end_char="1545" id="token-19-10" morph="none" pos="word" start_char="1542">them</TOKEN>
+<TOKEN end_char="1546" id="token-19-11" morph="none" pos="punct" start_char="1546">.</TOKEN>
+</SEG>
+<SEG end_char="1668" id="segment-20" start_char="1549">
+<ORIGINAL_TEXT>In conclusion, we both have different opinions, but the diversity in our article will give both of our opinions a voice.</ORIGINAL_TEXT>
+<TOKEN end_char="1550" id="token-20-0" morph="none" pos="word" start_char="1549">In</TOKEN>
+<TOKEN end_char="1561" id="token-20-1" morph="none" pos="word" start_char="1552">conclusion</TOKEN>
+<TOKEN end_char="1562" id="token-20-2" morph="none" pos="punct" start_char="1562">,</TOKEN>
+<TOKEN end_char="1565" id="token-20-3" morph="none" pos="word" start_char="1564">we</TOKEN>
+<TOKEN end_char="1570" id="token-20-4" morph="none" pos="word" start_char="1567">both</TOKEN>
+<TOKEN end_char="1575" id="token-20-5" morph="none" pos="word" start_char="1572">have</TOKEN>
+<TOKEN end_char="1585" id="token-20-6" morph="none" pos="word" start_char="1577">different</TOKEN>
+<TOKEN end_char="1594" id="token-20-7" morph="none" pos="word" start_char="1587">opinions</TOKEN>
+<TOKEN end_char="1595" id="token-20-8" morph="none" pos="punct" start_char="1595">,</TOKEN>
+<TOKEN end_char="1599" id="token-20-9" morph="none" pos="word" start_char="1597">but</TOKEN>
+<TOKEN end_char="1603" id="token-20-10" morph="none" pos="word" start_char="1601">the</TOKEN>
+<TOKEN end_char="1613" id="token-20-11" morph="none" pos="word" start_char="1605">diversity</TOKEN>
+<TOKEN end_char="1616" id="token-20-12" morph="none" pos="word" start_char="1615">in</TOKEN>
+<TOKEN end_char="1620" id="token-20-13" morph="none" pos="word" start_char="1618">our</TOKEN>
+<TOKEN end_char="1628" id="token-20-14" morph="none" pos="word" start_char="1622">article</TOKEN>
+<TOKEN end_char="1633" id="token-20-15" morph="none" pos="word" start_char="1630">will</TOKEN>
+<TOKEN end_char="1638" id="token-20-16" morph="none" pos="word" start_char="1635">give</TOKEN>
+<TOKEN end_char="1643" id="token-20-17" morph="none" pos="word" start_char="1640">both</TOKEN>
+<TOKEN end_char="1646" id="token-20-18" morph="none" pos="word" start_char="1645">of</TOKEN>
+<TOKEN end_char="1650" id="token-20-19" morph="none" pos="word" start_char="1648">our</TOKEN>
+<TOKEN end_char="1659" id="token-20-20" morph="none" pos="word" start_char="1652">opinions</TOKEN>
+<TOKEN end_char="1661" id="token-20-21" morph="none" pos="word" start_char="1661">a</TOKEN>
+<TOKEN end_char="1667" id="token-20-22" morph="none" pos="word" start_char="1663">voice</TOKEN>
+<TOKEN end_char="1668" id="token-20-23" morph="none" pos="punct" start_char="1668">.</TOKEN>
+</SEG>
+<SEG end_char="1832" id="segment-21" start_char="1670">
+<ORIGINAL_TEXT>Even though I think that masks aren’t very effective, I think some people should still wear them, but they may cause other problems such as respiratory infections.</ORIGINAL_TEXT>
+<TOKEN end_char="1673" id="token-21-0" morph="none" pos="word" start_char="1670">Even</TOKEN>
+<TOKEN end_char="1680" id="token-21-1" morph="none" pos="word" start_char="1675">though</TOKEN>
+<TOKEN end_char="1682" id="token-21-2" morph="none" pos="word" start_char="1682">I</TOKEN>
+<TOKEN end_char="1688" id="token-21-3" morph="none" pos="word" start_char="1684">think</TOKEN>
+<TOKEN end_char="1693" id="token-21-4" morph="none" pos="word" start_char="1690">that</TOKEN>
+<TOKEN end_char="1699" id="token-21-5" morph="none" pos="word" start_char="1695">masks</TOKEN>
+<TOKEN end_char="1706" id="token-21-6" morph="none" pos="word" start_char="1701">aren’t</TOKEN>
+<TOKEN end_char="1711" id="token-21-7" morph="none" pos="word" start_char="1708">very</TOKEN>
+<TOKEN end_char="1721" id="token-21-8" morph="none" pos="word" start_char="1713">effective</TOKEN>
+<TOKEN end_char="1722" id="token-21-9" morph="none" pos="punct" start_char="1722">,</TOKEN>
+<TOKEN end_char="1724" id="token-21-10" morph="none" pos="word" start_char="1724">I</TOKEN>
+<TOKEN end_char="1730" id="token-21-11" morph="none" pos="word" start_char="1726">think</TOKEN>
+<TOKEN end_char="1735" id="token-21-12" morph="none" pos="word" start_char="1732">some</TOKEN>
+<TOKEN end_char="1742" id="token-21-13" morph="none" pos="word" start_char="1737">people</TOKEN>
+<TOKEN end_char="1749" id="token-21-14" morph="none" pos="word" start_char="1744">should</TOKEN>
+<TOKEN end_char="1755" id="token-21-15" morph="none" pos="word" start_char="1751">still</TOKEN>
+<TOKEN end_char="1760" id="token-21-16" morph="none" pos="word" start_char="1757">wear</TOKEN>
+<TOKEN end_char="1765" id="token-21-17" morph="none" pos="word" start_char="1762">them</TOKEN>
+<TOKEN end_char="1766" id="token-21-18" morph="none" pos="punct" start_char="1766">,</TOKEN>
+<TOKEN end_char="1770" id="token-21-19" morph="none" pos="word" start_char="1768">but</TOKEN>
+<TOKEN end_char="1775" id="token-21-20" morph="none" pos="word" start_char="1772">they</TOKEN>
+<TOKEN end_char="1779" id="token-21-21" morph="none" pos="word" start_char="1777">may</TOKEN>
+<TOKEN end_char="1785" id="token-21-22" morph="none" pos="word" start_char="1781">cause</TOKEN>
+<TOKEN end_char="1791" id="token-21-23" morph="none" pos="word" start_char="1787">other</TOKEN>
+<TOKEN end_char="1800" id="token-21-24" morph="none" pos="word" start_char="1793">problems</TOKEN>
+<TOKEN end_char="1805" id="token-21-25" morph="none" pos="word" start_char="1802">such</TOKEN>
+<TOKEN end_char="1808" id="token-21-26" morph="none" pos="word" start_char="1807">as</TOKEN>
+<TOKEN end_char="1820" id="token-21-27" morph="none" pos="word" start_char="1810">respiratory</TOKEN>
+<TOKEN end_char="1831" id="token-21-28" morph="none" pos="word" start_char="1822">infections</TOKEN>
+<TOKEN end_char="1832" id="token-21-29" morph="none" pos="punct" start_char="1832">.</TOKEN>
+</SEG>
+<SEG end_char="1983" id="segment-22" start_char="1834">
+<ORIGINAL_TEXT>I do not agree that they may cause other health problems because their purpose is to protect people from diseases and infections and not to harm them.</ORIGINAL_TEXT>
+<TOKEN end_char="1834" id="token-22-0" morph="none" pos="word" start_char="1834">I</TOKEN>
+<TOKEN end_char="1837" id="token-22-1" morph="none" pos="word" start_char="1836">do</TOKEN>
+<TOKEN end_char="1841" id="token-22-2" morph="none" pos="word" start_char="1839">not</TOKEN>
+<TOKEN end_char="1847" id="token-22-3" morph="none" pos="word" start_char="1843">agree</TOKEN>
+<TOKEN end_char="1852" id="token-22-4" morph="none" pos="word" start_char="1849">that</TOKEN>
+<TOKEN end_char="1857" id="token-22-5" morph="none" pos="word" start_char="1854">they</TOKEN>
+<TOKEN end_char="1861" id="token-22-6" morph="none" pos="word" start_char="1859">may</TOKEN>
+<TOKEN end_char="1867" id="token-22-7" morph="none" pos="word" start_char="1863">cause</TOKEN>
+<TOKEN end_char="1873" id="token-22-8" morph="none" pos="word" start_char="1869">other</TOKEN>
+<TOKEN end_char="1880" id="token-22-9" morph="none" pos="word" start_char="1875">health</TOKEN>
+<TOKEN end_char="1889" id="token-22-10" morph="none" pos="word" start_char="1882">problems</TOKEN>
+<TOKEN end_char="1897" id="token-22-11" morph="none" pos="word" start_char="1891">because</TOKEN>
+<TOKEN end_char="1903" id="token-22-12" morph="none" pos="word" start_char="1899">their</TOKEN>
+<TOKEN end_char="1911" id="token-22-13" morph="none" pos="word" start_char="1905">purpose</TOKEN>
+<TOKEN end_char="1914" id="token-22-14" morph="none" pos="word" start_char="1913">is</TOKEN>
+<TOKEN end_char="1917" id="token-22-15" morph="none" pos="word" start_char="1916">to</TOKEN>
+<TOKEN end_char="1925" id="token-22-16" morph="none" pos="word" start_char="1919">protect</TOKEN>
+<TOKEN end_char="1932" id="token-22-17" morph="none" pos="word" start_char="1927">people</TOKEN>
+<TOKEN end_char="1937" id="token-22-18" morph="none" pos="word" start_char="1934">from</TOKEN>
+<TOKEN end_char="1946" id="token-22-19" morph="none" pos="word" start_char="1939">diseases</TOKEN>
+<TOKEN end_char="1950" id="token-22-20" morph="none" pos="word" start_char="1948">and</TOKEN>
+<TOKEN end_char="1961" id="token-22-21" morph="none" pos="word" start_char="1952">infections</TOKEN>
+<TOKEN end_char="1965" id="token-22-22" morph="none" pos="word" start_char="1963">and</TOKEN>
+<TOKEN end_char="1969" id="token-22-23" morph="none" pos="word" start_char="1967">not</TOKEN>
+<TOKEN end_char="1972" id="token-22-24" morph="none" pos="word" start_char="1971">to</TOKEN>
+<TOKEN end_char="1977" id="token-22-25" morph="none" pos="word" start_char="1974">harm</TOKEN>
+<TOKEN end_char="1982" id="token-22-26" morph="none" pos="word" start_char="1979">them</TOKEN>
+<TOKEN end_char="1983" id="token-22-27" morph="none" pos="punct" start_char="1983">.</TOKEN>
+</SEG>
+<SEG end_char="2116" id="segment-23" start_char="1985">
+<ORIGINAL_TEXT>Even though we do not have the same opinion we can still get along, but healthy arguments will always occur in an opinionated piece.</ORIGINAL_TEXT>
+<TOKEN end_char="1988" id="token-23-0" morph="none" pos="word" start_char="1985">Even</TOKEN>
+<TOKEN end_char="1995" id="token-23-1" morph="none" pos="word" start_char="1990">though</TOKEN>
+<TOKEN end_char="1998" id="token-23-2" morph="none" pos="word" start_char="1997">we</TOKEN>
+<TOKEN end_char="2001" id="token-23-3" morph="none" pos="word" start_char="2000">do</TOKEN>
+<TOKEN end_char="2005" id="token-23-4" morph="none" pos="word" start_char="2003">not</TOKEN>
+<TOKEN end_char="2010" id="token-23-5" morph="none" pos="word" start_char="2007">have</TOKEN>
+<TOKEN end_char="2014" id="token-23-6" morph="none" pos="word" start_char="2012">the</TOKEN>
+<TOKEN end_char="2019" id="token-23-7" morph="none" pos="word" start_char="2016">same</TOKEN>
+<TOKEN end_char="2027" id="token-23-8" morph="none" pos="word" start_char="2021">opinion</TOKEN>
+<TOKEN end_char="2030" id="token-23-9" morph="none" pos="word" start_char="2029">we</TOKEN>
+<TOKEN end_char="2034" id="token-23-10" morph="none" pos="word" start_char="2032">can</TOKEN>
+<TOKEN end_char="2040" id="token-23-11" morph="none" pos="word" start_char="2036">still</TOKEN>
+<TOKEN end_char="2044" id="token-23-12" morph="none" pos="word" start_char="2042">get</TOKEN>
+<TOKEN end_char="2050" id="token-23-13" morph="none" pos="word" start_char="2046">along</TOKEN>
+<TOKEN end_char="2051" id="token-23-14" morph="none" pos="punct" start_char="2051">,</TOKEN>
+<TOKEN end_char="2055" id="token-23-15" morph="none" pos="word" start_char="2053">but</TOKEN>
+<TOKEN end_char="2063" id="token-23-16" morph="none" pos="word" start_char="2057">healthy</TOKEN>
+<TOKEN end_char="2073" id="token-23-17" morph="none" pos="word" start_char="2065">arguments</TOKEN>
+<TOKEN end_char="2078" id="token-23-18" morph="none" pos="word" start_char="2075">will</TOKEN>
+<TOKEN end_char="2085" id="token-23-19" morph="none" pos="word" start_char="2080">always</TOKEN>
+<TOKEN end_char="2091" id="token-23-20" morph="none" pos="word" start_char="2087">occur</TOKEN>
+<TOKEN end_char="2094" id="token-23-21" morph="none" pos="word" start_char="2093">in</TOKEN>
+<TOKEN end_char="2097" id="token-23-22" morph="none" pos="word" start_char="2096">an</TOKEN>
+<TOKEN end_char="2109" id="token-23-23" morph="none" pos="word" start_char="2099">opinionated</TOKEN>
+<TOKEN end_char="2115" id="token-23-24" morph="none" pos="word" start_char="2111">piece</TOKEN>
+<TOKEN end_char="2116" id="token-23-25" morph="none" pos="punct" start_char="2116">.</TOKEN>
+</SEG>
+<SEG end_char="2185" id="segment-24" start_char="2119">
+<ORIGINAL_TEXT>If you want a picture to show with your comment, go get a gravatar.</ORIGINAL_TEXT>
+<TOKEN end_char="2120" id="token-24-0" morph="none" pos="word" start_char="2119">If</TOKEN>
+<TOKEN end_char="2124" id="token-24-1" morph="none" pos="word" start_char="2122">you</TOKEN>
+<TOKEN end_char="2129" id="token-24-2" morph="none" pos="word" start_char="2126">want</TOKEN>
+<TOKEN end_char="2131" id="token-24-3" morph="none" pos="word" start_char="2131">a</TOKEN>
+<TOKEN end_char="2139" id="token-24-4" morph="none" pos="word" start_char="2133">picture</TOKEN>
+<TOKEN end_char="2142" id="token-24-5" morph="none" pos="word" start_char="2141">to</TOKEN>
+<TOKEN end_char="2147" id="token-24-6" morph="none" pos="word" start_char="2144">show</TOKEN>
+<TOKEN end_char="2152" id="token-24-7" morph="none" pos="word" start_char="2149">with</TOKEN>
+<TOKEN end_char="2157" id="token-24-8" morph="none" pos="word" start_char="2154">your</TOKEN>
+<TOKEN end_char="2165" id="token-24-9" morph="none" pos="word" start_char="2159">comment</TOKEN>
+<TOKEN end_char="2166" id="token-24-10" morph="none" pos="punct" start_char="2166">,</TOKEN>
+<TOKEN end_char="2169" id="token-24-11" morph="none" pos="word" start_char="2168">go</TOKEN>
+<TOKEN end_char="2173" id="token-24-12" morph="none" pos="word" start_char="2171">get</TOKEN>
+<TOKEN end_char="2175" id="token-24-13" morph="none" pos="word" start_char="2175">a</TOKEN>
+<TOKEN end_char="2184" id="token-24-14" morph="none" pos="word" start_char="2177">gravatar</TOKEN>
+<TOKEN end_char="2185" id="token-24-15" morph="none" pos="punct" start_char="2185">.</TOKEN>
+</SEG>
+<SEG end_char="2211" id="segment-25" start_char="2188">
+<ORIGINAL_TEXT>Email Address (required)</ORIGINAL_TEXT>
+<TOKEN end_char="2192" id="token-25-0" morph="none" pos="word" start_char="2188">Email</TOKEN>
+<TOKEN end_char="2200" id="token-25-1" morph="none" pos="word" start_char="2194">Address</TOKEN>
+<TOKEN end_char="2202" id="token-25-2" morph="none" pos="punct" start_char="2202">(</TOKEN>
+<TOKEN end_char="2210" id="token-25-3" morph="none" pos="word" start_char="2203">required</TOKEN>
+<TOKEN end_char="2211" id="token-25-4" morph="none" pos="punct" start_char="2211">)</TOKEN>
+</SEG>
+<SEG end_char="2228" id="segment-26" start_char="2214">
+<ORIGINAL_TEXT>Speak your mind</ORIGINAL_TEXT>
+<TOKEN end_char="2218" id="token-26-0" morph="none" pos="word" start_char="2214">Speak</TOKEN>
+<TOKEN end_char="2223" id="token-26-1" morph="none" pos="word" start_char="2220">your</TOKEN>
+<TOKEN end_char="2228" id="token-26-2" morph="none" pos="word" start_char="2225">mind</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>
