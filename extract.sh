@@ -23,11 +23,6 @@ if [ ! -e ${data_root}/rsd ]; then
     echo "missing ${data_root}/rsd"
     exit 1
 fi
-dir_count=$(ls ${data_root} | wc -l)
-if [ "$dir_count" -ne "2" ]; then
-    echo "unexpected dirs under ${data_root}; only ltf nd rsd allowed"
-    exit 1
-fi
 
 # ltf source folder path
 ltf_source=${data_root}/ltf
