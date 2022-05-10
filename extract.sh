@@ -42,7 +42,7 @@ core_nlp_output_path=${data_root}/corenlp
 genie_dir=${data_root}/genie
 # qnode linking
 qnode_dir=${data_root}/qnode
-mkdir -p ${qnode_dir}
+docker run --rm -v ${data_root}:${data_root} blendernlp/covid-claim-radar:ke mkdir -p ${qnode_dir}
 el_results_cs=${qnode_dir}/el_entity.cs
 el_results_tab=${qnode_dir}/el_entity.tab
 entity_coref_results_cs=${qnode_dir}/coref_entity.cs
