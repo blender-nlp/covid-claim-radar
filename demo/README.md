@@ -1,6 +1,6 @@
 # Demo
 
-This is the demo code of paper "COVID-19 Claim Radar: A Structured Claim Extraction and Tracking System". You can check our deployed demo [here](http://18.221.187.153/)
+This is the demo for paper "COVID-19 Claim Radar: A Structured Claim Extraction and Tracking System". You can check our deployed demo [here](http://18.221.187.153/)
 
 
 
@@ -98,5 +98,5 @@ npm run build
    go run hw.go
    ```
 
-   This may need an hour to build. Once the build is finish, you will find that the website is working normally.
+   This may need an hour. Once the build is finished, you will find that the website is working normally.
 
