@@ -1,0 +1,219 @@
+
+Ubiquitous Far-Ultraviolet Light Could Control the Spread of Covid-19 and Other Pandemics
+
+
+
+Roko Mijic, Alexey Turchin
+
+Epistemic status: Many different uncertainties here, but the idea has some good evidence in favor of it and a high potential payoff.
+
+
+Tl;dr: We should urgently investigate putting special human-safe Far-UVC lamps all over our built environment to ‘kill’ virus particles whilst they are in the air, thereby vastly reducing covid-19 spread.
+
+Inspired by: https://www.nature.com/articles/s41598-018-21058-w
+
+One of the most promising and neglected ideas for combating the spread of covid-19 is the use of ubiquitous ultraviolet light in our built environment (trains, offices, hospitals, etc).
+Ultraviolet light is already being used as a disinfecting agent across the world; it goes by the acronym UVGI - "Ultraviolet germicidal irradiation".
+The energetic photons of UVC light break chemical bonds in DNA and kill/inactivate both viruses and bacteria.
+
+Ultraviolet light on earth exists on a spectrum between 200nm and 400nm.
+Light above 400nm is blue visible light.
+Light below 200nm is called "vacuum UV" because it is strongly absorbed by the oxygen in ordinary air and therefore cannot exist except in a vacuum or some other non-air medium.
+Within the 200-400nm range we have UVA, UVB and UVC, and at the short-wave edge of the UVC band we have "Far-UVC", from roughly 200nm–220 nm.
+
+
+Safety considerations
+
+
+Human beings are also vulnerable to UV radiation.
+It causes skin cancer and serious eye damage.
+
+However, recent research suggests that the Far-UVC band is actually safe for human skin because it cannot penetrate through the thin layer of dead skin cells on the surface of our skin.
+
+This means that it might be possible to mount a long-term response to covid and other pathogens by constantly illuminating our built environment with light from specifically the Far-UVC band.
+If the Far-UVC light is indeed safe for humans, the Far-UVC could be on at all times and could destroy or deactivate viral particles before they can spread from person to person.
+
+Why hasn’t this already been considered by relevant authorities?
+Far-UVC appears in a literature review by WHO, but it is not currently being acted upon as the amount of evidence in favor of safety and efficacy is small.
+
+There is some uncertainty about whether Ozone generation by this band (200nm-220nm) would be problematic.
+Ozone is not great for your health.
+However, it seems to be the case that the 200-220nm band is not a strong producer of Ozone.
+In addition, UV degradation of surfaces might result from chronic UV exposure.
+
+Balancing harms of action and inaction
+
+
+Even if Far-UVC is somewhat harmful it might still be a good idea to implement.
+Small harms from Far-UVC light might be much less bad than large harms from covid-19, or from the economic damage caused by the lockdown which one author estimates to be roughly $10 million per minute, plus much personal hardship which will be caused by the forthcoming recession.
+
+Furthermore, UV light is easier to defend a person against than a virus.
+Sun-creams, clothing and eyewear that defend against UVC may be less bad than a semi-permanent lockdown or an exponentially growing covid-19 outbreak that results in millions or tens of millions of deaths.
+UV in the built environment could even be managed intelligently - computer vision could identify where the people were and turn on UV lights only in unoccupied areas, though such a project would at best be ready by the start of 2021 (and then only with wartime levels of effort and purpose).
+
+If the safety claims of Far-UVC are partially true rather than fully true, a combination of using Far-UVC with physical protection like eyewear may still cause only acceptable losses to cancer and eye damage.
+In the longer term, such "almost safe" Far-UVC could be combined with intelligent management at various levels of granularity; imagine a lift that is bathed in Far-UVC every time people leave it, or "walls" of Far-UVC separating people that automatically turn off momentarily when a person walks through them.
+The ultimate system might even adjust the power of the Far-UVC using AI.
+
+Epidemiological considerations
+
+
+Even an ideal Far-UVC solution that was harmless to humans, 100% lethal to covid-19 particles and easy to deploy at scale might not be sufficient to reduce R to exactly 0.
+But the key question is whether it could reduce R below 1 whilst also allowing most economic activity.
+An easy preliminary experiment to run would be to put virus samples in mouse cages - perhaps in aerosolized form - treat some cages with Far-UVC, leave other cages alone, see if infection rates go down in the treated cages.
+
+This is an important source of uncertainty and further research is needed.
+
+Scaleup considerations
+
+
+Even a perfect system is useless if it cannot be scaled up and implemented across the globe.
+Far-UVC can be produced from Krypton Chloride (Kr-Cl) Excimer Lamps, but modern Aluminium Nitride (AlN) Far-UVC LEDs are a better solution for the long term.
+In the even longer term, collimated Far-UVC could be produced by lasers.
+This is an important source of uncertainty and further research and expert input is needed.
+
+Power considerations:
+
+The amount of Far-UVC energy required to kill 99% of the viral particles is estimated to be around 20J/m^2.
+With a power of, say 5W/m^2, a system would need 4 seconds to mostly sterilize a viral aerosol that could travel from person to person.
+However a lower power system would still have some benefits - we know that people can be infected by air that was contaminated 30 minutes earlier.
+Higher power in these wavelengths could be difficult to achieve with Kr-Cl Excimer Lamps as the overall efficiency from electricity to Far-UVC is ~10% (White's Handbook of Chlorination and Alternative Disinfectants, under figure 17.14).
+AlN Far-UVC LEDs would likely have a much higher conversion efficiency.
+
+Generality
+
+
+One of the greatest benefits of Far-UVC is that it would be a very general weapon against pathogens.
+Far-UVC kills/deactivates bacteria, viruses and other pathogens.
+MRSA, C-DIFF, influenza, etc are all killed by UVC, as is the next problematic pathogen, whatever it is.
+
+Summary
+
+
+There are many different reasons that Ubiquitous Far-UVC might not work out, but if it did work out it could have huge benefits.
+For this reason the authors believe that it should get more attention at this critical time.
+Scaleup and safety and efficacy trials must all be carried out as quickly as possible, preferably in parallel.
+More importantly, the idea needs more attention from experts in the relevant fields - UV physics, epidemiology, and people who study the etiology of skin cancers.
+As of writing there are reports that the US government estimates the epidemic could last for 18 months, so a plan like Far-UVC that will take months to implement may still be a critical component of a response later this year.
+
+Appendix.
+Other ways to use UV light to fight coronavirus
+
+
+One of the explanations of the flu and other infections seasonality is that the Sun's UV kills viruses.
+However, people spend a lot of time indoors even during summer, and especially during self-isolation.
+Most of our infections are happening indoors: at home, in transport and in working places.
+UV from Sun could be part of the explanation of the lower instances of coronavirus in southern countries.
+
+If we replace light bulbs everywhere with light sources which also emit UV light of some special wavelength, we will kill most of the airborne viruses and will clean fomites.
+Thus, we will create artificial summer everywhere and will lower R0 of coronavirus below 1.
+
+The main obstacles are the duration of exposition and possible harm to people.
+Recently in Moscow 20 children had burns in their eyes after a school teacher forgot to turn off the UV cleaner in the classroom.
+
+There are several other ideas, besides Far-UVC light, to prevent human eye and skin damage:
+
+1)
+
+Intellectually controlled UV lighting
+
+.
+UV light source turns on the maximum level when there are no people in the room.
+We already have motion detectors for lighting, but here they will work in reverse.
+Light with motion detection could also direct light in directions, where there is no motion, so no people.
+On the video, one can see UV light sources on sale with motion detectors:
+
+The power of light could be temporarily increased after the sound of sneezing.
+But it will make all the system more complex and its large-scale implementation will take longer time.
+If Krypton Chloride Excimer bulbs are used, their lifetime is not great, so they can’t run constantly.
+But if we can get the Aluminium Nitride LEDS then lifetime and efficiency will be better.
+
+2)
+
+Not "too strong" sources of UV
+
+, which are producing Sun’s intensity of UV and which act mostly on fomites.
+As we know, humans can survive at least 1 hour of sunlight UV exposure without strong damage (on beaches).
+We could use it as a reference point to calibrating UV sources.
+
+3)
+
+Strong UV lighting + gloves.
+
+Everyone will wear gloves, masks and glasses outside.
+In that case, no skin will be exposed to the UV lighting (and to viruses).
+Wearing PPE will be effective anyway.
+Women in the East are wearing full cover clothes, and they are ok.
+
+4)
+
+Wearable headlight UV
+
+will direct UV light in the opposite direction to the person’s eyes but will cover everything he inhales or touches, as well as his hands.
+The light will be strongest near the human face (but not affecting the face), and will attack droplets which the person is about to inhale.
+However, the light will dissipate in the distance of 1- 2 meters to safer levels.
+UV headlamps already exist and on sale, but may be not strong enough for disinfection.
+It will be especially effective if wearables Far UVC light sources will be used.
+
+5)
+
+UV flashlight
+
+- Torch that emits UV radiation in a wide beam.
+Runs off main power.
+Could be used by cleaners as an additional step when cleaning surfaces.
+
+Pros:
+
+Simpler, easier, cheaper and faster to build than other solutions
+
+Less harm to people, as UV light can be directed, and is not always on
+
+Proving ground (an MVP, in startup terms) for more advanced implementations
+
+Mobile; could be used in multiple locations
+
+
+Cons:
+
+Less effective than always on UV lights and lamps
+
+Requires additional time/effort on top of normal cleaning routines
+
+
+Artificial light exists currently almost everywhere, where contemporary humans live: in homes, in any shop, in cars and even on the streets.
+All we need is to replace electric lamps.
+Large amounts of lamps could be manufactured in 0.5-1 year, and smaller amounts for critical places like elevators in the even shorter notice.
+
+However, there is a problem of actual testing the technology until it will be approved as safe and effective by the FDA.
+It is technically difficult to make deep UV (220nm) light-emitting diodes.
+
+A good start will be to put UV lights in the places of short use: elevators, shops, restrooms.
+
+It is much more convenient to wear protection against light than protection against viruses, and after a few months of lockdown, the idea of returning to almost normal life but with sun cream and/or gloves will be quite nice.
+
+References
+
+
+Welch, D., Buonanno, M., Grilj, V.
+
+et al.
+
+Far-UVC light: A new tool to control the spread of airborne-mediated microbial diseases.
+
+Sci Rep
+
+8, 2752 (2018).
+https://doi.org/10.1038/s41598-018-21058-w
+
+Narita K, Asano K, Morimoto Y, Igarashi T, Nakane A (2018) Chronic irradiation with 222- nm UVC light induces neither DNA damage nor epidermal lesions in mouse skin, even at high doses.
+PLoS ONE 13(7): e0201259.
+https://doi.org/ 10.1371/journal.pone.0201259
+
+Willie Taylor, Emily Camilleri, D.
+Levi Craft, George Korza, Maria Rocha Granados, Jaliyah Peterson, Renata Szczpaniak, Sandra K. Weller, Ralf Moeller, Thierry Douki, Wendy W.K. Mok, Peter Setlow DNA damage Kills Bacterial Spores and Cells Exposed to 222 nm UV Radiation Applied and Environmental Microbiology Feb 2020, AEM.03039-19; DOI: 10.1128/AEM.03039-19
+
+Colorado company uses UV lighting technology to kill 99.9 percent of bacteria and viruses.
+Fox Denver, 7 Macrh 2020
+
+
