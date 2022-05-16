@@ -63,11 +63,11 @@ Python3
 
    where ``{PROJ_DIR}`` denotes the path of this demo.
 
-   3. Start nginx server
+3. Start nginx server
 
-      ```bash
-      sudo service nginx start
-      ```
+   ```bash
+   sudo service nginx start
+   ```
 
 
 
@@ -94,7 +94,7 @@ npm run build
 2. Deploy
 
    ```bash
-   cd ~/demo/backend
+   cd {PROJ_DIR}/demo/backend
    go run hw.go
    ```
 
