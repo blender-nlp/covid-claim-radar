@@ -1,0 +1,101 @@
+
+Chinese researchers cite clues that cats and dogs may transmit COVID-19
+
+
+
+
+Ever since the world became aware of the respiratory infection known as COVID-19 in December, some amount of attention has focused on figuring out how it all began.
+One of the main assumptions is the disease spread from animals sold at a live-animal marketplace in the capital city of Hubei province, Wuhan, in China.
+Among the possible culprits is the endangered southeast Asian ant-eater known as a pangolin.
+
+Coronavirus: Business and technology in a pandemic
+
+
+None of that's certain, however; George Gao, who is the director-general of the Chinese Center for Disease Control and Prevention, told
+
+Science Magazine
+
+'s Jon Cohen last week that it's possible the market was just a stop along the way, not the origin.
+"Now, I think the market could be the initial place, or it could be a place where the virus was amplified," Gao told Cohen.
+"So that's a scientific question.
+There are two possibilities."
+
+Without answering the question of how it all began, a new bit of research this week suggests a lot of mammals, not just pangolins, could play a role -- including cats and dogs.
+
+In a paper posted on the bioRxiv pre-print server, called Atlas of ACE2 gene expression in mammals reveals novel insights in the transmission of SARS-Cov-2, authors Kun Sun, Liuqi Gu, Li Ma, and Yunfeng Duan, who are affiliated with the Shenzhen Bay Laboratory in Shenzhen and the Beijing Huayuan Academy of Biotechnology in Beijing, describe having performed a comparative analysis of "expression patterns" of certain genes in the biology of mammals.
+
+The US Centers for Disease Control have stated that it does not have evidence that "companion animals, including pets, can spread COVID-19."
+The CDC has an extensive set of materials about pets and the disease and how to stay safe.
+
+Despite that assertion by the CDC, the Chinese researchers believe they've found genetic evidence linking cats, dogs, and a host of other mammals to the disease.
+"Our analyses suggest a high possibility that cats and dogs can host SARS-CoV-2," they write.
+They go further, speculating that "it is likely that cats and dogs may have contributed to the COVID-19 pandemic."
+
+As the paper is posted on a pre-print server, it has not yet been vetted by peers, so there should be an added degree of caution about accepting any findings of the paper because it hasn't yet been subjected to the usual amount of scrutiny of scientific research.
+
+To perform their detective work, the authors started with something called the ACE2, the angiotensin-converting enzyme 2.
+It is a protein on the surface of cells that is believed to be where the virus that causes COVID-19, the coronavirus, or SARS-CoV-2, attaches to cells to infect them -- its receptor, as it's called.
+Intense research is ongoing to understand the connection.
+
+The authors searched for how prevalent this protein is in other animals compared to humans.
+They note what they deem a "high level" of the protein's expression in cats and dogs and others, and they conclude that these species have "tissues susceptible to SARS-CoV-2 infection."
+
+To study that, they scoured databases of the transcriptome -- the totality of messenger RNA in the body -- of various species.
+The messenger RNA is the nucleic acid molecules that deliver the DNA's instructions to the cell's protein-making factories.
+It's a clue, in other words, to what's being built in the body and to what degree.
+The databases they looked at, assembled over the years by numerous researchers, cover humans and bats and pangolins, as well as cats, dogs, hamsters, pigs, goats, and a few other species.
+
+They used software tools to perform analysis on the RNA records across species -- specifically, Ktrim, a program to clean up the data that is distributed on Github); and another open-source package' called STAR that is used to align the sections of RNA so that sense can be made of them.
+
+This comparison of sequences of RNA leads the authors to conclude that "Mammalian ACE2 genes are highly conserved across lineages and exhibit broad expression patterns," meaning the protein is prevalent across many mammals.
+"Most notably, our analyses revealed that ACE2 expression levels are particularly high in cats and dogs," they write.
+"Especially in cats, expression levels in top four ACE2 expression hotspot tissues are all magnitudes higher than any other mammals examined."
+
+The authors note dogs and cats' skin and cats' ears have high levels of expression of the ACE2 protein.
+That leads them to conclude: "These exterior body parts makes them particularly likely to host SARS-CoV-2 and pass on to humans via skin to skin contact."
+
+One question that requires greater scrutiny is whether simply having an ACE2 protein expressed at a high level in a creature is really evidence the animal can become infected.
+It's conceivable that ACE2 doesn't work the same way in a cat as it does in a person.
+
+There's been both concern and substantial skepticism about pets as a source of the disease.
+Science's David Grimm reported this week that multiple labs are coming up with animal-specific tests for COVID-19 after the first case was found of a cat with the disease.
+Grimm previously interviewed Shelley Rankin, a microbiologist at the University of Pennsylvania School of Veterinary Medicine in Philadelphia, who cast doubt on the sharing of the disease between humans and pets.
+"Cats and dogs are mammals too," Rankin told Grimm.
+"They have many of the same types of receptors on their cells that we do.
+So the virus could theoretically attach to these receptors.
+But will it enter their cells and replicate?
+Probably not."
+
+ZDNet
+
+followed up with the researchers of the current paper, to ask how certain they can be that transmission to or from cats and dogs can happen, given that the ACE2 protein might function differently in different species.
+
+"Although there is a high degree of conservation of ACE2 across mammals, can we be certain that ACE2 operates in the same way as a receptor for COVID-19 in all mammals?"
+
+ZDNet
+
+asked the authors.
+"Perhaps it is responsible for humans but not in cats or dogs?
+(The ACE2 might not bind in the same way in other mammals, so it might not facilitate virus entry?)."
+
+In an email, lead author Kun Sun replied and cited prior work that shows that ACE2 can be the way SARS-CoV-2 infects "many species," including a
+
+Nature
+
+paper at the beginning of February.
+Sun also cited a 2006 article in the Journal of Virology showing that the related SARS virus "uses ACE2 to infect cats and ferrets," Sun described the findings.
+
+Sun goes on to write: "We believe that the high conservation of ACE2 provides the molecular basis for the virus to be able to infect into various mammals."
+
+"However, it is also possible that SARS-Cov-2 have other receptors in specific mammals, but definitely ACE2 could serve as a functional receptor in most species," Sun added.
+
+Other Chinese researchers have reached different conclusions.
+
+Nature
+
+'s Smriti Mallapaty on Wednesday reported that Harbin Veterinary Research Institute in China deliberately infected laboratory animals with SARS-CoV-2 and found that cats were able to pass the viral RNA to other cats in the same cage, but only to a limited extent, and none of the cats showed disease symptoms.
+The study found dogs are "less susceptible to the virus."
+
+Given the disparity of perspectives between researchers and between official outfits such as the CDC, further investigation is probably necessary to determine if a mechanism is operating with ACE2 in cats and dogs and other mammals in the same way that it appears to be in people.
+
+
