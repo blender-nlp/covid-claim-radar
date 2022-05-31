@@ -68,7 +68,7 @@ docker run --rm -i -v ${data_root}:${data_root} -w /oneie --gpus device=${gpu_de
     /opt/conda/bin/python \
     /oneie/predict.py -i ${ltf_source} -o ${data_root} -l ${lang}
 # Time augmentation
-docker run --rm -v ${data_root}:${data_root} -i blendernlp/covid-claim-radar:ke \
+docker run --gpus device=${gpu_device} --rm -v ${data_root}:${data_root} -i blendernlp/covid-claim-radar:ke \
     /bin/bash /preprocessing/preprocess.sh ${rsd_source} ${ltf_source} ${rsd_file_list} ${core_nlp_output_path}
 docker run --rm -v ${data_root}:${data_root} -w /stanford-corenlp-aida_0 -i limanling/aida-tools \
     java -mx50g -cp '/stanford-corenlp-aida_0/*' edu.stanford.nlp.pipeline.StanfordCoreNLP \
@@ -77,7 +77,7 @@ docker run --rm -v ${data_root}:${data_root} -w /stanford-corenlp-aida_0 -i lima
     -filelist ${rsd_file_list} \
     -properties StanfordCoreNLP_${lang}.properties \
     -outputDirectory ${core_nlp_output_path}
-docker run --rm -v ${data_root}:${data_root} -i blendernlp/covid-claim-radar:ke \
+docker run --gpus device=${gpu_device} --rm -v ${data_root}:${data_root} -i blendernlp/covid-claim-radar:ke \
     /bin/bash /typing/typing_pipeline.sh \
     ${lang} ${ltf_source} ${rsd_source} ${core_nlp_output_path} ${oneie_entity_cs} ${oneie_relation_cs} ${oneie_event_cs} ${filler_coarse} ${ie_entity_cs} ${ie_relation_cs} ${ie_event_cs}
 
@@ -137,6 +137,6 @@ docker run --rm -v ${data_root}:${data_root} laituan245/aida_postprocess \
         --final_event_cs=${final_event_cs}
 
 # AIF converter
-docker run --rm -v ${data_root}:${data_root} -v ${parent_child_tab_path}:${parent_child_tab_path} blendernlp/covid-claim-radar:ke \
+docker run --gpus device=${gpu_device} --rm -v ${data_root}:${data_root} -v ${parent_child_tab_path}:${parent_child_tab_path} blendernlp/covid-claim-radar:ke \
     /bin/bash /postprocessing/postprocessing.sh \
     ${lang} ${data_root} ${parent_child_tab_path} ${claim_qnode_json} ${final_entity_cs} ${final_relation_cs} ${final_event_cs} ${filler_coarse} ${final_cs} ${ttl_output}
