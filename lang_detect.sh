@@ -39,7 +39,7 @@ docker run --rm -v ${output_dir_es}:${output_dir_es} blendernlp/covid-claim-rada
     /opt/conda/envs/aida_tmp/bin/python /preprocessing/rsd2ltf.py --seg_option nltk+linebreak --tok_option nltk_wordpunct --extension .rsd.txt \
     ${output_dir_es}/rsd ${output_dir_es}/ltf
 
-# run extract.sh
-/bin/bash ./extract.sh en ${output_dir_en} ${query_root} ${parent_child_tab} ${gpu_device}
-/bin/bash ./extract.sh ru ${output_dir_ru} ${query_root} ${parent_child_tab} ${gpu_device}
-/bin/bash ./extract.sh es ${output_dir_es} ${query_root} ${parent_child_tab} ${gpu_device}
+# # run extract.sh
+# /bin/bash ./extract.sh en ${output_dir_en} ${query_root} ${parent_child_tab} ${gpu_device}
+# /bin/bash ./extract.sh ru ${output_dir_ru} ${query_root} ${parent_child_tab} ${gpu_device}
+# /bin/bash ./extract.sh es ${output_dir_es} ${query_root} ${parent_child_tab} ${gpu_device}
