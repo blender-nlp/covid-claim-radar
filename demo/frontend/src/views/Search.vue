@@ -4,14 +4,17 @@
       <span class="covid-title">Covid-19 Claim Radar</span>
       <!-- <search-input @doSearch="search"></search-input> -->
       <div style="margin-left: 15%">
-        <el-row :gutter="20">
-          <el-col :span="4"><el-row><span class="covid-text">Claimer</span></el-row><el-row><claimer-drop-down @claimerChange="myClaimerChange" :value="claimer"></claimer-drop-down></el-row></el-col>
-          <el-col :span="4"><el-row><span class="covid-text">Affiliation</span></el-row><el-row><affliation-drop-down @affiliationChange="myAffiliationChange" :value="affiliation"></affliation-drop-down></el-row></el-col>
-          <el-col :span="4"><el-row><span class="covid-text">Object</span></el-row><el-row><object-drop-down @objectChange="myObjectChange" :value="object"></object-drop-down></el-row></el-col>
-          <el-col :span="4"><el-row><span class="covid-text">Location</span></el-row><el-row><location-drop-down @locationChange="myLocationChange" :value="location"></location-drop-down></el-row></el-col>
-          <el-col :span="4"><el-row><span class="covid-text">Topic</span></el-row><el-row><topic-drop-down @topicChange="myTopicChange" :value="topic"></topic-drop-down></el-row></el-col>
-        </el-row>
-        <el-col :span="3" style="margin-left: 33%; margin-top: 2%"><el-button type="primary" @click.native="search">Search</el-button></el-col>
+        <div id="div-left-search"><el-row><span class="covid-text">Claimer</span></el-row><el-row><claimer-drop-down @claimerChange="myClaimerChange" :value="claimer"></claimer-drop-down></el-row></div>
+        <div id="div-left-search"><el-row><span class="covid-text">Affiliation</span></el-row><el-row><affliation-drop-down @affiliationChange="myAffiliationChange" :value="affiliation"></affliation-drop-down></el-row></div>
+        <div id="div-left-search"><el-row><span class="covid-text">Object</span></el-row><el-row><object-drop-down @objectChange="myObjectChange" :value="object"></object-drop-down></el-row></div>
+        <div id="div-left-search"><el-row><span class="covid-text">Location</span></el-row><el-row><location-drop-down @locationChange="myLocationChange" :value="location"></location-drop-down></el-row></div>
+        <div id="div-left-search"><el-row><span class="covid-text">Topic</span></el-row><el-row><topic-drop-down @topicChange="myTopicChange" :value="topic"></topic-drop-down></el-row></div>
+        <div id="div-left-search"><el-row><span class="covid-text">&nbsp;</span></el-row><el-row><el-button type="primary" @click.native="search">Search</el-button></el-row></div>
+        <!-- <el-col :span="3" style="margin-left: 33%; margin-top: 2%"><el-button type="primary" @click.native="search">Search</el-button></el-col> -->
+      </div>
+      <br style="clear: both;">
+      <div id="div-top-search">
+        <el-button type="primary" @click.native="goExtract">Real-Time Extaction Interface</el-button>
       </div>
       <!-- <h2 v-show="err"> Oops! 找不到你想要的Gif </h2> -->
       <!-- <img-gallery v-bind:imgList="imgList"></img-gallery> -->
@@ -87,6 +90,9 @@ export default {
         this.$router.push({ name: 'list', params: { firstCla: this.claimer, firstAff: this.affiliation, firstObj: this.object, firstLoc: this.location, firstTab: this.tablelist, firstPages: response.data.pages, firstTopics: response.data.topics, firstFilterTopics: this.topic } })
       })
     },
+    goExtract: function () {
+      this.$router.push({ name: 'extract', params: { } })
+    },
     myClaimerChange: function (val) {
       this.claimer = val
     },
@@ -116,6 +122,14 @@ export default {
 
 </script>
 <style>
+#div-left-search{
+  float: left;
+  margin-left: 3%;
+}
+#div-top-search{
+  float: top;
+  margin-top: 3%;
+}
 .covid-title {
   font-weight: bold;
   color: rgb(255, 255, 255);

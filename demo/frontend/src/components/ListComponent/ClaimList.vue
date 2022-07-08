@@ -2,9 +2,11 @@
   <el-table
     :data="tableDataProps"
     stripe
+    height="770"
     style="width: 100%"
     @cell-click="cellClick"
     @filter-change="changeFilter"
+    @header-click="headerClick"
     ref="table_child"
     >
     <el-table-column
@@ -95,19 +97,22 @@ export default {
     // rowClick: function (content) {
     //   this.$emit('rowClicked', content)
     // },
+    headerClick: function (col) {
+      this.$emit('headerClicked', col.label)
+    },
     cellClick: function (content, colInfo) {
       if (colInfo.label == 'Sentence') {
         // this.$emit('rowClicked', content)
       } else if (colInfo.label == 'Topic') {
         // this.$emit('rowClicked', content)
       } else if (colInfo.label == 'Claimer') {
-        if(content.claimer_qnode.startsWith('Q')) {
+        if (content.claimer_qnode.startsWith('Q')) {
           this.hrefClick(content.claimer_qnode)
         }
       } else if (colInfo.label == 'Source') {
         this.$emit('sourceClicked', content)
       } else if (colInfo.label == 'Claim Object') {
-        if(content.x_var_qnode.startsWith('Q')) {
+        if (content.x_var_qnode.startsWith('Q')) {
           this.hrefClick(content.x_var_qnode)
         }
       }

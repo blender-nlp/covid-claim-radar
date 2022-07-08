@@ -6,17 +6,24 @@
         </p>
         <!-- <search-input @doSearch="search"></search-input> -->
         <div style="margin-left: 0%">
-            <el-row :gutter="20">
-            <el-col :span="3"><el-row><span class="covid-text-black">Claimer</span></el-row><el-row><claimer-drop-down @claimerChange="myClaimerChange" :value="claimer"></claimer-drop-down></el-row></el-col>
-            <el-col :span="3"><el-row><span class="covid-text-black">Claimer Affiliation</span></el-row><el-row><affliation-drop-down  @affiliationChange="myAffiliationChange" :value="affiliation"></affliation-drop-down></el-row></el-col>
-            <el-col :span="3"><el-row><span class="covid-text-black">Claim Object</span></el-row><el-row><object-drop-down  @objectChange="myObjectChange" :value="object"></object-drop-down></el-row></el-col>
-            <el-col :span="3"><el-row><span class="covid-text-black">Location</span></el-row><el-row><location-drop-down  @locationChange="myLocationChange" :value="location"></location-drop-down></el-row></el-col>
-            <el-col :span="3"><el-row><span class="covid-text-black">Topic</span></el-row><el-row><topic-drop-down  @topicChange="myTopicChange" :value="filterTopics"></topic-drop-down></el-row></el-col>
-            <el-col :span="3"><el-row><span class="covid-text-white">Search</span></el-row><el-row><el-button type="primary" @click.native="search">Search</el-button></el-row></el-col>
-            </el-row>
+            <div id="div-left"><el-row><span class="covid-text-black">Claimer</span></el-row><el-row><claimer-drop-down @claimerChange="myClaimerChange" :value="claimer"></claimer-drop-down></el-row></div>
+            <div id="div-left"><el-row><span class="covid-text-black">Claimer Affiliation</span></el-row><el-row><affliation-drop-down  @affiliationChange="myAffiliationChange" :value="affiliation"></affliation-drop-down></el-row></div>
+            <div id="div-left"><el-row><span class="covid-text-black">Claim Object</span></el-row><el-row><object-drop-down  @objectChange="myObjectChange" :value="object"></object-drop-down></el-row></div>
+            <div id="div-left"><el-row><span class="covid-text-black">Location</span></el-row><el-row><location-drop-down  @locationChange="myLocationChange" :value="location"></location-drop-down></el-row></div>
+            <div id="div-left"><el-row><span class="covid-text-black">Topic</span></el-row><el-row><topic-drop-down  @topicChange="myTopicChange" :value="filterTopics"></topic-drop-down></el-row></div>
+            <div id="div-left"><el-row><span class="covid-text-white">&nbsp;</span></el-row><el-row><el-button type="primary" @click.native="search">Search</el-button></el-row></div>
+            <!-- <el-row>
+            <el-col><el-row><span class="covid-text-black">Claimer</span></el-row><el-row><claimer-drop-down @claimerChange="myClaimerChange" :value="claimer"></claimer-drop-down></el-row></el-col>
+            <el-col><el-row><span class="covid-text-black">Claimer Affiliation</span></el-row><el-row><affliation-drop-down  @affiliationChange="myAffiliationChange" :value="affiliation"></affliation-drop-down></el-row></el-col>
+            <el-col><el-row><span class="covid-text-black">Claim Object</span></el-row><el-row><object-drop-down  @objectChange="myObjectChange" :value="object"></object-drop-down></el-row></el-col>
+            <el-col><el-row><span class="covid-text-black">Location</span></el-row><el-row><location-drop-down  @locationChange="myLocationChange" :value="location"></location-drop-down></el-row></el-col>
+            <el-col><el-row><span class="covid-text-black">Topic</span></el-row><el-row><topic-drop-down  @topicChange="myTopicChange" :value="filterTopics"></topic-drop-down></el-row></el-col>
+            <el-col><el-row><span class="covid-text-white">Search</span></el-row><el-row><el-button type="primary" @click.native="search">Search</el-button></el-row></el-col>
+            </el-row> -->
         </div>
+        <span class="tip"> Tip: Click table headers to sort by columns</span>
         <!-- <claim-list :tableDataProps="tablelist" @rowClicked="handleRowClick" @sourceClicked="handleSourceClick" :filterNameItem="allTopics" @topicFilter="handleTopicFilter" :filterVal="filterTopics" ref="claim_list_child"></claim-list> -->
-        <claim-list :tableDataProps="tablelist" @rowClicked="handleRowClick" @sourceClicked="handleSourceClick" ref="claim_list_child"></claim-list>
+        <claim-list :tableDataProps="tablelist" @rowClicked="handleRowClick" @sourceClicked="handleSourceClick" @headerClicked="handleHeaderClick" ref="claim_list_child"></claim-list>
         <el-pagination
             background
             layout="prev, pager, next"
@@ -31,7 +38,12 @@
         :modalAppendToBody="false"
         title="Claim Details"
         width="80%">
-          <div class="dialog-title-space"><dialog-title>{{ sentence }}</dialog-title></div>
+          <!-- <div class="dialog-title-space"><dialog-title>{{ sentence }}</dialog-title></div> -->
+          <div class="dialog-title-space">
+            <dialog-title style="vertical-align: bottom">{{ sentence_L }}</dialog-title>
+            <dialog-title-highlight style="vertical-align: bottom">{{ sentence_M }}</dialog-title-highlight>
+            <dialog-title style="vertical-align: bottom">{{ sentence_R }}</dialog-title>
+          </div>
           <div style="display: flex;">
             <div class="div-size"><dialog-category>Topic</dialog-category></div>
             <div class="div-size-text"><dialog-text>{{ topic }}</dialog-text></div>
@@ -239,6 +251,9 @@ export default {
       topic: '',
       source: '',
       sentence: '',
+      sentence_L: '',
+      sentence_M: '',
+      sentence_R: '',
       show_claimer: '',
       x_var: '',
       stance: '',
@@ -263,7 +278,8 @@ export default {
       claimer_affiliation_identity_qnode: '',
       claimer_affiliation_type_qnode: '',
       language: '',
-      generation: ''
+      generation: '',
+      sort_label: 'Topic'
     }
   },
   // computed: {
@@ -302,7 +318,7 @@ export default {
       // this.$set(this.data, this.page, 1)
       // this.filterTopics = []
       // this.$refs.claim_list_child.clearTopicFilter()
-      axiosInstance({ url: '/backend_search?claimer=' + this.claimer + '&affiliation=' + this.affiliation + '&object=' + this.object + '&location=' + this.location + '&filterTopic=' + this.filterTopics.join(',') }).then(response => {
+      axiosInstance({ url: '/backend_search?claimer=' + this.claimer + '&affiliation=' + this.affiliation + '&object=' + this.object + '&location=' + this.location + '&filterTopic=' + this.filterTopics.join(',') + '&sort=' + this.sort_label }).then(response => {
         // console.log(response.data)
         // this.first = false
         if (response.data.status === 'success') {
@@ -347,7 +363,7 @@ export default {
       // console.log(this.pages)
     },
     switchPage: function (val) {
-      axiosInstance({ url: '/backend_search?claimer=' + this.claimer + '&affiliation=' + this.affiliation + '&object=' + this.object + '&location=' + this.location + '&page=' + val + '&filterTopic=' + this.filterTopics.join(',') }).then(response => {
+      axiosInstance({ url: '/backend_search?claimer=' + this.claimer + '&affiliation=' + this.affiliation + '&object=' + this.object + '&location=' + this.location + '&page=' + val + '&filterTopic=' + this.filterTopics.join(',') + '&sort=' + this.sort_label }).then(response => {
         // console.log(response.data)
         // this.first = false
         if (response.data.status === 'success') {
@@ -429,8 +445,18 @@ export default {
       this.claimer_affiliation_type_qnode = content.claimer_affiliation_type_qnode
       this.language = content.language
       this.generation = content.generation
+      this.sentence_L = content.sentence_L
+      this.sentence_M = content.sentence_M
+      this.sentence_R = content.sentence_R
       // console.log(content.x_var_qnode)
       this.dialogVisible = true
+    },
+    handleHeaderClick: function (label) {
+      this.sort_label = label
+      if (label === 'Claim Object') {
+        this.sort_label = 'Object'
+      }
+      this.search()
     },
     hrefClick: function (qnode) {
       window.open('https://www.wikidata.org/wiki/' + qnode)
@@ -441,7 +467,7 @@ export default {
     handleTopicFilter: function (filterTopics) {
       this.page = 1
       this.filterTopics = filterTopics
-      axiosInstance({ url: '/backend_search?claimer=' + this.claimer + '&affiliation=' + this.affiliation + '&object=' + this.object + '&location=' + this.location + '&filterTopic=' + filterTopics.join(',') }).then(response => {
+      axiosInstance({ url: '/backend_search?claimer=' + this.claimer + '&affiliation=' + this.affiliation + '&object=' + this.object + '&location=' + this.location + '&filterTopic=' + filterTopics.join(',') + '&sort=' + this.sort_label }).then(response => {
         // console.log(response.data)
         if (response.data.status === 'success') {
           var list = response.data.result
@@ -528,6 +554,10 @@ export default {
 }
 </script>
 <style>
+  #div-left{
+      float: left;
+      margin-left: 10px;
+  }
   h1 {
     margin-top: 2%;
     text-align: left;
@@ -540,6 +570,10 @@ export default {
     color: rgb(0,0,0);
     font-size: 16px;
   }
+  .tip {
+    color: rgb(0,0,0);
+    font-size: 13px;
+  }
   .covid-text-white {
     font-weight: bold;
     color: rgb(255,255,255);
@@ -547,6 +581,11 @@ export default {
   }
   dialog-title {
     color: rgb(0,0,0);
+    font-size: 18px;
+  }
+  dialog-title-highlight {
+    color: rgb(0,0,0);
+    background-color: rgb(255,255,0,0.4);
     font-size: 18px;
   }
   .dialog-title-space {

@@ -2,6 +2,7 @@ import Vue from 'vue'
 import Router from 'vue-router'
 import SearchLayout from '@/layout/SearchLayout.vue'
 import ListLayout from '@/layout/ListLayout.vue'
+import ExtractLayout from '@/layout/ExtractLayout.vue'
 // import DashboardLayout from '@/layout/DashboardLayout'
 
 Vue.use(Router)
@@ -51,6 +52,19 @@ export default new Router({
           path: '/list',
           name: 'list',
           component: () => import('@/views/List.vue'),
+          props: true
+        }
+      ]
+    },
+    {
+      path: '/e',
+      redirect: 'extract',
+      component:  ExtractLayout,
+      children: [
+        {
+          path: '/extract',
+          name: 'extract',
+          component: () => import('@/views/Extract.vue'),
           props: true
         }
       ]

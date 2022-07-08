@@ -29,7 +29,7 @@ for k,v in claimers.items():
     new_option.append({'Value':','.join(v), 'Label':k})
 
 with open('claimers.json','w') as f:
-    json.dump([{'Value':'None', 'Label':'None'}] + new_option,f,indent=4)
+    json.dump([{'Value':'None', 'Label':'All'}] + new_option,f,indent=4)
 
 affiliation = []
 objects = []
@@ -62,7 +62,7 @@ for option in [affiliation, objects, location, topic]:
     new_option = []
     for e in option:
         if e=="":
-            new_option.append({'Value':"None", 'Label':"None"})
+            new_option.append({'Value':"None", 'Label':"All"})
         else:
             new_option.append({'Value':e, 'Label':e})
     options.append(new_option)

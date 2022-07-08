@@ -73,8 +73,11 @@ Python3
 
 ### Deploy Frontend
 
+Please modify ```frontend/src/axios_config.js``` to send request to your own backend.
+
 ```bash
 cd {PROJ_DIR}/demo/frontend
+npm install
 npm run build
 ```
 
@@ -92,6 +95,8 @@ npm run build
    If you want to use your own data to replace our data, you could refer to the data format in ``{PROJ_DIR}/demo/backend/demo_files`` and process your data the same format as ours.
 
 2. Deploy
+
+   Set your own backend port in ```main``` function in ```backend/hw.go```.
 
    ```bash
    cd {PROJ_DIR}/demo/backend

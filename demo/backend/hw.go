@@ -12,6 +12,7 @@ import (
 	// "backend/recommend"
 	// "backend/search"
 	"backend/demo_utils"
+	"sort"
 
 	// "backend/utils"
 	// "math/rand"
@@ -29,6 +30,48 @@ import (
 	"backend/demo_router"
 	// goini "github.com/clod-moon/goconf"
 )
+
+type ByTopic []demo_utils.Claim
+
+func (a ByTopic) Len() int           { return len(a) }
+func (a ByTopic) Swap(i, j int)      { a[i], a[j] = a[j], a[i] }
+func (a ByTopic) Less(i, j int) bool { return a[i].Topic < a[j].Topic }
+
+type ByClaimer []demo_utils.Claim
+
+func (a ByClaimer) Len() int           { return len(a) }
+func (a ByClaimer) Swap(i, j int)      { a[i], a[j] = a[j], a[i] }
+func (a ByClaimer) Less(i, j int) bool { return a[i].Claimer < a[j].Claimer }
+
+type BySource []demo_utils.Claim
+
+func (a BySource) Len() int           { return len(a) }
+func (a BySource) Swap(i, j int)      { a[i], a[j] = a[j], a[i] }
+func (a BySource) Less(i, j int) bool { return a[i].Source < a[j].Source }
+
+type ByLan []demo_utils.Claim
+
+func (a ByLan) Len() int           { return len(a) }
+func (a ByLan) Swap(i, j int)      { a[i], a[j] = a[j], a[i] }
+func (a ByLan) Less(i, j int) bool { return a[i].Lan < a[j].Lan }
+
+type ByObj []demo_utils.Claim
+
+func (a ByObj) Len() int           { return len(a) }
+func (a ByObj) Swap(i, j int)      { a[i], a[j] = a[j], a[i] }
+func (a ByObj) Less(i, j int) bool { return a[i].X_var < a[j].X_var }
+
+type ByStance []demo_utils.Claim
+
+func (a ByStance) Len() int           { return len(a) }
+func (a ByStance) Swap(i, j int)      { a[i], a[j] = a[j], a[i] }
+func (a ByStance) Less(i, j int) bool { return a[i].Stance < a[j].Stance }
+
+type BySentence []demo_utils.Claim
+
+func (a BySentence) Len() int           { return len(a) }
+func (a BySentence) Swap(i, j int)      { a[i], a[j] = a[j], a[i] }
+func (a BySentence) Less(i, j int) bool { return a[i].Sentence < a[j].Sentence }
 
 func isContain(items []string, item string) bool {
 	for _, eachItem := range items {
@@ -105,6 +148,23 @@ func RouterSet() *gin.Engine {
 		// fmt.Println(len(filter_topics_list))
 		str_page := c.DefaultQuery("page", "1")
 		page, _ := strconv.Atoi(str_page)
+		
+		sort_cat := c.DefaultQuery("sort", "Topic")
+		if sort_cat == "Topic"{
+			sort.Sort(ByTopic(claims))
+		} else if sort_cat == "Claimer" {
+			sort.Sort(ByClaimer(claims))
+		} else if sort_cat == "Source" {
+			sort.Sort(BySource(claims))
+		} else if sort_cat == "Language" {
+			sort.Sort(ByLan(claims))
+		} else if sort_cat == "Object" {
+			sort.Sort(ByObj(claims))
+		} else if sort_cat == "Stance" {
+			sort.Sort(ByStance(claims))
+		} else if sort_cat == "Sentence" {
+			sort.Sort(BySentence(claims))
+		}
 
 		var results []demo_utils.Claim
 		for i := range claims {
