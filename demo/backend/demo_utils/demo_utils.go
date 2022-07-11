@@ -4,7 +4,7 @@ import (
 	"strings"
 	"io/ioutil"
 	// "github.com/sbwhitecap/tqdm"
-	// "fmt"
+	"fmt"
 
 	jsoniter "github.com/json-iterator/go"
 )
@@ -91,11 +91,21 @@ type Source struct {
 func JsonParse(path0 string) []Claim {
 	var claims []Claim
 
-	bytes, _ := ioutil.ReadFile(path0)
+	bytes, err := ioutil.ReadFile(path0)
+	if err != nil  {
+		panic(err)
+	}
 	jsonData := jsoniter.Get(bytes, "claims")
 	_data := []byte(jsonData.ToString())
 
-	size := jsonData.Size()
+	// TODO: 1000 claims takes about an hour, but 50 takes only a few seconds
+	// There's likely a performance issue in the way this code is written.
+	// I think using jsoniter.Get(..., i, ...) is walking to each i linearly.
+	// This needs to be random access.  For now, we hardcode a limit of 50.
+	// This shouldn't be too hard to fix.
+	fmt.Println("TODO: remove hardcoded claims limit of 50")
+	//size := jsonData.Size()
+	size := 50
 	claims = append(claims, make([]Claim, size)...)
 	for i := 0; i < size; i++ {
 		claims[i].Topic = jsoniter.Get(_data, i, "topic").ToString()
@@ -113,8 +123,10 @@ func JsonParse(path0 string) []Claim {
 		claims[i].Claimer_type_qnode = jsoniter.Get(_data, i, "claimer_type_qnode").ToString()
 		claims[i].News_url = jsoniter.Get(_data, i, "news_url").ToString()
 		claims[i].News_author = jsoniter.Get(_data, i, "news_author").ToString()
-		jsoniter.Unmarshal([]byte(jsoniter.Get(_data, i, "render_text").ToString()), &claims[i].Render_text)
-
+		err = jsoniter.Unmarshal([]byte(jsoniter.Get(_data, i, "render_text").ToString()), &claims[i].Render_text)
+		if err != nil  {
+			panic(err)
+		}
 
 		// Process Arg
 		for j:= range claims[i].Render_text {

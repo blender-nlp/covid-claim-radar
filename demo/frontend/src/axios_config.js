@@ -2,6 +2,7 @@ import axios from 'axios'
 axios.defaults.withCredentials = false
 export const axiosInstance = axios.create({
   method: 'get',
-  baseURL: 'http://18.221.187.153:8080',
+  // This is the url for the backend demo server launched in backend/hw.go
+  baseURL: 'http://saga29.isi.edu:8081',
   timeout: 5000
 })
