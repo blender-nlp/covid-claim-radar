@@ -36,6 +36,7 @@ too slow for anything more than a single short sentence.
 ## Install node, go, nginx
 
 ```
+$ cd covid-claim-radar/demo
 $ wget https://nodejs.org/download/release/v12.12.0/node-v12.12.0-linux-x64.tar.gz
 $ tar xf node-v12.12.0-linux-x64.tar.gz
 $ PATH=$PWD/node-v12.12.0-linux-x64/bin:$PATH
@@ -46,13 +47,12 @@ $ conda install -c conda-forge go
 
 $ wget https://nginx.org/download/nginx-1.23.0.tar.gz
 $ tar xf nginx-1.23.0.tar.gz
+$ NGINX_INSTALL=$PWD/nginx
 $ cd nginx-1.23.0
-$ ./configure --prefix=/path/to/your/nginx --without-http_rewrite_module --without-http_gzip_module
+$ ./configure --prefix=$NGINX_INSTALL --without-http_rewrite_module --without-http_gzip_module
 $ make install
-$ cd /path/to/your/nginx
 
-# then apply these changes
-$ diff conf/nginx.conf.orig conf/nginx.conf
+# then apply these changes into $NGINX_INSTALL/conf/nginx.conf
 36,37c36,39
 <         listen       80;
 ---
@@ -82,7 +82,7 @@ $ bash -xe process.sh    # works on checked in file; we'll have to adjust this
 ## Launch servers
 
 ```
-$ (cd /path/to/your/nginx && sbin/nginx -c conf/nginx.conf)
+$ (cd $NGINX_INSTALL && sbin/nginx -c conf/nginx.conf)
 $ cd demo/backend
 $ conda activate uiuc-demo
 $ go run hw.go
