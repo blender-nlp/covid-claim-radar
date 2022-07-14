@@ -77,8 +77,7 @@ Please modify ```frontend/src/axios_config.js``` to send request to your own bac
 
 ```bash
 cd {PROJ_DIR}/demo/frontend
-npm install
-npm run build
+./build_frontend.sh
 ```
 
 

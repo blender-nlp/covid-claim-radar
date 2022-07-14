@@ -207,9 +207,8 @@ func RouterSet() *gin.Engine {
 }
 
 func main() {
+	port := 8080
 	r := RouterSet()
-	fmt.Println("running...")
-	// This is the port for the backend server.  Be careful not to collide
-	// with the frontend http server (nginx).
-	r.Run(":8081")
+	fmt.Printf("running on port %d\n", port)
+	r.Run(fmt.Sprintf(":%d", port))
 }

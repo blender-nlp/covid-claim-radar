@@ -4,7 +4,7 @@ import (
 	"strings"
 	"io/ioutil"
 	// "github.com/sbwhitecap/tqdm"
-	"fmt"
+	// "fmt"
 
 	jsoniter "github.com/json-iterator/go"
 )
@@ -40,6 +40,44 @@ type RenderText struct {
 	Ed 		 	 int
 	Arg 		 string
 	Process_Arg  ArgList
+}
+
+// This is for direct serialization to/from json; below we
+// use a proxy struct for compatibility with existing code.
+// We probably should just change all the fields to be consistent
+// but this was tricky in the frontend code where we had different
+// uses, e.g. `this.affiliation` vs. `json.affiliation` so err on
+// the safe side for now.
+type JsonClaim struct {
+	Topic                              string         `json:"topic"`
+	Claimer_text                       string         `json:"claimer_text"`
+	Source                             string         `json:"source"`
+	Sentence                           string         `json:"sentence"`
+	Claimer_affiliation                string         `json:"claimer_affiliation"`
+	Location                           string         `json:"location"`
+	Entity                             string         `json:"entity"`
+	X_variable                         string         `json:"x_variable"`
+	Stance                             string         `json:"stance"`
+	Qnode_x_variable_identity          string         `json:"qnode_x_variable_identity"`
+	Qnode_x_variable_type              string         `json:"qnode_x_variable_type"`
+	Claimer_qnode                      string         `json:"claimer_qnode"`
+	Claimer_type_qnode                 string         `json:"claimer_type_qnode"`
+	News_url                           string         `json:"news_url"`
+	News_author                        string         `json:"news_author"`
+	Render_text                        []RenderText   `json:"render_text"`
+	Template                           string         `json:"template"`
+	Time_attr                          string         `json:"time_attr"`
+	Sentence_L                         string         `json:"sentence_L"`
+	Sentence_M                         string         `json:"sentence_M"`
+	Sentence_R                         string         `json:"sentence_R"`
+	Claimer_search_key                 string         `json:"claimer_search_key"`
+	Equivalent_claims_text             string         `json:"equivalent_claims_text"`
+	Supporting_claims_text             string         `json:"supporting_claims_text"`
+	Refuting_claims_text               string         `json:"refuting_claims_text"`
+	Claimer_affiliation_identity_qnode string         `json:"claimer_affiliation_identity_qnode"`
+	Claimer_affiliation_type_qnode     string         `json:"claimer_affiliation_type_qnode"`
+	Lan                                string         `json:"lan"`
+	Generation                         string         `json:"generation"`
 }
 
 type Claim struct {
@@ -89,48 +127,41 @@ type Source struct {
 }
 
 func JsonParse(path0 string) []Claim {
-	var claims []Claim
-
 	bytes, err := ioutil.ReadFile(path0)
 	if err != nil  {
 		panic(err)
+	}	
+	var result map[string][]JsonClaim
+	err = jsoniter.Unmarshal(bytes, &result)
+	if err != nil {
+		panic(err)
 	}
-	jsonData := jsoniter.Get(bytes, "claims")
-	_data := []byte(jsonData.ToString())
-
-	// TODO: 1000 claims takes about an hour, but 50 takes only a few seconds
-	// There's likely a performance issue in the way this code is written.
-	// I think using jsoniter.Get(..., i, ...) is walking to each i linearly.
-	// This needs to be random access.  For now, we hardcode a limit of 50.
-	// This shouldn't be too hard to fix.
-	fmt.Println("TODO: remove hardcoded claims limit of 50")
-	//size := jsonData.Size()
-	size := 50
+	json_claims := result["claims"]
+	size := len(json_claims)
+	var claims []Claim
 	claims = append(claims, make([]Claim, size)...)
-	for i := 0; i < size; i++ {
-		claims[i].Topic = jsoniter.Get(_data, i, "topic").ToString()
-		claims[i].Claimer = jsoniter.Get(_data, i, "claimer_text").ToString()
-		claims[i].Source = jsoniter.Get(_data, i, "source").ToString()
-		claims[i].Sentence = jsoniter.Get(_data, i, "sentence").ToString()
-		claims[i].Affiliation = jsoniter.Get(_data, i, "claimer_affiliation").ToString()
-		claims[i].Location = jsoniter.Get(_data, i, "location").ToString()
-		claims[i].Entity = jsoniter.Get(_data, i, "entity").ToString()
-		claims[i].X_var = jsoniter.Get(_data, i, "x_variable").ToString()
-		claims[i].Stance = jsoniter.Get(_data, i, "stance").ToString()
-		claims[i].X_var_qnode = jsoniter.Get(_data, i, "qnode_x_variable_identity").ToString()
-		claims[i].X_var_type_qnode = jsoniter.Get(_data, i, "qnode_x_variable_type").ToString()
-		claims[i].Claimer_qnode = jsoniter.Get(_data, i, "claimer_qnode").ToString()
-		claims[i].Claimer_type_qnode = jsoniter.Get(_data, i, "claimer_type_qnode").ToString()
-		claims[i].News_url = jsoniter.Get(_data, i, "news_url").ToString()
-		claims[i].News_author = jsoniter.Get(_data, i, "news_author").ToString()
-		err = jsoniter.Unmarshal([]byte(jsoniter.Get(_data, i, "render_text").ToString()), &claims[i].Render_text)
-		if err != nil  {
-			panic(err)
-		}
-
+	for i := range json_claims {
+		json_claim := json_claims[i]
+		claims[i].Topic = json_claim.Topic
+		claims[i].Claimer = json_claim.Claimer_text
+		claims[i].Source = json_claim.Source
+		claims[i].Sentence =  json_claim.Sentence
+		claims[i].Affiliation = json_claim.Claimer_affiliation
+		claims[i].Location = json_claim.Location
+		claims[i].Entity = json_claim.Entity
+		claims[i].X_var = json_claim.X_variable
+		claims[i].Stance = json_claim.Stance
+		claims[i].X_var_qnode = json_claim.Qnode_x_variable_identity
+		claims[i].X_var_type_qnode = json_claim.Qnode_x_variable_type
+		claims[i].Claimer_qnode = json_claim.Claimer_qnode
+		claims[i].Claimer_type_qnode = json_claim.Claimer_type_qnode
+		claims[i].News_url = json_claim.News_url
+		claims[i].News_author = json_claim.News_author
+		claims[i].Render_text = json_claim.Render_text
+		
 		// Process Arg
 		for j:= range claims[i].Render_text {
-			if claims[i].Render_text[j].Arg != ""{
+			if claims[i].Render_text[j].Arg != "" {
 				args := strings.Split(claims[i].Render_text[j].Arg, "|")
 				for k:= range args {
 					role_args := strings.Split(args[k], "@")
@@ -147,29 +178,21 @@ func JsonParse(path0 string) []Claim {
 				}
 			}
 		}
-		
-		claims[i].Lan = jsoniter.Get(_data, i, "lan").ToString()
-		claims[i].Generation = jsoniter.Get(_data, i, "generation").ToString()
 
-		claims[i].Template = jsoniter.Get(_data, i, "template").ToString()
-		claims[i].Time_attr = jsoniter.Get(_data, i, "time_attr").ToString()
-		claims[i].Sentence_L = jsoniter.Get(_data, i, "sentence_L").ToString()
-		claims[i].Sentence_M = jsoniter.Get(_data, i, "sentence_M").ToString()
-		claims[i].Sentence_R = jsoniter.Get(_data, i, "sentence_R").ToString()
-		claims[i].Claimer_search_key = strings.Split(jsoniter.Get(_data, i, "claimer_search_key").ToString(),",")
-		claims[i].Equivalent_claims_text = jsoniter.Get(_data, i, "equivalent_claims_text").ToString()
-		claims[i].Supporting_claims_text = jsoniter.Get(_data, i, "supporting_claims_text").ToString()
-		claims[i].Refuting_claims_text = jsoniter.Get(_data, i, "refuting_claims_text").ToString()
-		claims[i].Claimer_affiliation_identity_qnode = jsoniter.Get(_data, i, "claimer_affiliation_identity_qnode").ToString()
-		claims[i].Claimer_affiliation_type_qnode = jsoniter.Get(_data, i, "claimer_affiliation_type_qnode").ToString()
-		// gifs[i].Cover_url = jsoniter.Get(_data, i, "cover_url").ToString()
-		// gifs[i].Oss_url = ""
-		// gifs[i].Word_idx = nil
-		// load_strings := strings.Split(jsoniter.Get(_data, i, "recommend").ToString(), " ")
-		// for _, s := range load_strings {
-		// 	load_num, _ := strconv.Atoi(s)
-		// 	gifs[i].Recommend = append(gifs[i].Recommend, load_num)
-		// }
+		claims[i].Lan = json_claim.Lan
+		claims[i].Generation = json_claim.Generation
+
+		claims[i].Template = json_claim.Template
+		claims[i].Time_attr = json_claim.Time_attr
+		claims[i].Sentence_L = json_claim.Sentence_L
+		claims[i].Sentence_M = json_claim.Sentence_M
+		claims[i].Sentence_R = json_claim.Sentence_R
+		claims[i].Claimer_search_key = strings.Split(json_claim.Claimer_search_key, ",")
+		claims[i].Equivalent_claims_text = json_claim.Equivalent_claims_text
+		claims[i].Supporting_claims_text = json_claim.Supporting_claims_text
+		claims[i].Refuting_claims_text = json_claim.Refuting_claims_text
+		claims[i].Claimer_affiliation_identity_qnode = json_claim.Claimer_affiliation_identity_qnode
+		claims[i].Claimer_affiliation_type_qnode = json_claim.Claimer_affiliation_type_qnode
 	}
 	return claims
 }

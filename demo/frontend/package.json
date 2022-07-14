@@ -21,7 +21,8 @@
     "v-gallery": "^1.2.4",
     "vue": "^2.6.10",
     "vue-router": "^3.0.3",
-    "vue2-transitions": "^0.3.0"
+    "vue2-transitions": "^0.3.0",
+    "ip": "^1.1.8"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.12.0",
