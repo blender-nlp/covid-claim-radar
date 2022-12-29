@@ -53,6 +53,7 @@ Our experimental data is LDC2021E11.
 `demo`: code for result visualization demo (https://blenderdemo.com/covid-extract)[https://blenderdemo.com/covid-extract]
 `data`: sample data
 
+### Running Instructions
 
 Step 1:
 Tokenize raw text RSD files into LTF files. 
