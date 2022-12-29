@@ -133,14 +133,7 @@ knowledge_extraction/EventTimeArg/BERT_CACHE
 knowledge_extraction/EventTimeArg/4_tuple_params
 knowledge_extraction/EventTimeArg/output_params
 
-data/mips/
-data/test/
-data/test_bak/
-data/test10/
-data/test10_v2/
-data/ukraine/
-data/ukraine_v2/
-data/ukraine_v3/
+data/local/
 
 # *.rsd.txt
 

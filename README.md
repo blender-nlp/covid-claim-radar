@@ -78,3 +78,4 @@ If using the sample data in `data` directory:
 ```
 sh extract.sh en /shared/nas/data/m1/manling2/aida_docker_test/covid-claim-radar/data/test_en /shared/nas/data/m1/manling2/aida_docker_test/covid-claim-radar/data/AIDA_Phase3_TA3_Dry_Run_Queries/Condition5 /shared/nas/data/m1/manling2/aida_docker_test/covid-claim-radar/data/test_en/parent_children.tab 0
 ```
+
