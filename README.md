@@ -46,3 +46,14 @@ If you have LTF files, please use the AIDA ltf2rsd tool (LDC2018E62_AIDA_Month_9
 
 Step 2:
 Please find the claim extraction and claim-claim relation detection code under `claim_detection`, and knowledge extraction code under `knowledge_extraction`. 
+
+The example running command is:
+```
+sh extract.sh ${lang} ${data_root} ${query_root} ${parent_child_tab_path} ${gpu_device}
+```
+where ${data_root} is the directory contains ltf and rsd subdirectories, ${query_root} is the claim query directory from LDC (such as `Condition 5`), ${parent_child_tab_path} is the file name mapping from LDC.
+
+If using the sample data in `data` directory: 
+```
+sh extract.sh en /shared/nas/data/m1/manling2/aida_docker_test/covid-claim-radar/data/test_en /shared/nas/data/m1/manling2/aida_docker_test/covid-claim-radar/data/AIDA_Phase3_TA3_Dry_Run_Queries/Condition5 /shared/nas/data/m1/manling2/aida_docker_test/covid-claim-radar/data/test_en/parent_children.tab 0
+```
