@@ -51,7 +51,7 @@ The example running command is:
 ```
 sh extract.sh ${lang} ${data_root} ${query_root} ${parent_child_tab_path} ${gpu_device}
 ```
-where ${data_root} is the directory contains ltf and rsd subdirectories, ${query_root} is the claim query directory from LDC (such as `Condition 5`), ${parent_child_tab_path} is the file name mapping from LDC.
+where `${data_root}` is the directory contains ltf and rsd subdirectories, `${query_root}` is the claim query directory from LDC (such as `Condition 5`), `${parent_child_tab_path}` is the file name mapping from LDC.
 
 If using the sample data in `data` directory: 
 ```
