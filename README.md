@@ -3,6 +3,7 @@
 ## Table of Contents
 =================
   * [Overview](#overview)
+  * [Demo](#demos)
   * [Requirements](#requirements)
   * [Data](#data)
   * [Code](#code)
