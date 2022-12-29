@@ -47,11 +47,11 @@ Our experimental data is LDC2021E11.
 
 ### Code Structure
 
-`claim_detection`: code for claim detection system
-`knowledge_extraction`: code for knowledge extraction system
-`api`: code for live extraction API [https://blenderdemo.com/covid-list](https://blenderdemo.com/covid-list)
-`demo`: code for result visualization demo [https://blenderdemo.com/covid-extract](https://blenderdemo.com/covid-extract)
-`data`: sample data
+- `claim_detection`: code for claim detection system
+- `knowledge_extraction`: code for knowledge extraction system
+- `api`: code for live extraction API [https://blenderdemo.com/covid-list](https://blenderdemo.com/covid-list)
+- `demo`: code for result visualization demo [https://blenderdemo.com/covid-extract](https://blenderdemo.com/covid-extract)
+- `data`: sample data
 
 ### Running Instructions
 
