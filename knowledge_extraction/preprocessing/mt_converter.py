@@ -31,7 +31,7 @@ def get_rsd_sent_mapping(ltf_file_path_isi, rsd_file_path_trans):
                             rsd_content += '\n'
                             seg_end_trans += 1
                             seg_beg_trans += 1
-                        rsd_content += token.text
+                        rsd_content += token.text if token.text is not None else ""
                         seg_end_trans += len(token.text) 
                         sent_mapping_raw2trans[seg_beg][seg_end] = (seg_beg_trans, seg_end_trans-1)
                         sent_mapping_trans2raw[seg_beg_trans][seg_end_trans-1] = (seg_beg, seg_end)

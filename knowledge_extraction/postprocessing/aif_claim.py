@@ -296,29 +296,56 @@ def get_str_from_rsd(doc_id, start, end, rsd_dir):
         rsd_content = open(rsd_file_path).read()
         return rsd_content[start:end+1].replace('\n',' ')
 
-def get_context(docid, start, end, ltf_dir):
+# def get_context(docid, start, end, ltf_dir):
 
-    # tokens = []
-    sentence = None
+#     # tokens = []
+#     sentence = None
 
-    ltf_file_path = os.path.join(ltf_dir, docid + '.ltf.xml')
-    if not os.path.exists(ltf_file_path):
-        return '[ERROR]NoLTF %s' % docid
-    tree = ET.parse(ltf_file_path)
+#     ltf_file_path = os.path.join(ltf_dir, docid + '.ltf.xml')
+#     if not os.path.exists(ltf_file_path):
+#         return '[ERROR]NoLTF %s' % docid
+#     tree = ET.parse(ltf_file_path)
+#     root = tree.getroot()
+#     for doc in root:
+#         for text in doc:
+#             for seg in text:
+#                 seg_beg = int(seg.attrib["start_char"])
+#                 seg_end = int(seg.attrib["end_char"])
+#                 if start >= seg_beg and end <= seg_end:
+#                     for token in seg:
+#                         if token.tag == "ORIGINAL_TEXT":
+#                             sentence = token.text
+#                             return sentence
+#                 # if len(tokens) > 0:
+#                 #     return tokens
+#     return sentence
+
+from functools import lru_cache
+@lru_cache(maxsize=None)
+def parse_sentences(docid, ltf_dir):
+    sents = []
+    path = os.path.join(ltf_dir, docid + '.ltf.xml')
+    # print('joelb reading', docid)
+    tree = ET.parse(path)
     root = tree.getroot()
     for doc in root:
         for text in doc:
             for seg in text:
                 seg_beg = int(seg.attrib["start_char"])
                 seg_end = int(seg.attrib["end_char"])
-                if start >= seg_beg and end <= seg_end:
-                    for token in seg:
-                        if token.tag == "ORIGINAL_TEXT":
-                            sentence = token.text
-                            return sentence
-                # if len(tokens) > 0:
-                #     return tokens
-    return sentence
+                for token in seg:
+                    if token.tag == "ORIGINAL_TEXT":
+                        sentence = token.text
+                        sents.append((seg_beg, seg_end, sentence))
+    return sents
+
+def get_context(docid, start, end, ltf_dir):
+    sents = parse_sentences(docid, ltf_dir)
+    for seg_beg, seg_end, sent in sents:
+        # TODO: change to binary search or some kind of hashing
+        if start >= seg_beg and end <= seg_end:
+            return sent
+    return None
 
 def get_context_sentences(docid, start, end, ltf_dir):
      # tokens = []
@@ -1008,15 +1035,18 @@ def gen_ttl(claim_data, doc_ke, entity_info, evt_info, evt_args, evt_args_qnode,
                         trigger_arg_offset, arg_offset, arg_confidence = evt_args[evt_id][role][arg_id][0]
                         role_uri = "http://www.isi.edu/gaia/assertions/uiuc/%sarg/%s/%s/%s/%s/%s" % (ke_type, doc_id, evt_id, evt_type_cs, role, arg_id)
                         role_doc_id, role_start, role_end = parse_offset_str(arg_offset)
-                        role_justi_uri = "http://www.isi.edu/gaia/assertions/uiuc/%sarg_justification/%s/%s/%s/%s/%s/%s/%d/%d" % (ke_type, doc_id, evt_id, evt_type_cs, role, arg_id, role_doc_id, role_start, role_end)
                         subject_resource = entities_aif[arg_id]
                         role_asser = aifutils.mark_as_argument(g, evt, subject_role, subject_resource, system, arg_confidence, uri=role_uri)
                         trigger_doc_id, trigger_start, trigger_end = parse_offset_str(trigger_arg_offset)
-                        role_justification_trigger = aifutils.make_text_justification(g, trigger_doc_id, trigger_start,
-                                                                                trigger_end, system, arg_confidence)
+                        role_justi_uri = "http://www.isi.edu/gaia/assertions/uiuc/%sarg_justification/%s/%s/%s/%s/%s/%s/%d/%d" % (ke_type, doc_id, evt_id, evt_type_cs, role, arg_id, role_doc_id, role_start, role_end)
+                        trigger_justi_uri = "http://www.isi.edu/gaia/assertions/uiuc/eventjustification/%s/%s/%d/%d" % (evt_id, trigger_doc_id, trigger_start, trigger_end)
+                        new_trigger_start, new_trigger_end = transoffset_mapping(doc_id, trigger_start, trigger_end, translation_mapping)
+                        role_justification_trigger = aifutils.make_text_justification(g, trigger_doc_id, new_trigger_start,
+                                                                                new_trigger_end, system, arg_confidence, trigger_justi_uri)
                         aifutils.add_source_document_to_justification(g, role_justification_trigger, doc_id_to_root_dict[trigger_doc_id])
-                        role_justification_arg = aifutils.make_text_justification(g, role_doc_id, role_start,
-                                                                                role_end, system, arg_confidence)
+                        new_role_start, new_role_end = transoffset_mapping(doc_id, role_start, role_end, translation_mapping)
+                        role_justification_arg = aifutils.make_text_justification(g, role_doc_id, new_role_start,
+                                                                                new_role_end, system, arg_confidence,role_justi_uri)
                         aifutils.add_source_document_to_justification(g, role_justification_arg, doc_id_to_root_dict[role_doc_id])
                         role_justification = aifutils.mark_compound_justification(g, role_asser, [role_justification_trigger, role_justification_arg], system, arg_confidence)
                         # add_filetype(g, role_justification, evt_info[evt_id]['filetype'])
@@ -1336,8 +1366,9 @@ def gen_ttl(claim_data, doc_ke, entity_info, evt_info, evt_args, evt_args_qnode,
             claimObject.subtopic = claim_dict['sub_topic']
             claimObject.sourceDocument = root_doc_id
             new_claim_start, new_claim_end = transoffset_mapping(doc_id, claim_start, claim_end, translation_mapping)
+            justification_uri =  "http://www.isi.edu/gaia/assertions/uiuc/claimjustification/%s/%s/%d/%d" % (claim_id, doc_id, claim_start, claim_end)
             justification_aif = aifutils.mark_text_justification(g, [CLAIM_namespace[claim_id]], doc_id, new_claim_start,
-                                                                                    new_claim_end, claim_system, claim_confidence)
+                                                                                    new_claim_end, claim_system, claim_confidence, justification_uri)
             justification_aif = aifutils.add_source_document_to_justification(g, justification_aif, root_doc_id)
             # print('doc_id, claim_start, claim_end', doc_id, claim_start, claim_end)
             sentence_before, sent, sentence_after = get_context_sentences(doc_id, claim_start, claim_end, ltf_dir)
@@ -1634,7 +1665,7 @@ if __name__=='__main__':
     fine_grained_entity_type_path = args.fine_grained_entity_type_path
     parent_child_tab_path = args.parent_child_tab_path
     trans_json = args.trans_json
-    str_mapping_file = args.str_mapping_file
+    str_mapping_file = os.path.join(os.path.dirname(os.path.abspath(__file__)), "params", "name_translate_%s.txt"%args.language) #args.str_mapping_file
     
 
     # AIDA = Namespace('https://tac.nist.gov/tracks/SM-KBP/2019/ontologies/InterchangeOntology#')
@@ -1651,9 +1682,11 @@ if __name__=='__main__':
     else:
         if os.path.exists(trans_json):
             translation_mapping = json.load(open(trans_json))
-            str_mapping = get_translation_mapping(str_mapping_file)
         else:
             translation_mapping = None
+        if os.path.exists(str_mapping_file):
+            str_mapping = get_translation_mapping(str_mapping_file)
+        else:
             str_mapping = None
     doc_ke, entity_info, evt_info, evt_args, evt_args_qnode, qnode_dict = load_cs(input_cs, ontology_data, qnode_name_dict, language, validate_offset, single_type=single_type)
     dirname = os.path.dirname(input_cs)

@@ -1,0 +1,51 @@
+# These should not be commited
+set_environment.sh
+
+# compressed formats
+*.zip
+*.gz
+
+# wiki folder
+*.wiki/
+
+# data
+DATA*
+
+#
+preprocess/jamr
+preprocess/kevin
+
+# external tools
+smatch*
+amr-evaluation/
+fairseq-*
+
+# virtual environments
+.python-version
+venv*/
+cenv*/
+
+# debug
+*.lprof
+debug*
+tmp*
+TMP*
+
+# other
+__pycache__/
+transition_amr_parser.egg-info/
+# assumed used to store models
+models/
+# assumed where data stored
+data/
+
+# python package
+dist/
+
+# cluster tools
+jbsub_logs/
+.jbsub_logs/
+
+# vim
+.vim/
+*.swp

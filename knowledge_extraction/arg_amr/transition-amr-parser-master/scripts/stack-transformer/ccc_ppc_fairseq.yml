@@ -1,0 +1,21 @@
+channels:
+  - https://public.dhe.ibm.com/ibmdl/export/pub/software/server/ibm-ai/conda
+  - powerai
+  - defaults
+dependencies:
+  - requests
+  - line_profiler
+# fairseq
+  - cffi
+  - fastBPE
+  - numpy
+  - regex
+  - sacrebleu
+  # torch (below)
+  # tqdm (below)
+# transition_amr_parser
+  - pytorch=1.1.0
+  - apex=0.1.0
+  - h5py
+  - tqdm
+  - spacy   

@@ -13,7 +13,7 @@ final_event_cs=${data_root}/qnode/final_event_4tuple.cs
 
 
 echo "event 4 tuple"
-/opt/conda/envs/aida_tmp/bin/python /EventTimeArg/aida_event_time_pipeline.py \
+/opt/conda/envs/genie/bin/python /EventTimeArg/aida_event_time_pipeline.py \
     --time_cold_start_filename ${input_filler} \
     --event_cold_start_filename ${input_event} \
     --read_cs_event \
@@ -21,7 +21,7 @@ echo "event 4 tuple"
     --ltf_path ${data_root}/ltf \
     --output_filename ${final_event_cs} \
     --use_dct_as_default \
-    --lang ${lang}
+    --lang en
 
 # merge results
 cat ${input_entity} ${input_relation} ${final_event_cs} > ${output_final_cs}

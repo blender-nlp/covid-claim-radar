@@ -502,7 +502,7 @@ if __name__ == "__main__":
     for doc in relation_dict:
         for one_relation in relation_dict[doc]:
             # print(one_relation)
-            f_relation.write('%s\thttps://tac.nist.gov/tracks/SM-KBP/2018/ontologies/SeedlingOntology#%s\t%s\t%s\t1.0\n'%(one_relation[0], one_relation[1], one_relation[2], one_relation[3]))
+            f_relation.write('%s\t%s\t%s\t%s\t1.0\n'%(one_relation[0], one_relation[1], one_relation[2], one_relation[3]))
     f_relation.close()
 
     if args.lang == 'en':

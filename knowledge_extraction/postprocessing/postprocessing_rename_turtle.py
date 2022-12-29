@@ -35,11 +35,12 @@ def load_doc_root_mapping(parent_child_tab_path):
     for one_line in f:
         one_line = one_line.strip()
         one_line_list = one_line.split('\t')
-        doc_id = one_line_list[child_column_idx]  #[3] # uid
-        # doc_id = one_line_list[2] # child_uid
-        root_id = one_line_list[parent_column_idx]  #[2] # parent_uid
-        # root_id = one_line_list[7] # parent_uid
-        doc_id_to_root_dict[doc_id] = root_id
+        if len(one_line_list) > child_column_idx and len(one_line_list) > parent_column_idx:
+            doc_id = one_line_list[child_column_idx]  #[3] # uid
+            # doc_id = one_line_list[2] # child_uid
+            root_id = one_line_list[parent_column_idx]  #[2] # parent_uid
+            # root_id = one_line_list[7] # parent_uid
+            doc_id_to_root_dict[doc_id] = root_id
     return doc_id_to_root_dict
 
 

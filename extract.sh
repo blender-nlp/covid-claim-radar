@@ -60,20 +60,20 @@ claim_json=${claim_dir}/claim_output.json
 claim_qnode_json=${claim_dir}/claims_qnode.json
 
 
-# #####################################################
-# # pulling dockers
-# #####################################################
-# docker pull limteng/oneie_aida_m36
+#####################################################
+# pulling dockers
+#####################################################
+docker pull limteng/oneie_aida_m36
 # docker pull blendernlp/covid-claim-radar:ke
-# docker pull limanling/aida-tools
-# docker pull blendernlp/covid-claim-radar:revanth3_aida_claim_v2
-# docker pull laituan245/wikidata_el_demo_with_es:covid-claim-radar
-# docker pull laituan245/wikidata_el_with_es:aida2022
-# docker pull laituan245/spanbert_entity_coref:aida2022
-# docker pull laituan245/spanbert_coref
-# docker pull laituan245/add_types_qnode_with_es
-# docker pull laituan245/aida_postprocess
-# echo $(date)
+docker pull limanling/aida-tools
+docker pull blendernlp/covid-claim-radar:revanth3_aida_claim_v2
+docker pull laituan245/wikidata_el_demo_with_es:covid-claim-radar
+docker pull laituan245/wikidata_el_with_es:aida2022
+docker pull laituan245/spanbert_entity_coref:aida2022
+docker pull laituan245/spanbert_coref
+docker pull laituan245/add_types_qnode_with_es
+docker pull laituan245/aida_postprocess
+echo $(date)
 
 
 ######################################################
@@ -95,8 +95,8 @@ docker run --rm -v ${data_root}:${data_root} -w /stanford-corenlp-aida_0 -i lima
     -filelist ${rsd_file_list} \
     -properties StanfordCoreNLP_en.properties \
     -outputDirectory ${core_nlp_output_path}
-echo "stanford timecount"
-echo $(date)
+# echo "stanford timecount"
+# echo $(date)
 docker run --gpus device=${gpu_device} --rm -v ${data_root}:${data_root} -i blendernlp/covid-claim-radar:ke \
     /bin/bash /typing/typing_pipeline.sh \
     en ${ltf_source} ${rsd_source} ${core_nlp_output_path} ${oneie_entity_cs} ${oneie_relation_cs} ${oneie_event_cs} ${filler_coarse} ${ie_entity_cs} ${ie_relation_cs} ${ie_event_cs}
@@ -178,5 +178,5 @@ docker run --gpus device=${gpu_device} --rm -v ${data_root}:${data_root} -v ${pa
     /bin/bash /postprocessing/postprocessing.sh \
     ${lang} ${data_root} ${parent_child_tab_path} ${claim_qnode_json} ${final_entity_cs} ${final_relation_cs} ${final_event_cs} ${filler_coarse} ${final_cs} ${ttl_output}
 
-echo "aif timecount"
-echo $(date)
+# echo "aif timecount"
+# echo $(date)

@@ -1,0 +1,628 @@
+{
+    "Evaluate.Belief.CommittedBelief": {
+        "id": 1,
+        "seed_keywords": [
+            "belief",
+            "believe"
+        ]
+    },
+    "Evaluate.Status.HoaxFraud": {
+        "id": 2,
+        "seed_keywords": [
+            "hoax",
+            "fraud"
+        ]
+    },
+    "ArtifactExistence.Creation.Unspecified": {
+        "id": 3,
+        "seed_keywords": [
+            "produce.v",
+            "create.v",
+            "make.v",
+            "creation.n",
+            "devise.v",
+            "initiation.n",
+            "creation.n",
+            "develop.v",
+            "build.v"
+        ]
+    },
+    "ArtifactExistence.ArtifactFailure.MechanicalFailure": {
+        "id": 4,
+        "seed_keywords": [
+            "breakdown"
+        ]
+    },
+    "ArtifactExistence.DamageDestroyDisableDismantle.Damage": {
+        "id": 5,
+        "seed_keywords": [
+            "damage"
+        ]
+    },
+    "ArtifactExistence.DamageDestroyDisableDismantle.Destroy": {
+        "id": 6,
+        "seed_keywords": [
+            "destruct",
+            "destroy"
+        ]
+    },
+    "ArtifactExistence.DamageDestroyDisableDismantle.DisableDefuse": {
+        "id": 7,
+        "seed_keywords": [
+            "bomb disposal"
+        ]
+    },
+    "ArtifactExistence.DamageDestroyDisableDismantle.Dismantle": {
+        "id": 8,
+        "seed_keywords": [
+            "disassemble",
+            "disassembly",
+            "dismantle"
+        ]
+    },
+    "ArtifactExistence.ManufactureAssemble.Unspecified": {
+        "id": 9,
+        "seed_keywords": [
+            "assembly",
+            "manufacture",
+            "assemble"
+        ]
+    },
+    "ArtifactExistence.Contamination.Unspecified": {
+        "id": 10,
+        "seed_keywords": [
+            "contamination.n",
+            "contaminate",
+            "polute",
+            "taint"
+        ]
+    },
+    "ArtifactExistence.Shortage.Shortage": {
+        "id": 11,
+        "seed_keywords": [
+            "scarcity",
+            "scarce",
+            "short of",
+            "shortage"
+        ]
+    },
+    "Cognitive.IdentifyCategorize.Unspecified": {
+        "id": 12,
+        "seed_keywords": [
+            "identify",
+            "categorize"
+        ]
+    },
+    "Cognitive.Inspection.SensoryObserve": {
+        "id": 13,
+        "seed_keywords": [
+            "observe",
+            "sense"
+        ]
+    },
+    "Cognitive.Inspection.TargetAimAt": {
+        "id": 14,
+        "seed_keywords": [
+            "target.v",
+            "aim at"
+        ]
+    },
+    "Cognitive.Inspection.AssessTestMeasure": {
+        "id": 15,
+        "seed_keywords": [
+            "quantify.v",
+            "measure.v",
+            "measurement.n",
+            "quantification.n",
+            "assess.v",
+            "assessment.n",
+            "test.v",
+            "test.n"
+        ]
+    },
+    "Cognitive.TeachingTrainingLearning.Unspecified": {
+        "id": 16,
+        "seed_keywords": [
+            "educate",
+            "teach",
+            "train",
+            "learn"
+        ]
+    },
+    "Conflict.Attack.AirstrikeMissileStrike": {
+        "id": 17,
+        "seed_keywords": [
+            "airstrike"
+        ]
+    },
+    "Conflict.Attack.BiologicalChemicalPoisonAttack": {
+        "id": 18,
+        "seed_keywords": [
+            "chemical war",
+            "chemical warfare"
+        ]
+    },
+    "Conflict.Attack.DetonateExplode": {
+        "id": 19,
+        "seed_keywords": [
+            "bomb attack"
+        ]
+    },
+    "Conflict.Attack.FirearmAttack": {
+        "id": 20,
+        "seed_keywords": [
+            "shoot"
+        ]
+    },
+    "Conflict.Attack.Hanging": {
+        "id": 21,
+        "seed_keywords": [
+            "hang"
+        ]
+    },
+    "Conflict.Attack.Invade": {
+        "id": 22,
+        "seed_keywords": [
+            "invasion",
+            "invade"
+        ]
+    },
+    "Conflict.Attack.SelfDirectedBattle": {
+        "id": 23,
+        "seed_keywords": [
+            "battle"
+        ]
+    },
+    "Conflict.Attack.SetFire": {
+        "id": 24,
+        "seed_keywords": [
+            "arson",
+            "set fire"
+        ]
+    },
+    "Conflict.Attack.Stabbing": {
+        "id": 25,
+        "seed_keywords": [
+            "stab"
+        ]
+    },
+    "Conflict.Attack.StealRobHijack": {
+        "id": 26,
+        "seed_keywords": [
+            "theft",
+            "robbery",
+            "hijack"
+        ]
+    },
+    "Conflict.Attack.Strangling": {
+        "id": 27,
+        "seed_keywords": [
+            "strangle"
+        ]
+    },
+    "Conflict.Coup.Coup": {
+        "id": 28,
+        "seed_keywords": [
+            "coup"
+        ]
+    },
+    "Conflict.Defeat.Unspecified": {
+        "id": 29,
+        "seed_keywords": [
+            "defeat"
+        ]
+    },
+    "Conflict.Demonstrate.DemonstrateWithViolence": {
+        "id": 30,
+        "seed_keywords": [
+            "riot"
+        ]
+    },
+    "Conflict.Demonstrate.MarchProtestPoliticalGathering": {
+        "id": 31,
+        "seed_keywords": [
+            "demonstration"
+        ]
+    },
+    "Conflict.Yield.Retreat": {
+        "id": 32,
+        "seed_keywords": [
+            "withdrawal",
+            "retreat",
+            "withdraw"
+        ]
+    },
+    "Conflict.Yield.Surrender": {
+        "id": 33,
+        "seed_keywords": [
+            "surrender"
+        ]
+    },
+    "Contact.Collaborate.Unspecified": {
+        "id": 34,
+        "seed_keywords": [
+            "collaboration"
+        ]
+    },
+    "Contact.CommitmentPromiseExpressIntent.Unspecified": {
+        "id": 35,
+        "seed_keywords": [
+            "promise"
+        ]
+    },
+    "Contact.Contact.Broadcast": {
+        "id": 36,
+        "seed_keywords": [
+            "announcement",
+            "announce"
+        ]
+    },
+    "Contact.Contact.Correspondence": {
+        "id": 37,
+        "seed_keywords": [
+            "remote communication",
+            "call"
+        ]
+    },
+    "Contact.Contact.Meet": {
+        "id": 38,
+        "seed_keywords": [
+            "meet"
+        ]
+    },
+    "Contact.Contact.Unspecified": {
+        "id": 39,
+        "seed_keywords": [
+            "communication",
+            "contact"
+        ]
+    },
+    "Contact.Discussion.Unspecified": {
+        "id": 40,
+        "seed_keywords": [
+            "discussion",
+            "conversation",
+            "discuss"
+        ]
+    },
+    "Contact.FuneralVigil.Unspecified": {
+        "id": 41,
+        "seed_keywords": [
+            "funeral"
+        ]
+    },
+    "Contact.Negotiate.Unspecified": {
+        "id": 42,
+        "seed_keywords": [
+            "negotiation",
+            "negotiate"
+        ]
+    },
+    "Contact.Prevarication.Unspecified": {
+        "id": 43,
+        "seed_keywords": [
+            "deception",
+            "prevarication",
+            "prevaricate",
+            "deceive"
+        ]
+    },
+    "Contact.PublicStatementInPerson.Unspecified": {
+        "id": 44,
+        "seed_keywords": [
+            "public statement"
+        ]
+    },
+    "Contact.RequestCommand.Unspecified": {
+        "id": 45,
+        "seed_keywords": [
+            "command"
+        ]
+    },
+    "Contact.ThreatenCoerce.Unspecified": {
+        "id": 46,
+        "seed_keywords": [
+            "coercion",
+            "coerce"
+        ]
+    },
+    "Control.ImpedeInterfereWith.Prevent": {
+        "id": 47,
+        "seed_keywords": [
+            "prevention",
+            "impede",
+            "interfere",
+            "prevent",
+            "curtail",
+            "prevention",
+            "prohibition",
+            "prohibit"
+        ]
+    },
+    "Disaster.Crash.Unspecified": {
+        "id": 48,
+        "seed_keywords": [
+            "car accident",
+            "crash"
+        ]
+    },
+    "Disaster.DiseaseOutbreak.Unspecified": {
+        "id": 49,
+        "seed_keywords": [
+            "pandemic",
+            "disease outbreak",
+            "break out",
+            "spread",
+            "transmissin"
+        ]
+    },
+    "Disaster.FireExplosion.Unspecified": {
+        "id": 50,
+        "seed_keywords": [
+            "explosion",
+            "explode"
+        ]
+    },
+    "GenericCrime.GenericCrime.GenericCrime": {
+        "id": 51,
+        "seed_keywords": [
+            "crime"
+        ]
+    },
+    "Government.Agreements.AcceptAgreementContractCeasefire": {
+        "id": 52,
+        "seed_keywords": [
+            "ceasefire"
+        ]
+    },
+    "Government.Agreements.Unspecified": {
+        "id": 53,
+        "seed_keywords": [
+            "agreement",
+            "deal.n"
+        ]
+    },
+    "Government.Agreements.RejectNullifyAgreementContractCeasefire": {
+        "id": 54,
+        "seed_keywords": [
+            "rejection",
+            "reject"
+        ]
+    },
+    "Government.Spy.Spy": {
+        "id": 55,
+        "seed_keywords": [
+            "espionage"
+        ]
+    },
+    "Government.Vote.CastVote": {
+        "id": 56,
+        "seed_keywords": [
+            "voting"
+        ]
+    },
+    "Life.Mutate.Unspecified": {
+        "id": 57,
+        "seed_keywords": [
+            "mutation",
+            "mutate",
+            "turn.v"
+        ]
+    },
+    "Life.Consume.Unspecified": {
+        "id": 58,
+        "seed_keywords": [
+            "ingest",
+            "intake",
+            "eat"
+        ]
+    },
+    "Life.Infect.Unspecified": {
+        "id": 59,
+        "seed_keywords": [
+            "infect",
+            "infection.n",
+            "expose",
+            "contract"
+        ]
+    },
+    "Medical.Intervention.Cure": {
+        "id": 60,
+        "seed_keywords": [
+            "remedy",
+            "cure",
+            "heal",
+            "recover"
+        ]
+    },
+    "Medical.Diagnosis.Unspecified": {
+        "id": 61,
+        "seed_keywords": [
+            "diagnosis",
+            "diagnose"
+        ]
+    },
+    "Medical.Intervention.Unspecified": {
+        "id": 62,
+        "seed_keywords": [
+            "treatment",
+            "treat.v",
+            "hospitalize"
+        ]
+    },
+    "Medical.Vaccinate.Unspecified": {
+        "id": 63,
+        "seed_keywords": [
+            "vaccination",
+            "vaccinate",
+            "dose",
+            "immunize",
+            "immunity"
+        ]
+    },
+    "Movement.Transportation.Evacuation": {
+        "id": 64,
+        "seed_keywords": [
+            "evacuation",
+            "evacuate"
+        ]
+    },
+    "Movement.Transportation.GrantAllowPassage": {
+        "id": 65,
+        "seed_keywords": [
+            "access"
+        ]
+    },
+    "Movement.Transportation.Unspecified": {
+        "id": 66,
+        "seed_keywords": [
+            "transport",
+            "travel"
+        ]
+    },
+    "Personnel.ChangePosition.Demotion": {
+        "id": 67,
+        "seed_keywords": [
+            "demotion",
+            "demote"
+        ]
+    },
+    "Personnel.ChangePosition.Promotion": {
+        "id": 68,
+        "seed_keywords": [
+            "promotion",
+            "promote"
+        ]
+    },
+    "Personnel.EndPosition.FiringLayoff": {
+        "id": 69,
+        "seed_keywords": [
+            "dismissal",
+            "dismiss",
+            "fire"
+        ]
+    },
+    "Personnel.EndPosition.QuitRetire": {
+        "id": 70,
+        "seed_keywords": [
+            "resignation",
+            "retire",
+            "resign"
+        ]
+    },
+    "Personnel.StartPosition.Hiring": {
+        "id": 71,
+        "seed_keywords": [
+            "recruitment",
+            "hire"
+        ]
+    },
+    "Transaction.AidBetweenGovernments.Unspecified": {
+        "id": 72,
+        "seed_keywords": [
+            "international aid",
+            "aid"
+        ]
+    },
+    "Transaction.Donation.Unspecified": {
+        "id": 73,
+        "seed_keywords": [
+            "gift",
+            "donate"
+        ]
+    },
+    "Transaction.ExchangeBuySell.Unspecified": {
+        "id": 74,
+        "seed_keywords": [
+            "exchange",
+            "buy",
+            "sell"
+        ]
+    },
+    "SocialBehavior.Clean.Sanitize": {
+        "id": 75,
+        "seed_keywords": [
+            "sterilize.v",
+            "sanitize.v",
+            "disinfect.v",
+            "uninfect.v"
+        ]
+    },
+    "SocialBehavior.Clean.Wash": {
+        "id": 76,
+        "seed_keywords": [
+            "wash"
+        ]
+    },
+    "SocialBehavior.ComplyObey.Unspecified": {
+        "id": 77,
+        "seed_keywords": [
+            "comply",
+            "adhere",
+            "conform",
+            "abide",
+            "obey",
+            "follow"
+        ]
+    },
+    "Cognitive.Research.Unspecified": {
+        "id": 78,
+        "seed_keywords": [
+            "research"
+        ]
+    },
+    "SocialBehavior.Wear.Unspecified": {
+        "id": 79,
+        "seed_keywords": [
+            "wear.v",
+            "put on"
+        ]
+    },
+    "ResponsibilityBlame.AssignBlame.AssignBlame": {
+        "id": 80,
+        "seed_keywords": [
+            "blame",
+            "assign"
+        ]
+    },
+    "SocialBehavior.Clean.Unspecified": {
+        "id": 81,
+        "seed_keywords": [
+            "clean"
+        ]
+    },
+    "Life.Illness.Unspecified": {
+        "id": 82,
+        "seed_keywords": [
+            "illness"
+        ]
+    },
+    "MHI.Disease.Disease": {
+        "id": 83,
+        "seed_keywords": [
+            "disease"
+        ]
+    },
+    "LAW.Referendum.Referendum": {
+        "id": 84,
+        "seed_keywords": [
+            "referendum"
+        ]
+    },
+    "MHI.SymptomPresentation.SymptomPresentation": {
+        "id": 85,
+        "seed_keywords": [
+            "symptom",
+            "cough",
+            "nausea"
+        ]
+    },
+    "Distribution": {
+        "id": 89,
+        "seed_keywords": [
+            "distribute",
+            "supply",
+            "medical supply"
+        ]
+    }
+}

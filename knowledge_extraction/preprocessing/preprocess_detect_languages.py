@@ -33,11 +33,12 @@ def get_lang_metadata(parent_child_tab_path):
     for one_line in f:
         one_line = one_line.strip()
         one_line_list = one_line.split('\t')
-        doc_id = one_line_list[child_column_idx]
-        lang_id = one_line_list[lang_column_idx]
-        if lang_id.lower() != 'n/a' and len(lang_id) == 3:
-            if lang_id in lang_id_mapping:
-                docid_to_lang = lang_id_mapping[lang_id]
+        if len(one_line_list) > child_column_idx and len(one_line_list) > lang_column_idx:
+            doc_id = one_line_list[child_column_idx]
+            lang_id = one_line_list[lang_column_idx]
+            if lang_id.lower() != 'n/a' and len(lang_id) == 3:
+                if lang_id in lang_id_mapping:
+                    docid_to_lang = lang_id_mapping[lang_id]
     return docid_to_lang
 
 
